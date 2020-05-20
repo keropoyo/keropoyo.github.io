@@ -1,0 +1,1227 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "喫煙スペースには紫煙が立ち込めていた。",
+      "高額備品扱いの分煙機も、チリチリという何だか電気のはぜるみたいな音がうるさいだけで、ちっとも役に立っているようには見えない。",
+      "どうしてこんな日当たりの悪い廊下の奥に、喫煙家が押し込まれなければならないのか？",
+      "…たばこの税収ってのは確か、自治体の税収の１割くらいはあるって聞いたことがあるような…。",
+      "私たちは地方自治体を支える高額納税者なんですから、もう少しいい待遇にはならんもんですかねぇ…。"
+    ],
+    "textEn": [
+      "The smoking room was filled with a cloud of cigarette smoke.",
+      "The expensive smoke filter gave off some crackling electric noise, but it didn't seem like it was doing anything at all.",
+      "Why do smokers have to be shoved so far down this corridor where the sun didn't even reach?",
+      "...I recalled hearing that the tax revenue from tobacco was about a tenth of the municipality's revenue...",
+      "We were the most heavily-taxed members of this municipality, so I really wished they'd show us a little more respect..."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「……うーん、どうしてこれが五萬切りなんすか？",
+      "待ちが狭くなっちゃうっすよ？」"
+    ],
+    "textEn": [
+      "\"...Hrm, why would you discard the 5 manzu there?",
+      "It's just decreasing your options.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "後輩の青年が麻雀雑誌の「次の一手」のコーナーとにらめっこをしている。"
+    ],
+    "textEn": [
+      "One of the younger detectives was having a staring contest with the Mahjong magazine called \"Next Turn.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "「五萬切ってもテンパイ崩れませんから。」"
+    ],
+    "textEn": [
+      "\"You're still in tenpai if you cut the 5 manzu.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「ハイテーに賭けるなら、両面で受けた方がチャンスあるんじゃないすか？」"
+    ],
+    "textEn": [
+      "\"If you're betting on a Haitei, then shouldn't you be going into it with a Mangan?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「熊ちゃん、河を見て下さい。",
+      "五萬は全員切ってますから安牌なんですよ。",
+      "終盤で形テンに走った誰かがダマで待ってたら嫌でしょ。」"
+    ],
+    "textEn": [
+      "\"Kuma-chan, look at the pond.",
+      "They all discarded a 5 manzu. It's a safe tile.",
+      "You'd hate if, at end game, someone was sitting on a tenpai on the last turn, wouldn't you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "青年はうーんと唸りながら、タバコを捻り、もう一本を取り出す。"
+    ],
+    "textEn": [
+      "The kid let out another groan, put out his cigarette, then took out another one."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「…納得いかないっすねぇ…。",
+      "わざわざ自分で当たり牌減らすなんて。」"
+    ],
+    "textEn": [
+      "\"...I just don't agree...",
+      "Why would you reduce your own options?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ちなみに、ハイテーで当たり牌出してもロンしちゃダメですよ。」"
+    ],
+    "textEn": [
+      "\"By the way, you can't call ron with your winning tile in that haitei.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「え？！　どうしてっすか？！」"
+    ],
+    "textEn": [
+      "\"What!? Why is that!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その時、廊下の向こうから声が聞こえてきた。"
+    ],
+    "textEn": [
+      "Just then, I heard a voice coming from down the hall."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「大石さん、いますかー？",
+      "一般の方から外線でーす。」"
+    ],
+    "textEn": [
+      "\"Are you here, Ooishi-san?",
+      "You have a call from a civilian.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ありゃ、こりゃどうも。それじゃ、ちょいと失礼！」"
+    ],
+    "textEn": [
+      "\"Whoa, ain't that something? Welp, see ya soon!\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「ど、どうしてロンしちゃダメなんすかぁ？！",
+      "あ、待ってくださいよ大石さぁん！」"
+    ],
+    "textEn": [
+      "\"W-Why can't you call ron on it!?",
+      "H-Hold on for a second, Ooishi-san!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石の向かいの席の男が受話器を振っている。"
+    ],
+    "textEn": [
+      "The man sitting in the seat Ooishi-san was heading towards waved at the telephone receiver."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「外線です。",
+      "公衆から。」"
+    ],
+    "textEn": [
+      "\"Outside line.",
+      "From a payphone.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あーどうもすみません！",
+      "……お待たせしました、大石です。",
+      "もしもし？」"
+    ],
+    "textEn": [
+      "\"Oh, why thank you!",
+      "...Sorry to keep you waiting, this is Ooishi.",
+      "Who is it?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お、大石さんですか？！",
+      "もしもし？！」"
+    ],
+    "textEn": [
+      "\"Ah, Ooishi-san!?",
+      "Hello!?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「前原さんじゃありませんか。",
+      "どうもどうもこんにちは…！」"
+    ],
+    "textEn": [
+      "\"If it isn't Maebara-san.",
+      "Why, good evening...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "前原くんの声色から、すぐに異常事態を察する。",
+      "…前原くんからこちらに電話をかけてくるのは初めて。",
+      "そしてかけてきたのは公衆電話。"
+    ],
+    "textEn": [
+      "From the tone Maebara-kun's voice, I already knew he was in a predicament.",
+      "...This was the first time Maebara-kun had phoned me.",
+      "And he was calling from a payphone."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「落ち着いて下さい。",
+      "何がありました？」"
+    ],
+    "textEn": [
+      "\"Please calm down.",
+      "Did something happen?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「えっと、",
+      "その、",
+      "……あぁぁ…ッ！！！」"
+    ],
+    "textEn": [
+      "\"Uh,",
+      "well",
+      "...Ahh...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "電話口の声は混乱し、完全に冷静さを失っていた。",
+      "他の連中に聞かれないか確認してから、受話器の口元をかばい小声で先を促す。"
+    ],
+    "textEn": [
+      "His voice was erratic over the line, he had completely lost his sense of composure.",
+      "After checking that nobody else could hear, I prompted him in a hushed tone."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「何があったんです？！」"
+    ],
+    "textEn": [
+      "\"What happened!?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁぁあぁあの…お、…ぉぉ……俺……、」"
+    ],
+    "textEn": [
+      "\"UhhhUhhm... I... I... I...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…落ち着いて前原さん！",
+      "今そこに近場の警官を行かせます。",
+      "私もすぐそっちに行きますよ！」"
+    ],
+    "textEn": [
+      "\"...Calm down, Maebara-san!",
+      "I can have the local officers head to your location.",
+      "I'll be there soon, too!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………あ、その",
+      "……",
+      "多分",
+      "……無理です。」"
+    ],
+    "textEn": [
+      "\"...Ah, um...",
+      "...",
+      "I think that's",
+      "...impossible.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "声に怯えと達観…。",
+      "……まさか、電話をかけながら、すでに何者かに囲まれている？！"
+    ],
+    "textEn": [
+      "His voice was quivering and hoarse...",
+      "...He wasn't surrounded by people even as he was making this call, was he!?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「前原さんは今、公衆電話からかけてますよね？",
+      "どこの公衆電話ですか？！」"
+    ],
+    "textEn": [
+      "\"Maebara-san, you're calling from a payphone right now, right?",
+      "Where is that payphone!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "前原くんの声以外の環境音がまったくない。",
+      "電話ボックスからか。",
+      "メモに殴り書きをし、対面の同僚に突きつける。",
+      "（ヒナミザワ、デンワボックス！！）",
+      "同僚がすぐに事態を呑み込み、慌しく内線を回す。"
+    ],
+    "textEn": [
+      "There were no other sounds besides Maebara-kun's voice.",
+      "It had to be a phone booth.",
+      "I scratched out a note and thrust it at my colleague sitting across from me.",
+      "(Hinamizawa, phone booth!!)",
+      "He understood quickly and hastily started on the internal lines."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…落ち着いて前原さん！",
+      "今はどういう状況なんです…？！」"
+    ],
+    "textEn": [
+      "\"...Calm down, Maebara-san!",
+      "What is your current situation...!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "混乱した相手に余計あおるような言い方はよくないのだが…、今回はそういうケースじゃない。",
+      "…前原くんは危機に襲われ、逃げて電話をかけてるんじゃない。",
+      "……今この瞬間も何らかの危機にさらされている…！",
+      "だが…こっちがまくしたてたって、前原くんは余計に焦るだけなのだ。",
+      "前原くんは助けを求めるためだけに電話をしてきたんじゃない。",
+      "…それ以上の何かを伝えたくて電話をしてきてるのだ。",
+      "そしてその何かは、",
+      "……この電話の機会を逃すと、もう二度と伝えられないという確信に基づいている…！",
+      "同僚がメモを回してきた。",
+      "（雛見沢にボックスは１ヶ所。",
+      "パトを向かわせました。",
+      "５分です。）"
+    ],
+    "textEn": [
+      "It was best practice to avoid flustering someone panicking... but this was an urgent case.",
+      "...Maebara-kun didn't just get in trouble, get away, and then call me.",
+      "...He was in the midst of something dangerous right now...!",
+      "But... yelling at Maebara-kun right now would just needlessly cause him to be even more frantic.",
+      "Maebara-kun wasn't just calling to seek help.",
+      "...He was trying to tell us something more than that.",
+      "And whatever that was...",
+      "If I didn't get it from this call, I was certain there would never be another chance...!",
+      "My colleague pushed a note in front of me.",
+      "(There's only one booth in Hinamizawa.",
+      "A patrol car is on the way.",
+      "Five minutes.)"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「かかり過ぎです。",
+      "警邏には何人乗ってます？」"
+    ],
+    "textEn": [
+      "\"That's too long.",
+      "How many officers are in there?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「２人です。」"
+    ],
+    "textEn": [
+      "\"Two.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "足りない。",
+      "……もしも私の想像通りなら…前原くんは多人数に囲まれている。",
+      "それに５分じゃ遅すぎる！"
+    ],
+    "textEn": [
+      "Not enough.",
+      "...If it was as I imagined... there were likely quite a few people surrounding Maebara-kun.",
+      "Five minutes was too long!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「雛見沢の駐在さんには電話しました？！」"
+    ],
+    "textEn": [
+      "\"Did you call the officer stationed in Hinamizawa!?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「定時巡回の時間です。",
+      "家人は留守で連絡不能。」"
+    ],
+    "textEn": [
+      "\"He's scheduled to be on patrol.",
+      "They're currently out, and it'll be impossible to contact them.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「くそッ！！",
+      "熊ちゃん、車を回して下さい。」"
+    ],
+    "textEn": [
+      "\"God damn!",
+      "Kuma-chan, bring the car around.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「了解っす！！！」"
+    ],
+    "textEn": [
+      "\"Understood!!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…もしもし？",
+      "大石さん…？",
+      "ごほっごぼッ！！」"
+    ],
+    "textEn": [
+      "\"...Hello?",
+      "Ooishi-san...?",
+      "*Cough cough*!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「もしもし！",
+      "大丈夫です。",
+      "ちゃんと聞こえてますよ！」"
+    ],
+    "textEn": [
+      "\"Hello!",
+      "It's all right.",
+      "I can hear you loud and clear!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "前原くんの様子がおかしい…。",
+      "今の咳の音は普通じゃない。",
+      "……嘔吐？",
+      "それともまさか…血？！",
+      "すでに襲われ負傷している？！"
+    ],
+    "textEn": [
+      "There was something wrong with Maebara-kun...",
+      "That wasn't a normal coughing sound.",
+      "...Vomiting?",
+      "Or was it... blood!?",
+      "Had he already been attacked!? Was he injured!?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「前原さん、今そこに警官が向かってます。",
+      "２〜３分で到着しますから何とか持ちこたえて下さい！",
+      "もしもし？！",
+      "聞こえてますか？！",
+      "前原さん？！」"
+    ],
+    "textEn": [
+      "\"Maebara-san, the police are on their way.",
+      "They'll be there in a couple of minutes, so hold on somehow!",
+      "Hello!?",
+      "Can you hear me!?",
+      "Maebara-san!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "受話器の向こうで咳き込むのが聞こえた。",
+      "……脳裏に最悪の予感が過ぎる。"
+    ],
+    "textEn": [
+      "I could hear on the other end of the line that he was having a coughing fit.",
+      "...The worst possible situation popped into my head."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「前原さん！！",
+      "犯人は誰です？！",
+      "何人なんですッ？！」"
+    ],
+    "textEn": [
+      "\"Maebara-san!!",
+      "Who is the culprit!?",
+      "How many are there!?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……お、",
+      "…俺も",
+      "……最初はニンゲンが犯人なんだと思いまし……",
+      "げぼッ！！」"
+    ],
+    "textEn": [
+      "\"...I...",
+      "I thought...",
+      "at first the culprit was human...",
+      "*hack*!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "咳とも嘔吐ともつかない呻き。"
+    ],
+    "textEn": [
+      "I couldn't tell if that was a cough or vomiting."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「大丈夫ですか！！　前原さん！！」"
+    ],
+    "textEn": [
+      "\"Are you all right!? Maebara-san!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「犯人はニンゲンなんだって、",
+      "オヤシロさまの祟りなんかないんだって、",
+      "そう思ってました…。",
+      "ついさっきまで。",
+      "……だけど",
+      "……",
+      "やっぱり…、",
+      "げほげほ…ッ！！」"
+    ],
+    "textEn": [
+      "\"I thought that",
+      "the culprit was a person",
+      "and not Oyashiro-sama's curse...",
+      "Up until right now.",
+      "But...",
+      "...",
+      "I guess... in the end...",
+      "*hack hack*...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "激しい咳。",
+      "それに続いて嘔吐。"
+    ],
+    "textEn": [
+      "It was an intense bout of coughing.",
+      "Then vomiting."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……でも",
+      "…やっぱり",
+      "…オヤシロさまってのは",
+      "……いるんだと思います……。",
+      "いや、います。",
+      "今。」"
+    ],
+    "textEn": [
+      "\"...But...",
+      "I guess...",
+      "Oyashiro-sama",
+      "does exist...",
+      "No, he's...",
+      "here.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「前原さん、どうか、どうか落ち着いて…、」"
+    ],
+    "textEn": [
+      "\"Maebara-san, please, just please calm down...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なんかさっきからおかしいと思ってたんです…。",
+      "ずーっとつけてくるんですよ…！！"
+    ],
+    "textEn": [
+      "\"I had been thinking it was strange for a while now...",
+      "It's been following me this whole time...!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "走っても走っても、走っても走っても…！！！",
+      "影みたいにぴったりくっついて！！",
+      "だけども少しずつ…少しずつ…。",
+      "俺の背中ににじり寄ってくるんです……。」"
+    ],
+    "textEn": [
+      "I run and run and run and run...!!!",
+      "But it just sticks to me like my shadow!!",
+      "But slowly... so slowly...",
+      "It's digging itself into my back...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……前原さん、",
+      "…そいつは",
+      "………今",
+      "、ひょっとして…、",
+      "………前原さんの…後ろに？」"
+    ],
+    "textEn": [
+      "\"...Maebara-san...",
+      "Are they...",
+      "right now...",
+      "perhaps...",
+      "right behind you...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………後ろに。",
+      "……すぐ、……後ろに………。」"
+    ],
+    "textEn": [
+      "\"...Behind me.",
+      "Right... behind me...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「お願いです前原さん。",
+      "……怖いのはわかります。",
+      "ですがお願いです！！",
+      "……あなたの後ろに……誰がいるんですッ？！」"
+    ],
+    "textEn": [
+      "\"Please, Maebara-san...",
+      "I can tell you're scared.",
+      "But please!!",
+      "...Who is it... that's right behind you!?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「振り向けるわけ…ないじゃないですか…。",
+      "振り向いたら……俺",
+      "……俺…、」"
+    ],
+    "textEn": [
+      "\"I can't just... look behind me...",
+      "If I do... I'll...",
+      "I'll...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「怖いのはわかります！！",
+      "でも教えて欲しい！！",
+      "ちょっと振り返るだけでいいんです！！",
+      "前原さんの後ろに……",
+      "誰がいるんですッ？！？！」"
+    ],
+    "textEn": [
+      "\"I understand that you're scared!!",
+      "But please tell me!!",
+      "You just need to turn around a bit!!",
+      "Who is it...?",
+      "Who is behind you, Maebara-san!?!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "直後に激しい嘔吐が聞こえる。",
+      "それから何か嫌な音。"
+    ],
+    "textEn": [
+      "Right after I said that, I could hear him vomiting intensely.",
+      "What followed was a nightmarish sound."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…前原さん、",
+      "……あんたまさか、",
+      "…喉を引っ掻いてたりは…しないでしょうね…？」"
+    ],
+    "textEn": [
+      "\"...Maebara-san...",
+      "It couldn't be that you're...",
+      "clawing out... your own throat...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "返事はない。",
+      "…ばりばりと…掻きむしるような音……。",
+      "ガタンガシャン！　とぶつかり合う音がした。",
+      "…前原くんが受話器を落としたのだろう。",
+      "電話の向こうからは唸りと嘔吐、そして繰り返される……異音。"
+    ],
+    "textEn": [
+      "There was no answer.",
+      "But... I could hear something like scratching...",
+      "There was a bang, as if something was being hit!",
+      "...Maebara-kun had probably dropped the receiver.",
+      "I could hear groaning and vomiting over on the other end, and a repeating... abnormal noise."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「もしもし！",
+      "もしもし？！",
+      "前原さん？！",
+      "もしもーしッ？！？！」"
+    ],
+    "textEn": [
+      "\"Hello?",
+      "Hello!?",
+      "Maebara-san!?",
+      "Helloooo!?!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "離された受話器の声がどんなに遠いかよくわかってる。",
+      "でも…叫ばずにはいられないのだ。",
+      "その時、受話器の向こうから…つぶやきが聞こえた。",
+      "何を言っているのかはわからない。",
+      "……口調からして…独り言？",
+      "それとも…そこにいる誰かに言っているのか？"
+    ],
+    "textEn": [
+      "I knew how far away my voice would sound on the other end.",
+      "But... I couldn't help but shout.",
+      "At that moment, I heard whispering... coming from the other end.",
+      "I couldn't tell what he was saying.",
+      "...From the way he was saying it, was he... talking to himself?",
+      "Or was he... talking to someone there?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「もしもし…？",
+      "………………………前原…さん…？」"
+    ],
+    "textEn": [
+      "\"Hello...?",
+      "...Maebara...san...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それはつぶやきというより……お経みたいな、単調な何かの繰り返しだった。",
+      "その何かを聞き取ろうと…神経を研ぎ澄ます…。",
+      "何を繰り返してるんだ彼は……。",
+      "一体……何を………！！！",
+      "ぶつん！",
+      "あまりに唐突に切れた。",
+      "……１０円が切れたのか？！",
+      "公衆電話だったから…！！"
+    ],
+    "textEn": [
+      "Rather than whispering... it was some kind of mantra he was chanting over and over.",
+      "I focused my senses... trying to pick up what he was saying...",
+      "What was he repeating...?",
+      "What... exactly...!?",
+      "Beep!",
+      "Suddenly, the line went dead.",
+      "Did he use up his time...!?",
+      "It was because it was a payphone...!!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…………あ。」"
+    ],
+    "textEn": [
+      "\"...Ah.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "唐突に切られたから。",
+      "…むしろ最後の一言は鮮明に脳裏に戻った。"
+    ],
+    "textEn": [
+      "It was because it cut out so abruptly...",
+      "The last thing he said came out so clearly in my mind."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「大石さん、車はＯＫっす！！！",
+      "大石さん…？！」"
+    ],
+    "textEn": [
+      "\"Ooishi-san, the car is good to go!!!",
+      "Ooishi-san...!?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……ごめんなさい、だ。」"
+    ],
+    "textEn": [
+      "\"...It was... I'm sorry.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「大石さん……？？」"
+    ],
+    "textEn": [
+      "\"Ooishi-san...??\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "前原くんはずっと繰り返してたんだ。",
+      "…ごめんなさい、って………。",
+      "その時、直感した。",
+      "…………もう、そんなに急ぐことがないことに。",
+      "……その時、開け放たれた窓の向こうから…ひぐらしの声が聞こえてきた。",
+      "カナカナカナカナカナ……。",
+      "ずっと聞こえていたはずだった。",
+      "…特に気にも留めず。",
+      "どうして今になって急に気になったのか。",
+      "カナカナカナカナカナ……。",
+      "何か、伝えようとしている？",
+      "ひぐらしだけが知っている。",
+      "……そんな気がした。",
+      "昭和５８年６月。",
+      "某県鹿骨市の寒村、雛見沢で女子生徒殺人事件が起こった。",
+      "容疑者は、前原圭一（１Ｘ歳）",
+      "容疑者は自宅にクラスメートの女子２名",
+      "（竜宮礼奈・園崎魅音）を呼び寄せ、金属バットで撲殺。",
+      "犯行現場は自宅２階の容疑者の自室だった。",
+      "室内は凄まじい返り血に彩られ、被害者ともみ合った形跡が認められた。",
+      "また、犯行現場とは別に、玄関、居間、台所でも荒らされた形跡が認められた。",
+      "玄関では、靴箱と壁に激しい打撲の痕跡。",
+      "凶器のバットによるものと断定。",
+      "痕跡に血液反応が出なかったことから、犯行以前に破壊したものと推定。",
+      "被害者の逃走を阻止するため、容疑者が威圧行為を行なった可能性がある。",
+      "居間では絨毯が剥がされ、投げ捨てられていた。",
+      "これは被害者ともみ合った際のものとは考え難く、その真意は不明。",
+      "台所ではゴミ袋が破かれ、その中身が床にばら撒かれていた。",
+      "ゴミは周囲に飛散し、容疑者のものと思われる手形も発見された。",
+      "容疑者は何らかの理由でゴミを出し、それを掌で叩いたものと考えられる。",
+      "その真意は不明。",
+      "また、冷蔵庫に貼り付けられていたメモには「針がなかった？」と記されていた。",
+      "意味不明。",
+      "念のためゴミを探すが、針は発見できなかった。",
+      "荒らされてはいなかったが、引越し以来、開放したままになっているガレージのシャッターが閉じられていた。",
+      "シャッターからは容疑者の指紋を検出。",
+      "その真意は不明。",
+      "容疑者は犯行現場から逃走したが、",
+      "警邏中の警察官（雛見沢駐在所）が電話ボックス内で倒れているのを発見する。",
+      "発見時、容疑者は意識不明の重体。",
+      "直ちに村内の診療所に搬送し手当てをしたが、意識は戻らず２４時間後に死亡した。",
+      "検死の結果、直接の死因は出血性ショック死。",
+      "自らの爪で喉を引き裂き、その結果の出血で死に至ったと断定した。",
+      "先週に発生した富竹氏事件の異常な死に方との酷似に、警察は関連性があるものとして捜査を開始する。",
+      "（ただし、地元からの強い要望により非公開捜査）",
+      "異常な死に方に何らかの薬物の使用を疑うが、富竹氏事件と同様に一切検出されない。",
+      "当初はあまりの不可解さに、衝動的な突発的犯行と断定していた。",
+      "だが、容疑者の犯行直前までの奇行が次々と露呈するに従い、その方針は変更されることとなる。",
+      "親しかったグループとの離縁。孤立。意味不明の言動。",
+      "犯行の数日前からは金属バットを持ち歩くようになっていた。",
+      "攻撃的な言動、独り言は学校でもしばしば見られ、クラスメートが実際にその一部を聞いている。",
+      "犯行の前々日には、両親に自らの死をほのめかす発言もしていた。",
+      "警察は、これらの状況から、この事件が突発的なものでなく、数日前から予定された計画的犯行の可能性があるとして捜査を開始する。",
+      "その後、",
+      "容疑者の自室から直筆のメモが発見された。",
+      "メモはＢ５の大学ノートを半分に裂いたもの２枚で構成され、",
+      "まるで隠蔽するかのように、",
+      "壁時計の裏に貼られ、隠されていた。",
+      "内容は別添の通り。",
+      "警察は事件と密接に関係するものとして重視。",
+      "容疑者が、何らかの事件に巻き込まれていた可能性があるとして再び捜査方針を転換した。",
+      "だが、その後なんの手がかりも掴めず、メモそのものの信憑性も疑われるようになる。",
+      "この事件は突発的なものなのか、計画的なものなのか。",
+      "真相もわからず進展もなく、事件は文字通り迷宮入りの様相となった。",
+      "だが……後年。",
+      "そのメモにひとつの不審が浮上した。",
+      "２枚のメモは、Ｂ５のページを半分にしたものが１枚ずつではなく…。",
+      "元はＢ５の１ページに書かれたものを…何者かが、",
+      "“真ん中の数行を削除するために”",
+      "破り捨てたのではないか…というのだ。",
+      "文字の大きさと、破かれた部分から推定して、削除されたのは２〜３行。",
+      "削除した人物は容疑者以外である可能性が高い。",
+      "また、時計裏に付着していた大量のセロテープ跡から、",
+      "“メモ以外にも何かが貼り付けられていたのではないか”との憶測も出た。",
+      "第一発見者は、かねてから事件との関係を噂される疑惑の刑事。大石蔵人。",
+      "任意で事情聴取をしたが、メモの破損については否定する………。",
+      "容疑者のメモ",
+      "私、前原圭一は命を狙われています",
+      "なぜ、誰に、命を狙われているのかはわかりません。",
+      "ただひとつ判る事は、オヤシロさまの祟りと関係があるということです。",
+      "レナと魅音は犯人の一味。",
+      "他にも大人が４〜５人以上。",
+      "白いワゴン車を所有。",
+      "（ここまでが１枚目。ここから下は真横に破られている。）",
+      "（ここからが２枚目。ここから上が真横に破られている。）",
+      "どうしてこんなことになったのか、私にはわかりません。",
+      "これをあなたが読んだなら、その時、私は死んでいるでしょう。",
+      "…死体があるか、ないかの違いはあるでしょうが。",
+      "これを読んだあなた。どうか真相を暴いてください。",
+      "それだけが私の望みです。",
+      "前原圭一"
+    ],
+    "textEn": [
+      "That's what he was repeating over and over.",
+      "...He said, \"I'm sorry\"...",
+      "I had a gut feeling...",
+      "There was no longer a need to hurry.",
+      "...I could hear the chirp of the higurashi... spilling in from the open window.",
+      "Kwee, kwee, kwee, kwee, kwee...",
+      "I should have been able to hear them this entire time...",
+      "I just wasn't paying any attention.",
+      "Why did I focus on them all of a sudden?",
+      "Kwee, kwee, kwee, kwee, kwee...",
+      "Were they trying to tell me something?",
+      "Only the higurashi knew.",
+      "...That's how I felt.",
+      "June, 1983",
+      "In Hinamizawa, a remote village near Shishibone city, there was a murder involving two female students.",
+      "The suspect is: Keiichi Maebara (Aged 1x)",
+      "The suspect called over his two female classmates",
+      "(Rena Ryuugu, Mion Sonozaki) to his house, and beat them to death with a metal bat.",
+      "The scene of the crime was the suspect's room on the second floor of his house.",
+      "The inside of the room was covered with a significant quantity of splattered blood, and there were signs of a struggle with the victims.",
+      "In addition to the scene of the crime, the entryway, living room, and kitchen, all had traces of a struggle.",
+      "At the entryway, the shoe rack and wall had evidence of being impacted by a strong blunt force.",
+      "It is believed to have been the same bat as the murder weapon.",
+      "Having no traces of blood, it is believed the destruction occurred before the murders.",
+      "There is the possibility that the suspect overpowered his victims to keep them from fleeing.",
+      "In the living room, the rug had been pulled back, then thrown aside.",
+      "It is hard to believe that this had a connection to the struggle with the victims, and thus the reason for this remains unknown.",
+      "In the kitchen, the garbage bag was torn apart, and its contents were spread out on the floor.",
+      "Garbage was strewn about in the surrounding area, and handprints believed to belong to the suspect were discovered.",
+      "It is believed that the suspect had for some reason taken out the garbage and struck it with his fists.",
+      "The reason for this remains unknown.",
+      "In addition, there was a note stuck to the fridge. The words \"Was there a needle?\" were written on it.",
+      "The meaning behind this remains unclear.",
+      "Just in case, the garbage was searched, but a needle was not discovered.",
+      "Though the garage door was functional, it had been left open ever since the suspect moved in. The garage door was found closed.",
+      "The suspect's fingerprints were discovered on the garage door.",
+      "The reason behind this remains unknown.",
+      "The suspect fled the scene of the crime.",
+      "However, a patrolling officer (Hinamizawa Local PD) found the suspect collapsed inside a phone booth.",
+      "At the time of discovery, the suspect was unconscious in critical condition.",
+      "He was rushed to the local hospital for treatment, but did not regain consciousness and died 24 hours later.",
+      "The results of the autopsy indicate the immediate cause of death to have been hypovolemic shock.",
+      "It was determined that the suspect had clawed at his own throat with his fingernails, and the resulting bleeding caused his death.",
+      "With the similarity to the death of Tomitake-san the prior week, the police believe there to be a connection and have opened an investigation.",
+      "(However, due to the wishes of the local authorities, it will be a confidential investigation.)",
+      "Due to the abnormal nature of the death, it was suspected that drugs were involved. But as with Tomitake-san, no traces were discovered.",
+      "What prompted all this remains inexplicable. As such, this case is being treated as an act committed on impulse.",
+      "However, with several accounts of the suspect's bizarre behavior leading up to the incident, it is possible that this was premeditated.",
+      "Separated from his group of friends. Isolation. Inexplicable behavior.",
+      "Several days before the incident, the suspect began carrying around a metal bat.",
+      "The suspect was observed displaying aggressive behavior, as well as talking to himself at school. His classmates have actually heard portions of what he was saying.",
+      "Two days before the incident, the suspect declared to his parents the possibility of his death.",
+      "Due to these circumstances, the police have begun an investigation on the possibility that this crime was not committed on impulse, but was instead planned several days in advance.",
+      "Afterwards...",
+      "A note was found in the suspect's room that he had written himself.",
+      "The note was written on two sheets from a B5 college-ruled notebook that had each been torn in half.",
+      "And as if trying to conceal it",
+      "was stuck hidden behind a clock on the wall.",
+      "The contents are as written in the appendix.",
+      "The police believe it to be strongly related to the incident.",
+      "The police changed their line of investigation based on the possibility that the suspect was involved in some sort of incident himself.",
+      "However, no further clues were found, casting doubt on the credibility of the note.",
+      "Was the crime impulsive or premeditated?",
+      "With the situation unclear and no further developments, the case has been labeled as 'Unresolved.'",
+      "However... the following year,",
+      "suspicion arose regarding the nature of the note.",
+      "The note was not written on two halves of B5 paper from two separate sheets...",
+      "but was originally a single sheet of B5 paper.",
+      "In order to erase several lines from the middle, someone had...",
+      "torn them out.",
+      "Judging from the size of the letters, the missing section is estimated to be 2-3 lines.",
+      "It is highly probable that the person who eliminated the lines in question is not the suspect.",
+      "In addition, judging from traces of large quantities of cellophane tape being stuck to the back of the clock,",
+      "speculation that something other than the note was stuck there, has arisen.",
+      "The person who first discovered the crime was a detective rumored to have a connection with the incident: Kuraudo Ooishi.",
+      "He underwent voluntary questioning, but denies involvement in any damages to the note.",
+      "The suspect's note:",
+      "I, Keiichi Maebara, am in fear for my life.",
+      "I do not know why they are after my life.",
+      "The only thing I do know is that it has to do with Oyashiro-sama's curse.",
+      "Rena and Mion are conspirators of the perpetrators.",
+      "There are four or five adults, maybe more.",
+      "They have a white van.",
+      "(This is all on the first sheet. The section below this has been ripped out.)",
+      "(This is from the second sheet. The section above this has been ripped out.)",
+      "I have no idea why it has become like this.",
+      "If you are reading this, then I am probably already dead.",
+      "...Though you may or may not find my body.",
+      "You, who are reading this. Please uncover the truth.",
+      "That is my only desire.",
+      "Keiichi Maebara"
+    ]
+  }
+]

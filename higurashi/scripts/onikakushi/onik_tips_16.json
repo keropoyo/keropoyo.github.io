@@ -1,0 +1,231 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「単刀直入に…自殺させる薬ってないんですか？」"
+    ],
+    "textEn": [
+      "\"Let's cut to the chase... is there a drug that causes someone to kill themselves?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Forensic Investigator",
+    "labelJp": "鑑識",
+    "textJp": [
+      "「直接的にはない。」"
+    ],
+    "textEn": [
+      "\"Not directly, no.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「遠回しですねぇ。",
+      "…では間接的にはあるってことですか？」"
+    ],
+    "textEn": [
+      "\"That's quite a roundabout response.",
+      "You mean that there's one that does it indirectly?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Forensic Investigator",
+    "labelJp": "鑑識",
+    "textJp": [
+      "「自殺したくなる精神状態を誘発することはできる、",
+      "っちゅうことだ。」"
+    ],
+    "textEn": [
+      "\"It's possible to induce a suicidal mental state,",
+      "is what I mean.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…難しい言い方になりましたねぇ。",
+      "何ですかその、自殺したくなる精神状態ってのは。」"
+    ],
+    "textEn": [
+      "\"...That's hard to say.",
+      "What would 'a suicidal mental state' be?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "躁鬱（そううつ）病というのは鬱（うつ）病とは異なる。",
+      "鬱病は鬱状態という非常にネガティブな精神状態のみを引き起こすが、",
+      "躁鬱病は、このネガティブな鬱状態と交互に、非常にアクティブな躁状態を引き起こす。"
+    ],
+    "textEn": [
+      "Clinical depression and bipolar disorder are different.",
+      "Clinical depression indicates a prolonged state of depression,",
+      "whereas bipolar disorder is characterized by a passive depressed state accompanied by a very active manic state."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「つまり、薬によらなくても異常な精神状態に陥る可能性があると。」"
+    ],
+    "textEn": [
+      "\"Basically, even without a drug, one can succumb to an irregular mental state.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Forensic Investigator",
+    "labelJp": "鑑識",
+    "textJp": [
+      "「仏は犯人に囲まれて命に危険が迫っとったんじゃろ？"
+    ],
+    "textEn": [
+      "\"The deceased was surrounded after being chased, and his life was in danger, right?"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Forensic Investigator",
+    "labelJp": "鑑識",
+    "textJp": [
+      "極度の緊張が続いて、それに分泌異常が重なって、さらに打ち所が悪くて脳に障害が起こり自虐行動に走った…可能性もあるかもしれんの。」"
+    ],
+    "textEn": [
+      "All that stress could have messed with his brain chemistry, he could have hit his head, and those factors combined might have caused him to mutilate himself. It's a possibility.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……………もうちょっと省略して言ってくれませんかねぇ…。」"
+    ],
+    "textEn": [
+      "\"...Could you explain it to me in simpler terms...?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっはっはっはっは！！！",
+      "じゃあホシには殺意はなかったってことですかねぇ。",
+      "ちょいと小銭を巻き上げようと殴ったら、たまたま殴り所が悪かったと！」"
+    ],
+    "textEn": [
+      "\"Nahahahahahahah!!!",
+      "Guess this means the assailants didn't have any intent to kill.",
+      "They smacked him hoping to nick some change, and just happened to hit a bad place!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "でっぷりした中年が二人してげらげらと下品に笑い合う。"
+    ],
+    "textEn": [
+      "The two plump men laughed hoarsely."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「………なんてわけはありませんねぇ。」"
+    ],
+    "textEn": [
+      "\"...But of course, it's not like that.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Forensic Investigator",
+    "labelJp": "鑑識",
+    "textJp": [
+      "「こほん。",
+      "…いかにも。」"
+    ],
+    "textEn": [
+      "\"Ahem.",
+      "Undoubtedly...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Forensic Investigator",
+    "labelJp": "鑑識",
+    "textJp": [
+      "「薬物の常用にせよ、精神的なものにせよ、仏の身元がカギを握っとるぞい。",
+      "そっちはどうなっとるんじゃ？」"
+    ],
+    "textEn": [
+      "\"Whether it was habitual drug use, or something mental, the deceased's background holds the key.",
+      "How's your investigation going?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ありゃぁこんな時間！",
+      "そろそろ戻らないと熊ちゃん、怒っちゃいますねぇ。」"
+    ],
+    "textEn": [
+      "\"Oh my goodness, look at the time!",
+      "I need to get back soon or Kuma-chan will get angry with me.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Forensic Investigator",
+    "labelJp": "鑑識",
+    "textJp": [
+      "「おう！",
+      "頑張れよ！",
+      "いいお年をの！」"
+    ],
+    "textEn": [
+      "\"Yeah!",
+      "Good luck!",
+      "Best wishes!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いいお年を！」"
+    ],
+    "textEn": [
+      "\"Best wishes!\""
+    ]
+  }
+]

@@ -1,0 +1,3461 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そりゃーレナに直接聞けばいいじゃん？",
+      "どーせ「だってかぁいいんだもん☆」しか言わないだろうけどさ。」"
+    ],
+    "textEn": [
+      "\"Probably better to hear it from Rena, don't you think?",
+      "She'll probably just say, 'because it's just so kyute☆' though.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナはよくあそこ…工事現場のとこへ宝探しに行くのか？」"
+    ],
+    "textEn": [
+      "\"Does Rena often... go to the construction site to hunt for treasure?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…ちょくちょく見に行くって言ってましたです。」"
+    ],
+    "textEn": [
+      "\"...Every now and then she says she's going to have a look.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「しかし…年頃の女の子がゴミ漁りねぇ…。」"
+    ],
+    "textEn": [
+      "\"But... a girl her age rummaging around in garbage is, well...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…レナが楽しいなら、いいんだと思いますです。」"
+    ],
+    "textEn": [
+      "\"...If Rena enjoys it, then I think it's fine.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あそこは何だよ。",
+      "ダムの工事現場だったのか？」"
+    ],
+    "textEn": [
+      "\"What were they doing over there?",
+      "Dam construction?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは、言ってみれば昨夜から引っ掛かっている魚の小骨みたいなものだった。"
+    ],
+    "textEn": [
+      "It had been bugging me since yesterday, like an itch I couldn't scratch."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ははは！　何年か前に中止になっちゃったけどね。」"
+    ],
+    "textEn": [
+      "\"Hahaha! It was cancelled a long time ago.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…みんなで力を合わせて、戦いましたです。」"
+    ],
+    "textEn": [
+      "\"...Everyone gathered together and fought against it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんの口から戦うなんて物騒な言葉が出るとは思わず、驚いた。"
+    ],
+    "textEn": [
+      "Hearing an ominous word like \"fought\" come from Rika-chan's mouth startled me."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そうそう！",
+      "何しろとんでもない話だったんだよ！",
+      "雛見沢が丸ごとダム湖に沈むことに、一方的になってさ！」"
+    ],
+    "textEn": [
+      "\"That's right!",
+      "It was unbelievable!",
+      "They said Hinamizawa would be sunk into the reservoir and we had no say in the matter!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "で、今ここに俺たちがいる、ってことはその抵抗運動が実ったわけだ。"
+    ],
+    "textEn": [
+      "So, I'm only able to be here because the protest succeeded."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ごめんねごめんね！",
+      "待たせちゃったかな？…かな？」"
+    ],
+    "textEn": [
+      "\"I'm sorry, I'm sorry!",
+      "I didn't keep you, did I? ...Did I?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「申し訳ありませんわね圭一さん。お化粧直しに時間をかけちゃいまして！」"
+    ],
+    "textEn": [
+      "\"My deepest apologies, Keiichi-san. It took me a while to powder my nose!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「沙都子。",
+      "便所には溜めてから行け。",
+      "一気に出せて楽で早いぞ。」"
+    ],
+    "textEn": [
+      "\"Satoko.",
+      "Wait to use the can until you really have to go.",
+      "It's a lot easier since it shoots right out.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「きゃ…",
+      "…",
+      "きゃ…、花も恥らう乙女になんて口の聞き方〜ッ？！？！」"
+    ],
+    "textEn": [
+      "\"Eek...",
+      "...",
+      "Eek... How dare you speak that way to a maiden of unparalleled beauty such as myself!?!?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "だれが乙女だよ。",
+      "沙都子が乙女なら絶対にしないリアクションで返してくる。",
+      "あとはいつものノリだった。"
+    ],
+    "textEn": [
+      "Who was she calling a maiden?",
+      "If Satoko really was a maiden, she wouldn't have reacted like that.",
+      "The usual hijinx ensued."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「さてと。",
+      "今日は会則に則り、部員の諸君に是非を問いたい！",
+      "彼、前原圭一くんを新たな部員として我らの部活動に加えたいのだが…いかがだろうか！！」"
+    ],
+    "textEn": [
+      "\"Now, then.",
+      "Gentlemen. In accordance with the rules of our society, I bring a point to discussion!",
+      "He, Keiichi Maebara-kun, wishes to be included as a member in our activities... What say you!?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「レナは異議な〜し！」"
+    ],
+    "textEn": [
+      "\"Rena has no objection!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「をっほっほっほ！",
+      "貧民風情が私の相手を務められるかしら！」"
+    ],
+    "textEn": [
+      "\"Ohohoho!",
+      "I wonder if the likes of this peasant is up to the task.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…ボクも沙都子も賛成しますですよ。」"
+    ],
+    "textEn": [
+      "\"...Me and Satoko both approve.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の問いかけに三人は賛成を示す。"
+    ],
+    "textEn": [
+      "The three that Mion had queried voiced their approval."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「全会一致！　おめでとう前原圭一くん。",
+      "君に栄えある我が部への入部試験を許可する！」"
+    ],
+    "textEn": [
+      "\"A unanimous decision! Congratulations, Keiichi Maebara-kun.",
+      "I present you the honor of being allowed to take the entrance exam for our club!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「順を追って説明しろ！",
+      "俺はまだ入るとは言ってないぞ！",
+      "何の部活だ？」"
+    ],
+    "textEn": [
+      "\"Start from the beginning!",
+      "I didn't say I would join!",
+      "What club is this?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「我が部はだな、複雑化する社会に対応するため、活動毎に提案されるさまざまな条件下、",
+      "…時には順境。"
+    ],
+    "textEn": [
+      "\"What our club does, you see... In order to cope with our complicated society, we perform various activities under different sets of rules.",
+      "...Sometimes they are in your favor."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "あるいは逆境からいかにして…！！」"
+    ],
+    "textEn": [
+      "And sometimes they work against you...!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…レナは弱いから…いじめないでほしいな。仲良くやろうね。」"
+    ],
+    "textEn": [
+      "\"...I'm pretty weak... so I'd prefer if you didn't single me out. Let's try to get along.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「レナさんは甘えてますわ！",
+      "弱いものは食い尽くされるのが世の常なのでございますわよー！」"
+    ],
+    "textEn": [
+      "\"You're so naive, Rena!",
+      "The Law of the Jungle is survival of the fittest!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……なんだか物騒な話だぞ。",
+      "…結局、どんな部活なんだよ？！"
+    ],
+    "textEn": [
+      "...This was starting to sound a bit sketchy...",
+      "So what kind of club was it!?"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…つまり、みんなでゲームして遊ぶ部活なのです。」"
+    ],
+    "textEn": [
+      "\"...To sum it up, it's a club where we play games together.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の疑問に、梨花ちゃんだけが的を射た説明をしてくれた。",
+      "ようするにこの「部活」は、魅音の趣味、ゲーム収集をフル活用したものなわけだ。",
+      "日毎に魅音の所有する様々なゲームを遊ぶ。",
+      "その日その日によって、一番勝った者に賞があったり、一番負けた者に罰ゲームがあったりといろいろあるらしい。"
+    ],
+    "textEn": [
+      "Rika-chan was the only one to answer my question with a pertinent response.",
+      "So basically this \"club\" put Mion's hobby of collecting games to use.",
+      "By playing the various games that Mion had hoarded every day.",
+      "It seemed that, depending on the day, there were prizes for the winner or a penalty for the person who finished in last place."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「先に断っとくけど。ままごと遊びみたいなレベルじゃないからね！",
+      "一勝一敗に命がかかってるくらい本気でかかった方がいいよ？！」"
+    ],
+    "textEn": [
+      "\"I'll make this clear right now. We aren't playing house here!",
+      "You should treat each win or loss as if your life depends on it, all right!?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「た、楽しくやれればいいじゃないか…！",
+      "そう凄むなよ。」"
+    ],
+    "textEn": [
+      "\"W-What's wrong with just having fun...!?",
+      "Don't make it sound so crazy.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「会則第一条！！",
+      "狙うのは１位のみ！",
+      "…遊びだからなんていう、いい加減なプレイは許さないッ！！！」"
+    ],
+    "textEn": [
+      "\"The first rule of our society!!",
+      "Aim only for first place!",
+      "...Going at it half-assed just because 'it's a game' is not allowed!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「会則第二条！",
+      "そのためにはあらゆる努力することが義務付けられておりますのよ！」"
+    ],
+    "textEn": [
+      "\"Rule number two of our society!",
+      "For that reason, you are obligated to make all possible efforts!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…沙都子が言うと、どんな手段を使ってもいい、と言ってるように聞こえる。"
+    ],
+    "textEn": [
+      "...The way Satoko said it, it sounded like she was saying, \"use any means necessary.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…もちろんボクもがんばりますです。」"
+    ],
+    "textEn": [
+      "\"...Of course, I will do my best, too.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「レナも弱いけどね…精一杯頑張ってるの。」"
+    ],
+    "textEn": [
+      "\"I'm pretty weak... but I'm trying my best.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "みんなの言うのもわかった。",
+      "みんなで優勝を争うゲームに、楽しければいいやなんていう考え方はアンフェアだ。"
+    ],
+    "textEn": [
+      "I knew what they were trying to say.",
+      "In a game where everybody is aiming for the top, it's rather unsportsmanlike to play just for fun."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よし、俺も……本気でやってやるぜーー！！」"
+    ],
+    "textEn": [
+      "\"All right. Then I, too... will go all-out!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こうして俺は、いよいよ入部の試験…洗礼を受けることになった。"
+    ],
+    "textEn": [
+      "With that, I was finally ready for the rite of initiation... My baptism into the club."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんに一応忠告ね。",
+      "………レナも結構エゲツナイからね。」"
+    ],
+    "textEn": [
+      "\"A word of warning, Kei-chan.",
+      "...Rena can get pretty nasty.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入部試験は厳しそうだ…。",
+      "魅音が教室のうしろにある生徒用のロッカーを漁っている。",
+      "…学校にゲームを持ちこんでいるのか。",
+      "…ま、部の備品だからいいのだろう。"
+    ],
+    "textEn": [
+      "This initiation looks like it's going to be rough...",
+      "Mion began fishing around in the student lockers in the back of the room.",
+      "...They have the games here at the school?",
+      "...Well, it's club equipment, so I guess that's fine."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「難しいゲームは圭ちゃんだけに不利だからね。",
+      "今日は誰にでも分かるゲームにしよう。",
+      "スタンダードにトランプの…",
+      "…",
+      "ジジ抜きはどうッ？！」"
+    ],
+    "textEn": [
+      "\"Complicated games would put Kei-chan at a disadvantage.",
+      "So today, we'll play a game that you should be familiar with.",
+      "How about a standard card game...?",
+      "...",
+      "Like Old Bachelor!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よし！　受けてやるぜ！！！」"
+    ],
+    "textEn": [
+      "\"All right! Let's do this!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「やっぱり罰ゲームがないと燃えないよねぇ！",
+      "今回はビリに顔面らくがきの刑！",
+      "どう？！」"
+    ],
+    "textEn": [
+      "\"Can't really get into it unless there's a penalty!",
+      "This time the loser will be sentenced to having their face drawn on!",
+      "What do you think!?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「わ、",
+      "わ、",
+      "…油性じゃないよね？",
+      "油性じゃないよね…？」"
+    ],
+    "textEn": [
+      "\"Whoa,",
+      "whoa",
+      "...It won't be a permanent marker, right?",
+      "...Right...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…油性って……顔面らくがきが油性ってことか…？"
+    ],
+    "textEn": [
+      "...Permanent... She wants to draw on our faces with permanent marker?"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「上等でございますわーー！！！！」"
+    ],
+    "textEn": [
+      "\"That is perfect—!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子が気勢を上げる。",
+      "苛烈な罰ゲームにも恐れない。",
+      "やる気満々みたいだ。",
+      "……こりゃあ俺も負けられないな！"
+    ],
+    "textEn": [
+      "Satoko cheered the idea on.",
+      "She didn't even flinch at the thought of such a severe penalty.",
+      "It seemed like she was raring to go.",
+      "...If it's going to be like this, then I can't lose either!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「じゃあカード切って……みんなに配るねー！」"
+    ],
+    "textEn": [
+      "\"Then I'll just cut the deck... and start dealing!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ジジ抜きってのはつまりババ抜きと同じゲームだ。",
+      "違うのは１箇所。ババが入っていない。",
+      "かわりに最初にカードが１枚抜かれている。",
+      "つまり、抜かれたカードと対になるカードは最後に必ず１枚残ってしまうわけだ。",
+      "どれがジョーカーにあたるカードか分からない。",
+      "そんなスリリングなゲームなのだ！"
+    ],
+    "textEn": [
+      "Old Bachelor is pretty much the same as Old Maid.",
+      "There's only one difference: there's no joker.",
+      "In its place, one card is pulled out at the start.",
+      "Meaning there will be one card without a match left over at the end.",
+      "You don't know which card will end up being the joker.",
+      "It's a pretty thrilling game!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「じゃあ１枚抜くね。」"
+    ],
+    "textEn": [
+      "\"I'll take out the card now.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が１枚カードを抜き、裏返しのまま車座の中央に置いた。",
+      "みんなそのカードをじっと凝視する。"
+    ],
+    "textEn": [
+      "Mion took out one card and left it face down on the table.",
+      "Everybody stared at the card intently."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ま、終盤になれば自ずと分かるし。",
+      "最初はどうしようもないよな。」"
+    ],
+    "textEn": [
+      "\"Well, it'll be pretty obvious in the endgame.",
+      "No way to tell at the start.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "だが…他の部員たちは真剣だ。",
+      "俺のような弛緩した雰囲気はない。",
+      "手札と伏せたカードを見比べ、そして回りの人間の様子を伺う。",
+      "まるで…伏せたカードが見えているような……。",
+      "……まさか"
+    ],
+    "textEn": [
+      "But... the rest of them were very serious.",
+      "They didn't seem as relaxed as I was.",
+      "They compared their cards to the one face down, all the while gauging each other's reactions.",
+      "It was as if...they could see what the face down card was...",
+      "...No, it couldn't be."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…このトランプ、結構傷物だろ。",
+      "……まさか、…みんなにはその傷で、そこに伏せたカードがわかってる…？」"
+    ],
+    "textEn": [
+      "\"...This deck is pretty worn out.",
+      "...No way... Can everyone tell by the scratches what the card on the table is...?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「会則第二条ですわ〜。",
+      "圭一さんも勝つために最善の努力をなさいませ〜！」"
+    ],
+    "textEn": [
+      "\"Remember the second rule of our society~",
+      "Keiichi-san must try his hardest to win as well~!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「いくつかのカードは特徴的だから……圭一くんにもすぐ覚えられるよ。」"
+    ],
+    "textEn": [
+      "\"A number of cards are quite unique... Keiichi-kun should be able to remember them pretty quickly.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あまりにもさらりと言われる。"
+    ],
+    "textEn": [
+      "She said that so matter-of-factly."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じょ、上等だぜ！！",
+      "この程度でハンデになると思うなよ！！！！」"
+    ],
+    "textEn": [
+      "\"S-Suits me fine!!",
+      "Don't think a little thing like that can be your crutch!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…と威勢良くタンカを切って見せたところで俺の不利は明白だった。",
+      "なにしろ…カードの傷や特長をどれだけ暗記しているかがものを言う…！",
+      "これはもはやただのジジ抜きじゃない。",
+      "………麻雀風に言うなら…",
+      "ガン牌ジジ抜き！！",
+      "来い！",
+      "貴様らの油断を逆手に取って返り討ちにしてくれる…！",
+      "…そんな、何の根拠もない自信も、すぐに打ち砕かれることになった…。"
+    ],
+    "textEn": [
+      "...I lashed out angrily, but it was rather obvious I was at a disadvantage.",
+      "After all... they'd gone so far as to memorize the wear and tear for each individual card...!",
+      "This wasn't a simple game of Old Bachelor.",
+      "...If this was a test...",
+      "then they were playing with the answer sheet in front of them!!",
+      "Bring it!",
+      "I'll take advantage of your carelessness and beat you at your own game...!",
+      "...That baseless confidence... would soon be crushed..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「くっくっく！",
+      "圭ちゃんの手札を右から言うぜ？",
+      "３、",
+      "４、",
+      "９、",
+      "Ｊ、",
+      "Ｑ。」"
+    ],
+    "textEn": [
+      "\"Kekeke!",
+      "How about I tell you your hand starting from the right?",
+      "Three,",
+      "Four,",
+      "Nine,",
+      "Jack,",
+      "Queen.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ぐわああぁぁぁあ！！」"
+    ],
+    "textEn": [
+      "\"WaAargh!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…ちなみに、ジジはダイヤのＪなのです。」"
+    ],
+    "textEn": [
+      "\"...By the way, the bachelor is the Jack of Diamonds.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「うがぁあぁああッ！！」"
+    ],
+    "textEn": [
+      "\"GaAaRgh!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「どうカードを入れ換えたって見え見えですわ！",
+      "あがりですのー！！」"
+    ],
+    "textEn": [
+      "\"I can tell what they are even if you switch them around!",
+      "I am out!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ぐおぉおおぉおお！！」"
+    ],
+    "textEn": [
+      "\"UuUrrgh!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "覚悟はしていたが……これほどまで…圧倒的とは…！！！"
+    ],
+    "textEn": [
+      "I thought I was prepared... but for it to be this brutal... Just overwhelming...!!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お…鬼だ…",
+      "こいつらは鬼だ…！",
+      "レナ…は…鬼じゃないよな…？」"
+    ],
+    "textEn": [
+      "\"D... Demons...",
+      "You're all demons...!",
+      "Rena... isn't... a demon, are you...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ご、ごめんね圭一くん。",
+      "……こっちがハートの３だよね？",
+      "……あがり！」"
+    ],
+    "textEn": [
+      "\"S-Sorry, Keiichi-kun.",
+      "...This is the Three of Hearts, isn't it?",
+      "...I'm out!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おわぁあぁああぁあぁああぁああ！！」"
+    ],
+    "textEn": [
+      "\"UwaAaaAaaAaaaAAah!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "血も涙もない…！！",
+      "レナや…梨花ちゃんまで…！！",
+      "恐るべし部活。",
+      "この部のＯＢなら、どんな過酷な環境でも生き抜けるに違いない…。",
+      "多分、クラス全員が無人島で自爆首輪付きで殺し合いなんて状況下では水を得た魚と化すだろうな。",
+      "嬉々としながらクラスメートを狩る光景が目に浮かぶぞ…。"
+    ],
+    "textEn": [
+      "Not even a hint of mercy...!!",
+      "Rena... Even Rika-chan...!!",
+      "These club activities weren't to be trifled with.",
+      "An alumnus of this club would definitely survive in the cruelest of situations...",
+      "If our entire class had self-detonating collars strapped to their necks and were dropped into a death match on a deserted island, these guys would probably take to it like fish to water.",
+      "I can already picture their joy as they hunt down each of their classmates..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ポイントは減点制ね。",
+      "着順がそのままマイナス点。トータルで一番少ない人が優勝！」"
+    ],
+    "textEn": [
+      "\"It's a lowest point system.",
+      "The order itself dictates the points. Whoever has the lowest point total wins!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…では圭一はビリなので５です。」"
+    ],
+    "textEn": [
+      "\"...Since Keiichi finished last, he has five points.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺のスコアボードにさっそく減点「５」が書き込まれる…！"
+    ],
+    "textEn": [
+      "There's already a 5 marked down on my scoreboard...!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…や、やっぱりさ、綺麗なトランプでやらないと圭一くんに不公平だよ…。」"
+    ],
+    "textEn": [
+      "\"...I-I think it's unfair to Keiichi-kun if we don't use a new deck.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「いいのいいの。圭ちゃんだって男だし。"
+    ],
+    "textEn": [
+      "\"It's fine, it's fine. Kei-chan is a man after all."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…これくらいの逆境ははね返せるよね？！」"
+    ],
+    "textEn": [
+      "He can turn the tables even if the odds are stacked against him, right!?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「貧民風情は逃げ帰って涙で枕をぬらすのがお似合いでございますことよ〜？？」"
+    ],
+    "textEn": [
+      "\"It's fitting for a lowly peasant to scamper home and soak their pillow in tears, don't you think~??\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "やりきれぬ悔しさに震える俺の頭に、すっと小さな手がかかる。",
+      "……梨花ちゃんだった。"
+    ],
+    "textEn": [
+      "A petite hand laid itself on top of my head, which was trembling from uncontainable frustration.",
+      "...It was Rika-chan's."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…ファイト、",
+      "おーです。」"
+    ],
+    "textEn": [
+      "\"...Keep on fighting,",
+      "yeah~.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんの励ましに俺はようやく冷静さを取り戻した。",
+      "追い詰められた時にこそ冷静になれる。",
+      "…それが俺の火事場の「力」だ。",
+      "冷静に考えろ前原圭一。",
+      "……時間をかけてカードをよく観察しよう。",
+      "レナの言う通り、いくつかのカードの傷はとても特徴的で、暗記は簡単そうだ。",
+      "この状況で考えられる、少しでも勝率を上げられる全ての努力をしてみよう。"
+    ],
+    "textEn": [
+      "Thanks to Rika-chan's words of encouragement, I was able to calm down.",
+      "You need to be calm, especially when you're cornered.",
+      "...That's the \"power\" I could muster during this crisis.",
+      "Think clearly, Keiichi Maebara.",
+      "...Take your time and look at the cards carefully.",
+      "It's just as Rena said, several of the cards have their own distinct markings making them stand out. Memorizing them should be pretty simple.",
+      "Think about what you can do in this situation. Try everything in your power to improve your chances of victory."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「わ、…うまいよ圭一くん。その調子！」"
+    ],
+    "textEn": [
+      "\"Whoa... Great, Keiichi-kun. Just like that!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "カードの端に特徴的な傷のあるカードは手やカードに重ね、見えないように工夫する。"
+    ],
+    "textEn": [
+      "I covered the uniquely-marked cards with my hands or other cards, arranging them in such a way that they couldn't be seen."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…角が割れているのは５だったはずです。",
+      "……あがりましたです。」"
+    ],
+    "textEn": [
+      "\"...The one with the ripped corner should be the Five...",
+      "And... I'm out.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "他のプレイヤーの貴重なヒント発言は聞き漏らさない。",
+      "全ての情報が武器だ。",
+      "そして俺の順番になった。",
+      "上手の沙都子が仰々しくカードを扇状にして突き出す。"
+    ],
+    "textEn": [
+      "I couldn't let any of those precious hints slip by me.",
+      "All information is a weapon.",
+      "Then it was my turn.",
+      "Satoko fanned out her cards for me."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ほしいのは７なんだが。",
+      "……これかな？」"
+    ],
+    "textEn": [
+      "\"You see, I want the Seven.",
+      "...Is it this one?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…さぁてどうかしら…？？",
+      "引いてみないとわかりませんことよ…？」"
+    ],
+    "textEn": [
+      "\"...I wonder about that...",
+      "You won't know unless you take it...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子の表情に陰りが浮かぶ。",
+      "…いかにも引かれたくない、そんな表情…！",
+      "俺はその一瞬の表情を見逃さないッ！！"
+    ],
+    "textEn": [
+      "There was a bit of dismay in her expression.",
+      "...Like she doesn't want it taken... That kind of expression...!",
+      "I won't let that momentary lapse slip by me!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「見えたッ！！",
+      "これだっぁああぁああぁああ！！！！」"
+    ],
+    "textEn": [
+      "\"I know!!",
+      "It's this ooooone!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "当たり！",
+      "スペードの７…！！！",
+      "おぉお！と歓声が沸く！"
+    ],
+    "textEn": [
+      "Got it!",
+      "Seven of Spades...!!!",
+      "A cheer of \"Ooo!\" rang out!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「な、なななんですってぇえぇ？！",
+      "７は一番分かり難いはずですのに〜？！？！」"
+    ],
+    "textEn": [
+      "\"W-Wh-Wh-What is this!?",
+      "The Seven should be the hardest one of all to tell apart~!?!?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "暗記じゃない。カードを選ぶ時の相手の微妙な反応でも充分に参考になるのだ！"
+    ],
+    "textEn": [
+      "It wasn't from memorizing the markings. Those slight changes in their expressions as I was selecting a card were enough!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ほら圭ちゃん隠さない！",
+      "……この傷が確かダイヤの２だったよね。",
+      "……あれッ？！」"
+    ],
+    "textEn": [
+      "\"Can't hide it from me, Kei-chan!",
+      "...This mark means it's the Two of Diamonds.",
+      "...What!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が自らの読み間違えに驚愕する。",
+      "もちろん他の全員も…！"
+    ],
+    "textEn": [
+      "She was startled by her own misread.",
+      "Of course everyone else was too...!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…わ、",
+      "…魅ぃちゃんがカード間違えるなんて珍しいねぇ。」"
+    ],
+    "textEn": [
+      "\"...Whoa",
+      "...It's rare that Mii-chan gets a card wrong.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ち、違う……。",
+      "圭ちゃん",
+      "……",
+      "あんた…まさかぁ…ッ！！」"
+    ],
+    "textEn": [
+      "\"N-No...",
+      "Kei-chan",
+      "...",
+      "Could it be... you...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "彼女らは「傷」でカードを識別しているのだ。",
+      "その傷には「爪の跡」もある。",
+      "だから……付けたのだ。",
+      "俺が…新しく！！"
+    ],
+    "textEn": [
+      "They told them apart by different \"marks.\"",
+      "That mark was a \"nail scratch.\"",
+      "So... I put...",
+      "a new one on it!!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ダイヤの２を…擬装したと言うですの？！",
+      "あ、…あじな真似をするでございますわぁぁあぁああ…ッ！！」"
+    ],
+    "textEn": [
+      "\"Are you saying he disguised it... as the Two of Diamonds!?",
+      "W...What an impressive show of wit...!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…圭一、一矢報いましたです。」"
+    ],
+    "textEn": [
+      "\"...Keiichi landed a clean hit.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぱちぱちぱち…。"
+    ],
+    "textEn": [
+      "Clap clap clap..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「やったね圭一くん！",
+      "大善戦だよ？！だよ？！」"
+    ],
+    "textEn": [
+      "\"That's great, Keiichi-kun!",
+      "That was an incredible match, you know!? You know!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "首魁の魅音を討ち取った俺は、自らの善戦に有頂天だった。",
+      "だが、すでにトータル得点では、優勝魅音、ビリは俺が確定している。",
+      "俺は魅音の神経を逆撫でしそうな声色を慎重に選び、たははと笑いながら言った。"
+    ],
+    "textEn": [
+      "Having defeated the forerunner, Mion, my brilliant battle left me ecstatic.",
+      "But by total points, it was already set in stone that Mion would win and I would finish last.",
+      "I laughed haughtily, selecting the tone of my voice carefully to get on Mion's nerves."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…まぁ…ビリは確定だけどさ、最後に魅音から一本取れたから大満足かな☆",
+      "たはははははぁ〜…♪」"
+    ],
+    "textEn": [
+      "\"...Well... I'm going to end up the loser, but I'm satisfied with one-upping Mion at the end.☆",
+      "Bwahahahahahaa~...♪\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "すでにトータル優勝の確定している魅音には屈辱的なはず…！"
+    ],
+    "textEn": [
+      "That should be the proverbial slap in the face to Mion, who was at the top already and ensured victory...!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「この回、仮に圭ちゃんが１着になってもトータルビリが確定するんだけど",
+      "…",
+      "…嫌でしょ？」"
+    ],
+    "textEn": [
+      "\"Even if Kei-chan gets first place this round, he'll still end up last place overall",
+      "...",
+      "Don't you hate that?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「当り前だ！」"
+    ],
+    "textEn": [
+      "\"Of course I do!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「一騎討ちしようよ。",
+      "ワンチャンス！",
+      "勝てたら圭ちゃん１位で私ビリの大逆転！…なんてどう？！　乗るでしょ？！」"
+    ],
+    "textEn": [
+      "\"Let's have a duel.",
+      "One chance!",
+      "If you win, then we'll swap first and last place! ...How about it!? You up for it!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "かかった！",
+      "優勝者魅音を挑発することによってしか引き出せない逆転チャンス！！"
+    ],
+    "textEn": [
+      "She fell for it!",
+      "A chance for an upset that wouldn't be possible without goading her into it!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ワンチャンスだと？",
+      "ルールを説明しろ。」"
+    ],
+    "textEn": [
+      "\"One chance, you say?",
+      "Let me hear the rules.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は２枚の手札の片方を捨て、今までゲームに加えていなかったジョーカーを加えると、それを背中に回してよく切った。"
+    ],
+    "textEn": [
+      "Mion discarded two cards from her hand and replaced one with the joker card that was on the table, then shuffled the resulting hand behind her back."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「右手のカードと左手のカード！",
+      "どっちがジョーカーか当てたら圭ちゃんの勝ち！」"
+    ],
+    "textEn": [
+      "\"The card in my right or the card in my left!",
+      "If Kei-chan can guess which hand the joker's in, then he wins!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「今、後に回したときジョーカーを抜いた、ってことはないだろうな？！」"
+    ],
+    "textEn": [
+      "\"When you turned around just now, you didn't pull out the joker, did you!?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんが負けたら反対の手のカードも公開するよ。",
+      "それならＯＫでしょ？」"
+    ],
+    "textEn": [
+      "\"If you lose, I'll show the card in the other hand.",
+      "That okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "他の３人は思わぬラストギャンブルにごくりと唾を飲みこむ。"
+    ],
+    "textEn": [
+      "The other three gulped nervously at this unexpected turn of events."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…よしッ！！",
+      "乗ってやる！！！！」"
+    ],
+    "textEn": [
+      "\"...All right!!",
+      "You've got it!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がばっと両手に１枚ずつカードを持って俺に突き出す！",
+      "まずはじっくりと観察だ…！",
+      "右のカードは特徴的な傷がなく、まったく正体がわからない。"
+    ],
+    "textEn": [
+      "Mion grasped one card in each hand and thrust them out at me!",
+      "First, I needed to inspect them closely...!",
+      "The card on the right had no distinguishing marks, I couldn't tell which one it was."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……どっちだろ。…圭一くん…慎重にね！」"
+    ],
+    "textEn": [
+      "\"...Which one, I wonder... Keiichi-kun... Be careful!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ、もちろんだぜ！…逆転の…大チャンスだ！！」"
+    ],
+    "textEn": [
+      "\"Yeah, of course! ...This is my chance... for a big comeback!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "左のカードには良く見ると傷があり、どこかで見たような気がしなくもない。"
+    ],
+    "textEn": [
+      "Looking closely at the card on the left, I saw a little wear. It wasn't one I hadn't seen before."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あ、…あのカードは…！！」"
+    ],
+    "textEn": [
+      "\"Ah... That card is...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子の些細な小言も聞き逃さない。",
+      "魅音がちっ、と舌打つ。",
+      "左のカードの傷は、俺が暗記するほんの何枚かのカードの特長とは一致しない。",
+      "だが沙都子の反応を見る限り、左のカードが何であれ、それはゲームに登場したカードだということだ。",
+      "ゲームに登場した、ということは絶対にジョーカーではないということ！"
+    ],
+    "textEn": [
+      "I didn't let that bit from Satoko slip by me.",
+      "Mion clucked her tongue.",
+      "I didn't recognize the mark on the left card from the small number that I had memorized.",
+      "I didn't know what the left card was, but I could tell from Satoko's reaction that the card had already appeared during the game.",
+      "Since it had already appeared before, it meant that it definitely wasn't the joker!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……ふぅん。",
+      "圭ちゃんは右のカードを疑ってる？",
+      "じゃあ右にする？",
+      "右？」"
+    ],
+    "textEn": [
+      "\"...Ooh.",
+      "Kei-chan thinks it's the one on the right?",
+      "Will you choose that one then?",
+      "Will you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…左のカードは絶対にジョーカーでない、と推理できるなら、右のカードがジョーカーだと断言できるはずだ。",
+      "魅音に挑発されるまでもなく、…右が一番あやしい。",
+      "だが、沙都子の反応だけで決め付けるのは早計過ぎないだろうか？！",
+      "もっと…慎重に",
+      "……",
+      "あ！",
+      "…思い出した…！！",
+      "あの傷は…左のカードは",
+      "……間違いない！",
+      "クローバーの７！！！"
+    ],
+    "textEn": [
+      "...The left card definitely wasn't the joker. If I could trust that theory, then I should've been able to declare that the card to the right was the joker.",
+      "Even without Mion's taunting... The one on the right was the most suspicious.",
+      "But wasn't it a bit too rash to decide based solely on Satoko's reaction!?",
+      "More... carefully...",
+      "...",
+      "Ah!",
+      "...I remember now...!!",
+      "That mark... The left card...",
+      "No doubt about it!",
+      "The Seven of Clubs!!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん…。",
+      "きっとクローバーの７だね…。」"
+    ],
+    "textEn": [
+      "\"Hmm...",
+      "It's the Seven of Clubs, I see...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "勝った！",
+      "左のカードはクローバーの７！",
+      "ということは残る右のカードが…ジョーカーだッ！！！！",
+      "そして、右のカードにまさに触れんとした瞬間、俺はぴた、と手を止めた。"
+    ],
+    "textEn": [
+      "I've won!",
+      "The card on the left was the Seven of Clubs!",
+      "So that meant the card on the right was... the joker!!!!",
+      "And then, just before my hand touched the right card, I froze."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……ふっふっふ",
+      "……くっくっく…。",
+      "さすが魅音だよ。」"
+    ],
+    "textEn": [
+      "\"...Huhuhuh...",
+      "heheheh...",
+      "I would expect no less from you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "場の誰もが右のカードがジョーカーだと確信した矢先の俺の「止め」に皆がざわつく。"
+    ],
+    "textEn": [
+      "There was a wave of murmurs amongst the onlookers at my sudden halt, right before I confirmed the right card was the joker."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「？？",
+      "え？",
+      "圭一さんは何を言ってるでございましょう？？",
+      "だって左…、」"
+    ],
+    "textEn": [
+      "\"??",
+      "Huh?",
+      "What could Keiichi-san possibly be saying??",
+      "I mean, the left one is...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…シーです。」"
+    ],
+    "textEn": [
+      "\"...Shh.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「へー…。",
+      "圭ちゃんはどうして右が「ジョーカーじゃない」って確信できるの？」"
+    ],
+    "textEn": [
+      "\"Ooh...",
+      "What makes you so certain that the right one isn't the joker, Kei-chan?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音からの思わぬ発言。",
+      "俺を除く全員が困惑する。"
+    ],
+    "textEn": [
+      "Mion let loose an unexpected question.",
+      "Everyone else was baffled."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「右のカードが何かは俺にもわからないさ。",
+      "だが左のカードがクローバーの７だってことだけはわかる。」"
+    ],
+    "textEn": [
+      "\"I don't know what the card on the right could be.",
+      "But I know that the one on the left is the Seven of Clubs.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「じゃあ！",
+      "残る右のカードがジョーカーなのじゃありませんこと？！",
+      "必ず左右どっちかがジョーカーという約束でしょう？！」"
+    ],
+    "textEn": [
+      "\"Then!",
+      "Doesn't that leave the right one as the joker!?",
+      "One of them has to be the joker, right!?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ。",
+      "…左右のどっちかにジョーカーがあるのは本当だろうな。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "...One of those is the joker, right?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一は勘がいいです。」"
+    ],
+    "textEn": [
+      "\"...Keiichi has good intuition.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「え？",
+      "梨花ちゃんそれってどういう…、」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "Rika-chan, what do you mean by...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「つまりさ。",
+      "…クローバーの７は。",
+      "…さっき俺が沙都子のスペードの７と合わせて捨てたカードなんだよ…ッ！」"
+    ],
+    "textEn": [
+      "\"So basically...",
+      "the Seven of Clubs...",
+      "I discarded that by matching it with Satoko's Seven of Spades earlier...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "みんなが一斉に場に捨てられたカードを凝視する！",
+      "ぐちゃぐちゃに捨てられたこの状況では真偽はわからない…！"
+    ],
+    "textEn": [
+      "Everyone's attention snapped to the discard pile at the same time!",
+      "The truth of the matter couldn't be discerned from that sloppy pile...!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「つまり、",
+      "……魅音は捨て札を１枚拾って…左のカードに重ねている…つまりッ！！！」"
+    ],
+    "textEn": [
+      "\"So that means...",
+      "Mion pocketed one of discarded cards... then aligned it over the left card... and that means—!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…そうか、わかった！",
+      "左のカードを…クローバーの７に見せかけているんだね？！」"
+    ],
+    "textEn": [
+      "\"...I see, I get it!",
+      "This left card... is being disguised as the Seven of Clubs, right!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "このゲームが始まって初めて、魅音の顔に影がさしたのを俺は見逃さない。",
+      "そして……俺は３回転半のひねりを入れてからビシリと指定したッ！！"
+    ],
+    "textEn": [
+      "It was the first time since the start of the match that a shadow ran across Mion's expression, and I didn't let that slip by.",
+      "Then... with a grand flourish, I declared it loudly!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ジョーカーは",
+      "……",
+      "「左手」だぁあぁああああぁああッッ！！！！！！」"
+    ],
+    "textEn": [
+      "\"The joker is...",
+      "...",
+      "the left ooooooooooone!!!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あまりに熱過ぎる一瞬…！",
+      "その１秒間がその場の全員には何時間にも感じられた。",
+      "その沈黙を破り、始めに口を開いたのは…魅音だった。"
+    ],
+    "textEn": [
+      "It was an intense moment...!",
+      "That one second felt like an eternity for everyone there.",
+      "Breaking that silence, the first one to speak... was Mion."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……初代部長として私も様々なプレイングを見てきたけど。",
+      "……圭ちゃん。",
+      "…あんたは…",
+      "ベストだよ。",
+      "…ベストオブザベストオブザベストッ！」"
+    ],
+    "textEn": [
+      "\"...Being the first president of this club, I've been witness to a variety of performances.",
+      "Kei-chan...",
+      "yours is...",
+      "the best.",
+      "...The best of the best of the best!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "おそらくは魅音の最高の賛辞だろう。",
+      "魅音は観念し…両の手のカードをこぼした。",
+      "……俺の……",
+      "逆転勝利だッッ！！！！！！！",
+      "梨花ちゃんがぽん、と俺の頭に手を乗せ、俺の逆転勝利を祝ってくれた。"
+    ],
+    "textEn": [
+      "That was probably the greatest compliment Mion could give.",
+      "Mion accepted her defeat... dropping the cards from both hands.",
+      "...My...",
+      "comeback victory!!!!!!!",
+      "Rika-chan placed her hand on my head and began petting it, congratulating me on my victory."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「え…？",
+      "……梨花ちゃん、が………？」"
+    ],
+    "textEn": [
+      "\"Huh...?",
+      "...Rika-chan is...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナと沙都子がきょとん、とした顔で…まるで幽霊でも見たかのような顔をしている。"
+    ],
+    "textEn": [
+      "Rena and Satoko gaped at us... as if they had seen a ghost."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なんだよレナ。別に俺はインチキしてないだろ？？　正々堂々と！」"
+    ],
+    "textEn": [
+      "\"What is it, Rena? It's not as if I cheated or anything, right?? This was fair and square!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……梨花は……慰めるときにしか…頭を撫でませんの。」"
+    ],
+    "textEn": [
+      "\"...Rika... only pets someone on the head...to console them.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "え…？　それってどういう……。",
+      "その時、レナが短い悲鳴をあげた。"
+    ],
+    "textEn": [
+      "Huh...? What's the meaning of...?",
+      "At that moment, Rena let out a small shriek."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「け…圭一くん…ッ！",
+      "……こんなことって…ッッ？！？！」"
+    ],
+    "textEn": [
+      "\"Ke... Keiichi-kun...!",
+      "...This is how it was...!?!?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんならさ。",
+      "ここまで読んでくれる、と思ってたよ。",
+      "………くっくっく！」"
+    ],
+    "textEn": [
+      "\"You know, Kei-chan.",
+      "I thought you'd read into it that far.",
+      "...Heheheh!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "誰もが凍り付く。",
+      "…いや、それは俺だけなのか…。"
+    ],
+    "textEn": [
+      "Everyone froze.",
+      "...No, it was just me..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「賭けだった。",
+      "圭ちゃんがおてんばさんの早とちりだったなら、負けてたのは私だった。」"
+    ],
+    "textEn": [
+      "\"It was a gamble.",
+      "If you had just jumped to conclusions like a little brat, then I would have lost.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……全員が確信した答えだった……。",
+      "魅音がハズレの手のカードを拾う。"
+    ],
+    "textEn": [
+      "...It was the answer everyone was certain about...",
+      "Mion picked up the card from the losing hand..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんはさ、この負けを誇っていいよ。」"
+    ],
+    "textEn": [
+      "\"Kei-chan, you know, you should take pride in this loss.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そのカードを裏返す……。",
+      "……それは…この一騎討ちの勝者を示すカードだった。",
+      "クローバーの７に重ねてあったのは",
+      "……",
+      "なんと、ダイヤの２！",
+      "う、裏の裏をかかれたのだ…！！",
+      "深読みなどせず、右を選んでおけば……！"
+    ],
+    "textEn": [
+      "She turned it around...",
+      "...That was... the card that proclaimed the victor of this duel.",
+      "The card under the Seven of Clubs",
+      "...",
+      "Unbelievable! It was the Two of Diamonds!",
+      "I-It was a setup behind the setup...!!",
+      "If I'd just picked the right one without reading so deeply into it...!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……部長、園崎魅音の名において。",
+      "…前原圭一。",
+      "……あんたの我が部への入部を…許可する…ッ！！！」"
+    ],
+    "textEn": [
+      "\"...I, Mion Sonozaki, as the club president...",
+      "do accept...",
+      "Keiichi Maebara's membership...into our club...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "放心しがっくりと膝をついた瞬間、みんなはこの好ゲームを割れんばかりの拍手で称えてくれた。"
+    ],
+    "textEn": [
+      "As I slumped to my knees, dazed, everybody let out a round of applause for the excellent effort I gave despite my defeat."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「これにて決着ッ！！",
+      "本日の優勝は私！　園崎魅音！！　栄えあるビリは",
+      "…前原圭一〜！！！」"
+    ],
+    "textEn": [
+      "\"The match is now over!!",
+      "Today's victor is me! Mion Sonozaki! And our exalted loser is...",
+      "Keiichi Maebara~!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "みんながきゃっきゃと喜びながら拍手する。",
+      "敗北感はあったが、その傷口はとても鋭利で逆に爽やかなくらいだった…。"
+    ],
+    "textEn": [
+      "Everyone made a commotion, applauding cheerfully.",
+      "I felt I was bested, but I was so soundly beaten that it unexpectedly felt rather refreshing..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃんが後ろ手で細工した時、またやるんだ〜って思ってどきどきしちゃった！」"
+    ],
+    "textEn": [
+      "\"When Mii-chan pulled that little trick behind her back I got excited, thinking, 'She's going to do it again!'\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さんが、正解に触れる直前で止まったときにはかかった！って思いましたわ〜！」"
+    ],
+    "textEn": [
+      "\"When Keiichi-san stopped the moment before touching the correct card, I thought, 'He fell for it~!'\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…見事にひっかかってくれましたです。」"
+    ],
+    "textEn": [
+      "\"...He fell for it quite handily.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…え？",
+      "ちょっと待て。",
+      "お前ら全員、最初から知っててあんなに真剣に盛り上がってたのか…？？"
+    ],
+    "textEn": [
+      "...Huh?",
+      "Hey, wait.",
+      "All of them knew from the start and still got so excited so earnestly...??"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…楽しくなるようにみんなで盛り上げましたですよ。」"
+    ],
+    "textEn": [
+      "\"...Everyone got excited to make it more fun.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………",
+      "お、"
+    ],
+    "textEn": [
+      "...",
+      "You..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お前らみんな鬼だぁあぁああ！　人でなし〜ッ！！！」"
+    ],
+    "textEn": [
+      "\"You're all demoooons! You monsters~!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「さぁて圭ちゃんに罰ゲームだねぇ…！",
+      "今日は部活の初日だしねぇ。",
+      "ソフトに行こうかねぇ。",
+      "…いきなり登校拒否になられちゃ困るし！」"
+    ],
+    "textEn": [
+      "\"Now, then, Kei-chan... it's time for your penalty...!",
+      "Since it's your first day participating,",
+      "I'll go easy, okay?",
+      "...It would be a problem if you refused to come to school!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "残りの３人が俺の両腕、両肩をがっちり押さえる。",
+      "魅音が舌なめずりをしながら近づいてくる…。",
+      "右手はポケットから何かを取り出そうとしている。",
+      "それは…マジック！！　しかも……極太の油性ッ！！"
+    ],
+    "textEn": [
+      "The other three members held down my arms and shoulders firmly.",
+      "Mion approached, licking her lips...",
+      "Her right hand went to pull something out of her pocket.",
+      "That's... a felt-tip marker!! And it's... a giant permanent one!!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「さぁて…行くよぅぅぅ〜！」"
+    ],
+    "textEn": [
+      "\"Okay...Here we gooo~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がマジックのキャップを外し、その先端を身動きできない俺の顔面にじりじりと近付け…！"
+    ],
+    "textEn": [
+      "She took the cap off the marker and brought it slowly up to my face while I was immobilized...!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「",
+      "や、や、やめろおぉおおぉおぉ……ぉ……ぉ…！！！」"
+    ],
+    "textEn": [
+      "\"N-No...",
+      "NOoOoOoOoo...oo...oo...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の断末魔がこだましていった…。",
+      "レナは部活が終わると同時にすっ飛んで帰って行った。",
+      "だから今日は珍しく、魅音と二人での下校となった。"
+    ],
+    "textEn": [
+      "I let out my death throes...",
+      "As soon as the club activities were finished, Rena flew off.",
+      "So today it was just Mion and me walking home together, a rather rare occurrence."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「宝の山かぁ。",
+      "…捨ててる連中も、まさかレナに感謝されてるとは夢にも思わないだろうねぇ。」"
+    ],
+    "textEn": [
+      "\"A mountain of treasure, huh...",
+      "The guys throwing it away probably never thought in their wildest dreams that Rena would be grateful to them.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "宝の山、例のダム工事現場のことだ。",
+      "…そうだ。魅音なら教えてくれるだろうか。",
+      "あそこであったらしい、バラバラ殺人事件のことを…。"
+    ],
+    "textEn": [
+      "\"Mountain of treasure,\" meaning that dam construction site from before.",
+      "...Oh, right. Mion would probably tell me.",
+      "That murder by dismemberment that seemed to have happened there..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あそこさ、ダムの工事現場。",
+      "…なんかあったんだろ？",
+      "昔。」"
+    ],
+    "textEn": [
+      "\"Over there, you know, at that dam construction site.",
+      "...Did something happen there?",
+      "Long ago?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そりゃああったよ。戦いが！",
+      "座りこみやったりデモをやったり！」"
+    ],
+    "textEn": [
+      "\"Something sure did. A grand battle!",
+      "There were sit-ins and demonstrations!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "聞きたい話とは少し違ったが、聞いておこうと思った。"
+    ],
+    "textEn": [
+      "It was a bit different from what I wanted to hear, but I decided I'd listen just the same."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「自分たちの土地がダム湖に沈むんだもんなぁ。",
+      "俺だって戦うだろうな。」"
+    ],
+    "textEn": [
+      "\"It was our land that was going to be sunk into the dam reservoir.",
+      "I would have fought as well, probably.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「役人どもは本当に一方的だった。",
+      "偉そうで威張ってた！",
+      "金で解決できないと悟るとあらゆる嫌がらせをしてきたんだよ？！",
+      "嫌らしいヤツらだった！」"
+    ],
+    "textEn": [
+      "\"The government guys were really adamant about it.",
+      "Acting all big and full of themselves!",
+      "Since they figured out that they couldn't settle it with money, they did a bunch of nasty stuff!",
+      "They were nasty guys!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音はまるで目の前で繰り広げているかのように、声を荒げながら喋る。"
+    ],
+    "textEn": [
+      "Mion spoke excitedly, as if the whole thing was happening right in front of her."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よく勝てたな…。相手は国だろ？」"
+    ],
+    "textEn": [
+      "\"I'm amazed you guys won... You were facing the federal government, right?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「村長や村の有力者たちがね、方々に陳情した。",
+      "東京にも行ったし、いろんな政治家に根回しもした。",
+      "……そうしてる内に計画は撤回されたんだよ。",
+      "私たちの完全勝利だった！"
+    ],
+    "textEn": [
+      "\"The mayor and prominent figures in the village all signed petitions.",
+      "They went to Tokyo and struck deals with legislators...",
+      "And as a result, the development plan was retracted.",
+      "It was our complete victory!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "あっはははは！」"
+    ],
+    "textEn": [
+      "Ahahahahaha!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「暴力沙汰とかには…ならなかったのか？",
+      "傷害事件とか…殺人、」"
+    ],
+    "textEn": [
+      "\"There wasn't any... violence, was there?",
+      "Like assaults... or murders?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「なかった。」"
+    ],
+    "textEn": [
+      "\"None.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぴしゃりと言いきられた。",
+      "レナの時と同じ。",
+      "言葉にはピリオドがこめられていた。",
+      "収まりのつかない俺の好奇心は、胸の中で所在なくうなだれていた。"
+    ],
+    "textEn": [
+      "She promptly cut me off.",
+      "The same as Rena had.",
+      "Her words signaled the end of discussion.",
+      "My curiosity unsated, I sighed dejectedly inside."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「じゃね、また明日ねぇ！",
+      "圭ちゃんそれ、家に帰るまで消しちゃダメだからね！」"
+    ],
+    "textEn": [
+      "\"Later. See you tomorrow!",
+      "Kei-chan! You can't wash that off until you get home, got it!?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わかってるよ消さねぇよ！」"
+    ],
+    "textEn": [
+      "\"I got it. I won't!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は俺の顔をちらちらと見ては笑いを堪えている。",
+      "……いったい、どんなえげつないラクガキをしたのだろうか…。",
+      "覚えてろ魅音め…！",
+      "もし逆の立場になったら、貴様の顔面にねっちりと！",
+      "タワシじゃ落ちないくらいラクガキしてやるからなぁ…！！！",
+      "自宅に着き、見事にお袋と鉢合わせして、俺は改めて恥をかくことになったのだった…。",
+      "帰宅早々、家は神経質なムードでぴりぴりしていた。",
+      "…うちではそんなに珍しいことではない。",
+      "親父は、新しい絵のアイデアが行き詰まるといつもこんな感じなのだ。",
+      "どかどかと家の中を歩きまわり、腕を組んでは唸っている。",
+      "お袋が俺の耳元に口を寄せる。"
+    ],
+    "textEn": [
+      "Mion held back her laughter while stealing glances at my face.",
+      "...I wonder what kind of nasty doodles they drew...",
+      "Damn you, Mion! You shall rue this day...!",
+      "If our roles are ever reversed... I'm going to go all out!",
+      "All over your face so you won't be able to take it off, even with a scouring pad...!!!",
+      "Upon arriving home, I ran straight into my mom, embarrassing myself yet again...",
+      "The mood I'd come home to was already on edge.",
+      "...It's not an uncommon thing in our family.",
+      "Whenever Dad can't come up with a good idea, it always ends up like this.",
+      "He stomps around the house with his arms crossed.",
+      "Mom whispered into my ear."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「お帰り、圭一。…お父さん、大変そうだからそっとしてあげてね。」"
+    ],
+    "textEn": [
+      "\"Welcome home, Keiichi. ...Dad... he's in a bit of a rut right now, so don't bother him, okay?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「またアイデアに詰まったわけ？」"
+    ],
+    "textEn": [
+      "\"He can't come up with a new idea?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「今回は締め切りが重なったからね。",
+      "お父さん、充電期間がないと大変だから。」"
+    ],
+    "textEn": [
+      "\"It's because the deadlines are so close together this time.",
+      "Your dad needs time to recharge or he doesn't work as well.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "親父の絵で一家が食っているんだから、親父のアイデアが枯れ果てたら、前原家はおしまいだ。",
+      "（…よく食って行けるものだ。",
+      "…ひょっとして親父って…大画伯？？）"
+    ],
+    "textEn": [
+      "Dad's paintings feed our entire family. If he runs out of ideas, then it's the end of the Maebaras.",
+      "(...We've never gone hungry before.",
+      "...Could it be that my dad... is a master painter??)"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…家の中をうろうろしないで、表に散歩でも行った方がアイデアが出るんじゃねぇの？」"
+    ],
+    "textEn": [
+      "\"...Wouldn't it be easier to get an idea taking a walk outside rather than wandering around the house?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「今回は“生活空間”がテーマだから。",
+      "お父さん、この家をモチーフにしたいみたい。」"
+    ],
+    "textEn": [
+      "\"The theme of the piece this time is 'in the household.'",
+      "So it seems your dad wants to use this house as a motif.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…実に迷惑なモチーフだ。"
+    ],
+    "textEn": [
+      "...That's quite a bothersome motif."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's dad",
+    "labelJp": "圭一の父",
+    "textJp": [
+      "「…圭一！！　部屋の中を少しは片付けなさい！！　みっともないぞー！」"
+    ],
+    "textEn": [
+      "\"...Keiichi!! Tidy your room for once in a while!! It looks terrible!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ご、ごめんごめん！　後で片付けるよー！」"
+    ],
+    "textEn": [
+      "\"S-Sorry! I'll clean it up later!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あーもー！　俺の部屋をモチーフにするのは勘弁してくれ…！"
+    ],
+    "textEn": [
+      "Ah, come on! Please don't use my room as the motif...!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「圭一、お夕飯までまだ時間があるから。",
+      "表でも散歩してらっしゃい。」"
+    ],
+    "textEn": [
+      "\"Keiichi, there's still some time before dinner.",
+      "So please go take a walk out back or something.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "親父の機嫌が悪いのは一過性だ。",
+      "アイデアが思い付けば、機嫌なんかころっと直って鼻歌交じりになる。",
+      "それまで、親父を刺激しないよう、散歩に行くのも悪くない。"
+    ],
+    "textEn": [
+      "Dad's moods are only temporary.",
+      "As soon as he gets an idea, his mood improves and he starts humming.",
+      "Until then, it wouldn't be a bad idea to just go take a walk so I don't aggravate him further."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃ、そうするかな。」"
+    ],
+    "textEn": [
+      "\"Well, I guess I will then.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "散歩ったって、どこへ行くあてもない。",
+      "ちょいと軽く、時間が潰せればそれでいいんだ。",
+      "自転車にまたがり、どこへ行こうか思案する。",
+      "本屋で立ち読みでもしたいが、町へは自転車で１時間。",
+      "帰りは暗くなってしまうから特に用がなければ行きたくはない。",
+      "ちなみに暗くなった雛見沢の夜道はかなり薄気味悪いのだ。",
+      "こんなの魅音や沙都子に知られたらまずいよな…。",
+      "ちょっと苦笑する。",
+      "そうだ。",
+      "レナはまだ宝の山…ダム工事現場にいるのだろうか。",
+      "ここで恩を売っておくのも悪くないだろう。"
+    ],
+    "textEn": [
+      "I said I was going to take a walk, but I didn't have any particular destination in mind.",
+      "I just needed to kill some time.",
+      "I got on my bike and pondered where to go.",
+      "I could just go read at the bookstore, but it would take about an hour by bike to get to town.",
+      "It would be dark by the time I got back, so I didn't want to go unless I had to.",
+      "The roads at night here in Hinamizawa creep me out.",
+      "If Mion or Satoko ever found out about that...",
+      "I smiled wryly.",
+      "Oh yeah.",
+      "Rena was probably still at the mountain of treasure... The dam construction site.",
+      "It wouldn't be so bad to have her owe me one."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…次の部活の時に恩返ししてもらえるかもしれないしな。」"
+    ],
+    "textEn": [
+      "\"...She might return the favor next time we have club activities.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ちょっぴり打算的に、俺は足をダム工事現場へ向けた。",
+      "ひょっとすると富竹さんがいるかもしれない。",
+      "レナにも魅音にも知らないと拒絶された事件を知る、唯一の人。",
+      "もう一度会えたなら、詳しい話を聞いてみたい…。",
+      "それが本音だった。",
+      "レナが斜面のゴミ山で奮闘しているのが見えた。",
+      "レナひとりじゃあ、とても発掘できるようには見えない。",
+      "富竹さんの姿がないことを知った俺は、危なげに斜面を降りていった。"
+    ],
+    "textEn": [
+      "With a little bit of self-interest in mind, I set off towards the dam construction site.",
+      "Tomitake-san might be there as well.",
+      "The only person with information about the incident that both Rena and Mion denied knowing anything about.",
+      "If I met him again, I'd like to ask for more details...",
+      "That was my real intention.",
+      "I spotted Rena struggling up on the slope of the garbage pile.",
+      "It didn't look like Rena would be able to excavate him by herself.",
+      "Realizing that Tomitake-san wasn't around, I began climbing down the slope unsteadily."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よぅレナ。",
+      "精が出ますなぁ。」"
+    ],
+    "textEn": [
+      "\"Hey, Rena.",
+      "Looks like you're working up a sweat.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……わ、",
+      "わ、",
+      "圭一くん！",
+      "…どうしたの、こんなところへ。」"
+    ],
+    "textEn": [
+      "\"...Whoa,",
+      "whoa,",
+      "Keiichi-kun!",
+      "...What brings you to a place like this?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こんなところ、か。",
+      "なるほど、一応自覚はあるらしい。"
+    ],
+    "textEn": [
+      "A place like this, huh?",
+      "I see. She was aware of it, at least."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「事故発生の緊急通報を受け参上しました！",
+      "負傷者はどこでありますか？！」"
+    ],
+    "textEn": [
+      "\"I received a signal for emergency assistance at the accident site!",
+      "Where is the injured party!?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「え？！え？！",
+      "事故って？！",
+      "…え？！」"
+    ],
+    "textEn": [
+      "\"Huh!? Huh!?",
+      "Accident!?",
+      "...Huh!?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「え？…っな、なぁんだ。びっくりした…。",
+      "圭一くん驚かさないでよ。」"
+    ],
+    "textEn": [
+      "\"Huh? ...O-Oh, that. You scared me...",
+      "Don't frighten me like that, Keiichi-kun.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…冗談だよ。",
+      "レナがひとりで困ってるだろうなって思ってさ、手伝いに来てやったんだよ。」"
+    ],
+    "textEn": [
+      "\"...I was just kidding.",
+      "I thought you might be struggling by yourself, so I came to help you out.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……へ？…って……レナのため…に…？",
+      "……はぅ。」"
+    ],
+    "textEn": [
+      "\"...Eh? ...You came... for me...?",
+      "...Hau.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "取り合えず今日のノルマはクリア。",
+      "一日一回はレナの赤面を見ないと栄養バランスが悪くなる。"
+    ],
+    "textEn": [
+      "Well, I filled my quota for today.",
+      "If I don't see Rena blush at least once a day, then I'm not getting my daily required nutritional intake."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「冗談だよ。こっちまで恥ずかしくなるだろ！」"
+    ],
+    "textEn": [
+      "\"Just kidding. You're embarrassing me now!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……て、…え？",
+      "……冗談って…どこからだろ？どこからだろ？！」"
+    ],
+    "textEn": [
+      "\"...So... huh?",
+      "...What part... was the joke? What part was it!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "取り合えず困惑するレナを無視しておく。"
+    ],
+    "textEn": [
+      "I just ignored her bewilderment."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…あ、ごめん！",
+      "……ほらこの隙間から…見える？」"
+    ],
+    "textEn": [
+      "\"...Ah, sorry!",
+      "...Can't you see him... in that gap?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「こりゃあ……本当に生き埋めだなぁ…！！」"
+    ],
+    "textEn": [
+      "\"He's... really buried in there...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの話によると、昨日まではこうではなかったらしい。",
+      "どうも昨夜のうちにまた不法投棄のダンプが来て、また捨てて行き、それに埋まってしまったらしかった。"
+    ],
+    "textEn": [
+      "According to Rena, it wasn't like this yesterday.",
+      "It seems as though another illegal dumper came yesterday, dumped again, and now he's buried like this."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……この山をひとりでどけるつもりだったのか…？！",
+      "その細い腕で…？！」"
+    ],
+    "textEn": [
+      "\"...You're trying to move this pile all by yourself...!?",
+      "With those scrawny arms...!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの華奢そうな腕では、とてもそんなことが出来るようには思えない。",
+      "レナの保護者として、断固犯罪に手を染めさせるわけにはいかない！"
+    ],
+    "textEn": [
+      "There's no way she would be able to do that with her slender arms.",
+      "As Rena's guardian, I won't allow her to sully her hands with crime!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「どいてろよ。俺がやる。」"
+    ],
+    "textEn": [
+      "\"Out of the way. I'll do it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナがまた赤面しているが、今回はからかわないでおく。",
+      "山はデカイ。",
+      "しかも無駄に日にちをかければまた不法投棄のダンプが来るかもしれない。",
+      "これ以上、山に埋まったらどうにもならないのだ。"
+    ],
+    "textEn": [
+      "Rena blushed again, but this time I left it alone.",
+      "The pile was enormous.",
+      "Also, the more days we wasted, the more likely another illegal dumping would occur.",
+      "If it got buried any deeper, there would be nothing that could be done."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん、レナも手伝えるよ。手伝わせて。」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun, I'll help too. Let me help.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「かえって邪魔んなるから下がってろって！",
+      "ぃよいしょぉおおッ！！」"
+    ],
+    "textEn": [
+      "\"You'd just get in the way, so stay back!",
+      "Hrrrrnnnnnngh!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "廃材を抜いたり",
+      "折ったり",
+      "投げ飛ばしたり。",
+      "すぐに汗まみれの埃まみれになった。",
+      "黄昏時の空の中、次々と綺麗な放物線を描いて飛んで行く。",
+      "木材、",
+      "角材、",
+      "ベニヤ板。",
+      "くっそぉぉぉっ！！",
+      "捨てても、捨ててもまだ出てくるっ！！！",
+      "レナに大見得を切った手前、たいして進まないスピードに焦りを感じた。"
+    ],
+    "textEn": [
+      "Pulling out scraps,",
+      "bending them,",
+      "tossing them aside.",
+      "I quickly became covered in sweat and dust.",
+      "Flying objects drew beautiful arcs across the twilight sky, one after another.",
+      "Lumber,",
+      "timber,",
+      "plywood.",
+      "Damn iiiit!!",
+      "No matter how much I threw out, there was still more!!",
+      "After grandstanding like that in front of Rena, I felt frantic because of how little I had progressed."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…本気でやるなら…斧とかのこぎりとかがいるかもしれねえなぁ…！」"
+    ],
+    "textEn": [
+      "\"...If I was going to do this seriously... I'd need an axe or saw or something...!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「もういいよ圭一くん…！",
+      "すごい汗だよ。",
+      "……そんな…無理しなくても…いいよ…。」"
+    ],
+    "textEn": [
+      "\"That's enough, Keiichi-kun...!",
+      "You're so sweaty.",
+      "...You don't... have to try... so hard...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナのためにやってるだけだ。",
+      "気にするな。」"
+    ],
+    "textEn": [
+      "\"I'm just doing it for you, Rena.",
+      "Don't worry about it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが言葉をどもらせるとゆでダコみたいに真っ赤になった。",
+      "あ、しまった…。レナを犯罪者にしないために頑張ってるんだって言うつもりだったんだが……。",
+      "まぁいいか。"
+    ],
+    "textEn": [
+      "Rena began sputtering and turned beet red.",
+      "Ah, whoops... I meant to say I was trying my best so as to keep her from becoming a criminal...",
+      "Oh well."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「さすがに…休憩……！",
+      "こいつは…手ごわいぜ…！！」"
+    ],
+    "textEn": [
+      "\"I guess I just... need a break...!",
+      "This... is pretty tough...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺は草むらの斜面にどかっと大の字になって倒れこむ。"
+    ],
+    "textEn": [
+      "I sprawled on my back over the grassy slope."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ごめんねごめんね…。",
+      "すごい……汗だく……。」"
+    ],
+    "textEn": [
+      "\"I'm so sorry...",
+      "You're... covered in sweat...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナのハンカチがペタペタと額に触れる。",
+      "ちょっと気持ちよかった。"
+    ],
+    "textEn": [
+      "Rena patted her handkerchief against my forehead.",
+      "It felt pretty nice."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あ、あのさ、ちょっとここで休んでてね！",
+      "私、家近いから。",
+      "麦茶とか持ってきてあげるね！」"
+    ],
+    "textEn": [
+      "\"U-Uhm, well, wait here a minute, okay?",
+      "My house is pretty close.",
+      "I'll bring you some barley tea, okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ハンカチを額に置くと、レナはぴゅーっと駆け出して行った。",
+      "ひぐらしの声がゆっくりと空気を冷やして行く。",
+      "レナが走り去ったことを確認すると、俺は体を起こして、さっき見付けたものへ近付いて行った。",
+      "それは、紙紐で縛られた新聞や週刊誌で積み上げられたゴミ山だった。",
+      "さっきのが見間違えでなければ…。",
+      "たしか…この辺に積まれていたと思う…。",
+      "あった。",
+      "それはあまり上品でない写真週刊誌を束ねて縛ったものだった。",
+      "過去数年分のバックナンバーが順番通りに重ねられている。",
+      "最近は物騒な世の中だ。",
+      "こういう気色悪い事件は後を絶たない。",
+      "そして、そんな事件に好奇心を寄せる大衆だって大勢いる。",
+      "ならば載っているはずだ。",
+      "どこかに。",
+      "手早く梱包を解き、雨で貼り付いたページを器用にこじ開け目次に目を通す。",
+      "ない。",
+      "次。",
+      "ない。",
+      "次。",
+      "事件がいつあったのか分からないのが痛手だった。",
+      "犯人も被害者も分からない。",
+      "分かるのはここであったということだけ。",
+      "時折顔を上げ、レナがまだ戻ってこないかを確認した。",
+      "ちょっとエッチなグラビアのある写真週刊誌を漁っているところなど絶対に見られたくなかったが、実際はそれだけではなかった。",
+      "レナも、魅音も、知らないと言った。",
+      "だが間違いなくそれはあったのだ。",
+      "……富竹さんが嘘をついていない限り。",
+      "レナも魅音も。",
+      "「うん。あったね。」",
+      "と一言言ってくれれば、俺の妙な好奇心も収まったのかもしれない。",
+      "レナも魅音も口にしたくないような「事件」。",
+      "好意で隠してくれていることをわざわざあばこうとしている……。",
+      "そんな、友人たちへの背徳感だった。",
+      "“雛見沢ダム・作業員リンチ死！　バラバラ殺人！！”",
+      "…あった！",
+      "特集記事は後のページで、巻頭のカラーページに写真が出ているようだった。",
+      "特集ページはがっちりと張り付いてしまって簡単に開かない。",
+      "そろそろレナが戻ってきてもおかしくない。",
+      "…焦った俺は諦め、写真ページの方を開く。",
+      "捜査官が死体袋を運び、報道陣が一斉にフラッシュを浴びせているシーンだった。",
+      "写真は黒ずんで分かり難いが、白抜きの見出しはくっきりと読み取れた。",
+      "“雛見沢ダムで悪夢の惨劇！　リンチ・バラバラ殺人！”",
+      "“被害者は現場監督。日頃から粗暴な振る舞いで加害者たちを…“",
+      "“日頃の鬱積が爆発？　現場監督は見るも無惨な……”",
+      "…あったのだ。",
+      "……やっぱりあったのだ。",
+      "事件の詳細は次のページから始まるようだ。",
+      "…俺はためらいもなく次のページを開いた。",
+      "……そこには…、",
+      "“犯人達は被害者を鉈やつるはしで滅多打ちにして惨殺し、”",
+      "“さらに斧で遺体を頭部・両腕・両足・胴体の６つに分割、”",
+      "見出しだけでも十分わかる、……それは…あまりに無惨な",
+      "…事件だ。",
+      "普通、リンチってのは殴ったり蹴ったりじゃないのか…？",
+      "鉈やつるはしや斧で？",
+      "こんなのはリンチですらない。",
+      "文字通りの惨殺、残虐殺人だ…。",
+      "何人もでよってたかって。",
+      "レナは慌てふためきながら弁解と謝罪の言葉を続ける。",
+      "どうやら、俺は相当険しい目つきをしているらしかった。"
+    ],
+    "textEn": [
+      "Leaving the handkerchief on my forehead, Rena took off running.",
+      "The cries of the higurashi gently cooled the air.",
+      "After I was certain that Rena was gone, I picked myself up and headed towards what I'd discovered earlier.",
+      "That was a garbage pile of magazines and newspapers bound up in twine.",
+      "Unless I'm mistaken...",
+      "I believe it... was around here...",
+      "There it was.",
+      "They were bound stacks of not-so-reputable tabloids.",
+      "They were stacked chronologically, going back quite a few years.",
+      "These are troubled times.",
+      "There is no end to these sickening incidents.",
+      "There's a large part of society drawn in by these incidents, as well.",
+      "So it had to be recorded.",
+      "Somewhere.",
+      "I unfastened the packages and opened the rain-soaked pages carefully, looking over the table of contents.",
+      "Not here.",
+      "Next one.",
+      "Not here.",
+      "Next one.",
+      "It was hard to search since I didn't know when it happened.",
+      "I didn't know who the perpetrator or the victim was, either.",
+      "I only knew it had happened here.",
+      "I looked up every so often, checking to see if Rena had come back or not.",
+      "I wouldn't want her to see me gawking at a dirty magazine, but it wasn't just that.",
+      "Both Rena and Mion said they didn't know.",
+      "But it had happened, without a doubt.",
+      "...As long as Tomitake-san wasn't lying.",
+      "Then if both Rena and Mion...",
+      "\"Ah. Yeah, there was.\"",
+      "If they had just said that, then I wouldn't have gotten so hung up on it.",
+      "An 'incident' that neither Rena nor Mion wished to talk about.",
+      "Trying to uncover it after they tried to conceal it out of good intentions...",
+      "That made me feel like I was acting against my friends.",
+      "\"HINAMIZAWA DAM WORKER LYNCHING! MURDER BY DISMEMBERMENT!!\"",
+      "...Here it is!",
+      "The featured article was in the back and it seemed that there was a photograph in the colored pages at the front.",
+      "The pages of the featured article were stuck together and weren't easy to open.",
+      "Rena could return at any moment.",
+      "...Feeling rushed, I gave up and opened the photograph page.",
+      "The police investigators were carrying a body bag and newspaper reporters were all bathing it in camera flashes.",
+      "The image was blurry and hard to understand, but I could definitely make out the headlines.",
+      "\"A Tragic Nightmare at the Hinamizawa Construction Site! Lynching and Murder/Dismemberment!\"",
+      "\"The victim was the site foreman. He had assaulted his assailants daily with...\"",
+      "\"An explosive backlash from his daily actions? It's a horrible image, to see the site foreman as...\"",
+      "...It happened...",
+      "It really did happen...",
+      "It seemed the details were on the next page.",
+      "...I turned the page without pausing.",
+      "...On it was...",
+      "\"The assailants butchered the victim's body with hatchets and pickaxes,",
+      "then used an axe to split the cadaver into six pieces: the head, arms, legs, and torso.\"",
+      "I could understand just from the headline that it was... just too terrible...",
+      "an incident.",
+      "Normally a lynching is just assault and murder right...?",
+      "Dismemberment with hatchets and pickaxes?",
+      "That wasn't a lynching.",
+      "It was a merciless killing to the letter, a brutal murder...",
+      "Done by a group of people.",
+      "Rena fluttered her arms in a panic, continuing to explain and apologize.",
+      "It seemed I'd been glaring at her pretty intensely."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ご、ごめん…、ちょっとオーバーに驚き過ぎたかな。」"
+    ],
+    "textEn": [
+      "\"I-I'm sorry... I guess my reaction was a bit overboard.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「う、うぅん、…こ、こっちこそごめんね！…ごめんね！」"
+    ],
+    "textEn": [
+      "\"N-No... I-I'm sorry as well! ...I'm sorry!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…もうすぐ日が落ちてしまう。",
+      "体はくたくただし、続きを明日にしてもいいだろう。",
+      "な？」"
+    ],
+    "textEn": [
+      "...Night was drawing close.",
+      "I was pretty worn out, and it wouldn't hurt to do the rest tomorrow.",
+      "All right?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…うん。」"
+    ],
+    "textEn": [
+      "\"...Okay.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "互いに、これ以上謝り合っても意味がないことは十分に分かっていた。",
+      "俺たちはレナの持ってきてくれた麦茶で喉を潤すと、すっかり冷えてしまった汗を拭き、帰路についたのだった。",
+      "脱いだ上着にくるんで隠した写真週刊誌が、今はとても後ろめたかった。"
+    ],
+    "textEn": [
+      "We both knew that it was useless to apologize any more than that.",
+      "I quenched my thirst with the barley tea Rena brought and wiped off the sweat that had now gone cold. We took the path to head home.",
+      "I felt quite guilty about the tabloid wrapped up in my jacket."
+    ]
+  }
+]

@@ -1,0 +1,5783 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それから数日がたった。",
+      "あれから今日まで、魅音に用事があったり、梨花ちゃんにお祭りの手伝いがあったりとでなかなかメンバーが揃わず、部活はお預けになっていた。",
+      "部活の度に命を削るような大立ち回りをさせられて二度とやるものかッと思うくせに、いざないとなると今度はどうにも物足りない。",
+      "……つくづく俺って素直じゃない。",
+      "そして今日はその、久々の部活の日だ。",
+      "それもただの部活ではない。",
+      "その名も「綿流祭五凶爆闘」！！",
+      "我が部の一大イベントらしい。"
+    ],
+    "textEn": [
+      "A few days had passed since the incident.",
+      "During that time either Mion was busy or Rika-chan had to help with the festival preparations, so we couldn't get everybody together for club activities.",
+      "Even though I thought I would never want to participate again after the years it shaved off my life each time, not having it only made my heart grow fonder.",
+      "...I really am not honest with myself.",
+      "Today we finally had our club activities again.",
+      "These weren't the same old club activities.",
+      "It was called the Watanagashi Five-Demon Fire Fight!!",
+      "And it was one of the biggest events in the club."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「圭一〜。",
+      "この浴衣、まだ着れるかしら？",
+      "ちょっと袖を通してみてくれる？」"
+    ],
+    "textEn": [
+      "\"Keiichi~",
+      "Does this yukata still fit you?",
+      "Can you try it on for a second?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お袋がほこりの匂いがする浴衣を引っ張り出してきた。"
+    ],
+    "textEn": [
+      "Mom pulled out an old, dusty yukata."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いいよ浴衣なんて…！",
+      "恥ずかしいから普段着で行くよ。」"
+    ],
+    "textEn": [
+      "\"Nah, I don't need a yukata...",
+      "Those are embarrassing, so I'll just go in my normal clothes.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「でもお祭りなんだから。着て行きなさいな？」"
+    ],
+    "textEn": [
+      "\"But this is a festival. Wear it, okay?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナとかは普段着でいいって言ってたぜー？",
+      "浴衣なんか着てったらかえって恥さらしだよ！」"
+    ],
+    "textEn": [
+      "\"Rena and the others said regular clothes are just fine.",
+      "If I was the only one wearing a yukata, it'd be even more embarrassing!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺はいつものよそ行きの上着を着る。"
+    ],
+    "textEn": [
+      "I put on the same old vest as usual."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「祭りにはレナたちと行くからさ。",
+      "俺のことは放っておいて大丈夫。」"
+    ],
+    "textEn": [
+      "\"I'll be going with Rena and the others,",
+      "so you don't need to worry about me.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「そう？",
+      "じゃあ母さんは父さんが起きたら二人で行くわね。」"
+    ],
+    "textEn": [
+      "\"Is that so?",
+      "I'll be going with Dad when he wakes up.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "親父はソファーに毛布で高いびきだ。"
+    ],
+    "textEn": [
+      "Dad let out a loud snore from the sofa."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あの調子じゃ…昨夜も徹夜かな。」"
+    ],
+    "textEn": [
+      "\"From how it looks... he must've pulled an all-nighter last night.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「急ぎの原稿をようやく発送したとこなの。",
+      "ひょっとすると起きないかもねぇ…。」"
+    ],
+    "textEn": [
+      "\"He just finished sending in his manuscript.",
+      "So he might not wake up for a while...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "親父はたまに美術雑誌のコラムとかも書いてるらしい。",
+      "…一度も読んだことはないが。",
+      "俺の親父って…すごい画家なんだろうか。",
+      "…実の息子が言うのもなんだが、そんなに売れているとは思えない。",
+      "でも家族３人をしっかり食わせているし、生活には何の不便もない。",
+      "俺が知らないだけで……ひょっとするとすごい大画伯なのかもしれない…。",
+      "ぴんぽ〜〜ん！"
+    ],
+    "textEn": [
+      "It seems my dad writes for art magazines sometimes, too.",
+      "...I've never read it, though.",
+      "I wonder if my dad... is a really famous artist.",
+      "...As his son, it's a bit strange for me to say, but I can't imagine he's selling all that well.",
+      "But he's able to feed a family of three, and my life isn't exactly full of hardships.",
+      "Maybe he's actually a master painter... and I just never knew it...",
+      "Ding dong~~!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん、いらっしゃいますか〜〜！！」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun, are you home~~!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "しまった！　もう待ち合わせの時間だったか！！",
+      "家に来られたくなかったから、早々に家を出て外で落ち合うつもりだったのに…！！"
+    ],
+    "textEn": [
+      "Uh-oh! It was already time!",
+      "I didn't want them coming here, so I was planning on leaving early and waiting outside...!!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「あらあらレナちゃん！",
+      "いつもうちの圭一がお世話になってまして…！」"
+    ],
+    "textEn": [
+      "\"Oh my, it's Rena-chan!",
+      "Thank you for always looking after Keiichi...!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あ、…お、おばさま……こ、こちらこそ…お、お世話に…なって……、」"
+    ],
+    "textEn": [
+      "\"Ah... M-Ma'am... H-He's also... b-been looking... out for...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "なんでうちのお袋に会うだけで赤くなるんだぁあぁあ！！！"
+    ],
+    "textEn": [
+      "Why are you blushing just from meeting my mom!?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そこで真っ赤になるな！",
+      "実に気まずい！",
+      "行くぞレナ！」"
+    ],
+    "textEn": [
+      "\"Don't get all flustered!",
+      "This feels so awkward!",
+      "Let's go, Rena!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "放っておけばいつまでもぽやーっとしているだろうレナの手を取り、ずんずんと歩いて行く。"
+    ],
+    "textEn": [
+      "Since Rena would continue to space out if I left her here, I grabbed her hand and dragged her out."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「レナちゃ〜ん！　圭一をよろしくね〜！」"
+    ],
+    "textEn": [
+      "\"Rena-chan~! Look after Keiichi for me~!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ！……はいおばさま〜〜〜！",
+      "圭一くんはレナが命に替えましても〜☆」"
+    ],
+    "textEn": [
+      "\"Hao!... Yes, Ma'am~~~!",
+      "Even if it means I must sacrifice myself~.☆\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "じゃあ今すぐ替えろ！",
+      "引きずられながら手を振り返すレナ。"
+    ],
+    "textEn": [
+      "Then why don't you do it right now!?",
+      "She waved back even as I was dragging her away."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ハ〜イ圭ちゃん！",
+      "今日はお腹空かしてる？",
+      "露店で済ますんだからね！」"
+    ],
+    "textEn": [
+      "\"Okay~, Kei-chan!",
+      "You hungry today?",
+      "We'll take care of that at these stalls!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「部活が露店勝負とわかってて、腹を無駄に膨らますと思ったかよ！！」"
+    ],
+    "textEn": [
+      "\"You thought I'd let myself get full knowing the club activities will involve the stalls!!?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そうでなくっちゃ！」"
+    ],
+    "textEn": [
+      "\"Wouldn't have it any other way!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「沙都子と梨花ちゃんは？",
+      "もう神社に行ってるのか？」"
+    ],
+    "textEn": [
+      "\"Where are Rika-chan and Satoko?",
+      "Are they already at the temple?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん！　梨花ちゃんはお祭りの実行委員さんだもん。",
+      "沙都子ちゃんもきっと一緒だよ。」"
+    ],
+    "textEn": [
+      "\"Yep! Rika-chan's a festival committee member after all.",
+      "Satoko-chan is probably with her as well.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そっか。",
+      "……",
+      "よっしゃ！",
+      "今日は目いっぱい騒ぐぞぉ！！」"
+    ],
+    "textEn": [
+      "\"I see.",
+      "...",
+      "All right!",
+      "Let's make some noise today!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「「お〜〜〜〜〜ッ！！！！」」"
+    ],
+    "textEn": [
+      "\"\"Yeah~~~~~!!!!\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺たち３人、早くも意気は軒昂だった。",
+      "古手神社は以前来た時の様子からは想像もつかないくらいの大賑わいを見せていた。",
+      "色とりどりの提灯が並び、連なる露店やそれに群がる人々の雑多な雰囲気が、とても心地よい。"
+    ],
+    "textEn": [
+      "We were already in high spirits with just the three of us there.",
+      "It was way more lively at the Furude shrine than the last time I came, far exceeding my expectations.",
+      "Throngs of people were crammed between rows of market stalls lined with colorful paper lanterns.  Despite that, it was actually quite enjoyable."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「すげぇ人だなぁ！！",
+      "雛見沢ってこんなに人がいたんだ…。」"
+    ],
+    "textEn": [
+      "\"There sure are lots of people here!!",
+      "I can't believe they all live in Hinamizawa...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「綿流しのお祭りはみんな来るよ。",
+      "多分、雛見沢の人の半分くらいは来てるんじゃないかな。」"
+    ],
+    "textEn": [
+      "\"Everybody attends the Watanagashi.",
+      "I think about half the village is here.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「それだけじゃないよ。",
+      "近隣の町の町会や子供会も招待してる。」"
+    ],
+    "textEn": [
+      "\"It's not just that.",
+      "Municipal and youth councils from neighboring towns and villages advertise this event as well.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうだよな。",
+      "俺たちの学校、あれしか生徒いないのに。",
+      "今日は子供の姿がやたらたくさんある。」"
+    ],
+    "textEn": [
+      "\"That's right.",
+      "There aren't that many students at our school.",
+      "But there's a lot of kids here today.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「お祭りの賑やかさは、やっぱり子供の賑やかさだからね。」"
+    ],
+    "textEn": [
+      "\"It just doesn't feel like a festival unless there are kids running around, after all.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そうだよな。同感だ。"
+    ],
+    "textEn": [
+      "That's true. I agree."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あ、どうもこんばんは〜！」"
+    ],
+    "textEn": [
+      "\"Ah, hello and good evening~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "二人にとってはすれ違う人は全て知り合いだ。",
+      "もちろん俺にもみんな挨拶してくれるが、肝心の俺はまだ顔を覚えるには至らない。"
+    ],
+    "textEn": [
+      "These two knew everybody we came across.",
+      "Of course I greeted them as well, but I still wasn't familiar with everybody yet."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「あぁらレナちゃん。",
+      "この間はお惣菜をありがとうね！",
+      "うちの子もおいしいって喜んでたわ。」"
+    ],
+    "textEn": [
+      "\"Oh, Rena-chan.",
+      "Thanks for the food you brought me a while back!",
+      "My son loved it. He said it was delicious.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あ、いえいえ☆",
+      "気に入ってもらえてうれしいです。",
+      "和正くんにもよろしくお伝えくださいね！」"
+    ],
+    "textEn": [
+      "\"Ah, it was nothing at all.☆",
+      "I'm glad he liked it.",
+      "Say hello to Kazumasa-kun for me, please!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Festival Stall",
+    "labelJp": "屋台",
+    "textJp": [
+      "「よぉ！",
+      "園崎のお嬢ちゃんじゃねぇの！",
+      "今年も屋台担いで来てやったぜぇ！！」"
+    ],
+    "textEn": [
+      "\"Hey!",
+      "If it isn't Sonozaki-ojouchan!",
+      "I'm in charge of a stand again this year, so make sure you come visit!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「おっちゃん、太ったぁ？！",
+      "今からそんなお腹じゃ果ては心筋梗塞だね！」"
+    ],
+    "textEn": [
+      "\"Pops, have you gotten fatter!?",
+      "You'll end up having a heart attack with a gut like that!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Festival Stall",
+    "labelJp": "屋台",
+    "textJp": [
+      "「お。この兄ちゃんは新顔だなぁ。",
+      "嬢ちゃんの後輩かい？！」"
+    ],
+    "textEn": [
+      "\"Oh. This kid here is new.",
+      "Are you one of her underclassmen!?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うちの部員だよ。",
+      "…期待のニューフェイス！　侮ると一晩で屋台潰されるよ！」"
+    ],
+    "textEn": [
+      "\"He's one of my members.",
+      "...An upcoming hopeful!  If you cross him, he could crush your stand in one night!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Festival Stall",
+    "labelJp": "屋台",
+    "textJp": [
+      "「嬢ちゃんのお墨付きかい！　そりゃーお手柔らかに頼むぜ〜！！！」"
+    ],
+    "textEn": [
+      "\"You've got little missy's seal of approval, I see! Hope you take it easy on me~!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "想像通りというか、魅音は屋台のおっさんたちととても親しげに話している。"
+    ],
+    "textEn": [
+      "As you could imagine, Mion was chatting away with the old guys running the stalls."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃんは元気いいからね。",
+      "おじさんたちにすごく人気あるの。」"
+    ],
+    "textEn": [
+      "\"Mii-chan is really energetic, after all.",
+      "She's really popular with the older men.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナも人気あると思うけどなぁ。",
+      "可愛いし。」"
+    ],
+    "textEn": [
+      "\"I think Rena is pretty popular too.",
+      "Being cute and all.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もちろん悪い病気が出なければ、という条件付きだが。",
+      "でも、レナも黙って赤くなってる分には充分可愛いヤツだと思う。"
+    ],
+    "textEn": [
+      "That was, of course, so long as her little 'condition' didn't flare up.",
+      "But as long as she's blushing quietly, she's pretty cute."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…へ……レナが……？",
+      "……だ、…誰に人気あるのかな？",
+      "あるのかな？！」"
+    ],
+    "textEn": [
+      "\"...Uhh? ...I'm...",
+      "popular with some people? Really?",
+      "Really!?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「誰かにだよ。」"
+    ],
+    "textEn": [
+      "\"With some people.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの頭を乱暴にぐしゃぐしゃなでてはぐらかす。"
+    ],
+    "textEn": [
+      "I evaded giving her a straight answer by roughly tousling her hair."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「露天商は町からわざわざ来てくれるんだよ。",
+      "やっぱりこういうのがないとお祭りは盛り上がらないよねぇ！！」"
+    ],
+    "textEn": [
+      "\"The stall keepers came all the way from town.",
+      "It's not really a festival without them, after all!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「で、それを俺たちは荒して回るわけか。",
+      "…どんな勝負にせよ、俺は負けないぜ！！」"
+    ],
+    "textEn": [
+      "\"So, we're going to mess with them now?",
+      "...I don't care what kind of match it is, I'm going to win it!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね。……えへへ…がんばろ！」"
+    ],
+    "textEn": [
+      "\"Oh, yes. ...Ehehe... I'll try, too!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あーーッ！！",
+      "遅いですわ皆々様！！",
+      "レディーを待たせるとは圭一さんもなってないでございますわ〜！！！」"
+    ],
+    "textEn": [
+      "\"Heeey!!",
+      "You're all very late!!",
+      "It's unacceptable to keep a lady waiting, Keiichi-san~!!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ほ〜。そりゃすまんな。",
+      "で、その待たせた「レディー」ってのはどこにいるんだ？」"
+    ],
+    "textEn": [
+      "\"Ooh~ My bad.",
+      "So, where is this lady I've kept waiting?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ぬわんですってぇえぇええぇえッ！！！！」"
+    ],
+    "textEn": [
+      "\"Huwat did you just saAaaAay!?!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ＯＫ！　沙都子も絶好調だな。久しぶりに揃ったメンバーに興奮しているようだ。"
+    ],
+    "textEn": [
+      "All right! Satoko was in top form as well. Seemed she was all excited about being able to get everybody in the club together for the first time in a while."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…わぁ〜あ☆…梨花ちゃん……か、かかかかか…かぁいい…〜♪！！」"
+    ],
+    "textEn": [
+      "\"...Wooa~☆... Rika-chan... Ky-K-K-K-K... Kyute...~♪!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが感嘆のため息を漏らす。",
+      "どうやら本物のレディーの登場みたいだな。"
+    ],
+    "textEn": [
+      "Rena let out an elated sigh.",
+      "It seemed that the real Lady had made her appearance."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…こんばんはですよみんな。",
+      "圭一もこんばんはです。」"
+    ],
+    "textEn": [
+      "\"...Good evening, everyone.",
+      "Good evening to Keiichi, as well.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「きゃー！！",
+      "いいねいいねぇ！",
+      "今年もキマってるじゃーん！」"
+    ],
+    "textEn": [
+      "\"Woo!!",
+      "Looking good!",
+      "You're looking sharp again this year!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「か、かぁいいかぁいい…！",
+      "お持ち帰り〜！！」"
+    ],
+    "textEn": [
+      "\"K-Kyuutee...!",
+      "Gonna take you home~!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんは巫女さん姿で登場だ。",
+      "うん。",
+      "レナの暴走もわかるぞ！"
+    ],
+    "textEn": [
+      "Rika-chan was wearing a shrine maiden outfit.",
+      "Yup.",
+      "Rena's little outburst was completely understandable!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「梨花ちゃんの服装は本格派だなぁ…！！",
+      "これって本物の巫女さんの服か…？」"
+    ],
+    "textEn": [
+      "\"Rika-chan's clothes sure look like the real deal...!!",
+      "Is that a real shrine maiden outfit...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うちの婆っちゃのお手製。",
+      "結構本格派でしょ。」"
+    ],
+    "textEn": [
+      "\"My grandmother made them by hand.",
+      "They're quite authentic.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「梨花ちゃんはお祭りの最後に大切なお仕事があるから、その衣装なの。」"
+    ],
+    "textEn": [
+      "\"Rika-chan has an important role to play at the end of the festival, so she's wearing this.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "なるほどな。梨花ちゃんの実行委員ってのはつまり、祭りの神事の巫女さん役ってことなのか。"
+    ],
+    "textEn": [
+      "I see. Rika-chan was on the executive committee because she performed all the shrine maiden rituals for the festival."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…お仕事はお祭りの最後のところだけなのです。",
+      "…まだまだゆっくり遊べますですよ。」"
+    ],
+    "textEn": [
+      "\"...My work is only during the finale of the festival...",
+      "so I can still play for a while.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ってことはここで時間を無駄にできないということですわ〜！",
+      "参りましょう！！」"
+    ],
+    "textEn": [
+      "\"So we cannot afford to waste any time~!",
+      "Let us begin!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おっしゃあぁああッ！！」"
+    ],
+    "textEn": [
+      "\"Haoriiight!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "５人の郎党で祭りを練り歩くのは実にいい気分だぞ！",
+      "魅音は目に付いた屋台にみんなを誘っては珍妙な勝負を提案してくる。"
+    ],
+    "textEn": [
+      "It felt good to wander around the festival with just the five of us.",
+      "Mion called everyone over to a stand that caught her attention and proposed a rather odd competition."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「たこ焼き早食い勝負〜ッ！！！",
+      "各自購入の上、",
+      "よーいどんッ！！」"
+    ],
+    "textEn": [
+      "\"Takoyaki eating race~!!!",
+      "Everyone has to buy their own.",
+      "Ready? Go!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "屋台の定番、たこ焼き屋ッ！",
+      "たこなど名ばかりの小麦粉玉というエセっぷりがいかにもだ！！"
+    ],
+    "textEn": [
+      "A standard in vendor stalls: the takoyaki stand!",
+      "What was especially standard for these kinds of events was the fact that they were simply balls of dough, takoyaki in name only!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あッ熱ッアツがツがぁあぁあぁああッ！！！」"
+    ],
+    "textEn": [
+      "\"It buUuUuUurns!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「け、圭一くん、大丈夫？！？！",
+      "お水お水！」"
+    ],
+    "textEn": [
+      "\"A-Are you okay, Keiichi-kun!?!?",
+      "Have some water!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あ〜あ〜…そんなアツアツたこ焼き、丸呑みなんて自殺行為でございますわぁ！」"
+    ],
+    "textEn": [
+      "\"My~ my~... Eating those scalding takoyaki whole is suicide!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「作り置きの冷めたヤツを購入するのがコツかなぁ。」"
+    ],
+    "textEn": [
+      "\"I guess the trick is to buy the ready-made ones that have been left there for a while.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…実においしくないですよ。」"
+    ],
+    "textEn": [
+      "\"...They really don't taste good.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "隣の屋台はかき氷だ。",
+      "ちょっと季節が早いが今は関係ない！！"
+    ],
+    "textEn": [
+      "The stall next to it was a shaved ice stand.",
+      "It was still a bit too early in the season for that, but right then it didn't matter!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「今度はかき氷にしようぜ！！",
+      "完食早食い勝負だッ！！",
+      "レディ、",
+      "…ゴーッ！！！」"
+    ],
+    "textEn": [
+      "\"Let's do shaved ice this time!",
+      "It's a shaved ice eating race!!",
+      "Ready...",
+      "Go!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…か、かき氷の早食いなんて……む……むり〜…！！」"
+    ],
+    "textEn": [
+      "\"...Sh-Shaved ice eating race... I... I can't!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「体温で少しでも溶かせば……！！",
+      "つッ？！",
+      "冷たいですのぉおぉおお！！！」"
+    ],
+    "textEn": [
+      "\"As long as you can melt it a bit with your body heat, then...!!",
+      "It's...?!",
+      "It's so coOoOoold!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「甘いね！",
+      "おじさんはシロップ大盛で頼んだのさ！！",
+      "混ぜればすぐに溶ける！！」"
+    ],
+    "textEn": [
+      "\"Not smart!",
+      "This old man ordered it with plenty of syrup!!",
+      "It'll melt quickly when it's mixed up!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "遅過ぎるぜのろまども！！",
+      "正攻法の時点でお前らの負けだぁあぁあああぁあ！！！"
+    ],
+    "textEn": [
+      "Those stooges were too late!!",
+      "The moment they chose to tackle it head-on was their downfaaaAaaAll!!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ぷはぁあぁあぁッ！！",
+      "完食だぁああぁああッ！！！」"
+    ],
+    "textEn": [
+      "\"Pheeew!!",
+      "FiniIIiiIIshed!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「け、圭ちゃんがぁ？！",
+      "は、早過ぎる…ッ！！！！」"
+    ],
+    "textEn": [
+      "\"K-Kei-chan is done!?",
+      "Th-That was too fast...!!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ま、",
+      "……まさか",
+      "…圭一くん……後ろの……金魚すくいのお水を入れたんじゃ……！！」"
+    ],
+    "textEn": [
+      "\"It...",
+      "It couldn't be...",
+      "Keiichi-kun... you didn't... add water from the goldfish tank behind you, did you...!?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…実においしくないですよ。」"
+    ],
+    "textEn": [
+      "\"...That can't taste very good.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "さらに隣はこれまた定番！",
+      "綿アメ屋だッ！！"
+    ],
+    "textEn": [
+      "Next to that was another old favorite!",
+      "A cotton candy stand!!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「次はこちらにしませんこと？！",
+      "もちろん早食いですわっぁああぁあ！！！」"
+    ],
+    "textEn": [
+      "\"Why don't we do this one next!?",
+      "Of course, it's a speed eating conteeeest!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ね、ねぇねぇ…綿アメの早食いなんて…どうやるんだろ？",
+      "どうやるんだろ？！」"
+    ],
+    "textEn": [
+      "\"H-Hey, hey... How do you... eat cotton candy quickly?",
+      "How!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子のよーいドンッ！！の合図と共に俺と魅音、そして沙都子が手の平でばしんばしんと叩いて一瞬にして綿アメを潰してしまうッ！！！",
+      "割り箸ごと口に入れるまで……３秒ッ！！！"
+    ],
+    "textEn": [
+      "On Satoko's mark, Mion, Satoko, and I all compressed the cotton candy with our bare hands!!",
+      "The time it took to stick the whole thing in our mouths? ...Three seconds!!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「沙都子はともかく、圭ちゃんも気付いてたとはね……！！」"
+    ],
+    "textEn": [
+      "\"I expected Satoko to figure it out, but I didn't think Kei-chan would too...!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺をいつまでも新入部員扱いしないことだぜぇえぇええぇ？！」"
+    ],
+    "textEn": [
+      "\"I can't have you treating me like I'm a newbie forever, can I!?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…実においしくないですよ。」"
+    ],
+    "textEn": [
+      "\"...It won't taste very good.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そういう梨花ちゃんも両手でぺたぺたにしてから割り箸をしゃぶっている。"
+    ],
+    "textEn": [
+      "Rika-chan had also crushed it between her hands and stuck it into her mouth."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「こんな綿アメの食べ方。きっと日本中でもここだけだよ…。」"
+    ],
+    "textEn": [
+      "\"This is probably the only place in Japan where people eat cotton candy like this...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "多分、レナに食べてもらえた綿アメが一番幸せだったろうと思う…。",
+      "しかし……このまま行くと終いには「トコロテンを鼻で食べる勝負！」とか「金魚すくいで人間ポンプ！」とかに発展しかねないな…。"
+    ],
+    "textEn": [
+      "I think only Rena's cotton candy was happy with how it was eaten...",
+      "But... it felt like we'd end up doing stuff like \"eat noodles through the nose contest!\" or \"human water pump at the goldfish scoop!\" at the rate things were going..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「それでもおじさんは勝つけどねぇ！」"
+    ],
+    "textEn": [
+      "\"This old man will probably still win, too!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「悪食勝負では魅音さんにはかないませんわねぇ…。」"
+    ],
+    "textEn": [
+      "\"I am simply no match for Mion-san when it comes to eating repulsive things...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁまったく。」"
+    ],
+    "textEn": [
+      "\"Yeah, seriously.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「何あんたたち。",
+      "次はヤキソバにブルーハワイかけて食べる勝負にしたいわけぇ？？」"
+    ],
+    "textEn": [
+      "\"What's up with you guys?",
+      "Are you telling me you don't want to have a Blue Hawaii-topped yakisoba-eating contest??\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぶんぶん！　沙都子と同じモーションで俺も首を振る。"
+    ],
+    "textEn": [
+      "Shake, shake! Both Satoko and I shook our heads in unison."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あ、あのさ…！",
+      "今度はちょっと食べ物から離れたゲームにしないかな？　しないかな？」"
+    ],
+    "textEn": [
+      "\"U-Um...!",
+      "Can we have a game that doesn't involve food this time? Can we?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの提案は渡りに船だ。そろそろ他のゲームでもいい。",
+      "それに大食い早食いはレナや梨花ちゃんの得意スキルではないしな。"
+    ],
+    "textEn": [
+      "Rena's proposal was a godsend. It was about time we played a different kind of game.",
+      "It also seemed like neither Rena nor Rika-chan were any good at speed-eating or gorging themselves."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「じゃあレナ。次のゲームをあんたに任せるよ！！",
+      "何でもいい！！」"
+    ],
+    "textEn": [
+      "\"Okay Rena. I'll let you pick out the next game!!",
+      "Anything is fine!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあねじゃあね！",
+      "レナは審判だよ！",
+      "このお祭り会場でかぁいいものを探してくるの！！",
+      "制限時間は１分〜！！」"
+    ],
+    "textEn": [
+      "\"Well then, well then!",
+      "I'm going to be the judge!",
+      "Find kyute things on the festival grounds!!",
+      "You have one minute~!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「上等ですわぁあぁ！！",
+      "レナの好みはわかってますもの！！！！」"
+    ],
+    "textEn": [
+      "\"Fine by me!!",
+      "I know exactly what Rena likes!!!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よし…。",
+      "……多分",
+      "、あれなら勝てるッ！！！」"
+    ],
+    "textEn": [
+      "\"All right...",
+      "...I think",
+      "I can win with 'that'!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「よーいどん！！！",
+      "………あれ？",
+      "圭一くんと梨花ちゃんは…なんでスタートしないんだろ？　しないんだろ？」"
+    ],
+    "textEn": [
+      "\"Ready... Go!!!",
+      "...Oh?",
+      "Why aren't Keiichi-kun and Rika-chan starting? Why not?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音と沙都子は猛ダッシュで会場に散ったが、俺と梨花ちゃんは焦る様子もなく、ただ立ったままだ。"
+    ],
+    "textEn": [
+      "Mion and Satoko dashed off madly, but Rika-chan and I calmly stayed right where we were."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ひょ、ひょっとして……もう見つけてあるの？？　かぁいいの！」"
+    ],
+    "textEn": [
+      "\"C-Could it be... You've already found it?? The kyute thing!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…もう見つけてありますです。…圭一もですね？」"
+    ],
+    "textEn": [
+      "\"...We've already found it. ...Keiichi, too?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ。」"
+    ],
+    "textEn": [
+      "\"Yeah.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「なんだろ！なんだろ！！　楽しみ〜！！」"
+    ],
+    "textEn": [
+      "\"What is it? What is it!? I can't wait!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音と沙都子が戻るまでのわずかな時間を立ち尽くす俺と梨花ちゃん。"
+    ],
+    "textEn": [
+      "Both Rika-chan and I stood motionless for those few moments before Mion and Satoko returned."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「こういう形で直接対決するのは",
+      "……",
+      "初めてだな。」"
+    ],
+    "textEn": [
+      "\"This is probably the first time",
+      "......",
+      "We've gone head-to-head like this.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…初めてしますです。」"
+    ],
+    "textEn": [
+      "\"...It will be the first.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「梨花ちゃん…………アレで勝つつもりか。」"
+    ],
+    "textEn": [
+      "\"Rika-chan... You expect to win with 'that,' huh?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…ボクも部員です。",
+      "…勝つためなら会則第３条ですよ。」"
+    ],
+    "textEn": [
+      "\"...I am a member of this club as well.",
+      "...'Win by any means' is our society's third rule.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんのせいいっぱいの冷笑。…上等だぁあぁあぁッ！！！",
+      "魅音も沙都子もそれぞれ秘策を胸に戻ってきたようだ。"
+    ],
+    "textEn": [
+      "Rika-chan sneered to the best of her ability. ...You're on!!!",
+      "Both Mion and Satoko came back, each with their own plan of attack stuffed in their arms."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあじゃあ順番にね！",
+      "一番は部長さんの魅ぃちゃんからぁ！！」"
+    ],
+    "textEn": [
+      "\"Okay then, okay then, let's go in order!",
+      "Let's start with the club president, Mii-chan!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「悪いけど。いきなりキメさせてもらうよ！！！",
+      "おじさんはこれだッああぁあぁ！！」"
+    ],
+    "textEn": [
+      "\"Too bad, you guys! I'm ending this now!!!",
+      "This old man brought thiiiis!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どこから拾ってきたんだ。",
+      "…それはブリキでできた古いひし形の看板だ。",
+      "し、渋い……渋過ぎるぜ魅音…。",
+      "よく有刺鉄線の柵なんかにかけてあったよな。",
+      "かぁいいというよりは懐かしい…、",
+      "…それのどこがどうかぁいいのか説明してくれ。",
+      "だが、レナは両耳と鼻の穴からチリチリと音を立てながら煙を吹いている？！？！",
+      "……わ",
+      "……わからねぇ…。"
+    ],
+    "textEn": [
+      "Where did she get those?",
+      "...They were old diamond-shaped tin signs.",
+      "That's very understated... A little too understated, Mion...",
+      "I used to see those stuck up on barbed wire fences.",
+      "They were more nostalgic than 'kyute'...",
+      "...Can you explain what part of that is 'kyute'?",
+      "But there were puffs of smoke noisily shooting out of Rena's ears and nose, almost like a steam train!!!!",
+      "I...",
+      "I didn't get it..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「次は私が行くでございますわよッ！！！",
+      "これでございます！！！！」"
+    ],
+    "textEn": [
+      "\"I shall be up next!!!",
+      "It is this!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…それは婦人会の出店する焼とうもろこし屋の手作りの画用紙ポスターだった。",
+      "いかにも絵心のない主婦の手書き。",
+      "…まるでデッサンの取れていない擬人化された焼とうもろこしのイラストが哀愁を誘う……。",
+      "………ぷッ！！",
+      "それはレナが鼻血を噴き出した音だった…ッ！！",
+      "評価は…魅音より上だッ！！",
+      "……わからねぇ…。",
+      "お前のセンス、５世紀くらい先取りしてるよ…。"
+    ],
+    "textEn": [
+      "...It was the hand-drawn poster from the ladies' society's roasted corn stall.",
+      "It was a really bad sketch done by a housewife.",
+      "...An anthropomorphic roasted corn drawn without any sort of real plan. Its very existence invited a sense of sorrow to the viewer.",
+      "...Bweep!!",
+      "That was the sound of blood jetting out of Rena's nose...!!",
+      "It seemed... to have been rated higher than Mion's!!",
+      "...I really didn't get it...",
+      "It feels like your artistic sense is a little avant-garde by about... five eons..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「をっほっほっほ！！",
+      "所詮は量産看板！",
+      "手書きには勝てませんわぁ！！」"
+    ],
+    "textEn": [
+      "\"Oh ho ho ho!!",
+      "Those were nothing but mass-produced signs, after all!",
+      "They had no chance against something hand-drawn!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お前らの考えもまったくわからねぇよ…。"
+    ],
+    "textEn": [
+      "I couldn't even begin to follow the way those guys were thinking..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…では次はボクが行きますですよ。」"
+    ],
+    "textEn": [
+      "\"...Then I will be next.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「次は梨花ちゃんかぁ！",
+      "小道具もなしにどんな手を使うやら！！」"
+    ],
+    "textEn": [
+      "\"Next is Rika-chan, is it?",
+      "What can you even do without anything!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "忘れたのかよ魅音も沙都子も。",
+      "……梨花ちゃんがその気になりゃあ……。",
+      "梨花ちゃんは俺たちのところから１０ｍくらい離れると、レナに向かってよちよちと歩き始めた。",
+      "…………その様子に魅音と沙都子がはっとする！！"
+    ],
+    "textEn": [
+      "Did you and Satoko both forget?",
+      "...If Rika-chan felt like it, she could simply...",
+      "After moving back about ten yards, she began waddling up to Rena.",
+      "...Seeing that, both Mion and Satoko gasped!!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「し、しししまったぁあぁあぁ！！！」"
+    ],
+    "textEn": [
+      "\"O-O-O-O-Oh NoOoOo!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もう遅いッ！！！！",
+      "梨花ちゃんは…何もない平らなところでコテン、と転ぶと動かなくなった。",
+      "……レナが慌てて駆け寄る。"
+    ],
+    "textEn": [
+      "Too late!!!!",
+      "Rika-chan tripped over nothing and lay motionless after falling down.",
+      "...Rena hurried over to her."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「り、梨花ちゃん、大丈夫かな？！　大丈夫かな？！」"
+    ],
+    "textEn": [
+      "\"R-Rika-chan, are you all right!? All right!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんは額にこぶを作り、半分涙を溜めて……、袖からは指だけを覗かせて…。",
+      "（そしてここが肝心だッ！！）でも手の甲は袖に隠れて見えないようにし……ッ！！"
+    ],
+    "textEn": [
+      "Rika-chan had a lump on her forehead and tears welled up in her eyes... Only her fingers peeked out from her sleeves...",
+      "(This was the vital part!!) The palms of her hands were covered by her sleeves...!!"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Narrator",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みぃ。」"
+    ],
+    "textEn": [
+      "She made just a single sound--"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Narrator",
+    "labelJp": "Rika",
+    "textJp": [
+      "…と一言、「鳴いた」"
+    ],
+    "textEn": [
+      "\"...Meep.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はッはぅ〜〜！！！！",
+      "か、かかか、かぁいいかぁいい！！！",
+      "お持ち帰り〜〜！！！」"
+    ],
+    "textEn": [
+      "\"H-hau~~!!!!",
+      "Ky-K-K-Kyute, kyute!!!",
+      "Going to take you home~~!!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「忘れてましたですのぉおぉ！！",
+      "一番身近な手を忘れてましたわぁあぁ！！！」"
+    ],
+    "textEn": [
+      "\"I'd completely forgotten thaaat!!",
+      "The play that I personally had to use!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは真っ赤になって頭をぐるんぐるんと回しながら興奮した様子で梨花ちゃんに抱き付き頬擦りを繰り返している…ッ！！！"
+    ],
+    "textEn": [
+      "Rena's face went completely red, her head bobbing back and forth with excitement. She embraced Rika-chan and began rubbing her cheek against her...!!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「さすがだぜ……。",
+      "どこまで取っても一部の隙もない。"
+    ],
+    "textEn": [
+      "\"I'd expect no less from her...",
+      "Not a single element was overlooked."
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "巫女！",
+      "半涙！",
+      "みぃ！",
+      "完璧だッ！！",
+      "ただのコケを萌えにまで昇華した…",
+      "これぞまさに芸術と呼ぶに相応しいッ！！」"
+    ],
+    "textEn": [
+      "Shrine maiden!",
+      "Brink of crying!",
+      "Meep!",
+      "It was perfect!!",
+      "A simple trip, transcended into pure moe...",
+      "Now this is what you call art!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………圭ちゃんの方がわかんね〜センスしてるよー。」"
+    ],
+    "textEn": [
+      "\"...Kei-chan has a pretty weird definition of 'art.'\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音のつっこみにカミソリを感じるが気のせいということにしておく。",
+      "完全にかぁいいモードに浸かり込んだレナをなでなでしながら、梨花ちゃんが不敵に俺に振りかえる。"
+    ],
+    "textEn": [
+      "I'll just pretend the sharp sting of those words cutting through me like a razor was a figment of my imagination.",
+      "Rika-chan turned her gaze to me with a daunting smile as she was caressed by Rena, who was in full 'Kyute Mode.'"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…さぁ圭一。…ボクに勝てますですか？」"
+    ],
+    "textEn": [
+      "\"...Now, Keiichi. ...Can you beat me?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…冷静な笑顔がコワイぞ梨花ちゃん。",
+      "時々悪魔に見えるのは気のせいだろうか…。"
+    ],
+    "textEn": [
+      "...That cold smile is frightening, Rika-chan.",
+      "It must just be my imagination, but I see a demon inside her sometimes..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんにも何か秘策があってのことだろうけど。",
+      "……何を見せてくれるのかな？」"
+    ],
+    "textEn": [
+      "\"Kei-chan seems to have his own plan of attack...",
+      "...I wonder what he's going to show her.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「私としましても、圭一さんのお手並み、拝見でございますわ。」"
+    ],
+    "textEn": [
+      "\"I also wish to observe the play Keiichi-san will make.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ひょっとして…圭一も芸をしますですね？」"
+    ],
+    "textEn": [
+      "\"...Could it be...? Is Keiichi also going to give a performance?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "みんなの視線を一身に浴びる…。",
+      "俺は未だかぁいいモードの冷めないレナを梨花ちゃんから引き剥がす。"
+    ],
+    "textEn": [
+      "I basked in their pointed stares...",
+      "I pulled Rena, who gave no sign of cancelling out of 'Kyute Mode,' away from Rika-chan."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ〜！！",
+      "かぁいいのかぁいいの〜…☆",
+      "圭一くぅん……離してぇ…！」"
+    ],
+    "textEn": [
+      "\"Hau~!!",
+      "Kyute thing, kyute thing~...☆",
+      "Keiichi-kuun... Let go...!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「今から俺がもっとかぁいいのを見せてやるから少し我慢しろ。」"
+    ],
+    "textEn": [
+      "\"I'll show you something even cuter, so just hold on for now.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「え？",
+      "へ？",
+      "も、もっとかぁいいの……？？」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "Oh?",
+      "S-Something even... kyuter??\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「だがここはちょっとギャラリーが多い。",
+      "あっちの陰へ行こう。」"
+    ],
+    "textEn": [
+      "\"But it's a bit too crowded here.",
+      "Let's go back there.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺は目を白黒させるレナを神社裏へ引きずって行く。"
+    ],
+    "textEn": [
+      "Rena looked very surprised as I pulled her behind the shrine."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…圭一さんの企みが見えないでございますわぁ？」"
+    ],
+    "textEn": [
+      "\"...I cannot fathom what Keiichi-san could possibly be planning.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんに限って……いやまさか……。」"
+    ],
+    "textEn": [
+      "\"Kei-chan, wouldn't stoop to... no, would he?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…ファイト、",
+      "おーです。」"
+    ],
+    "textEn": [
+      "\"...Keep on fighting!",
+      "Yeah!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ほどなくして俺は戻ってきた。",
+      "……やや遅れてたどたどしい足取りでレナも戻る。"
+    ],
+    "textEn": [
+      "After a bit, I returned.",
+      "...And a bit after that, so did Rena, dragging her feet."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「まさか圭ちゃんのヤツ……ねんねのレナに…ヘンな事したんじゃあッ！！」"
+    ],
+    "textEn": [
+      "\"There's no way that scoundrel Kei-chan... did something... to innocent little Rena!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音たちが俺を追い越しレナに駆け寄る。"
+    ],
+    "textEn": [
+      "Mion and Satoko passed by me, heading straight to Rena."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ヘ、ヘンなことって一体なんでございますのぉ？！」"
+    ],
+    "textEn": [
+      "\"W-What, exactly, did he do to you!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはぽーーっとした様子で話し掛けられていることに一瞬、気付かなかった。"
+    ],
+    "textEn": [
+      "For a moment, Rena was too dazed to realize someone was talking to her."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「は？！",
+      "……はぅ、なんだ魅ぃちゃんかぁ……はぅ…。」"
+    ],
+    "textEn": [
+      "\"Gasp!?",
+      "...Hao, oh it's Mii-chan... hau...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「レナ！",
+      "だ、大丈夫？！　圭ちゃんにヘンなことされなかったッ？！」"
+    ],
+    "textEn": [
+      "\"Rena!",
+      "A-Are you all right!? Did Kei-chan do anything to you!?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ぅ……うぅん、…レ、レナ……ヘンなことはされなかったよぅ……はぅ…。」"
+    ],
+    "textEn": [
+      "\"N... No... H-He... didn't do anything strange to me... hau...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……か、かなりの重症ですわ…。",
+      "圭一さんは一体、何を見せましたの？！」"
+    ],
+    "textEn": [
+      "\"...This is quite severe...",
+      "Exactly what did Keiichi-san show you!?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…うん………とってもかぁいかったよぅ……はぅ〜……☆」"
+    ],
+    "textEn": [
+      "\"...Um... It was so kyute... hau~.☆\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「かぁいい？！　レナあんた、何を見せられたのッ？！」"
+    ],
+    "textEn": [
+      "\"Kyute!? What did he show you, Rena!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "はぅ〜……と、大きくため息をもう一度つくレナ。",
+      "そして目を輝かせながら言った。"
+    ],
+    "textEn": [
+      "Rena let out a really long \"Hau~.\"",
+      "Her eyes sparkled as she spoke..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「かぁいかったよ☆…圭一くんの",
+      "オットセイ、」"
+    ],
+    "textEn": [
+      "\"Kyute, so kyute☆... It was Keiichi-kun's...",
+      "furry little seal.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぐしゃ、",
+      "どしゃああぁあッ！！！",
+      "瞬きするより早く、俺の顔面に魅音と沙都子の肘が埋め込まれる……ッ！！！"
+    ],
+    "textEn": [
+      "Whamp!",
+      "WhoOoOmp!!!",
+      "In the blink of an eye Mion and Satoko's elbows smashed into my face...!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「え？",
+      "えぇ？！",
+      "なに？",
+      "なに？！」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "Haoh!?",
+      "What?",
+      "What!?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…レ、レナに汚ぇもん見せやがってぇえぇえ〜！！」"
+    ],
+    "textEn": [
+      "\"...Sh-Showing Rena something so dirtyyyy~!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「こンのド変態〜！！！",
+      "調伏してさしあげますでございますッ！！！！」"
+    ],
+    "textEn": [
+      "\"You sick pervert~!!!",
+      "I shall have you beaten into oblivion!!!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ちッちがちがッ、誤解だぁあぁああぁああッ！！！！！」"
+    ],
+    "textEn": [
+      "\"W-Wait, wait, you've got it all wrong!!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音と沙都子の全身から黒い瘴気が噴き出すッ！！",
+      "駄目だ、こここ殺されるッ！！！！"
+    ],
+    "textEn": [
+      "A dark, billowing aura flowed from Mion and Satoko!!",
+      "It was no good! Th-Th-They're gonna kill me!!!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃん？！　なんだかわかんないけど…誤解だよ！！",
+      "圭一くんは…！！」"
+    ],
+    "textEn": [
+      "\"Mii-chan!? I'm not sure what's going on... but you've got it all wrong!!",
+      "You see, Keiichi-kun had...!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…オットセイさんのキーホルダーですよ。」"
+    ],
+    "textEn": [
+      "\"...It's a fur seal keychain.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんが俺のポケットをまさぐって、カギに付いたキーホルダーを取り出す。"
+    ],
+    "textEn": [
+      "Rika-chan stuck her hand into my pocket and pulled out my keychain."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ふぇ？」"
+    ],
+    "textEn": [
+      "\"Ehh?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…昔、夏休みの宿題で作ったと言ってますです。",
+      "恥ずかしいので滅多に人に見せないとも言ってますですよ。」"
+    ],
+    "textEn": [
+      "\"...He said he made it long ago for one of his summer school assignments.",
+      "He said he doesn't show it other often because it's embarrassing.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "……ちっちゃくて、かぁいくて。",
+      "…せいいっぱいがんばったって感じがとっても素敵だったよ…☆」"
+    ],
+    "textEn": [
+      "\"Yeah...",
+      "So small and kyute.",
+      "...He tried his best to make it. It's so wonderful...☆\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「をーっほっほっほ！",
+      "さすが魅音さんですわ〜！",
+      "間違える方向もワイルドですことぉ。」"
+    ],
+    "textEn": [
+      "\"Oh ho ho ho!!",
+      "I'd expect no less from Mion-san~!",
+      "You misconstrue things in the wildest ways.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "互いを威嚇し合い一触即発状態の魅音と沙都子！",
+      "…頼む。",
+      "……疑惑が解けたなら取り合えず、この踏みつけている足をどけてもらえないかな……。",
+      "そこをパシャリとカメラのフラッシュ。"
+    ],
+    "textEn": [
+      "They slung insults at each other and looked like they were ready to tear into each other at any second!",
+      "...I beg of you.",
+      "...If I'm in the clear, would you mind getting off of me...?",
+      "We were interrupted by the flash of a camera."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「やぁみんな。",
+      "相変わらず元気そうだねぇ…！」"
+    ],
+    "textEn": [
+      "\"Hey, guys.",
+      "You all seem energetic, as usual!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "やはり富竹さんだった。",
+      "ＫＯされた俺に、その上でいがみ合う魅音と沙都子。",
+      "梨花ちゃんは俺の頭を撫でてるし、レナはかぁいい状態が継続中…。",
+      "……さぞや賑やかな写真になっただろうな…。"
+    ],
+    "textEn": [
+      "It was Tomitake-san.",
+      "As I lay crumpled on the ground, Mion and Satoko continued to bicker above me.",
+      "Rika-chan was patting me on the head and Rena was still in Kyute Mode...",
+      "...It was probably quite a lively scene..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「こんばんはではございますがぁ！　レディーに断りもなくお写真を撮るのはエチケット違反でございますのことよ！！」"
+    ],
+    "textEn": [
+      "\"It's a fine evening, indeed! Although it's rather poor etiquette to photograph a lady without her permission!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうだな。",
+      "少なくとも沙都子の許可は必要ない。",
+      "ぐぉをぅッ？！？！」"
+    ],
+    "textEn": [
+      "\"That's right.",
+      "At least you don't really need Satoko's permission.",
+      "Hurrngh!?!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子が靴のごつい踵で俺を踏みにじる！！"
+    ],
+    "textEn": [
+      "Satoko dug her heel into me!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「こんばんは。",
+      "…あ、…明日、",
+      "帰られちゃうんですよね。",
+      "素敵な写真はいっぱい撮れましたか？」"
+    ],
+    "textEn": [
+      "\"Good evening.",
+      "...Ah. You're heading back tomorrow,",
+      "aren't you?",
+      "Were you able to take lots of good photos?\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「御陰様でね。",
+      "いい絵がたくさん撮れたよ。」"
+    ],
+    "textEn": [
+      "\"Yes, thanks for asking.",
+      "I got plenty of good shots.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「富竹のおじさまに会えるのも今晩限りなのねぇ〜！",
+      "お名残惜しいですわぁ☆",
+      "いい加減、とっととメジャーデビューして下さいよねぇ〜！」"
+    ],
+    "textEn": [
+      "\"Tonight's the last we can see ol' Tomitake-sama, isn't it~!?",
+      "It's such a shame.☆",
+      "Hurry up and have your major breakout soon~!\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「あ、相変わらず口が悪いなぁ…！",
+      "その毒舌もまた半年聞けないかと思うと残念だよ。」"
+    ],
+    "textEn": [
+      "\"J-Just as rude as ever, aren't you...!",
+      "I really am sad I won't be able to hear that voice of yours for almost half a year.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「せいぜい今夜を楽しんでらして下さいな。",
+      "明日の夜にはもう東京なんですからねぇ！」"
+    ],
+    "textEn": [
+      "\"Be sure to have as much fun as you can tonight.",
+      "You'll be back in Tokyo tomorrow, after all!\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「…そうだね。",
+      "星が見える夜空なんて。",
+      "…まぁた半年、……お預けだもんねぇ。」"
+    ],
+    "textEn": [
+      "\"...That's true.",
+      "It will be another six months...",
+      "until I can enjoy another night where I can see the stars.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんは陽気に笑いながら夜空を見上げる。",
+      "笑顔なのに寂しさを感じさせる、そんな間があった。"
+    ],
+    "textEn": [
+      "Tomitake-san looked up at the night sky cheerfully.",
+      "At that moment, even though he was smiling, I sensed a bit of sadness."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「富竹さん、いっそ住めばいいじゃないすか。",
+      "雛見沢。」"
+    ],
+    "textEn": [
+      "\"Why don't you move here, Tomitake-san?",
+      "In Hinamizawa.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんは一瞬言葉を失った。"
+    ],
+    "textEn": [
+      "Tomitake-san was speechless."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「確かに不便なとこです。",
+      "店もないし。",
+      "娯楽もないし…何にもないかもしれないけど。」"
+    ],
+    "textEn": [
+      "\"It's not very convenient here.",
+      "No shops.",
+      "Or recreational spots... There might not be anything really here, but you know...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の言いたいことがみんなにもわかっていた。",
+      "……きっと富竹さんも、わかっていたに違いない。",
+      "だからレナも魅音も。",
+      "沙都子も梨花ちゃんも。",
+      "誰も茶化さない。"
+    ],
+    "textEn": [
+      "Everyone knew what I was trying to say.",
+      "...Tomitake-san was also well aware.",
+      "So Rena, Mion,",
+      "Satoko, and Rika-chan...",
+      "none of them butted in."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺はまだここに引っ越してきてひと月も経たないからよくわからないけど。」"
+    ],
+    "textEn": [
+      "\"I've only been here for less than a month, so I don't really know everything about it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の普段なら饒舌な舌は、この時だけは言葉をなくしてしまったようだった。",
+      "これだけの喧騒の中にいるのに。",
+      "急に音が遠のいた気がする。"
+    ],
+    "textEn": [
+      "Normally I'm a really talkative guy, but in situations like this I'm at a loss for words.",
+      "Even though all this was happening in such a boisterous setting,",
+      "it felt like all the background noise was fading into the distance."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「こ、ここにはきっと……！」"
+    ],
+    "textEn": [
+      "\"This place is probably...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "す、と富竹さんが俺を手で制した。"
+    ],
+    "textEn": [
+      "Tomitake-san rested his hand on me gently, silencing me."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「…ありがとな。",
+      "圭一くん。",
+      "魅音ちゃんにレナちゃん。",
+      "沙都子ちゃんに梨花ちゃん。」"
+    ],
+    "textEn": [
+      "\"...Thank you.",
+      "Keiichi-kun.",
+      "Mion-chan and Rena-chan,",
+      "Satoko-chan and Rika-chan.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "薄い、吹けば飛ぶような笑顔だったけれど、富竹さんは柔らかく笑った。"
+    ],
+    "textEn": [
+      "Tomitake-san's smile was so slight it looked as if it was going to crumble at any minute, but it was warm."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「僕もここに住めたらきっと楽しいだろうなぁ…って思うよ。」"
+    ],
+    "textEn": [
+      "\"I also think it would be great... if I could live here.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "働かなくても食事の心配をしなくてもいい子供の、残酷な言葉だったのかもしれない。",
+      "俺の背中に手が当てられた。",
+      "……レナだった。"
+    ],
+    "textEn": [
+      "Those might have been cruel words coming from a kid who didn't need to worry about working to feed himself.",
+      "A hand touched my back.",
+      "...It was Rena."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん。…大人をいじめちゃ、かわいそうだよ。」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun. ...You shouldn't pick on adults. It's not nice.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そして再び喧騒が戻った。"
+    ],
+    "textEn": [
+      "The background clamor of the festival returned."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「またしばらくのお別れなんですからね！",
+      "今夜は富竹さんにもたくさん楽しんでもらわなくっちゃ！」"
+    ],
+    "textEn": [
+      "\"We won't be seeing him for a while, after all!",
+      "We need to make sure Tomitake-san also enjoys tonight!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナがぱーっと笑うと、一気に場の雰囲気が晴れていった。"
+    ],
+    "textEn": [
+      "When Rena smiled, the mood instantly got brighter."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「そうだね。ぜひそうさせてもらうよ。」"
+    ],
+    "textEn": [
+      "\"That's true. I think I'll do just that.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あ！",
+      "ねえねぇ魅ぃちゃん！！",
+      "どうだろ？！",
+      "富竹さんを部活に入部させてあげるのは！！」"
+    ],
+    "textEn": [
+      "\"Ah!",
+      "Hey, Mii-chan!!",
+      "How about it!?",
+      "Can we let Tomitake-san in on our club activities!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは名案だ！！",
+      "…と思いきや魅音はもったいぶって見せる。"
+    ],
+    "textEn": [
+      "That's a great idea!!",
+      "...Or so I thought, but Mion had a snobbish look on her face."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…入部条件のひとつに雛見沢在住ってのがあるんだけどねぇ。」"
+    ],
+    "textEn": [
+      "\"...One of the requirements for membership is residence in Hinamizawa, you see.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そんな魅ぃちゃん…、今日くらい意地悪しなくても…。」"
+    ],
+    "textEn": [
+      "\"Come on, Mii-chan... Just for today, don't be mean...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ま、こつこつ毎年来てるからね。名誉市民と認定してあげよう！！」"
+    ],
+    "textEn": [
+      "\"Well, he does come around often every year.  I'll make him an honorary citizen!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「わ！！　やった！！！」"
+    ],
+    "textEn": [
+      "\"Whoa!! Yaay!!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「さぁてさて！",
+      "こんな旬を過ぎたご老体にこの私の相手が勤まるでございましょうかしらぁ？！」"
+    ],
+    "textEn": [
+      "\"Now then!",
+      "I wonder if this aged fellow, well past his prime, will be a match for me!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…老獪な大人の知恵を見せてもらいましょうです。」"
+    ],
+    "textEn": [
+      "\"...Let's have him show us the wisdom of a mature adult.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「へへ！　俺たちの若さについて来れるかな？」"
+    ],
+    "textEn": [
+      "\"Heh heh! Can you keep up with us young 'uns?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺たちの不敵な笑いに、思わず富竹さんは後ずさる…。"
+    ],
+    "textEn": [
+      "Tomitake-san stepped back slightly at our audacious grins."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「部長ッ園崎魅音の名において、名誉市民富竹氏の我が部への入部を許可するッ！！」"
+    ],
+    "textEn": [
+      "\"I, Mion Sonozaki, club president, do hereby authorize Honorary Citizen Tomitake's entry into our club!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それを打ち消さんばかりの俺たちの歓声！！"
+    ],
+    "textEn": [
+      "Her words were quickly drowned out by our cheers."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「な、なんだい、その部活ってのは…？！」"
+    ],
+    "textEn": [
+      "\"Wh-What do you mean by club...!?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「我が部はだな、複雑化する社会に対応するため、活動毎に提案されるさまざまな条件下、…時には順境。",
+      "あるいは逆境からいかにして…！！」"
+    ],
+    "textEn": [
+      "\"What our club does, you see... In order to cope with our complicated society, we perform various activities with various rules. Sometimes they are in your favor...",
+      "...and sometimes they work against you...!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…レナは弱いから…いじめないでほしいな。仲良くやろうね！」"
+    ],
+    "textEn": [
+      "\"...I'm pretty weak... so I'd prefer you not single me out. Let's try to get along.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「子供のごっご遊びと侮るつもりなら好都合でございますわぁ！！」"
+    ],
+    "textEn": [
+      "\"If you wish to mock our childish games, then this will be the perfect opportunity!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…つまり、みんなでゲームして遊ぶ部活です。」"
+    ],
+    "textEn": [
+      "\"...So, it's a club where we play games together.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "やはり梨花ちゃんだけが、的を射た説明をしてくれた。"
+    ],
+    "textEn": [
+      "Of course Rika-chan was the only one to give an answer that made sense."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「よぅし！　望むところだよ。",
+      "その挑戦を受けてたとうじゃあないか！",
+      "お手柔らかに頼むよ先輩方！！」"
+    ],
+    "textEn": [
+      "\"All right! Just what I wanted.",
+      "I'll take you up on that challenge!",
+      "Don't be too rough on me, my mentors!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "一気に１０は若返った富竹さんがガッツポーズして奮起する！",
+      "上等だッ！！",
+      "俺たちは魅音を先頭に祭りを練り歩く。何しろ６人の大所帯。",
+      "ちょっとした迫力すらある！"
+    ],
+    "textEn": [
+      "Tomitake-san got riled up and did a victory pose like he was ten years younger!",
+      "That's perfect!!",
+      "We continued walking through the festival with Mion in the front. Now we looked like a family of six.",
+      "It had some intensity to it!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ルールはいつも通り！　ビリにはもちろんお約束の罰ゲーム！！」"
+    ],
+    "textEn": [
+      "\"Same rules as always! The loser will, of course, be subject to a penalty!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんは驚いたようだったが、俺たちにとっては日常茶飯事だ。",
+      "……どんなに過酷な罰ゲームだったとしても、"
+    ],
+    "textEn": [
+      "Tomitake-san was a bit surprised, but to us it was just the same as always.",
+      "...Regardless of how terrible a penalty it was,"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「負けなきゃいいんだからね！」"
+    ],
+    "textEn": [
+      "\"'Just don't lose!'\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナも気力充実。",
+      "負けるつもりなんか、これっぽっちもないようだ。"
+    ],
+    "textEn": [
+      "Rena was also brimming with determination.",
+      "She didn't have any intention of losing."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうだな！！」"
+    ],
+    "textEn": [
+      "\"That's true!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの頭を景気付けにぐしゃぐしゃと撫でた。レナも照れ隠しに笑う。"
+    ],
+    "textEn": [
+      "I tousled Rena's hair to lighten the mood. She giggled to hide her embarrassment."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「なるほど。…これが童心ってヤツなんだなぁ。」"
+    ],
+    "textEn": [
+      "\"I see... This is what it means to feel like a kid again.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんは誰にでもなくつぶやく。",
+      "そこへ威勢のいいオヤジの声が響いた。",
+      "見ればそれは祭前に魅音が挨拶していた露店のオヤジだった。"
+    ],
+    "textEn": [
+      "Tomitake-san whispered that to nobody in particular.",
+      "At that moment, we heard an old man call out in a strong voice.",
+      "Looking over, I realized it was the man Mion had greeted right before the festival."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Festival Stall",
+    "labelJp": "屋台",
+    "textJp": [
+      "「来たかい。",
+      "園崎の嬢ちゃん！…今年は大人数みたいじゃねえの。」"
+    ],
+    "textEn": [
+      "\"You're here.",
+      "Little Miss Sonozaki! Seems you brought quite the crowd.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あんたの店、根こそぎかっさらいに来たよッ！！」"
+    ],
+    "textEn": [
+      "\"We came to eradicate your entire stall!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そこは射的屋だった。",
+      "鉄砲にコルク栓を詰めて景品を狙い、倒したら得られるというオーソドックススタイルだ。"
+    ],
+    "textEn": [
+      "His stall was a shooting gallery.",
+      "It was the usual setup where you had to knock down the prize you wanted with a cork gun."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ルールは簡単ッ！！",
+      "３発撃って、得られた景品のデカさで勝負しよう！！」"
+    ],
+    "textEn": [
+      "\"The rules are simple!!",
+      "Three shots! The winner is whoever gets the biggest prize!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "全員が異議な〜し！と叫ぶ。",
+      "勝利条件が景品のデカさである以上、事前の品定めは欠かせない。",
+      "この店で一番デカい景品は……文句なし。",
+      "あれだな…？！"
+    ],
+    "textEn": [
+      "Everybody shouted their agreement.",
+      "There was no need to consider how to win, since the condition for victory was simply size.",
+      "The biggest prize at the stall... It went without question.",
+      "It was that one, wasn't it...!?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「わぁ…あ……あの…くまさん、か、…かぁいいよぅ…☆」"
+    ],
+    "textEn": [
+      "\"Whoa... Th... That teddy bear... K-Kyute...☆\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが物欲しそうに眺めるのは大きなくまのぬいぐるみ。",
+      "わざと不安定な台の上に乗せてあるので、うまく当てれば獲得できるかもしれない！"
+    ],
+    "textEn": [
+      "Rena was gazing longingly at a large stuffed animal.",
+      "It was intentionally placed on an unsteady platform, so it was possible to get it if you hit the right spot!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…と、一瞬思わせる絶妙な配置が見事だな。」"
+    ],
+    "textEn": [
+      "\"...It's magnificently set up to make someone think that.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「さすが圭一さん。",
+      "一発で看破すると思いましたわ。」"
+    ],
+    "textEn": [
+      "\"Not bad, Keiichi-san.",
+      "I figured you would see through this scam instantly.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「ふむ。ここは無難にキャラメルや人形を狙うのが定石のようだね。」"
+    ],
+    "textEn": [
+      "\"Hmm. The most logical course of action would be to aim for some candy or a doll.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "さっそく熱い品定めが始まる。",
+      "この部は徒手空拳で臨めば食われるだけだ。",
+      "本番直前までにどれだけの策を講じられるかが全て…ッ！！！",
+      "いつのまにか、俺たちのまわりを人垣が囲んで大賑わいになっている。",
+      "我が部の悪名高きイベントにはこんなにもギャラリーがいたのか！"
+    ],
+    "textEn": [
+      "The intent analysis had already begun.",
+      "In this club, you'll get eaten alive if you don't come prepared.",
+      "Everything hinges on what plan you can come up with before the main event...!!!",
+      "At some point a large crowd had gathered around us, making a big fuss.",
+      "There was this much of a following for our club's infamous event!?"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…くまさんを落とせれば勝利は確定しますですね。」"
+    ],
+    "textEn": [
+      "\"...Knocking that bear down ensures a win.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「３発しかないんだぜ。",
+      "それを確かめるために使うには…重いな。」"
+    ],
+    "textEn": [
+      "\"Only three shots.",
+      "To use them all just trying... That'd be rough.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Festival Stall",
+    "labelJp": "屋台",
+    "textJp": [
+      "「へいへい！",
+      "他のお客さんも待ってるんだぜぇ？！",
+      "最初のチャレンジャーはだれからだい？！」"
+    ],
+    "textEn": [
+      "\"Hey!",
+      "I have other customers waiting, you know!!",
+      "Who's up first!?\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「先に挑戦した方がラクな景品を狙えて有利かもしれないけど……鉄砲のクセが見えない内の挑戦は危険だね。」"
+    ],
+    "textEn": [
+      "\"The first one has the advantage of being able to aim for the easier prizes... but it's dangerous to compete without knowing the gun's quirks.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんの読みもなかなかいい。",
+      "我が部をよく理解している…！"
+    ],
+    "textEn": [
+      "Tomitake-san's take on the situation was pretty good.",
+      "He gets what our club is about...!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあさ、公平に…ジャンケンで決めるのはどうかな？　どうかな？！」"
+    ],
+    "textEn": [
+      "\"Well then, to be fair... How about using rock-paper-scissors to decide? How about it!?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「結局それしかないかね！",
+      "じゃーんけーんッ！！！！」"
+    ],
+    "textEn": [
+      "\"That's really the only way!",
+      "Rock, paper, scissors!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何度かのあいこ合戦の末、１番バッターは魅音に決まった。"
+    ],
+    "textEn": [
+      "After a couple of matches, it ended up with Mion being first."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「１番は避けたかったんだけど……ま、ハンデってことにしとくかな。おっちゃん！！銃ッ！！」"
+    ],
+    "textEn": [
+      "\"I didn't want to end up first... Ah well, I'll just think of it as a handicap. Gramps!! Gun!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Festival Stall",
+    "labelJp": "屋台",
+    "textJp": [
+      "「そらよッ！！」"
+    ],
+    "textEn": [
+      "\"Here yah go!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "射的屋のオヤジから鉄砲を借り、入念にチェックする魅音。",
+      "弾のコルクのチェックも怠らない。"
+    ],
+    "textEn": [
+      "When the shooting range guy handed her a rifle, Mion looked it over intently.",
+      "She didn't forget to check the cork bullet, either."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ＯＫ。",
+      "…この銃はおろしたてだね？",
+      "クセはなし。悪くないッ！！」"
+    ],
+    "textEn": [
+      "\"Okay.",
+      "...This gun is brand new, isn't it?",
+      "No faults. Not bad!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がくわッ！！と一気に銃を構える！！",
+      "事前のチェックと違い、入念な照準などない、直感の射撃！！",
+      "撃つ！",
+      "詰める。",
+      "…撃つ！",
+      "詰める。",
+      "…撃つッ！！！",
+      "ぱたり。",
+      "…ぱたりぱたり。",
+      "…お菓子の箱が３つ、次々に倒れる。",
+      "大戦果だッ！！",
+      "ギャラリーがどよめきッ、そしてそれが歓声に変わる。"
+    ],
+    "textEn": [
+      "Mion raised the gun in one swift motion!!",
+      "It was completely different from her careful inspection. She was shooting from the hip!!",
+      "Fire!",
+      "Reload.",
+      "...Fire!",
+      "Reload.",
+      "...Fire!!!",
+      "Flop.",
+      "...Flop, flop.",
+      "...Three candy boxes fell, one after the other.",
+      "A big haul!!",
+      "The crowd paused in a moment of awe and then erupted in cheers."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Gallery",
+    "labelJp": "ギャラリー",
+    "textJp": [
+      "「「「わぁあぁああぁあッ！！！",
+      "すげぇええぞぉおおぉおぉお！！！！」」」"
+    ],
+    "textEn": [
+      "\"\"\"Whoaaaaa!!!",
+      "Awesooooome!!!!\"\"\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「や……やるでございますわぁ……！！！」"
+    ],
+    "textEn": [
+      "\"Th... That was quite good...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんは一瞬の射撃芸に思わず言葉を失っているようだ。"
+    ],
+    "textEn": [
+      "Tomitake-san was at a loss for words after seeing such shooting prowess."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「す、……すごいよ魅ぃちゃん！！",
+      "３つ！　３つ！！！」"
+    ],
+    "textEn": [
+      "\"A... Amazing, Mii-chan!!",
+      "Three! Three!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "命中率もすごいが……標的の選別も悪くない。",
+      "魅音が狙った３つはいずれもやや大きく、やや倒れやすいといった、非常にハイリターンな標的ばかりだ…！"
+    ],
+    "textEn": [
+      "Her accuracy was incredible... Her choice of targets wasn't bad either.",
+      "The three Mion had gone after were fairly large and pretty easy to knock over. They were all targets with very high return on investment...!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「２番手は誰？",
+      "沙都子？",
+      "……気をつけて。弾が軽い。」"
+    ],
+    "textEn": [
+      "\"Who's up next?",
+      "Satoko?",
+      "...Careful. The bullets are light.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "次は沙都子だ。",
+      "華奢な体にはちょっと大きめな鉄砲だが、重たがる様子はない。"
+    ],
+    "textEn": [
+      "Next was Satoko.",
+      "The rifle looked a bit big for her lithe body, but it didn't seem like she had any problem with the weight."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「やはりここは",
+      "………",
+      "大物狙いで行かせてもらいますわぁッ！！」"
+    ],
+    "textEn": [
+      "\"Of course",
+      "...",
+      "I shall aim for the grand prize!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それはくま狙いの予告だッ！！！",
+      "沙都子め！！　大胆に…来やがったッ！！！"
+    ],
+    "textEn": [
+      "She proclaimed that she was going after the teddy bear!",
+      "Damn Satoko! Such a bold move!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「くまさんを落とせばその時点で沙都子ちゃんのトップは確定するね！」"
+    ],
+    "textEn": [
+      "\"The moment she knocks it over, she's guaranteed to be in first!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「沙都子ちゃんがんばれ〜ッ！！」"
+    ],
+    "textEn": [
+      "\"Good luck, Satoko-chan~!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子は魅音とは逆に冷静に的を狙い……引き金を絞る！"
+    ],
+    "textEn": [
+      "Satoko was the opposite of Mion. She aimed at the target quite carefully... and squeezed the trigger!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……ちっ、…弾が軽いですわ…！」"
+    ],
+    "textEn": [
+      "\"...Bah. These bullets are too light...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "始めの２発を見事くまの胴に当てるが微動するだけ。",
+      "…もっと上の頭頂部を狙わないとだめか…！",
+      "しかし沙都子の３発目はくまではなく、そのわきのキャラメルの箱を転ばせた。"
+    ],
+    "textEn": [
+      "The first two bullets struck the bear in the torso, but it only shifted a bit.",
+      "...You need to aim higher towards the head or it won't work...!",
+      "Satoko's third bullet wasn't aimed at the bear, but at the candy box below its arm."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「残念でございますけれど…私にくまは荷が勝ちすぎているみたいですわね…！」"
+    ],
+    "textEn": [
+      "\"I hate to say it, but it appears the bear is just too much for me...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大胆な大物狙いが、最後の最後で小物狙いに移ったので、ギャラリーは苦笑している。",
+      "度胸なし、と笑っているのだろうか？",
+      "……わかってないヤツらめ！！"
+    ],
+    "textEn": [
+      "She went boldly after the big catch, but since she switched over to less impressive prey at the last second, the crowd only gave a strained laugh.",
+      "Were they laughing because she lacked the courage?",
+      "...These fools know nothing!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「沙都子、いい仕事をするじゃん。腕を上げたね！」"
+    ],
+    "textEn": [
+      "\"A fine attempt, Satoko. You've gotten better!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の差し出す手の平をぱーん！！と小気味良く叩く沙都子。",
+      "一見大胆な口を叩きながら、その実は極めて冷静！",
+      "沙都子め、ビリを回避するため、敢えて手堅い目標に切り替えやがった…！",
+      "恥も外聞もなくッ！！",
+      "見事だぜ…。"
+    ],
+    "textEn": [
+      "The palm of Mion's outstretched hand went \"pomf!\" as it tapped down lightly on Satoko.",
+      "She appeared to just be talking hot air, but this was actually completely calculated!",
+      "Damn that Satoko! Just to avoid being in last place, she dared to switch over to an easy target...!",
+      "Without shame or honor!!",
+      "Magnificent..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「くまはレナさんに譲るでございますわ。",
+      "健闘をお祈りしましてよ！」"
+    ],
+    "textEn": [
+      "\"I'll allow you to take the bear, Rena-san.",
+      "I pray for your victory!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うんうん！",
+      "ありがとね沙都子ちゃん☆",
+      "……はぅ〜、くまさんかぁいいよぅ！！」"
+    ],
+    "textEn": [
+      "\"Okay, okay!",
+      "Thanks so much, Satoko-chan.☆",
+      "...Hau~ Mr. Bear sho kyute!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "次のバッターはレナだ。",
+      "いつものレナなら的にかすりもしなさそうだが………あのくまをレナはかぁいいと言っているッ！！！"
+    ],
+    "textEn": [
+      "Rena was up next.",
+      "She couldn't hit the broadside of a barn as regular Rena, but she said that bear was 'kyute'!"
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「レナちゃんはどうだろうね。",
+      "…ひとつくらい当たるといいんだけれど。」"
+    ],
+    "textEn": [
+      "\"I wonder how Rena-chan will do.",
+      "...I hope she's able to hit at least one.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「富竹さんはちょっとレナを甘く見てますね…。",
+      "……",
+      "ふっ。」"
+    ],
+    "textEn": [
+      "\"You're underestimating Rena, Tomitake-san...",
+      "...",
+      "Heh.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あのレナだぞ？",
+      "竜宮レナだぞ？！",
+      "あのくまのぬいぐるみをもらえるのなら……"
+    ],
+    "textEn": [
+      "It's Rena, you know?",
+      "It's Rena Ryuugu, you know!?",
+      "If it was to get that teddy bear..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Gallery",
+    "labelJp": "ギャラリー",
+    "textJp": [
+      "「「「うぉおおぉおぉおおおおッ！！！！」」」"
+    ],
+    "textEn": [
+      "\"\"\"Whoaaaaah!!!\"\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "観客がどよめき、富竹さんも何事かと振りかえる！",
+      "あのぬいぐるみがもらえるなら…………画鋲の穴だって狙撃できるんだよッ！！！",
+      "竜宮レナってヤツはなッ！！！！"
+    ],
+    "textEn": [
+      "Tomitake-san wheeled around to see what all the commotion the spectators were making was about!",
+      "If it was to get that bear... she'd be able to shoot through a pinhole!",
+      "The one known as Rena Ryuugu could do it!!!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ゆゆゆ、揺れてる揺れてるよ………はぅ……かぁいいよぅ…！！！」"
+    ],
+    "textEn": [
+      "\"Sh-Sh-Shaking, it's shaking... hau... Kyute!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "くまの緩やかな揺れに興奮を隠しきれない様子だ…！　こうなればレナは負けない！！"
+    ],
+    "textEn": [
+      "Rena couldn't hide her excitement over the bear's slow rocking...! Now Rena couldn't lose!!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「さすがレナさんですわ…！！",
+      "冷静を失えば失うほどに…、」"
+    ],
+    "textEn": [
+      "\"Not bad, Rena-san...!!",
+      "The less collected you become...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「強いッ！！！」"
+    ],
+    "textEn": [
+      "\"The stronger you get!!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Gallery",
+    "labelJp": "ギャラリー",
+    "textJp": [
+      "「「「ぅおおおぉおぉおおおぉッ！！！！」」」"
+    ],
+    "textEn": [
+      "\"\"\"Whooooaaa!!!!\"\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "また大歓声だ！",
+      "再びレナの着弾はくまの額を捉える！！",
+      "心なしか、さっきより大きくくまが揺れたように感じられた。"
+    ],
+    "textEn": [
+      "Another big cheer!",
+      "Rena's bullet hit the bear's forehead again!!",
+      "Not enough. The bear seemed to wobble more than before."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…でも無理かも知れませんですね。」"
+    ],
+    "textEn": [
+      "\"...But it might not be possible.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「い、いやぁわからないよ？！",
+      "レナちゃんの腕だったらひょっとすると…！！」"
+    ],
+    "textEn": [
+      "\"Y-You never know!",
+      "With Rena-chan's skill, it might be...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんもギャラリーも興奮気味だが…梨花ちゃんの分析は冷静だ。",
+      "あとレナに１０発も与えればきっと倒せるだろう。",
+      "……",
+      "だが……あと１発ではどう考えても",
+      "………",
+      "無理かッ！"
+    ],
+    "textEn": [
+      "While Tomitake-san was just as excited as the crowd, Rika-chan's analysis was not swayed by emotion.",
+      "If Rena had ten more shots, then she could surely knock it over.",
+      "...",
+      "But... with just one more... No matter how you looked at it",
+      "...",
+      "No go!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Gallery",
+    "labelJp": "ギャラリー",
+    "textJp": [
+      "「「「あぁあぁあぁーーーーー…ッ！！！！」」」"
+    ],
+    "textEn": [
+      "\"\"\"OwWwwWw-----!!!!\"\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ギャラリーの落胆の声が響き渡る…。",
+      "３発とも額に命中したのに……。",
+      "そしてやや遅れて健闘の拍手が鳴り響いた。"
+    ],
+    "textEn": [
+      "The crowd let out a dejected groan...",
+      "She had shot it right in the forehead three times...",
+      "It was a bit late, but they gave her a good round of applause for the attempt."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……はぅ………くまさん……お持ち帰り…………はぅ……。」"
+    ],
+    "textEn": [
+      "\"...Hau... Mr. Bear... take him home... hau...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "健闘は称えられるべきだが…戦果はゼロだ。",
+      "…だがその時、屋台のオヤジがキャラメルの箱を手でぱたん、と倒すとレナに渡した。"
+    ],
+    "textEn": [
+      "She should be praised for her valor, but she had no trophies to show for it.",
+      "...Then, at that moment, the old man flicked one of the candy boxes with his finger and handed it to Rena."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Festival Stall",
+    "labelJp": "屋台",
+    "textJp": [
+      "「こいつぁ嬢ちゃんのだぜ。」"
+    ],
+    "textEn": [
+      "\"This's fer you, little lady.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………へ……？　……くれるの……？",
+      "レ、レナに……はぅ、」"
+    ],
+    "textEn": [
+      "\"...Huh? ...You're giving this to...",
+      "to me? Hau...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Festival Stall",
+    "labelJp": "屋台",
+    "textJp": [
+      "「あんなすげぇの見せられて手ぶらで帰しちゃあ…お天道様に申し訳が立たねえぜ！」"
+    ],
+    "textEn": [
+      "\"The gods wouldn't forgive me if I let you go home empty-handed after such a display!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そしてもう一度割れんばかりの拍手！",
+      "すっかりのぼせて真っ赤になったレナの腕を引っ張ってこっちへ連れ戻す。"
+    ],
+    "textEn": [
+      "There was another shower of applause!",
+      "Rena turned bright red and I pulled her back over to us by her hand."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「頑張ったじゃないかよ！",
+      "かぁいいモードのレナにゃ驚かされるぜ！」"
+    ],
+    "textEn": [
+      "\"You did a good job!",
+      "Your 'Kyute Mode' really surprised me!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……はぅ………欲しかったよぅ……くまさん………ぅぅ……。」"
+    ],
+    "textEn": [
+      "\"...Hau... I really wanted Mr. Bear... Wah...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もう一息だった分だけ、落胆している様子がよくわかる。",
+      "レナにはいっつも世話になりっぱなしだ。",
+      "うまい弁当の借りもある。"
+    ],
+    "textEn": [
+      "It was easy to see that it only needed a little more to be knocked over.",
+      "Rena had done quite a lot for me.",
+      "I still needed to pay her back for that delicious picnic."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よっしゃ！　そんなら俺が、」"
+    ],
+    "textEn": [
+      "\"All right! Then I'll...\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「僕が取ったらプレゼントするよ。」"
+    ],
+    "textEn": [
+      "\"I'll get it and give it to you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ん何ぃいぃいいいッ？！？！",
+      "俺が珍しく口にしようとしたサービスのセリフを富竹さんに取られる！"
+    ],
+    "textEn": [
+      "Wuhaaaat!?!?",
+      "Tomitake-san had stolen the words right out of my mouth!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん！うん！",
+      "お願いね富竹さん！！",
+      "がんばれ〜！！」"
+    ],
+    "textEn": [
+      "\"Okay! Okay!",
+      "Please, Tomitake-san!!",
+      "Good luck~!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "とと、富竹のおっさんめぇえぇええ！！",
+      "人のおいしいところを…！！",
+      "ギリギリと悔しがる俺の頭に、すっと小さな手が伸びた。"
+    ],
+    "textEn": [
+      "D-D-Damn you, old man Tomitakeee!!",
+      "Stealing the good parts for yourself...!!",
+      "A small hand stretched over and fell gently on my head just before I was overcome with frustration."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…圭一もファイト、",
+      "おーですよ。」"
+    ],
+    "textEn": [
+      "\"...You keep on fighting too, Keiichi,",
+      "okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんもやはり慎重にくまを照準している。",
+      "…一度目を戻すと、残りの２発の弾を握ったまま鉄砲を構えた。"
+    ],
+    "textEn": [
+      "Tomitake-san carefully studied the bear.",
+      "...Setting his sights, he shouldered the rifle while holding the other two shots in his hand."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ん？！",
+      "どういうことだ？！」"
+    ],
+    "textEn": [
+      "\"Hm!?",
+      "Why is he doing that!?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……うん、間違いない！！",
+      "富竹のおっさんの狙いは……！！！」"
+    ],
+    "textEn": [
+      "\"...Yes, no doubt!!",
+      "Tomitake-san is aiming for...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぱかん！",
+      "ぱかん！",
+      "ぱかん！！",
+      "発射の感覚が短い！！",
+      "一撃ごとに揺れが収まってから撃つのでは何の意味もない！！",
+      "つまり、富竹さんは連射で勝負に来たのだッ！！！",
+      "これまでとはまるで違う、誰が見ても揺れとわかる大きな揺れ…！！！",
+      "……だがそこまで！！",
+      "転げ落ちるには至らない！！！"
+    ],
+    "textEn": [
+      "Pwop!",
+      "Pwop!",
+      "Pwop!!",
+      "The time between shots was short!!",
+      "It was meaningless to shoot again once it stopped shaking!!",
+      "So Tomitake-san  was relying on rapid fire to win the battle!!!",
+      "It was visibly wobbling much more than it ever had before...!",
+      "...But that was all...",
+      "It still didn't fall over."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ〜〜〜………ざ、残念だったぁ………。」"
+    ],
+    "textEn": [
+      "\"Hau~~~... T-Too bad...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは大きな揺れに一瞬期待するも、すぐに落胆のため息を漏らす。"
+    ],
+    "textEn": [
+      "All of Rena's momentary expectation from watching it sway violently turned into a dejected sigh."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「…う〜ん…結構行けると思ったんだけどなぁ…！！」"
+    ],
+    "textEn": [
+      "\"...Hmm~... I really thought it would work...!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「をっほっほ！",
+      "男だとキャラメルはもらえないようでございますわね！」"
+    ],
+    "textEn": [
+      "\"Oh ho ho!",
+      "It seems that, since you're a man, you will not be receiving any candy!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "つまりはそういうこと！",
+      "富竹さん、戦果ゼロだ！"
+    ],
+    "textEn": [
+      "That was it!",
+      "It meant Tomitake-san had no spoils of war!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「つまり、圭ちゃんと梨花ちゃんは手堅く、ラクなものを撃ち落せばビリ回避ってわけだね。」"
+    ],
+    "textEn": [
+      "\"So both Kei-chan and Rika-chan can just shoot down a sure, easy prize and avoid being dead last.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ビリ回避、か。",
+      "………………",
+      "あ、すみませんね。」"
+    ],
+    "textEn": [
+      "\"Avoid being the loser, huh.",
+      "...",
+      "Oh, sorry about that.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「今度は圭一くんの番だよ。健闘を！」"
+    ],
+    "textEn": [
+      "\"It's your turn next, Keiichi-kun. Best of luck!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "５番手は俺。",
+      "富竹さんから鉄砲を受け取る。",
+      "非情に徹するなら魅音の言う通り、ここは小物狙いだ。",
+      "……だが……！！",
+      "鉄砲を受け渡す時、その鉄砲を伝って確かに感じたのだ。",
+      "…熱い…気合ってヤツを！！",
+      "富竹さんは俺に託した。",
+      "レナの欲しがるぬいぐるみを落とせなかった男としての無念を…俺にッ！！",
+      "あぁ、そうさ。",
+      "ここでくまを狙わなかったら",
+      "……",
+      "男じゃないッ！！"
+    ],
+    "textEn": [
+      "I was the fifth shooter.",
+      "I took the rifle from Tomitake-san.",
+      "If I took the ruthless route, as Mion had suggested, then I'd go for something insignificant.",
+      "...Except...!!",
+      "When I picked up the rifle, I definitely got a feeling from it.",
+      "...It was... burning passion!!",
+      "Passed down to me by Tomitake-san.",
+      "The regret of not being man enough to fell the bear that Rena wanted...!!",
+      "Yes, that's right.",
+      "If I didn't aim for the bear",
+      "...",
+      "Then I wouldn't be a man!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「約束しちまったからな。",
+      "…レナに。」"
+    ],
+    "textEn": [
+      "\"After all, that was my promise...",
+      "to Rena.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…え、……え？",
+      "…約束って……なんだろ？　なんだろ？」"
+    ],
+    "textEn": [
+      "\"...Huh ...huh?",
+      "...What... promise? What?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あのくまを撃ち落して。",
+      "……レナにプレゼントするって。」"
+    ],
+    "textEn": [
+      "\"To shoot down that bear.",
+      "...Then give it to Rena. That one.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「へ………へ………それって………はぅ…………。」"
+    ],
+    "textEn": [
+      "\"Uh... uh... You mean... hau...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "このやりとりを見て、ギャラリーがヒートアップする！！"
+    ],
+    "textEn": [
+      "The crowd went wild when they saw our conversation!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Gallery",
+    "labelJp": "ギャラリー",
+    "textJp": [
+      "「「「おぉおおぉおぉ！！！",
+      "兄ちゃんいいぞぉ！！",
+      "男見せたれぇえぇええぇッ！！！！」」」"
+    ],
+    "textEn": [
+      "\"\"\"Whoooooo!!",
+      "Cool, onii-chan!!",
+      "Show us what you've got!!!!\"\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ち、違うぞギャラリーの諸君！",
+      "……こうしないと、この屋台のオヤジ、帰りにレナに追い剥ぎされるかもしれないからだよ…！！",
+      "じゃなくてじゃなくて！",
+      "どうして俺ってヤツはもっと素直な言い方ができないんだ？！"
+    ],
+    "textEn": [
+      "Th-That's not it, fine men of the crowd!",
+      "...If I didn't do this... then Rena might mug the old man running the stall on his way home...!!",
+      "No! That's not it! That's not it at all!",
+      "Why can't I just express my honest feelings!?"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さんも男を見せますのね。",
+      "……でも実際、どうやってくまを落とす気ですの？」"
+    ],
+    "textEn": [
+      "\"Keiichi-san surely talks the talk.",
+      "...But how do you actually intend to bring down the bear?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…レナや富竹の弾で幾分、傾きはしましたですが……難しいと思いますです。」"
+    ],
+    "textEn": [
+      "\"...Rena and Tomitake-san's shots did make it tilt a bit... but I think finishing the job will be difficult.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…圭一くぅん………。」"
+    ],
+    "textEn": [
+      "\"...Keiichii-kun...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「もっと素早い連射力があれば…一撃ごとの揺れにパワーを上乗せできるのに…！」"
+    ],
+    "textEn": [
+      "\"If only there was some way to shoot faster... I'd be able to pile more power on the sway from each hit...!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「頑張って！　圭一くん！！」"
+    ],
+    "textEn": [
+      "\"Good luck! Keiichi-kun!!"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……俺は２つ深呼吸してから、オヤジに注文した。"
+    ],
+    "textEn": [
+      "After taking two deep breaths, I shouted over to the guy."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「鉄砲をもう２丁貸してくれ。」"
+    ],
+    "textEn": [
+      "\"Two more rifles.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どよ？！",
+      "ギャラリーがざわめく。"
+    ],
+    "textEn": [
+      "Huh!?",
+      "The crowd murmured amongst themselves."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さんは何を企んでいるのでしょう？！",
+      "…１人じゃ３丁は扱えないですのよ？！」"
+    ],
+    "textEn": [
+      "\"I wonder what Keiichi-san is up to...",
+      "One person can't handle three rifles at once!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「読めたよ…。",
+      "圭ちゃんも…考えたじゃん！！」"
+    ],
+    "textEn": [
+      "\"I get it...",
+      "Nice thinking, Kei-chan!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が俺の秘策を見事看破する！"
+    ],
+    "textEn": [
+      "Mion was able to figure it out magnificently!"
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「つまり…一番時間がかかってるのがこの…コルク弾の装填なんだよ。」"
+    ],
+    "textEn": [
+      "\"Basically, what was taking the most time was reloading the shot.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そ、そうだよね…！",
+      "じゃあ……先に弾を詰めた鉄砲を３つ並べておけば…！！」"
+    ],
+    "textEn": [
+      "\"Th-That's right...!",
+      "Then... by putting three pre-loaded rifles next to each other...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんは何も言わずファインダー越しに俺とくまを捉える。",
+      "カメラマンの血が、これから起こる奇跡を予見させるのだ！！",
+      "そしてギャラリーも遅れて俺の意図を読み取る！",
+      "割れんばかりの大歓声！！",
+      "圭一コールが巻き起こる！！！",
+      "連射が命！",
+      "外せば意味もなし！！",
+      "……ふーーーーーッ！！",
+      "息を深く吐いてから…止める。",
+      "……緊張が止まる。",
+      "………今だッ！！！！",
+      "その瞬間、時間が止まったようにすら感じた。",
+      "俺にはコルク弾が飛んで行く軌跡まで見えていたのかもしれない。",
+      "当たれ……、",
+      "そして",
+      "……",
+      "倒せッ！！！！！",
+      "くまの頭に弾が１発",
+      "２発",
+      "……",
+      "３発",
+      "ッ！！！！",
+      "大きく揺れるくま！！",
+      "そして……！！"
+    ],
+    "textEn": [
+      "Tomitake-san went silent, peering at me and the bear through his lens.",
+      "His photographer's blood predicted a miracle will occur!",
+      "And then the crowd finally picked up on what I was planning!",
+      "They let out a great cheer!",
+      "They chanted my name, Keiichi!!!",
+      "Rapid fire is the key!",
+      "If I miss, all is for naught!!",
+      "...Phueeeeeew...",
+      "After letting out a deep breath... I paused.",
+      "Relax...",
+      "NOW!",
+      "That moment... It felt like time itself had stopped.",
+      "I felt like I could see the trajectory of the bullets.",
+      "Hit it...",
+      "and",
+      "...",
+      "knock it down!",
+      "The first shot hit the bear on its head.",
+      "The second...",
+      "...",
+      "The third...",
+      "!!!",
+      "The bear swayed hard!!",
+      "And then...!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「きゃ、…きゃーーー！！！",
+      "やったぁあぁあぁあぁあッ！！！！」"
+    ],
+    "textEn": [
+      "\"Who-Whooooo!!",
+      "Yeaaaaaah!!!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Gallery",
+    "labelJp": "ギャラリー",
+    "textJp": [
+      "「「「ぅおおぉぉおおおぉおぉおおッ！！！！」」」"
+    ],
+    "textEn": [
+      "\"\"\"oOOooOOOoOoOO!!!!\"\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大歓声はぬいぐるみがごろりと棚を転げ落ちるのを待たずに巻き起こった。",
+      "それが地面に落ちる前にオヤジがキャッチし、俺に投げてよこす。"
+    ],
+    "textEn": [
+      "The cheers began before the stuffed animal even finished falling off the shelf.",
+      "The guy caught it before it hit the ground and tossed it over to me."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Festival Stall",
+    "labelJp": "屋台",
+    "textJp": [
+      "「……まさか本当に落としやがるたぁなぁ。",
+      "…完敗だぜ！！」"
+    ],
+    "textEn": [
+      "\"...You actually knocked it over.",
+      "You got me!!\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「すごいや！　おめでとう圭一君！！」"
+    ],
+    "textEn": [
+      "\"Amazing! Congratulations, Keiichi-kun!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さんも頭を使えるようになりましたわねぇ！！",
+      "少しは見直しましたですの〜！！」"
+    ],
+    "textEn": [
+      "\"Keiichi-san has finally learned how to use his head!!",
+      "I see you in a slightly better light now!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺ひとりで落としたわけじゃないぜ。みんなで当てて、少しずつずらして落としたんだ。",
+      "……こいつぁ俺たち全員の戦果だぜッ！！！」"
+    ],
+    "textEn": [
+      "\"I didn't do it all by myself. Everyone hit it, and those small bits together brought it down.",
+      "...This trophy belongs to all of us!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そうそう！　全員の力の結晶だね〜！！」"
+    ],
+    "textEn": [
+      "\"Right! This is from all of us working together~!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…魅ぃは１発も当ててませんです。」"
+    ],
+    "textEn": [
+      "\"...Mii didn't hit it a single time.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……う。」"
+    ],
+    "textEn": [
+      "\"...Urk.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺はトロフィーのように大きくぬいぐるみを抱え上げると、それをぼすんとレナに押し付けた。"
+    ],
+    "textEn": [
+      "After holding up the teddy bear like it was a championship trophy, I handed it to Rena."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そら。",
+      "こいつは俺から……いやみんなからだな。",
+      "いつもうまい弁当をありがとな。」"
+    ],
+    "textEn": [
+      "\"Here.",
+      "This is from me... No, from everyone.",
+      "Thanks for always making your delicious lunches.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはまさか本当にもらえるとは思わなかったらしく、一瞬面食らったようだった。"
+    ],
+    "textEn": [
+      "Rena, thinking she was never actually going to get it, was momentarily speechless."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「だ、だめだよ圭一くん……、だってこれはみんなの……はぅ、」"
+    ],
+    "textEn": [
+      "\"I-I can't, Keiichi-kun... This is everyone's, after all... hau~.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ落としたのは俺！",
+      "だからこれは俺の！",
+      "俺のだからレナにやるッ！」"
+    ],
+    "textEn": [
+      "\"In that case, I was the one who knocked it down!",
+      "And it's mine!",
+      "It's mine, so I'm giving it to Rena!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もう一回、レナの胸にぬいぐるみを押しつけてやる。",
+      "…今度は素直に抱いてくれた。"
+    ],
+    "textEn": [
+      "I pushed the stuffed animal towards her again.",
+      "...This time, she embraced and accepted it."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺が引っ越してきてから、いろいろ面倒を見てくれたよな。",
+      "…すげぇ感謝してるんだぜ？",
+      "ありがとな！！」"
+    ],
+    "textEn": [
+      "\"You've watched out for me ever since I moved here, after all.",
+      "I'm really grateful, you see...",
+      "Thanks a lot!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……は、はぅ〜〜！！",
+      "圭一くぅん！！",
+      "ありがとぉ〜〜☆！！！！」"
+    ],
+    "textEn": [
+      "\"...H-Hau~~!!",
+      "Keiichii-kuun!!",
+      "Thanks so much~~☆!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが飛びついてくる。",
+      "後日魅音に、レナはキスしてたよって言われたが、この時は興奮しててよく覚えていない。",
+      "さっき自分で富竹さんに言った言葉がよみがえってきた。",
+      "ここは何にもないところだけど。",
+      "……ここにしかないものもたくさんある。",
+      "俺はきっとこの雛見沢に来てたくさんのものを手に入れた。",
+      "…今この瞬間だって。",
+      "ギャラリーの大歓声がいつまでもいつまでもこだましていた。",
+      "やがて社の前の祭壇からどーんどーんと大太鼓の音が響き始める。",
+      "もうこの賑やかなお祭りもフィナーレなのだ。"
+    ],
+    "textEn": [
+      "Rena dove at me.",
+      "Mion told me a few days later that Rena kissed me, but I didn't realize it during all the excitement at the time.",
+      "I remembered what I was trying to say to Tomitake-san earlier.",
+      "There really isn't much of anything here.",
+      "...But there are lots of things you can't find anywhere else.",
+      "I gained a lot from coming to Hinamizawa.",
+      "...Especially at that moment.",
+      "The crowd's cheers echoed on and on.",
+      "From the altar set up in front of the shrine, the drums sounded with a booming echo.",
+      "It was the finale of the festival."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…じゃあボクはお先に行くですよ。」"
+    ],
+    "textEn": [
+      "\"...I'll be going off ahead, then.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「おっと！",
+      "僕も早く行っていいポジションを確保しないとな。",
+      "…じゃあみんな、後ほど。」"
+    ],
+    "textEn": [
+      "\"Uh oh!",
+      "I need to go and get myself a good spot, too.",
+      "...Well then everyone, see you in a bit.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんと富竹さんはぺこりと頭を下げるとぱたぱたと人ごみへ消えていった。"
+    ],
+    "textEn": [
+      "Both Rika-chan and Tomitake-san gave their farewells and disappeared into the crowd."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「２人ともお務め、しっかりでございますよ〜！！",
+      "ささ！",
+      "参りましょうでございます！」"
+    ],
+    "textEn": [
+      "\"I wish both of you the best in your endeavors~!!",
+      "Now...",
+      "Shall we be off?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ふむ、梨花ちゃんの艶姿を見に行きますかね。",
+      "行こ！」"
+    ],
+    "textEn": [
+      "\"Yeah, might as well go see Rika-chan's charming figure.",
+      "Let's go!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おう！",
+      "あれ、レナは？",
+      "……な、何やってんだよ？？」"
+    ],
+    "textEn": [
+      "\"Yeah!",
+      "Huh? Where's Rena?",
+      "...Wh-What are you doing??\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「け、けけ、圭一く〜ん！",
+      "魅ぃちゃ〜ん、……たすけてぇ〜…！」"
+    ],
+    "textEn": [
+      "\"K-K-Keiichi-ku~n!",
+      "Mii-cha~n... Save me~...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ばかでかいぬいぐるみを抱いてるものだから人の流れにすっかり翻弄されている。"
+    ],
+    "textEn": [
+      "Since she was carrying such a ridiculously large stuffed animal, she was being carried by the flow of people."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何やってんだあいつ…。",
+      "くまの世話で手いっぱいなんだな…。」"
+    ],
+    "textEn": [
+      "\"What is she doing...",
+      "She must have her hands full taking care of that bear...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「じゃあ圭ちゃんにはレナの世話を頼むかねぇ。",
+      "私は沙都子の世話で忙しいし。」"
+    ],
+    "textEn": [
+      "\"So I'll leave Rena in your care, Kei-chan.",
+      "I have my hands full taking care of Satoko.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「誰が魅音さんの世話になるでございますの〜！！",
+      "痛い〜！　手ぇ引っ張らないで下さいましぃ〜…！」"
+    ],
+    "textEn": [
+      "\"Who would want to be looked after by you, Mion-san~!?",
+      "Ouch! Please don't pull on my arm~...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音を見失う前にレナの後襟をふん捕まえる。"
+    ],
+    "textEn": [
+      "Before losing sight of Mion, I grabbed the back of Rena's collar."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「けけ、圭一くん……そこ違う…、つかむとこ違う…！」"
+    ],
+    "textEn": [
+      "\"K-K-Keiichi-kun... Not there... don't grab me there...!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「注文のうるさいヤツだな。",
+      "どこならいいんだ。」"
+    ],
+    "textEn": [
+      "\"Always so bossy.",
+      "Where can I grab then?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…え……と………はぅ…………、」"
+    ],
+    "textEn": [
+      "\"...Uh... um... Hau...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが俺の分まで恥ずかしがってくれるものだから、俺に恥ずかしさはあまりなかった。",
+      "レナの手をきゅっと握り、小走りに魅音たちを追う。"
+    ],
+    "textEn": [
+      "I didn't feel ashamed at all. Rena was ashamed enough for the both of us.",
+      "I grabbed onto Rena's hand and dashed after Mion and the others."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「置いてかれる。",
+      "早く行こうぜ！」"
+    ],
+    "textEn": [
+      "\"We're gonna be late.",
+      "Let's hurry up!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………う、うん…！」"
+    ],
+    "textEn": [
+      "\"...Y-Yeah...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの手ってこんなに華奢だったのか…。",
+      "……少し運動と栄養が足りねえんじゃねーのか？",
+      "……じゃなくて！じゃなくて！！",
+      "自分の耳がカーッと熱くなっていく。",
+      "冷静になろうとしても、頭の中が「冷静になれ前原圭一」という活字でいっぱいになるばかりで、ちっとも冷静になれそうになかった。",
+      "そんな顔をレナには絶対見られたくないと思ったので、俺は振りかえらずにレナを引きずってずんずん進んでいった。",
+      "社の前の祭壇はもうすごい人だかりだ。",
+      "焚かれた祭壇の炎が真昼のように明るく、熱い。",
+      "社の前に作られた祭壇にはしめ縄で飾られた布団の山が積まれている。",
+      "そう言えば、布団の綿をなんだかするお祭りだって言ってたな。"
+    ],
+    "textEn": [
+      "I hadn't realized Rena's hand was so delicate...",
+      "...Maybe she needed a bit more exercise and nutrition?",
+      "...That wasn't what I meant! Not at all!!",
+      "My ears burned.",
+      "I tried to keep calm. I repeated the phrase \"Keep it together, Keiichi Maebara\" in my mind, but it didn't look like I would be able to anytime soon.",
+      "I really didn't want Rena to see my face right then, so I pushed onwards, dragging her along without looking back even once.",
+      "There was already a huge group of people gathered at the altar in front of the shrine.",
+      "The fire at the altar made it as bright as midday and just as hot.",
+      "There was a pile of futons warded with sanctified rope in front of the altar.",
+      "Come to think of it, they did say it was a festival where they did something with the cotton in futons."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さん！",
+      "レナさーん！",
+      "こちらでございますのよ〜！！」"
+    ],
+    "textEn": [
+      "\"Keiichi-san!",
+      "Rena-san~!",
+      "We're over here~!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子が最前列で手を振っている。"
+    ],
+    "textEn": [
+      "Satoko waved her hand from the front row."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お！　すまんすまん！」"
+    ],
+    "textEn": [
+      "\"Ah! Sorry, sorry!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "人ごみの間をすり抜け、魅音たちが陣取ってくれた場所へ辿りつく。"
+    ],
+    "textEn": [
+      "Making our way through the mass of people, we reached the spot they'd saved."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「どう〜？　ちょっとはレナとドキドキできた〜？」"
+    ],
+    "textEn": [
+      "\"How was it? Were you able to have a little bit of excitement with Rena~?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「やや、やっぱりてめぇ、そーゆうつもりだったのかぁッ！！！」"
+    ],
+    "textEn": [
+      "\"Y-Y-You punk! So that's what your plan was!?!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は返事の代りにいやらしい笑みを浮かべて見せる。"
+    ],
+    "textEn": [
+      "Instead of replying, Mion gave us a perverse grin."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「レナはどうだった？",
+      "圭ちゃんの手って意外に大っきいとか思わなかった〜？」"
+    ],
+    "textEn": [
+      "\"How was it, Rena?",
+      "Was Kei-chan's hand bigger than you thought it would be~?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はッ、…………は",
+      "ぅ〜……………、」"
+    ],
+    "textEn": [
+      "\"Ha... Ha",
+      "o~...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが真っ赤になってしゅうしゅうと蒸気を上げている。",
+      "風を切る音がしたので振りかえると、魅音が顔面にあざを残して倒れている。"
+    ],
+    "textEn": [
+      "Rena turned bright red, puffs of steam shooting out of her.",
+      "I heard something slice through the air and turned around to see Mion on the ground with a welt on her face."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…魅音、…お前、いつ食らったんだ…？」"
+    ],
+    "textEn": [
+      "\"...Mion... When... were you hit...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「はぅ〜、の「は」と「ぅ」の間くらいだったか…",
+      "な…。」"
+    ],
+    "textEn": [
+      "\"Between the 'ha' and 'o' of her hau~ I...",
+      "think...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナ…。",
+      "照れ隠しに友達を殴るのはよくないぞ…。」"
+    ],
+    "textEn": [
+      "\"Rena...",
+      "It's not good to punch your friends to hide your embarrassment...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「レ、レナ殴ってないよ…し、しし知らないもん…………はぅ。」"
+    ],
+    "textEn": [
+      "\"I-I didn't hit her... W-Wh-whatever... hau.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どーんッ！！と大きい太鼓が響くと一気に場がシーンとした。"
+    ],
+    "textEn": [
+      "Thump!! The thunderous beat of the drum echoed, silencing the crowd."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「お静かになさいませ！！　始まりですわ！！」"
+    ],
+    "textEn": [
+      "\"You must all be quiet!! It's beginning!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは厳かな神事だった。",
+      "巫女役の梨花ちゃんが神官に扮した町会の爺さま方を引き連れて登場する。",
+      "お年寄りは梨花ちゃんの姿にありがたがりながら手を合わせている。",
+      "静寂を乱すことを許されるのは富竹さんのフラッシュだけだ。"
+    ],
+    "textEn": [
+      "It was a solemn ritual.",
+      "Rika-chan entered dressed as a shrine maiden, followed by members of the municipal committee.",
+      "The elders all looked at Rika-chan and clasped their hands in praise.",
+      "The only thing allowed to disturb the profound silence was the flash from Tomitake-san's camera."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「梨花ちゃんが持ってるあのデカイのは何だ？」"
+    ],
+    "textEn": [
+      "\"What's the big thing Rika-chan is holding?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「祭事用の鍬だよ。",
+      "巫女さんしか触っちゃいけない神聖な農具なの。」"
+    ],
+    "textEn": [
+      "\"A hoe that's used for this festival.",
+      "It's a sacred farming tool that only the shrine maiden may touch.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "農具にしちゃややこしい形をしている。祭事用なんてそんなもんだ。",
+      "祝詞をあげた後、梨花ちゃんは祭壇に積まれた布団の山に歩み寄っていく。",
+      "そして、作法に基づいて鍬を振ったり、布団を突っついたりしだした。",
+      "こういうのって、動作ひとつひとつが決められたものなんだろうな…。",
+      "それは間違いなく、儀式だった。"
+    ],
+    "textEn": [
+      "It was an awkward shape for a piece of farm equipment. Not uncommon for something used in rituals.",
+      "After reciting a Shinto prayer, Rika-chan approached the pile of futons gathered at the altar.",
+      "She swung the hoe skillfully, ploughing it into the futons.",
+      "Each and every little movement of this performance probably had to be done in a certain way...",
+      "Without a doubt, this was a ritual."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「今度は何だ？",
+      "布団叩きかな？」"
+    ],
+    "textEn": [
+      "\"What's next?",
+      "Airing out futons?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あれはね。人間に代って冬の病魔を吸い取ってくれたお布団を清めてるの。」"
+    ],
+    "textEn": [
+      "\"She's purifying the futons, which sacrificially absorbed winter's illnesses for those using them.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんの布団叩きって表現も、まぁハズレじゃないかね。」"
+    ],
+    "textEn": [
+      "\"So when Kei-chan said 'airing out futons,' he wasn't completely wrong.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんの顔はすでに汗だくだ。",
+      "……あの鍬は本当に重いのだろうな。",
+      "梨花ちゃんが振りまわす度に、重さに負けて体を右に左に振られている様子がよくわかる。",
+      "それをじっと見詰め、沙都子は声に出せぬ応援を続けていた…。"
+    ],
+    "textEn": [
+      "Rika-chan's face was already dripping with sweat.",
+      "...That hoe was probably really heavy.",
+      "She staggered side-to-side with the momentum of each swing.",
+      "Satoko looked on, silently lending her support..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…心配か？」"
+    ],
+    "textEn": [
+      "\"...Worried?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「梨花は毎日毎日、お餅つきの杵で練習してましたですの…。",
+      "…きっとやりきるでございますわ。」"
+    ],
+    "textEn": [
+      "\"Rika practiced every single day with a mochi hammer...",
+      "...She will certainly prevail.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子は手に汗を握り、梨花ちゃんがよろけそうになる度に息をのんでいる。"
+    ],
+    "textEn": [
+      "Satoko's hands were sweaty, and whenever Rika-chan started to sway a little, she held her breath."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…魅音とかは巫女役、立候補しなかったのかよ。",
+      "…梨花ちゃんにあの重さは気の毒だよ。」"
+    ],
+    "textEn": [
+      "\"...Why wasn't Mion a candidate to be the shrine maiden?",
+      "...It feels wrong, having Rika-chan swing around something so heavy.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そりゃ頼まれりゃやるけどね。",
+      "…まぁ、",
+      "誰にでも務まるものでもないし。」"
+    ],
+    "textEn": [
+      "\"I'd do it if they asked me, you know...",
+      "And well...",
+      "it's not something just anyone could do.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうだよな。",
+      "巫女は清らかじゃないと駄目だもんな。",
+      "……ぎゅおぉをぉ…ッ！！」"
+    ],
+    "textEn": [
+      "\"That's true.",
+      "Shrine maidens need to be pure, after all.",
+      "...Ghrnk...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がわき腹の急所に肘を捻り込む！！",
+      "大太鼓がどん！と鳴ると、梨花ちゃんは黙礼をし、祭壇を降りる。",
+      "…そしてそれを大きな拍手が迎えた。",
+      "神官役が、清め終わった布団をお御輿のように担ぎ上げると、見物人たちが一斉に腰を上げる。",
+      "そして神官たちの後に付き従い、みんなぞろぞろと移動を始めた。",
+      "神社の大階段を行列がぞろりぞろりと降って行く。"
+    ],
+    "textEn": [
+      "Mion drove her elbow into my side!!",
+      "With the thud of the big drum, Rika-chan gave a solemn bow and descended from the altar.",
+      "...That triggered a round of generous applause.",
+      "After the Shinto priests had raised up the cleansed futons like a portable altar, all the spectators stood up.",
+      "Following after the priests, we all marched on at a moderate pace.",
+      "They descended the shrine's giant stairs in a line."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「今度は何が始まるんだ？",
+      "布団を川で洗濯か？」"
+    ],
+    "textEn": [
+      "\"What's happening now?",
+      "Washing the futons in the river?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははは。",
+      "だから、綿流しだってば。」"
+    ],
+    "textEn": [
+      "\"Ahahaha.",
+      "Watanagashi means setting cotton adrift, you know.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "行列は歩き続け、沢のほとりまでやって来た。",
+      "かがり火がこうこうと焚かれ、ここも真昼のように明るい。",
+      "人々が一箇所に群がり始め、きゃあきゃあと騒いでいる。"
+    ],
+    "textEn": [
+      "The procession continued right up to the bank of the stream.",
+      "A fire was stoked high and it was bright as day here, too.",
+      "People started crowding around it and clamoring."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はい、順番順番。",
+      "並ぶよ圭一くん。」"
+    ],
+    "textEn": [
+      "\"All right, get in line.",
+      "Line up, Keiichi-kun.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…何だろう？",
+      "お神酒でももらえるんだろうか？",
+      "紅白まんじゅうかな？"
+    ],
+    "textEn": [
+      "...I wondered what was up.",
+      "Maybe we'd get some holy wine?",
+      "Red and white bean buns?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはははは…。",
+      "食べ物じゃないよ。",
+      "だから、ワ・",
+      "タ。」"
+    ],
+    "textEn": [
+      "\"Ahahahaha...",
+      "It's not food.",
+      "I said it was",
+      "cotton.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あぁ、…そうだもんな。",
+      "綿流しだもんな。",
+      "ようやく理解した。",
+      "そこでは町会の人たちが、布団の中身の綿を手際よく引き出して、お餅のように丸めてどんどん配っている。",
+      "レナがひょいと行列をくぐって、俺の分ももらってくれた。",
+      "そしてもらった人々はめいめいに沢のほとりへ向かう。"
+    ],
+    "textEn": [
+      "Ah, but of course.",
+      "They didn't call it the Watanagashi for nothing.",
+      "I finally understood.",
+      "The municipal committee members pulled out the cotton from inside the futons and balled it up like mochi, handing it out to people.",
+      "Rena dove into the line and brought out some for me as well.",
+      "We then proceeded to the bank of the stream."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんは初めてだから、レナのやり方を真似するんだよ。」"
+    ],
+    "textEn": [
+      "\"Since it's your first time, Keiichi-kun, just copy what I do.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ワタを右手にもち、左手で御払いみたいにしてから、額、胸、おへそ。そして両膝をぽんぽんと叩く。"
+    ],
+    "textEn": [
+      "She held the cotton in her right hand and, waving her hand as if to purify it, she touched it to her forehead, chest, navel, and both thighs."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「これを３回繰り返すの。心の中ではオヤシロさま、ありがとうって唱えるんだよ。」"
+    ],
+    "textEn": [
+      "\"You do this three times, and silently give thanks to Oyashiro-sama.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「オヤシロさま？　ってなんだよ。あの神社の神様の名前か？」"
+    ],
+    "textEn": [
+      "\"Oyashiro-sama? What's that? The name of the shrine's god?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。雛見沢の守り神さまなの。",
+      "御利益もあるけど、祟りもあるんだからね！",
+      "ちゃんと敬わないとだめだよ。」"
+    ],
+    "textEn": [
+      "\"Yes. It's the guardian deity of Hinamizawa.",
+      "It brings about both miracles and curses!",
+      "So you must be sure to show respect.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そりゃー物騒な神様だな。",
+      "でもまー、郷に入りては郷に従えってヤツだ。",
+      "俺も今ではれっきとした雛見沢の住人なんだから。",
+      "レナに倣い、綿でぽんぽんと３回繰り返す。",
+      "オヤシロさまありがとう…オヤシロさまありがとう…オヤシロさま……。"
+    ],
+    "textEn": [
+      "That sounded like a pretty frightening god.",
+      "But, well, when in Rome...",
+      "I was officially a resident of Hinamizawa now, after all.",
+      "Doing as Rena showed me, I touched the cotton over myself three times.",
+      "Thank you, Oyashiro-sama... Thank you, Oyashiro-sama... Oyashiro-sama..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「これでね、体に憑いてた悪いのがこの綿に吸い取られたの。",
+      "……で、あとは沢の流れにそっ、と流してね、おしまい…。」"
+    ],
+    "textEn": [
+      "\"This way, all the evil that possesses you is sucked out by the cotton.",
+      "...Then you let it gently drift away on the stream, and you're done.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナと一緒に、俺も綿をそろりそろりと水面に浮かべる。",
+      "雛見沢中の病魔を吸い取り、綿の花が次々と水面に咲き、そして流れに消えて行った。",
+      "テレビで見た灯篭流しのような華やかさはなかったが、雛見沢の住人として認めてもらえたような、通過儀礼的な心地よさがあった。"
+    ],
+    "textEn": [
+      "Together, Rena and I set our pieces of cotton afloat on the surface of the water.",
+      "The flowers of cotton blooming in the water had sucked out all the bad illnesses from Hinamizawa and drifted off, disappearing into the distance.",
+      "It was wonderful, like those floating lantern festivals I'd seen on TV. The best part, though, was feeling like this rite of passage had made me a true resident of Hinamizawa."
+    ]
+  }
+]

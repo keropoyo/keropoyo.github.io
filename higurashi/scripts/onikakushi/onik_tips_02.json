@@ -1,0 +1,342 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "まだ６月だってのに…",
+      "暑い。",
+      "外ではセミがミンミンと鳴き、夜は蚊まで出る。",
+      "…これって完全に夏だよなぁ。",
+      "…朝だけは涼しいのが救いか。"
+    ],
+    "textEn": [
+      "It's only June...",
+      "but it's already so hot.",
+      "I could hear the higurashi outside chirping \"miii miii,\" and at night, there are mosquitos.",
+      "...It might as well be summer already.",
+      "...My only salvation was that the mornings were still cool."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「暑いでございますわねぇ！」"
+    ],
+    "textEn": [
+      "\"Summer, I do declare!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子が気だるそうにスカートをバタバタさせている。",
+      "…はしたないぞ、おい。",
+      "…ガキンチョとは言え、一応女の子なんだからさぁ。"
+    ],
+    "textEn": [
+      "Satoko was flapping her skirt languidly.",
+      "...That's pretty unladylike there.",
+      "...Even if she was a little brat, she still was a girl."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一はワイシャツ１枚で涼しそうですわねぇ…。",
+      "羨ましいですわ。」"
+    ],
+    "textEn": [
+      "\"Keiichi does seem quite cool with just a single button-up shirt...",
+      "I'm so jealous.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "またこの娘は、いかがわしい想像をたくましくさせてるな…。"
+    ],
+    "textEn": [
+      "This girl has gone imagining something indecent..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナの夏服は涼しそうな色合いがいいよな。",
+      "見てるこっちも涼しくなる。」"
+    ],
+    "textEn": [
+      "\"Rena's summer clothes have a nice refreshing color.",
+      "I feel cooler just looking at them.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはははは。",
+      "ありがと！",
+      "本当に涼しいんだよ。」"
+    ],
+    "textEn": [
+      "\"Ahahahaha.",
+      "Thank you!",
+      "They really do feel pretty cool.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「私もレナさんみたいな涼しい夏服がよかったですわねぇ。」"
+    ],
+    "textEn": [
+      "\"I do wish my summer clothes were as breezy as Rena's.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でも沙都子ちゃんの夏服、ワンピースですっごい可愛いし！",
+      "レナは沙都子ちゃんの夏服、着てみたいなー☆」"
+    ],
+    "textEn": [
+      "\"But Satoko-chan, your summer clothes are so cute, being a one piece and all!",
+      "I'd like to wear your summer clothes.☆\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「これ、結構蒸しますわよ？",
+      "絶対にレナさんの方が涼しいですわぁ。」"
+    ],
+    "textEn": [
+      "\"This is actually quite stuffy, you know.",
+      "I do believe what you're wearing would feel much cooler.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でもかぁいい服の方がきっと楽しいよ。……はぅ！」"
+    ],
+    "textEn": [
+      "\"But it would be so much more fun with kyute clothes... Hao!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……レナと沙都子では根本的に価値観が違う気がするぞ。"
+    ],
+    "textEn": [
+      "...I had a feeling that Rena and Satoko's base values were fundamentally different."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば…、この学校って指定の制服とかないんだよな。」"
+    ],
+    "textEn": [
+      "\"Speaking of which... our school doesn't have a uniform.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "ないよ。",
+      "相応しい服であれば私服でも大丈夫なんだよ。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "It doesn't.",
+      "As long as they're proper, then regular clothes are fine.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私服の生徒は確かに多い。",
+      "制服を着ている生徒もいるが、みんなデザインは同じ、地味なものだ。"
+    ],
+    "textEn": [
+      "There are quite a few students in regular clothes.",
+      "There were a few wearing uniforms, but they were all the same design and rather plain."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…他の連中が着てる制服は何なんだよ。",
+      "みんなお揃いだよな。」"
+    ],
+    "textEn": [
+      "\"...What's the uniform they're all wearing?",
+      "They're all the same.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あれは町の学校の制服なんですのよ。",
+      "別に決まってるわけじゃないですけど、みんな着てますわね。」"
+    ],
+    "textEn": [
+      "\"That's the city school's uniform.",
+      "It's not like there's a rule, but they're all wearing them.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そこへ行くと、俺らの仲間はみんないろいろな制服を着てるよな。",
+      "…わざわざどこかから取り寄せたのか？」"
+    ],
+    "textEn": [
+      "\"Speaking of which, everybody in our group is wearing a different uniform, aren't we?",
+      "Did you go out of your way to get them from somewhere?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「えぇ。魅音さんが調達して下さいますの。」"
+    ],
+    "textEn": [
+      "\"Why, yes. Mion-san supplied them.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃんの親類で、古着商をやってる人がいて、全国の学校の服を格安で仕入れてるんですって。」"
+    ],
+    "textEn": [
+      "\"Mii-chan's relative runs a secondhand clothing store. They can get school clothes from all over the country for cheap, they say.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「んで、その親類に頼んで、いろいろ個性的な制服を取り寄せてもらってるわけか。」"
+    ],
+    "textEn": [
+      "\"So you asked those relatives to get a bunch of unique school uniforms, then.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…魅音のヤツ、仲間を着せ替え人形にして楽しんでるな、絶対。",
+      "………しかし変な古着屋だよな。",
+      "古着全般はわかるとして、全国の学校の服を仕入れてる？",
+      "…よくわからん古着屋だ。",
+      "遠くの知らない学校の制服など、何の役にも立たないんじゃないのか？？"
+    ],
+    "textEn": [
+      "...That Mion, she probably loves using her friends as dress-up dolls.",
+      "...That must be a strange secondhand clothing store.",
+      "I get that it's a secondhand clothing store, but stocking clothes from schools all over the country?",
+      "...That's pretty strange for a secondhand clothing store.",
+      "What's the point in stocking up clothes from faraway schools they know nothing about??"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…うん。それはレナも思うよ。",
+      "他にも体操服とかスクール水着のお古とかも扱ってるの。",
+      "…そういうののお古はちょっと嫌だよねぇ。」"
+    ],
+    "textEn": [
+      "\"...Yeah. I think so, too.",
+      "They also have used school swimsuits and P.E. uniforms...",
+      "I don't like the idea of having used ones.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あんまり儲かってなさそうな商売だな",
+      "。……きっと少しでも儲けさせるために、魅音が一肌脱いでやってるんだろうな。」"
+    ],
+    "textEn": [
+      "\"Doesn't sound like that shop makes much money...",
+      "They probably have Mion pitch in and help so they can make a bit more.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……でも、いつも魅音さんが自信満々に言いますのよ？",
+      "今にきっと大ブレイクしてすごい商売になる！！って。」"
+    ],
+    "textEn": [
+      "\"...But Mion-san says 'It'll be a big hit and become a great store!'",
+      "with such conviction.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……学校制服の古着屋が大ブレイクねぇ？",
+      "…わからん。"
+    ],
+    "textEn": [
+      "...A secondhand clothing store that stocks school uniforms will be a big hit?",
+      "... I don't get it."
+    ]
+  }
+]

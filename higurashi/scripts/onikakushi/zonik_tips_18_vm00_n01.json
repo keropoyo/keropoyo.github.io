@@ -1,0 +1,33 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「さぁてどうしたんだろうね。",
+      "生理でも来てんじゃないのー？」"
+    ],
+    "textEn": [
+      "\"I wonder.",
+      "Maybe he's on his period.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「みみ、魅ぃちゃんそれ下品…！」"
+    ],
+    "textEn": [
+      "\"M-M-Mii-chan, that's gross...!\""
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「さぁてどうしたんだろうね。",
+      "恋の病にでもかかってるんじゃないのー？」"
+    ],
+    "textEn": [
+      "\"I wonder.",
+      "Maybe he's got a crush on someone?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「み、魅ぃちゃんそれ飛躍しすぎ…！」"
+    ],
+    "textEn": [
+      "\"M-M-Mii-chan, that's a logic leap...!\""
+    ]
+  }
+]

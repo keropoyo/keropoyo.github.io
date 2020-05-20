@@ -1,0 +1,599 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……おんやぁ？",
+      "今の皆さんは確か…。」"
+    ],
+    "textEn": [
+      "\"...Herm?",
+      "Those guys just now...\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「議員バッヂが二人いたっすね。」"
+    ],
+    "textEn": [
+      "\"They had National Diet badges.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「じゃー、県議と市議の園崎だ。」"
+    ],
+    "textEn": [
+      "\"Then it's prefectural assembly member Sonozaki and city councilor Sonozaki.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「面白いっすね。",
+      "親戚同士で県議と市議やってんすか。」"
+    ],
+    "textEn": [
+      "\"That's interesting.",
+      "The prefectural assembly member and city councilor are related.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「これがズルイんですよ。",
+      "お互いの名前で事前運動バンバン。",
+      "片方の選挙中にはもう片方が別に講演会を開いて、二重に選挙運動やってんですよ。",
+      "堂々と。」"
+    ],
+    "textEn": [
+      "\"It's dirty is what it is.",
+      "Shouting out each other's name during elections.",
+      "While one is up for election, the other one holds an assembly, and they double up their campaign activities.",
+      "Blatantly.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「よくわかんないんすけど、それって公選法違反じゃないんすか？」"
+    ],
+    "textEn": [
+      "\"I don't know much about this stuff, but isn't that against the rules of the election?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「事前運動にならない限り、政治活動は無制限ですからねぇ。",
+      "…熊ちゃん、そんなんじゃ選対本部付きになった時、大変ですよぅ？"
+    ],
+    "textEn": [
+      "\"As long as they have no prior consultation, there are no restrictions on their political activities.",
+      "Kuma-chan, the Second Investigation Division is going to be pretty tough for you."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "公選法くらいは勉強して下さい。」"
+    ],
+    "textEn": [
+      "You should at least brush up on election laws.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「俺、知能犯課は無理っす。",
+      "バカですから。えっへっへっへ…！」"
+    ],
+    "textEn": [
+      "\"I'm not cut out to handle intellectual crime.",
+      "'Cause I'm dumb. Heheheh...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "いたのは園崎県議と園崎市議。",
+      "それから…雛見沢の村長もいたな。",
+      "……どいつもこいつも園崎家の息のかかった連中か。",
+      "…面白くないですねぇ。"
+    ],
+    "textEn": [
+      "There was prefectural assembly member Sonozaki and city councilor Sonozaki.",
+      "Also... the Mayor of Hinamizawa.",
+      "...So, they're all influenced by the Sonozaki family.",
+      "What crap..."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「お見送りしてんのは…副署長とうちの課長っすね。」"
+    ],
+    "textEn": [
+      "\"Looks like they were seen off by... the deputy chief and the department chief.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ピーンと来る。",
+      "その日の夜、おでんを食いに行かないかと課長に誘われた時、やっぱりなぁと思った。"
+    ],
+    "textEn": [
+      "It came to me.",
+      "That night, when the department chief invited me along to get some oden, I thought that was it."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「大石さんは友達多いから聞いてるかもしれないけど",
+      "……聞いてるかな？」"
+    ],
+    "textEn": [
+      "\"You have a lot of connections, so you might have heard something...",
+      "have you?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いいえ。",
+      "何も。」"
+    ],
+    "textEn": [
+      "\"Nope.",
+      "Not a thing.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「お母さん、ガンモにはんぺん頼みます。",
+      "……署長んとこに議員の怒鳴り込みがあったんだよ。」"
+    ],
+    "textEn": [
+      "\"Ma'am, I'll take a tofu fritter and fish cake.",
+      "...The councilors stormed in on the police chief in a rage.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あれま。そうなんですか。",
+      "…お母さん、私にもう一杯下さい。」"
+    ],
+    "textEn": [
+      "\"Oh, my. Is that so?",
+      "Ma'am, I'll take another bowl.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "園崎は県議も市議も恫喝タイプだ。",
+      "あんなヤクザと政治家のぎりぎりみたいなのに怒鳴りつけられたら、キャリアのハナタレ若署長にはキツイでしょうねぇ…。"
+    ],
+    "textEn": [
+      "Prefectural assembly member Sonozaki and city councilor Sonozaki were both intimidating.",
+      "Our snot-nosed career police chief couldn't handle being yelled at by them. They're like yakuza..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「雛見沢事件の捜査の仕方で、君を指名して陳情してきたよ。」"
+    ],
+    "textEn": [
+      "\"A petition with your name came up regarding how the investigation of the Hinamizawa incident is being handled.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ありゃ私？",
+      "はてはて。」"
+    ],
+    "textEn": [
+      "\"Goodness, me?",
+      "I've not the faintest.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「とぼけるなよ。",
+      "例の雛見沢の、過去の事件。",
+      "蒸し返してるだろ。」"
+    ],
+    "textEn": [
+      "\"No need to play dumb.",
+      "You're reopening the past cases regarding Hinamizawa,",
+      "aren't you?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「私、富竹殺しで手一杯でそんな余裕ないですよ？",
+      "なっはっはっは！」"
+    ],
+    "textEn": [
+      "\"I've already got my hands full with Tomitake's death.",
+      "Nahahaha!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「本当に？",
+      "本当にそうならいいんだけどさ…。」"
+    ],
+    "textEn": [
+      "\"Really?",
+      "I hope so for your sake...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "しばしの沈黙。",
+      "お互い黙ってもくもくと箸を進めビールを飲み干す。"
+    ],
+    "textEn": [
+      "There was a period of silence.",
+      "While we were silent, we made headway on our food and drink."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いやぁご馳走になっちゃいました。",
+      "今月は負けっぱなしだったんで財布辛かったんですよ。",
+      "助かりました。」"
+    ],
+    "textEn": [
+      "\"Whew, that was quite the feast.",
+      "This month has been a bunch of losses for me, so my wallet was feeling the pinch.",
+      "Much appreciated.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「いやいいよ。",
+      "また馬、教えてよ。",
+      "大石さんと同じ馬を買うから。」"
+    ],
+    "textEn": [
+      "\"Nah, it's nothing.",
+      "Tell me a good horse again.",
+      "I'll bet on the same one as you.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっは！",
+      "最近はダメです。",
+      "馬の声がさっぱりですから！",
+      "…タクシー！！！」"
+    ],
+    "textEn": [
+      "\"Nahahahah!",
+      "I haven't been doing well there lately.",
+      "I haven't been able to read the horses at all!",
+      "...Taxi!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私は電車。",
+      "課長はハイヤー。",
+      "自家用車は辛いですねぇ。",
+      "退職前にして飲酒運転でパーってわけには行きませんから。",
+      "舌はよく回っても、課長の腰から下はもうすっかり砕けている様子。",
+      "タクシーに押し込み、課長の自宅の住所を伝える。"
+    ],
+    "textEn": [
+      "I'm going by train.",
+      "The department chief is taking a taxi.",
+      "I have my own car, but it'd be rash to drive it home.",
+      "Can't blow it right before retirement with a DUI.",
+      "Even though he could still rattle off, it looked like his legs were already jelly.",
+      "Pushing him into the cab, I gave the driver the department chief's address."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ではではまた明日。",
+      "よいお年を…！」"
+    ],
+    "textEn": [
+      "\"Well, see you again tomorrow.",
+      "Best wishes...!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「大石さん。」"
+    ],
+    "textEn": [
+      "\"Ooishi-san.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「はいはい。」"
+    ],
+    "textEn": [
+      "\"Yeah, yeah.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「過去の事件は全部個別に終わってる。",
+      "縦に並べるのはやめるんだよ。",
+      "村の連中は半ば本気で祟りを信じてるんだから。」"
+    ],
+    "textEn": [
+      "\"The past incidents have all been closed.",
+      "Stop lumping them all together.",
+      "Those villagers half-believe it's really a curse.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「私だって祟りなんか信じちゃいませんよ。」"
+    ],
+    "textEn": [
+      "\"Well, I'm not convinced.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「大石さんは来年で退職じゃないですか。"
+    ],
+    "textEn": [
+      "\"You're going to be retiring next year, aren't you?"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "退職金でローン返して、お母さんと北海道に引っ越すんじゃなかったっけ？」"
+    ],
+    "textEn": [
+      "Weren't you going to pay off your mortgage with your severance pay and move up to Hokkaido with your mom?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「署長は退職時特別昇給を見直すかもってさ。」"
+    ],
+    "textEn": [
+      "\"The chief said he may have to reconsider issuing your special retirement salary raise.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "官公署の退職金は、退職時の月給を掛け算して算出する。",
+      "そこで、退職直前に特別昇格で二号給（２年分）給料を昇給させることによって、",
+      "退職金を水増しするなんてことが、この辺の地方では慣習で行なわれている。",
+      "もちろん、あまり褒められた慣習じゃないんですが…。",
+      "ちなみに二号給違うと退職金の額はかなり違う。"
+    ],
+    "textEn": [
+      "A public servant's severance payment is calculated based on their monthly salary when they retire.",
+      "So, a special promotion of two pay grades is given before retirement.",
+      "This tops-up the employees severance payment. That tends to be how it's done around here.",
+      "Of course, it's not exactly a commendable custom...",
+      "Incidentally, the difference that two pay grades makes to the payout is quite significant."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「さすがインテリの若署長は言い出すことが模範的です。",
+      "…でもまぁ。",
+      "私たちの給料が血税で支払われてることを思えば、",
+      "まぁ時代の流れですかねぇ。」"
+    ],
+    "textEn": [
+      "\"I'd expect no less of our egg-head chief, quite the model veiled threat.",
+      "But... well...",
+      "Considering how our pay comes from the public's hard-earned taxes,",
+      "it's the way of the times, I suppose.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "本当はすごく笑えないのだが、取り合えず笑い飛ばしておく。"
+    ],
+    "textEn": [
+      "It certainly wasn't a laughing matter, but I'll laugh through it, anyway."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「僕も模範的な事とは思わないよ。",
+      "でもまぁ、大石さんはそれだけの退職金をもらってもおかしくない活躍をしてきたからさ。",
+      "僕としてはぜひもらって欲しいんだよ。」"
+    ],
+    "textEn": [
+      "\"I don't think it's such a model response.",
+      "But given how hard you've worked, it's not at all odd for you to take home such a good package.",
+      "Personally, I'd like you to get it.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「もらえるもんなら、そりゃー欲しいですけどね。",
+      "…なっはっはっは！」"
+    ],
+    "textEn": [
+      "\"If I can get it, well, of course I'd want it.",
+      "Nahahahah!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「もらえるよ。",
+      "大石さんが大人なら。」"
+    ],
+    "textEn": [
+      "\"You'll get it.",
+      "As long you're an adult about this.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「運転手さん、引き止めてすみませんね。",
+      "お願いします。」"
+    ],
+    "textEn": [
+      "\"Sorry for holding you up here, Driver.",
+      "Thank you very much.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "威勢良くドアを閉め、課長の会話を少し乱暴に遮る。",
+      "課長はまだ何か言いたげだったが、苦笑すると手を振った。こちらも手を振って応える。",
+      "タクシーは徐々に加速し、すぐに光の川に飲み込まれていった。"
+    ],
+    "textEn": [
+      "I closed the door roughly, interrupting the department chief's conversation a bit rudely.",
+      "It looked like he still had something to say, but he just smiled wryly and waved. I waved in return.",
+      "The cab sped up gradually, and soon disappeared among the sea of lights."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっは！",
+      "……まいったな。",
+      "ローン返済できるかなぁ…。」"
+    ],
+    "textEn": [
+      "\"Nahahahah!",
+      "...Oh, man...",
+      "I wonder if I'll be able to repay that loan...\""
+    ]
+  }
+]

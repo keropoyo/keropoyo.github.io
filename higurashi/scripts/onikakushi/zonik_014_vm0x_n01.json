@@ -1,0 +1,24 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…野球部の強い高校、教えよっか？",
+      "そこにいる左腕の、亀田くんがすごいピッチャーなんだけどさ。",
+      "…頑張ってね！」"
+    ],
+    "textEn": [
+      "\"...Want me to tell you the best high schools for baseball?",
+      "See Kameda-kun over there? He's a southpaw and an amazing pitcher.",
+      "Good luck!\""
+    ]
+  }
+]

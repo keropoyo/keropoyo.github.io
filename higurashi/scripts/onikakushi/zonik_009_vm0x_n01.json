@@ -1,0 +1,52 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ちびっ子！"
+    ],
+    "textEn": [
+      "She's tiny!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「な、…なぁんだ…！",
+      "てっきりおじさんは圭ちゃんの・・・　あははははっはぁ〜！！」"
+    ],
+    "textEn": [
+      "\"Oh... Ohhh...!",
+      "This old man thought you meant it was Keiichi's... Ahahaha.. haaa!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「身包み剥いでッ！！",
+      "地獄の底に叩き落としてやるぜぇえぇえッ！！！！」"
+    ],
+    "textEn": [
+      "\"We'll leave you with nothing!",
+      "And beat you into the depths of hell!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…カレーに…蚊取線香…昔なつかしのブリキ看板だっ！！！",
+      "どうッ？！？！」"
+    ],
+    "textEn": [
+      "\"...Pleb Curry... Snake coil incense... nostalgic tin signs from the old days!!!",
+      "How about this!?!?\""
+    ]
+  }
+]

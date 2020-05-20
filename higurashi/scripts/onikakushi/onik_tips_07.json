@@ -1,0 +1,545 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……レナがいないです。",
+      "圭一は知りませんですか？」"
+    ],
+    "textEn": [
+      "\"...Rena's not here.",
+      "Do you know where she is, Keiichi?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あれ？",
+      "たった今までそこにいたのにな。",
+      "…おい魅音。",
+      "レナはどこ行ったんだ？」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "She was just there, actually...",
+      "Hey, Mion.",
+      "Where did Rena go?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そんなことは一言も聞いてない！"
+    ],
+    "textEn": [
+      "I hadn't heard anything about that!"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子。",
+      "レナを知りませんですか？」"
+    ],
+    "textEn": [
+      "\"...Satoko,",
+      "do you know where Rena went?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「レナさんですの？",
+      "さっき廊下ですれ違いましてよ。",
+      "レナさんは日直だから、花壇にお水をやらないといけませんので。」"
+    ],
+    "textEn": [
+      "\"Rena-san, you say?",
+      "I just passed her in the hallway.",
+      "Rena-san has class duties today, so she's off to water the flower bed.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あーレナが日直かぁ。",
+      "そりゃお疲れ様なことで。」"
+    ],
+    "textEn": [
+      "\"Ah~ It was Rena's turn for class duty.",
+      "Sounds like a drag.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…レナレナレナ。",
+      "…とレナの名が乱発され、ふと疑問に思った。",
+      "人の名前にこんなこと言っちゃ失礼だが、……変わった名前だよな。",
+      "外人さんみたいな名前だ。"
+    ],
+    "textEn": [
+      "...Rena, Rena, Rena.",
+      "...Upon hearing it repeated, a thought came to mind.",
+      "It's rude to say this about someone's name... but it was a weird name.",
+      "It was like some foreigner's name."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナってどういう名前なんだろうな。",
+      "…レナって漢字だとどうなるんだ？」"
+    ],
+    "textEn": [
+      "\"What kind of name is Rena, I wonder...",
+      "What kind of kanji does her name use?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……レナはあだ名なのです。",
+      "ちゃんとした名前がありますですよ。」"
+    ],
+    "textEn": [
+      "\"...Rena is her nickname.",
+      "She has a proper name as well.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え、そうなのか？！",
+      "俺はてっきり竜宮レナってのが本名だと思ってたよ。」"
+    ],
+    "textEn": [
+      "\"What, really!?",
+      "I was sure that Rena Ryuugu was her actual name.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「まぁ確かに。",
+      "レナさんとしか呼んでませんから間違えるのも無理はないですわね。」"
+    ],
+    "textEn": [
+      "\"Well...",
+      "I can understand you making that mistake since we only call her Rena-san.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "しかも、習字の名前も「レナ」になってるしな。",
+      "学校では本名同然のようだ。"
+    ],
+    "textEn": [
+      "She even signs her name as \"Rena.\"",
+      "It's like it's her real name in school."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「本当の名前は何て言うんだろうな。",
+      "…レナが戻ってきたら聞いてみるかな！」"
+    ],
+    "textEn": [
+      "\"I wonder what her real name is...",
+      "Let's ask her when she comes back!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子と梨花ちゃんが顔を向かい合わせる。"
+    ],
+    "textEn": [
+      "Satoko and Rika-chan looked at each other."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……聞かなくてもいいですよ。",
+      "ボクたちが教えてあげますです。」"
+    ],
+    "textEn": [
+      "\"...You don't need to ask her.",
+      "We'll tell you what it is.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「お礼の礼に、奈良の奈。",
+      "…竜宮礼奈が本名ですのよ！」"
+    ],
+    "textEn": [
+      "\"It's the 'rei' from 'orei' and the 'na' from 'nara.'",
+      "Her real name is Reina Ryuugu!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「礼奈か。",
+      "………ふーん。",
+      "それでレイナじゃなくてレナって読むのか？",
+      "面白い読み方だよな。」"
+    ],
+    "textEn": [
+      "\"Reina, is it?",
+      "...Hmm.",
+      "So it's read out as Rena instead of Reina?",
+      "That's a pretty interesting reading.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……いいえ、違いますです。レイナで正しいのです。」"
+    ],
+    "textEn": [
+      "\"...No, that's not it. 'Reina' is the correct way.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「レナさんが言ったのですわ。レナと呼んで欲しいって。",
+      "だからレナさんなのですわ。」"
+    ],
+    "textEn": [
+      "\"Rena-san had told us that she wanted us to call her 'Rena.'",
+      "So we call her Rena-san.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃん。",
+      "…レナはレナだよ？",
+      "礼奈って呼ぶのは他人だけ。",
+      "そこんとこ、わかってるよね？」"
+    ],
+    "textEn": [
+      "\"Kei-chan...",
+      "Rena is Rena, you know?",
+      "Only strangers call her Reina.",
+      "You get where this is going?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の言いたいことはわかる。",
+      "本名が何だって、俺たちの間の通り名が全てに決まってる！",
+      "竜宮レナはレナだ。それ以外の誰でもないさ。"
+    ],
+    "textEn": [
+      "I understood what Mion was saying.",
+      "It didn't matter what her real name was, only what names we used between us!",
+      "Rena Ryuugu is Rena.  She's nobody other than that."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「思ったんだけどさ、自己申請すれば俺も今日からあだ名で呼ばれるのか？」"
+    ],
+    "textEn": [
+      "\"So I was thinking, if I had a nickname, would you call me by that?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「面白けりゃね。",
+      "何て呼ばれたいわけ？」"
+    ],
+    "textEn": [
+      "\"If it's good.",
+      "So what do you want to be called?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「越後屋。」"
+    ],
+    "textEn": [
+      "\"Con man.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "やがてレナが教室に戻ってきた。",
+      "入り口で後輩が、レナを探している人がいたことを教えている。"
+    ],
+    "textEn": [
+      "Rena then came back into the classroom.",
+      "One of the juniors near the door told Rena people were looking for her."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あれあれ？",
+      "誰かレナの事を探してたかな？",
+      "かな？」"
+    ],
+    "textEn": [
+      "\"What's this now?",
+      "Who is looking for me, I wonder?",
+      "I wonder?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それを見てにんまりと笑う俺と魅音。"
+    ],
+    "textEn": [
+      "Seeing that, both Mion and I sneered."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お代官様、竜宮めがまんまと現れましたぞ！！」"
+    ],
+    "textEn": [
+      "\"Bailiff, Ryuugu doth show herself!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「越後屋、主も悪よのぅ。",
+      "…ふぉっふぉっふぉ！！！」"
+    ],
+    "textEn": [
+      "\"Con man, you're quite sinister...",
+      "Hwah hwah hwah!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「なな、何かな何かな？！",
+      "圭一くんと魅ぃちゃんが悪代官だよ？",
+      "越後屋だよ？！」"
+    ],
+    "textEn": [
+      "\"Wh-What is this, what is this!?",
+      "Keiichi-kun and Mii-chan are an evil bailiff and...?",
+      "a con man!?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おのれ竜宮レナの助！",
+      "ここで会ったが百年目でおじゃる。",
+      "いざ覚悟〜！！」"
+    ],
+    "textEn": [
+      "\"Damn you, Renanosuke Ryuugu!",
+      "Today doth be when thou meetest thy maker.",
+      "Have at thee~!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「わ！",
+      "わ！",
+      "助さん角さん、こらしめてやりなさーい！！」"
+    ],
+    "textEn": [
+      "\"Wah!",
+      "Wah!",
+      "Suke-san, Kaku-san, show them what-for!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「アイアイサーですわー！！！」"
+    ],
+    "textEn": [
+      "\"Aye aye, sir!!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……報酬はスイス銀行に入れて欲しいのです。」"
+    ],
+    "textEn": [
+      "\"...I expect my fee to be paid to my Swiss bank account.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こうなっては仕方ない！　あとは５人入り乱れての大乱闘…！！！",
+      "印籠のタイミングでレナの必殺パンチが炸裂する。",
+      "結局、悪は滅びる俺と魅音…。"
+    ],
+    "textEn": [
+      "Since it's come to this, we have no choice! We'll just have a grand battle with five people...!",
+      "Rena's fierce punches exploded just as soon as she had shown her seal.",
+      "The evil that was Mion and myself was vanquished in the end..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…レナにはぜひ世直しの旅に出てもらいたいもんだ。",
+      "…永田町なんかどうだ？」"
+    ],
+    "textEn": [
+      "\"...I do hope that Rena does go on a journey to make the world a better place.",
+      "How about heading to parliament first?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……ダメだよ。",
+      "旅先でかぁいいものをチョロまかすから。」"
+    ],
+    "textEn": [
+      "\"...Spare me.",
+      "I'll get kyute stuff for you on my travels.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "振鈴が休み時間の終わりを告げる。"
+    ],
+    "textEn": [
+      "The toll of the bell signaled that break time was over."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ほらほら、圭一くんも魅ぃちゃんも。",
+      "先生来るよ！」"
+    ],
+    "textEn": [
+      "\"Come on, come on Keiichi-kun, Mii-chan.",
+      "The teacher's coming!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナに手を借りて起き上がる。",
+      "ちょうど先生が教室に入ってきたところだった。",
+      "……あと１時間か。",
+      "やれやれ。",
+      "……もうひと踏ん張りするかな！"
+    ],
+    "textEn": [
+      "I took Rena's hand and stood up.",
+      "It was just as the teacher had entered the classroom.",
+      "...Just one more hour.",
+      "Man, oh man.",
+      "...Got to buckle down for one more!"
+    ]
+  }
+]

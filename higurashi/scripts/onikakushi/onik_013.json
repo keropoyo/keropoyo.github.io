@@ -1,0 +1,2614 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…ひた、",
+      "…ひた、",
+      "…ひた…。",
+      "その殺したような足音は俺の部屋の前で止まった。",
+      "中を伺うような…沈黙の間。",
+      "…俺は事もあろうか、まだ浅い睡眠のまどろみの中にいた。",
+      "意識は徐々に鮮明になっていくが、体がそれについていかない。",
+      "…危機がすぐそこ、扉のたった一枚向こうでうかがっているのに…",
+      "まるで金縛りにでもあったように動かせない。",
+      "……それは紛れもない、恐怖だった。",
+      "頼む……このまま去ってくれ…。",
+      "あぁ、体はまだ目覚めないのか？",
+      "今、部屋に踏み込まれたら……！！"
+    ],
+    "textEn": [
+      "*Tap*",
+      "*Tap*",
+      "*Tap*",
+      "The sound of muffled footsteps stopped in front of the door to my room.",
+      "A moment of silence... as if whomever they belonged to was ascertaining if I was inside.",
+      "...Of all the things I should have been doing, I continued on with my restless slumber.",
+      "I was very much conscious, but my body hadn't caught up yet.",
+      "...Even with danger bearing down on me from just beyond the door...",
+      "It was as if I was completely paralyzed, unable to move.",
+      "...Without a doubt, this was sheer terror.",
+      "Please... just leave...",
+      "Hey, why isn't my body awake yet?",
+      "If they came into my room right now... then...!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「うわぁあぁあぁあぁああぁあッ！！！！」"
+    ],
+    "textEn": [
+      "\"UwaAaAaAaAAaH!!!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「きゃあッ？！」"
+    ],
+    "textEn": [
+      "\"Eek!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "威勢良く跳ね起き、その布団を扉を開けたお袋に投げ付ける！！"
+    ],
+    "textEn": [
+      "I sprung to my feet and threw my covers at my mom, who was opening the door!!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「ちょッ！",
+      "何、圭一？！",
+      "どうしたの？」"
+    ],
+    "textEn": [
+      "\"Whoa!",
+      "Keiichi!?",
+      "What's the matter?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ぁ………あ、…ごめん。",
+      "…寝ぼけてた…。」"
+    ],
+    "textEn": [
+      "\"Ah... Ahh... sorry.",
+      "...I was still half-asleep...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "まだ深夜の１時か２時だと思っていた。",
+      "だがカーテンの隙間からは朝の空虚な日差しがこぼれてきている。",
+      "……まったく実感のない、朝だった。",
+      "昨日、俺は…あの後、そのまま寝入ってしまったはずだ。",
+      "……なら、たっぷり１０時間は眠っていたはず……。",
+      "…だがとてもそうとは思えなかった。",
+      "体内時計は完全に狂い、体の平衡感覚もどこか鈍い。",
+      "熱っぽさまで感じ、明らかに自分が健康体でないことを自覚する…。"
+    ],
+    "textEn": [
+      "I thought it was still 1 or 2 AM.",
+      "But the morning sun was already streaming through the gap between the curtains.",
+      "...It felt nothing like morning.",
+      "Yesterday... I must have fallen asleep right after that.",
+      "...Then I should have gotten a full 10 hours of rest...",
+      "...But it didn't feel like that at all.",
+      "My internal clock was completely screwed up and my sense of balance felt off.",
+      "I felt feverish enough that it was clear to me that I was still not well."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「…どう圭一？",
+      "身体の調子はどう？",
+      "学校、行けそう？」"
+    ],
+    "textEn": [
+      "\"...Well, Keiichi?",
+      "How are you feeling?",
+      "Can you make it to school?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……とても学校に行けるような体調、",
+      "…いや、精神状態ではなかった。",
+      "昨日の恐怖が、じっとりと蘇ってくる…。",
+      "あの針をそのまま…飲みこんでいたら…どうなっていたんだろう…？",
+      "あるいは口の中に、舌に突き刺さっていたなら…？",
+      "殺意は間違いなかったが、それでも…完全なものじゃなかった。",
+      "俺を殺す気なら、もっと確実な方法でやるはずだ。",
+      "こんな、針を飲ませるなんて確実性の低い方法に訴えるはずがない。",
+      "……つまり……信じたくはないのだが……、",
+      "ここまでしようとも…レナや魅音にとっては…脅迫なのだ。",
+      "死ななくてよかったね、…でも次はもっと確実な方法でやるよ…？",
+      "そんな感じの。",
+      "手紙と一緒にカミソリの刃を送る…なんて、これと比べればシャレでしかないだろう…。"
+    ],
+    "textEn": [
+      "...I felt far from well enough...",
+      "no, I wasn't mentally fit to go.",
+      "I was still plagued with the terror from yesterday...",
+      "If I had... swallowed that needle... what would have happened...?",
+      "Or what if it had pierced my tongue...?",
+      "There was undoubtedly a murderous intent... but I don't think that's all it was.",
+      "If they really wanted to kill me, then there were other, more certain ways to do it.",
+      "They wouldn't resort to such a dubious method as having me swallow a needle.",
+      "...Meaning... I didn't want to believe it, but...",
+      "going that far was... just a threat... from Rena and Mion.",
+      "\"Aren't you glad you didn't die...? But next time we'll use a more assured method...\"",
+      "Like that.",
+      "Something like sending a letter with a razor inside would have been a joke compared to this."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「…ちゃんと病院は行った？",
+      "お薬は飲んだの？」"
+    ],
+    "textEn": [
+      "\"...Did you make it to the hospital?",
+      "Did you take your medicine?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ん、…うん。まぁ一応…。」"
+    ],
+    "textEn": [
+      "\"Mm... yeah. Kinda...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お袋の怪訝な表情がどこか不愉快だった。",
+      "なぜなら……病床の息子を気遣う様子よりも、２日続けての病欠への不快感の方が色濃く出ていたからだ。",
+      "…そりゃ確かに、精神的なショックがあったにせよ…別に病気というわけじゃないさ。"
+    ],
+    "textEn": [
+      "Something about my mom's dubious gaze bothered me.",
+      "She seemed more concerned about her son missing two days of school rather than him being sick.",
+      "...It was definitely mental fatigue... I wasn't really physically ill."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「一度生活のリズムを崩すとなかなか戻らないんだから。",
+      "ささ、起きて起きて！",
+      "病は気から、って言うのよ。」"
+    ],
+    "textEn": [
+      "\"It'll be hard for you to get back on track once your daily routine is thrown off.",
+      "Come on, get on up!",
+      "They say wellness is a state of mind.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "昔からよく聞かされたセリフだ。",
+      "俺は小学校卒業の時、無欠席で表彰されたが…別に人一倍強健だったわけじゃない。"
+    ],
+    "textEn": [
+      "I'd heard that line many times before.",
+      "I was given an award in elementary school for having perfect attendance... but it wasn't like I was \"healthier\" than everyone."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「ささ、顔を洗ってらっしゃい。",
+      "ご飯はもう出来てるわよ。",
+      "…もうレナちゃんが来るまであんまり時間がないわよ。」"
+    ],
+    "textEn": [
+      "\"Come on, go wash your face.",
+      "Breakfast is already ready.",
+      "...There isn't much time before Rena-chan comes and gets you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お袋の有無を言わせなさそうな口調に、俺は２日目のズル休みを諦める。"
+    ],
+    "textEn": [
+      "Mom's tone meant I couldn't argue about it, so I had to give up on skipping a second day."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「そうそう。…居間の壁にぼた餅を投げつけたのは圭一？",
+      "だめよあんなことしちゃ！",
+      "お父さん、怒ってたわよ？」"
+    ],
+    "textEn": [
+      "\"By the way... were you the one who got bean paste all over the living room wall, Keiichi?",
+      "You shouldn't do something like that!",
+      "Your father was quite angry!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……別に罪の意識はなかったので、特にリアクションは返さない。",
+      "また、お袋もそれ以上の追及はしなかった。",
+      "俺がもぞもぞと寝床を抜け出すのを確認すると、お袋は階下へ下りていった。",
+      "魅音が昨日、帰り際に言った",
+      "「明日、休んじゃ嫌だよ？」",
+      "という言葉がねっとりと脳裏に蘇った。",
+      "あれはどういう意味だったんだ…？",
+      "考えるまでもない。",
+      "…もう欠席するな、と言っているのだ。",
+      "もっと踏み込んで考えればつまり……、いつもと同じように生活しろと言っているのだ。",
+      "俺が明らかに普段と違う様子を見せれば、それは特異に移るだろう。",
+      "そんな俺の様子に……例えば大石さんのような人間に「何かの異変」を気取られかねない、ということなのだろう。",
+      "つまり、…俺自身が口を閉ざしていようと、いつもと違う振る舞いをすれば、",
+      "それは結果的に「好まざる者」たちに何かを伝えてしまう結果となるわけだ…。",
+      "そして彼女たちは、それすらも俺に許さないつもりらしい…。",
+      "じゃあ……",
+      "俺がいつも通りに生活するなら……",
+      "何も危害を加えない……",
+      "ということなのか…？",
+      "昨日までの陰鬱さが気味悪いくらい薄れていく…魅力的な取引だった。",
+      "この数日の間に見聞きしたことを綺麗に忘れるだけで、…俺はいつもの生活に戻れるのだ。"
+    ],
+    "textEn": [
+      "...I didn't feel particularly guilty for doing it, so I didn't have much of a reaction.",
+      "Also, Mom didn't question me any further about it.",
+      "She headed back downstairs after she was certain I was getting up.",
+      "What Mion said as she left yesterday...",
+      "\"I'd hate it if you missed school tomorrow...\"",
+      "...Came back and dwelled in the back of my head.",
+      "What did she mean by that...?",
+      "I didn't even have to really think about it.",
+      "...She was saying, \"don't be absent.\"",
+      "Taking that a bit further... It was the same as her saying I should just go about living my life as if nothing happened.",
+      "If I showed any signs of acting unusual, it would probably result in them making their move.",
+      "If I acted differently, someone like Ooishi-san, for example, might end up noticing that \"something is up.\"",
+      "Meaning... if I didn't watch my mouth or did anything differently from the norm,",
+      "in effect, it would end up communicating something to those who were \"undesirable\"...",
+      "And it seems... that was something that the girls didn't intend to forgive.",
+      "So...",
+      "if I just went along as normal...",
+      "No harm would come to me...",
+      "Was that how it was going to be...?",
+      "All that misery I experienced up until yesterday would—almost creepily—just fade away... It was an enticing deal.",
+      "Just by forgetting everything I'd seen or heard these last few days... I'd be able to keep living on like normal."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そ……そんな虫のいい話",
+      "……",
+      "あるわけ………。」"
+    ],
+    "textEn": [
+      "\"Th... There's no way such a",
+      "...",
+      "selfish thing could...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ごくり、と溜まった唾を飲み込む…。",
+      "…一度は否定しかけたその想像を…俺はもう一歩踏み込んで考えてみた…。",
+      "魅音はきっと…仲間思いのいいヤツなんだ。",
+      "…知りえない何かのルールに違反してしまった俺に……チャンスを与えてくれたのだ。",
+      "俺が犯した何かは…本当は許されないものなのだろう…。",
+      "だが魅音はチャンスをくれた。",
+      "…全部を忘れてこれまでと同じ生活を送れるなら、許そうと言ってくれているのだ…。"
+    ],
+    "textEn": [
+      "I swallowed hard...",
+      "I once again deliberated on the idea that I had just rejected.",
+      "Mion... was probably a good person who had her friends at heart.",
+      "...She was giving me... who had mistakenly broken some rule of theirs... a chance.",
+      "Was what I did... really something so unforgivable?",
+      "But Mion had given me another chance.",
+      "...She was saying... if I just forgot everything and kept living on like I had been, I'd be forgiven..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「圭一〜！",
+      "ご飯冷めちゃうわよー！",
+      "急いで降りてらっしゃい〜！",
+      "早くしないとレナちゃんが来ちゃうわよー！」"
+    ],
+    "textEn": [
+      "\"Keiichi~!",
+      "Your food is going to get cold!",
+      "Hurry up and get down here~!",
+      "Rena will be here if you don't hurry!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あ、…い、今行くよ！」"
+    ],
+    "textEn": [
+      "\"Ah... I'm coming!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺はカバンに乱雑に教科書を詰め込むと、あわてて階下へ下りていった。",
+      "何だか精彩のない朝飯を箸でついばむ。",
+      "時間はもうほとんどないようだ。レナとの待ち合わせ時間はもう過ぎていた。",
+      "昨日の様子だと…あと５分もしない内に迎えに来るだろう。",
+      "…それまでには登校できるようにしないと…。",
+      "昨日までのことは全部忘れるんだ…。",
+      "全部忘れて普通に生活するんだ…。",
+      "普通ならもうレナとの待ち合わせ場所に行ってないと…。",
+      "…こんな日に限って、ご飯はパサパサで喉の通りが悪かった。",
+      "ピンポーン！",
+      "びく！として思わず箸を落としてしまう。",
+      "…レナの訪れを知らせるチャイムだった。",
+      "お袋が俺を急かす。"
+    ],
+    "textEn": [
+      "I crammed my textbooks into my bag and hastily made my way downstairs.",
+      "I picked at my somewhat bland breakfast.",
+      "It seemed that I didn't have much time. It was already past when I usually met up with Rena.",
+      "Given yesterday's events... she'd probably be here in the next five minutes.",
+      "...I needed to be ready to head to school by then...",
+      "I had to forget everything that had happened the past two days...",
+      "Forget it all and return to my normal life...",
+      "For this to be normal, I'll have to be where I normally meet up with Rena...",
+      "...Today of all days, the rice was dry and hard to get down.",
+      "Ding dong!",
+      "I jumped at the sound and dropped my chopsticks.",
+      "...That chime signaled that Rena had arrived.",
+      "Mom hurried me along."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「ほら、レナちゃん来ちゃったわよ…！",
+      "急いで急いで！」"
+    ],
+    "textEn": [
+      "\"Come on, Rena-chan's already here...!",
+      "Hurry, hurry!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お袋の浮かれたような笑顔と、俺の顔の影がなんだか対照的だった。",
+      "玄関の向こうにいるレナを迎えるのには正直、抵抗があった。",
+      "…扉の向こうにいるレナは…俺のよく知っているレナだろうか？…と。",
+      "だが待たせてはいけない…。",
+      "いつものように振舞わないと……。"
+    ],
+    "textEn": [
+      "My mother's merry smile and my gloomy face were polar opposites.",
+      "Honestly, I was reluctant to see Rena, who was waiting there on the other side of the door.",
+      "...The Rena on the other side... was it the Rena I knew?",
+      "I couldn't keep her waiting...",
+      "I needed to do things as usual..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「おはよう〜！」"
+    ],
+    "textEn": [
+      "\"Morning~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "扉の隙間から聞こえた朝の挨拶はとてもさわやかだった。"
+    ],
+    "textEn": [
+      "An invigorating greeting filtered in from across the doorway."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…圭一くん、遅かったから来てみたけど……今日はどうかな？…かな？」"
+    ],
+    "textEn": [
+      "\"...I came since Keiichi-kun was a bit late... will he be okay today, I wonder? ...I wonder?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの気遣うような様子は、俺がレナだと思っているレナのそれに違いなかった。",
+      "…だがそれはきっと、俺がいつものように振る舞えばこそなのだ。",
+      "昨日までをすべて忘れて……何事もなかったように…。",
+      "残酷なバラバラ殺人のことも忘れる。",
+      "その後毎年起こる怪死事件も忘れる。",
+      "…転落事故も、病死も自殺も、撲殺も失踪も、全部全部忘れる。",
+      "レナが怖いのも、魅音が怖いのももちろん忘れる。",
+      "みんな忘れる。",
+      "おはぎのことも全部忘れる。",
+      "忘れる忘れる忘れる。",
+      "レナがもう一度、念を押した。"
+    ],
+    "textEn": [
+      "The manner in which Rena was concerned was, without a doubt, the Rena I knew.",
+      "...But that was probably only if I reciprocated.",
+      "Forget everything from yesterday... pretend as though nothing had happened...",
+      "Forget about the gruesome dismemberment.",
+      "Forget about the mysterious deaths that happened the following years.",
+      "...Forget about the people falling to their death... and the terminal illness and suicide... the fatal beatings... and the disappearances. Forget it. Forget all of it.",
+      "Forget that Rena and Mion were scary. Of course, forget it all.",
+      "Forget about all of it.",
+      "Forget about the mochi, too.",
+      "Forgetforgetforget.",
+      "Rena, once again, asked to make sure."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…学校、行けそう？」"
+    ],
+    "textEn": [
+      "\"...Can you... make it to school?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あ、……あぁ。…大丈夫だよ。」"
+    ],
+    "textEn": [
+      "\"Y... Yeah... I'm fine.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「よかったぁ！",
+      "じゃ行こ！　魅ぃちゃん待ってるよ。」"
+    ],
+    "textEn": [
+      "\"Great!",
+      "Then let's go! Mii-chan is waiting.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはいつも見せるような、明るい笑顔を見せてくれた。",
+      "とても表裏があるような表情には見えない。",
+      "……緊張が解け、自分が安堵したことを知った…。"
+    ],
+    "textEn": [
+      "Rena showed me her usual bright smile.",
+      "I couldn't find any hint of deceit in her expression.",
+      "...My nervousness dissipated, giving way to relief..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「なのに沙都子ちゃんね、絶対にできるって意地になっちゃってー！」"
+    ],
+    "textEn": [
+      "\"But you see, Satoko-chan was so insistent she could do it~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "歩きながら、レナはいつも以上にいろいろと話しかけてきた。"
+    ],
+    "textEn": [
+      "As we were walking, Rena talked about a lot of different stuff, more so than usual."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……ふぅん。",
+      "…それで？」"
+    ],
+    "textEn": [
+      "\"...Hmm.",
+      "...Then?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「沙都子ちゃんぶきっちょだから、何度やってもできないの！",
+      "…はぅ、かぁいかったんだよぅ…。」"
+    ],
+    "textEn": [
+      "\"Satoko-chan is clumsy, so she failed no matter how many times she tried!",
+      "...Hau... she was shou kyuute...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナのする話はどれも他愛ないもので、適当に相槌を打ったり、時に笑って見せるだけで十分の楽な会話だった。",
+      "ご近所さんがすれ違い、俺たちに声をかけてきた。"
+    ],
+    "textEn": [
+      "Everything Rena talked about was just silly nonsense, so I just replied every so often and laughed from time to time. It was a rather laid-back conversation.",
+      "We passed by one of our neighbors and they called out to us."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「あぁれ、圭一ちゃんにレナちゃん、今日はちょっと遅いんじゃないの〜？",
+      "魅音ちゃん、先に行くって言ってたわよー？」"
+    ],
+    "textEn": [
+      "\"Oh, my! Keiichi-chan and Rena-chan, aren't you two a bit late today~?",
+      "Mion-chan said she was going on ahead!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「わわ！　魅ぃちゃん怒ってるかな？",
+      "怒ってるかな？！",
+      "早く行こ圭一くん！」"
+    ],
+    "textEn": [
+      "\"Uh-oh! Did Mii-chan look mad, I wonder?",
+      "...I wonder!?",
+      "We need to hurry up, Keiichi-kun!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ご近所さんに笑顔に挨拶したあと、俺に振り返りぺろりと舌を出してみせた。",
+      "そんな仕種に思わずつられて、自然に頬が緩んだ気がした。"
+    ],
+    "textEn": [
+      "After greeting our neighbor with a smile, Rena turned back to me and poked her tongue out.",
+      "Not expecting that, I couldn't help but crack a smile."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……あ、圭一くん笑った。」"
+    ],
+    "textEn": [
+      "\"...Ah, Keiichi-kun smiled.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え、…な、なんだよ。」"
+    ],
+    "textEn": [
+      "\"Huh... wh-what?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが足を止めて、じっと俺を見入った。"
+    ],
+    "textEn": [
+      "Rena stopped and stared at me."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…圭一くん、今朝もなんか元気なかったから、まだ風邪が治らないのかなって思ってたけど、…大丈夫みたいだね。",
+      "…だね！」"
+    ],
+    "textEn": [
+      "\"...I was thinking that you still hadn't recovered from your cold since you seemed down this morning, Keiichi-kun... but now you seem fine.",
+      "...Fine!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう微笑むと、俺の頬をちょこんと突っ付いた。",
+      "表裏のないさわやかな笑顔だった。",
+      "…なぁ前原圭一。",
+      "…この笑顔を見てもなお俺はレナを疑うのか…？",
+      "昨日までの俺はひょっとしてものすごい高熱を出して寝込んでて、ありもしない幻を見ていたんじゃないのか？",
+      "……本気でそう思わずにはいられなかった。",
+      "もしも神様がひとつ願いをかなえてくれるなら…。",
+      "俺が望むことはひとつしかない。",
+      "この何日間かの出来事。",
+      "…もっと限定するなら、綿流しの晩から昨夜までの全ての出来事を……なかったことにしてほしい。",
+      "この何日間かの間で、俺は何度これを願っただろう……。",
+      "このままいつもでもレナが微笑み続けてくれたなら…それはかなうかもしれない。",
+      "だからレナにはいつまでも笑っていて欲しい。",
+      "…いつまでも…笑っていて…。"
+    ],
+    "textEn": [
+      "With a grin, she gently poked my cheek.",
+      "It was a bright, sincere smile.",
+      "...Hey, Keiichi Maebara.",
+      "...How can you still doubt Rena after she shows you a smile like that...?",
+      "Maybe I just had a high fever up until today, and I imagined everything that I thought happened because I was bedridden and delirious?",
+      "...I really hoped that was the case.",
+      "If God would grant me just one wish...",
+      "There's only one thing that I'd wish for...",
+      "I would want what had happened in the past few days...",
+      "More specifically, from the night of the Watanagashi up until last night... I wanted all of that to have never happened.",
+      "I wonder how many times I'd wished for this these past few days...",
+      "As long as Rena kept on smiling like this... I think it might just become reality.",
+      "So I wanted Rena to keep on smiling...",
+      "...Keep on... smiling..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「で、圭一くん。",
+      "昨日のおはぎ、ちゃんと食べてくれた…？」"
+    ],
+    "textEn": [
+      "\"So, Keiichi-kun.",
+      "Those mochi yesterday... did you eat them all...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そんな俺の儚い願いはあっさりと打ち消された。",
+      "心臓がどきんと跳ね、朝のゆるやかな空気が一瞬にして氷結する。",
+      "レナの笑顔は…いつもの笑顔で、瞳もいつものやさしい瞳のように…見えた。",
+      "昨日のおはぎ、ちゃんと食べてくれた…？",
+      "…もちろん文字通りの意味のわけはない。",
+      "つまりレナは……",
+      "私たちの意思は伝わったかな？",
+      "……そう言いたいのだろうか…。"
+    ],
+    "textEn": [
+      "That vain wish of mine was instantly shattered.",
+      "My heart began palpitating. The relaxed morning mood suddenly became frigid.",
+      "Rena's smile... was the same as usual, her eyes were gentle as usual...",
+      "\"Those mochi yesterday... did you eat them all...?\"",
+      "...Of course she wasn't asking the question at face value.",
+      "In other words, Rena was asking...",
+      "\"Did you get the message?\"",
+      "...She was probably trying to convey that..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………………………",
+      "圭一くん？」"
+    ],
+    "textEn": [
+      "\" ...",
+      "Keiichi-kun?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは歩みを止め、返事に躊躇する俺の瞳をじっと覗き込んだ。"
+    ],
+    "textEn": [
+      "I was reluctant to give an answer. Rena stopped walking and stared deeply into my eyes."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………あ、」"
+    ],
+    "textEn": [
+      "\"Ah...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…ちゅ、…躊躇するな前原圭一。",
+      "……レナはいつもの様子で振る舞ってるじゃないか。",
+      "俺もいつもの様子で返すんだ。",
+      "……それも自然に…！",
+      "だが喉も唇もいつの間にかからからに干上がり、上と下の唇をぴったりと貼りつけてしまっていた…。",
+      "早く返事するんだ圭一…。",
+      "今ならそんなに時間は経ってない。",
+      "まだ…自然に会話はつながるんだ…。",
+      "何はともかく……早く言葉を………。"
+    ],
+    "textEn": [
+      "...Don't... Don't hesitate, Keiichi Maebara.",
+      "...Rena was acting the same as always, wasn't she?",
+      "I needed to respond in my usual way.",
+      "...Naturally, of course...!",
+      "But both my throat and mouth had gone dry, and my lips were stuck together...",
+      "Hurry and answer, Keiichi...",
+      "Not that much time had passed.",
+      "I could still... keep the conversation going naturally...",
+      "I had to... say something quickly..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……う、」"
+    ],
+    "textEn": [
+      "\"...De-\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「う〜？」"
+    ],
+    "textEn": [
+      "\"De~?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺がようやくひねり出した声をレナが愉快そうになぞる。",
+      "レナの反応は常識の範囲内だった。",
+      "……俺が思ってるほど、間はなかったみたいだ。",
+      "なんとか続く言葉をひねり出す。"
+    ],
+    "textEn": [
+      "Rena playfully mimicked what I said when I finally squeaked something out.",
+      "Rena's reaction was still normal.",
+      "...It seems that there wasn't as long of a pause as I had thought.",
+      "Somehow, I finally squeaked out the rest."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「う、…うまかった…！」"
+    ],
+    "textEn": [
+      "\"D... Delicious...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "だが、そんな俺の必死の苦労にも、レナは表情を晴れも曇らせもしなかった。",
+      "一瞬、返すべき言葉を誤ったのかと焦る。",
+      "だが数瞬の後、レナはいつもそうするようにやわらかく顔を崩し、朝の空気を澄み渡らせてくれるような軽快な声で笑ってくれた。",
+      "つられて笑いを誘う、そんな笑いだったから…俺も自然に笑うことができた。"
+    ],
+    "textEn": [
+      "However, my strained efforts neither sullied nor brightened Rena's expression.",
+      "For a moment I panicked, thinking I had replied incorrectly.",
+      "But after a few moments, Rena broke into her usual soft smile and giggled with a joyful voice that seemed to echo through the morning air.",
+      "Being strung along by that laugh... I couldn't help but laugh as well."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうなんだ〜。",
+      "で、全部食べたのかな？…かな？」"
+    ],
+    "textEn": [
+      "\"I see~",
+      "So did you eat all of them, I wonder? ...I wonder?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺のささやかな笑いがもう一度凍りつく。",
+      "…裁縫針を飲まずに済んだの？",
+      "そう聞いているんだろうか…？",
+      "飲んでいたら無事にここにいられるわけがない。"
+    ],
+    "textEn": [
+      "My timid smile froze again.",
+      "...Did you make it without swallowing the sewing needle?",
+      "Was that what she was asking...?",
+      "If I had swallowed it, then I wouldn't be here."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「い、いや…全部は…食べきれなかったからさ。",
+      "………まだ残ってるんだよ。」"
+    ],
+    "textEn": [
+      "\"N-Nah... I couldn't... finish all of them.",
+      "...There's still some left.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "恐る恐るだが…そう言い逃れた。"
+    ],
+    "textEn": [
+      "I was scared out of my wits... but that's how I played it."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……あれれ？",
+      "どれがレナが作ったのか、当てる宿題はどうなっちゃったのかなぁ…？」"
+    ],
+    "textEn": [
+      "\"...Huuh?",
+      "What about the homework to see if you could tell which one Rena made...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あはははは…、あの宿題って…今日までだったっけ？」"
+    ],
+    "textEn": [
+      "\"Ahahahaha... that homework... was it due today?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。今日までなんだよ。",
+      "…魅ぃちゃん怒るよ〜。きっと罰ゲームだね。」"
+    ],
+    "textEn": [
+      "\"Yeah. It's due today.",
+      "...Mii-chan will get angry~ There's probably a penalty game ready for you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もう一度二人で笑い合う。",
+      "誰が見たって違和感のない朝の風景だった。",
+      "俺だって、…ちょっと気を許せばいつもの朝の風景に思えてしまう…。",
+      "だが…決して勘違いしてはいけないのだ。",
+      "このからからと笑うレナだって、その内には見かけからは想像できない何かが潜んでいるのだ。"
+    ],
+    "textEn": [
+      "We both laughed at each other again.",
+      "To a casual observer, it was just a typical morning.",
+      "If I could just let myself believe, then even I'd think it was just the usual morning routine...",
+      "But... I was certain I wasn't mistaken.",
+      "There was something unimaginable buried beneath the facade of this giggling Rena."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「嘘だッ！！！」"
+    ],
+    "textEn": [
+      "\"LIES!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あのレナの喉から出されたとは思えない、刺さるような声が思い出される。",
+      "それを思い出した途端、背中を冷たいどろりとしたものが流れ落ちた。",
+      "あの時だけ、レナに何か悪いものでも取り憑いていたのだろうか…？",
+      "いや違う。あれもまたレナなのだ。大石さんは確かに言ったじゃないか…。"
+    ],
+    "textEn": [
+      "I recalled that unexpected, piercing voice that I could hardly believe came from Rena's mouth.",
+      "The moment that image crossed my mind, I felt a cold sweat trickle down my back.",
+      "Was it only at that particular time that something evil had possessed Rena...?",
+      "No, that was wrong. That was still Rena. Ooishi-san told me, didn't he...?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「実は調べてみたら、竜宮さんは引越しの少し前に、学校で謹慎処分を受けているんですよ。",
+      "何でも、学校中のガラスを割って回ったんだとか。」"
+    ],
+    "textEn": [
+      "\"Actually, I looked into her. Before Ryuugu-san moved away to Hinamizawa, she was suspended from school.",
+      "It seems she went through her school building and broke all of the windows.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナには…常人とはかけはなれた魔性があるのだ。",
+      "どんなにさわやかな笑顔で笑っていても……その事実はかわらない。",
+      "しかし…どのような状態でこのような蛮行、校内のガラスを割って回ったのかは……想像が付かない。",
+      "ひとつ言えることは、ささやかな瞬間的衝動によるものではないということだ。",
+      "瞬間的な怒りに任せてガラスを１枚割るくらいなら…まぁ、あるかもしれない。",
+      "だが学校中のガラスをだ。",
+      "自分がバットを持って実際に学校にガラスを割りに行ったところを想像すればいい。",
+      "ガラスを力任せに１枚２枚。砕け散る破片をものともせず…。",
+      "呆然とするクラスメートたち。",
+      "…突然の出来事に、身じろぎひとつできまい。",
+      "ガラスが一番たくさん、それもずーっと並んでいるところはどこだろう。",
+      "…多分廊下だ。",
+      "割って、",
+      "歩いて、",
+      "振り上げて。",
+      "割って、",
+      "歩いて、",
+      "振り上げて。",
+      "その恐ろしい光景を、今こうして笑顔を浮かべるレナと重ねるのはとても難しい…。",
+      "だが、…それでも俺は、想像しなければならない。",
+      "……想像できないからありえない、という子供染みた考えはすでに…通用しないのだ。",
+      "ガラスが砕け散る不穏極まりない音を立て、じゃりじゃりとその破片を踏みつけながら、まっすぐにこちらに向かってくるレナ。",
+      "……真っ青になって息をすることも忘れてしまったクラスメートたち。",
+      "彼らはガラスを叩き割りながら近づいてくるレナにどういう行動を取ったのだろう。",
+      "レナを説得するために懸命に何かを説いた？",
+      "あるいはその蛮行を制止するために飛び掛かった？",
+      "あるいは職員室に先生を呼びに走ったのだろうか？",
+      "多分どれも違う。",
+      "鬼気せまるその様子で、次々にガラスを誅していくレナに……黙って道を空けることしか出来なかったに違いない。",
+      "呆然としながら…レナの行進に道を空ける。",
+      "…それを見て見ぬふりだと非難するのはあまりに暴力的だ。",
+      "彼らは見て見ぬふりをしてたんじゃない。",
+      "……それが、唯一の護身術だと知っていたからだ。",
+      "周りの人間と違う行動を取ることで…突然、レナの興味が自分に移るかもしれない。",
+      "自分に興味を持ったレナはどのような行動を取るだろう…？",
+      "そんなのは簡単だ。",
+      "……レナは興味のままに行動しているだけに違いない。",
+      "…つまり、自分が、…俺が次のガラスにされてしまうのだ。",
+      "レナが俺だけの瞳をじっと見つめながら、じゃり、じゃり、とガラスの破片を踏みしめながら近づいてくる。",
+      "……俺もまたレナの瞳に吸い込まれ、身動きひとつできない。",
+      "そしてレナは、他のガラスと同様に自分をバットで何度も殴打する。",
+      "俺は床にうずくまり必死で頭だけは守る。",
+      "レナは頭でも背中でもどうでもいい。",
+      "がむしゃらに何度も何度も殴りつける。",
+      "レナはどんな表情でこの行為を繰り返しているんだろう？",
+      "…そっとその様子を伺ってみた。",
+      "………その表情はあまりに淡白で、とても不愉快そうだった。",
+      "いくら叩いても他のガラスのような軽快な音が出ないのだから。",
+      "何度も何度も。",
+      "叩き続ける。",
+      "レナの期待するような音は出ない。",
+      "周りのクラスメートたちも止めない。",
+      "次のガラスになりたくないから。",
+      "誰か助けてくれよ…。",
+      "…楽しく遊ぶ時以外は知らんぷりかよ…？！",
+      "…そりゃそうだよな、偏差値ってのはクラス内での奪い合いなんだから。",
+      "…俺みたいな塾三昧のガリ勉を助けて得をすることなんかないもんな…。",
+      "その内、くるみの殻を割る時にするようような軽い音に混じって、赤とも黒ともつかない飛沫が飛び散るようになるのだ…。",
+      "とにかくそのレナの様子は、怒りに我を忘れるといった瞬間的なものではなかったに違いない。",
+      "……深く息を吐き鼓動を抑えてから、俺は大石さんの言葉をもっと深く思い出す。"
+    ],
+    "textEn": [
+      "Rena had a disorder... that normal people didn't.",
+      "No matter how pleasantly she smiled... that fact would not change.",
+      "But... I couldn't even imagine... how she looked as she broke all the glass throughout the school.",
+      "One thing I knew was that it wasn't something spur-of-the-moment.",
+      "If it was some sudden outburst of anger, then maybe she'd break a pane or two...",
+      "But she broke all of the windows all throughout her school.",
+      "Just imagine going through your own school breaking the windows with a bat.",
+      "Swinging full-force at each pane of glass, one after another. Paying no heed to the flying shards...",
+      "Your classmates aghast.",
+      "...Unable to move from the sudden turn of events.",
+      "I wonder where she could have found the most windows lined up in a row...",
+      "...Probably the hallway.",
+      "*Smash*",
+      "Walk...",
+      "Wind up...",
+      "*Smash*",
+      "Walk...",
+      "Wind up...",
+      "It was difficult for me to connect that horrifying image with the Rena smiling at me right now...",
+      "But... I just had to imagine it.",
+      "...Impossible because it was unimaginable... that naive way of thinking no longer worked.",
+      "The unpleasant, piercing sound of shattered glass, the crunching noise as Rena treads across the broken shards, walking towards me.",
+      "...Rena's classmates going pale as they forget to even breathe.",
+      "I wondered what they did as Rena came closer, breaking windows along her path...",
+      "Did they earnestly try to bring her to her senses by saying something?",
+      "Or did they jump at her, trying to stop her savagery?",
+      "Or did they run to the staff room to call for the teachers?",
+      "Probably none of those.",
+      "In the face of that bloodcurdling sight, of Rena busting window after window... undoubtedly, all they could do was silently clear a path for her.",
+      "Dumbfounded... just clearing the path for Rena to continue.",
+      "...It would be cruel to blame anyone for looking the other way.",
+      "No, they weren't simply looking the other way...",
+      "...They knew it was the only way they could to protect themselves.",
+      "If they had done something differently from the rest... They may have suddenly found themselves as Rena's new target.",
+      "What would Rena have done to whoever attracted her attention?",
+      "The answer was obvious.",
+      "...She would have undoubtedly acted according to her whims.",
+      "...Meaning they would—I would—be the next window.",
+      "Rena, staring into my eyes, shards of glass crunching and crackling underfoot as she drew closer.",
+      "...I was also drawn into her eyes, paralyzed.",
+      "Then Rena struck me with the bat over and over again, like I was one of those windows.",
+      "I crouched down on to the floor, desperately protecting my head.",
+      "Rena didn't care whether it was my head or my back.",
+      "Zealously, she hits me again and again.",
+      "What kind of expression was she making as she was doing this over and over again?",
+      "...I peered up to see.",
+      "...Her expression was so indifferent,  it was completely unnerving.",
+      "It's because no matter how many times she struck me, I didn't make as pleasant a sound as the other windows.",
+      "She struck me continuously.",
+      "Over and over again.",
+      "The sound Rena wanted didn't come out.",
+      "Our classmates standing around didn't try to stop her.",
+      "They didn't want to be the next window.",
+      "Somebody save me...",
+      "...Turning a blind eye unless we're hanging out...!?",
+      "...But of course, everyone in class scrambled to obtain the highest standardized test scores.",
+      "...They'd gain nothing from saving a cram school try-hard like me...",
+      "Eventually, there would be a faint sound, similar to when you crack open a walnut, and some sort of reddish-black spray would shoot out...",
+      "Anyway, it wasn't that Rena momentarily lost herself in her anger.",
+      "...After forcing myself to breathe and calming down my heart, I recalled what Ooishi-san told me."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…でですね、そのカウンセリングをした医師のカルテにレナさんの会話内容が記載されているんですがね……。",
+      "その中に、出てくるんですよ。",
+      "結構。」"
+    ],
+    "textEn": [
+      "\"...and in the counselor's medical report, he recorded all of the conversations he had with Rena-san...",
+      "'It' shows up...",
+      "And quite a bit at that.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何がです…？」"
+    ],
+    "textEn": [
+      "\"What does...?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「出てくるんですよ。",
+      "オヤシロさまって単語が。」"
+    ],
+    "textEn": [
+      "\"She mentioned...",
+      "the word 'Oyashiro-sama.'\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その後、レナは謹慎処分となり、病院へ通院して診察を受けた。",
+      "そこでレナは医師とのカウンセリングの中で何度となく口にするのだ。",
+      "「オヤシロさま」、と。"
+    ],
+    "textEn": [
+      "Following that, Rena was suspended and had regular examinations at the hospital.",
+      "Then, as Rena was undergoing counseling, she said it over and over...",
+      "\"Oyashiro-sama.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「オヤシロさまって言う、幽霊みたいなものがですね、夜な夜な自宅にやってくるって言うんですよ。",
+      "枕元に立って自分を見下ろすんだ、って。」"
+    ],
+    "textEn": [
+      "\"It seems that the Oyashiro-sama she spoke of was like a ghost, appearing in her house every night.",
+      "Standing over her pillow looking down at her.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "医師と話した会話の一部なのだろうから話の全体は見えないが、……それは薄気味のいい話ではない。",
+      "ではレナは…、自身の行なった蛮行は、オヤシロさまに取り憑かれたからだと告白したのだろうか…？",
+      "俺はこれまで、オヤシロさまの祟りを認めたくなかった。",
+      "だから、毎年起こる怪死事件を人間の犯人の仕業だと思い込もうとしてきた。",
+      "そして大石さんと会話を重ねる内に、祟りでなく、人為的に繰り返されてきた事件であるとの確証を深めた。",
+      "だが……その人間の起こしてきた事件には…みんなが深く関わっていた。",
+      "祟りを認めないことへの代償は、こともあろうか………俺にとってもっとも親しい者たちの事件への深い関与だったのだ。",
+      "なぜ？",
+      "どうして？",
+      "何のために？",
+      "レナが？",
+      "みんなが？？",
+      "それはオヤシロさまの祟りが実在することを受け入れること以上に苦痛で困難なものだ。",
+      "だがそのレナは蛮行の後、病院で医師に、オヤシロさまに取り憑かれていたからだと告白した。",
+      "俺はここで奇妙な安堵感を覚えた。",
+      "やはりそうなんだ。",
+      "レナに表裏があるわけがない。",
+      "……オヤシロさまなんていう怪しげなものに取り憑かれたからこそ…",
+      "あんなことをしてしまったのだ。",
+      "レナは悪くない。",
+      "悪いのはオヤシロさまなんだ…！",
+      "…わかっている。",
+      "それは本末転倒だった。",
+      "祟りを信じまいとする俺は人間の犯人を切望し、",
+      "……近しい仲間たちにその嫌疑がかかった今、都合よくすり替え、今度はオヤシロさまの祟りのせいにしようとしている。",
+      "俺にとって、レナたちが一連の怪死事件に深く関わっているかもしれないことと、",
+      "オヤシロさまの祟りが実在することを認めるのと……どちらがマシなんだろう？",
+      "考えたくなかった。",
+      "考えないことによって、これまでと同じ日々が維持できると…そう信じたかった。",
+      "だが",
+      "…………",
+      "それはもう無理なのだ。",
+      "彼女らのメッセージは受け取ってしまった。",
+      "…それを何とか都合よく曲解しようとする自分の女々しさが情けなかった。",
+      "敵が人間だろうと祟りだろうと。",
+      "……俺は殺されない。",
+      "殺されてたまるかよ！",
+      "……こんな訳もわからずに…！"
+    ],
+    "textEn": [
+      "That was only a piece of their conversation, so I still couldn't see the big picture... but it was by no means a happy little conversation.",
+      "Then what Rena did... Was she saying that ghastly incident was a result of her being possessed by Oyashiro-sama...?",
+      "Up until now, I didn't want to believe in Oyashiro-sama's curse.",
+      "That's why I wanted to say the mysterious deaths every year happened because of some sort of conspiracy.",
+      "Every time I talked with Ooishi-san, I was more certain that the deaths were the work of men and not of some curse.",
+      "Except... if it was people perpetrating the incidents... my friends were somehow deeply connected.",
+      "If I refused to believe that the curse was real... then I would have to believe those who acted the kindest to me were deeply involved in the incidents.",
+      "Why?",
+      "How?",
+      "For what reason?",
+      "...Was Rena?",
+      "...Was everybody?",
+      "It was much more painful and troublesome than accepting that it was just Oyashiro-sama's curse.",
+      "In the aftermath, Rena had admitted to her doctor that it was because she was possessed by Oyashiro-sama.",
+      "I felt a strange sense of relief from that.",
+      "So that's how it was.",
+      "There wasn't a second side to Rena.",
+      "...She did that...",
+      "because she was possessed by something strange like Oyashiro-sama...",
+      "It wasn't Rena's fault.",
+      "Oyashiro-sama was the one to blame...!",
+      "I knew...",
+      "This was all backwards.",
+      "Refusing to believe there was a curse, I wanted there to be a human perpetrator.",
+      "...Now that my close friends were the ones under suspicion, I changed my beliefs at my own convenience, saying it was Oyashiro-sama's curse to blame.",
+      "Which was the better choice? Accepting that Oyashiro-sama's curse exists...",
+      "Or that Rena and the rest of them... were deeply involved in the string of mysterious deaths?",
+      "I didn't want to think about it.",
+      "If I just didn't think about it, I'd be able to continue the same as always... I wanted to believe that...",
+      "But...",
+      "...",
+      "That was no longer possible.",
+      "I had received their message.",
+      "...It was pathetic of me to try and bend the meaning to my own convenience.",
+      "Regardless of whether my opponent were a human or a curse.",
+      "...I won't let it kill me.",
+      "As if I would just bend over and give in!",
+      "...For no good reason at all...!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん？",
+      "…さっきから変な顔してる。",
+      "何でだろ？",
+      "だろ？」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun?",
+      "...You've been making a really weird face.",
+      "Why, I wonder?",
+      "I wonder?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの声にはっとし、我にかえった。",
+      "気付けばそこはもう昇降口だった。",
+      "頭を軽く数回振り、たった今まで頭を満たしていた恐ろしい妄想を振り払った。",
+      "いくらなんだって…レナがこんな恐ろしいことをするわけがない……！",
+      "それはまるで、自らに言い聞かせるようなか細さがあった…。",
+      "がらりと扉を開き、教室へ踏み込もうとすると同時に、頭にチョークだらけの黒板消しが落ちてきた。",
+      "チョークの粉末が目に入り、しばし苦痛を味わう。"
+    ],
+    "textEn": [
+      "Inhaling sharply upon hearing Rena's voice, I came back to my senses.",
+      "Before I had realized it, we were already at the entrance.",
+      "Shaking my head a few times, I exorcised all those terrifying thoughts.",
+      "No matter how you looked at it... there's no way Rena could have done such terrible things...!",
+      "It was like I was trying to placate myself...",
+      "As I slid the door open, a blackboard eraser loaded with chalk dropped down on my head the moment I stepped into the classroom.",
+      "The chalk dust went into my eyes, inducing a brief moment of agony."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「をっほっほっほ！",
+      "ズル休みの圭一さんにはお似合いですことよ〜！」"
+    ],
+    "textEn": [
+      "\"Oh ho ho ho ho!",
+      "How befitting for the truant Keiichi-san~!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「圭一もレナも、おはようございますです。」"
+    ],
+    "textEn": [
+      "\"Good morning to both of you, Keiichi and Rena.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「おっはよー☆　沙都子ちゃんに梨花ちゃ〜ん！」"
+    ],
+    "textEn": [
+      "\"Good morning-☆ Satoko-chan, Rika-chan~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何となくテンションが合わなかったので、沙都子のトラップにも過剰に反応はしなかった。",
+      "沙都子は俺が横を通り過ぎる時、何らかの攻撃があるものと思って身構えていたようだったが、俺が黙って通り過ぎただけだったので拍子抜けした様子だった。"
+    ],
+    "textEn": [
+      "Not quite in the mood for it, I didn't really react to Satoko's trap.",
+      "Satoko braced herself as I passed by, expecting me to attack her. She seemed a bit disappointed as I simply walked by silently."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「な、なんなんですの…？",
+      "張り合いがありませんわ。」"
+    ],
+    "textEn": [
+      "\"Wh-What is this...?",
+      "How discouraging, indeed.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…圭一、まだ本調子じゃないみたいです。」"
+    ],
+    "textEn": [
+      "\"...Keiichi doesn't seem back to his usual self yet.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "……だから今日は加減してあげて、ね。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "...Take it easy on him for today, 'kay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然、俺の肩がバシンと叩かれた。ちょっと痛い…。"
+    ],
+    "textEn": [
+      "Suddenly, there was a slap down on my shoulder. It hurt a bit..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「よ！　圭ちゃん、しっかり休んできたー？」"
+    ],
+    "textEn": [
+      "\"Hey! Kei-chan, did you get enough rest?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音だった。",
+      "レナのことで頭がいっぱいだったが……魅音だって当事者のひとりなのだ。",
+      "思い出すんだ圭一。",
+      "…昨日の鷹のような眼差しを。"
+    ],
+    "textEn": [
+      "It was Mion.",
+      "My mind was full with the stuff about Rena... but Mion was also a party of interest.",
+      "Remember, Keiichi.",
+      "...That hawkish gaze from yesterday."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「",
+      "……",
+      "あぁ、………おはよ。」"
+    ],
+    "textEn": [
+      "\"",
+      "...",
+      "Yeah... Morning.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「なんだなんだ、ずいぶんと覇気のない挨拶じゃ〜ん？",
+      "差し入れのおはぎ、ちゃんと食べてくれなかったのー？」"
+    ],
+    "textEn": [
+      "\"What's with that unenergetic greeting?",
+      "Did you eat the mochi I brought you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ちゃんと食べたからこの様子なんだよ…。",
+      "言葉が喉のそこまで出掛かった。"
+    ],
+    "textEn": [
+      "I'm like this because I ate them...",
+      "Those words were itching to be blurted out."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…やっぱ食欲がなくてさ。",
+      "…いくつかは食べたけど、だいぶ残しちゃったんだ。」"
+    ],
+    "textEn": [
+      "\"...I really just didn't have the appetite.",
+      "...I ate a few, but quite a lot were left over.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あれ？　じゃあ宿題は？",
+      "どれがレナの手作りか、ってのの回答は？」"
+    ],
+    "textEn": [
+      "\"Huh? What about the homework?",
+      "Do you have an answer for which one was Rena's?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん、宿題忘れなんだって。",
+      "あはははは。」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun said he forget his homework.",
+      "Ahahahaha.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……ありゃあ……じゃあ仕方ないねぇ、罰ゲーム。",
+      "…いっしっしっし！」"
+    ],
+    "textEn": [
+      "\"...Sheesh... then we can't help it... time for your penalty~",
+      "...Mihehehehe!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "嫌らしい笑いを浮かべると、魅音は席へ戻って行った。",
+      "そんなやり取りをクラスメートが不審がる様子はなかった。",
+      "そりゃそうだ。",
+      "今朝までのやり取りを誰が聞いたって。",
+      "…不審な様子があるわけがない。",
+      "だからこそ……怖かった。",
+      "前原圭一という一個人にどんなハプニングが起ころうと、絶対に疑われなさそうなそんな素振りが…逆に恐ろしかった。",
+      "やがて先生がやってきた。",
+      "俺の体調を尋ねると出席を取り、そしていつもの退屈な日常を再開した。",
+      "自習状態の授業中は、今の自分の置かれている立場を考えるのに都合がよかった。",
+      "俺は軽く目を閉じ、自分が置かれている理不尽な状態について考えてみることにする。",
+      "まず…忘れてはならないのは…自分がどれほど危険な状態にあるか、だ。",
+      "自分は彼女らにとって好ましくないことを知る人間になってしまった。",
+      "大石さんと何度かの接触を重ね、核心に迫ろうとしているかに見える。",
+      "昨日のおはぎはそれへの警告だと考えるのが妥当だろう。",
+      "……いや、…警告という言い方自体、相も変わらず女々しい言い方だ。",
+      "彼女らにとってあのおはぎは俺を萎縮させ時間を稼ぐ意味しかないだろう。",
+      "…俺を完全な方法で「消し去る」までの………",
+      "時間稼ぎ。",
+      "俺が脅しに屈したって、知りすぎた人間には変わらないのだから。",
+      "その時、机のひんやりとした手触りが、去年までこの席を使い、そして失踪した男、北条悟史のことを思い出させた。",
+      "彼もまた…俺と同様だったのだろうか？",
+      "余計な事まで知ってしまい……消されてしまった…？",
+      "………くそ…！",
+      "俺は…簡単に消されたりはしないぞ……",
+      "絶対に…！！",
+      "だが…本当に俺は命を狙われているんだろうか…？",
+      "レナたちを疑いながらも…同時にかばうような、そんな二律背反の気持ちはさっきからずっとあった。",
+      "不審な行動・言動をあれだけ目の当たりにしながらも、こうして朝日の中にいると全部ウソなんじゃないかと思えて……",
+      "いや、思い込もうとしてしまう。",
+      "俺は仲間を疑っている？",
+      "かばっている？",
+      "命を狙われている？",
+      "いない？",
+      "本当にずれた論点だった。",
+      "自らが置かれている現状を思えば…そんなのはとっくの昔の論点のはずなのだ…。",
+      "なぁ……本当に俺は…命を狙われているのか…？",
+      "レナたちに……。",
+      "そんな俺の煮え切らない思考を、俺の中のもうひとりが罵倒した。",
+      "馬鹿かよ前原圭一！！　そんなのは決まってるじゃないか！！",
+      "で、…でもひょっとしたら……裁縫針は本当に偶然の、事故かもしれないだろ…？",
+      "裁縫針がどう間違ったらおはぎに混ざるんだ？！　お人好しも大概にしろ！！",
+      "確かにレナも魅音も…不審な態度や言動があるけど…ひょっとしたら何かの誤解で…。",
+      "何の誤解だよ？！",
+      "不審どころか…異常なのは明白だろッ？！",
+      "レナには嘘を正されただけだし……魅音には昼飯を聞かれただけだし……。",
+      "そのレナは部屋の前で１時間も聞き耳を立ててたんだぞ？！",
+      "そ、それはきっと…俺の電話が終わるのを待ってて……。",
+      "１時間もずっと部屋の前で？！　そしてそのまま何も告げずに帰るか普通？！",
+      "………………。",
+      "大石さんに聞かされただろ？！",
+      "レナが前の学校で何をしたかを！！",
+      "で、でも…それはオヤシロさまのせいだって病院で……。"
+    ],
+    "textEn": [
+      "Flashing a lurid smile, Mion returned to her seat.",
+      "There was nothing from our exchanges that would cause our classmates to suspect anything was amiss.",
+      "But of course...",
+      "Anyone listening to our conversations up until this morning...",
+      "wouldn't see anything suspicious.",
+      "That was why... it was so frightening.",
+      "They acted in a way that, regardless of whatever happened to Keiichi Maebara, no one would ever suspect them... That fact had me terrified.",
+      "Soon the teacher came.",
+      "After she asked how I felt and took attendance, another dull, ordinary day began.",
+      "This free study period was a convenient time to consider where I stood.",
+      "I gently closed my eyes and pondered the ridiculous position I was in right now.",
+      "First of all... What I shouldn't forget... was how dangerous of a situation I was in.",
+      "I had fallen out of favor with them.",
+      "After interacting with Ooishi-san multiple times, I could see it as I was getting closer to the heart of the matter.",
+      "The warning yesterday with the mochi was a good indicator of that.",
+      "...No... Calling it a warning was just my habit of understating things.",
+      "It probably had no meaning beyond stunting my progress and buying themselves some time.",
+      "...Until they had a method of completely 'erasing' me...",
+      "They were just biding their time.",
+      "Even though they were keeping me under their thumb with threats, it didn't change the fact that I knew too much.",
+      "The chilling sensation of my desk made me recall Satoshi Houjou, the boy who was using this seat until last year when he disappeared.",
+      "Was he also... similar to me?",
+      "Did he learn something he shouldn't have... and was erased...?",
+      "...Damn...!",
+      "I wouldn't... let them get rid of me so easily...",
+      "Never...!!",
+      "But... were they really trying to kill me...?",
+      "I've had these contradictory feelings for a while now. Even though I suspected them... I felt I had to cover for them.",
+      "Even having witnessed all of their suspicious behavior, a morning like this just made it all seem like an elaborate hoax.",
+      "No, that's just what I want to believe.",
+      "Doubting my friends?",
+      "Covering for them?",
+      "My life was in danger...",
+      "Or was it?",
+      "Actually, I was debating the wrong point.",
+      "Given my current situation... Those points were something that should have been deliberated on a long time ago...",
+      "But really... Rena and the rest of them...",
+      "Were they actually aiming to kill me?",
+      "The little voice inside me continued to torment me with these unresolvable trains of thought.",
+      "Are you an idiot, Keiichi Maebara!? The answer should be obvious!",
+      "B... But maybe... that sewing needle might have been just an accident, right...?",
+      "How could you screw up and drop a sewing needle into a piece of mochi!? The benefit of the doubt can only go so far!!",
+      "Both Rena and Mion... had acted and behaved suspiciously... but maybe it was all some sort of misunderstanding...",
+      "What kind of misunderstanding!?",
+      "It wasn't just suspicious... it was outright ludicrous, right!?",
+      "Rena just corrected me for lying... and Mion only asked me about what I had for lunch...",
+      "Rena was standing outside my door eavesdropping for a solid hour!?",
+      "Sh-She was... probably just waiting for my phone call to end...",
+      "For a whole HOUR outside your room!? And is it normal to go home afterwards without saying anything!?",
+      "...",
+      "You heard from Ooishi-san, didn't you!?",
+      "About what Rena did at her former school?",
+      "B-But... At the hospital, she said it was Oyashiro-sama's fault she..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いい加減にしろよ前原圭一。お前、命を狙われてるって自覚、あるのかよ？！」"
+    ],
+    "textEn": [
+      "\"Cut it out, Keiichi Maebara. Don't you realize they're out to kill you!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ッ？！",
+      "それは自分が、無意識の内に口にした言葉だった。",
+      "自らのあまりにストレートな言葉に…しばし呆然とし、誰かに聞かれはしなかったかと周りを伺った。",
+      "……今の独り言は…あまりに真を突いていた。",
+      "俺はレナたちから殺意を感じながらも、…心のどこかで、それを否定している。",
+      "この期に及んで…そんな躊躇は命取りだ。",
+      "…それはわかってる。",
+      "だが…俺は平均的な男子生徒で……ごく普通の生い立ちのごく普通の男なんだよ！",
+      "先週の日曜日まで楽しく笑い合ってた仲間たちが…自分に殺意を抱いてるなんて…急に信じられるかよ…？！",
+      "なぁ…？"
+    ],
+    "textEn": [
+      "Ngh!?",
+      "I inadvertently blurted those words out loud.",
+      "Hearing myself say that so directly left me dumbfounded for a few moments. Afterwards, I had to look around to check if anyone else had heard it.",
+      "My little soliloquy cut a little too close to the truth.",
+      "Even though I could feel the murderous intent from Rena and the others... part of me somewhere was still trying to deny that.",
+      "This late in the game... such hesitation could be fatal.",
+      "...I knew that.",
+      "But... I was just your average student... a man living his normal, ordinary life!",
+      "Do you think I could suddenly believe... that my friends, who I had been happily laughing together with up until last Sunday... now intended to kill me...!?",
+      "Right...?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「甘えるな圭一ッ！！！！」"
+    ],
+    "textEn": [
+      "\"You're too soft, Keiichi!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今度は意識して、自分だけに聞こえるよう下腹に力を入れて小さく叫んだ。",
+      "ひとつわかったことがある。",
+      "俺は…甘い。",
+      "レナたちがどれほど恐ろしい存在なのかを理解していない。",
+      "いや、理解しようともしていない。",
+      "大石さんの心遣いに甘え、核心に耳を貸さなかった。",
+      "落胆したふりをすることで、聞かなかった。",
+      "理解しなかった。",
+      "逃げていた。",
+      "俺に理解できないから殺意はない、などという甘えはもう捨てるんだ…！",
+      "そう決意したとき、終業の鐘の音が聞こえてきた。",
+      "…早い。",
+      "今日という一日はもう終わりだった。",
+      "食事をした記憶も、授業を受けた記憶も、何も残っていなかった。",
+      "仲間たちは机を向かい合わせて放課後の部活の準備中だ。",
+      "今までの俺なら、大喜びであの輪に飛び込んでいくのだろう…。"
+    ],
+    "textEn": [
+      "This time, I remembered to keep my voice down so only I could hear it.",
+      "There was one thing I now understood.",
+      "I was... too soft.",
+      "I didn't completely understand how dangerous Rena and the rest of them were.",
+      "No, I wasn't trying to understand.",
+      "I was too soft for not listening to Ooishi-san when he was earnestly showing me the heart of the matter.",
+      "I didn't listen because I was too busy pretending to be dejected.",
+      "I didn't comprehend it.",
+      "I was just running away.",
+      "I didn't comprehend it, so nobody had any notion to try and kill me? I needed to get rid of such naive thoughts...!",
+      "As I made that resolution, I heard the bell signaling the end of class.",
+      "...So soon.",
+      "The day was already over.",
+      "I didn't recall eating lunch or doing anything in class.",
+      "My friends were putting their desks together in preparation for club activities.",
+      "Not long ago, I would probably have happily jumped into that circle..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あらあら圭一さん？",
+      "帰り支度とはあんまりですことよー？」"
+    ],
+    "textEn": [
+      "\"My, my, Keiichi-san?",
+      "How rude of you to even think about leaving!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子の口調があまりにいつも通りで……胸が痛んだ。"
+    ],
+    "textEn": [
+      "The way Satoko spoke was so typical and familiar... it almost physically hurt."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あれ？　圭一くん、今日は都合悪いのかな？…かな？",
+      "今日こそ二人で大勝利………",
+      "はぅ…。」"
+    ],
+    "textEn": [
+      "\"Huh? Keiichi-kun, is today not a good day, I wonder? ...I wonder?",
+      "And we were going to win big together...",
+      "Hau...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの、せっかく楽しみにしていたのに…という表情が辛い。",
+      "なぁ圭一。……実は大石さんが大悪党で、俺をみんなから引き離すために嘘をついてるんじゃないだろうか…？",
+      "パシーンッ！！",
+      "軟弱な考えを追い払うため、自らの手で頬に平手打ちした。"
+    ],
+    "textEn": [
+      "Seeing Rena's expression... which said she was really looking forward to today, was hard to take.",
+      "Hey, Keiichi... Maybe Ooishi-san is just some enormous jerk trying to separate me from the others by lying to me...?",
+      "Slap!!",
+      "Trying to expunge such weak-minded thinking, I slapped myself in the face."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「け、圭一くん…？」"
+    ],
+    "textEn": [
+      "\"K-Keiichi-kun...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あぁ…レナは本当に俺を殺そうとしているんだろうか…？？",
+      "誰か嘘だと言って欲しい。",
+      "嘘でもいいから嘘と言って欲しい。",
+      "……く、また甘えた考えを…！！",
+      "俺ってヤツは…どうしてこうまで甘いんだ？！"
+    ],
+    "textEn": [
+      "Yeah... was Rena really trying to kill me...??",
+      "I wish someone would tell me it was a hoax.",
+      "I didn't care if it actually was one or not, I just wanted someone to say it was.",
+      "...Guh, yet another weak-willed thought...!",
+      "How did I ever become this naive!?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「だ、大丈夫…？　頭痛いの？」"
+    ],
+    "textEn": [
+      "\"A-Are you all right...? Does your head hurt?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺がひとり苦悩する様がレナにはそう映ったようだった。"
+    ],
+    "textEn": [
+      "Apparently that was how my inner dilemma appeared to Rena."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「顔色悪いよ？",
+      "ひとりで帰れる？",
+      "…送ってった方がいいかな？…かな？」"
+    ],
+    "textEn": [
+      "\"You're pale!",
+      "Can you make it home by yourself?",
+      "...Maybe I should accompany you home, I wonder? ...I wonder?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いや……いい。…ごめん。",
+      "ひとりで帰れる。",
+      "部活はみんなでやってくれよ。」"
+    ],
+    "textEn": [
+      "\"No... it's okay... sorry.",
+      "I can get home by myself.",
+      "Just have the meeting without me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺が部活に参加しないことを知ると魅音が不満そうに口を尖らせた。"
+    ],
+    "textEn": [
+      "Upon hearing that I wasn't going to participate in the club meeting, Mion pouted unhappily."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんがリベンジ熱望してたってんで、今日はせっかくこの間の推理ゲームにしたってのになぁ。」"
+    ],
+    "textEn": [
+      "\"Since Kei-chan was so bent on a revenge match, we were even going to play that deduction game from before too.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さんにはリターンマッチに臨む熱いハートはありませんですの？",
+      "なっさけないですわね〜！」"
+    ],
+    "textEn": [
+      "\"Keiichi-san doesn't have the burning desire for a rematch?",
+      "How pathetic~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "低俗な挑発には乗らない。",
+      "特に買い言葉も返さず、俺はカバンを掴んで席を立とうとした。",
+      "そんな俺の頭に、すっと誰かが手を乗せた。"
+    ],
+    "textEn": [
+      "I wouldn't fall for some dumb taunt.",
+      "Without even a real retort, I just grabbed my bag and was about to get up.",
+      "Someone's hand perched itself gently on my head."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………圭一、具合悪そうです。",
+      "………かわいそかわいそですよ。」"
+    ],
+    "textEn": [
+      "\"... Keiichi doesn't seem to be well.",
+      "...How very unfortunate.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんだった。",
+      "小さな手で、精一杯の背伸びで俺の頭をよちよちと撫でてくれた…。",
+      "とても気持ちよく、…それがかえって悔しかった。"
+    ],
+    "textEn": [
+      "It was Rika-chan.",
+      "She was stretched up as far as she could, doing her best to pat my head with her petite hand...",
+      "It felt so nice... which made things even harder."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…ごめんな。",
+      "みんな。",
+      "………じゃ！」"
+    ],
+    "textEn": [
+      "\"Sorry...",
+      "Everybody.",
+      "...See you!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それだけを言い残し、俺は足早に教室を後にした。",
+      "俺の背中を見ながら、何やら言っているようだったが、俺の耳には届かなかった。",
+      "そのまま昇降口へ向かい、",
+      "靴を出し、",
+      "履いて、",
+      "前へ。",
+      "前へ。",
+      "心を空っぽにしろ……前原圭一…！",
+      "あいつらは…どうしてか知らないけど…俺の命を狙ってる！！",
+      "怪しげな企みをしていて、俺の挙動を虎視眈々と伺っている連中なんだ！！",
+      "でも…憎めないッ…！！",
+      "だって……仲間じゃないかッ！！！",
+      "自らの甘さを悔やむ自分と、それを悔やむこと自体、失ってはならないものを失ってしまったのではないかと悔やむ自分。",
+      "自分という人格が体ごと引き裂かれてしまうような…そんな感覚だった。",
+      "もしもこれがオヤシロさまの祟りというものなら。",
+      "…あまりに…辛いじゃないか。",
+      "なぁオヤシロさま…、あんたの祟りを信じなかったのは俺が悪かったよ…。",
+      "でももう信じる。",
+      "絶対信じる。",
+      "あんたの祟りは実在する…。",
+      "だから、もう本当に……勘弁してくれよ…………。",
+      "頼むよ…………なぁ…。",
+      "いつになく、夕食はおいしくなかった。",
+      "味はなく、匂いもなかった。",
+      "…普段なら食欲をそそる味噌汁の湯気ですら、ただの水蒸気としか感じられなかった。",
+      "今夜の食卓には親父も一緒だった。",
+      "うちでは珍しい部類に入る。",
+      "仕事に熱が入れば、食う寝るはマイペース。",
+      "時間などお構いなしの親父だ。",
+      "その親父が食卓に着く、ということは、ちょうど仕事のキリがいいのか、さもなければスランプで不調のどちらかということになる。"
+    ],
+    "textEn": [
+      "That's all I said as I quickly left the classroom.",
+      "They said something to me as I was leaving, but I couldn't make it out.",
+      "I managed to make it all the way to the entrance in that state of mind.",
+      "Took out my shoes...",
+      "put them on,",
+      "and went forward.",
+      "Forward...",
+      "Harden that heart... Keiichi Maebara...!",
+      "They were... for some unfathomable reason... trying to kill me!!",
+      "They were plotting something dubious, watching my every move!!",
+      "But... I couldn't hate them...!!",
+      "Because... weren't they my friends!?!",
+      "Part of me lamented my naiveté, while another part lamented the fact that I had lost something important by lamenting over it in the first place.",
+      "It felt like my personality was being ripped in two, along with my body.",
+      "If this is what Oyashiro-sama's curse was like...",
+      "Then it was just... too harsh.",
+      "Hey, Oyashiro-sama... I was wrong for not believing in your curse...",
+      "But I believed in it now.",
+      "Completely.",
+      "Your curse does exist...",
+      "So, seriously... give me a break...",
+      "I beg you... come on...",
+      "Dinner was unusually bland.",
+      "It had no flavor or aroma.",
+      "...The miso soup that normally tantalized my appetite instead tasted like nothing but boiled water.",
+      "Dad was eating with us that night.",
+      "It was a rare occurrence in this household.",
+      "When he got into his work, he ate and slept on his own schedule.",
+      "My dad never cared about the time.",
+      "Since my dad was at the dinner table, it either meant he had just reached a good point to take a break or he was in a slump."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's dad",
+    "labelJp": "圭一の父",
+    "textJp": [
+      "「とにかく、作家のモチベーションってものを理解してないんだよ、彼は。」"
+    ],
+    "textEn": [
+      "\"So yeah, he just doesn't understand the motivation creators have.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「タイアップの話だって口約束なんでしょ？",
+      "そんなにそりが合わないならきっぱりお断りしたら？」"
+    ],
+    "textEn": [
+      "\"Your partnership was just a verbal agreement, wasn't it?",
+      "If it's so hard to agree on things, why not just end it?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's dad",
+    "labelJp": "圭一の父",
+    "textJp": [
+      "「助け合いの世界だからお互い様だとは思うんだけど…。…これじゃ仕事になぁ…。」"
+    ],
+    "textEn": [
+      "\"I feel like it's an industry with a lot of back-scratching... but when it gets in the way of business...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "親父とお袋の会話から察するに、あまりムードのいい会話ではない。",
+      "……まずい食事がさらにまずくなるのも道理だった。",
+      "両親のそんなやり取りを見ながら、俺はぼんやりと今日一日続けてきた思考を続けてみた。",
+      "…身近な友人、いや、友人と思っていた人間たちが信用できなくなった今、俺には味方が圧倒的に不足している。",
+      "信頼に足りる人間、いざという時に頼れる人間がまったくいないのだ。",
+      "…ひとりでも味方がいれば、この絶望的な状況でどれほど心強いことか…。",
+      "箸を休め、仕事の話を続ける両親を見上げてみる。",
+      "全てを両親に打ち明ける、という選択肢は一番始めに考えた。",
+      "雛見沢の誰もが１００％信用できなくなった今、唯一信用できるのは自分の両親だけなのだから。",
+      "だが……、これまでのことを話したところで、理解してくれるだろうか？",
+      "例えばレナ。",
+      "転校以来、甲斐甲斐しく世話をしてくれ、毎朝迎えに来てくれ、たまにお裾分けまで持ってきてくれるご近所さんのレナ。",
+      "その彼女が俺の命を狙っていると、…どう説明する？？",
+      "どう説明しても、それに理解を求めるのはとても難しいだろう…。",
+      "少々浮世離れした親父はとても理解できないだろうし、神経質なお袋なら、俺を引きずってそのまま精神科につれて行くだろう。",
+      "悲しいが…これが俺が築いてきた信頼関係の程だ。",
+      "仮に理解してくれたとしても…どんなことができる？",
+      "真相を暴けるわけでもなければ、俺の命を守れるわけでもない。",
+      "…いやむしろ……俺から“余計なこと”を知らされることによって、両親も危険にさらされるようになるわけだ…！",
+      "過去の事件の被害者が夫婦丸ごとのことが多かったことを思うと…とても笑えない。",
+      "この雛見沢から、前原一家という３人家族があっさりと事故で、もしくは蒸発して消えてしまうということもありうるのだ……。",
+      "ここで大事なことは“余計なこと”を知ると危険になる、という点だ。",
+      "気味が悪いのは……どうやってヤツらは自分が“知ってしまった”ことを知ったのか、という点だが…。",
+      "裏返せば、“何も知らない限り”両親に危害は及ばないのではないかという言い方もできるんじゃないか…？",
+      "少なくとも俺の場合がそうだ。",
+      "“知ってから”おかしくなってしまった。",
+      "…つまりこういうことだ。",
+      "何も知らない両親がいる限り、両親には何も起こらない。",
+      "そんな両親がこの家にいる限り、この家はヤツらからの安全地帯になるというわけだ。",
+      "……詭弁の上に詭弁を塗り固めた憶測なのはわかっている。",
+      "この家だけは安全地帯であって欲しいという、俺の弱気が求めたご都合主義だ。",
+      "…表よりは安全という程度で、…絶対安全ではないことをよく理解しなくてはならない。",
+      "両親が頼りない…、いや、両親を巻き込めないことはわかった。",
+      "なら俺に味方してくれるような人は……大石さんしかいないことになる。",
+      "大石さんは現在の俺の状況を理解している唯一の人間だ。",
+      "俺の身の安全こそ軽んじているが、事件解決に情熱を燃やしているのだけは間違いない。",
+      "……ちょっと悔しかった。",
+      "…こんな事態になった大元は大石さんのせいなのに、その事態を打開するのにまた大石さんの世話にならなければならないとは……。",
+      "つまり……大石さんの目論み通りに進んでいるわけだ。",
+      "俺は海に撒かれた餌で、波間を美味しそうに漂うのが仕事。",
+      "…そして、俺の周りに魚たちが群がってきたところで大石さんがそれを一網打尽！",
+      "少し悔しいが、……それがベストとしか思えない。",
+      "じゃあつまり……俺はどうすりゃいいんだ？！",
+      "…釣りの鉄則は待ちだ。",
+      "魚が食いつくまで、ひたすらじっと伏して待ち続ける…。",
+      "だが俺は餌じゃない。",
+      "食われる直前にあらゆる努力をすることができる。",
+      "ヤツらが仕掛けてきた時、なんとかそれを紙一重でかわし、大石さんに引き継がなくてはならない。",
+      "無論、簡単ではない。",
+      "…大石さんに継ぐタイミングが難しい。",
+      "大石さんは雛見沢じゃなく、町にいる。",
+      "だから緊急時に電話をしても、駆けつけてくれるまでに３０分はかかるだろう。",
+      "この３０分間を何とか逃げ切らなくてはならない……。",
+      "例えば…予め緊急時の待ち合わせ場所を決めておくとか。",
+      "…俺はそこで大石さんが来てくれるまで隠れていればいいわけだ。"
+    ],
+    "textEn": [
+      "I wasn't able to pick out much of my mom and dad's conversation, but I could tell it wasn't a very pleasant topic.",
+      "...That, of course, made the disgusting food even less appealing.",
+      "Staring listlessly at the exchange between my parents, my mind wandered off to the same thought processes I had going all day long.",
+      "...Friends close to me—no, they used to be friends. But I could no longer trust them. Right now, I was greatly lacking in allies.",
+      "People I trusted... people I could depend on when push came to shove. They were something I just didn't have.",
+      "...Having just one ally would have been incredibly reassuring in the currently hopeless situation I was in...",
+      "I put down my chopsticks and looked over at my parents, who were still talking about work.",
+      "The first course of action that came to mind was to tell my parents everything.",
+      "Currently, there wasn't a single person from Hinamizawa I could trust 100%. That meant the only people I could trust were my parents.",
+      "But... If I told them everything that happened up until now, would they understand?",
+      "Rena, for example.",
+      "That neighborly Rena, who was so diligent in looking after me, came to get me every day, and sometimes brought over a share of what she made.",
+      "How could I explain... that she wanted to kill me??",
+      "No matter how I explained, it would probably be difficult for anybody to comprehend.",
+      "My somewhat eccentric dad wouldn't understand, and my high-strung mom would probably drag me off to a psychiatrist in the blink of an eye.",
+      "Sadly... That was the amount of trust that existed in our relationship.",
+      "Even if they did come to understand... what could they possibly do?",
+      "Unless they could uncover the truth, they wouldn't be able to protect me.",
+      "...No... By informing them of these 'unnecessary' things, I'd be putting my parents in danger as well...!",
+      "Considering that the victims in past incidents were often married couples... I couldn't even joke about it.",
+      "For the entire Maebara family to have an accident or to just vanish into thin air... It was easily possible in Hinamizawa...",
+      "What was important here was that knowing something 'unnecessary' put you in danger.",
+      "The most unsettling question was... how did they know that I knew...?",
+      "\"As long as they didn't know,\" my parents might not fall victim... that was one way to think about it, I guess...?",
+      "At least it was like that in my case.",
+      "After I found out, things started becoming odd.",
+      "...In other words, it meant the following:",
+      "As long as my parents didn't know anything, nothing would happen to them.",
+      "Which means that this house would be a safe haven as long as my parents were in.",
+      "...I knew these were just assumptions based on conjecture on top of conjecture.",
+      "Wanting this house to be a safe haven... that was the pinnacle of my weak-willed method of thinking.",
+      "I had to concede that it was not completely safe... It was only safer than the outside...",
+      "I knew that I couldn't rely on my parents? No... I couldn't risk getting my parents involved.",
+      "Then the only person who could be my ally would be... Ooishi-san. Him, and him alone.",
+      "He was the only person who understood the situation I was in.",
+      "He didn't care so much about my safety, but he was without a doubt passionate about solving this case.",
+      "...It was a bit frustrating.",
+      "...Ooishi-san was basically the whole reason I was in this mess. Now to get out of it, I had to rely on him...",
+      "Meaning... it was all going according to his devices.",
+      "It was just my job to look appetizing while bobbing in the waves as bait.",
+      "...Then, when the fish started gathering around, Ooishi-san would pull up the big haul!",
+      "It was slightly infuriating... but even I thought that was the best course of action.",
+      "So, then... what should I do!?",
+      "...Patience was the first rule of fishing.",
+      "Just keep waiting until the fish actually bites...",
+      "But I wasn't simply bait.",
+      "There were lots of ways for me to struggle before being devoured.",
+      "When they struck, I needed to somehow dodge just enough and tag out to Ooishi-san.",
+      "No question, it was going to be hard.",
+      "...The timing to bring Ooishi-san in would be difficult.",
+      "He was in the city, not Hinamizawa.",
+      "So if I phoned him in my moment of need, it would take him about 30 minutes to reach me.",
+      "So I needed to run away for those 30 minutes...",
+      "For example... if we set up a rendezvous point for dire situations or something.",
+      "I'd just have to hide out there until Ooishi-san arrived."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…よし………少し…見えてきたぞ…。」"
+    ],
+    "textEn": [
+      "\"...Okay... I can almost... see it now...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "疑心暗鬼の暗闇の中にいることに間違いはないが、自分がこれからどう進めばいいのかわかることが、これほど心強いとは思わなかった。",
+      "そうだ。",
+      "いざと言うときの為に、何か携帯できる武器を用意した方がいいかもしれない。",
+      "……代表的なものは折り畳みナイフだろうか。",
+      "だが戦うには心細い。",
+      "また、社会的に武器だと認知されている点もよくない。",
+      "やはり、いざという時は…バットのような長い武器の方が有利だろう。",
+      "学校に金属バットがあったのを思い出す。",
+      "…あれならいざという時、心強い。",
+      "…素振りの真似でもしていれば、いつも持っていても不審に思われない。",
+      "…明日、早めに登校して確保しよう。",
+      "武器の所持が、それだけで相手の行動を抑止する効果があるかもしれない。",
+      "あともうひとつ…保険だ。",
+      "メモでも書置きでもいい。これからの出来事を簡単に、日記風に書き記しておこう。",
+      "もしも、俺が“蒸発”してしまっても日記は残る。",
+      "…大石さんは俺の日記を元にヤツらに復讐をしてくれるだろう。",
+      "仕事の話に没頭している両親を尻目に、自室へ戻る。",
+      "さっそく俺はノートのページを破り取り、机に向かった。",
+      "……日記なんて小学校の夏休みの宿題以来だな。",
+      "万が一の時、警察は俺の日記を手がかりにするのだ。",
+      "…だから事実のみを簡潔に書こう。",
+      "書き出しはどうしよう……。",
+      "思いつくままにさらさらっと書き出してみる。",
+      "“私、前原圭一は命を狙われています”",
+      "ちょっと苦笑した。よく推理小説に出てきそうなこんな文章を、自らが書く羽目になるとは…夢にも思わなかった。",
+      "“なぜ、誰に、命を狙われているのかはわかりません”",
+      "レナたちを疑わしいと思っているが、確証はない。",
+      "……だからこれ以上のことは書けないだろう。",
+      "あまりにミステリーめいた文章に、自嘲気味に苦笑いしてしまう。",
+      "この文字通り謎めいた文章を読んで、警察になんらかのヒントになるだろうか。",
+      "なることを祈るしかない。",
+      "…一番祈りたいのはこの日記の出番が訪れないことなのだが…。",
+      "ここでやはり苦笑する。",
+      "あまりに簡素だったので、思いつくままにもう１行加えてみた。",
+      "“ただひとつ判る事は、オヤシロさまの祟りと関係があるということです”",
+      "これはさすがに…書き過ぎか…？",
+      "……これ以上は書かない方がいいかもしれない。",
+      "……これ以上を書き連ねると妄想日記になってしまう。",
+      "書き手の冷静さをアピールする意味ではこれ以上のことは、現時点では書くべきではない。",
+      "……新しい事実が判った時、書き足せばいいだろう。",
+      "俺はそのメモを畳み、どこに隠したものか思案する。",
+      "……簡単な場所に隠したのでは、万が一の時、ヤツらに見つけられてしまう恐れがある。",
+      "逆に難解な場所では、誰にも見つけてもらえなくなる危険性がある…。",
+      "考えた末、俺は壁に掛けてある時計を外し、その裏に畳んだメモをセロテープで貼り付けることにした。",
+      "その後、元通りに時計を掛け直す。",
+      "…うん。",
+      "とても裏に隠してあるようには見えない。",
+      "あとは、このメモを「俺に何かがあったとき」両親に見つけてもらえるよう、仕掛けるだけだ。",
+      "角度を変えて何度か見直し、納得したところで俺は階下へ戻る。",
+      "両親はまだ飽きもせず仕事の話をしていた。",
+      "しばらく待っても話は途切れそうになかったので、自分から切り出すことにする。"
+    ],
+    "textEn": [
+      "I was still being chased around in the dark by boogiemen, but now I knew which way to go. I would never have imagined this would be so reassuring.",
+      "Oh yeah...",
+      "It would probably be best if I had a concealed weapon for when things got rough.",
+      "...Typically, that would call for a switchblade.",
+      "But that wasn't too reassuring for combat.",
+      "Also, since it was recognized as a weapon by the public, that also wasn't good.",
+      "Really, when the time comes... a long weapon like a bat would work in my favor.",
+      "I remembered there was a metal bat at school.",
+      "...I could be confident with that when push came to shove.",
+      "...If I pretended I was practicing my swing, then it wouldn't be suspicious for me to always carry it around.",
+      "...I could go to school early tomorrow and secure it.",
+      "Just possessing a weapon may be enough to deter them.",
+      "Also, one more thing... Insurance...",
+      "It could be something like a note or memo. I could write down everything that's happened as a sort of journal.",
+      "In case I suddenly vanished, the journal would be left behind.",
+      "...With my journal in his possession, Ooishi-san should be able to avenge my death.",
+      "I left my parents engrossed in their conversation about work and went back to my room.",
+      "I tore out a piece of paper from a notebook and made my way to my desk.",
+      "...Last time I wrote a journal was for summer homework in elementary school.",
+      "In the off chance something bad happened, the police could use my diary as a lead.",
+      "...So I should only write down the facts.",
+      "How should I start...",
+      "I jotted down my thoughts as they came.",
+      "\"I, Keiichi Maebara, am in fear for my life.\"",
+      "It made me laugh nervously. It was a line that showed up often in detective stories. I never even dreamed that I would be in the type of situation where I'd write it myself.",
+      "\"I do not know why they are after my life.\"",
+      "Rena and the others were suspicious, but I had no proof.",
+      "...And that's why I couldn't write anything more.",
+      "I laughed wryly at myself for writing such a passage draped in mystery.",
+      "Would the police be able to get the hint from reading this enigmatic passage?",
+      "I could only pray that they would.",
+      "...What I prayed for the most though, was that this journal never needed to play its part...",
+      "Here, I laughed nervously.",
+      "It was too simple, so I wrote down one more line I just thought of.",
+      "\"The only thing I do know is that it has to do with Oyashiro-sama's curse.\"",
+      "Was that... too much...?",
+      "...I probably shouldn't write more than that.",
+      "...If I wrote any more, then it would seem like I was just delusional.",
+      "In order to appear to the reader that the person who had written this was of sound mind... I chose not to write anything else at that point.",
+      "... I just needed to add more as I learned more about the truth.",
+      "I folded the paper and thought about a place to hide it.",
+      "...By hiding it somewhere obvious, there was the chance that 'they' would uncover it instead.",
+      "On the other hand, if it was in too obscure of a location, then there was the risk of nobody finding it at all...",
+      "In the end, I decided to take the clock off my wall and stick my folded note on the back of it with scotch tape.",
+      "After that, I put the clock back into its normal position.",
+      "Yeah...",
+      "It didn't look like anything was hidden behind it.",
+      "Now I needed to set it up such that, \"if anything happens to me,\" my parents could find it.",
+      "I looked at it from countless different angles until I was satisfied and I made my way downstairs.",
+      "My parents were still talking about work.",
+      "It didn't look like it was going to end anytime soon, so I cut in."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あー、話し中ごめん！！",
+      "……ちょっと聞いてもらっていいかな。」"
+    ],
+    "textEn": [
+      "\"Ah, sorry to interrupt!!",
+      "...I have something I want to talk to you about.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺がこういう切り出し方で話すことはないので驚いたのか、両親はぴたっと話しをやめて振り向いてくれた。"
+    ],
+    "textEn": [
+      "I'd never started off a conversation like that before, so my parents were both startled. They stopped talking and turned towards me."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「どうしたの圭一？」"
+    ],
+    "textEn": [
+      "\"What is it, Keiichi?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お願いがあるんだけど、聞いてほしいんだ。",
+      "……その、もしもだよ？」"
+    ],
+    "textEn": [
+      "\"I have a favor to ask of you, please listen.",
+      "...Um, just in case, yeah?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's dad",
+    "labelJp": "圭一の父",
+    "textJp": [
+      "「圭一、急ぎの話じゃなきゃ後にしなさい。",
+      "お父さんとお母さんはちょっと今、急ぎの話をしてるんだ。」"
+    ],
+    "textEn": [
+      "\"If it's not urgent, can we do this later?",
+      "Right now, Mommy and Daddy have something urgent they're talking about.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こっちより急ぎの話だとは思えない。とにかく用件を伝える。"
+    ],
+    "textEn": [
+      "I didn't think their talk was more urgent than mine. In any case, I stated my request."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「もしもだよ？",
+      "俺が死んだらさ。」"
+    ],
+    "textEn": [
+      "\"Just in case, okay?",
+      "If I die...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "両親が目を丸くする。"
+    ],
+    "textEn": [
+      "Both of my parents' eyes went as wide as saucers."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「死んだらさ。",
+      "……俺の部屋にある時計、あれを棺に入れてほしいんだ。」"
+    ],
+    "textEn": [
+      "\"If I die...",
+      "I want you to put the clock on my wall in my coffin.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そうすれば気付いてくれるだろう。",
+      "あの日記のメモに。",
+      "両親は目を丸くしたまま微動だにしない。",
+      "……無理もないかもしれない。"
+    ],
+    "textEn": [
+      "If they did that, then they'd probably find it.",
+      "My memoir.",
+      "Both my parents remained wide-eyed, not moving an inch.",
+      "...I couldn't blame them."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あの時計、工作の授業で作ったお気に入りなんだ。",
+      "頼むよ。」"
+    ],
+    "textEn": [
+      "\"I made that clock in shop class and I really like it...",
+      "So, please.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「…どうしたの。",
+      "圭一。",
+      "……何かあったの？」"
+    ],
+    "textEn": [
+      "\"...What's the matter?",
+      "Keiichi...",
+      "Did something happen?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お袋が怪訝な顔でようやく口を開いた。",
+      "突然息子がこんなことを言い出したら、普通こういう反応を返すだろうな。",
+      "心配をかけて申し訳ないが、今は俺の部屋の「時計」を意識さえしてくれればいい。",
+      "シンとして、すっかり居心地の悪い空気になってしまったので、自室へ戻ることにする。"
+    ],
+    "textEn": [
+      "Mom was finally able to ask me with a questioning gaze.",
+      "Of course, this was a normal response for when someone's son suddenly talked about a subject like this.",
+      "I felt bad about making them worry, but right now I just wanted them to think about the 'clock' in my room.",
+      "With the awkward mood leaving the room in silence, I decided to go back up to my room."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺さ、明日は早くに学校に行きたいからもう寝るよ。",
+      "お休み。」"
+    ],
+    "textEn": [
+      "\"I... want to get to school early tomorrow, so I'm going to bed.",
+      "Good night.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それだけを言い残し、居間を出た。",
+      "明日は早い内に登校し、武器のバットを確保しよう。",
+      "レナとの登校も今日限りにすべきだ。",
+      "階段を上る時、お袋が俺の名前を呼んだが聞こえないふりをした。",
+      "両親に相談できることなど何もない。",
+      "相談すれば…その分、危険が増えるだけだ。",
+      "誰にも頼ることのできない、俺だけの、たったひとりの戦いが始まる。",
+      "俺は殺されない。",
+      "…こんなわけも判らない内には…絶対に。"
+    ],
+    "textEn": [
+      "Saying only that, I left the living room.",
+      "I needed to get to school early tomorrow and secure that bat.",
+      "I should make today the last day I went to school with Rena.",
+      "As I climbed the stairs, I heard my mom call my name, but I pretended not to hear her.",
+      "It wasn't something I could talk about with my parents.",
+      "If I talked about it... it would only make things more dangerous.",
+      "The fight that had begun was mine and mine alone, I couldn't rely on anybody.",
+      "I wouldn't be killed...",
+      "Not when I still knew nothing..."
+    ]
+  }
+]

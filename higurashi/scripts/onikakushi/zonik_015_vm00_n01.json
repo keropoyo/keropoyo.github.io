@@ -1,0 +1,47 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "斧。",
+      "…だがあの斧はなんだよッ？！",
+      "ごまかしも何もない！！！",
+      "そのまんまの…斧だッ？！？！"
+    ],
+    "textEn": [
+      "was an axe.",
+      "But for that axe!?",
+      "There was no excuse for that!!!",
+      "An axe... just like that!!??"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあその斧は何だよッ？！」"
+    ],
+    "textEn": [
+      "\"Then what about that axe!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…そして頭上で両手が組まれた時、そこには斧が握られていた。",
+      "レナはそのまま、斧を振り上げたまま、厳かに口を開いた…。",
+      "レナは斧を大きく振り上げたまま……さらに一歩踏み込んでくる。",
+      "不釣合いな斧の重さに大きく振られ、まるで風に乗るかのように軽々と飛ばされる。"
+    ],
+    "textEn": [
+      "...Then as both of her hands met above her head... the axe that she held came into focus.",
+      "Rena stayed like that, with that axe raised above her head, and solemnly opened her mouth...",
+      "Rena took one step forward... still holding the axe high above her head.",
+      "Thrown about by the unbalanced weight of the axe, she was sent backwards as if she had been carried off by the wind."
+    ]
+  }
+]

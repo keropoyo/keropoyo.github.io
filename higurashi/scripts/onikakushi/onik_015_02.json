@@ -1,0 +1,2388 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "見慣れた天井だった。",
+      "…まくらや布団のにおいも…とても馴染んだもの。",
+      "……ここは……俺の部屋だ？",
+      "普段なら俺以外がいることもないはずの室内に、俺以外の気配を感じたので、ばっと飛び起きた！",
+      "……その途端、全身に痛みが走った。"
+    ],
+    "textEn": [
+      "A familiar ceiling.",
+      "...The smell of the bed and pillows... I knew them well.",
+      "...Was this... my room?",
+      "Normally there wouldn't be anyone in my room besides me, but their presence made me spring wide awake!",
+      "...When I did that... pain shot throughout my entire body."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……大丈夫かな？",
+      "横になってた方がいいと思うよ…。」"
+    ],
+    "textEn": [
+      "\"...Feeling all right?",
+      "I think you'd better just lie down for a bit...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "なぜ俺がここにいてレナがここにいる？！",
+      "全身の血管と筋肉が収縮する！！！",
+      "………だが…レナの微笑みは俺のよく知るレナのものだった。",
+      "…気を許してはいけない…と知りつつも、今のレナは大丈夫だ、と勝手に安心してしまう…。"
+    ],
+    "textEn": [
+      "Why was Rena in my room!?",
+      "Blood began to surge through my muscles and my capillaries!",
+      "...But... Rena's smile belonged to the Rena I knew well.",
+      "...I knew I shouldn't let myself feel this way... but I relaxed thinking that this version of Rena was safe..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………俺は……どうして……。」"
+    ],
+    "textEn": [
+      "\"...Why... am I...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…覚えてないの？」"
+    ],
+    "textEn": [
+      "\"...Don't you remember?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………意識がなくなってからのことは……全然………。」"
+    ],
+    "textEn": [
+      "\"...After losing consciousness... nothing at all...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "体は俺が想像する以上に鈍重になっていた。",
+      "…あの一瞬で俺自身の持つ限界を出し切ったのだから、ガタが来ても当然かもしれない…。",
+      "せめて意識だけでも鮮明にしようと足掻くが、…頭の中にもやがかかったような鈍さはなかなか抜けなかった。"
+    ],
+    "textEn": [
+      "My body had become more lethargic than I could ever have imagined.",
+      "...I guess that would be the expected outcome after exerting everything I had back there...",
+      "I tried to at least clear my head... but I just couldn't shake the sluggish feeling out of my mind."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「一応、お医者さんにも電話したから。",
+      "もうすぐ来ると思うよ。",
+      "…それまで横になってた方がいいと思うな。」"
+    ],
+    "textEn": [
+      "\"I called the doctor...",
+      "He should be here soon.",
+      "I think you'd better just lie down until then.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "医者を呼ばれるほど大袈裟な怪我じゃない。",
+      "……だが医者という公正な立場の人間に来てもらえるのは少し心強い…。"
+    ],
+    "textEn": [
+      "I wasn't injured seriously enough to merit calling a doctor.",
+      "...But knowing that someone impartial was coming was slightly reassuring..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……俺、どうしてここにいるんだ…？",
+      "確か…ダム現場で……。」"
+    ],
+    "textEn": [
+      "\"...Why... am I here...?",
+      "I'm sure... I was at the dam site...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「それはレナが聞きたいな。",
+      "…何があったのかな？",
+      "レナが行った時には圭一くん、倒れてて……。」"
+    ],
+    "textEn": [
+      "\"That's what I want to know.",
+      "...What happened?",
+      "When I got there, Keiichi-kun was already passed out...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…だから聞きたいのは俺の方だよ。",
+      "…変な二人組に襲われて……。」"
+    ],
+    "textEn": [
+      "\"...That's why I'm the one who wants to know...",
+      "I was attacked by two weirdos...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "口に出し、ようやく意識を失う直前の記憶が蘇ってくる。",
+      "その記憶が、恐怖として蘇るにつれ、頭の中のもやも少しずつ晴れていった。",
+      "あの二人のことはともかく。",
+      "…レナが俺を介抱してくれたのが…意外だった。",
+      "俺はレナに命を狙われていると思っていた。",
+      "…なら、意識を失っていたときは最高のチャンスだったはずだ。",
+      "にもかかわらず、俺は殺されず、どころかこうして介抱されている。"
+    ],
+    "textEn": [
+      "As I talked about it, I finally remembered what happened right before I passed out.",
+      "Recalling that memory and the terror that went along with it caused the fogginess around my head to clear right up.",
+      "Let's forget about those two for now.",
+      "...I didn't expect... Rena to be nursing me.",
+      "I thought Rena was trying to kill me.",
+      "She would have had the perfect chance while I was unconscious.",
+      "Not only did she not kill me, she had nursed me back to health."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……よく、俺を引きずってここまでこれたな。",
+      "…重かったろ。」"
+    ],
+    "textEn": [
+      "\"...Amazing you could drag me all the way back here.",
+      "...Wasn't I heavy?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの華奢な体つきを見れば、俺を自宅の、それも二階まで引きずってきたのは尋常じゃない。",
+      "………他に仲間がいるのか…？"
+    ],
+    "textEn": [
+      "Looking at Rena's delicate frame, it was hard to believe that she had not only gotten me back home, but even dragged me all the way up to the second floor.",
+      "...Did she have some help...?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………圭一くん、覚えてないの？」"
+    ],
+    "textEn": [
+      "\"...Don't you remember, Keiichi-kun?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはきょとんとしながらも笑顔で応える。"
+    ],
+    "textEn": [
+      "Rena appeared a bit surprised, but still kept her smile."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…レナは圭一くんに肩を貸しただけだよ？",
+      "大丈夫、自分で歩けるって圭一くんが………。",
+      "………覚えてない？」"
+    ],
+    "textEn": [
+      "\"...I only propped you up on my shoulder.",
+      "You said you could walk on your own and that you were fine...",
+      "You don't remember?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…覚えていない。",
+      "意識が途切れた後の記憶は不鮮明だ。"
+    ],
+    "textEn": [
+      "...I didn't remember.",
+      "My memory was fuzzy after the point where I lost consciousness."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……二人組はどうした？」"
+    ],
+    "textEn": [
+      "\"...What about those two?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「え？」"
+    ],
+    "textEn": [
+      "\"Huh?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……レナが来た時、俺と一緒に…あるいは側に、２人組の男が…、」"
+    ],
+    "textEn": [
+      "\"...When you got there, Rena... the ones with me, or rather, those two guys...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「いなかったよ。」"
+    ],
+    "textEn": [
+      "\"There wasn't anyone.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぴしゃりと言い切られた。",
+      "その言い切り方はどこか不快な色があった。",
+      "この時の俺はあまりに弱気だった…。",
+      "……レナに詰め寄ることもできたかもしれない。",
+      "だが、そうするときっと…、やさしいレナは、俺の知らない怖いレナに変わってしまうかもしれない…。",
+      "それが怖くて……それ以上踏み込むことを避けた。",
+      "考えてみれば…当然だ。",
+      "…もしもあの二人がいたら、いくらレナでもかなわないだろう。",
+      "…俺を連れて行くにはあの二人がいなかったと考えないと説明できない。",
+      "レナは笑顔のままだった。",
+      "瞳の輝きも暖かだった。",
+      "……なのに",
+      "……顔の影が少しずつ暗くなっていくような",
+      "…奇妙な錯覚を感じる…。",
+      "…そのわずかな予兆に…背筋がぞくりとした……。",
+      "まだレナがレナでいる内に………連絡しなければ。",
+      "……大石さんに連絡しなければ。",
+      "俺が寝床を抜け出そうとすると、レナがそれを制した。",
+      "傷に障るから寝ていろ、と言う。"
+    ],
+    "textEn": [
+      "She said it bluntly.",
+      "The way she stated it felt slightly unpleasant.",
+      "I was just too timid at that time...",
+      "I might have been able to force some answers out of Rena.",
+      "But if I did that... then this kind Rena might transform into the scary Rena who I didn't know...",
+      "Fearing that... I didn't press any further.",
+      "Thinking about it... it was the obvious choice.",
+      "...If both of those men were there, I don't think Rena would even have stood a chance.",
+      "I couldn't find a way to explain it unless I assumed she brought me here after those two were already gone.",
+      "Rena was still smiling.",
+      "Her eyes sparkled warmly.",
+      "...Yet...",
+      "I felt like I was hallucinating when I saw something...",
+      "something akin to a shadow slowly creeping across her face...",
+      "...That small omen... sent shivers down my spine...",
+      "While Rena was still Rena... I needed to make contact.",
+      "...I needed to contact Ooishi-san.",
+      "Rena stopped me when I tried to get out of bed.",
+      "She said it would aggravate my wounds, so I should sleep."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………トイレに行きたいんだけどな。」"
+    ],
+    "textEn": [
+      "\"...I'd like to go to the bathroom, though.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…あ、……ごご、…ごめん。」"
+    ],
+    "textEn": [
+      "\"...Ah... S-S... Sorry.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それ以上はレナも何も言わなかった。",
+      "レナを部屋に残し、足早に階下へ下りて居間の電話機を目指す。",
+      "玄関の前にさしかかったとき、ピンポーンというチャイムの音がなった。",
+      "レナが呼んだ医者だ。",
+      "患者自らが医者を迎えるというのも変な話だが",
+      "……大石さんが駆けつけるまでの数十分間、いてくれるだけでこれほど心強いことはない。",
+      "そう安直に思い、無警戒に玄関を開けたことを…数瞬後に悔やむ。"
+    ],
+    "textEn": [
+      "Rena couldn't say anything else.",
+      "While Rena stayed in the room, I quickly went downstairs to get the phone receiver in the living room.",
+      "When I approached the front door, the doorbell rang—ding-dong.",
+      "It must have been the doctor Rena had called.",
+      "It was strange for a patient to welcome in the doctor who was making a house call.",
+      "But it would be incredibly reassuring to have him here for the considerable time it would take Ooishi-san to get here.",
+      "I carelessly opened the door with that simple assumption... and regretted it almost instantly."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「み、…………魅音……？！」"
+    ],
+    "textEn": [
+      "\"M... Mion...!?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あれ、元気そうだね。",
+      "倒れてたって言うから、様子見に来たんだけど？」"
+    ],
+    "textEn": [
+      "\"Oh, you look just fine.",
+      "I heard you collapsed, so I came to check up on you.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…な……なんで俺が倒れてたって知ってるんだよ。」"
+    ],
+    "textEn": [
+      "\"...H-How did you know I collapsed?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「レナが電話してきたから。",
+      "……他に理由が必要？」"
+    ],
+    "textEn": [
+      "\"I heard from Rena over the phone.",
+      "Do I need any reason other than that?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "医者に電話するならわかる。",
+      "だが……どうして魅音まで？！？！",
+      "俺の背後の階段をレナが下りてきた。"
+    ],
+    "textEn": [
+      "I understood why she would call a doctor.",
+      "But... why Mion, too!?!?",
+      "Rena was descending the stairs behind me."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「レナ、圭ちゃん大丈夫そうだよ？",
+      "ったく心配して損したー。」"
+    ],
+    "textEn": [
+      "\"Rena, doesn't Kei-chan look pretty all right?",
+      "Sheesh, you made me worry for nothing.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね。",
+      "レナも心配して損したかな？」"
+    ],
+    "textEn": [
+      "\"That's true.",
+      "Maybe I worried for nothing, as well.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "二人は勝手に笑い出す。",
+      "…陽気に笑うように見えたが…やはりどこか影のあるような感じは拭えない…。"
+    ],
+    "textEn": [
+      "They both began laughing.",
+      "...It appeared to be cheerful laughter... but I couldn't shake the feeling that there was a darkness looming over them..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…うわ、何この下駄箱。",
+      "どーしちゃったの？」"
+    ],
+    "textEn": [
+      "\"...Whoa, what's up with this shoe rack?",
+      "How did it get like this?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "昨日からそのままになっている叩き割られた靴箱…。"
+    ],
+    "textEn": [
+      "The shoe rack that I'd smashed to pieces had been like that since yesterday..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あ、……えっと。……転んでさ。",
+      "その拍子に持ってたバットで叩いちゃったんだよ。」"
+    ],
+    "textEn": [
+      "\"Ah... um... I fell, you see.",
+      "And the bat I was holding at the time slammed into it.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「持ち慣れないもん振り回してるから、こーゆうことになるんだよ。」"
+    ],
+    "textEn": [
+      "\"This is what happens when you swing around something you're not used to handling.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……心の中で余計なお世話だと言っておく。"
+    ],
+    "textEn": [
+      "...I kept the fact that it was none of her business to myself."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でもこれじゃ、おばさまたちが帰ってきたらびっくりしちゃうね。",
+      "……あとでレナが片付けておくね！」"
+    ],
+    "textEn": [
+      "\"But leaving it like this will really startle your parents when they get home.",
+      "...I'll fix it up for you later!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「さー、ほら圭ちゃん。",
+      "重病人なんだからちゃんと寝てないとだめだよ。",
+      "さーさー、お布団に戻った戻った！」"
+    ],
+    "textEn": [
+      "\"Now, come on, Kei-chan.",
+      "The terminally ill need their rest.",
+      "Come come, back in bed, back in bed!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "二人に促され、階段を上らされる。",
+      "……大石さんに電話をかける隙は、ない。",
+      "俺は布団の中に押し込められてしまった。",
+      "魅音は初めて入る俺の部屋を興味深そうに物色している。",
+      "あれやこれをいじっては、レナにたしなめられる…そんな光景だった。",
+      "部屋を物色されることは落ち着かないが、会話は至って平凡、微笑ましいものだ。",
+      "そんな平凡な会話の中で、さも当り前のことのように魅音が言った。"
+    ],
+    "textEn": [
+      "Both of them urged me up the stairs.",
+      "...I had no chance to call Ooishi-san.",
+      "I was pushed into my bed.",
+      "As it was the first time Mion had been in my room, she began searching around it intently.",
+      "She fiddled around my room and was scolded by Rena... You can imagine how it went.",
+      "It was uncomfortable having my room poked around, but the conversation was so benign that it was heartwarming.",
+      "During that innocent conversation, Mion said something as though it was perfectly ordinary."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…レナ。",
+      "監督には電話した？」"
+    ],
+    "textEn": [
+      "\"...Rena.",
+      "Did you call the Director?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "魅ぃちゃんに電話した後、すぐにね。",
+      "…すぐ来るって言ってたよ。」"
+    ],
+    "textEn": [
+      "\"Yup.",
+      "Right after I called Mii-chan.",
+      "He said he'd be right over.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "監督？",
+      "場違いな単語に違和感を覚えた。",
+      "レナは医者を呼ぶために電話をし、",
+      "魅音を呼ぶために電話をし、",
+      "そして…監督に電話をした？？",
+      "……監督って、誰だよ。",
+      "レナと魅音の会話があまりにも安穏としているので、その違和感は些細だ。"
+    ],
+    "textEn": [
+      "Director?",
+      "That out-of-place word gave me a bad feeling.",
+      "Rena called a doctor...",
+      "Then called Mion...",
+      "and after that... she called a \"director\"?",
+      "...Who was this director?",
+      "Since Rena and Mion's conversation was so peaceful, it only felt slightly odd."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……二人とも何の話をしてるんだよ？",
+      "監督ってなんだよ。」"
+    ],
+    "textEn": [
+      "\"...What are you two talking about?",
+      "Who's this 'director'?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あははは、圭ちゃん知んないの？",
+      "監督ってったら監督だよ。」"
+    ],
+    "textEn": [
+      "\"Ahahaha, didn't you know, Kei-chan?",
+      "We mean the Director when we say 'director.'\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「映画の監督とか。",
+      "工事現場の監督とか。",
+      "あははははははははははははははははは。」"
+    ],
+    "textEn": [
+      "\"Like the director of a movie...",
+      "Or, like a foreman of a construction site.",
+      "Ahahahahahahahahahahahahahahahahaha.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺に関係のある監督という単語を全記憶の中から洗い出す。",
+      "……該当は一件しかない。",
+      "…それはレナが最後に言った、",
+      "工事現場の監督。",
+      "一番最初の事件、バラバラ殺人で被害者になった、ダム工事の…現場監督？",
+      "でもおかしい。",
+      "その監督は死んだはずだ。",
+      "電話などできるはずもない。"
+    ],
+    "textEn": [
+      "I dug through all of my memories for a 'director' who might have business with me.",
+      "...Only one thing came to mind.",
+      "What Rena had just said...",
+      "The construction site foreman.",
+      "The very first victim of the first incident, the dismemberment at the dam construction site... the foreman?",
+      "But that was strange.",
+      "He was supposed to be dead.",
+      "There was no way they could call him."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…お前らが何の話をしてるのかわからないよ。",
+      "……その監督が俺と何か関係あるのか？"
+    ],
+    "textEn": [
+      "\"... I don't understand what you guys are talking about.",
+      "What does that director have to do with me?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "……来るって言ったけど…うちに来るのか？」"
+    ],
+    "textEn": [
+      "...You said he was coming... did you mean to my house?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "当り前な疑問を次々とぶつける。",
+      "だが…二人は至って涼しげに笑い合うだけだ。",
+      "そんな二人の様子と、怪訝に思う俺の温度差には明らかに開きがあった。",
+      "…徐々に、不愉快さと焦りが湧き上がってくる…。",
+      "……レナと魅音が、何を言っているのか理解できない。"
+    ],
+    "textEn": [
+      "I asked one obvious question after another.",
+      "But... all the two of them did was smile coolly at each other.",
+      "There was a huge difference between how the two of them appeared and how my suspicions were playing out.",
+      "...Slowly... I felt discomfort and panic welling up inside me...",
+      "...I couldn't understand what Rena and Mion were talking about."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…圭ちゃん、最近は野球に凝ってるんだよね？",
+      "監督、それ聞いたら喜ぶと思うなぁ。」"
+    ],
+    "textEn": [
+      "\"...Kei-chan, you've gotten into baseball lately, haven't you?",
+      "Pretty sure the Director will be happy to hear that.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……だから監督って誰だよ。」"
+    ],
+    "textEn": [
+      "\"...So who is this Director?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはははは。監督は監督さんだよ。",
+      "あははははははははははははははははは。」"
+    ],
+    "textEn": [
+      "\"Ahahaha. The Director is the director.",
+      "Ahahahahahahahahahahahahahahahahaha.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…だから、監督って誰だよッ？！」"
+    ],
+    "textEn": [
+      "\"...So who is this Director!?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「「あはははははははははははははははははははははははははははははははは…」」"
+    ],
+    "textEn": [
+      "\"\"Ahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha...\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナと魅音は二人してかおを見合わせると…けたけたと笑い出す。",
+      "それはこの上なく不快な…嫌な笑いの合唱だった。"
+    ],
+    "textEn": [
+      "Rena and Mion looked at each other... and laughed haughtily.",
+      "That disturbing cackle unpleasantly resounded around me."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「「あははははははははははははははははははははははは。」」"
+    ],
+    "textEn": [
+      "\"\"Ahahahahahahahahahahahahahahahahahahahaha.\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "気味が悪いくらいに長かった笑いは、その長さとは逆に、あっさりと途切れた。"
+    ],
+    "textEn": [
+      "That laugh, long enough to be unsettling, ended abruptly."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そうだ。",
+      "監督が来る前に済ませとくかな。",
+      "……圭ちゃん、覚えてるかい？」"
+    ],
+    "textEn": [
+      "\"Oh, yeah.",
+      "We should finish up before the director comes...",
+      "You remember, don't you, Kei-chan?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "顔は笑っているのに、…魅音の瞳からいつの間にか笑いが消えていた。"
+    ],
+    "textEn": [
+      "Her face was laughing... but Mion's eyes told a different story."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……覚えてるって、…何をだよ。」"
+    ],
+    "textEn": [
+      "\"...Remember... remember what?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはははははははははははははは。圭一くん、忘れちゃったのかな？",
+      "罰ゲームなんだよ。",
+      "罰ゲームなんだよ！」"
+    ],
+    "textEn": [
+      "\"Ahahahahahahahahahahahahahaha. Keiichi-kun, had he forgotten, I wonder?",
+      "About the penalty.",
+      "About the penalty!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…忘れちゃったのかなぁ？",
+      "……おはぎの宿題。",
+      "どれがレナの作ったおはぎかを当てる宿題。",
+      "……あれ、確か宿題忘れだったよねぇ？」"
+    ],
+    "textEn": [
+      "...Did you really forget?",
+      "...The homework with the mochi?",
+      "The 'homework' where you were supposed to guess which one Rena made?",
+      "...You forgot about that homework, didn't you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そんな宿題も確かあった。",
+      "でも裁縫針が出てきたので残りのおはぎは全部投げてしまった。",
+      "だからどれがレナの作ったものかは解答していない…。",
+      "それの…罰ゲームだって…？",
+      "なぜ今？！"
+    ],
+    "textEn": [
+      "I certainly did have that 'homework.'",
+      "But I had thrown away the rest of the mochi after I found that sewing needle.",
+      "So I wasn't able to answer which one Rena made...",
+      "The penalty... for that...?",
+      "Why now!?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「「あははははははははははははははははははははははははははは。」」"
+    ],
+    "textEn": [
+      "\"\"Ahahahahahahahahahahahahahahahahahahahaha.\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の疑問は表情に出ていたに違いない。",
+      "その疑問に対する答えが、二人のこの乾いた笑いだった。",
+      "何が何やら……わからなくなってくる。",
+      "今日一日…、思えば初めから…何かが狂っている。",
+      "おかしい。",
+      "理解できない。",
+      "レナに追われ、",
+      "怪しい男たちに襲われ、",
+      "魅音とレナがやってきて罰ゲーム。"
+    ],
+    "textEn": [
+      "No doubt my question was written all over my face.",
+      "Their answer to my question was that dry laughter.",
+      "I could no longer make heads or tails of anything.",
+      "I began to think that this entire day... was somehow insane.",
+      "Strange.",
+      "Incomprehensible.",
+      "Being chased by Rena...",
+      "Attacked by strange men...",
+      "The penalty Mion and Rena were talking about."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「「あははははははははははははははははははははははははははは。」」"
+    ],
+    "textEn": [
+      "\"\"Ahahahahahahahahahahahahahahahahahahahaha.\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こいつらは…何が可笑しいんだ……？！",
+      "すでに異常な空間に引きずりこまれていることを気付くのに、そんなに時間はかからなかった。",
+      "……こいつらは…一体誰なんだ？！",
+      "レナや魅音によく似た……",
+      "誰なんだッ？！？！",
+      "いつの間にかレナが俺の後ろにいた。",
+      "なぜと思う間もなく、後ろから羽交い絞めにされる！！"
+    ],
+    "textEn": [
+      "What... were these two laughing at...!?",
+      "It didn't take that long for me to realize I had been dragged into an abnormal situation.",
+      "...Who were... these two!?",
+      "Who were these people...?",
+      "Who were these doppelgangers of Rena and Mion!?!?",
+      "Rena had gotten behind me at some point.",
+      "Why was she pinning my arms behind my back!?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「な、何の真似だよッ？！？！」"
+    ],
+    "textEn": [
+      "\"Wh-What are you doing!?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「動かないでね。",
+      "罰ゲームだから。",
+      "あはははははははははははははははは。」"
+    ],
+    "textEn": [
+      "\"Don't move.",
+      "This is your penalty.",
+      "Ahahahahahahahahahahahahahahahaha.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "自分の体が鈍重とは言え…、レナの羽交い絞めはがっちりと極まり身動きができない。",
+      "あまりの力強さに…俺もほんのちょっと本気になって抵抗したが…それでもびくともしないのだ。",
+      "焦りが噴出し、冗談の領域を超えたことを悟る。",
+      "こんな尋常でない万力のような力を…俺のよく知っているレナが出せるわけがない…！",
+      "じゃあ…俺をがっちりと締め上げているこの細くて華奢そうな腕は…誰の腕なんだよ？！？！"
+    ],
+    "textEn": [
+      "My body was already very sluggish... and Rena pinning my arms made it that much harder to move.",
+      "I seriously tried to struggle, but she wouldn't even budge.",
+      "My panic began to well up, and I realized this was well beyond the realm of jokes and pleasantries.",
+      "This freakishly monstrous strength... it would have been impossible for the Rena that I knew...!",
+      "Then... these thin, frail arms grasping me firmly... whose arms were they!?!?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……圭ちゃん、抵抗しちゃだめだよ〜。",
+      "会則第……何条でもいいや。",
+      "罰ゲームに抵抗しちゃだめなんだからさ〜！」"
+    ],
+    "textEn": [
+      "\"...Kei-chan, no struggling~",
+      "Club rule number... ah, it doesn't matter which one.",
+      "You can't fight against the penalty~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音、いや、魅音によく似たそいつは、まるで魅音のように、俺に語りかける。",
+      "だが…間違いなく、魅音じゃない。",
+      "……魅音じゃない何者かが…魅音のフリをしているッ！！！"
+    ],
+    "textEn": [
+      "Mion... no, that thing that looked like Mion... spoke to me like how Mion would speak to me.",
+      "But... I was certain... that this was not Mion.",
+      "...Someone who wasn't Mion... someone who was just pretending to be Mion!!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「くっくっく…。",
+      "監督が来る前に済まさないとねぇ。」"
+    ],
+    "textEn": [
+      "\"Heheheh...",
+      "Need to finish this up before the director comes.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がポケットをまさぐると…そこから奇妙な物を取り出した。",
+      "……それが何か、視覚的には理解できたが、なぜ魅音のポケットから出てくるのかを…常識的に理解できなかった。"
+    ],
+    "textEn": [
+      "Mion fished into her pockets and pulled out something bizarre.",
+      "...I could tell what it was just by looking, but for such a thing to be in her pocket... my mind wouldn't accept it."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……なんだよ………",
+      "それ",
+      "……。」"
+    ],
+    "textEn": [
+      "\"...What is...",
+      "that...",
+      "...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは",
+      "……",
+      "小さな",
+      "…注射器だった。",
+      "子供の頃、高熱を出して医者に行くと…必ず射たれた……あの小さな透明の注射器…。",
+      "レナはさらに俺を強く押さえつける。",
+      "そして耳元で、げてげてげて、ともはや笑い声にも聞こえないような声で大笑いした。",
+      "その奇怪な笑い声は…絶対に、俺の知っているレナの喉から出せるものではない。",
+      "…レナのふりをする…こいつの本当の笑い声なのだ…？！",
+      "抵抗することもできない俺に…魅音が注射器を構えながら…迫ってくる！！",
+      "そしてその針先を、俺の目の前で何度もちらつかせた。"
+    ],
+    "textEn": [
+      "It was",
+      "...",
+      "a small...",
+      "syringe...",
+      "It was a small, clear syringe, the kind a doctor might use if you went to them with a high fever...",
+      "Rena held me even tighter.",
+      "And I could hear that clattering laughter that no longer sounded like laughter blaring into my ear.",
+      "That eerie laughter... It wasn't something that the Rena I knew could ever produce from her own throat.",
+      "...This thing that was pretending to be Rena... was this their real laugh...!?",
+      "Unable to defend myself... the syringe Mion was holding... drew closer!!",
+      "And that needle tip was waved in front of my face countless times."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「大丈夫大丈夫。",
+      "痛くないから痛くないから…。",
+      "くっくっくっく…！！」"
+    ],
+    "textEn": [
+      "\"Don't worry, don't worry.",
+      "It won't hurt, it won't hurt...",
+      "heheheheh...!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「な……何をする気だよ……。",
+      "これは一体何の真似だよッ？！？！」"
+    ],
+    "textEn": [
+      "\"Wh... What are you planning on doing...?",
+      "What kind of sick joke is this!?!?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…圭ちゃん、何言ってんだか。",
+      "……わかってんでしょ？」"
+    ],
+    "textEn": [
+      "\"...What are you saying, Kei-chan?",
+      "...You know exactly what's going on, don't you?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何が！",
+      "俺には何が何やらさっぱりわからねえよ…！！」"
+    ],
+    "textEn": [
+      "\"About what!?",
+      "I don't understand any of this at all...!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……知ってるくせにー。",
+      "今さらカマトトぶられてもなぁ。」"
+    ],
+    "textEn": [
+      "\"...I know you know.",
+      "No use playing the fool this late in the game.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わけのわからないことを言って俺を煙に巻くのはやめろッ！！！」"
+    ],
+    "textEn": [
+      "\"Stop talking nonsense to try and confuse me!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………富竹さんと同じ目に遭ってもらう。」"
+    ],
+    "textEn": [
+      "\"...You're going to have done to you what happened to Tomitake-san.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…え、………え？！」"
+    ],
+    "textEn": [
+      "\"...Wh... Wha!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんと…同じ目…？！",
+      "よく意味がわからない。",
+      "それとこの注射器に…どんな関係があるんだ…？！"
+    ],
+    "textEn": [
+      "The same as... Tomitake-san...!?",
+      "I didn't really understand what she meant.",
+      "What did that have to do... with this syringe...!?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……圭一くん、とぼけてるね。",
+      "薄々は気付いてたくせにぃ☆」"
+    ],
+    "textEn": [
+      "\"...You're playing dumb, Keiichi-kun.",
+      "You should have realized it by now.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが耳元に口を寄せて、諭すように笑いかける。",
+      "……だがその口調にも、例えようもないおぞましさが含まれていた。",
+      "とぼけてるって？",
+      "俺が？",
+      "何を！！",
+      "富竹さんと同じ目…だって？！"
+    ],
+    "textEn": [
+      "Rena whispered into my ear, laughing as if to admonish me.",
+      "...But even the way she spoke was repulsive beyond compare.",
+      "Playing dumb?",
+      "Me?",
+      "About what!?",
+      "What do you mean... the same as Tomitake-san!?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「みんな初めは轢き逃げされたものだと思っていました。"
+    ],
+    "textEn": [
+      "\"Everyone thought at first that it was a hit and run."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "ですが、意識を確かめるために近付いた警官はすぐに異常に気付きました。",
+      "…喉がね、引き裂かれていたんですよ。」"
+    ],
+    "textEn": [
+      "Except when the officer got closer to check if he was still alive, he soon noticed it wasn't a normal situation.",
+      "...His throat was scratched out.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ナ、…ナイフとか……？！」"
+    ],
+    "textEn": [
+      "\"F-From a knife or something...!?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いいえ。",
+      "爪でした。」"
+    ],
+    "textEn": [
+      "\"No.",
+      "Nails.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "爪？！",
+      "爪って、指についてる…この爪か？！",
+      "それで…ガリガリと？！？！",
+      "そうだ。",
+      "……富竹さんは…自らの爪で喉を引き裂いての絶命だった。",
+      "そんな死に方あるわけがない！！",
+      "もしも考えられるとしたら……！！！"
+    ],
+    "textEn": [
+      "Nails!?",
+      "Nails as in fingernails!?",
+      "With those... Gouged through!?",
+      "That's right.",
+      "...Tomitake-san... had clawed out his own throat with his own nails and died.",
+      "There's no way someone could die like that!!",
+      "So then, for that to happen...!!!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「薬物を疑いましたが、そういう類のものは検出できませんでした。」"
+    ],
+    "textEn": [
+      "\"We thought drugs were to blame, but nothing of that nature was detected.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そうだよ。",
+      "警察は富竹さんの遺体からは薬物は検出できなかったはず………！"
+    ],
+    "textEn": [
+      "That's right.",
+      "The police didn't find any drugs in Tomitake-san's system."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「け、警察は……富竹さんの遺体からは…薬物は検出できなかったって言ったぞ？！」"
+    ],
+    "textEn": [
+      "\"Th-The police told me... they didn't find any drugs... in Tomitake-san's body!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "げてげてげてげてげてげて…！！！！！",
+      "二人は笑い声ともつかない、奇怪な声で笑い合う。",
+      "笑うのは当然だ。",
+      "……警察にわからなかったから、そんな薬物は存在しないなんて決め付けが…いかに愚かしいことか…！",
+      "つまり……富竹さんにあんな異常な死に方を遂げさせる薬物は…実在するのか？！",
+      "このまま魅音に、それを注射されれば否応なくそれを実証することになるだろう…。",
+      "それはつまり…富竹さんと同じ末路。",
+      "……錯乱し、最期には自ら喉を引き裂いて…死！",
+      "こんな奇怪な薬物が実在すること、",
+      "そしてそれを魅音たちが所持していること、",
+      "そしてそれが自分に注射されようとしていること。",
+      "……今この瞬間、それらを疑問に思う必要は、一切ない。",
+      "自分の顔面目がけて飛んでくるボールをかわす時、飛んできた理由を考える阿呆がどこにいる？"
+    ],
+    "textEn": [
+      "Gweh gweh gweh gweh gweh gweh gweh...!!!!!",
+      "The two of them laughed together with that sickening laughter.",
+      "Of course they'd laugh.",
+      "...To assume that such a medicine didn't exist just because the police didn't know about it... was completely foolish...!",
+      "Meaning... The drug that caused Tomitake-san to die in such a bizarre manner... did exist!?",
+      "If Mion injected this into me, then that would probably be all the proof I needed...",
+      "That would basically mean I'd end up the same as Tomitake-san.",
+      "...Become hysterical, scratching out my throat in my last moments... then die!",
+      "For such an outrageous drug to exist...",
+      "For Mion to be holding it...",
+      "And that I was about to be injected with it...",
+      "...At that moment, I did not feel there was any need whatsoever to question it.",
+      "What kind of idiot, when he's trying to dodge a ball flying straight for his face, has time to think of a reason as to why it's flying at him?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……観念しなって。",
+      "んじゃ、」"
+    ],
+    "textEn": [
+      "\"...Just give up.",
+      "Alright then.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の仕草があまりにも呆気なくて、それが恐ろしかった。",
+      "死刑を執行する時の厳かさなどない。",
+      "…まるで日常風景のありふれた行為であるかのように、躊躇がなかったからだ。",
+      "魅音がもう片方の手を伸ばし、俺の胸元を掴んだ瞬間ッ！！！！",
+      "後頭部に電気が走り、世界中が停電になったような錯覚を感じた。",
+      "立ちくらみ？",
+      "それとも…誰かに後頭部を思い切り殴られた？",
+      "平衡感覚が失われ、めまいに襲われる……。",
+      "……しばししゃがみ込み、…意識がしっかり戻った時、部屋は一変していた。",
+      "頭の中のジーンとした痺れが取れ、…ゆっくりと…全身に血の通いが戻ってくるのがわかる。",
+      "俺は…どの位の時間、ここにうずくまっていたのか…？",
+      "何分？",
+      "それとも何十分なのか…。",
+      "………見上げた時計の針は、まるで俺が目を閉じていた間分だけ、きっちりと止まっていたのではないかと思うくらい、進んでいなかった。",
+      "…本当に？",
+      "今、室内を覆う空気は、さっきまでの狂気に満ちたものでなく、……灰色の静寂だけになっている。",
+      "羽交い絞めにしていたはずのレナもいなかったし、今まさに注射しようと迫っていた魅音もいなかった。",
+      "……まさか",
+      "…全部",
+      "……何かの",
+      "……幻？！",
+      "部屋には俺以外の気配はまったくなくなっているのだ…。",
+      "かつてない異常な体験。",
+      "…………俺は確かに……レナと魅音に………。",
+      "自分の正気を一瞬疑うが、同時にある種の安堵感も感じていた。",
+      "ははは、……やっぱり……あの恐ろしい出来事は…幻だったんだ。",
+      "レナも魅音も…あんな恐ろしいことをするわけが……ないんだ…。",
+      "目頭が…熱くなる。",
+      "感情がこみ上げてくるのがわかった…。",
+      "どうして…？",
+      "それは涙がこみ上げる理由にではない。",
+      "どうして…？",
+      "……それは………悲しみだった。",
+      "……どうして悲しくなるんだろう…？",
+      "わからない。",
+      "……わからない……。",
+      "男女とか、年齢とか…分け隔てなく、親しくしてくれた。",
+      "…魅音。",
+      "……その魅音は、窓際に不自然な格好で横たわっていた。",
+      "頭から胸元が血でべっとりと赤黒くなっている。",
+      "壁一面に飛び散った真っ赤なものは……魅音が撒き散らしたものに違いなかった。",
+      "いつも明るい笑顔を絶やさず、転校してきた初日から親切にしてくれた。",
+      "…レナ。",
+      "…そのレナは俺の足元でうずくまり、魅音と同じように血溜まりを作っていた。",
+      "……………………………………。",
+      "何があったのか理解できない。",
+      "……誰かが俺を助けに来てくれたのか？",
+      "そしてこの二人を打ち倒したのかッ？！…この、金属バットで…？",
+      "右腕の重さにようやく気付いた。",
+      "いつ握ったのか。",
+      "……それは悟史の金属バットだった。",
+      "べっとりと赤黒い血が貼り付き、…二人を叩きのめした凶器であることは疑いようもなかった。",
+      "その、明らかに凶器の金属バットを俺が持っている。",
+      "家の中には俺以外に誰もいない。"
+    ],
+    "textEn": [
+      "Mion's actions lacked any gravitas, and that made it even more terrifying.",
+      "There was none of the ceremony like when someone is sentenced to death.",
+      "...There was no hesitation at all, as if she were brushing her teeth.",
+      "Mion reached out with one hand and grabbed onto my chest...!!!!",
+      "It felt like electricity had run through the back of my head and the entire world had gone dark.",
+      "Did I stand up too fast?",
+      "Or... did someone hit me really hard in the back of the head?",
+      "Having lost my sense of balance, I was assaulted by a wave of dizziness.",
+      "...I squatted down for a bit... When I came back to my senses, my entire room had changed drastically.",
+      "The numbness in my head was gone, and slowly... I could tell blood was flowing to my extremities again.",
+      "How long... had I been squatting here...?",
+      "How many minutes?",
+      "Or has it been hours...?",
+      "...It was almost as if the hands on the clock had stopped moving the entire time my eyes were closed... that's how little time passed.",
+      "...Really?",
+      "The air in the room wasn't filled with that madness from before... only a dull silence.",
+      "Rena wasn't there pinning my arms and Mion wasn't there about to inject me with a needle.",
+      "...No way...",
+      "Could it be...?",
+      "All of it...",
+      "was a hallucination!?",
+      "There was no other presence in the room besides my own.",
+      "It was the weirdest experience I'd ever had.",
+      "...I was certainly... with Rena and Mion...",
+      "I doubted my sanity for a moment, but I was also seized with some sort of comfort.",
+      "Hahaha... I guess... that terrible ordeal... was a hallucination.",
+      "Neither Rena nor Mion... they wouldn't ever do... something so terrible...",
+      "My head... grew hot.",
+      "I could tell my emotions were welling up...",
+      "Why...?",
+      "That wasn't a reason to cry.",
+      "Why...?",
+      "...It was... sorrow...",
+      "...Why was I sad...?",
+      "I don't understand.",
+      "...I don't understand...",
+      "Kind to everyone... not discriminating against age or gender.",
+      "...Mion.",
+      "...That Mion was sprawled by the window in an unnatural pose.",
+      "Blood stained her a deep red from her head down to her chest.",
+      "The bright crimson smeared on the walls... that splatter had undoubtedly come from Mion.",
+      "She always had that bright smile and was kind to me from the day I transferred.",
+      "...Rena.",
+      "...That same Rena was slumped at my feet and was making the same pool of blood as Mion.",
+      "...",
+      "I couldn't comprehend what had happened.",
+      "...Did someone come to save me?",
+      "Then they beat these two down!? ...With... this metal bat...?",
+      "I finally noticed the weight in my right hand.",
+      "How long had it been there?",
+      "...It was Satoshi's metal bat.",
+      "It was covered in a deep red... There was no doubt that this was the weapon used to mutilate both of them.",
+      "And I was holding that weapon.",
+      "I was the only person in the house."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え、",
+      "………………",
+      "俺、」"
+    ],
+    "textEn": [
+      "\"Wha...",
+      "...",
+      "I...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "客観的に見て、俺がやった以外に考えられない。"
+    ],
+    "textEn": [
+      "Looking at this objectively, I couldn't think of anyone other than myself who could have done it."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺が……やったのか……？」"
+    ],
+    "textEn": [
+      "\"I... did this...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…そうだよ。",
+      "前原圭一。",
+      "俺がやったんじゃないか。",
+      "俺は…まるで自分自身を諭すように…やさしく告げた。",
+      "なぁ俺。",
+      "…無理に思い出さなくていいし、後悔する必要もない。",
+      "……やらなきゃやられてた。",
+      "それはわかってるだろ…？"
+    ],
+    "textEn": [
+      "...That's right.",
+      "Keiichi Maebara.",
+      "Of course I did it.",
+      "I... told myself gently... as if coaxing myself.",
+      "Hey, me.",
+      "...There is no reason for you to remember it, nor is there a need to regret it.",
+      "...Eat or be eaten.",
+      "You get that, don't you...?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「でも……血が、",
+      "血が、",
+      "……こんなに………！」"
+    ],
+    "textEn": [
+      "\"But... the blood...",
+      "The blood...",
+      "There's so much...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナも魅音もぴくりとも動かなかった。",
+      "額が割れて血が一筋…なんて甘いものじゃない。",
+      "…辺り一面に真っ赤な飛沫が飛び散り、二度三度では済まない打撃が加えられたことを教えてくれた。"
+    ],
+    "textEn": [
+      "Neither Rena nor Mion had moved an inch.",
+      "It wasn't just a split forehead and a trickle of blood, nothing that simple.",
+      "...The entire room was splattered with red and that told me it didn't end with just two or three strikes."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……し、死んじまったのか…？",
+      "二人とも……。」"
+    ],
+    "textEn": [
+      "\"...Are they dead...?",
+      "Both of them...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "心の奥底は冷静なのに、心の表層だけが焦り、動転する。",
+      "落ち着け前原圭一。",
+      "いつものクールな俺はどうしたんだ？！",
+      "さぁほら。",
+      "…いつもやるみたいに、頭を後ろに下げて大きく深呼吸をするんだ。",
+      "…ほら。",
+      "…………一度。",
+      "……二度。",
+      "……大きく深呼吸する。",
+      "「……………………………。」",
+      "冷静になれ。",
+      "冷静になれ…。",
+      "心の中で何度も唱え、落ち着ける…。",
+      "ようやく景色が色を取り戻し、空気にも匂いが戻った。",
+      "それと一緒に…あの空白の時間に何が起こったのかを思い出す…。",
+      "レナと魅音が襲ってきた。",
+      "俺に「富竹さんと同じ症状を起こさせる」注射をしようとした。",
+      "そしてその直前、俺は反撃したんだ…。",
+      "羽交い絞めにするレナを全身をひねって投げ飛ばした。",
+      "そのままさらに回転し、踵で思い切り魅音の腹部を蹴り抜いた。",
+      "…柔らかかった。",
+      "レナが俺にとびかかろうとしたので、思い切りの体当たりで、壁に打ちつけた。",
+      "二人が共に体勢を崩し、一瞬の隙が生じたことをその時の俺は見逃さない。",
+      "机の脇に無造作に置かれた悟史のバット………！！！",
+      "…………ぷつん。",
+      "と、…ここで真っ暗になる。",
+      "俺と言うビデオが、ここから先を録画していないとでも言いたげだった…。",
+      "いや…違う。",
+      "………録画してないんじゃない。",
+      "ちゃんと録画されている。",
+      "ただ………俺の中のもう一人が……見るなといってテレビを消しただけなのだ。",
+      "画面が真っ暗になって見えなくなっただけで……俺の中のビデオテープには間違いなく録画されている。",
+      "テレビを切っただけで……ビデオの再生はまだ続いている。",
+      "俺の中のビデオが……カラカラと…再生を続けている。",
+      "真っ暗になったブラウン管の向こうで………恐ろしい映像を流し続けている…。",
+      "それと比べたにしたって…。",
+      "…眼下の惨状は……それでも容易には受け入れ難いものだった。",
+      "部屋中の壁と言う壁に血が飛び散り、不自然な格好で倒れる二人。",
+      "…微動だにしない。",
+      "…息をしているのかもわからない……。",
+      "どんな経緯があったにせよ……",
+      "俺は、",
+      "女の子を、",
+      "仲間を、",
+      "……殴ってしまった。",
+      "…あるいは殺してしまったかもしれない。",
+      "だが……こうしなければ俺がやられていた。",
+      "それを天秤にかければ…俺がこうして気に病むのもなんだかおかしな気がした…。",
+      "過剰だったにせよ、…これは正当防衛なんだ。",
+      "そうさ、ここには全てがある。",
+      "倒れた二人と魅音の注射器。",
+      "魅音の注射器に詰まっている未知の薬物が、富竹さんの事件の謎を解き明かすだろう。",
+      "そしてこの二人の関与の事実から、犯人たちを芋づる式に検挙できるだろう。",
+      "それでも俺は罪に問われるかもしれない。",
+      "……だが、それでもいい。",
+      "とにかく、これでちゃんとした警察沙汰になる。",
+      "レナの過去の事件のように、うやむやにはならない。",
+      "とにかく警察が関与すれば……すべて決着が着くはずなのだ。",
+      "警察は過去の一連の事件を再び捜査するだろう。",
+      "……大石さんがきっと…全てを暴いてくれる。",
+      "つまり……俺の望み。",
+      "…死にたくない。",
+      "全ての真相を知りたい……は、最低限の形で達せられるのだ。",
+      "それはもうじきかなうだろう。",
+      "レナが呼んだという医者が直にここにやってくる。",
+      "全てを告白しよう。",
+      "その前に大石さんにも連絡を……。",
+      "その時、思い出す。",
+      "ここには、医者の他に、「監督」という人物が呼ばれていることを。",
+      "レナと魅音の会話から、事件に深く関与のある人物であることは想像に容易だ。",
+      "……凄惨な出来事に心を痛める余裕すらも、急速に失われていく。",
+      "まだ…終わっていない。",
+      "ここは…もはや安全ではなくなった。",
+      "クールになれ前原圭一。",
+      "…まだ終わっちゃいない。",
+      "警察に事件を伝えるまで……俺は生き延びなければならない…！！",
+      "…その時、表から人の声が聞こえた気がした。",
+      "人の会話ということは、二人以上の人間がいるということだ。",
+      "カーテンをほんの少しずらし、表を伺う。",
+      "……それは異様な光景だった。",
+      "４〜５人の大人の男性たちが、門の前に群がっているのだ。",
+      "彼らの雰囲気は、今日、ダム現場で襲い掛かってきたあの二人の雰囲気にもよく似ていた。",
+      "…この中に混じっているかもしれない。",
+      "その中のひとりは白衣を着ていた。",
+      "……でもとても医者には見えない。",
+      "医者のふりをした変装だと直感する。",
+      "多分、あいつはチャイムを鳴らして、俺に玄関を開けさせる係なのだろう。",
+      "医者だと偽って扉を開けさせて……他のやつらが一気に踏み込むつもりなのだ…。",
+      "その時、男たちの後ろに止まっていた車を見て、心臓が飛び出しそうになる。",
+      "……白い……ワゴン車ッ！！！！！",
+      "間違いない。",
+      "…俺を轢こうとした…あの車だ…？！？！",
+      "白衣の男が門を入り玄関に近付いてくる。",
+      "他の男たちは茂みの影に隠れながら、それを伺っている…。",
+      "居留守を使っても恐らく無駄だ。",
+      "…彼らならあっさりと窓を破って侵入するに違いない…！",
+      "…なんとかここを脱出。",
+      "そして…公衆電話で大石さんに連絡。",
+      "どこかで落ち合おう。",
+      "まず必要なのは武器！",
+      "あと靴ッ！！",
+      "だがその前に…ひとつだけやらなければならないことがある…！！",
+      "…俺に死ぬつもりはない。",
+      "絶対に生き延びて……この理不尽な「オヤシロさまの呪い」の真相を究明する…！！！",
+      "だが…これから起こる出来事によって、…俺のそんな決意とは無関係に……俺は終焉を迎えるかもしれない。",
+      "……だからこそ。",
+      "…今すぐここを逃げ出すよりも、大切なことだった。",
+      "あのメモを隠した時計を手早く外し、裏に隠したメモを剥がす。",
+      "…畜生…！",
+      "こんなにも丁寧にがっちりとセロテープで貼り付けやがって…！！",
+      "多少破れてもいい。",
+      "少し破き気味にメモを広げ、サインペンで新たな一文を書き加える。",
+      "……俺が大石さんに伝えることがかなわなかったら。",
+      "……頼みになるのはこのメモだけ。",
+      "………これほど、破けた大学ノートの１ページが頼もしいことはなかった。",
+      "時間はない。今知りうる真実だけを。",
+      "…真相究明に役立てる、何かの情報を書き残さなければ！！",
+      "“レナと魅音は犯人の一味。”",
+      "これは疑いようのない事実。",
+      "…今でも信じたくない。",
+      "…だが事実なのだ！",
+      "とにかく…犯人の手がかりになりそうな情報は全て残そう。",
+      "“他にも大人が４〜５人以上。",
+      "白いワゴン車を所有。”",
+      "…さっき窓から見た限りではそのくらいだった。",
+      "…もっといるのかも知れない。",
+      "そして…監督という未知の存在。",
+      "…そもそも…監督なんてこの雛見沢に似つかわしくない単語だ。",
+      "……もしも……過去の事件で唯一監督という単語が絡むとしたら……一番初めのバラバラ殺人の被害者の現場監督だけ。",
+      "一連の事件の、一番最初の被害者だ。",
+      "リンチで殺され、遺体は６つに切り刻まれた。",
+      "見つかっていないのは右腕だけ。",
+      "……その死は警察が確認しているはずでは…？",
+      "でもレナと魅音は確かに、監督を呼んだと言った。",
+      "監督と言った。",
+      "死んだ人間を呼べる訳がない。",
+      "…警察だって、死んだはずの人間が関わっているなどとは思うまい。",
+      "……それが…何かの盲点なのか？？",
+      "わからない。",
+      "だが…俺にはわからなくても…大石さんには重要なヒントになるかもしれない。",
+      "…そう。",
+      "……一番最初の事件から洗うべきなのだ。",
+      "あれがただのバラバラ殺人でなく、その後に続く、連続怪死事件の始まりなら",
+      "………",
+      "絶対に",
+      "……何かが隠されているはずなのだ！",
+      "“バラバラ殺人の被害者をもう一度よく調べてください。",
+      "生きています。”",
+      "人の死ってのは検死とか経て、しっかりと調べられるはずだ。",
+      "……理屈ではそう思ってる。",
+      "…だが、本当にそうなのか？",
+      "警察を巧みに欺く…狡猾な仕掛けがあるのではないか…？？",
+      "断定はできない。",
+      "……だが、…生きているかもしれない…。",
+      "だが、それを想像するには、今はあまりに時間がない。",
+      "……そうだ。",
+      "それよりももっと書かねばならないことがある…！",
+      "“富竹さんの死は未知の薬物によるもの。”",
+      "そう。",
+      "この薬物が…唯一無二の証拠だ！",
+      "これさえあれば…全てを解明できるに違いない…！！！",
+      "床に転がる、そんな重要な証拠をここに放置するわけにはいかない。",
+      "“証拠の注射器はこれです。”",
+      "そう書き、転がっている証拠の注射器をセロテープで時計の裏に厳重に貼り付ける。",
+      "絶対に転がり落ちたりしないように…厳重に",
+      "……厳重に！！",
+      "ピンポーン………。",
+      "チャイムがなった。",
+      "……来たッ！！！",
+      "もうこれ以上を書くことはできない。",
+      "……それでも！",
+      "俺は最後に……これを書かずにはいられなかった。",
+      "“どうしてこんなことになったのか、私にはわかりません。”",
+      "………………………………",
+      "俺がこのメモに記した中で、一番の真実はこれだけかもしれない。",
+      "“これをあなたが読んだなら、その時、私は死んでいるでしょう。",
+      "…死体があるか、ないかの違いはあるでしょうが。”",
+      "…………………………これも全て筋書きなら。",
+      "…俺は祟りで死ぬのか。",
+      "鬼隠しで消えるのか……。",
+      "“これを読んだあなた。",
+      "どうか真相を暴いてください。",
+      "それだけが私の望みです。”",
+      "これで……俺の遺言はすべてだ。",
+      "別に俺が死ぬと決まったわけじゃない。",
+      "…だが…万が一の時のための……",
+      "懇願だった。",
+      "メモを畳み、時計の裏に貼り付け、その時計を元の位置に戻す。",
+      "祈らずにはいられない。",
+      "……大石さん。",
+      "…俺にもしものことがあったら…全部、頼むからな…！！",
+      "それから、累々と横たわるレナと魅音を見下ろした。",
+      "…多分、これが今生の別れだな。",
+      "レナ。",
+      "魅音。"
+    ],
+    "textEn": [
+      "The depths of my mind were calm, but on the surface, I was panicking and agitated.",
+      "Calm down, Keiichi Maebara.",
+      "What happened to your usual calm self!?",
+      "Come on, now...",
+      "Do like you always do... throw your head back and take a deep breath.",
+      "Come on...",
+      "...Once.",
+      "Twice...",
+      "Breathe deeply...",
+      "...",
+      "Calm down.",
+      "Calm down...",
+      "I chanted that over and over in my head, and relaxed...",
+      "Color came back to my vision and smells reinfused the air.",
+      "At the same time... I remembered what happened when I blacked out...",
+      "Rena and Mion had attacked me.",
+      "They were about to inject me with whatever caused the same symptoms as Tomitake-san.",
+      "But right before that happened... I fought back.",
+      "I twisted my whole body and threw Rena as she was pinning my arms.",
+      "Then I followed through with my spin and rammed my foot as hard as I could into Mion's torso.",
+      "It was soft...",
+      "Rena tried jumping on me, so I tackled her as hard as I could and slammed her against the wall.",
+      "I didn't let that brief moment of having them off-balance slip by.",
+      "Satoshi's bat that was left carelessly by the side of my desk...!!!",
+      "...Bweep...",
+      "At that moment, everything went pitch black.",
+      "There was nothing recorded past this point in the video tape of my mind...",
+      "No... that wasn't right.",
+      "...It wasn't that there was nothing recorded.",
+      "It was recorded just fine.",
+      "Just... the Other Me inside myself... had told me not to look and had turned off the TV.",
+      "Just because the screen had gone black and I couldn't see it... didn't mean that the video tape within me hadn't recorded it.",
+      "The TV was just off... the video was still playing.",
+      "The tape within me... creaking along... still playing.",
+      "On the other end of that pitch-black screen... that horrifying video was still playing on...",
+      "Compared to this, though...",
+      "...This, the scene right before my eyes... was still so difficult to take in.",
+      "There was blood splattered everywhere on the walls, the two of them in these unnatural poses.",
+      "...Not a sign of movement from them.",
+      "...I couldn't even tell if they were breathing...",
+      "No matter what the circumstances were...",
+      "My friends,",
+      "these girls,",
+      "I had...",
+      "I had attacked them...",
+      "...I may have even killed them.",
+      "But... if I hadn't done this, I would have been the one done for.",
+      "Balancing that out on an imaginary scale... it felt odd that I'd even feel bad about it...",
+      "Even if it was a bit excessive... this was justifiable self-defense.",
+      "The proof was all here.",
+      "The two of them collapsed here and Mion's syringe.",
+      "Mion's syringe filled with some unknown drug would certainly solve the mystery surrounding the incident with Tomitake-san.",
+      "And from the fact that both of these two were involved, they'd be able to pick out the criminals one after the other.",
+      "Still, I might be suspected for this.",
+      "But that was just fine...",
+      "Anyway, now this should be a police affair.",
+      "This wouldn't fade into the darkness like Rena's past incidents.",
+      "As long as the police were involved... that should bring this to a close.",
+      "They'll probably revisit their investigation on the chain of incidents.",
+      "...Ooishi-san would... definitely get to the bottom of it.",
+      "Meaning... my wish...",
+      "...of not wanting to die...",
+      "of wanting to know the truth... That would be fulfilled in its most basic form.",
+      "It was all a matter of time now.",
+      "The doctor Rena called should be getting here soon.",
+      "I'll confess everything to him.",
+      "I needed to contact Ooishi-san...",
+      "At that moment, I remembered.",
+      "Besides the doctor, a \"director\" had been called.",
+      "It was easy to imagine that they were someone deeply involved with the incidents judging from Rena and Mion's conversation.",
+      "...The ache in my chest, caused by the gruesome deed I'd done, dissipated rapidly.",
+      "It was... not over yet.",
+      "This place... was no longer safe.",
+      "Stay calm, Keiichi Maebara.",
+      "...It's not over yet.",
+      "I needed to live long enough... to tell the police of this incident...!!",
+      "...At that moment, I felt like I heard someone's voice from outside.",
+      "Since people were speaking, it must mean there was more than one person.",
+      "I moved the curtain ever so slightly and peered outside.",
+      "...It was a bizarre sight.",
+      "About four or five grown men were all gathered at the gate.",
+      "They very much resembled the two men who had assaulted me at the dam site today.",
+      "...Those two might even be among them.",
+      "There was one person there wearing a white coat.",
+      "...But he didn't look like a doctor at all.",
+      "My gut told me he was in disguise, only posing as a doctor.",
+      "That guy would probably ring the bell and get me to open the front door.",
+      "Pretend to be a doctor to get me to open the door... and then the rest of them would all rush in at once...",
+      "At that moment, I saw the car parked behind the men and my heart nearly skipped a beat.",
+      "...The... white van!!!!!",
+      "No mistaking it.",
+      "That van... the one that had tried to run me down...!?!?",
+      "The man in the white coat entered the gate and headed towards the front door.",
+      "The rest of the men hid in the bushes and watched him.",
+      "I probably couldn't pretend that I wasn't home.",
+      "...Undoubtedly, they'd just break the window and enter...!",
+      "...I needed to get out of here somehow.",
+      "Then... use a public phone to contact Ooishi-san.",
+      "Then meet up somewhere.",
+      "First of all, I need a weapon!",
+      "Then shoes!!",
+      "But before all of that... there was one thing that I had to do...!!",
+      "...I had no intention of dying.",
+      "I'd live... and reveal the truth about this nonsensical 'Curse of Oyashiro-sama'...!!!",
+      "But... what would happen from here on, regardless of how determined I was... may bring about my demise.",
+      "...And that was why.",
+      "...There was one thing more important than getting out of here right now.",
+      "I need to get that clock out quickly and take down the note hidden behind it.",
+      "...Damn it...!",
+      "The tape was sticking to it fast...!!",
+      "It'd be fine if it was torn a little.",
+      "I opened up the slightly torn note and began writing another passage with a ballpoint pen.",
+      "If I wasn't able to inform Ooishi-san...",
+      "Then the only thing I could rely on was this note.",
+      "...I'd never thought a piece of torn, college-ruled, notebook paper could be this reliable before.",
+      "I had no time. I'd only write what I knew right now.",
+      "I needed to leave some sort of information that would lead them to uncover the truth!!",
+      "\"Rena and Mion are conspirators of the perpetrators.\"",
+      "This was an undeniable fact.",
+      "...I still didn't want to believe it.",
+      "But it was a fact!",
+      "Anyway... I'd leave all the information that would help lead them to finding the perpetrators.",
+      "\"There are four or five adults, maybe more.",
+      "They have a white van.\"",
+      "...This was everything I was able to see from the window...",
+      "There may be more.",
+      "Also... there was that unidentified person known as the director.",
+      "...To begin with... The term \"director\" didn't even mesh with Hinamizawa at all.",
+      "...If... they were going to include the directors from the past incidents... then the only one is the construction foreman, the victim from the first murder.",
+      "The very first victim in the chain of incidents.",
+      "Killed in a lynching, his body divided into six pieces.",
+      "His right arm was never discovered.",
+      "...The police should have confirmed that death...?",
+      "But Rena and Mion did both call him \"director.\"",
+      "They said \"director.\"",
+      "They wouldn't use that term to refer to someone who was dead.",
+      "...The police would never even conceive that someone who was deceased could be involved.",
+      "...Could that be... some sort of oversight??",
+      "I didn't know.",
+      "But... even if I didn't know... it could be a big hint for Ooishi-san.",
+      "...That's right...",
+      "...They needed to start fresh from the first incident.",
+      "It wasn't just a simple dismemberment, but the start of this string of mysterious deaths that would follow...",
+      "...",
+      "So, then...",
+      "there must be something hidden there!",
+      "\"Please reinvestigate the victim from the dismemberment incident.",
+      "He's alive.\"",
+      "His death should have been established after an autopsy.",
+      "Logically you would think as much...",
+      "But was that really the case?",
+      "Could it have been some sort of ploy that they were able to deceive the police with...?",
+      "I shouldn't jump to conclusions.",
+      "But... he may still be alive...",
+      "I had no time to ponder that right now.",
+      "...Oh, yeah.",
+      "There's something even more important I needed to write...!",
+      "\"Tomitake-san's death was from an unknown drug.\"",
+      "That's right.",
+      "That drug... it was an irreplaceable piece of evidence!",
+      "No doubt... just by having this, everything would be uncovered!!!",
+      "I couldn't just leave that vital clue lying on the floor.",
+      "\"This syringe is proof.\"",
+      "Writing that down, I stuck the syringe onto the back of the clock with plenty of tape.",
+      "So it absolutely would not slip out and fall to the floor... firmly...",
+      "Firmly!!",
+      "Ding dong...",
+      "The bell rang.",
+      "...They were here!!!",
+      "I couldn't write any more.",
+      "...But even still...!",
+      "There was one last thing that I had to write.",
+      "\"I have no idea why it has become like this.\"",
+      "...",
+      "This may be the closest thing to the truth out of everything I wrote on this note.",
+      "\"If you are reading this, then I am probably already dead.",
+      "...Though you may or may not find my body.\"",
+      "...If I was going to write out everything that could happen...",
+      "Either dying from the curse...",
+      "Or being demoned away...",
+      "\"You, who are reading this.",
+      "Please uncover the truth.",
+      "That is my only desire.\"",
+      "With this... my last will and testament was complete.",
+      "It wasn't certain that I was going to die.",
+      "...But... it was my final plea...",
+      "Just in case...",
+      "I folded the note, stuck it back onto the back of the clock, and returned the clock back to its usual spot.",
+      "I couldn't help but pray.",
+      "...Ooishi-san...",
+      "...If something happens to me... I leave the rest to you...!!",
+      "After that, I gazed down silently at Rena and Mion.",
+      "...This was probably the last time we'd ever see each other.",
+      "Rena.",
+      "Mion."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺、",
+      "……みんなのこと",
+      "……本当に友達だと思ってたんだぜ……。」"
+    ],
+    "textEn": [
+      "\"I...",
+      "really had thought...",
+      "all of us were friends...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "なのに……どうしてこんなことになってしまったんだよ……？",
+      "前の学校では楽しいことなんか何もなかった。",
+      "…偏差値の上下に一喜一憂し、志望校が合格圏か安全圏かとか…そんな話しかしなかった。",
+      "…灰色の生活だった。",
+      "友達ってのはクラスの勉強のライバルのことで、内申書と校内偏差値を競い合う敵だった。",
+      "そんな生活がいかに不健全かを教えてくれたのが、みんなだったんだ。",
+      "この一ヶ月間、本当に楽しかった…。",
+      "弁当で大騒ぎをし、部活で大騒ぎをし、お祭りで大騒ぎをし……。",
+      "目から熱いものがボタボタとあふれ出る。",
+      "……不覚にも…涙だった。",
+      "こいつらのために涙を流す義理なんかないはずだ。",
+      "…でも止められない…！！",
+      "例え命を狙われたとしても。",
+      "殺されそうになったとしても。",
+      "…この一ヶ月間の思い出は……忘れられないのだ…。",
+      "それとも……あの楽しかった日々は…虚偽だったのだろうか…？",
+      "俺をはめるために…今日まで周到に続けられた……罠だったのだろうか？",
+      "俺だけが一方的に仲間だと思い込んでいただけなのでは………？",
+      "そんなはずは……ないッ！！！！",
+      "レナも魅音も……本当に俺の仲間だったッ！！！",
+      "あの楽しかった日々に……わずかの曇りも虚偽もあるものか…！！！",
+      "きっとレナたちは……俺を殺すよう、何者かに強要されたに違いないのだ。",
+      "あるいは…オヤシロさまという超常存在が取り憑き、意識を乗っ取られていたに違いないのだ！",
+      "とにかく…レナも魅音も…最高の友人だった！！",
+      "そして…俺に襲い掛かってきたのは……二人の意思とは異なるものに違いないのだッ！！！！！",
+      "だが…どんな強要があったにせよ、仲間を売るようなやつらじゃなかった。",
+      "オヤシロさまなんてものに乗っ取られるような、非現実的なことがあるわけもなかった。",
+      "じゃあ…やっぱり……本物のレナと魅音が…襲い掛かってきたんだ…？！？！",
+      "俺は…何を考えてるんだろう………。",
+      "滑稽な、馬鹿な話だった。",
+      "…レナと魅音を殴り倒しておきながら。",
+      "…あのレナは本物だったかとか偽者だったかとか論議しているのだ。",
+      "本物も偽者もあるわけがない。",
+      "…結果だけが真実なのだ。",
+      "足元にレナと魅音が横たわる、それだけが真実…！！",
+      "仲間を殴リ殺シタ事実",
+      "を……都合よく捻じ曲げようとしているだけ……！！",
+      "どう捻じ曲げたって……レナと魅音が……死ンデしまったことには何も変わりはないと言うのに…！！！！",
+      "抑えていた異常な感情のダムに亀裂が入るのを感じた。",
+      "……虚勢という、平常心が退き、その隙間に…狂気が漏れ出してくるのをひしひしと感じる…。",
+      "俺が殺したんだ。",
+      "俺が殺したんだ。",
+      "…レナを魅音を…。",
+      "殺したんだ…！！",
+      "再びチャイムが鳴り響く。",
+      "その容赦ない響きが、俺にもう一度だけ冷静さを取り戻させてくれた。",
+      "もう一刻の猶予もない！",
+      "早く…逃げなければ！！！",
+      "とにかく…死にたくなかった。",
+      "それから全てを暴きたいと思った。",
+      "俺をここまで追い込んだ何かの正体を……！！！",
+      "泥を啜ってでも、草を食んででも…！！",
+      "生き残る",
+      "生き残る",
+      "絶対にに生き残る！！",
+      "そのためにレナを殺した。",
+      "魅音も殺した。",
+      "そこまでして生き延びた。",
+      "…だから死ねない。",
+      "俺が生き残るために殺されたレナと魅音のためにも…",
+      "絶対生き延びなければならないのだッ！！！！",
+      "玄関へ走り、靴を鷲づかみにした時、急かすように再びチャイムが鳴った。",
+      "……この一枚の扉の向こうに……いるッ！！！",
+      "足音を殺しながら…台所へ。",
+      "…勝手口へ向かう。",
+      "勝手口を開け放つ前に、耳を当て表の気配を伺う……。",
+      "気配はない…？",
+      "靴を履き…音をさせないようにゆっくりと扉を開く…。"
+    ],
+    "textEn": [
+      "But... why did it end up like this...?",
+      "I never had any fun in my previous school.",
+      "I only worried about standardized test scores; about if the school I hoped to get into was where I really wanted to go or a safety net... that was all I talked about.",
+      "...It was a dull life.",
+      "The people I called friends were also my rivals in studying, in competitions, in personal records, and standardized test scores.",
+      "Everyone here taught me how unhealthy that lifestyle was.",
+      "This month was really fun...",
+      "Making a fuss over lunch, making a fuss over the club, making a fuss over the festival...",
+      "Something hot began dripping from my face.",
+      "...Uncontrollable... tears.",
+      "I should have had no obligation to shed tears for them.",
+      "...But they wouldn't stop...!!",
+      "Even if they were after my life.",
+      "Even if they were trying to kill me.",
+      "Everything that happened this month... I wouldn't forget it...",
+      "Or could it be... those happy days... were all a facade as well...?",
+      "Was it all a trap... meticulously orchestrated up until today... to ensnare me?",
+      "Could it have been that I had just arbitrarily assumed that they were my friends...?",
+      "That... couldn't have been the case!!!!",
+      "Both Rena and Mion... They really were my friends!",
+      "Those happy days... There was nothing fake or unclear about them...!",
+      "Someone probably... forced them to try to kill me.",
+      "Or... their minds were taken over, possessed by the supernatural entity known as Oyashiro-sama!",
+      "Regardless... both Rena and Mion... they were the best friends ever!",
+      "And... when they were coming after me... it wasn't of their own volition!",
+      "But... they weren't the kind of people to sell off their friends, no matter what means were employed to force them.",
+      "And there was no way such a thing as being possessed by Oyashiro-sama could happen in reality.",
+      "Then... did the real... Rena and Mion... come after me...!?!?",
+      "What... was I thinking...?",
+      "What a silly, dumb idea.",
+      "...Having beaten down both Rena and Mion...",
+      "I was still debating if they were the real ones or fakes.",
+      "There was no real or fake...",
+      "Only the reality that was before me.",
+      "Rena and Mion were sprawled out at my feet... that was the only truth...!!",
+      "I was only trying...",
+      "trying to twist the facts to my benefit, that I had beaten my friends to death...!",
+      "No matter how I spun it... it wouldn't change reality... Rena and Mion were both dead...!!!!",
+      "It felt like there was a crack in the dam of strange emotions I was holding back.",
+      "...It felt like my calm state, which was nothing more than a bluff, had receded, and in that opening... insanity was leaking out...",
+      "I killed them.",
+      "I killed them.",
+      "...Rena and Mion...",
+      "I killed them...!!",
+      "The door bell rang again.",
+      "The unrelenting echo pulled me back into a state of composure once again.",
+      "I didn't have a moment to spare!",
+      "Quickly... I needed to get away!!!",
+      "I didn't want to die.",
+      "I would uncover everything after that.",
+      "The identity of whoever or whatever had pushed me this far...!!!",
+      "Even if I had to drink mud and eat grass...!!",
+      "I would survive.",
+      "I would survive.",
+      "I would definitely survive!!",
+      "I killed Rena for that very reason.",
+      "I also killed Mion.",
+      "I went that far just to keep living.",
+      "...So I can't die.",
+      "For my sake, and for the sake of the late Rena and Mion...",
+      "I have to survive!!!!",
+      "I ran towards the door and grabbed my shoes. The doorbell rang again, as if to urge me on.",
+      "...Behind this single, solitary door... they were there!!!",
+      "Keeping quiet... I headed towards the kitchen...",
+      "Headed towards the back door.",
+      "Before opening the back door, I put my ear to it and checked for people outside...",
+      "No one...?",
+      "After I put on my shoes... I opened the door slowly so as to not make a sound..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「いたぞ！！　裏口だ！！」"
+    ],
+    "textEn": [
+      "\"There he is!! The back door!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鋭い声が響き渡った。",
+      "…その声が体を突きぬけ……戦慄が駆け抜けるッ！！！",
+      "走るしかない！！！！！",
+      "逃げろ圭一ッ！！！！！！！",
+      "頭から知性とか理性とか、そういうゆとりあるものが次々こぼれていった…。",
+      "梢で腕や頬に擦り傷が出来ても、何も痛みは感じない。",
+      "ばくばくと機械的に収縮する心臓にも何の痛みも、疲労も感じなかった。",
+      "体中の全細胞が、ただ生きたいと…。",
+      "それ以外の何も望まなかったから。",
+      "……何も不平を言わなかったに違いない。",
+      "だから疲れを感じるわけもないのだ…。",
+      "ただただ…走った。",
+      "自分が前だと思う方向に、がむしゃらに走り続けた。",
+      "…例え誰も俺を追っていなかったにせよ、俺は疾走をやめないに違いない…。",
+      "どこを目指して走っているかなど、もう頭にない。",
+      "振り向けば、すぐそこに気配がいる気がした。",
+      "その気配は間違いなくぴったりと、影のように俺を追い立てる。",
+      "一瞬でも足を違えれば",
+      "……",
+      "食われる。",
+      "そう思った。",
+      "だから振り返らなかった。",
+      "止まらなかった。",
+      "走り抜けた。",
+      "全力で…！！！",
+      "カナカナカナカナ……。",
+      "それは夕暮れを教えるひぐらしの鳴き声。",
+      "…俺に何かを教えようとし、そしてついにかなわなかった犠牲者たちの、",
+      "泣き声。",
+      "俺も…それに加わるのか。",
+      "カナカナカナカナカナ………。",
+      "ひぐらしだけが知っている。",
+      "……全部知ってる。",
+      "きっと知ってる。",
+      "だから、…たくさんひぐらしの鳴く声の聞こえる方へ走った。",
+      "だが鳴き声は…走った分だけ遠のく。",
+      "…近づけない。",
+      "どうして逃げるんだよ、みんな…！！！",
+      "俺が悪いのかよ。",
+      "悪かったのかよ？！",
+      "なら謝るさ！！",
+      "ごめんなさい。",
+      "ごめんなさい。",
+      "ごめんなさい。",
+      "ごめんなさい……。",
+      "ごめんなさい。",
+      "ごめんなさい。",
+      "ごめんなさい。",
+      "ごめんなさい……。",
+      "ごめんなさい。",
+      "ごめんなさい。",
+      "ごめんなさい。",
+      "ごめんなさい……。",
+      "ひぐらしだけが、知っている気がした。"
+    ],
+    "textEn": [
+      "A piercing voice echoed out.",
+      "...That voice stabbed through me... setting my hair on end!!!",
+      "I had to run!!!!!",
+      "Get out of here, Keiichi!!!!!!!",
+      "One after the other, I felt stuff like rationale and intelligence, those things you use when you have time to spare, spill out of me...",
+      "I didn't feel any pain from the branches scratching my arms and forehead.",
+      "My autonomously pulsing heart also felt neither fatigue nor pain.",
+      "My entire being just wished to live...",
+      "There was nothing else it desired.",
+      "It probably had no complaints whatsoever...",
+      "So of course I wouldn't feel fatigue...",
+      "I just... ran.",
+      "Just recklessly rushing in the direction I was already heading.",
+      "...Even if nobody was chasing after me, I'd still be running like this...",
+      "There wasn't a thought in my mind about where I was headed.",
+      "Turning around, I felt a presence right next to me.",
+      "That presence was, without a doubt, chasing me like my shadow.",
+      "If I took even one misstep",
+      "...",
+      "I would be devoured.",
+      "That's what I thought.",
+      "So I didn't turn around.",
+      "I didn't stop.",
+      "I ran...",
+      "at full speed...!!!",
+      "Kwakwakwakwa...",
+      "That was the chirping of the higurashi telling me it was evening.",
+      "...Trying to tell me something... And then I finally heard it...",
+      "The wailing cry of the victims who didn't make it.",
+      "Would I... be joining them?",
+      "Kwakwakwakwakwa...",
+      "Only the higurashi knew.",
+      "...They knew everything.",
+      "They definitely knew.",
+      "So... I ran towards where I could hear more of the higurashi's chirps.",
+      "But the farther I ran... the farther away their chirping became.",
+      "I couldn't get near them...",
+      "Why are you all running away...!?!",
+      "Was it my fault?",
+      "Was I the one to blame!?",
+      "Then I'll apologize!!",
+      "I'm sorry.",
+      "I'm sorry.",
+      "I'm sorry.",
+      "I'm sorry...",
+      "I'm sorry.",
+      "I'm sorry.",
+      "I'm sorry.",
+      "I'm sorry...",
+      "I'm sorry.",
+      "I'm sorry.",
+      "I'm sorry.",
+      "I'm sorry...",
+      "I felt that only the higurashi knew..."
+    ]
+  }
+]

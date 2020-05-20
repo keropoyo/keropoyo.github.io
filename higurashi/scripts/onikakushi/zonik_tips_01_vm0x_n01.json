@@ -1,0 +1,39 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…ふ！",
+      "だが諦めろ。",
+      "俺に誕生日で挑もうったって無駄なことだ！！",
+      "……何ならどっちが年上か、罰ゲームつきで勝負してもいいぜー！」"
+    ],
+    "textEn": [
+      "\"...Heh!",
+      "Don't even.",
+      "It's impossible to challenge me by birthday!!",
+      "... We can compete over who's the oldest if you like, with punishment, of course!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然、勝負を挑まれて狼狽するレナ。",
+      "…うろたえ具合からそれほど勝算に自信がないものと断定する。"
+    ],
+    "textEn": [
+      "Rena panicked at suddenly being challenged.",
+      "... Given how panicked she is, I can be sure she isn't confident in winning."
+    ]
+  }
+]

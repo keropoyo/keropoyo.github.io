@@ -1,0 +1,102 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「さぁねぇ。",
+      "昔、殺して埋めたバラバラ死体でも確認してるんじゃないすか？」"
+    ],
+    "textEn": [
+      "\"Dunno.",
+      "Maybe she's checking on that dismembered corpse that was out here long ago.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん聞いて聞いて！",
+      "あ、…あのね！",
+      "あったの！",
+      "ケンタくん人形ッ♪！！」"
+    ],
+    "textEn": [
+      "\"Oh, yes~ So listen!",
+      "Ah ...um, you see!",
+      "There was...!",
+      "A Colonel Sanders doll!♪\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ケンタくん人形？！",
+      "…ってあれか、ケンタくんフライドチキンの店の前に必ず置いてある…",
+      "あの等身大人形の？」"
+    ],
+    "textEn": [
+      "\"A Colonel Sanders doll!?",
+      "...Oh, that thing. Those statues they always have out in front of that fried chicken place...",
+      "That life-sized dummy?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…そう！　ケンタくん☆",
+      "……はぅ……かぁいい……お持ち帰りしたいぃ…☆」"
+    ],
+    "textEn": [
+      "\"...Yes! Colonel Sanders.☆",
+      "...Hau... kyute... I want to take it hooome...☆\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんが手伝ってくれる☆",
+      "…ケンタくんをお持ち帰りできる……はぅ…。」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun is going to help.☆",
+      "...I can take Colonel Sanders home... hau...\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「……嫌な事件だったね。…腕が一本、まだ見つかってないんだろ？」"
+    ],
+    "textEn": [
+      "\"...It was quite a disturbing incident... They still haven't found one of the arms.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "“……嫌な事件だったね。…腕が一本、まだ見つかってないんだろ？”"
+    ],
+    "textEn": [
+      "\"...It was quite a disturbing incident... They still haven't found one of the arms.\""
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…家業手伝いは除くと書いてありますです。」"
+    ],
+    "textEn": [
+      "\"...There's a clause that states family businesses are excluded.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…いっぱいいっぱい慰みものにされましたですね。",
+      "かわいそかわいそです。」",
+      "覚醒剤の常習歴もあるトンチンカンでしてね。"
+    ],
+    "textEn": [
+      "\"...She was used as a plaything for quite a while.",
+      "You poor thing.\"",
+      "He was just a miscreant with a record of narcotics abuse."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんが喜びそうなＨ番組なんかやってたっけぇ？」"
+    ],
+    "textEn": [
+      "\"Was one of those raunchy TV shows you love so much on last night?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「勝手に決め付けるんじゃねえぇえぇ！！！」"
+    ],
+    "textEn": [
+      "\"Don't jump to conclusions!!!\""
+    ]
+  }
+]
