@@ -1,0 +1,156 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ある晴れた学校の参観日。",
+      "自炊の授業があり、あの子は慣れた手つきでカレーライスを作って見せた。",
+      "同じ歳の子たちが、包丁を扱うのもたどたどしいのに比べると、あの子の包丁さばきは立派なものだった。",
+      "先生が私に寄り添い、普段の家での学習のたまものですねと微笑んでくれた。",
+      "私は曖昧に笑いながら頷き返して誤魔化しておいた。",
+      "……なぜなら、私はあの子に、カレーライスの作り方など教えたことがないからだ。",
+      "にも関わらず、あの子は慣れた手つきで野菜の皮を剥き、煮えにくい順に野菜を鍋に入れて見せたのだ。",
+      "普通の親なら、思わぬ我が子の活躍に手を打って喜ぶのかもしれない。",
+      "でも私の場合は違った。",
+      "…そのカレーライスの作り方もまた、私の預かり知れないところで誰かに吹き込まれたものに違いない。",
+      "…そう思い、口には出さなかったが不愉快な気分だった。",
+      "聞けば、あの子は裁縫もできるし、洗濯もやってのけると言う。",
+      "私はそれらを教えたことはないし、また、家でやっているところを見たこともない。",
+      "料理にしろ裁縫にしろ洗濯にしろ。",
+      "…きっとまた、私の知らない所で、年寄り連中があの子にいろいろと吹き込んでいるのだ。",
+      "そして、それだけに留まらず、あやしい迷信を吹き込んで、あの子をオヤシロさまの生まれ変わりに仕立て上げようとしているのだ。",
+      "私はそれを主人に打ち明け、あの子と年寄りたちを隔離すべきだと訴えた。",
+      "だが、古手神社の神主の立場である主人は、檀家でもある年寄りたちには弱い。",
+      "…あの子が可愛がられているならそれでいいじゃないか、と日和見なのだ。",
+      "私は反論した。",
+      "あの子は私たちの子どもで、ごくごく平均的な女の子であるべきなのだ。",
+      "年寄りたちが期待するような、オヤシロさまの生まれ変わりなどと言うあやしいものではないのだ、と。",
+      "年寄り連中は、あの子に神通力があると信じている。",
+      "明日の天気を当ててみせると話すが、私は傘を持たずに出掛けてずぶ濡れになるところを何度も見ている。",
+      "異郷の出来事を知る千里眼があるというが、あの子が熱心に見るニュースの受け売りでしかない。",
+      "知らないはずのことを知っているというが、そんなのは影で吹き込んだ人間と、そうだと吹聴する人間のふたつが村内に揃っているからに過ぎない。",
+      "でも……確かに、誰もが一日晴れると信じる日に、あの子は頑なに傘を手放そうとしなかったことはある。",
+      "たまたま雨は降り、私たちは結果的に助けられた。",
+      "……梨花がニュースで知るより早く、外国の大きな事故を知っていたことは、あったかもしれない。",
+      "私は、きっとラジオの速報か何かで漏れ聞いたのだろうと思った。",
+      "……知らないはずのことを知っている、",
+      "というのは…、",
+      "……今、目の前にあるじゃないか。",
+      "あの子は誰に教えられたわけでもなく、カレーライスを作って見せている。",
+      "いやいや…そんなはずはない。",
+      "誰かが教えたのだ、吹き込んだのだ。",
+      "私の預かり知れぬところで、誰かが梨花に何かを吹き込んでいるのだ。"
+    ],
+    "textEn": [
+      "One sunny Parent-Teacher Day.",
+      "There was a cooking class, and my child was making curry rice with a practiced hand.",
+      "While the other children her age were awkwardly using their kitchen knives, that child was wielding hers deftly.",
+      "The teacher approached me with a smile on their face, saying it must be a result of learning it at home.",
+      "I managed to play it off with a vague smile and a nod in response.",
+      "...That was because I had never once taught my child how to make curry rice.",
+      "Even then, she was peeling vegetables with a practiced hand, adding them into the pot in the order of which took longer to cook.",
+      "For a normal parent, they might unintentionally clap their hands together, happy at their child's actions.",
+      "But in my case, it was different.",
+      "...There was no mistaking that somebody had taught her how to make that curry rice when I wasn't taking care of her.",
+      "...Thinking that, I quietly fell into an unpleasant mood.",
+      "When I asked, it seemed she could also sew and do the laundry.",
+      "I had never taught her how to do those, and again, never saw her do it around the house.",
+      "Be it cooking or sewing or the laundry.",
+      "...Again, that was probably because the elderly villagers taught her all sorts of rubbish when I wasn't looking.",
+      "And not only that, they probably taught her all sorts of strange superstitions, trying to prop her up as the living incarnation of Oyashiro-sama.",
+      "I said as much to my husband, suggesting that we should keep our child away from the elderly folk.",
+      "But my husband, who was in the position of being the head priest of the Furude Shrine, had little power against the elderly who supported it.",
+      "...He took the rather uncommitted stance of saying that as long as she was being doted upon, wasn't it fine?",
+      "I argued against that.",
+      "That she was our child, and should be a completely normal girl.",
+      "That what the elderly were expecting, that she was the living incarnation of Oyashiro-sama, was simply odd.",
+      "The elderly villagers believe that child has divine powers.",
+      "We would discuss the weather for the following day, but there were many times when I left the house without an umbrella and came back soaking wet.",
+      "Rather than having clairvoyance, that was just second-hand knowledge from her watching the news all the time.",
+      "The things that she knew that she shouldn't have known were just a result of the people who were trying to indoctrinate her and the people who were gossiping getting together in the village.",
+      "However... there certainly were days when everybody thought it was going to be sunny all day, and that child would stubbornly not go out without an umbrella.",
+      "It would occasionally rain, and in the end, we would be saved.",
+      "...There might also have been times where Rika knew of major accidents in foreign countries faster than the news did.",
+      "I thought that she must have heard it break over the radio or something.",
+      "...Knowing things she shouldn't have,",
+      "something like that...",
+      "Was in front of me right now, wasn't it?",
+      "That child was making curry rice when there shouldn't have been anybody who taught her how to.",
+      "No, no... that couldn't possibly be the case.",
+      "Somebody had taught her, indoctrinated her.",
+      "When I wasn't taking care of her, somebody had indoctrinated Rika with something."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「古手さんのカレーは大変、見事です。",
+      "先生、花マルをあげちゃいます！」"
+    ],
+    "textEn": [
+      "\"Furude-san's curry is absolutely splendid.",
+      "I'll give it a gold star!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……にぱ〜☆」"
+    ],
+    "textEn": [
+      "\"......Nipah~☆.\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「古手さんはお料理を誰に習いましたか？",
+      "やっぱりお家で？」"
+    ],
+    "textEn": [
+      "\"Where did you learn to cook, Furude-san?",
+      "At home?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……はい。",
+      "お家なのですよ。」"
+    ],
+    "textEn": [
+      "\"......Yes.",
+      "At home.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "参観の父兄たちは感心していた。",
+      "嘘だ嘘だ。",
+      "…私は何も教えていない。",
+      "誰なの誰なの。",
+      "…あの子に物事を吹き込んでるのは誰。",
+      "あの子はオヤシロさまの生まれ変わりなんかじゃない、私の平凡な娘なのに！"
+    ],
+    "textEn": [
+      "The other parents in attendance were impressed.",
+      "Lies, all lies.",
+      "...I didn't teach her anything.",
+      "Who was it? Who was it?",
+      "Who was the person who had completely indoctrinated my child?",
+      "She was my normal, average daughter, not the living incarnation of Oyashiro-sama!"
+    ]
+  }
+]

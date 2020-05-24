@@ -1,0 +1,519 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「全員動くなでございましてよーッ！！",
+      "ヘンな動きをしますと、バルカン一斉射撃から誘導ミサイル連射、そしてとどめにレーザーサーベルめった斬りをお見舞いしましてよ〜！！」"
+    ],
+    "textEn": [
+      "\"Nobody move!!",
+      "Any weird movements, and you'll come face-to-face with synchronized Gatling guns, multiple homing missiles, and be cut up by laser sabers for the finisher!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「やっぱり詩音かぁあぁ！！",
+      "なにげに主役張ったシナリオまであるのにこの狼藉！",
+      "あんた、やってくれるじゃないのぉおおぉ！！」"
+    ],
+    "textEn": [
+      "\"I thought it was you, Shion!!",
+      "Even though you get to be the main character for a scenario, this is how you behave!?",
+      "Now you've gone and done it!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "共通ルートの魅ぃちゃん、萌え！って意見が、開発陣の間でも結構多いんだよ。」"
+    ],
+    "textEn": [
+      "\"Yup.",
+      "In the first half of the Watanagashi chapter, there were a lot of people getting infatuated with Mii-chan.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…それは何の真似？",
+      "……目明し編の台本？",
+      "なるほど、登場回数を削られる前に確保しておこうという魂胆ね？",
+      "くすくすくす…無駄な抵抗を。」"
+    ],
+    "textEn": [
+      "\"...What're you trying to do?",
+      "...The Meakashi script?",
+      "I see, you're planning to secure your role before any of your lines get cut out, aren't you?",
+      "Hee hee hee... resistance is futile.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……台本を確保したくらいじゃ…何もできないよ…。",
+      "…レナ、ここは悔しいけど言うとおりにした方が……。」"
+    ],
+    "textEn": [
+      "\"...You can't do anything just by getting your hands on the script...",
+      "...Rena, I'm sorry, but do what they say...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「大丈夫、安心して。",
+      "この目明し編の台本が加わったことで……レナたちはこの状況を逆転できるの！」"
+    ],
+    "textEn": [
+      "\"It's alright, don't worry.",
+      "Now that we have the Meakashi script... we can reverse this situation!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そ、その声は……圭ちゃん？！？！",
+      "まさか、圭ちゃんは収録居残り中のはず！」"
+    ],
+    "textEn": [
+      "\"Th-That voice is... Kei-chan!?!?",
+      "No way, he's still supposed to be recording lines at the studio!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「くっくっくっ……。",
+      "そうさ、今まではそうだった。」"
+    ],
+    "textEn": [
+      "\"Hu-hu-hu!!",
+      "You're right, I was until just now.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「収録居残りのたびに、「残りワード数で誰かを抜けば、お疲れさま会に参加してもいいよ」と言われ続けて。」"
+    ],
+    "textEn": [
+      "\"Every time I get left at the studio, I get told 'you can join the afterparty if you beat someone on the remaining word count.'\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それでも他のキャラと比べても二倍、あるいは三倍以上もある分量をこなすなど不可能、",
+      "というか最初から参加させる気ないだろ音響監督さんよぉぉっ！",
+      "と思って諦めてきたが……。」"
+    ],
+    "textEn": [
+      "\"But I always have two to three times the script volume of the other characters, making it impossible.",
+      "It's like the sound director doesn't want to let me join the party from the get-go!",
+      "At least, that's what I had thought...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ついに俺は抜いた！　あるキャラを！！",
+      "詩音、これを見やがれぇぇえぇっっ！！」"
+    ],
+    "textEn": [
+      "\"But finally, someone overtook me! A certain character!!",
+      "Shion, feast your eyes on this!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「え？　……げ、げげぇっ？！」"
+    ],
+    "textEn": [
+      "\"Huh? ...Ga, gah?!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう！",
+      "主役として登場パターンが増えた詩音は、当然喋るワード数もこれまでの二倍！",
+      "しかも魅音とキャストが同じだからさらに二倍！」"
+    ],
+    "textEn": [
+      "\"That's right!",
+      "Now she's appearing in more scenes as the main character, Shion has to speak twice the lines she's had so far!",
+      "And since Shion and Mion have the same VA cast, that's double again!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「その結果！　俺はようやく、ついに居残り免除！！",
+      "そして詩音っ、今度はお前が居残りだぁあぁぁッッ！！」"
+    ],
+    "textEn": [
+      "\"As a result, I've finally been excused from staying back!!",
+      "Meaning, Shion, it's your turn to be left behind!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「うっ、……嘘ぉっ？！",
+      "私、次の「目明し」でこんなに喋るんですかぁぁあっ？！」"
+    ],
+    "textEn": [
+      "\"N-No way?!",
+      "I have to speak this much for Meakashi?!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「えーっと、……圭ちゃんが約５００で、",
+      "詩音は…………２７００越えぇぇっ？！",
+      "これ、普通のアドベンチャーゲームなら全キャラの総合計数だよっ！！」"
+    ],
+    "textEn": [
+      "\"Let's see... Kei-chan has about 500,",
+      "\" and Shion has... over 2700?!",
+      "That's like the total for all the characters together in a normal adventure game!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……しかも、これに魅ぃの数が加わるのです。",
+      "その数やなんと、」"
+    ],
+    "textEn": [
+      "\"...Further adding on Mion's lines,",
+      "makes a total of-\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion & Shion",
+    "labelJp": "魅音＆詩音",
+    "textJp": [
+      "「うわぁぁあぁんん、聞きたくない、聞きたくないぃぃっっ！！」"
+    ],
+    "textEn": [
+      "\"Waaaah! I don't want to know, I don't want to know!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ーと、いうわけでだ。",
+      "レナ、感謝するぜぃ！！",
+      "月にすら見放され真の闇が地上を覆いし時、"
+    ],
+    "textEn": [
+      "\"So, with that.",
+      "Rena, you have my thanks!!",
+      "When even the moon abandons the land and shrouds it in true darkness,"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「なるほど。",
+      "で？",
+      "そのいまだに収録居残り中の圭ちゃんがどうやってここへ現れると？",
+      "……まさか、圭ちゃんを私たちの誰かが追い抜いたわけでもあるまいに。",
+      "くっくっく…！！」"
+    ],
+    "textEn": [
+      "\"I see.",
+      "So?",
+      "How is Kei-chan going to appear here, when he's still at the studio recording lines?",
+      "...It's not as if anyone here will have surpassed his workload.",
+      "Heh heh heh!!\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「……ッ！！",
+      "いけない！！",
+      "あれは「赤坂編」の収録ワード数表！！！",
+      "知恵先生、レナちゃんを取り押さえて！！」"
+    ],
+    "textEn": [
+      "\"...Gah!!",
+      "No!!",
+      "That's the voiced word count from Akasaka's part!!!",
+      "Chie-sensei, hold Rena-chan back!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……いよいよ出番だよぉぉおぉっ！　圭一くぅうううぅうん！！！！！」"
+    ],
+    "textEn": [
+      "\"...It's finally your time! Keiichi-kuuuuuuuuun!!!!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……今まで参加できなかった分、盛大に弾け飛んでいますわね。」"
+    ],
+    "textEn": [
+      "\"...He's completely flipped from the pent-up frustration of being unable to participate until this point.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "「受験勉強で抑圧されていた人が、大学生になった途端堕落するパターンと同じなのですよ。」"
+    ],
+    "textEn": [
+      "\"It's just like when a student who felt repressed studying for college entrance exams becomes a degenerate the moment they get in.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「化身じゃない、魔王と言ってもらいたいぜ！！",
+      "そして、俺が抑圧された悪夢の中で手に入れた闇の力は、まさに無限大で無量大数！！"
+    ],
+    "textEn": [
+      "\"This isn't some sort of transformation. I'll have you know I've always been a Demon Lord!!",
+      "And the dark power I obtained during my suppressed nightmare truly knows no bounds!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "俺の俺による俺のために作り出したこの闇の世界では、俺に逆らうことは何人にもかなわぬのだー！！！！」"
+    ],
+    "textEn": [
+      "Within this world of darkness, created by me and for me, there are none who can oppose me!!!!\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「前原さま、最高っす〜〜！！！！！",
+      "その後はバニーさんにコンパニオンに、いえいえ、レオタード姿もいいですねぇ！！"
+    ],
+    "textEn": [
+      "\"Maebara-sama, you're the best~~!!!!!",
+      "How about a bunny girl, or booth babe costu-- no no, a leotard could be good too!!"
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "いやいや！！",
+      "いっそ、みんなお色気全かぁ〜い☆にしちゃうってのはどうでしょう〜〜！！！"
+    ],
+    "textEn": [
+      "No, wait!!",
+      "How about just about making everybody hyper sexy!!!"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "も、もちろん、靴下は残すのでありまっす！！！」"
+    ],
+    "textEn": [
+      "B-But of course, leave the socks on!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…甘いですね圭ちゃん。",
+      "安易に闇の世界を生み出して、「妄想全開スチャラカ万歳！」ってやってしまうと、とある誰かも真の姿を現すことが可能になるのです。",
+      "それはいくらなんでも反則…むが…！！！」"
+    ],
+    "textEn": [
+      "\"...You're so naive, Kei-chan.",
+      "If you carelessly bring about the dark world and fully welcome silly fantasies, a certain somebody will be able to reveal their true form.",
+      "That's simply unfa---hrmph!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ありゃ。",
+      "この後に収録予定の、",
+      "「実録！！　沙都子メイド教育、着せ替え編」の主役は",
+      "降板したいと？」",
+      "お疲れ様会の度に！"
+    ],
+    "textEn": [
+      "\"Oh.",
+      "Then you're saying you want to withdraw from being the lead in",
+      "'Documentary!! Satoko's Maid Training, Dress-up Chapter'",
+      "that we planned on filming after this?\"",
+      "Every. Afterparty."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "常に居残りになって、慰労の一杯にすらありつけなかった俺の",
+      "怒りを、",
+      "恨みを、",
+      "悲しみを！！！"
+    ],
+    "textEn": [
+      "Always being last in the studio, missing every after-recording meal. Witness my",
+      "anger,",
+      "my grudge,",
+      "and all of my sorrow!!"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "今こそ教えてくれるぜえええぇえぇ！！！」"
+    ],
+    "textEn": [
+      "I shall instill it all upon you!!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ちょちょ、",
+      "ちょっと待てよ、",
+      "ここ、",
+      "これはないだろ、",
+      "ズルだろ、",
+      "作品違うじゃねぇか！！！！",
+      "おい、こんなのナシだろ？！？！",
+      "わわ、ちょ、そのデカイのはまずいって！！！",
+      "えぇえ？！"
+    ],
+    "textEn": [
+      "\"Wa-Wa-",
+      "Wait a minute,",
+      "this here,",
+      "there's no way, right,",
+      "that's cheating,",
+      "that's not even the same game!!!!",
+      "Hey, she can't do this, right!?!?",
+      "Wa-wait, you can't use that big one!!!",
+      "Huuuh!?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "は、早すぎるッ？！",
+      "あんた、その動きは絶対人間やめてるだろっ！！！",
+      "ぎゃぎゃぎゃああぁああぁああ！！！！」"
+    ],
+    "textEn": [
+      "T-too fast!?",
+      "Those moves, you've quit being a human!!!",
+      "Gyagyagyaaaaaaaaaaaa!!!!\""
+    ]
+  }
+]

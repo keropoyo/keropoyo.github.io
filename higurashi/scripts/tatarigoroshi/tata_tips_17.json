@@ -1,0 +1,196 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "興宮警察署　指令センター通信記録",
+      "６月２０日２０時８分"
+    ],
+    "textEn": [
+      "Okinomiya Police Station Command Center Transmission Recording",
+      "June 20, 8:08 PM"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「こちら興宮ＰＳ、感度良好でーす。」"
+    ],
+    "textEn": [
+      "\"This is the Okinomiya Security Police, we read you loud and clear.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あー、車両ナンバー照会をお願いします。",
+      "鹿骨、はの４３４４。」"
+    ],
+    "textEn": [
+      "\"Hello, we'd like you to look up a license plate for us.",
+      "Shishibone, H-4344.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「復唱、鹿骨、はの４３４４。",
+      "少々お時間もらいますがよろしいですかー？」"
+    ],
+    "textEn": [
+      "\"Shishibone, H-4344, all right.",
+      "Please give us just a moment to look it up.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「お願いします。」"
+    ],
+    "textEn": [
+      "\"Thank you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ナンバー照会",
+      "鹿骨 はの４３４４",
+      "所有者　ＸＸＸＸ",
+      "（鹿骨市雛見沢村Ｘ丁目ＸＸＸ番地在住）",
+      "車種：　ＸＸＸＸＸＸＸ",
+      "盗難届け：無",
+      "特記事項：特に無し"
+    ],
+    "textEn": [
+      "Number Match",
+      "Shishibone H-4344",
+      "Owner: _____ _____",
+      "(Address: _-____ Hinamizawa Village, Shishibone)",
+      "Vehicle make and model: _____ ______",
+      "Theft reports: None",
+      "Special mentions: Nothing of note"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「興宮ＰＳより大石車どうぞー。",
+      "先ほどのナンバーが判明しましたー。",
+      "……………………大石車どうぞー？",
+      "……………………………大石車、応答願います。"
+    ],
+    "textEn": [
+      "\"Okinomiya Security Police to Ooishi.",
+      "We found the license plate from earlier.",
+      "............Ooishi, do you read?",
+      "...............Ooishi, please respond."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "………………あれ？",
+      "…………電波、悪いのかな…………………。",
+      "……大石車応答ねが………………。」"
+    ],
+    "textEn": [
+      ".........Hmm?",
+      "......Am I getting a bad signal.........?",
+      "...Anyone in Ooishi's car, please re—\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「出ませんね。」"
+    ],
+    "textEn": [
+      "\"Nothing, eh?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「大石さんが車両照会？",
+      "誰の車だよ。」"
+    ],
+    "textEn": [
+      "\"Ooishi-san wanted a license plate check?",
+      "Whose car was it?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「村人の車ですね。",
+      "……至って平凡な。」"
+    ],
+    "textEn": [
+      "\"Someone from the village.",
+      "...A completely average car.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「…何者だよ。",
+      "大石さんが聞いてくるからには、只者じゃないんだろ？」"
+    ],
+    "textEn": [
+      "\"...Who was it?",
+      "If Ooishi-san was asking, then it can't be anyone good, right?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「特記事項欄は完全に空欄ですね。",
+      "Ｓ号指定もなし。",
+      "減点もなしだし。」"
+    ],
+    "textEn": [
+      "\"The special mentions column is completely blank.",
+      "No indication it's related to the S-group, either.",
+      "And no demerits on it.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「…ははは、パッシングでもされて腹が立ったんじゃないの？",
+      "あの人、根に持つとなかなか忘れないタイプなんだよ。」"
+    ],
+    "textEn": [
+      "\"...Hahaha. Maybe it passed him on the road and he got mad.",
+      "That guy isn't the type to forget a grudge.\""
+    ]
+  }
+]

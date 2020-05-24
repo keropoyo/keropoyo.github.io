@@ -1,0 +1,63 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「まさか、バラバラっすか…？！」"
+    ],
+    "textEn": [
+      "\"Could they have been... dismembered...?!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ばっちり黒焦げだそうで。",
+      "あぁ言う臭いってこもるんですよねぇ。",
+      "岐阜さん、可哀想だなぁ。」"
+    ],
+    "textEn": [
+      "\"Completely blackened, it seems.",
+      "Probably smells terrible, too.",
+      "What a shame it is to be Gifu-san.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…ごめん！",
+      "誰かウルトラマイルド、２箱くらい買ってきてくれません？」"
+    ],
+    "textEn": [
+      "...Sorry!",
+      "Could someone go buy me two or so boxes of ultra-mild?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「……今年は見事、見つけましたね。",
+      "…ひょっとすると、過去の失踪者もこんな感じで県外でバラされてたんすかね。」",
+      "このまま岐阜へ直行します！！」"
+    ],
+    "textEn": [
+      "\"...We did an excellent job finding it this year.",
+      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\"",
+      "I'll head straight for Gifu!!\""
+    ]
+  }
+]

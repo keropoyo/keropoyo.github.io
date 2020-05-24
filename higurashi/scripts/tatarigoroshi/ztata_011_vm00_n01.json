@@ -1,0 +1,20 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Cram School Teacher",
+    "labelJp": "塾",
+    "textJp": [
+      "「クレペリン検査とも重ねましたが、その結果、興味深いことがわかりました。"
+    ],
+    "textEn": [
+      "\"We gave him the Kraepelin test as well, and we learned some very interesting things as a result."
+    ]
+  }
+]

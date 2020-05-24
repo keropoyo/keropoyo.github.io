@@ -1,0 +1,4528 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「おはよう圭一。",
+      "………あら？",
+      "昨夜は何時に寝たの？」"
+    ],
+    "textEn": [
+      "\"Morning, Keiichi.",
+      "...My.",
+      "What time did you go to sleep?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今朝の寝起きは最低。",
+      "それはお袋にも一目でわかるものらしい。",
+      "……昨夜の夢見は最低だった。",
+      "悪い夢や縁起でもない夢をいくつもいくつも、代わる代わる見た。",
+      "その度に目を覚ますのだが、……どんな夢を見たのか、微塵も思い出すことはできなかった。",
+      "でも、……それらの夢が何かの不安の暗示のようで、",
+      "…とても嫌な気分だった。",
+      "おいおい…。",
+      "昨日まで…、ずっと平穏で楽しい一日を送ってきたじゃないか。",
+      "…それはこれからも変わらずに続いていくはず…。",
+      "なのに…。",
+      "不安な気持ちだけが募っていく。",
+      "……どうして？",
+      "…悪い夢は自分の不安を表したものだ。",
+      "…うわべの自分が認めない、不安な心を映し出したもの…。",
+      "……………………昨日の、",
+      "…詩音や魅音、レナとした、…悟史を巡る不吉な話を思い出す。",
+      "…そうだ。",
+      "………あの話をしてから、…心を黒雲が覆ってしまったのだ。",
+      "毎日を…穏やかに過せば、その見返りに穏やかな日々が続いていくって。",
+      "…わかってたのに、……何で俺はそれに波風を立てるようなことを。",
+      "…でも、……冷静になって考えれば。",
+      "………俺がしたあの程度の失言で、世の中が変わるなんて、考えられない。",
+      "そうさ。",
+      "…俺がこうしてきっちりと後悔して、二度とあんな話をしなければ、…何も咎められることなんかないはずじゃないか。",
+      "そもそも、…俺がこんな話をしたことで、……どんな運命が変わるって言うんだよ…？",
+      "何も変わるわけがない。",
+      "そうさ。",
+      "変わるわけないんだ。",
+      "変わるわけない、変わるわけない。",
+      "……はははは！"
+    ],
+    "textEn": [
+      "I did not sleep well last night at all.",
+      "My mother could tell from a single glance.",
+      "...I had the worst dreams.",
+      "Nightmares, very ominous dreams, one after the other, again and again.",
+      "I woke up after each one... but could never even remember a fraction of what they had been about.",
+      "But... it was like those dreams were predicting something unpleasant...",
+      "and I woke up in a terrible mood.",
+      "Hey, now...",
+      "Every day... has been calm and fun before today, right?",
+      "...Those days should continue on, unchanging...",
+      "And yet...",
+      "Anxiety was the only emotion growing within me.",
+      "...Why was that?",
+      "...Nightmares reflect your own anxiety.",
+      "...They show an uneasy mind that which you wouldn't admit to normally...",
+      "...............Yesterday...",
+      "I remembered the ominous conversations about Satoshi I had... with Shion, Mion, and Rena.",
+      "...Right.",
+      "......My mind felt like it was in a black fog... because we had talked about that.",
+      "If I... If I'd lived every day without causing a fuss, my reward would be ever more peaceful days.",
+      "...I understood that... so why did I cause such discord?",
+      "...But... now that I thought about it calmly...",
+      "A simple verbal slip on my part couldn't possibly change the world.",
+      "Yeah.",
+      "...As long as I'm sorry for doing it, and never talk about it again... there's nothing that anyone can blame me for, right?",
+      "Besides... how would my fate possibly change... just because I talked about that...?",
+      "Nothing was going to change.",
+      "Yeah.",
+      "Nothing would change.",
+      "Nothing would change, nothing would change.",
+      "...Hahahaha!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「気持ち悪い笑い。",
+      "寝ぼけてるなら顔を洗ってらっしゃい。」"
+    ],
+    "textEn": [
+      "\"That's a creepy smile.",
+      "If you're still half asleep, then go wash your face.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "せっかく景気付けで笑ったのに、お袋にぴしゃりと言われてムッとした。",
+      "もうレナとの待ち合わせの時間までそんなにない。",
+      "大急ぎで学校に行く準備をする。"
+    ],
+    "textEn": [
+      "I'd finally cheered up enough to smile, and Mom slapped me right back down—now I was irritated again.",
+      "There wasn't much time left before I had to meet up with Rena.",
+      "I frantically started to get ready to go to school."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「いってらっしゃい。",
+      "車に気をつけるのよー！」"
+    ],
+    "textEn": [
+      "\"Have a good day.",
+      "Watch out for cars!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「気をつけるほど車もいないよ。",
+      "雛見沢には。」"
+    ],
+    "textEn": [
+      "\"There's barely any cars to watch out for!",
+      "In Hinamizawa, anyway.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "表に飛び出す。",
+      "……洗顔よりもすっきりとさせる朝の空気が満ちていた。",
+      "そうさ、前原圭一。",
+      "充分に後悔して反省したならそれで充分！",
+      "さぁ気を取り直して学校に行こう。",
+      "…そして愉快で楽しい時間を取り戻そう。",
+      "みんなで笑ってはしゃいで大騒ぎして。",
+      "…そして、沙都子にはお詫びの意味も込めて、やさしくしてやろう。",
+      "…そうだよ。",
+      "俺は悟史が帰ってくるまでの、にーにーじゃないか…。"
+    ],
+    "textEn": [
+      "I dashed out the front door.",
+      "...The morning air was far more refreshing than the water on my face.",
+      "That's right, Keiichi Maebara.",
+      "If you're sorry enough about it and reflect upon your mistakes, that's enough!",
+      "Now let's pull yourself together and get to school.",
+      "...And return to fun, enjoyable days.",
+      "Where everyone laughs, plays, and just has a good time.",
+      "...I'll be nice to Satoko as an apology, too.",
+      "...Yeah.",
+      "Wasn't I supposed to be her Nii-nii until Satoshi got back...?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「おはよう！",
+      "圭一くん！」"
+    ],
+    "textEn": [
+      "\"Good morning!",
+      "Keiichi-kun!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "昨日、薄気味悪いことを言ったレナも、今朝はその様子は一切ない。",
+      "…俺さえ忘れていいなら、昨日のことはまだまだ、なかったことにできる。",
+      "…だから、思いっきり元気に言ってやった。"
+    ],
+    "textEn": [
+      "Rena, too, looked nothing like she had yesterday when she said that weird stuff.",
+      "...If I could only forget, then I could still act like nothing had happened.",
+      "...So I called out to her with all the energy I could muster."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おぅ！",
+      "おはようレナ！",
+      "相変わらず早いなぁ！」"
+    ],
+    "textEn": [
+      "\"Hey!",
+      "Morning, Rena!",
+      "Early as usual today!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Young boy",
+    "labelJp": "少年",
+    "textJp": [
+      "「おはよー！」",
+      "「おはよーございまーす！」"
+    ],
+    "textEn": [
+      "\"Morning!\"",
+      "\"Good morning!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "いつもの、朝のホームルームが始まるまでのわずかな時間だったが、",
+      "…珍しいことに、沙都子と梨花ちゃんがいなかった。",
+      "…どこかに遊びに行ってるのかな、",
+      "と思ったが、席には荷物もないところを見ると…本当に登校してきてないようだ。"
+    ],
+    "textEn": [
+      "There was little time before the same old morning homeroom began...",
+      "but Satoko and Rika-chan were unusually absent.",
+      "...Maybe they went to play somewhere?",
+      "However, looking over and seeing none of their things... so it looked like they really hadn't come to school."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…あれれ？",
+      "あの二人が遅刻なんて珍しいね。」"
+    ],
+    "textEn": [
+      "\"...Hmm?",
+      "They're almost never late.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは二人がどんな言い訳をしながら遅刻してくるか、それを想像して楽しんでいるようだった。",
+      "魅音もはちゃめちゃなことを言って、遅刻の理由を滑稽に想像している。",
+      "……元気な沙都子たちを見たら、そんな気持ちも払拭できると思って登校してきただけに、",
+      "……何だか胸のつかえが取れない。",
+      "ちょっと不快な気持ちだった。"
+    ],
+    "textEn": [
+      "Rena seemed to be enjoying herself thinking about what their excuse for being late would be.",
+      "Mion said something nonsensical as well, imagining how funny the reason they were late must have been.",
+      "...I had only come to school to see their energetic faces, since I figured it would get rid of these feelings I have...",
+      "But the load on my chest remained where it was.",
+      "It wasn't very pleasant at all."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「おはようございます皆さん。",
+      "委員長、号令。」"
+    ],
+    "textEn": [
+      "\"Good morning, everyone.",
+      "President, if you would.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「きりーーーーーーーーーつ！」"
+    ],
+    "textEn": [
+      "\"Everybody stand up!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "とうとう先生がやって来た。",
+      "…その時になってようやく、廊下を走るパタパタとした足音が聞こえてくる。",
+      "ガラリ。",
+      "…扉を開けて飛び込んできたのはまず梨花ちゃんだった。",
+      "…そしてそれに続いて沙都子が、",
+      "……………沙都子は、来ない。"
+    ],
+    "textEn": [
+      "Our teacher finally arrived.",
+      "...Then, finally, I heard the pitter-patter of footsteps running down the hall.",
+      "Clatter.",
+      "...Rika-chan was the first to run through the opened door.",
+      "...And then, Satoko...",
+      ".........didn't come."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「遅刻ですよ、古手さん。",
+      "…北条さんはどうしましたか？」"
+    ],
+    "textEn": [
+      "\"You're late, Furude-san.",
+      "...Where's Houjou-san?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんが遅刻することも珍しいが、元気の塊の沙都子が欠席することも珍しい。",
+      "みんなが珍しいこと続きに、目を丸くしている。"
+    ],
+    "textEn": [
+      "It was unusual for Rika-chan to be late, but equally unusual for Satoko, a ball of energy, to be absent at all.",
+      "Everyone's eyes were wide at the series of strange events."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子は、…ちょっと遅れるかもしれないのです。」"
+    ],
+    "textEn": [
+      "\"...Satoko... might be a little bit late.\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「熱でも出ちゃいましたか？」"
+    ],
+    "textEn": [
+      "\"Has she come down with something?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "先生が梨花ちゃんに近寄り、小声でぼそぼそとやり取りしている。"
+    ],
+    "textEn": [
+      "The teacher walked over to Rika-chan and they started talking in hushed tones."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あっははははは！",
+      "梨花ちゃんが遅刻で沙都子が欠席なんて、珍しいこともあるもんだよ。」"
+    ],
+    "textEn": [
+      "\"Ah-hahahahaha!",
+      "Rika-chan is late, and Satoko is absent—I guess crazy things can happen.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね。",
+      "だけど、…沙都子ちゃんどうしたんだろ。",
+      "…風邪、かな？」"
+    ],
+    "textEn": [
+      "\"You're right.",
+      "But... I wonder what happened to Satoko-chan.",
+      "...Is she sick?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………どうして、沙都子の元気な顔が一番見たいこの時に…。",
+      "…昨夜から募っている不安感が、胸中を内側からキシキシと締め付ける。"
+    ],
+    "textEn": [
+      "...Why now, when I most wanted to see Satoko's energetic face...?",
+      "...The unease that had been building since last night tightened within my chest."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんは心配し過ぎ〜！",
+      "年頃の女の子にはね、どうしても体の都合で具合が悪くなっちゃう時があるのー。",
+      "くっくっくっく！」"
+    ],
+    "textEn": [
+      "\"Kei-chan, you worry too much~!",
+      "Sometimes girls of her age can't help but stay home sick.",
+      "Ku-ku-ku-ku!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃん、それ、男の子の前で言うことじゃないよー。」"
+    ],
+    "textEn": [
+      "\"Mii-chan, you're not supposed to say that around boys!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が下品に笑う。",
+      "いつもならそれにつられて俺も笑うところだが、…今朝の俺は、なんとなくそんな気持ちになれなかった。",
+      "ホームルームが終わり、１時限目が始まるまでのわずかな間に、梨花ちゃんに話しかけた。"
+    ],
+    "textEn": [
+      "Mion laughed indecently.",
+      "Normally, I would laugh along with her... but right now, I just didn't feel like it.",
+      "Homeroom ended, and we went to talk to Rika-chan in the short time we had before first period started."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よぅ、梨花ちゃん。",
+      "遅刻して怒られてかわいそかわいそだな〜。",
+      "今日は俺がなでなでしてあげよう。」"
+    ],
+    "textEn": [
+      "\"Hey, Rika-chan.",
+      "You looked so sad, so very sad when getting yelled at for being late~",
+      "I'll make sure to pet you today.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今朝の自分は、自分自身、陰気なことがわかっていたので、明るい口調になるように努める。",
+      "梨花ちゃんの頭を、いつも梨花ちゃんがそうするように撫でてやるが…梨花ちゃんの表情は晴れなかった。"
+    ],
+    "textEn": [
+      "I was very aware of my gloom this morning, so I strove to keep my tone cheerful.",
+      "I petted Rika-chan's head the same way she always did... but she didn't cheer up at all."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー。」"
+    ],
+    "textEn": [
+      "\"...Meep.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…沙都子はどうしたんだ？",
+      "……風邪か…？」"
+    ],
+    "textEn": [
+      "\"...What happened to Satoko?",
+      "...Did she get sick...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "昨日、大はしゃぎし過ぎたので熱が出てしまったのです。",
+      "…そんな風な回答だったら、俺もそこそこに納得するつもりだった。"
+    ],
+    "textEn": [
+      "For instance, she got a fever from playing around too much yesterday.",
+      "...If that had been her response, I would have accepted it in a flash."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "でも、梨花ちゃんの雰囲気がどこか重い。",
+      "……何だか、変で、むしろ俺の不安を煽った。"
+    ],
+    "textEn": [
+      "But the atmosphere around Rika-chan felt somehow heavy.",
+      "...It was a little weird, and actually made my unease worse."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ほらほらほら〜！",
+      "男の子には話せない事情ってのもあるんだから〜！",
+      "圭ちゃんはお席へ戻って戻って〜！」"
+    ],
+    "textEn": [
+      "\"Hey, come on, come on~!",
+      "There's certain things she can't talk to boys about~!",
+      "Kei-chan, back to your seat, back to your seat~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が委員長ヅラして、俺を席まで引っ張っていく。",
+      "……梨花ちゃんはすぐに目線を机の上に戻すと、陰鬱そうにうな垂れるのだった…。",
+      "梨花ちゃんは、沙都子はちょっと遅れるかもしれない…という変わった言い方をした。",
+      "確か…梨花ちゃんは沙都子と一緒に暮らしているはずだ。",
+      "…だったら、遅れるかもしれない、と言った曖昧な言い方にはならないはず。",
+      "よくわからない欠席の理由が…ますます不安を掻き立てていった。",
+      "…くそ、何なんだよ今日は。",
+      "朝から…何だか不愉快な日になりそうだ。"
+    ],
+    "textEn": [
+      "Mion, acting just like a club president, pulled me back to my chair.",
+      "...Rika-chan's gaze immediately fell back to her desk, and she hung her head gloomily...",
+      "Rika-chan had said something odd... that Satoko might be a little bit late.",
+      "They were... living together, weren't they?",
+      "...Then she would have known for sure—she wouldn't have said \"might.\"",
+      "I didn't understand why she was absent... and that made me all the more anxious.",
+      "...Damn it, what's going on today?",
+      "It's like... we started off on the wrong foot, and it wasn't going to get any better."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…どうしたのかな圭一くん。",
+      "今日は何だか朝から元気ないよ？」"
+    ],
+    "textEn": [
+      "\"...What's the matter, Keiichi-kun?",
+      "You seem pretty down this morning.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の様子に気付いたレナが、先生の目を盗んで話し掛けてきた。"
+    ],
+    "textEn": [
+      "Rena noticed how I looked and whispered to me while the teacher wasn't looking."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………そ、そんなに俺、…元気ないか？」"
+    ],
+    "textEn": [
+      "\"......D-Do I really... seem that way?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "見てるレナまで元気がなくなるくらいに。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "Even Rena is starting to feel down just looking at you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "じゃあ見るなよ、なんて軽口を叩こうと思ったが、…そんな気にすらなれなかった。"
+    ],
+    "textEn": [
+      "I thought of jokingly saying \"then don't look at me!\"... but I didn't even feel like doing that."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「レナに話せること？",
+      "…どんな悩みかわからないけど、聞いて力になれることなら、聞くよ…？」"
+    ],
+    "textEn": [
+      "\"Is it something you can tell Rena?",
+      "...I don't know what you're worried about, but if I can help, then you can tell me, okay...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "絶対に茶化さないから。",
+      "そう言って、まっすぐな瞳を向ける。"
+    ],
+    "textEn": [
+      "I won't tease you.",
+      "Rena said this, looking me straight in the eye."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………昨日まで、…何も変なことなんか起きなくて、楽しかったんだ。」"
+    ],
+    "textEn": [
+      "\"......Until yesterday... nothing strange had happened, and it was a lot of fun.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "え？",
+      "レナは何の話か一瞬わからず目を丸くしたが、…黙って俺の話を聞いてくれた。"
+    ],
+    "textEn": [
+      "Huh?",
+      "Rena's eyes widened for a moment, not understanding what I meant... but she remained silent and listened."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「穏やかで楽しくて。毎日が賑やかで。",
+      "…そんな毎日が繰り返されることに、何の不安もなかった。」"
+    ],
+    "textEn": [
+      "\"It was peaceful and fun. Every day was lively.",
+      "...I never had any doubt things would stay that way forever.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………うん。",
+      "そうだね。",
+      "毎日楽しいよ。",
+      "きっと今日も楽しくなる。」"
+    ],
+    "textEn": [
+      "\"......Yeah.",
+      "You're right.",
+      "Every day is fun.",
+      "I'm sure today will be, too.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……絶対にそうなるって、自信が持てるか？」"
+    ],
+    "textEn": [
+      "\"...You're sure? How do you know?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「え、…っと。",
+      "…………………。」"
+    ],
+    "textEn": [
+      "\"Umm... well.",
+      "............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが困惑し、言葉を詰まらせる。",
+      "無理もない。",
+      "………俺自身、何を言おうとしているのか、…ちょっと混乱しかけているのだから"
+    ],
+    "textEn": [
+      "Rena, feeling perplexed, couldn't think of something to say.",
+      "I didn't blame her.",
+      "...What I was trying to say... seemed a little confusing, even to me."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……思えば、…ここ最近、不安だったんだ。",
+      "……毎日が楽しいからこそ、ある日ふっと、……電球が切れるみたいに、突然。",
+      "…真っ暗になってしまうんじゃないか、って。」"
+    ],
+    "textEn": [
+      "\"...When I think about it, I've been anxious lately.",
+      "...Like maybe, since every day is fun, one day... all of a sudden...",
+      "it would get really dark, like a light bulb turned off.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……うん。",
+      "…その気持ち、ちょっぴりレナもわかるよ。」"
+    ],
+    "textEn": [
+      "\"...Yeah.",
+      "...Rena kind of understands how you feel.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはやさしく頷いてくれた。"
+    ],
+    "textEn": [
+      "Rena nodded gently."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…私たちはいい事ばかりは続かないって、…ずーっと教えられてきたから。"
+    ],
+    "textEn": [
+      "\"...We've always been taught... that it wouldn't only be good things happening to us."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "…楽しいことの裏側を時々恐れるよね。",
+      "それってちょっぴり悲しいことだけど…。",
+      "でも、そのお陰で、私たちは楽しい毎日がずーっと続くように、努力することを覚えたんだよ。」"
+    ],
+    "textEn": [
+      "...Sometimes I'm scared of what's going on behind the fun.",
+      "It's a little bit sad, but...",
+      "But because of that, we learned how to do our best to make sure that the fun never stops.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……そうだな。」"
+    ],
+    "textEn": [
+      "\"...I see.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「だから、圭一くんが楽しい日々がいつまでも続かないかもしれないって思うのは、決して悪いことじゃないと思うよ。",
+      "……例えば、……うん。",
+      "明日突然、火山が大爆発して、私たちが全員死んじゃうとする。」"
+    ],
+    "textEn": [
+      "\"So it's not a bad thing that you think our fun lives might not go on forever, Keiichi-kun.",
+      "...Kind of like... Mm.",
+      "Like if suddenly there was a volcanic eruption tomorrow and everyone died.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おいおい…、物騒な話だな…。」"
+    ],
+    "textEn": [
+      "\"Hey, wait... That's terrible!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「例えば、その大災害を圭一くんだけが生き残ったとしたら、…どう感じる？」"
+    ],
+    "textEn": [
+      "\"If you were the only one who survived the catastrophe, Keiichi-kun... how would you feel?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…どうって、………………ん…。」"
+    ],
+    "textEn": [
+      "\"...How would I.........hmm...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……廃墟となった雛見沢に、自分だけが生き残っているところを想像する。",
+      "……足元には瓦礫と仲間の体が累々と横たわる。",
+      "……あまりにおぞましい光景だった。",
+      "仲間がみんな死んでしまったことが悲しいのか。",
+      "それとも自分だけみんなと一緒に死ねなかったのが悲しいのか。",
+      "…どちらかわからないけど、……きっと涙があふれ出す。"
+    ],
+    "textEn": [
+      "...I imagined myself being that sole survivor in the ruins of Hinamizawa.",
+      "...Rubble and the bodies of friends lying in heaps at my feet.",
+      "...It was such an abhorrent sight.",
+      "Was it sadder that all my friends had died?",
+      "Or was it sadder that I couldn't have died with them?",
+      "...I didn't know which...... but I'd probably cry a lot."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…胸が張り裂けるだろうな。",
+      "……まず、…泣くと思う。」"
+    ],
+    "textEn": [
+      "\"...It'd probably break my heart.",
+      "...First... I think I'd cry.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そしてこう思うんじゃないかな？"
+    ],
+    "textEn": [
+      "\"And then maybe you would think this."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "こうなることが運命だったなら、昨日までの日を、もっともっと楽しく、悔いなく過せばよかった、って。」"
+    ],
+    "textEn": [
+      "If this was my destiny, then I should have made sure every day before this was as fun as possible, so I had no regrets.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……そんな悲惨な出来事を運命だなんて思いたくはない。",
+      "…でも、",
+      "………………。"
+    ],
+    "textEn": [
+      "...I didn't want to consider such a horrible event to be my destiny.",
+      "...But...",
+      "..............."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………………思うだろうな…。」"
+    ],
+    "textEn": [
+      "\"..................I probably would think that...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「楽しい毎日がいつか終わるものなら、それがいつかなんて誰にもわからない。",
+      "だったら、例え明日そうなっても悔いがないように、精一杯楽しく生きるのが正解じゃないのかな。」"
+    ],
+    "textEn": [
+      "\"The fun times will end one day, and nobody knows when they will.",
+      "It makes sense to live each day to the fullest so that if it does happen tomorrow, you don't regret anything.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………そう、だな。」"
+    ],
+    "textEn": [
+      "\".........Yeah.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「それに気付くのはとても難しいこと。",
+      "…多くの人たちは日々の幸せに飽食してるよ。"
+    ],
+    "textEn": [
+      "\"It's really hard to think like that.",
+      "...A lot of people take their everyday happiness for granted."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "今日と同じ明日が訪れると信じきってるから、今日できることを明日に送る。",
+      "今日してやれるやさしさを、明日に送ってしまう。」"
+    ],
+    "textEn": [
+      "They think tomorrow will be the same as today, so they leave things they could do today for tomorrow.",
+      "They leave the kindness they could have shown today until tomorrow.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……いつもの、明るくてふざけているレナの雰囲気はまったくない。",
+      "…レナは、俺の悩みに真剣になってくれていた。",
+      "…それが、少しだけ心強い。"
+    ],
+    "textEn": [
+      "...Rena was usually cheerful and silly, but right now she wasn't like that at all.",
+      "...She was taking my troubles seriously.",
+      "...It was a little reassuring."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でも圭一くんはそれに気付けた。",
+      "…それはとても素敵なことだと思う。",
+      "だから、その不安な気持ち、…大切にしてもいいと思うの。」"
+    ],
+    "textEn": [
+      "\"But Keiichi-kun, you realized it.",
+      "...I think that's a wonderful thing.",
+      "So that unease you have... I think you should keep it close to your heart.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……この不安を、…大切に…？」"
+    ],
+    "textEn": [
+      "\"...Keep my unease... close...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そう。",
+      "…明日には大災害でみんな死んじゃうかもしれない。",
+      "…だから今日、みんなにいっぱいやさしくしよう。",
+      "………本当に終末が訪れた時、…後悔しないために。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "...Everyone might die tomorrow in a big catastrophe.",
+      "...So you should be really nice to everyone today.",
+      "......So when the end really does come... you don't regret it.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…レナは実践してるのか…？",
+      "明日、みんなが死んじゃっても後悔しないようにさ。」"
+    ],
+    "textEn": [
+      "\"...Do you do that, Rena...?",
+      "Live like you would have no regrets if everyone died tomorrow?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。」"
+    ],
+    "textEn": [
+      "\"Yep.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…こんなにも大仰な話なのに。",
+      "レナは事も無げに頷いて見せた。"
+    ],
+    "textEn": [
+      "...It was such a hyperbolic conversation,",
+      "but Rena just gave me a nonchalant nod of her head."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…レナは、…楽しい毎日がたった一日を境に終わってしまうことを知ってるから。",
+      "今日が楽しくても、明日も楽しい保証なんかないって知ってるから。",
+      "…生きてるよ。",
+      "精一杯。」"
+    ],
+    "textEn": [
+      "\"...Rena knows... what it's like for the fun times to end overnight.",
+      "She knows there's no proof tomorrow will be fun, even if today is.",
+      "...I'm living...",
+      "life to the fullest.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………………俺の、うまく言葉にできない不安を、レナは全てわかってくれてるようだった。",
+      "…その上で、…あまりに頼もしく道を示してくれた。",
+      "……う。",
+      "………おいおい前原圭一、…涙を溜める必要なんかないだろ…。"
+    ],
+    "textEn": [
+      ".........It seemed like Rena perfectly understood all the anxiety I couldn't put into words.",
+      "...And on top of that... like a reliable teacher, she showed me what to do.",
+      "...Ooh.",
+      "......Hey, Keiichi Maebara... There's no need to cry now..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……昨夜、…………沙都子の夢を見た気がするんだ。",
+      "…どんな夢だったかは思い出せないけど、………朝からずっと、…不安で……。」"
+    ],
+    "textEn": [
+      "\"...Last night...... I feel like I had a dream about Satoko.",
+      "...I don't remember what kind of dream it was...... but ever since this morning, I've felt... anxious...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「沙都子ちゃんの元気な顔を見れたら安心するつもりだった…。",
+      "……かな？」"
+    ],
+    "textEn": [
+      "\"Because... you thought seeing Satoko-chan's energetic face would cheer you up.",
+      "...Right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…まったくの図星だった。",
+      "今朝、全員が笑顔でそろうことができたなら、",
+      "俺の胸の中のもやもやなど、吹き飛ばすように消せたに違いない。"
+    ],
+    "textEn": [
+      "...She was right on the money.",
+      "If everyone had been here with smiles on their faces this morning,",
+      "then the murk in my heart would have definitely been blown to smithereens."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…じゃあ、…沙都子ちゃんが来たら、やさしくしてあげることだね。",
+      "うぅん、いつもの悪ふざけでも一向に構わない。",
+      "楽しく過すことが出来るなら。」"
+    ],
+    "textEn": [
+      "\"...Then... if Satoko-chan arrives, you'll have to be nice to her.",
+      "Actually, it's totally fine if you play your usual pranks on each other.",
+      "As long as you're having fun.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………そうだな。」"
+    ],
+    "textEn": [
+      "\".........Yeah, you're right.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……楽しい日々が、…いつ終わっても悔いないように。",
+      "レナの話は結局、俺を慰めてくれたのかかえって不安にさせたのか、わからない。",
+      "でも、……沙都子に会えたら、…素直な言葉をかけてやろうと思わせるには充分だった。",
+      "みんなで机を寄せ合っていつものお昼の時間を迎える。",
+      "…沙都子はいない。",
+      "……にも関わらず、机の上には５人分の弁当箱が並んでいた。",
+      "…梨花ちゃんが沙都子の分の弁当箱も用意したからだ。"
+    ],
+    "textEn": [
+      "...So that even if these fun days came to an end... I'd have no regrets.",
+      "I couldn't tell if what Rena told me had been comforting or just made me more anxious.",
+      "But...... it was enough to make me think that if I saw Satoko again... I'd be honest with her.",
+      "Lunchtime arrived, with everyone pushing their desks together like always.",
+      "...Satoko wasn't here.",
+      "...Despite that, we had bento boxes for five lined up on our desks.",
+      "...Rika-chan had made a bento for Satoko too."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…沙都子、お昼までには来るはずだったの？」"
+    ],
+    "textEn": [
+      "\"...Was Satoko supposed to be here before lunch?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\"..................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんの様子は明らかに変だった。",
+      "……俺たちが話しかけても、…遠くて届かない。",
+      "…そんな感じだった。",
+      "…こんなに元気のない梨花ちゃんは初めてだ。",
+      "…だから、…自然に俺たちも元気をなくしていった。",
+      "なぁレナ…。",
+      "俺はさっきのレナの話を充分に理解した。",
+      "…だから、みんな揃ったら、いつ世界が滅びても後悔しないよう、精一杯楽しくやるつもりだ。",
+      "………なのに。",
+      "……そう決意したばかりなのに、みんなが揃えないなんて、…ありかよ…。",
+      "…だって、……あまりにも突然じゃないか。",
+      "だって…、楽しかった昨日が今日からはぷっつりと終わってるなんて…、信じられるかよ？",
+      "……火山も爆発してないし、地震もなければ火事もないんだぞ？！",
+      "昨日までと同じようにセミが鳴いてるし、お日様だって照ってる。",
+      "まったく変わらない日常なんだ。",
+      "……なのに、……なんで…。",
+      "そんな俺の鼻先ににゅーっとレナの箸が伸びてきて、俺の弁当箱のから揚げを奪った。"
+    ],
+    "textEn": [
+      "Rika-chan was clearly acting strangely.",
+      "...We were talking to her... but it felt like...",
+      "she was too far away to hear us.",
+      "...I'd never seen Rika-chan so downcast.",
+      "...So... the rest of us started feeling down too.",
+      "Hey, Rena...",
+      "I understood what she had said before pretty well.",
+      "...When we were together, we were supposed to have lots of fun so we wouldn't have any regrets if the world ended tomorrow.",
+      "......And yet....",
+      "While I'd just resolved myself to do it, now we can't all be together... What the hell...?",
+      "...Because... because it was just so sudden, wasn't it?",
+      "I mean... yesterday was fun, so who could believe... it would all end today?",
+      "...No volcanoes had erupted, and no earthquakes or fires had happened either!",
+      "The cicadas were making the same noises they did yesterday, and the sun remained bright in the sky.",
+      "It was the same normal day as always.",
+      "...So then... why...",
+      "As I pondered, Rena's chopsticks reached in front of my face and stole the fried chicken out of my bento."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「みんなが取らないから、レナがもらうね！",
+      "うふふふ、おいし！」"
+    ],
+    "textEn": [
+      "\"If no one else wants it, Rena will take it!",
+      "Heehee, delicious!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナがから揚げを丸ごと口に放り込むと幸せそうにもしゃもしゃと頬張り始めた。"
+    ],
+    "textEn": [
+      "Rena tossed the entire piece into her mouth and began munching on it, her expression one of bliss."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…っと、おじさんとしたことが。",
+      "レナに先制を許すとはね！",
+      "よっしゃ！",
+      "おじさんはこのプチハンバーグをもらうよー！」"
+    ],
+    "textEn": [
+      "\"...Tch, I'm such an old man!",
+      "Rena got a leg up on me!",
+      "All right!",
+      "This old man's taking this bit of steak here!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー！　ボクのおかずがなくなってしまうのです。」"
+    ],
+    "textEn": [
+      "\"...Meep! All my food is gone except my rice.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんも遅れて、笑顔を取り戻し、誰かの弁当箱を突っつき出す。",
+      "みんなの切り替えの早さに呆然としていると…、",
+      "レナがウィンクを寄越してきた。",
+      "（ほら、圭一くん。",
+      "精一杯楽しく過ごそ！",
+      "明日、火山が爆発してもいいように☆）"
+    ],
+    "textEn": [
+      "Rika-chan, also behind the curve, smiled again and went for someone else's bento.",
+      "As I sat there, dazed at how quickly everyone had changed...",
+      "Rena sent a wink over to me.",
+      "(Come on, Keiichi-kun.",
+      "Live life to the fullest!",
+      "That way, if a volcano erupts tomorrow, it'll be okay☆.)"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じょ、冗談じゃねぇ。",
+      "…最後の弁当が梅干とご飯だけになってたまるか！",
+      "それ、俺はミートボールを頂くぞ！」"
+    ],
+    "textEn": [
+      "\"T-This is serious!",
+      "...I'll be damned if dried plums and rice are the only things I have left for lunch!",
+      "I'm taking that meatball!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "頬の筋肉を突っ張らせて、ぎこちない笑顔を作って見せる。",
+      "自分を騙すかのように、はしゃいで見せる。",
+      "……でもそうしてる内にだんだん、それは演技ではなくなってきた。",
+      "沙都子は相変わらずいないけど、",
+      "……いつの間にか、いつものお昼の賑やかさを取り戻している。",
+      "はしゃぎ、",
+      "笑い、",
+      "ふざけて。",
+      "…みんな、ありがとう。",
+      "きっとこれが一番正しい。",
+      "沙都子がひょっこりとやって来た時、最高の笑顔の俺たちで迎えてやるために。",
+      "笑えば笑うほど、朝からあった不安は拭い去られる気がした。"
+    ],
+    "textEn": [
+      "I stuffed the meat into my mouth and constructed a clumsy smile.",
+      "I played along, as if trying to fool myself.",
+      "...But as I did, it rapidly became less and less of an act.",
+      "Satoko still wasn't here...",
+      "but at some point, we had regained our lively lunchtime.",
+      "We had fun,",
+      "we smiled,",
+      "and we fooled around.",
+      "...Thanks, everyone.",
+      "This was definitely the best thing to do.",
+      "This way, when Satoko suddenly dropped by, we could welcome her with our best smiles.",
+      "The more I smiled, the more I felt the anxiety from this morning clearing away."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「笑う門に福来る、ってコトワザ、あったよな。」"
+    ],
+    "textEn": [
+      "\"Wasn't there a proverb that went something like 'fortune comes in by a merry gate'?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あるねぇ。",
+      "それが事実ならおじさんは四六時中笑い転げてるよ。」"
+    ],
+    "textEn": [
+      "\"I think so.",
+      "If it's true, then this old man will roll around the floor laughing twenty-four seven!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「レナは本当だと思うな。",
+      "毎日笑ってれば、毎日が楽しいよ。」"
+    ],
+    "textEn": [
+      "\"Rena thinks it's true.",
+      "If you laugh every day, it'll be fun every day.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………レナがいい事をいいますです。」"
+    ],
+    "textEn": [
+      "\"......Rena has a way with words.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ、…試してみるか？」"
+    ],
+    "textEn": [
+      "\"Then... should we try it out?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "全員が息を潜め、肩を抱くように顔を寄せ合う。",
+      "……それから、"
+    ],
+    "textEn": [
+      "Everyone took a deep breath, then brought their faces together, locking shoulders.",
+      "...And then,"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Club Members",
+    "labelJp": "部活メンバー",
+    "textJp": [
+      "「「「わーっはっはっはっはっはっはっは…！！！」」」"
+    ],
+    "textEn": [
+      "\"\"\"Wahh-ha-ha-ha-ha-ha-ha-ha-ha...!!!\"\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お腹の底から、みんなで大笑いした。",
+      "…お腹の底にたまった嫌なものを、笑いと一緒に全部吐き出すつもりで。",
+      "弁当箱が空になる頃には、もういつも通りのみんなだった…。",
+      "みんなで談笑していると、富田くんと岡村くんがやって来て、おずおずと話し掛けてきた。"
+    ],
+    "textEn": [
+      "Everyone laughed uproariously from their stomachs...",
+      "trying to laugh out all of the bad stuff accumulating in them.",
+      "By the time our bento boxes were empty, everyone was right as rain...",
+      "Having heard our friendly banter, Tomita-kun and Okamura-kun walked up and timidly spoke to us."
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「…あのぅ、……前原さん。",
+      "楽しくお話中、申し訳ないんですけど…。」"
+    ],
+    "textEn": [
+      "\"...Excuse me... Maebara-san.",
+      "Sorry to interrupt your fun, but...\""
+    ]
+  },
+  {
+    "color": "#7a7e7d",
+    "labelEn": "Okamura",
+    "labelJp": "岡村",
+    "textJp": [
+      "「ちょっとお力をお借りしたくて…。」"
+    ],
+    "textEn": [
+      "\"We need your help with something...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "二人して苦笑いをしながら頭を掻く。"
+    ],
+    "textEn": [
+      "They grinned dryly and scratched their heads."
+    ]
+  },
+  {
+    "color": "#7a7e7d",
+    "labelEn": "Okamura",
+    "labelJp": "岡村",
+    "textJp": [
+      "「…え、えぇ？！",
+      "そうなんですか…？！」"
+    ],
+    "textEn": [
+      "\"...Wait, what?!",
+      "Seriously...?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そうじゃないだろ、と富田くんが岡村くんを肘で小突く。"
+    ],
+    "textEn": [
+      "\"That's not what we're here for!\" said Tomita-kun, elbowing Okamura-kun."
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「あの、実はですね。",
+      "…ボールが２階の雨どいに引っ掛かっちゃったんですよ。",
+      "前原さんなら、身長高いから何とかなるんじゃないかと思って…。」"
+    ],
+    "textEn": [
+      "\"Umm, actually...",
+      "Our ball got caught in the gutter on the second floor.",
+      "We were thinking you might be able to reach it since you're tall...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ほぅ。",
+      "先輩にものを頼むからには何か見返りがあるんだろうなぁ？",
+      "俺は高いぜー？",
+      "簡単に買収できると思うなよ〜？」"
+    ],
+    "textEn": [
+      "\"I see.",
+      "Asking an upperclassman for help comes with its own price, you know.",
+      "I'm not cheap!",
+      "You can't buy me out so easily~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富田くんと岡村くんはしばらく相談の後、こう答えた。"
+    ],
+    "textEn": [
+      "Tomita-kun and Okamura-kun conversed for a short time, then gave their reply."
+    ]
+  },
+  {
+    "color": "#7a7e7d",
+    "labelEn": "Okamura",
+    "labelJp": "岡村",
+    "textJp": [
+      "「では、前原さんには授業中に居眠りができる権利を与えましょう。",
+      "それでどうです？」"
+    ],
+    "textEn": [
+      "\"We'll give you the right to take a nap during class, Maebara-san.",
+      "How does that sound?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……なんだそりゃ。",
+      "授業中に寝るのは俺の勝手だろ。",
+      "何でお前らに権利をもらわなくちゃならんのだ。」"
+    ],
+    "textEn": [
+      "\"...What do you mean?",
+      "I can sleep during class whenever I want.",
+      "Why do I need your permission for it?\""
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「そんなことないっすよー？",
+      "今後は前原さんが居眠りしたら、全部先生に言いつけることにしますから。」"
+    ],
+    "textEn": [
+      "\"Oh, no you can't.",
+      "The next time you take a nap, we'll tell Sensei about it.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「わーっはっはっはっはっは！！",
+      "なるほど、うまいうまい！」"
+    ],
+    "textEn": [
+      "\"Wah-ha-ha-ha-ha-ha!!",
+      "I see! How sly!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「こ、こいつら〜〜！！",
+      "とんでもない交渉の仕方覚えやがってぇえぇ！！",
+      "がるるるる！！」"
+    ],
+    "textEn": [
+      "\"Y-You little~~!!",
+      "Where did you learn to bargain like that?!",
+      "Grrrrr!!\""
+    ]
+  },
+  {
+    "color": "#7a7e7d",
+    "labelEn": "Okamura",
+    "labelJp": "岡村",
+    "textJp": [
+      "「すすす、すみません…！！",
+      "ちょちょ、ちょっとした冗談っす…！！」"
+    ],
+    "textEn": [
+      "\"S-S-S-S-Sorry...!!",
+      "I-It, it was just a little joke...!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ほらほら圭ちゃん〜？",
+      "大人しく後輩たちの脅迫に屈したらぁ？",
+      "くっくっく！」"
+    ],
+    "textEn": [
+      "\"Come on, Kei-chan~!",
+      "Why not just cave in to your underclassmen's threats?",
+      "Ku-ku-ku!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音め、ムカつくことを言いやがって…。",
+      "ピンと来て、富田くんと岡村くんの手を取る。"
+    ],
+    "textEn": [
+      "And now Mion was getting on my nerves...",
+      "Suddenly, it came to me—and I took Tomita-kun and Okamura-kun's hands."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わかった、俺の降参だ。",
+      "ボールを取ってやるから、居眠りの権利を俺にくれ。」"
+    ],
+    "textEn": [
+      "\"All right, I surrender.",
+      "I'll get your ball for you, so give me all the rights to naptime.\""
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「へ…？",
+      "え、えぇ、まぁ……。」"
+    ],
+    "textEn": [
+      "\"Huh...?",
+      "O-Oh, okay...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「見ろ魅音。",
+      "俺はちゃんと権利をもらったぞ。",
+      "でもお前はもらってないよな。",
+      "…富田くん、岡村くん。",
+      "魅音が居眠りしたらすぐにチクれ。",
+      "いいな！！」"
+    ],
+    "textEn": [
+      "\"Look, Mion.",
+      "I now have the privilege.",
+      "But you don't, do you?",
+      "...Tomita-kun, Okamura-kun.",
+      "Tell on Mion as soon as she falls asleep.",
+      "Got it?!\""
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「「うぉおーっす！！」」"
+    ],
+    "textEn": [
+      "\"\"Yeah!!\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナと梨花ちゃんが、圭一くんの勝ちだねとケラケラ笑う。",
+      "ボールは……どうやったらああもうまく引っ掛かるのか、見事に校舎２階の雨どいに引っ掛かっていた。"
+    ],
+    "textEn": [
+      "Rena and Rika-chan began to cackle at \"Keiichi-kun's victory.\"",
+      "I... wasn't sure how the ball managed to get stuck up there, but it was planted firmly in the school building's second floor gutter."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「その棒を貸せ。",
+      "俺なら多分、届く。",
+      "………よいしょ、",
+      "っと…！」"
+    ],
+    "textEn": [
+      "\"Hand me that stick.",
+      "I should be able to reach it.",
+      "......Here we go...",
+      "Urgh...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "竹棒で引っ掛かったボールを突っつく。",
+      "……くそ、固いぞ！",
+      "よっと！！"
+    ],
+    "textEn": [
+      "I took a bamboo pole and poked the ball with it.",
+      "...Damn, it's hard!",
+      "Come on!!"
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「あ、取れた！",
+      "取れましたよ前原さん！",
+      "どうもありがとうございましたー！！」"
+    ],
+    "textEn": [
+      "\"Oh, he got it!",
+      "You got it, Maebara-san!",
+      "Thank you so much!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ボールは雨どいを転がり、校舎の裏手の方に落ちていった。",
+      "後輩たちがそれに向かって走っていく。",
+      "俺は一人取り残されてしまった。",
+      "…これで任務完了かな？",
+      "やれやれ。",
+      "まだ昼休みは長い。",
+      "教室へ戻るか。",
+      "みんなと他愛ない話に花を咲かせながら午後の授業を待とう。",
+      "そう思い、昇降口へ向かおうとした時、",
+      "……突然話しかけられた。"
+    ],
+    "textEn": [
+      "The ball rolled down the gutter and fell down behind the school building.",
+      "My underclassmen ran over in that direction.",
+      "Leaving me by myself.",
+      "...Mission complete, I guess.",
+      "Sheesh.",
+      "There was still a lot of time left until lunch break was over.",
+      "Guess I should go back to the classroom.",
+      "I'd absorb myself in a silly conversation with everyone and wait for afternoon classes.",
+      "Just when I thought that and turned towards the entrance...",
+      "someone suddenly called out to me."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Middle-Aged Man",
+    "labelJp": "中年男",
+    "textJp": [
+      "「どうもどうも、こんにちは。",
+      "お昼休み中、すみませんねぇ。」"
+    ],
+    "textEn": [
+      "\"Hello there—good day.",
+      "Sorry for bothering you during your lunch break.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…知らない中年男だった。",
+      "…いや、ひょっとすると何度かすれ違って、顔を見ているかもしれないが、……知らない男だった。",
+      "そいつが、にぃっとさらに深く笑った時、……俺の心の奥底が、",
+      "……ぞぉっと震えた。",
+      "……………根拠なんかない。",
+      "理由もない。",
+      "………でも、…ぞっとした。",
+      "その感情の正体は自分でもよくわからず、…自らの感情にしばし困惑する。",
+      "でも、ひとつ言えることがある。",
+      "……学校は先生と生徒以外がいるべきところじゃない。",
+      "……コイツはいてはいけないやつだ。",
+      "それは戦慄というよりは……、額の上に、毒々しいくらいに派手な彩りをした毛虫が這うような…ぞわぞわした感覚。",
+      "……ちりちりぞわぞわした毛が額をこする、かゆいとも気持ち悪いともつかない…嫌悪感。",
+      "……顔すら見たくない。",
+      "飛びのいて逃げたくなる。",
+      "……そんな理屈すらない、……嫌な気持ち。",
+      "もうひとりの自分に自問する。",
+      "……おいおい、初対面なのに、俺は何を嫌がってるんだよ…？",
+      "理由もなく人を嫌がるなんて、失礼じゃないか。",
+      "…自分の中のもうひとりの自分は、答えない。",
+      "……押し黙り、じっとりとした脂汗を額に浮かべさせるだけだった…。",
+      "そんな様子を見て、大石は、自分が威圧してしまってるんではないかと思い、弛緩した笑顔を浮かべた。"
+    ],
+    "textEn": [
+      "...It was a middle-aged man I didn't know.",
+      "...Or maybe I'd passed by him a few times, and I'd seen his face... but I didn't know him.",
+      "When his half-smile deepened... something within me...",
+      "shuddered with fear.",
+      "......There was no basis for that.",
+      "No reason.",
+      "......But... I shuddered.",
+      "I was somewhat confused about those emotions... not quite understanding them myself.",
+      "There was one thing I could say, though.",
+      "...Nobody but teachers and students should be at school.",
+      "...This person shouldn't have been here.",
+      "I felt less of a tremble... and more of a sense of dread... like a brilliantly-colored, poisonous caterpillar were crawling across my forehead.",
+      "...A feeling of disgust... that neither \"itchy\" nor \"gross\" could describe as the frizzly, dreadful hair rubbed against my brow.",
+      "...I didn't even want to see his face.",
+      "I wanted to jump backwards and run away.",
+      "...An unpleasant feeling... for which I didn't even know the cause.",
+      "The other side of myself has nothing but questions.",
+      "...Hey, what are you doing? What are you disgusted by? This is the first time you've met him.",
+      "It's rude to hate someone for no reason.",
+      "...No answers were coming.",
+      "...I held my silence, waiting, a damp sweat running down my forehead...",
+      "When he saw that, Ooishi thought maybe he was being intimidating, and gave me a relaxed smile."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…あぁ、失礼しました。",
+      "怪しい者じゃあないんですよ？",
+      "んっふっふ。私、興宮警察署から参りました、大石と申します。",
+      "……あれ、手帳どこかな。",
+      "…えぇと。",
+      "……あれ？",
+      "あれ？",
+      "……参ったな？",
+      "ありゃ？」"
+    ],
+    "textEn": [
+      "\"...Oh, please, excuse me.",
+      "I'm no one suspicious, I assure you.",
+      "Nfu-fu. I'm Ooishi—from the Okinomiya police department.",
+      "...Wait, where did I put my card?",
+      "...Hmm.",
+      "...Huh?",
+      "What?",
+      "...This is...",
+      "What?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "小脇の上着のポケットをいくつかまさぐり、ようやく警察手帳を見つけ出して苦笑いしながら見せてくれた。",
+      "…そのまぬけそうな仕草で俺の不安を取り除くつもりだったのかもしれないが、少なくとも、それは果たせていないようだった。",
+      "……どうして俺は、こんなにも緊張を…？",
+      "理由は、あった。",
+      "昨日までと同じ今日が続くことを願うなら、…昨日までいなかった男が現れる必要などない。",
+      "……昨日いなかった男が現れたということは、……今日が昨日までの日々と違う日であることになる。",
+      "…それは、",
+      "……昨日までの楽しい日々が、昨日を境に終わってしまったことを指すから……。",
+      "ごくりと唾を飲み込み、そんな不吉な答えを掻き消す…。",
+      "落ち着けよ前原圭一…。",
+      "警察から来たというこのスケベそうな親父の登場だけで、楽しい日々が終わるなんて決め付けるのはよせ…。",
+      "……こいつは仕事でここに来ただけだ。",
+      "…そう、仕事で来ただけ……。",
+      "仕事で来たなら、…そう、普通は職員室へ行くよな。",
+      "…俺に話し掛けてきたのは、…そう、職員室がどこにあるかを聞くために違いない。"
+    ],
+    "textEn": [
+      "He fished through various pockets, then finally found his police ID and showed it to me, grinning dryly.",
+      "...He may have been trying to use those clumsy-seeming actions to ease my anxiety, but I could definitely say it didn't work.",
+      "...Why was I this nervous...?",
+      "There was a reason, of course.",
+      "If I wanted today to be the same as before... then today didn't need someone who hadn't been here back then.",
+      "...The fact that a man who wasn't here yesterday showed up today... meant that today would be a different day than those before it.",
+      "...That would...",
+      "mark the end of the fun and happy days...",
+      "I gulped and erased that ominous conclusion from my mind...",
+      "Calm down, Keiichi Maebara...",
+      "It's just an old guy, who looks kinda perverted and came from the police department—don't go deciding that the fun times are over...",
+      "......He just came here because of his job.",
+      "...Yeah, just for his job...",
+      "If he's working... then he would normally go to the teacher's lounge, right?",
+      "...The fact that he spoke to me... yes, it must have been to ask where it was."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…職員室をお探しですか？",
+      "なら、あそこの昇降口から入って、」"
+    ],
+    "textEn": [
+      "\"...Are you looking for the teacher's lounge?",
+      "You just have to go through the entrance and—\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "この男と一分一秒でも向かい合っていたくなくて、俺は勝手に話を切り出し、進めていく。",
+      "……だが大石は、職員室の話には何の興味もないようだった。"
+    ],
+    "textEn": [
+      "I didn't want to look at this man for another second, so I started pushing things along.",
+      "...Ooishi, however, didn't seem to have any interest in the teacher's lounge."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あぁ、いえいえ。",
+      "職員室にはそんなに用事はないんです。",
+      "それより、お友達を呼んでもらいたいんですが、お願いできますかねぇ。",
+      "んっふっふ！」"
+    ],
+    "textEn": [
+      "\"Oh, no.",
+      "I don't have anything to do there.",
+      "Could I get you to call a friend of yours, if I may be so bold?",
+      "Nfu-fu-fu!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……お友達？",
+      "誰です？」"
+    ],
+    "textEn": [
+      "\"...A friend?",
+      "Who?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「女の子です。",
+      "……北条沙都子さんを呼んで来てもらえませんか？」"
+    ],
+    "textEn": [
+      "\"A girl.",
+      "...Could you call Satoko Houjou-san for me?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ふー…っと、意識が遠のく。",
+      "…まるで、貧血を起こすみたいに…ふーっと…。",
+      "そう。",
+      "………………不安が、",
+      "……的中する。",
+      "ぞわぞわした…気持ち悪い毛虫が、……俺の耳から入り込もうと…伺っている。",
+      "ちりちりぞわぞわした毛が…耳の穴の淵に触れている………。",
+      "そんな、嫌な感じ…。"
+    ],
+    "textEn": [
+      "My consciousness grew faint.",
+      "...Like I was about to pass out...",
+      "Yes.",
+      "...............My anxiety...",
+      "was realized.",
+      "The dreadful... disgusting caterpillar... was looking at me... about to crawl into my ear.",
+      "Its frizzly, dreadful hair... was touching my ear cavity......",
+      "That's how bad it felt..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「け、警察が…、沙都子に何の用ですか。」"
+    ],
+    "textEn": [
+      "\"W-What do the police... need with Satoko?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いえいえいえ。",
+      "大した用事じゃあないんです。",
+      "二三、聞きたいことがありまして。",
+      "ご協力をいただければうれしいんですがねぇ。」"
+    ],
+    "textEn": [
+      "\"No, no, no.",
+      "It's nothing important.",
+      "I just had two or three things to ask.",
+      "I'd like it if you could cooperate with me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……どうして…？",
+      "どうして……よりにもよって…沙都子なんだよ…？",
+      "…大した用事がなくて、…こんな真っ昼間に警察がどうして尋ねてくるんだよ…？",
+      "この男は変だ。",
+      "臭いがする。",
+      "……ちょっと嗅いだだけで顔をしかめたくなる様な…嫌な臭いがするんだ。",
+      "……この男に限って。",
+      "…沙都子の財布が落とし物で届けられたのでお届けに来ました、なんてことは絶対にない。",
+      "………沙都子にどんな用があるのか、想像もつかないが、……絶対に…嫌なことのはず…………。"
+    ],
+    "textEn": [
+      "...Why...?",
+      "Why... of all people... was it Satoko...?",
+      "...Why would a police officer come here in the middle of the day... for something that wasn't important...?",
+      "This man was strange.",
+      "I could smell it.",
+      "...And it smelled bad—just a whiff of it made me want to grimace.",
+      "...I knew that this man...",
+      "couldn't possibly be here to deliver her lost wallet or anything.",
+      "......I couldn't imagine what he needed from Satoko... but it had to... be something unpleasant......"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………あ、」"
+    ],
+    "textEn": [
+      "\"............Ah.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "喉がヒリヒリと焼けつく。",
+      "……干上がってひびだらけになった大地のように、ヒリヒリと。",
+      "……喉の奥から、そんな大地をばりばりと割って、……心の奥からの言葉をひねり出す…。"
+    ],
+    "textEn": [
+      "My throat stung with burning pain.",
+      "...Burned, like a parched, creviced wasteland.",
+      "...The wasteland broke apart deep in my throat... and brought out the words from deep in my mind..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……あ、…………あんたに用はあっても、沙都子にはないと思います。",
+      "…帰ってくれませんか。」"
+    ],
+    "textEn": [
+      "\"...Um...... You may need something from her, but I don't think Satoko needs anything from you.",
+      "...Could you please leave?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は、こんな返事は予想しなかったのだろう。",
+      "…しばらくの間、きょとんとしていた。",
+      "…でもそれは俺も同じだ。",
+      "…こんな、言葉が自分の口から出るなんて、思いもしなかった。",
+      "……まだ間に合うかもしれないのだ。",
+      "こんなヤツが現れてしまったが、……今、追い返せば、なかったことに出来るかもしれない。",
+      "…なかったことに出来れば…取り戻せるはず。",
+      "…昨日までの平穏を…取り戻せるはず………。"
+    ],
+    "textEn": [
+      "Ooishi probably hadn't expected that reply.",
+      "...He stood there surprised for a few moments.",
+      "...I did as well.",
+      "...I hadn't thought words like that could ever come out of my mouth.",
+      "...Things might still work out.",
+      "This guy may have shown up out of the blue... but if I drove him off, maybe I could make it so that it never happened.",
+      "...If I could do that... then I could get back...",
+      "the peace we had until yesterday... I could get it back..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっは…！　これはこれは…手厳しいなぁ。",
+      "あなた、沙都子さんのマネージャーさんですかな？",
+      "アポイントメントがないと面会はかないませんか。",
+      "んっふっふ！」"
+    ],
+    "textEn": [
+      "\"Nah-ha-ha-ha...! Well, well... You sure are strict.",
+      "Are you Satoko-san's manager, perhaps?",
+      "Can I not see her without an appointment?",
+      "Nfu-fu!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…話がしたいだけなら、電話ですればいいじゃないですか。",
+      "…日中、学校にまで押しかけてくるなんて明らかに異常です。」"
+    ],
+    "textEn": [
+      "\"...If you just want to talk to her, shouldn't you just call her?",
+      "...Barging into school in the middle of the day isn't normal.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "堰を切ったように、という表現がぴったりだった。",
+      "……この男は、なぜか気に入らない。",
+      "この男はいてはいけない。",
+      "この男はいなかったことにしなければならない。",
+      "そんな、子供みたいなわがままな感情が心の中から次々に沸き上がり、そのままの形で次々と喉から吐き出される。",
+      "虫が好かないと思うのは勝手だ。",
+      "…でも、それをそのままストレートに相手に伝えるなんて、…自分でも思う。",
+      "どうかしている。"
+    ],
+    "textEn": [
+      "\"Breaking through a dam\" would have been the perfect analogy to use.",
+      "...Why didn't I like this man?",
+      "This man shouldn't have been here.",
+      "I needed to make it so that this man wasn't here.",
+      "Childish, selfish emotions bubbled up from the depths of my mind, and they each came out of my mouth just as it had been formed.",
+      "Not liking the guy was my own problem.",
+      "...But to say things so bluntly to him...",
+      "Even I thought I was crazy."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……ありゃ。",
+      "いちいち正論な方ですね。",
+      "こーゆう言い方する人は苦手なんだよなぁ…。」"
+    ],
+    "textEn": [
+      "\"...Oh.",
+      "You're the logical sort, aren't you?",
+      "I'm not too good with people who talk like that...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は、にやぁと笑いながら汗ばんだ首元をボリボリ掻く。",
+      "…まぬけを装いつつも、苛ついてるのがよくわかった。",
+      "なぁ、前原圭一。",
+      "……何で俺は、……こんな警察の親父と、こんなところでケンカしなくちゃならないんだ…。",
+      "別に、…こいつが不幸を風呂敷に包んで担いできたわけじゃないだろ？",
+      "そうさ。",
+      "……不幸を宅配便のように運んできて、ハンコお願いしますなんて言ってるわけじゃない…。",
+      "そんなことは理屈でわかっているのに、",
+      "……なんで俺は……………。",
+      "……大石はやがて、沈黙を続ける俺に根負けしたのか、大きくため息を漏らした。",
+      "そして、近くに走ってきた後輩の女の子、何人かに呼びかける。"
+    ],
+    "textEn": [
+      "Ooishi grinned and scratched at his sweaty throat.",
+      "...Even as he feigned stupidity, I could tell he was irritated.",
+      "Hey, Keiichi Maebara.",
+      "...Why am I... looking for a fight with this old policeman here...?",
+      "It's not like... he brought the gift of misfortune with him, all wrapped up in paper, right?",
+      "Right.",
+      "...It wasn't like he had brought a package of misfortune with him and was asking me to sign here please...",
+      "Rationally speaking, I understood all that...",
+      "so then, why was I so......",
+      "...Finally, I outlasted Ooishi in our game of silence, and he gave a big sigh.",
+      "Then he addressed a few of my female underclassmen running around nearby."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あー、もしもし、君たち！",
+      "ちょっといいですかな？",
+      "北条沙都子さんを呼んできてほしいんですがねぇ。」"
+    ],
+    "textEn": [
+      "\"Oh, excuse me, all of you!",
+      "Do you have a moment?",
+      "I'd like you to call Satoko Houjou-san if you could.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Young boy",
+    "labelJp": "少年",
+    "textJp": [
+      "「……………………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "後輩たちは笑顔で答えようとしたが、俺の妙な様子と硬い空気に気付き、…安易に答えてよいものか迷っているようだった。"
+    ],
+    "textEn": [
+      "My underclassmen tried to smile in reply, but they noticed the oddly stiff air atmosphere around me... and seemed hesitant to give a quick answer."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…いませんか？",
+      "北条沙都子さんは。」"
+    ],
+    "textEn": [
+      "\"...Is she not here?",
+      "Satoko Houjou-san?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Young boy",
+    "labelJp": "少年",
+    "textJp": [
+      "「えっと、…………北条さんは今日は…、お休みですけど…。」"
+    ],
+    "textEn": [
+      "\"Umm...... Houjou-san... she stayed home today...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「休みぃ？」"
+    ],
+    "textEn": [
+      "\"Stayed home?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……顔は笑っているけれど、……声には明らかにわかる不機嫌さがこめられていた。",
+      "その露骨な悪意に、素直に答えたはずの後輩たちがすくみ上がる…。"
+    ],
+    "textEn": [
+      "...His face remained smiling... but his tone was clearly one of ill humor.",
+      "Such conspicuous spite caused my underclassmen, who had answered honestly, to cringe in fear..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「そうですか。",
+      "…なっはっはっはっは！",
+      "いやはやいやはや。",
+      "これはツイてないです。」"
+    ],
+    "textEn": [
+      "\"I see.",
+      "..Nah-ha-ha-ha-ha!",
+      "Dear me, dear me.",
+      "I'm quite unlucky.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…大石は大笑いして見せたが、見ていても少しも愉快になれない笑い方だった。",
+      "いくら笑っても、誰も一緒に笑ってくれないことに気付くと、大石はさっさと笑うのをやめた。"
+    ],
+    "textEn": [
+      "...He was smiling broadly, but the way he laughed didn't make me feel better at all.",
+      "When he noticed that his laughter wasn't getting anyone else to laugh with him, he immediately stopped."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……で。",
+      "君たち。",
+      "……ここにいるお兄さんは何て名前か教えてくれるますか？",
+      "ん？」"
+    ],
+    "textEn": [
+      "\"...So.",
+      "You girls...",
+      "Could you tell me the name of this boy here?",
+      "Hm?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "女の子たちの肩をぐっと、逃がさないように掴み、目線の高さまでしゃがみ込んで聞く。",
+      "……彼女たちは、鋭い眼光に射抜かれすくみ上がっていた。",
+      "…そして、解放と引き換えに、俺の名を無抵抗に教える…。"
+    ],
+    "textEn": [
+      "He grabbed the girls by the shoulders so they wouldn't run away, and crouched down to address them at eye level.",
+      "...The girls flinched away from the sharp, piercing light in his eyes.",
+      "...And in exchange for their release, they didn't resist and told him my name..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ほーぅ。",
+      "前原圭一さん、ですか。」"
+    ],
+    "textEn": [
+      "\"I see.",
+      "Keiichi Maebara-san, is that it?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………俺の本名を口にする。",
+      "…たったそれだけのことなのに、…ぞぉっとせずにはいられない…。",
+      "……まるで、言葉だけで俺の胸ぐらを掴み挙げているかのようだった。"
+    ],
+    "textEn": [
+      "......He said my full name.",
+      "...That was all he said... and yet I couldn't help but shudder...",
+      "...It was like he had grabbed me by the collar just with those words."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……あぁ、あなた、ひょっとして、例の前原屋敷の御曹司…？",
+      "なっはっは！",
+      "お父さん、高名や芸術家さんなんですってねぇ。",
+      "どんな立派な絵を描かれるかは存じませんがね。"
+    ],
+    "textEn": [
+      "\"...Oh, could you be the son of the Maebara family I've heard so much about...?",
+      "Nah-ha-ha!",
+      "I hear your father is a renowned artist.",
+      "I don't know what sort of fantastic pictures he creates, though."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "お母さんも知的そうな方じゃないですか。",
+      "高学歴って聞きましたよ？"
+    ],
+    "textEn": [
+      "Then there's your mother—she seems intelligent too.",
+      "I heard she was a high academic achiever."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "どこぞの女子大を出られてるそうじゃないですか。",
+      "あの年の女性で女子大出なんて凄いですよ。",
+      "ひょっとしてお母さん、良家のお嬢さんなんじゃないですか？"
+    ],
+    "textEn": [
+      "She went to some girls' university, didn't she?",
+      "It's amazing for someone that age to have graduated from a girls' university.",
+      "Could your mother actually be the daughter of a respectable family?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…なーんてウワサが立ってるせいか、冷たい人だ、なんてウワサが立てられてるなんてご存知で？"
+    ],
+    "textEn": [
+      "...At least, those are the rumors, and they say she's a cold person because of it—did you know that?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "町内会の会合、最初の一回以外は出てないでしょ。",
+      "そういうのって、いけないんですよねぇ。",
+      "こういう土地ではご近所付き合いを蔑ろしになんかできませんよ。",
+      "んっふっふっふっふ！」"
+    ],
+    "textEn": [
+      "She only went to the very first neighborhood association meeting, right?",
+      "That's certainly no good.",
+      "You can't disrespect your neighbors in a place like this.",
+      "Mfu-fu-fu-fu-fu-fu!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……薄気味悪さが…背筋をぞわぞわと這い上がる…。",
+      "それは…初めて経験する恐怖だった。",
+      "初対面の人間に、……一方的に自分の素性を知られていることが……こんなにも気味が悪いなんて………！",
+      "大石は俺の両肩をぐっと掴み、…覗き込むように目を近付かせてきた。"
+    ],
+    "textEn": [
+      "...A sense of eeriness... slithered up my spine...",
+      "That was... my first experience of true terror.",
+      "I couldn't believe it felt this terrible... for someone you've just met... to know everything about you already...!",
+      "Ooishi clamped onto my shoulders... and brought his eyes close to peer into mine."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「こういう土地ではね、…敵は作らない方が絶対にいいですよ？",
+      "さもないと…。」"
+    ],
+    "textEn": [
+      "\"In a place like this... it would be far better not to make enemies, wouldn't it?",
+      "If not...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "い、…痛てて……！",
+      "大石が…万力みたいな馬鹿力で俺の肩を………、…く…！"
+    ],
+    "textEn": [
+      "...Oww...!",
+      "Ooishi... dug into my shoulders with inhuman strength... gah...!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……思わぬところで不利益を受けるかもしれません。",
+      "……因果応報という言葉もありますよ？",
+      "風が吹けば桶屋が儲かるの正反対です。"
+    ],
+    "textEn": [
+      "\"...then if something unexpected were to happen, you might see some drawbacks.",
+      "...Have you ever heard of karma?",
+      "It's like how a butterfly flapping its wings can cause a tornado."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "……妙なところで買った恨みが、…信じられないところで帰ってくることがあるかもしれません。",
+      "……そうなったら、……嫌でしょう？",
+      "んっふっふっふっふ…。"
+    ],
+    "textEn": [
+      "...Grudges borne in strange places... could come back to you in ways you wouldn't believe.",
+      "...You wouldn't... like that, would you?",
+      "Nfu-fu-fu-fu..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "誰だって、恨みなんか買いたくないんです。",
+      "…敵を作らないに、…越したことなんか、",
+      "ない。"
+    ],
+    "textEn": [
+      "Nobody wants to have a grudge held against them.",
+      "...There's nothing positive... about making...",
+      "enemies."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "……ん？",
+      "どうしました？",
+      "肩がだいぶ凝ってますねぇ。",
+      "ちょっと揉んであげましょうか？",
+      "ほらぁ、気持ちいいでしょ？",
+      "んっふっふっふ…！」"
+    ],
+    "textEn": [
+      "...Hm?",
+      "What's the matter?",
+      "Your shoulders are very stiff.",
+      "Should I give you a massage?",
+      "See? Feels good, right?",
+      "Nfu-fu-fu-fu...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "い、………いてて、……てててて…………ッ…！",
+      "単に力が強いだけでなく……、",
+      "この男、",
+      "…痛みを特に感じるツボみたいなのを知ってるみたいだ…。",
+      "く、………肩をほんの４〜５本の指で締め付けられてるだけなのに…、痛みで…背中が反りかえりそうになる…。",
+      "ぅぅ……！",
+      "クラスの女子が…何人かおろおろしているが、…助けてくれる様子はない。",
+      "…先生を呼びに行くべきか、迷っているようだった…。",
+      "……俺としては……先生が来るのなんて、のんびり待てない……、",
+      "く…！",
+      "痛…ぇ…よ………ッ！"
+    ],
+    "textEn": [
+      "Ow...... ow, ow... owww......!",
+      "This man wasn't just strong...",
+      "It was like...",
+      "he knew exactly where to press to make me feel pain...",
+      "Gah... Only four or five fingers were on my shoulders... and yet the pain... made me want to bend over backwards...",
+      "Urgh...!",
+      "A few of the girls from my class... were pretty shaken up... but didn't seem to want to help me.",
+      "...They weren't sure if they should go call the teacher...",
+      "...As for me... I couldn't take the time to wait until the teacher got here...",
+      "Kh...!",
+      "It... it hurts...!"
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「もうそれくらいになさって下さい。",
+      "痛がってますよ。」"
+    ],
+    "textEn": [
+      "\"Would you mind leaving things at that?",
+      "You're hurting him.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…んん？」"
+    ],
+    "textEn": [
+      "\"...Hm?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石さんの肩越しに…誰かが……。",
+      "……何と、…監督だった。"
+    ],
+    "textEn": [
+      "Behind Ooishi-san... someone...",
+      "...To my disbelief... it was Coach."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……おや。",
+      "これは入江先生じゃあありませんか。",
+      "ご無沙汰しておりますねぇ。",
+      "んっふっふっふ！」"
+    ],
+    "textEn": [
+      "\"...Oh my.",
+      "If it isn't Dr. Irie!",
+      "It certainly has been a while since we were last in touch.",
+      "Nfu-fu-fu!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "監督の突然の出現に、不愉快さを感じさせながらも嫌らしそうに大石は笑う。",
+      "…でも、俺の肩に万力のような力をかけたままだ…。"
+    ],
+    "textEn": [
+      "Discomforted by Coach's sudden appearance, Ooishi laughed scornfully.",
+      "...The vise on my shoulders, however, remained as strong as ever..."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「挨拶はいいです。",
+      "それよりも…前原くんを放してあげて下さい。」"
+    ],
+    "textEn": [
+      "\"Never mind the greetings.",
+      "Please... just let go of Maebara-kun.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は不敵に笑いながら監督をじっと睨みつけている。",
+      "もちろん、その間も俺を放そうとはしない…。"
+    ],
+    "textEn": [
+      "Ooishi smiled daringly and glared straight at Coach.",
+      "He didn't release me in the meantime, of course..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……先生のところにも、後でお伺いしようと思っていたんですよ？",
+      "いつもお忙しいとかで、ろくろくお話ができませんからねぇ。」"
+    ],
+    "textEn": [
+      "\"...I was just thinking of stopping by your place later, Doctor.",
+      "You always seem so busy and we can never have a good chat.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「えぇ。",
+      "…お望みとあればいくらでもお話を伺いますよ。",
+      "でもその前に令状をお持ちになって下さい。",
+      "…職務質問と任意同行は…拒否できますからね。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "...If you want, I'll chat with you all you like.",
+      "But, please be sure to have a warrant first.",
+      "...After all, otherwise... I can refuse to go voluntarily into questioning.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……監督は、以前の野球大会やバーベキューの時に見せたひょうきんな様子はまったくなかった。",
+      "…大石をぐっと睨みつけ……俺を解放しようと戦ってくれている。",
+      "…もちろん旗色は圧倒的に悪い。",
+      "…余裕のある大石に比べ、監督は精神的に気圧されているように見える。",
+      "……そりゃそうだ。",
+      "…監督のどこか細そうな体つきに比べ、大石は筋肉質でみっちりしている。",
+      "……全然勝負になんかならない。",
+      "でも、…監督は一歩も引かずに、戦ってくれていた。",
+      "顔中に汗の玉を浮かべて…蒼白になりながらも、戦ってくれていた。"
+    ],
+    "textEn": [
+      "...Coach didn't display a shred of the weird behavior he'd shown at the baseball game and barbecue.",
+      "...He stared steadily at Ooishi... and fought so that he would release me.",
+      "...His chances were terribly bad, of course.",
+      "...Compared to the relaxed Ooishi, Coach seemed like he was being defeated mentally.",
+      "...It made sense.",
+      "...Coach had a somewhat narrow stature, but Ooishi's body was packed with muscles.",
+      "...It wasn't even a contest.",
+      "But... Coach was fighting for me, without taking a step back.",
+      "Beads of sweat formed on his face... and though he paled, he was fighting for my sake."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…………………………………。"
+    ],
+    "textEn": [
+      "\".................."
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……なっはっはっはっは…！」",
+      "大石は突然笑い出すと俺の肩を離す。",
+      "…全身が脱力し、俺はどさっと尻餅を付いた。"
+    ],
+    "textEn": [
+      "...Na-ha-ha-ha-ha...!\"",
+      "Suddenly, Ooishi laughed and let go of my shoulders.",
+      "...My body exhausted, I fell right onto my backside."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…前原くん！",
+      "大丈夫ですか！」"
+    ],
+    "textEn": [
+      "\"...Maebara-kun!",
+      "Are you all right!?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……ぅぅ、…くそ、……いててて………。」"
+    ],
+    "textEn": [
+      "\"...Urgh... damn it... oww...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石に締め付けられていた肩を摩る…。",
+      "痛みはすぐに引くが、さっきの痛みの余韻はまだ続いていた。"
+    ],
+    "textEn": [
+      "I rubbed my shoulders where Ooishi had latched onto them...",
+      "The pain from falling over went away quickly, but this pain was lingering."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…大丈夫ですか前原くん！",
+      "……ひどいことを…！」"
+    ],
+    "textEn": [
+      "\"...Are you all right, Maebara-kun!?",
+      "...This is terrible...!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「くっそ……、……いて……てて………。」"
+    ],
+    "textEn": [
+      "\"Shit...... ow... oww...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ちょっと肩を揉んだだけじゃないですか。",
+      "んっふっふ！",
+      "前原さんも少し大袈裟過ぎですよ？",
+      "男の子はもう少し我慢強くなくちゃ。んっふっふっふ！」"
+    ],
+    "textEn": [
+      "\"I was just giving him a little massage!",
+      "Nfu-fu!",
+      "Maebara-san, aren't you overexaggerating a bit?",
+      "Boys have gotta learn to man up. Nfu-fu-fu!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何か言い返してやりたいが、",
+      "……売り言葉は何も思いつかなかった。"
+    ],
+    "textEn": [
+      "I wanted to retort...",
+      "but I couldn't think of anything witty."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…肩は上がりますか？",
+      "痛みますか？",
+      "……痛みが強いようならちゃんと診察をした方がいい。",
+      "とにかく保健室へ…！」"
+    ],
+    "textEn": [
+      "\"...Can you lift your shoulders?",
+      "Are they in pain?",
+      "...If you're really hurt, then you should have a proper checkup.",
+      "Let's just go to the nurse's office...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "監督は俺に寄り添い、肩を貸してくれた。"
+    ],
+    "textEn": [
+      "Coach lent me his shoulder and walked beside me."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「大袈裟ですねぇ。",
+      "…私に限って、傷が残るようなマネをするわけがないじゃないですかぁ。",
+      "ねぇ？",
+      "私、これでも現職の警察官なんですよ？",
+      "んっふっふっふ…！」"
+    ],
+    "textEn": [
+      "\"What an exaggeration.",
+      "...I'd be the last person to do any sort of permanent damage.",
+      "Right?",
+      "I am still an active police officer, you know.",
+      "Nfu-fu-fu...!\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「さぁ、どんな御用があったか存じませんが、もう御用がないならお帰りを！",
+      "……今日のことは今度、署長さんに直接抗議しますからそのつもりでいて下さい。」"
+    ],
+    "textEn": [
+      "\"Come—I don't know what you needed to be here for, but if you're finished, then please leave!",
+      "...I'm going to complain about this directly to the chief, so please keep that in mind.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「それは困りますねぇ。",
+      "…んっふっふっふっふ…！」"
+    ],
+    "textEn": [
+      "\"Oh, that's a problem, ain't it?",
+      "...Nfu-fu-fu-fu...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は茶化したように手を振ると、くるっと身をひるがえし、校門に停めてあった車へ向かっていく。",
+      "…そして振り返りもせず車に乗り、エンジンをかけていた。",
+      "…………くそ……。",
+      "あいつ、……何者だよ…、畜生…！"
+    ],
+    "textEn": [
+      "Ooishi-san waved his hand sarcastically, pivoted around, and headed to the car parked by the school gates.",
+      "...And without turning back around, he got in and started the engine.",
+      "......Damn it...",
+      "Who... who the hell was he... damn it...!"
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「あいつは大石蔵人という刑事です。",
+      "……乱暴者でね。",
+      "村中に嫌われている男です。",
+      "前原さんも用心した方がいい。」"
+    ],
+    "textEn": [
+      "\"He's a detective named Kuraudo Ooishi.",
+      "...And a hooligan.",
+      "Everyone in the village hates him.",
+      "Maebara-san, you should be careful too.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………大石、蔵人……。",
+      "やっぱり、…俺の勘は間違ってなんかなかった…。",
+      "あいつが運んでくるんだ。",
+      "…不幸とか不吉とか、…そういう、平穏を乱す何かを…！",
+      "くそ……認めてたまるかよ…！",
+      "昨日までの楽しい日が……あいつが現れただけで、終わってしまったなんて。",
+      "……認めて………たまるかよ……ッ！！",
+      "監督は学校の中を知っているようで、迷うことなく俺を保健室まで連れて行ってくれた。",
+      "クラスの女子も心配そうに付いてくる。",
+      "その騒ぎに気付いて、先生と校長先生が何事かとやって来た。"
+    ],
+    "textEn": [
+      "...Kuraudo... Ooishi...",
+      "Just like I thought... My gut instinct wasn't wrong...",
+      "He would be the one.",
+      "...The one to bring unhappiness, misfortune... something that would ruin our peace...!",
+      "Shit... I won't accept it...!",
+      "All these fun days... can't possibly end just because some guy like him showed up.",
+      "...I won't... I won't accept it...!!",
+      "Coach seemed to be familiar with the school, so he brought me to the nurse's office without much trouble.",
+      "The girls from my class came along as well, looking worried.",
+      "Our teacher and the principal, having noticed the disturbance, came to see what was the matter."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「前原くん…！",
+      "どうしたんですか？！",
+      "怪我でも…！」"
+    ],
+    "textEn": [
+      "\"Maebara-kun...!",
+      "What's wrong?!",
+      "Are you hurt...!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Girl",
+    "labelJp": "女子",
+    "textJp": [
+      "「えっとえっと！！",
+      "前原さんさっき校庭で変なおじさんに…！」"
+    ],
+    "textEn": [
+      "\"Umm, well!!",
+      "There was this weird man in the schoolyard just now, and Maebara-san—!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "女子たちがそう訴えようとするのを監督がやんわりと遮る。"
+    ],
+    "textEn": [
+      "Coach gently interrupted the girls trying to explain."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……いえ。",
+      "ちょっと転んでひねったみたいです。",
+      "大丈夫とは思いますけど、念のためと思いましてね。",
+      "保健室をちょっとお借りいたします。」"
+    ],
+    "textEn": [
+      "\"...No.",
+      "It looks like he just fell and twisted something.",
+      "I think he's all right, but I wanted to make sure.",
+      "If it's fine with you, I'll borrow the nurse's office for a bit.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Principal",
+    "labelJp": "校長",
+    "textJp": [
+      "「…む。",
+      "入江先生、よろしくお願いしますぞ。」"
+    ],
+    "textEn": [
+      "\"...Hm.",
+      "Please do, Dr. Irie.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "校長先生が深々とお辞儀する…。",
+      "監督は学校の先生たちとも面識があるようだった。",
+      "保健室をガラリと開けても、別に保健の先生はいなかった。",
+      "…そりゃそうだ。",
+      "知恵先生と校長先生以外の先生を見たことはないからな。",
+      "監督は保健の先生がいないのを別に気にもせず、ずかずかと保健室に踏み込んでいった。",
+      "俺に座るように言うと、流しで手を洗い始める。",
+      "……あぁ、そうか。",
+      "この人は少年野球の監督だもんな。",
+      "多少の怪我の応急手当なら慣れてるはずなんだ。"
+    ],
+    "textEn": [
+      "The principal gave him a deep bow...",
+      "It looked like Coach was acquainted with the adults at school.",
+      "He slid open the doors to the nurse's office, but there wasn't a nurse in there or anything.",
+      "...I'd figured.",
+      "I'd never seen anyone but Chie-sensei and the principal working here.",
+      "Coach didn't seem to mind the fact that there was no nurse and quickly made his way into the nurse's office.",
+      "He instructed me to sit down and started washing his hands in the sink.",
+      "...Oh, I get it.",
+      "He's the coach for the boy's baseball team.",
+      "He must be pretty used to treating wounds with first-aid."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「ちょっと患部を見せてもらえますか？",
+      "…まだ痛みます？」"
+    ],
+    "textEn": [
+      "\"Could you show me where it was?",
+      "...Are you still in pain?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いえ…もう、全然痛みません。",
+      "…本当に大丈夫です。」"
+    ],
+    "textEn": [
+      "\"No... It doesn't hurt at all anymore.",
+      "...I'm fine, really.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "シャツをまくり上げて肩を見てみる。",
+      "…あざどころか、爪の跡すらない。",
+      "あの時は、肩を握りつぶされるんじゃないかと思うくらいに痛かったのに。",
+      "…痛みまでも嘘の様に引いていた。",
+      "…あんなに痛かったのに、あざひとつないないんて…。"
+    ],
+    "textEn": [
+      "I rolled up my shirt and showed him my shoulder.",
+      "...No bruise—not even nail marks.",
+      "And yet it had hurt so much I thought my shoulders would be crushed.",
+      "...Even the pain had disappeared without a trace.",
+      "...It hurt so much, but not so much as a bruise remained..."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「それだけあいつが慣れている、ということですよ。」"
+    ],
+    "textEn": [
+      "\"It just means he's used to doing that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………あいつ、か…。"
+    ],
+    "textEn": [
+      "....\"Used to it,\" huh..."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「今度会った時は挑発しないことです。",
+      "あいつを怒らせて得をすることは何もありませんからね。",
+      "……自宅に制服警官を連れて押しかけてきたら、ご家族だっていい気持ちはしないでしょう…？」"
+    ],
+    "textEn": [
+      "\"The next time you meet, don't provoke him.",
+      "Nothing good will come of making him angry.",
+      "...If you go home with a uniformed policeman by your side, your family won't like that, will they...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………それは…確かに…。」"
+    ],
+    "textEn": [
+      "\"......Well, you're right...\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「しかし…。",
+      "何があったんです？",
+      "前原さんがあいつと喧嘩になるなんて。」"
+    ],
+    "textEn": [
+      "\"Still...",
+      "What happened?",
+      "Why did you end up in a fight with him?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……あいつ、……沙都子に用事があるとか言ってきて…。」"
+    ],
+    "textEn": [
+      "\"...He... came up and said he needed something from Satoko...\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「え？",
+      "沙都子ちゃんに…ですか？」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "Satoko-chan...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……監督は目線を落し、少し表情を曇らせた。",
+      "何だかその仕種が、",
+      "「大石が沙都子のところへ来るべくして来た」と言っているように見え、…少し面白くない。"
+    ],
+    "textEn": [
+      "...Coach's gaze lowered and his expression clouded a bit.",
+      "Somehow, that gesture seemed...",
+      "to be saying Ooishi was bound to come to Satoko, and did... and that it was no laughing matter."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「………………………………。」"
+    ],
+    "textEn": [
+      "\"...............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "監督は考え込むように無言。",
+      "…ただ黙って、救急箱から湿布を取り出し貼り付けてくれた。"
+    ],
+    "textEn": [
+      "Coach fell silent in thought.",
+      "...Quietly, he took a compress out of the first-aid kit and put it on me."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……あの男はまだ沙都子ちゃんに付きまとうつもりなんでしょうか。",
+      "…本当に蛇みたいにしつこい男です。」"
+    ],
+    "textEn": [
+      "\"...Does he still plan on clinging to Satoko-chan?",
+      "...He's a persistent man, I'll give him that—like a snake.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "独り事のように、監督はぽつりとそうもらした。"
+    ],
+    "textEn": [
+      "Coach mumbled to himself."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…付きまとう？",
+      "…あの大石っていうヤツ、度々沙都子のところへ来てるんですか？」"
+    ],
+    "textEn": [
+      "\"...Cling?",
+      "...Does that Ooishi guy go to Satoko's place a lot?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……………………。」"
+    ],
+    "textEn": [
+      "\".........\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "監督は答えなかったが、否定しないことがそのまま答えとなった。",
+      "……警察（多分、刑事か何かだろう…）が一体、沙都子に何の用があって？",
+      "あの、愛くるしく笑う沙都子に、刑事が付きまとうどんな咎があるって言うんだよ…？"
+    ],
+    "textEn": [
+      "Coach didn't answer, but the lack of a denial served well enough.",
+      "...What on earth did the policeman (probably a detective or something...) need from Satoko?",
+      "What mistake had led a detective to cling to the sweetly-smiling Satoko...?"
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……前原さんは、",
+      "…そうか。",
+      "引越してきたばかりでしたね。」"
+    ],
+    "textEn": [
+      "\"...Maebara-san...",
+      "Oh, right.",
+      "You just moved here, didn't you?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…え、…………えぇ。",
+      "そうですけど…。」"
+    ],
+    "textEn": [
+      "\"...Y......yes.",
+      "I did, but...\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…………オヤシロさまの祟りと沙都子ちゃんの話は、",
+      "…少しは聞いたことがありますか？」"
+    ],
+    "textEn": [
+      "\"......Have you heard anything about...",
+      "Oyashiro-sama's curse, and about Satoko-chan?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………少しは、という意味なら一応は知っているかもしれない。"
+    ],
+    "textEn": [
+      "...Well, I knew a few things about it, certainly."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…沙都子の両親がダム計画の賛成派で、",
+      "…転落事故で死んだのは祟りだ、",
+      "って話ですか…？」"
+    ],
+    "textEn": [
+      "\"...Satoko's parents were dam proponents...",
+      "and their accidental death was because of the curse...",
+      "You mean that...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "監督は薄く苦笑いをしながら、ご存知でしたか…と目線を落とす。",
+      "確か家族で遊びに行った先の公園の展望台で事故が起こって、沙都子の両親は死んだ。",
+      "そして……兄と妹だけになって、",
+      "…梨花ちゃんと一緒に………。",
+      "……えっと…………。"
+    ],
+    "textEn": [
+      "Coach smiled thinly and dryly—\"So you know...\" he said, dropping his gaze.",
+      "If I recalled correctly, there was an accident on a viewing platform at the public park she'd gone to with her family, and her parents died.",
+      "And then... it was just big brother and little sister...",
+      "...and then she was with Rika-chan, and......",
+      "Umm........."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「ご両親が亡くなった沙都子ちゃんとお兄さんの悟史くんは、叔父夫婦宅に身を寄せることになりました。」"
+    ],
+    "textEn": [
+      "\"When they lost their parents, Satoko-chan and her brother, Satoshi-kun, were given to their uncle and his wife to care for them.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…え、………あ、そうなんですか…。」"
+    ],
+    "textEn": [
+      "\"...Uh...... Oh, is that so...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "両親が事故死して、悟史が家出して、沙都子だけが残って梨花ちゃんと二人で暮らし始めた…",
+      "ってのは知ってるが、叔父夫婦に預けられたって話は始めて聞く。"
+    ],
+    "textEn": [
+      "Their parents died in the accident and Satoshi ran away, leaving only Satoko to start living with Rika-chan...",
+      "I'd known that much, but this was the first time I heard they'd been brought to their uncle and aunt."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「叔父というのは、沙都子ちゃんのお父さんの弟に当たる方なんですがね。",
+      "……残念なことに、夫婦揃ってちょっと尊敬に値する方々ではありませんでした。」"
+    ],
+    "textEn": [
+      "\"Their uncle was Satoko-chan's father's younger brother.",
+      "...Unfortunately, neither of the couple were people deserving of respect.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "監督は言葉遣いの丁寧な人だ。",
+      "…だから、そんな監督が「尊敬に値しない」なんて言い方をするなんて、どんな人たちなんだろうと思った…。"
+    ],
+    "textEn": [
+      "Coach normally picked his words politely.",
+      "...So when he came out and said they didn't deserve respect, it really made me wonder what kind of people they were..."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…沙都子ちゃんの両親がダムに賛成していたとばっちりで、叔父夫婦も村内ではとても肩身の狭い思いをしていましたからね。",
+      "沙都子ちゃんたちを歓迎するはずもなかったんです。"
+    ],
+    "textEn": [
+      "\"...As soon as Satoko-chan's parents came out in support of the dam, their uncle and aunt took on a lot of the shame in the village as well.",
+      "They would never have welcomed in Satoko-chan and Satoshi-kun."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "……………沙都子ちゃんたち兄妹にとって、とても辛い生活だったと聞き及んでいます…。」"
+    ],
+    "textEn": [
+      "......I've heard that for the siblings, it was a very rough life...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "監督はぽつりぽつりと、叔父夫婦宅での沙都子たち北条兄妹の受難の数々を聞かせてくれた。",
+      "叔父夫婦は保護者となると同時に、沙都子たちの家の全財産を吸い取ってしまった。",
+      "……沙都子と悟史は、狭い部屋に押し込まれ、身も心も窮屈な生活を強いられていた。",
+      "もともと叔父夫婦は不仲でいつも喧嘩は絶えなかったという。",
+      "……その腹いせにとでも言わんばかりに、沙都子や悟史の顔を見さえすれば、",
+      "いつでも難癖を付け、なじったり怒鳴ったり叩いたり、罰と称して食事を抜いたりした。"
+    ],
+    "textEn": [
+      "Bit by bit, Coach told me about the numerous agonies the Houjou siblings had suffered at their uncle's house.",
+      "As their guardians, their aunt and uncle sucked up everything belonging to their immediate family.",
+      "...Satoko and Satoshi were crammed into a small room, and their lives were laden with things that were miserable both for their bodies and minds.",
+      "In the first place, since apparently their aunt and uncle weren't on good terms, there was no end to their fighting.",
+      "...And as if in revenge for that, whenever they saw Satoko or Satoshi's face,",
+      "they would always find fault with them, scold them, yell at them, strike them, and take away meals as punishment."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……今思い出しても、ぞっとします。"
+    ],
+    "textEn": [
+      "\"...I still shudder to think about it."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "……今の元気な沙都子ちゃんしか知らないあなたには、",
+      "……土気色の顔をして、ただ日陰でぼーっとしているだけの彼女など、想像もつかないでしょう…。」"
+    ],
+    "textEn": [
+      "...You've never known any Satoko but the energetic and healthy one now...",
+      "so you probably couldn't imagine her face being so deathly pale, a girl always standing dazed in the shade of trees...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………想像もつかないし、想像したくもないのが素直な感想だった。",
+      "…でも、少なくとも今の沙都子はそうじゃない。",
+      "昔は悲惨な生活だったかもしれないが、今は違う。",
+      "……………そんな生活から変わる何かがあったのだ。"
+    ],
+    "textEn": [
+      "......I couldn't imagine it, and I didn't want to—that was how I honestly felt.",
+      "...But at the very least, Satoko wasn't like that anymore.",
+      "She may have had a miserable life in the past, but it was different now.",
+      "......Something happened to change that life."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……去年の綿流しのお祭りの夜にね、叔母が死んでしまったんです。"
+    ],
+    "textEn": [
+      "\"...Last year, on the night of the Watanagashi Festival, their aunt died."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "……綿流しの祭りの夜には、村の仇敵が祟りで死ぬと噂されてましたからね。",
+      "この死も、単なる殺人事件としてだけでなく、オヤシロさまの祟りではないかと村中で囁かれました。」"
+    ],
+    "textEn": [
+      "...Rumors spread of the curse having killed an enemy of the village on the night of the festival.",
+      "This death wasn't a simple homicide either—they whispered that it was actually Oyashiro-sama's curse.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その何日か後に、覚醒剤使用で逮捕されていた男が余罪として自供し事件は解決した。",
+      "……だが、事件としては解決しても、…それがオヤシロさまの祟りだったかどうかの真偽は、わからない。"
+    ],
+    "textEn": [
+      "A few days later, the deviant arrested for drug use confessed to further offenses and the incident was resolved.",
+      "...However, though it was resolved... no one knew whether the part about it being Oyashiro-sama's curse was true or not."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「叔父だって雛見沢の人間ですからね。",
+      "オヤシロさまの祟りを大層怖がり、逃げ出して雲隠れしてしまったそうです。"
+    ],
+    "textEn": [
+      "\"Their uncle is part of Hinamizawa, after all.",
+      "He apparently grew incredibly frightened of Oyashiro-sama's curse and went into hiding."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………それで、解放されたんですか？",
+      "沙都子たちは。」"
+    ],
+    "textEn": [
+      "\"......And Satoko and Satoshi...",
+      "Were they released?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「叔母は死に、叔父は逃げ出し。",
+      "…誰も兄妹を苛める者はいなくなるはずだったんですが、",
+      "……………まるでその後を継ぐように、あの男が執拗に現れるようになったんです。」"
+    ],
+    "textEn": [
+      "\"Their aunt died, and their uncle fled.",
+      "...There was nobody left to torment the siblings then, but.........",
+      "as if picking up their torch, that man started showing up with alarming tenacity.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……あの男？」"
+    ],
+    "textEn": [
+      "\"...That man?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そこで監督は辺りを伺うように、ほんの少しだけ口調を低くした。"
+    ],
+    "textEn": [
+      "Then Coach lowered his voice just a bit as if being aware of his surroundings."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「大石です。」"
+    ],
+    "textEn": [
+      "\"I mean Ooishi.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………大石。",
+      "………さっきの、男…。」"
+    ],
+    "textEn": [
+      "\"......Ooishi.",
+      "......The guy from before...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "さっきの出来事が蘇る。",
+      "あの男から感じた、形容のしがたい不吉さが蘇る。"
+    ],
+    "textEn": [
+      "The events that just occurred came back to me.",
+      "The hard-to-describe ominous sensation I'd felt from him came back to me."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……あいつは、少しおかしいんですよ。"
+    ],
+    "textEn": [
+      "\"...He's a little strange."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "…オヤシロさまの祟りを巡る一連の事件はみんな解決しているのに、…あいつだけがそれを認めていないんです。」"
+    ],
+    "textEn": [
+      "...The chain of incidents surrounding Oyashiro-sama's curse have all been solved... and yet he alone doesn't want to accept that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……認めない？",
+      "…警察が事件は解決したとしているのに、その警察に属しているはずの刑事が、",
+      "認めない？"
+    ],
+    "textEn": [
+      "...Accept it?",
+      "...The incidents were all solved, and a detective supposedly with the police department...",
+      "didn't accept that?"
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……………あいつが近付く人間には必ず何か良からぬことが起こると言われています。",
+      "…雛見沢ではね、大石のことをオヤシロさまの、」"
+    ],
+    "textEn": [
+      "\"......People say that something bad will surely happen to those he gets close to.",
+      "...In Hinamizawa, they think Ooishi is Oyashiro-sama's—\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃぁあぁああぁん！！」"
+    ],
+    "textEn": [
+      "\"Kei-chaaaaaaan!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ガラリと威勢のいい音を立てて扉が開き、魅音が駆け込んできた。",
+      "少し遅れてレナと梨花ちゃん、それから富田くんや岡村くんや、クラスメートたちが何人か駆け込んでくる。"
+    ],
+    "textEn": [
+      "The door flew open with a rattle and Mion came rushing in.",
+      "Rena and Rika-chan came running in a few steps behind her, and then Tomita-kun, Okamura-kun, and a few more of our classmates."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「け、圭ちゃん…！",
+      "大石にやられたの？！",
+      "ケガを…？！」"
+    ],
+    "textEn": [
+      "\"K-Kei-chan...!",
+      "Did Ooishi do something to you?!",
+      "Are you hurt...?!\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「落ち着いて魅音さん。",
+      "怪我はありませんよ。",
+      "念のため湿布をしているだけです。」"
+    ],
+    "textEn": [
+      "\"Calm down, Mion-san.",
+      "He's not injured.",
+      "I only gave him a compress just in case.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん、本当に大丈夫かな？",
+      "かな？！",
+      "みんなに聞いたら、首を締め上げられてたとか言ってて…！」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun, are you really okay?",
+      "Okay?!",
+      "Everyone was saying stuff about how you were being strangled...!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「落ち着けよレナ。",
+      "肩をすげぇ痛く握られただけだ。",
+      "ほら、あざだってないだろ？」"
+    ],
+    "textEn": [
+      "\"Calm down, Rena.",
+      "He just squeezed my shoulders really hard.",
+      "See, there's not even a bruise!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………みぃ。」"
+    ],
+    "textEn": [
+      "\"......Meep.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ったくッ！",
+      "あんたら、何やってんだよ！！",
+      "仲間だろ？！",
+      "何でぼーっとしてたんだよ！！",
+      "何で圭ちゃんを助けなかったんだよ！！」"
+    ],
+    "textEn": [
+      "\"Geez!",
+      "What the heck were you all doing?!",
+      "We're friends, right?!",
+      "Why were you just standing around?!",
+      "Why didn't you help Kei-chan?!\""
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「ご、…ごめんなさい…委員長…。」"
+    ],
+    "textEn": [
+      "\"W-We're sorry... President...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が牙をむき出しにしながら、クラスメートたちを怒鳴りつける。",
+      "富田くんたちはシュンとうな垂れていた。"
+    ],
+    "textEn": [
+      "Mion yelled at our classmates, baring her fangs.",
+      "Tomita-kun and the others hung their heads in silence."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よせよ魅音…。",
+      "富田くんたちはその場にいなかったんだ。",
+      "責めるのはよせ。」"
+    ],
+    "textEn": [
+      "\"Quit it, Mion...",
+      "Tomita-kun and the others weren't even there.",
+      "Stop blaming them.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ち、……………ちっくしょう！！",
+      "大石のヤツ……！！」"
+    ],
+    "textEn": [
+      "\"Damn...... Damn it!!",
+      "Ooishi...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は不機嫌そうに床を踵で何度も蹴りつけていた。",
+      "その騒がしい様子を聞きつけ、先生までもやって来た。"
+    ],
+    "textEn": [
+      "Mion kicked the floor with her heel a few times, her temper running hot.",
+      "Our teacher, overhearing the commotion, arrived as well."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「こらこらこら！",
+      "保健室で騒がしくしてはいけません！",
+      "委員長、みんなを連れて保健室から出なさい！」"
+    ],
+    "textEn": [
+      "\"Hey, come on, everyone!",
+      "Don't make so much noise in the nurse's office!",
+      "President, take everyone and leave, please!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ほら、みんな！",
+      "もう行こ！",
+      "圭一くんは大丈夫だって。",
+      "ほら、魅ぃちゃんも。」"
+    ],
+    "textEn": [
+      "\"Come on, everyone!",
+      "Let's get going!",
+      "Keiichi-kun is fine.",
+      "You too, Mii-chan.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "感情の高ぶる魅音に代わって、レナがそう告げ、みんなを連れ保健室から出て行ってくれた…。",
+      "興宮署の刑事、大石蔵人、か……。",
+      "……結局、俺があの男に抱いた第一印象は間違っていなかった。",
+      "昨日から感じていた漠然とした不安感は沙都子の欠席によって一層増し、",
+      "…大石の登場で確信に変わったと言っていい。"
+    ],
+    "textEn": [
+      "Mion was letting her emotions get the best of her, so Rena stepped in instead and led everyone out of the nurse's office.",
+      "The detective from Okinomiya Station, Kuraudo Ooishi...",
+      "...It looked like the first impression I'd gotten from him hadn't been mistaken.",
+      "Satoko's absence had amplified the vague apprehensions I'd felt since yesterday...",
+      "and Ooishi's appearance basically sealed the deal."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「さて。",
+      "…じゃあ私はこれで失礼します。",
+      "もともと知恵先生に用事があって来たんです。」"
+    ],
+    "textEn": [
+      "\"All right.",
+      "...I'll get going.",
+      "I originally came here for Chie-sensei.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……あ、…用事があって学校に来たんですよね…。",
+      "俺なんかのために、どうもすみませんでした…。」"
+    ],
+    "textEn": [
+      "\"...Ah... So you had something to do here...",
+      "Sorry for causing you trouble...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "かしこまらないで下さい、と言って、監督は緩やかに笑ってくれた。"
+    ],
+    "textEn": [
+      "\"Don't be so humble,\" he said, smiling easily."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「お陰で、役得と言いますか。",
+      "…前原くんのキメ細やかなお肌も存分に堪能できましたよ。",
+      "はふぅ〜〜〜…☆」"
+    ],
+    "textEn": [
+      "\"There was a side benefit to all this.",
+      "...I was lucky enough to experience so much of your soft, silky skin, Maebara-kun.",
+      "Hafuu~~~...☆.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "と、監督ならではのお約束な捨て台詞付きで。"
+    ],
+    "textEn": [
+      "With the usual (for Coach, anyway) parting words, he instead continued."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「では失礼します。",
+      "大した怪我ではありませんが、患部を揉んだりするようなことはくれぐれも避けてください。"
+    ],
+    "textEn": [
+      "\"Please excuse me.",
+      "You weren't wounded badly, but please avoid putting pressure on your shoulders or anything along those lines."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "もしも高熱が出たり、腫れたりするようなことがあったらすぐに連絡してくださいね。",
+      "そんな事はないとは思いますが。」"
+    ],
+    "textEn": [
+      "If you get a high fever or it starts to swell, contact me right away, okay?",
+      "I don't think it'll happen, though.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…あ、……そうだ、監督。",
+      "…さっきみんなが来る直前、何か言ってましたよね。",
+      "大石のことをオヤシロさまの何とか、って。」"
+    ],
+    "textEn": [
+      "\"...Oh... That's right, Coach.",
+      "...Before everyone came in, you were going to say something.",
+      "About what people think Ooishi is to Oyashiro-sama.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "保健室を出て行こうと、扉に手をかけた監督の手が止まる。"
+    ],
+    "textEn": [
+      "As he was about to leave the nurse's office, Coach placed a hand on the door and stopped."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……あぁ、",
+      "",
+      "「オヤシロさまの使い」",
+      "、ですよ。",
+      "もちろん悪口ですがね。」"
+    ],
+    "textEn": [
+      "\"...Right.",
+      "They think he's",
+      "Oyashiro-sama's servant",
+      ".",
+      "They're just bad-mouthing him, though.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…オヤシロさまの、……使い？」"
+    ],
+    "textEn": [
+      "\"...Oyashiro-sama's... servant?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……前原さんは雛見沢で毎年綿流しの夜に起こる、雛見沢村連続怪死事件…通称、「オヤシロさまの祟り」のことはご存知ですか？」"
+    ],
+    "textEn": [
+      "\"...Do you know about the serial freak death incidents that occur in Hinamizawa every year on the night of the Watanagashi Festival... otherwise known as Oyashiro-sama's curse?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……え、……連続怪死……？",
+      "え……？」"
+    ],
+    "textEn": [
+      "\"...What... Freak deaths...?",
+      "What...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう言えばずいぶん前に…そんな物騒な、怪談みたいな話を魅音だかクラスメートだかに聞かされたことがあるような……。",
+      "６月のお祭りの日に必ず誰か１人が死んで、",
+      "さらに誰か１人が神隠し（この辺りでは鬼隠しと呼ぶらしい…）に遭うという、",
+      "……何だかよく出来た話だった。",
+      "俺を怖がらせるための作り話だと思っていたのだが………………。",
+      "…本当の話だったのか………。"
+    ],
+    "textEn": [
+      "Now that I thought about it... I did seem to remember overhearing Mion or someone in class talking about it like a ghost story...",
+      "On the festival day in June, one person would always die,",
+      "and another person would be spirited away (but they seem to call it \"demoning away\" here...).",
+      "...What a fine story that was.",
+      "I figured they made it up to scare me, but.........",
+      "...It was true...?"
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…一体、どこの誰が言い出したのかもわからない話ですが。",
+      "……いつの頃からか、大石のことを「オヤシロさまの使い」と呼ぶようになりました。」"
+    ],
+    "textEn": [
+      "\"...I don't have any idea who first suggested this.",
+      "...But at some point, everyone started calling Ooishi 'Oyashiro-sama's servant.'\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……なぜですか？」"
+    ],
+    "textEn": [
+      "\"...Why?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…あの男がその年の祟りの犠牲者を決めている、",
+      "…と噂されているからです。」"
+    ],
+    "textEn": [
+      "\"...Because the rumors go that he...",
+      "decides the sacrifices for the curse every year.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "６月が近付くと、大石が頻繁に雛見沢に訪れるようになる。"
+    ],
+    "textEn": [
+      "Whenever June came around, Ooishi would start paying frequent visits to Hinamizawa."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……亡くなったり、消えたりする人たちの多くが、あの男の執拗な訪問を受けているからです。」"
+    ],
+    "textEn": [
+      "\"...Because Ooishi had been persistently questioning most of the dead or disappeared people.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "４年前の犠牲者と噂されるバラバラ殺人の犠牲者は事件の直前、何度も大石と接触していたことが知られている。",
+      "３年前の犠牲者である沙都子の両親。",
+      "…転落事故が起こる直前、大石が何度か自宅を訪れていたらしい。",
+      "２年前の失踪者である梨花ちゃんの母。",
+      "失踪直前にやはり、大石に過剰な接触を受けていたことが知られている。",
+      "１年前の失踪者である……沙都子の兄、",
+      "悟史。",
+      "悟史もまた、失踪の直前に何度も大石の接触を受けていたとか……。",
+      "そして今年。",
+      "…その大石は、……沙都子への接触を求めてきた……？"
+    ],
+    "textEn": [
+      "Four years ago, it was known that the victim of the dismemberment—rumored to be the sacrifice—had been seeing Ooishi numerous times leading up to the incident.",
+      "The sacrifices three years ago were Satoko's parents.",
+      "...Right before their accidental deaths, Ooishi had apparently visited their home.",
+      "The one who disappeared two years ago was Rika-chan's mother.",
+      "And again, people know that before she vanished, Ooishi had been talking to her extremely frequently.",
+      "The one who disappeared last year... Satoko's older brother,",
+      "Satoshi.",
+      "Satoshi, too, had apparently been approached by Ooishi many times before he vanished...",
+      "And then, this year.",
+      "...This time... Ooishi was trying to contact Satoko...?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………じょ、……冗談じゃ、…ないです。」"
+    ],
+    "textEn": [
+      "\".........This... This isn't... a freaking joke.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「噂ですよ、前原さん。",
+      "…そういう噂がある、というだけです。」"
+    ],
+    "textEn": [
+      "\"They're rumors, Maebara-san.",
+      "...There's just some rumors to that effect.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺が冗談じゃないと思ったのは、…オヤシロさまの使いと噂され、その年の祟りの犠牲者に予め接触してくるという大石の噂なんかじゃない。",
+      "………俺が大石に対して感じていた不吉な嫌悪感が、ますます掻きたてられるように…裏付けられたからだ。"
+    ],
+    "textEn": [
+      "I hadn't said that because of the rumors of Ooishi being Oyashiro-sama's servant, or his contacting someone foreshadowing who would be the sacrifice that year.",
+      "...It was because the ominous hatred I felt towards Ooishi was becoming... more substantiated, more real."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あの、…………沙都子、今日、…欠席したじゃないですか。」"
+    ],
+    "textEn": [
+      "\"Umm...... Today, Satoko... She was absent today.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「え、そうなんですか？」"
+    ],
+    "textEn": [
+      "\"Wait, really?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "監督は初耳なようだった。",
+      "………ひょっとすると、沙都子が欠席した理由を知っているんじゃないかと思ったのだが、……………。"
+    ],
+    "textEn": [
+      "That looked like news to Coach.",
+      "...I had thought he might have known why Satoko was absent today, but..."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「では失礼します。",
+      "前原くんも早くみんなのところに行って、安心させてあげるといいでしょう。」"
+    ],
+    "textEn": [
+      "\"Then I'll get going.",
+      "You should go back to the others and put their minds at ease.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうですね。",
+      "……そうします。」"
+    ],
+    "textEn": [
+      "\"You're right.",
+      "...I will.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ガラリ。",
+      "…監督は保健室を出、職員室の方へ向かっていった…。"
+    ],
+    "textEn": [
+      "Clatter.",
+      "...Coach left the nurse's office and headed towards the teacher's lounge..."
+    ]
+  }
+]

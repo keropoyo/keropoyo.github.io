@@ -1,0 +1,22 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「そうねぇ……よくできた推理小説……う〜ん……",
+      "結構どれもこれも色んな魅力があって、どれが面白かったとは言いにくいけど、強いてあげれば……」"
+    ],
+    "textEn": [
+      "\"Of course... well done mystery novels... yeah...",
+      "They all have a unique charm to them so it's hard to say which is the most interesting, you'd really have to force me to pick one...\""
+    ]
+  }
+]

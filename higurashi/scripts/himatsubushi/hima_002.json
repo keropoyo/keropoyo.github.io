@@ -1,0 +1,1840 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "市内の安ホテルでの目覚めは、お世辞にも快適とは言えなかった。",
+      "小学生の頃、長い林間学校などで、早く家に帰りたくて、毎日、林間学校の終わる日を指折り数えていたのを思い出す。",
+      "……今朝の目覚めは、何となく、それを思い出させる何かがあった。",
+      "…妻の出産に立ち会いたいという感情に起因する、一種のホームシックなのか。",
+      "一社会人として、公務を全うしなければならない職員として、…情けない。",
+      "そんなネガティブな感情は、そんなに不味くないモーニングセットを平らげる頃には薄れていた…。",
+      "大石氏が手配してくれた情報屋との接触は今夜ということになっている。",
+      "それまで、ただ横になっているわけには行かない。",
+      "鬼ヶ淵死守同盟は、反ダムの抵抗として様々な方面に活動を展開していた。",
+      "その中にはマスコミに対するＰＲもあり、これは大きく分けて２つの戦略、闘争路線と平和路線で展開されていた。",
+      "",
+      "前者の闘争路線は、警察の横暴や非人道的扱い、機動隊の蛮行をアピールするなどで、警察の動きの牽制を狙ったもの。",
+      "後者の平和路線は、雛見沢の自然環境がいかに貴重で、大切にしなければならないものかをアピールし、環境保護の線から反ダムに理解を求めるものだ。",
+      "…この後者の一環として、雛見沢村は、著名な動植物学者や環境保護団体を招き、雛見沢の自然を宣伝していた。",
+      "情報によれば、近年、雛見沢・大自然ウォッチングと称して、希望者を無償で観光させる企画もあったという。",
+      "",
+      "…これに便乗できればよかったが、村役場に問い合わせた所、募集はすでに終わり、次回予定も未定という答えが返ってきた。"
+    ],
+    "textEn": [
+      "Waking up in a cheap hotel in the city was by no means pleasant.",
+      "I remembered even during the long camping trips we had during grade school, I wanted to get home quickly, counting out the days left on my fingers.",
+      "...Waking up this morning, I was somehow reminded of that.",
+      "...Was it a need to be with my wife when she gave birth? A particular type of homesickness?",
+      "As a productive member of society, as a public servant bound to fulfill his duties... it was pathetic indeed.",
+      "Those negative emotions faded as I downed my breakfast, which was surprisingly not half-bad...",
+      "The meeting with the informant that Ooishi had provided would be tonight.",
+      "Until then, I couldn't just be lazing around.",
+      "The Onigafuchi Defense Alliance was protesting the dam's construction in various ways.",
+      "Included in this was a strategy for improving public relations, which could be categorized into two major forms: combative and peaceful.",
+      "<size=-2>",
+      "In regards to the former, as an attempt to keep law enforcement in check, they appealed to the public's sympathy by highlighting the oppressive and inhumane tactics of the police and the brutality of the riot squads.",
+      "The latter, peaceful, route stressed how precious the natural surroundings of Hinamizawa was, seeking people who would oppose the dam on environmental grounds.",
+      "As a part of that, the village of Hinamizawa had invited celebrated zoologists and botanists, as well as environmental groups, to advertise the nature surrounding the town.",
+      "According to the news, in recent years there had been a group calling itself \"Hinamizawa Nature Watching\" setting up free sightseeing tours.",
+      "<size=-2>",
+      "...I would have liked to have taken advantage of the opportunity, but when I called the village administrative offices, they responded that it was too late to put in an application for the tour, and they were still undecided as to when they'd be doing another one."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「……そうですか。",
+      "次回の募集はありませんか。",
+      "…残念です。」"
+    ],
+    "textEn": [
+      "\"...I see.",
+      "So there's no applications for next time.",
+      "...Too bad.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Village Officer",
+    "labelJp": "村役場",
+    "textJp": [
+      "「あんた、環境保護団体さんですか？",
+      "それとも雑誌社の人？」"
+    ],
+    "textEn": [
+      "\"Are you a member of an environmental group?",
+      "Or maybe somebody from a magazine?\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「いえ、個人です。」"
+    ],
+    "textEn": [
+      "\"No, just here privately.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Village Officer",
+    "labelJp": "村役場",
+    "textJp": [
+      "「個人？　観光ですかね？」"
+    ],
+    "textEn": [
+      "\"Privately? Then you're a tourist?\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「…観光みたいなものです。",
+      "美しい自然を写真に残すのが趣味なんで。",
+      "雑誌で、とても貴重な自然が残っていると読んだので、楽しみにしていたのですが…。」"
+    ],
+    "textEn": [
+      "\"...Something like that.",
+      "It's my hobby to take pictures that display how beautiful nature can be.",
+      "I read in a magazine that there were some precious nature reserves here, so I was looking forward to it...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そういう記事があったらしいのは知っているが、実際に読んだわけじゃない。",
+      "……こんな出任せの嘘では駄目か……？",
+      "そう思った時、先方が愉快そうに笑い出した。"
+    ],
+    "textEn": [
+      "I knew there was an article that had something like that written in it, but I hadn't actually read it.",
+      "Was it this ad-libbed lie not going to work...?",
+      "However, contrary to my expectations, the person I was speaking to laughed happily."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Village Officer",
+    "labelJp": "村役場",
+    "textJp": [
+      "「わっはっは！",
+      "ならあんた、来なさい来なさい。",
+      "村はちょいと慌ただしいけど、歓迎しますよ！",
+      "わはははは！」"
+    ],
+    "textEn": [
+      "\"Wa ha ha!",
+      "Then come, come.",
+      "The village is a little busy right now, but you're totally welcome here!",
+      "Wahahahaha!\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「ぜひそうさせていただきます。ありがとうございます。」"
+    ],
+    "textEn": [
+      "\"In that case, I'll graciously accept the offer. Thank you.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Village Officer",
+    "labelJp": "村役場",
+    "textJp": [
+      "「あんた、足は何ですか？",
+      "お車？",
+      "もしそうだったら先にナンバーを聞いておきますよ。",
+      "いえいえ、他意はないんですがね…、わはははは…！」"
+    ],
+    "textEn": [
+      "\"How are you getting around?",
+      "Car?",
+      "If that's the case, could I ask you for your license plate number?",
+      "No, no, there's no ulterior motive behind that... wahahahaha!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "村へ行く途中にある、私設検問所の関係なのだろう。",
+      "……ここで予めナンバーを伝えておかないと、きっと、いろいろと足止めを食らうに違いない…。",
+      "県警で借りた車を使おうかと思ったが、…車のナンバーを教えていいものか、迷った。",
+      "……もしも、鬼ヶ淵死守同盟が、今回の事件を起こせるような団体なら。",
+      "…ナンバーから私の身元を割らないという保証もない。",
+      "………………ここでは慎重策から、車の使用は控えることにする。"
+    ],
+    "textEn": [
+      "That was probably related to the checkpoints they'd set up on the way to the village.",
+      "If I didn't give them my license plate number, I'd most likely be hindered in various ways...",
+      "I thought about using the car I had borrowed from the prefecture, but I was lost on whether it was okay to tell them that plate number.",
+      "...If the Onigafuchi Defense Alliance was behind this incident...",
+      "There was no guarantee that they wouldn't be able to find out who I was.",
+      "...I had to play it safe, so I elected to refrain from using the car."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「いえ、…実は車ではないんです。",
+      "バスか何かがあればそれで行きたいのですが…。」"
+    ],
+    "textEn": [
+      "\"No... actually, I'm not using a car.",
+      "If there's a bus or something, I'd prefer that...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Village Officer",
+    "labelJp": "村役場",
+    "textJp": [
+      "「バスならありますよ。",
+      "もうすぐ廃線になっちまうそうですがね。",
+      "そんでいらっしゃい。",
+      "興宮の駅から出ますよ。」"
+    ],
+    "textEn": [
+      "\"We do have a bus, actually.",
+      "The route is going to be discontinued soon, though.",
+      "You can take that.",
+      "It departs from Okinomiya Station.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「ありがとうございます。",
+      "探してみることにします。」"
+    ],
+    "textEn": [
+      "\"Thank you very much.",
+      "I'll look out for it.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Village Officer",
+    "labelJp": "村役場",
+    "textJp": [
+      "「あんた、いつ来ます？",
+      "雛見沢さ初めて？",
+      "初めての土地じゃあ、いろいろとご不安でしょ。",
+      "教えてくれりゃあ、誰か行かせていろいろご案内させますよ。」"
+    ],
+    "textEn": [
+      "\"When will you be coming?",
+      "Is it your first time in Hinamizawa?",
+      "If it is, you must be unsure about a lot of things.",
+      "If you let me know, I can have somebody show you around.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「そんな…そこまでしていただくのは申し訳ないです。」"
+    ],
+    "textEn": [
+      "\"Oh no... I couldn't ask that much of you.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Village Officer",
+    "labelJp": "村役場",
+    "textJp": [
+      "「わはははは！",
+      "気にせんで下さい。",
+      "こんれも、村の自然さ守るためのＰＲなんですから〜。」"
+    ],
+    "textEn": [
+      "\"Wahahahaha!",
+      "Don't worry about it.",
+      "That's just a bit of PR we do, to protect nature around the village~.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あの検問所を見てもわかるように、…村人たちは余所者に対して排他的な感情が少なからずあるに違いない。",
+      "だから、村を自由に出入りするには、警察等の、例えば大石氏に同行するか、…反ダムに賛成する者である必要がある。",
+      "村の貴重な自然に興味を持つ、ということは、村が行なう平和路線でのＰＲに賛同しているということだ。",
+      "……お目付役が付くことに、少しの抵抗もあるが、…ここはむしろ好意に甘えるのも手かもしれない。",
+      "村中が反ダムで盛り上がっているのだから、…住民に率直なことを聞く機会にも恵まれるかもしれない。",
+      "…………相手の申し出を、無理に断る理由はないようだった。"
+    ],
+    "textEn": [
+      "Judging by what I saw at the checkpoint, the villagers were at the very least wary of outsiders.",
+      "That's why in order to move in and out of the village freely, I had to travel with somebody like Ooishi, or side with the dam protests.",
+      "Having an interest in the natural environment surrounding the village tied into the peaceful type of PR that the village was using.",
+      "...I was a bit against having a watchdog attached to me, but that might actually work out in my favor.",
+      "The entire village was fired up about the dam protests, so I might be lucky enough to hear some especially candid opinions from the residents.",
+      "...Given that, there was no real reason for me to refuse their offer."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「本当によろしいのでしょうか…？",
+      "でしたら本当に…助かります。」"
+    ],
+    "textEn": [
+      "\"Is it really all right...?",
+      "If so, that'll really help.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その後、バスの時刻表を教えてもらい、何時のバスに乗ればいいと指示をもらった。",
+      "村の停留所に迎えを出してくれるという。",
+      "…適当にこちらの気に入りそうなスポットに案内した後、反ダム資料館みたいなところへ連れて行くに違いない。",
+      "そして、お茶でも飲ませながら、自分たちの主義主張をねっちりと吹き込んでくるのだろう。",
+      "まぁ、それが目的でいろいろなサービスが付くのだから、世の中はギブアンドテイク、ということだ。",
+      "……スーツで行く訳には行かない。",
+      "旅行鞄から平服を取り出し、ラフな格好に着替えた。",
+      "それから、のんびりと地元のテレビを見て気持ちを落ち着かせた後、私は興宮駅へ向かうためホテルを出た…。",
+      "…廃線間近だと教えられたバスは、とてもそんな風には見えなかった。",
+      "ダイヤは十分にあり、利用客も決して少なくない。",
+      "興宮という唯一の町との動脈を担う、主要交通機関だった。",
+      "利用している客層も、車の運転が出来なさそうなお年寄りや免許を持っていなさそうな雰囲気の主婦が目立つ。",
+      "…ダムで水底に沈む地区だから、バスの路線はあってもしょうがない。",
+      "だから廃線……という図式はどことなく無理があるように感じた。",
+      "村人の交通を遮断して立ち退きを促進させようという、国側の悪意が見え隠れするような気がしなくもない。",
+      "なるほど、…資料によれば、建設省と地元との話し合いはだいぶ初期に決裂しているという。",
+      "………国はだいぶ早い時点から、全面対決姿勢を打ち出しているということか。",
+      "…ほら、旅人からマントを奪おうとする北風とお日様のおとぎ話があるじゃないか。",
+      "……こんな意地悪をしたって、何の意味もないのに。",
+      "鬼ヶ淵死守同盟が、あれだけ過激に抵抗するということは、……それに相対する国側も、それだけの嫌らしいことをしてきたということだ。",
+      "……自分は東京に住んでいる人間だから、こんな田舎にある村のひとつやふたつ、水没したって何の気にもならないが。",
+      "………やはり、そこに住んでいる当事者にとっては、命懸けの大問題なのだ。",
+      "「本路線は、本年度をもって廃線となります。",
+      "これまでのご利用、誠にありがとうございました。",
+      "今後とも、在来線に変わらぬご愛顧をよろしくお願いいたします。",
+      "興宮交通」",
+      "バス内に掲示された廃線告知をぼんやりと眺めながら、私は指定された停留所まであといくつあるかを数えていた……。",
+      "途中、停車こそしなかったが、あの検問所を通り抜けた。",
+      "バスが通る時間は分かっているから、予めバリケードを開けてあるわけだ。",
+      "………ここからはもう、敵地。",
+      "……手の平には、いつの間にかうっすらとした汗が浮かんでいた……。"
+    ],
+    "textEn": [
+      "After that, I was shown the bus schedule, and directed to which bus I should get on.",
+      "Somebody would come and meet me at the bus stop in the village.",
+      "...After showing me around a spot I'd take an interest in, there was no doubt they'd bring me to somewhere like an anti-dam information center.",
+      "Then, over a cup of tea, they'd try and indoctrinate me into accepting their principles and beliefs.",
+      "Well, if that was their aim, there'd be a lot freebies involved. The world is about give and take, after all.",
+      "...I couldn't be going in a suit.",
+      "I pulled some plain clothes out of my travel case, and changed into something more casual.",
+      "After that, after calming down by watching some local television, I left the hotel and set out for Okinomiya Station.",
+      "The bus route that I was told would soon be discontinued certainly didn't look that way.",
+      "There was more than enough trips on the schedule, and the number of passengers was by no means sparse.",
+      "It was the main link to Okinomiya, the only town in the area.",
+      "The types of passengers that stood out were older folk who didn't look like they could drive and housewives who didn't seem like they had a license.",
+      "...If the area was submerged at the bottom of the lake, it wouldn't matter if there was a bus route.",
+      "That's why it was going to be discontinued... in the unnatural scheme of things.",
+      "I could catch a glimpse of the government's intent in cutting off their means of transportation to bully the village into emptying out sooner.",
+      "It makes sense... according to the documents, talks between the Ministry of Construction and the locals broke down quite early.",
+      "...The government decided from the start to take an aggressive stance on the matter.",
+      "...It was like the fairy tale with the North Wind and the Sun trying to get the traveler remove his cloak.",
+      "...Even their bullying had meaning to it.",
+      "The reason why the Onigafuchi Defense Alliance resisted so violently... was because the government was doing unseemly things like that.",
+      "I was somebody who lived in Tokyo, so for a village or two out in the boonies like this to be submerged didn't seem like a big deal.",
+      "...But, I guess for somebody actually living here, it would be a vitally huge problem.",
+      "\"This route will be discontinued at the end of this financial year.",
+      "Thank you for your patronage up to this point.",
+      "We look forward to your continued patronage on our other lines.",
+      "Okinomiya Transportation.\"",
+      "Gazing lazily at the notice of discontinued service posted inside the bus, I counted down the number of stops until the designated one...",
+      "Along the way, we passed through the checkpoint before without stopping.",
+      "They knew what time the bus was coming, so they had opened up the barricade ahead of time.",
+      "...From here on out was enemy territory.",
+      "My palms had at some point become coated in a thin film of sweat..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Bus Announcer",
+    "labelJp": "バスアナウンス",
+    "textJp": [
+      "「宇喜田水道前〜。",
+      "宇喜田水道前〜、",
+      "お降りの方はいらっしゃいませんか〜。」"
+    ],
+    "textEn": [
+      "\"Now arriving at Ukita Waterworks~.",
+      "Now arriving at Ukita Waterworks~.",
+      "Are there any passengers disembarking?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "指定された停留所をアナウンスする声に、慌てて降車のボタンを押す。",
+      "…これだけの客がいても、誰も降車しないということは、…相当、辺鄙な場所のようだった。",
+      "実際、停車した場所は非常に寂れていて、普段はほとんど使われていないのが見て取れた。",
+      "降り立ってすぐに、バスの車内とはまったく異なる…厳しい大気が全身に襲い掛かってきた。",
+      "今、私の隣に大石氏や本田屋氏はいない。",
+      "そう、私は今、単身で敵地のど真ん中に降り立ったのだ。",
+      "相手は私を一観光客に過ぎないと思っているだろうが、…それは謀っただけのこと",
+      "。………何かの間違いで私の招待が露呈することになれば、",
+      "…………。",
+      "県警公安部での、雛見沢では白昼堂々とナイフで襲われても、証拠も何も残らないという恐ろしい言葉が蘇る……。",
+      "…自分に不審な様子はないだろうか…？",
+      "服装は、…至ってラフ。",
+      "都会者が田舎を保養地と見下し、のこのことやって来たような服装そのものだ。",
+      "カメラにナップザック。",
+      "中には、ハイキング的な小物が少々。",
+      "…まだ６月だが、異常気象なのか、今年の日差しはもう真夏のようだ。",
+      "………帽子を持ってこなかったのは不自然だろうか…。",
+      "……いや、…そんなに気にするほどのものでもないはず…。",
+      "大丈夫、……ただの観光客だ。",
+      "……ただの。",
+      "不審なところなど、…あるものか……。",
+      "そう思い、発進するバスを振り返った時、",
+      "………窓際の乗客たちが、みんな私を見下ろしているのに気付き、唖然とする。",
+      "彼らは…私の、ちっぽけな自己満足の偽装を、",
+      "………丸ごと見透かしたような目で、",
+      "…………ただじっと、",
+      "…見下ろしていた。",
+      "車内の熱気を逃がすために開けられた窓から、投げかけられる…針のような目線が無数に降り注ぐ。",
+      "……………注がれるのは目線だけ。",
+      "…誰も、……何の言葉も発しない。",
+      "…でも、だからこそ。",
+      "…………無言の視線は、百万の言葉よりも…雄弁に私に語りかけていた。",
+      "………とっとと東京に帰れ。",
+      "余所者が。"
+    ],
+    "textEn": [
+      "I hurriedly pressed the stop request button as the designated stop was announced.",
+      "...For none of the numerous passengers to be getting off here meant that it must be quite a remote place.",
+      "In actuality, the stop I got off at was so abnormally run-down that I could tell it was barely used.",
+      "As soon as I stepped out, an intense atmosphere completely different than the interior of the bus assailed my body.",
+      "Right now, Ooishi or Hondaya weren't beside me.",
+      "That's right--at present, I was alone in the middle of enemy territory.",
+      "My adversaries probably thought I was just an ordinary tourist, but that was nothing more than a ruse.",
+      "...But if by some mistake my true identity was to be exposed",
+      "...",
+      "It brought back the terrifying words I had heard at the prefectural office... that if somebody was attacked in Hinamizawa with a knife, there wouldn't be any evidence left behind...",
+      "...I didn't seem suspicious, did I?",
+      "My clothing was currently casual.",
+      "It was exactly the type of clothing that a city slicker that viewed the countryside as a wholesome getaway would wear.",
+      "A camera and knapsack.",
+      "Inside were various things needed for hiking.",
+      "...It was still only June, and maybe it was unusual, but the sun was shining down like it was already the middle of summer.",
+      "...The fact that I didn't bring a hat must seem odd...",
+      "...No... It wasn't something to be that concerned about...",
+      "It's alright... ...I was just a normal tourist.",
+      "...Just normal.",
+      "Was there anything suspicious about me...?",
+      "Asking that, as I turned around to look at the bus that was departing...",
+      "...All the passengers by the window were staring down at me, silently.",
+      "They were... staring right at me...",
+      "...As if they had seen right through my proud little outfit...",
+      "...Just staring...",
+      "looking down on me.",
+      "Countless stares rained down like needles on me from the windows opened to air out the bus.",
+      "...All that rained down were stares.",
+      "...None of them... were saying a word.",
+      "...But, all the more...",
+      "...Their silent stares told me more than a million words could.",
+      "...Hurry up and go back to Tokyo.",
+      "You outsider."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「……………………………………………い、……いえ、…私は…、」"
+    ],
+    "textEn": [
+      "\"....N-no... I'm...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "言っても意味はない。",
+      "…こんな小声はエンジンの音に掻き消されている。",
+      "バスは、私を虐めるかのように…ゆっくりと走り出し、……充分に私を威圧した後、走り去って行った………。",
+      "……全身に、じっとりとした薄い汗が浮く。",
+      "………………資料では、余所者に排他的な雰囲気のある村だった。",
+      "……人口も少ない。",
+      "知らない顔があれば、すぐに余所者と気付かれてしまうのかもしれない。",
+      "…それに、この停留所では誰も降りなかった。",
+      "………普段は素通りしてしまうような停留所なのだ。",
+      "そこに、…わざわざ降り立ったものだから、……興味をひかれたに違いない…。",
+      "…だが、……何も落ち度があるものか…。",
+      "この停留所を指定してきたのは向こうだ。",
+      "……何も、…心配することなど…ない。",
+      "……初めての、潜入紛いの調査に、緊張が高まっているのがわかる。",
+      "……先輩方からは、アガることを知らぬ新人類などと呼ばれるが、………そんなことはない…。"
+    ],
+    "textEn": [
+      "There was no reason for me to speak.",
+      "...My quiet voice was drowned out by the sound of the engine.",
+      "The bus, as if to torment me... set out slowly, and after doing more than enough to intimidate me, sped off...",
+      "...A thin film of sweat began to rise from my entire body.",
+      "According to the documents, it was a village that seemed wary of outsiders.",
+      "...Its population was small, as well.",
+      "If they saw an unfamiliar face, they would be quick to identify that face as an outsider.",
+      "...On top of that, nobody else had gotten off at this stop.",
+      "...It was a bus stop that they normally just passed on by.",
+      "Somebody actually getting off there... there was no doubt that had drawn some attention.",
+      "...But... this wasn't a slip-up...",
+      "They were the ones who directed me to get off at this stop.",
+      "...There was nothing... to worry... about.",
+      "...I knew that I was just nervous, since this was my first undercover assignment.",
+      "...My more seasoned colleagues referred to us as \"the new generation that didn't know how to lose their cool\"... but that wasn't true at all.."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「………………………………ふぅ…。」"
+    ],
+    "textEn": [
+      "\".....Phew.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "呼吸を落ち着けるために、…腹の底に溜まった嫌な空気を一度、吐き出す。",
+      "バスが立てる真っ白い、もうもうとした排気ガスが掻き消えるように、私の中の緊張も消えてくれと、祈らずにはいられなかった…。",
+      "雨をしのぐ為の、小さな小屋があり、そこで待つことになっていた。",
+      "小屋の中には……壁一面に、ダム反対を記したチラシがベタベタと貼られていた。",
+      "それは村人たちの、心からの叫びを壁一面に記したかのようで。",
+      "……小屋の中に、言いようの知れない迫力を感じさせていた。",
+      "……自分は別にダムの関係者ではないはずなのに、…この中に踏み込んでいいか、躊躇させられる…。",
+      "そういう拒絶のエネルギーに満ちた空間だった。",
+      "そして………そんな、……張り詰めた場所に、…少女はいた。",
+      "筆書きで、ダム政策を罵るように批判した文書や決起文が一面に張られた小屋内で、………とろんとした眼差しで、…半分、眠りかけたように、……少女は座っていた。",
+      "そのあまりに不釣合いな、……それでいて、どこか幻想的な雰囲気に、…私はしばしの間、……呆然としていた。",
+      "この中に踏み込めば、自分がどんな無粋な物音を立ててしまうかわからない。",
+      "……そんなことで、少女のまどろみを汚してはならない…。",
+      "そう思い、…私は小屋に踏み込むのをやめる。",
+      "ただ子供が寝ているだけで、なぜこんなにも気を…？",
+      "…やがて、気付く。",
+      "そう、この少女は、…………………………私たち夫婦の、理想の子の姿だったからだ。",
+      "病院で受けた何度かの診察でも、男の子である確証は得られなかった。",
+      "……男の子であるか否かは結局、性器が撮影できるか否かでしかないからだ。",
+      "絶対、女の子であるという確証も無論ないのだが、……そうである可能性が高いという。",
+      "雪絵は、それでも生まれる子は男女五分の確率だと言っている。",
+      "……だが、私は内心、生まれ来る子は……女の子だと、決めていた。",
+      "そう心に決めた日から今日まで、…生まれ来る子が、どんな姿で成長するかを想像するのが……楽しくて楽しくて仕方がなかった。",
+      "その、いくつも想像した姿の中で、………もっとも理想的だと思っていた姿が、…目の前の少女に、具現されていたのだ。",
+      "……もちろん、多少はご都合主義も入ってる。",
+      "…私の想像では、髪は短めだった。",
+      "でも少女の髪は、長い。",
+      "まるで、……少女の容姿に合わせて、自分の理想像が書き直されているような…そんな錯覚をしてしまう。",
+      "……それは決して不快なことではなかった。",
+      "……そんな少女を、こうして目線にさらすだけでも、…汚してしまっている気がする。",
+      "………少女には、そんな清楚さが、……いや、神々しさがあった。"
+    ],
+    "textEn": [
+      "In order to calm my breathing down... I exhaled the unpleasant air residing in the pit of my stomach.",
+      "I couldn't help but pray that my apprehensions would disappear like the white clouds of exhaust expelled from the bus.",
+      "There was a small shed there to serve as shelter if it rained, and it was there I decided to wait.",
+      "Inside the shed, one wall was plastered with posters advertising the dam opposition efforts.",
+      "It was like the heartfelt screams of the villagers were recorded on that wall.",
+      "...Inside that shelter, I felt an inexplicable pressure.",
+      "...It wasn't like I had any real relation to the dam project, but it still made me feel hesitant about being inside there.",
+      "That was just how filled with the force of denial that space was.",
+      "And... inside that uneasy space... was a girl.",
+      "Inside that shed covered in words written in broad brush strokes berating the policies regarding the dam and calling for action... there was a girl sitting there with a drowsy gaze, as if half asleep.",
+      "The two images clashed so much that I could only stand there dumbfounded for a moment, trapped in such a surreal environment.",
+      "If I stepped inside, who knew what kind of oafish noises I would accidentally make.",
+      "...I couldn't be disturbing this girl's slumber like that...",
+      "Having thought this, I gave up on entering the shed.",
+      "It was just a sleeping kid, so why was I so worked up about it?",
+      "...Finally, I realized.",
+      "This girl... to us, as a married couple, was the very image of our ideal child.",
+      "Even after numerous examinations at the hospital, we didn't know for sure what our child's gender was.",
+      "...Whether we could tell if they were a boy or a girl was, in the end, dependent on whether or not we could get an image of their genitalia.",
+      "There was, of course, no guarantee that it was a girl... but with things the way they were, the possibility was high.",
+      "Even so, Yukie had been saying that the chances that it was a boy or a girl were even.",
+      "...But in my heart, I had already decided that our coming child... was a girl.",
+      "Since the day I decided that until now... it was so fun to imagine how our child would grow up that I couldn't help myself.",
+      "Amongst those numerous imagined forms... the one that I thought to be the most ideal had materialized right in front of me.",
+      "...Of course, a little of it was due to the circumstances.",
+      "...In my ideal image, her hair would be on the short side.",
+      "The girl in front of me, though, had long hair.",
+      "It was almost if... somebody had taken my ideal and made some small adjustments...",
+      "...It certainly wasn't something unpleasant.",
+      "Even so, I felt like I was sullying her just by looking at her like that.",
+      "..She had an immaculate... no, a divine air about her."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「く……わあぁあぁぁぁぁぁ…………………。」"
+    ],
+    "textEn": [
+      "\"Hngh... waaaa.....\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…そんな天使のような笑顔は、……大臼歯が覗きこめるくらいの大あくびをして、唐突に目を覚ます。",
+      "………覗き込んでいるつもりはなかった。",
+      "…でも、こうして目を覚ましたばかりの少女と目が合ってしまうと……、…何だか…いたずらでもしていたような気持ちになってしまう。",
+      "やましさなんか何もないのに、…うろたえてしまう。",
+      "少女は言った。",
+      "………いや、……鳴いた？"
+    ],
+    "textEn": [
+      "That girl with an angelic smile, with a yawn wide enough you could see her molars, woke up all of a sudden.",
+      "...I didn't mean to peep.",
+      "...But locking eyes with a girl who had just woken up like this... somehow made me feel like I was playing a prank on her.",
+      "I wasn't doing anything shady... but I became flustered.",
+      "The girl spoke.",
+      "...No... cried out?"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「……みぃ。」"
+    ],
+    "textEn": [
+      "\"...Meep.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………みい？",
+      "……英語の、…ｍｅ？",
+      "自分を示す意味の、ｍｅ…？",
+      "そういう子供の挨拶なんだと思った。",
+      "……自分が怪しい人間ではないことを示すため、…つられるようにそれを返す。"
+    ],
+    "textEn": [
+      "...Meep?",
+      "Like that character on the show with the puppets?",
+      "With the orange hair?",
+      "I thought it was just one of those greetings kids do.",
+      "...So in order to prove I wasn't a suspicious person... I responded in kind."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「………みー。」"
+    ],
+    "textEn": [
+      "\"...Meep.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「……みぃ？」"
+    ],
+    "textEn": [
+      "\"...Meep?\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「……み、……みー…。」"
+    ],
+    "textEn": [
+      "\"...Mee ...meep...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "少女は……人形のような、かわいらしいような、それでいて無機質なような…、表情の読み取りにくい顔で、……私を凝視していた。",
+      "……む、…無理もない。",
+      "…目を覚ましたら、目の前に、知らない男がいて…。みーと言ったら、みーと言い返してきたのだ。",
+      "………怪しい。",
+      "絶対に怪しいと思ってるに違いない。"
+    ],
+    "textEn": [
+      "The girl, stared at me dubiously with a doll-like expression--cute, but cold and hard to read.",
+      "...Well... I wouldn't be surprised.",
+      "...There was after all, an unfamiliar man right in front of her when she woke up, who responded with 'meep' when she said the same.",
+      "...Suspicious.",
+      "She definitely thought I was suspicious."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「……みぃ。」"
+    ],
+    "textEn": [
+      "\"...Meep.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「………み、……………みー………。」"
+    ],
+    "textEn": [
+      "\"...Mee... .....Meep...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「……………………。」"
+    ],
+    "textEn": [
+      "\"...\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「………………………………。」"
+    ],
+    "textEn": [
+      "\"......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "互いに、…言葉を失う。",
+      "いや、…失ったのは私だけか…。",
+      "…目の前の少女は、まるで私の出方を伺うように、……じっと見据えていた。",
+      "こんな風に沈黙されたら、………こっちが先に何かを切り出さなければいけないように感じてしまう。",
+      "…………くそ、…大石氏よりも、この少女の方がよっぽど尋問はうまいらしい…。"
+    ],
+    "textEn": [
+      "We were both at a loss for words.",
+      "No, the only one lost was me...",
+      "...The girl in front of me, as if inquiring about my motives, stared at me intently.",
+      "In this silence... I felt like I was the one who had to say something first.",
+      "...Dammit ...This girl was way better at interrogating somebody than Ooishi..."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「あ、…………怪しいものじゃないんだ…。",
+      "……私は…………、」"
+    ],
+    "textEn": [
+      "\"I--I'm not anybody suspicious...",
+      "...I'm....\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「……にぱ〜〜☆」"
+    ],
+    "textEn": [
+      "\"...Nipah~~☆.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「に、……にぱ……？？」"
+    ],
+    "textEn": [
+      "\"Ni.... Nipah...??\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「にぱ〜〜〜☆」"
+    ],
+    "textEn": [
+      "\"Nipah~~~☆.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "無機質な…なんて形容した表情は、溢れんばかりの笑顔になり、……私に微笑みかける。",
+      "………天使の笑顔、という言葉があるが、………それはまさしく、この少女の笑顔のためにあるんだと思った……。",
+      "少女が、にぱ〜〜っと微笑むのは、……私にも同じものを求めているからだろうか…。",
+      "そうだ…これは子供なりのコミュニケーションなのだ。",
+      "自分がしたのと同じ事を、目の前の相手が追従してくれることで、意思の疎通を確認する初歩的なコミュニケーション……。"
+    ],
+    "textEn": [
+      "What I could have only described as a cold expression suddenly blossomed into a smile, one that soon infected me.",
+      "...You might be familiar with the term 'angelic smile'... to me, it was like that phrase was created just to describe the smile she gave me...",
+      "The girl smiling while saying \"nipah~~,\" probably wanted me to return the favor in kind...",
+      "That's right... this was a kid's form of communication.",
+      "Having the other person emulate what you just did was a rudimentary form of mutual understanding..."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「に、…………にぱぁぁ……☆」"
+    ],
+    "textEn": [
+      "\"Ni... Nipaaah...☆\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「……にぱ〜〜☆」"
+    ],
+    "textEn": [
+      "\"...Nipah~~☆.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………うららかな、……初夏の真昼間。",
+      "……私は、……何を、…しているんだろう。"
+    ],
+    "textEn": [
+      "...It was a beautiful afternoon in the early summer.",
+      "...What... was I doing?"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「……にぱ〜〜☆」"
+    ],
+    "textEn": [
+      "\"...Nipah~~☆.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「に、…にぱ〜〜〜♪」"
+    ],
+    "textEn": [
+      "\"Ni, ...Nipah~~~♪.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…もうどうでもいいや…。",
+      "何だか、…これはこれで面白いから………。",
+      "その笑顔だけで、人を幸せに出来るのが天使なら。",
+      "…この子はきっと天使に違いないと思った。",
+      "……やがて生まれ来る、自分の子が、…こんな少女に成長してくれることを祈らずにはいられなかった……。",
+      "そんな、おかしなやさしい時間は、やがてやって来た一台の車によって終わりを告げた。",
+      "運転席の老人が、苦笑いしながら手を振る。"
+    ],
+    "textEn": [
+      "...Well, whatever...",
+      "This was interesting in its own way...",
+      "If making somebody happy with just a smile was the work of angels...",
+      "...then this girl was definitely one of them.",
+      "...I couldn't help but pray that my own child, who was soon to be born... would grow up to be like this girl...",
+      "That strangely gentle moment, was finally brought to the end by the arrival of a car.",
+      "An older person waved at me from the driver's seat, a dry smile plastered on their face."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Old person",
+    "labelJp": "老人",
+    "textJp": [
+      "「どぅもこんにちわ〜！",
+      "遅れて申し訳ないこってす！",
+      "昨日、お電話を下さった観光の方ですかねぇ？」"
+    ],
+    "textEn": [
+      "\"Hi there, good afternoon~!",
+      "Sorry for being late!",
+      "You're the tourist who phoned yesterday, right?\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「え、……あ、…はい！」"
+    ],
+    "textEn": [
+      "\"Huh? Ah... yes!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Old person",
+    "labelJp": "老人",
+    "textJp": [
+      "「お待たせして申し訳ねえ。",
+      "いんや、野良でちょいと遅れましてねぇ！",
+      "すったらんと、お乗り下せぇな。",
+      "天気もまんた崩れそうだから、ちゃきちゃきご案内しますよ。」"
+    ],
+    "textEn": [
+      "\"Sorry to keep you waiting.",
+      "I'm running a little behind because of the farm!",
+      "Hop right on in.",
+      "It looks like the weather isn't going to hold up for much longer, so I'll show you around real quick.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「…え、…天気、ですか。」"
+    ],
+    "textEn": [
+      "\"...Huh? The weather?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Old person",
+    "labelJp": "老人",
+    "textJp": [
+      "「ここいらは崩れると早いんよ〜。",
+      "今日も夕立になるかもなぁ。",
+      "そうなったら、あんた写真さ撮るところじゃなくなるでしょ。",
+      "ほら、乗って乗って。」"
+    ],
+    "textEn": [
+      "\"It changes fast around here~.",
+      "There'll probably be evening showers again today.",
+      "If that happens, you won't be able to take any pictures.",
+      "Come on, get in, get in.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「……みぃ。」"
+    ],
+    "textEn": [
+      "\"...Meep.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "振り返ると、少女は興味深そうな表情を浮かべて、私のすぐ後ろに立っていた。",
+      "………その仕草がどことなく、ちょっとじゃれたら付いてきた野良の子猫のようで…愛くるしい。"
+    ],
+    "textEn": [
+      "Turning around, the girl was standing right behind me with an intrigued expression.",
+      "...Her body language somehow reminded me of a stray cat that followed you around after you played with it a little... so charming."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Old person",
+    "labelJp": "老人",
+    "textJp": [
+      "「あんれ、……梨花ちゃまでねぇですか！！",
+      "ありがたや…ありがたや〜…。」"
+    ],
+    "textEn": [
+      "\"Hmm... well if it isn't Rika-chama!!",
+      "Praise be... praise be~...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「……にぱ〜〜☆」"
+    ],
+    "textEn": [
+      "\"...Nipah~~☆.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…無垢な笑顔を見せる梨花と呼ばれた少女と、数珠を揉みながらその笑顔をありがたがる老人。",
+      "………何だか不思議な光景だった。",
+      "…と、少女はふいに私に顔を向けて、可愛らしい仕草で小首をかしげる。それを見て老人は私のことに気がついて、雛見沢を訪れた観光客だと紹介してくれた。"
+    ],
+    "textEn": [
+      "A girl named Rika with an immaculate smile, and an old man praising her while rubbing prayer beads in his hands.",
+      "...It was a rather mysterious sight to behold.",
+      "...So, the girl turns her face at me, tilting her head a little in a cutesy manner. After seeing that, the elder introduces me as a tourist who came to sightsee Hinamizawa."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Little Girl",
+    "labelJp": "少女",
+    "textJp": [
+      "「……村を観光したい若者なのです。」"
+    ],
+    "textEn": [
+      "\"...A young'un who came to the village for sightseeing.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "少女は、…梨花ちゃんは、そういって微笑みながら、私の腕を取った。"
+    ],
+    "textEn": [
+      "The girl, Rika-chan, said that with a smile as she clung onto my arm."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「ま、……まぁね。",
+      "この村の自然がとても貴重だと聞いたんで、…ぜひ、カメラに納めたいと思ったんだよ。",
+      "…私はこう見えてもとっても写真撮影が好きでね…。」"
+    ],
+    "textEn": [
+      "\"Well... yeah.",
+      "I heard that this village is surrounded by a precious nature reserve, so I very much wanted to record that with my camera.",
+      "...Even though I look like this, I really like to take pictures...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……富竹２号なのです。」"
+    ],
+    "textEn": [
+      "\"...Tomitake Mk. II.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「え？",
+      "とみたけ？？",
+      "え？？」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "Tomitake??",
+      "Huh??\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……牧野。",
+      "ボクも一緒に行ってはいけませんですか？」"
+    ],
+    "textEn": [
+      "\"...Makino.",
+      "Is it okay if I come along too?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Old person",
+    "labelJp": "老人",
+    "textJp": [
+      "「そ、そんな、梨花ちゃまが来ても、面白いことなんか何もないですよ！",
+      "梨花ちゃまは境内で鞠遊びでもしてて下せぇな！」"
+    ],
+    "textEn": [
+      "\"I-I couldn't. You could come along, Rika-chama, but there's nothing interesting to see!",
+      "You should go play near the shrine or something!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………みー。」"
+    ],
+    "textEn": [
+      "\"...Meep.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんは、…あからさまに不満げな表情を浮かべる。",
+      "感情を素直に表情に出せるのは、幼子の特権だ。"
+    ],
+    "textEn": [
+      "A distinctly displeased expression creeped across Rika-chan's face.",
+      "Being able to show one's emotions honestly on their faces was a privilege young children had."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「もしお差し支えなければ……、この子も連れて行ってあげて下さい。」"
+    ],
+    "textEn": [
+      "\"If it's not too much of a problem, could you bring this child along with us?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私がそう助け舟を出すと、梨花ちゃんは、にぱ〜〜っというあの満面の笑顔を浮かべて、しがみ付いてきた。",
+      "……………あぁ……、",
+      "……悪くない……。",
+      "こんな子に、……パパって呼ばれたい……。",
+      "……いや、",
+      "…お父さん、",
+      "お父ちゃま……、",
+      "……ダディ……、",
+      "………ぅぅぅ〜〜〜ん……☆",
+      "……何やってるだ私は。",
+      "…この少女に出会ったさっきから、何だかペースを乱されまくりだ…。",
+      "…落ち着け自分。"
+    ],
+    "textEn": [
+      "When I said those helpful words, another smile spread across Rika-chan's face with another nipah~~ as she clung to me again.",
+      "...Aaah...",
+      "...Not bad at all...",
+      "I want this girl... to call me Papa...",
+      "...No,",
+      "...Father,",
+      "Dad...",
+      "...Daddy...",
+      "...Hrrrnnnngh...☆",
+      "...What am I doing?",
+      "...Ever since I met this girl, I was completely off my game...",
+      "...Just calm down."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Old person",
+    "labelJp": "老人",
+    "textJp": [
+      "「すっかたなかんとー…。",
+      "梨花ちゃまは、駄目だ言うても聞かんしなぁ。",
+      "……すったらんと、お乗り下せぇ。",
+      "ささ、梨花ちゃまも。」"
+    ],
+    "textEn": [
+      "\"Nothing I can do, I guess.",
+      "Rika-chama never listens even if you say no.",
+      "...Come on, hop on in.",
+      "Come now, Rika-chama too.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "老人は運転席から降り、鬼ヶ淵連合町会と書かれたワゴン車のスライドドアを開けてくれた。",
+      "梨花ちゃんは、私を押しのけて真っ先に座席に飛び込むと魚のように跳ね回った。",
+      "…ふかふかのスプリングを全身で楽しんでいるようだった。"
+    ],
+    "textEn": [
+      "The old man descended from the driver's seat and opened up the sliding door of the van, which had \"Onigafuchi Alliance Town Council\" stenciled on the side.",
+      "Rika-chan brushed me aside, dove into a seat, and began bouncing around right away.",
+      "...It seemed like she was thoroughly enjoying the bouncy springs."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Old person",
+    "labelJp": "老人",
+    "textJp": [
+      "「こんれ、梨花ちゃま！",
+      "そんじゃあ、お客人が座れねぇですよ！！",
+      "こら、梨花ちゃま…！！」"
+    ],
+    "textEn": [
+      "\"Come on now, Rika-chama!",
+      "If you're like that our guest can't sit down!!",
+      "Hey, Rika-chama!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………………あぁ、………女の子っていいなぁ……。",
+      "私の子も、…こんな感じでじゃれてくれないかなぁ…………。",
+      "いけないいけない…！",
+      "自分の子を愛玩化してはいけないって教育書にも書いてあったじゃないか…。",
+      "子供は子供だ……甘やかさずに厳しく育てないと……。"
+    ],
+    "textEn": [
+      ".....Haa ...girls are nice...",
+      "I wonder if my child will play around like this, too...",
+      "No no no no!",
+      "It was written in that guide to raising a child that you shouldn't dote on them...",
+      "Kids are kids... If you don't raise them strictly without spoiling them..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ふかふかでバインバインで、にぱ〜〜〜☆」"
+    ],
+    "textEn": [
+      "\"...It's soft and springy, nipah~~~☆.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「に、……にぱ〜〜…☆」"
+    ],
+    "textEn": [
+      "\"Ni... Nipah~~...☆\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……私はきっと、…駄目な父親になるんだろうなぁ……。",
+      "…親馬鹿、出産前に早くも決定のようだった………。"
+    ],
+    "textEn": [
+      "...I am definitely going to be a terrible father...",
+      "It was decided that I would be a doting parent before my child was even born."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Old person",
+    "labelJp": "老人",
+    "textJp": [
+      "「そんではお客さん、風景の綺麗そうなところに適当にご案内しますよ。",
+      "お昼は食べましたかぃね？」"
+    ],
+    "textEn": [
+      "\"Well then sir, I'll show you around some places that I think look nice.",
+      "Have you eaten lunch yet?\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「えぇ。",
+      "ホテルで軽食を。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "I had a light meal at the hotel.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Old person",
+    "labelJp": "老人",
+    "textJp": [
+      "「そんですか。",
+      "では参りましょうかね。」"
+    ],
+    "textEn": [
+      "\"Is that so?",
+      "Well then, let's get going.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……雛見沢観光に出発なのですよ。",
+      "わ〜いなのです。」"
+    ],
+    "textEn": [
+      "\"....We're setting off on a tour of Hinamizawa.",
+      "Yaaa~y.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「えっと、……君は、…梨花ちゃんでいいのかい？」"
+    ],
+    "textEn": [
+      "\"Ummm, is it all right if I call you Rika-chan?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……そうなのですよ。",
+      "古手梨花と言いますです。",
+      "……もう繰り上がりの足し算とかも出来ますですよ？」"
+    ],
+    "textEn": [
+      "\"...Sure.",
+      "My name is Rika Furude.",
+      "I can already do addition in the tens digit.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「あ、あぁそうなの？",
+      "それは…すごいな。",
+      "ははは。」"
+    ],
+    "textEn": [
+      "\"Oh, is that true?",
+      "That's... amazing.",
+      "Hahaha.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…お指とかは折ってませんですよ？",
+      "ちゃんと暗算で出来ますですよ？」"
+    ],
+    "textEn": [
+      "\"...I don't count on my fingers.",
+      "I can do it all in my head.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……わざわざ、そうだと断るあたりが可愛らし過ぎる…。",
+      "いつの間にか、敵地に単身訪れたという緊張感は、嘘のようになくなっていた。",
+      "…この少女との出会いを少しだけ感謝することができた。"
+    ],
+    "textEn": [
+      "The way she insisted upon that was just too cute.",
+      "At some point, the nervousness I had about being alone in enemy territory had evaporated like it was never there at all.",
+      "...I had to be at least a little thankful that I met this girl."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Old person",
+    "labelJp": "老人",
+    "textJp": [
+      "「じゃあ出発しましょうかいね！！",
+      "雛見沢大自然ウォッチング！」"
+    ],
+    "textEn": [
+      "\"Well then, let's get going!!",
+      "It's time for Hinamizawa Nature Watching!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "老人は勢いよくアクセルを吹かした。",
+      "…老人（牧野氏というらしい。",
+      "…鬼ヶ淵死守同盟の会計監査の牧野氏と同一人物？）",
+      "が案内してくれる場所はどこも絶景で、観光の目的で訪れているわけではない私でも、うなるような景色が溢れていた。",
+      "そもそも、単調な都会の景色と違い…風情のある村の風景は、村人にとってどんなに下らないものであったにせよ、…のどかな味わいがあった。",
+      "初めは、観光客を装うつもりでシャッターを切っていたが、途中から純粋な興味で写真を撮るようになっていた。",
+      "観光地は観光地独特の媚びがあるが、ここにはそれがない。",
+      "…そんな無垢なところに特に惹かれた。",
+      "…ダムの騒動さえなければ、…雪絵を今度連れてきてやりたい。",
+      "この新鮮な空気を吸わせてやりたいし、…この、目を洗ってくれるような眩しい緑の景色を見せてやりたかった。"
+    ],
+    "textEn": [
+      "The old man stepped on the gas with a great deal of gusto.",
+      "...The old man (who was apparently named Makino...",
+      "...was he the same Makino that was listed as the auditor of the Onigafuchi Defense Alliance?)",
+      "showed me around places that were all breathtaking.  Even though I wasn't really here for sightseeing, I couldn't help but be impressed.",
+      "First of all, this was different from the simple scenery of a city. The scenery of a charming village like this, no matter how mundane it seemed to the villagers, had a tranquil appeal to it.",
+      "At first I was only releasing the shutter as part of my tourist act, but midway through I found myself taking pictures out of pure interest.",
+      "Tourist traps had their own unique allure to them, but there was nothing like that here.",
+      "...I was especially captivated by the unspoiled nature of the place.",
+      "...If there wasn't that whole uproar over the dam, I would want to bring Yukie with me here some other time.",
+      "I wanted her to breathe in this fresh air, as well as show her this rejuvenating verdant scenery."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……こんなのが面白いのですか？",
+      "赤坂は変な人なのです。」"
+    ],
+    "textEn": [
+      "\"....Is something like this that interesting?",
+      "You're a strange person, Akasaka.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「いや、…こういう円筒状の郵便ポストなんて、今はとても貴重だよ。",
+      "どことなく漂うノスタルジックな雰囲気は……渋いと思わないかな。",
+      "はははははははは。」"
+    ],
+    "textEn": [
+      "\"No, these cylindrical mailboxes are rare nowadays.",
+      "They have a certain nostalgic air about them... you wouldn't happen to think they're elegant, would you?",
+      "Hahahahaha.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……雛見沢は楽しいですか？」"
+    ],
+    "textEn": [
+      "\"...Is Hinamizawa fun?\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「うん？",
+      "……あぁ。楽しいよ。",
+      "退院したら、ぜひ家内を連れてもう一度来たいよ。",
+      "……その時には生まれている、子どもも一緒にね。」"
+    ],
+    "textEn": [
+      "\"Hm?",
+      "...Yeah. It's fun.",
+      "Once she's discharged from the hospital, I'd like to bring my wife here at least once.",
+      "...With the child that would born by that time.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………………………………。」"
+    ],
+    "textEn": [
+      "\"...\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「今は、出産を控えて入院しているんだ。",
+      "……予定日がもうすぐでね。",
+      "…はは、君みたいな可愛い女の子だといいんだけど。」"
+    ],
+    "textEn": [
+      "\"Right now she's in the hospital waiting to give birth.",
+      "...She's due any day now.",
+      "...Haha, it'd be nice if they're a cute girl like you.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Makino",
+    "labelJp": "牧野",
+    "textJp": [
+      "「お客人は、もうすぐおめでたですかいね！",
+      "そんりゃいけねぇよ！",
+      "奥さん放り出してこんな所に遊びに来てちゃあ…！」"
+    ],
+    "textEn": [
+      "\"Sir, it seems like congratulations are soon to be in order!",
+      "Still, that's not good!",
+      "To leave your wife behind and play around in a place like this!\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「…………………………。」"
+    ],
+    "textEn": [
+      "\"...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "一瞬、言葉に詰まる。",
+      "………まったくもって牧野氏の言うとおりだった。",
+      "妻の出産を控えた男が、こんな所にのんびり遊びに来ていい道理はない。",
+      "……失言だったか………？"
+    ],
+    "textEn": [
+      "I was momentarily at a loss for words.",
+      "...It was exactly how Makino said.",
+      "There was no good reason for a man who was waiting for his wife to give birth to be playing around idly in this place.",
+      "...Did I slip up?"
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「あ、……………あぁ、…まぁ！",
+      "雛見沢への旅行は前々からの予定だったんで…。",
+      "……妻の家族が付き添ってくれているから…大丈夫だし……。」"
+    ],
+    "textEn": [
+      "\"Ah... ahhhh... well!",
+      "We had already planned this trip to Hinamizawa a long time ago...",
+      "...My wife's family is with her, so it's all right.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Makino",
+    "labelJp": "牧野",
+    "textJp": [
+      "「そんなに前から予定してたんなら、大自然ウォッチング！",
+      "申し込み、間に合わんとかぃね？",
+      "そんだったら、こんな窮屈な思いさせんと、綺麗な観光バスで回れたのに。」"
+    ],
+    "textEn": [
+      "\"If you had this planned so far in advance,",
+      "then how come you didn't make the sign-up deadline for the Nature Watching?",
+      "If you did, you could have toured around on a nice bus instead of being cramped up in here.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……牧野氏は、別に勘ぐって探りを入れている様子はなかった。",
+      "……だが、これ以上、会話を重ねると、…思わぬところでボロが出るかもしれない。",
+      "…私は写真をもう一枚撮るふりをして、話を中断させることにした。"
+    ],
+    "textEn": [
+      "It didn't seem as if Makino was actually digging for anything.",
+      "...But, if this conversation continued any longer, it would put some unexpected holes in my cover.",
+      "...I halted the conversation by pretending to take another picture."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Makino",
+    "labelJp": "牧野",
+    "textJp": [
+      "「んじゃあ、最後に一番、景色のいいとこさ案内しましょかねぇ！」"
+    ],
+    "textEn": [
+      "\"Well then, for our last stop, I'll take you to the place with the best view!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "時間は夕方少し前。日はまだ厳しいが、風にほのかな涼しさが混じりだす時間。",
+      "梨花ちゃんとの、雛見沢散策はそろそろ終わりの様だった。"
+    ],
+    "textEn": [
+      "It was slightly before evening. The sun was still burning brightly, but a cool breeze had begun to mix itself into the air.",
+      "It seemed my exploration of Hinamizawa with Rika-chan was just about done."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……一番、景色のいいところですか？」"
+    ],
+    "textEn": [
+      "\"...The place with the best view?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Makino",
+    "labelJp": "牧野",
+    "textJp": [
+      "「そんりゃ梨花ちゃま、境内からの景色さ措いて、他にゃありませんやね〜！」"
+    ],
+    "textEn": [
+      "\"Well Rika-chama, where else could it be but the view from around the shrine?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それを聞いて、梨花ちゃんが笑顔を一層、はじけさせた。"
+    ],
+    "textEn": [
+      "Hearing that, Rika-chan smiled even more."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……では赤坂を、ボクのお家へご招待なのです。」"
+    ],
+    "textEn": [
+      "\"...Well then, I'll introduce you to my home, Akasaka.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「え？",
+      "梨花ちゃんのお家って、………え？」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "By Rika-chan's home, you mean... huh?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Makino",
+    "labelJp": "牧野",
+    "textJp": [
+      "「神社ですよ。",
+      "古手神社。",
+      "…高台にありましてねぇ。",
+      "いい〜景色さ見れるんですよ！」"
+    ],
+    "textEn": [
+      "\"The shrine.",
+      "Furude Shrine.",
+      "There's an observation platform.",
+      "You can see some real pretty scenery!\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「……………古手、…神社。」"
+    ],
+    "textEn": [
+      "\"...Furude... Shrine.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "古手神社を自分の家と呼ぶ少女、梨花。",
+      "…確か、フルネームは古手、",
+      "梨花。",
+      "……古手ってのは確か、………そうだ。",
+      "…御三家の…ひとつ。",
+      "園崎家が実権を握っているとは言え、…村の重鎮と呼ばれる旧家のひとつじゃないか。",
+      "…いや、それよりも重要なのは…古手神社だ。",
+      "確か…大石氏が言っていたじゃないか。",
+      "……古手神社の敷地内に、鬼ヶ淵死守同盟の事務所があると。",
+      "…そして、古手神社の敷地は古手家の私有地だから、警察でも迂闊には踏み込めない…とも。",
+      "大石氏ですら、容易には踏み込めない…古手神社。",
+      "鬼ヶ淵死守同盟の本拠地。",
+      "そこに、…予期せずして入れる機会を得てしまった。",
+      "…願ってもないことだった。"
+    ],
+    "textEn": [
+      "The girl who called Furude Shrine her home, Rika.",
+      "...If I remembered correctly, her full name was Rika",
+      "Furude.",
+      "....And Furude was... that's right.",
+      "...One of the Three Families.",
+      "Even if the Sonozaki family is said to hold all the actual power... it was still one of the old houses that held some authority.",
+      "...No, more important than that right now was... Furude Shrine.",
+      "If I remembered correctly, Ooishi had told me.",
+      "...Within the grounds of the Furude Shrine, there were the offices of the Onigafuchi Defense Alliance.",
+      "...And since the land around Furude Shrine were private property, the police couldn't set foot there heedlessly.",
+      "Furude Shrine... where even Ooishi couldn't simply set foot into.",
+      "The main base of operations for the Onigafuchi Defense Alliance.",
+      "I had been given the unexpected opportunity to enter there.",
+      "...I couldn't have asked for more."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「た、…楽しみです。",
+      "ぜひ、お願いします。」"
+    ],
+    "textEn": [
+      "\"I-I'm looking forward to it.",
+      "Please, if you would.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Makino",
+    "labelJp": "牧野",
+    "textJp": [
+      "「じゃあ、ちゃきちゃき参りましょうかね！",
+      "天気も少し怪しいですからなぁ！」"
+    ],
+    "textEn": [
+      "\"Well then, let's get there quick!",
+      "The weather seems to be getting a little iffy!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "いつの間にか空は曇天。",
+      "……夕立でも来そうな雰囲気だった。",
+      "セミたちも、夕立前に今日の分を全て鳴き終えてしまおうとでも思ってるのか、一層、激しく鳴いていた。"
+    ],
+    "textEn": [
+      "The sky had suddenly become overcast.",
+      "...It wouldn't be odd if it started raining soon.",
+      "The cicadas, as if trying to finish their daily allotment of chirps before the evening, cried out even more fervently."
+    ]
+  }
+]

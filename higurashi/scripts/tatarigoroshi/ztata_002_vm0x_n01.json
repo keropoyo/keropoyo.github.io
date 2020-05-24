@@ -1,0 +1,61 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "ぶつかったら決着つけなきゃ！",
+      "手打ちして引き分けなんて、遊びでやってんじゃないんだよぉぉっ！」"
+    ],
+    "textEn": [
+      "Now that we've clashed, we must settle the score!",
+      "Reconciling with a draw? Do you think we're just kidding around!?\""
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「前原さんの弁当に致命的な欠点。",
+      "それは彩りなんです。",
+      "愉快で面白おかしいマンガが何十冊…！！"
+    ],
+    "textEn": [
+      "\"The fatal flaw in Maebara-san's bento.",
+      "It's the coloration.",
+      "Dozens of happy, humorous manga...!!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "All Boys",
+    "labelJp": "男子全員",
+    "textJp": [
+      "「「「何だと！！」」」"
+    ],
+    "textEn": [
+      "\"\"\"What was that?!\"\"\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「だ、…だってだって！",
+      "こんな、…出来の悪いお惣菜や缶詰ばっかりで…センスもなくて……それからそれから……！」"
+    ],
+    "textEn": [
+      "\"B... But!",
+      "It's all... poorly made side dishes and canned goods... and has no style... and, and...!\""
+    ]
+  }
+]

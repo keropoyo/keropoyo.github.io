@@ -1,0 +1,68 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「中国製の軍用拳銃でした。"
+    ],
+    "textEn": [
+      "\"It was a Chinese-made military pistol."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「で、その富竹氏の恋仲の女性が岐阜の山中で焼死体に。",
+      "岐阜県警さんがあんまり協力的じゃなかったもんで、こっちはあまりよく状況を知らないんですがね。」"
+    ],
+    "textEn": [
+      "\"And the burnt corpse of the woman Tomitake was in a relationship with was found in the mountains in Gifu.",
+      "The Gifu Prefectural Police weren't very cooperative, so I don't know much about it, though.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「……………性的な変質者の犯行？」"
+    ],
+    "textEn": [
+      "\"...Any sign it was some sort of sexual assault?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「司法解剖の結果、性的暴行の痕跡は認められませんでした。"
+    ],
+    "textEn": [
+      "\"According to the autopsy, there wasn't any indication of that."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "……わかったのは、薬物で昏睡させられてから、あの場所へ運ばれ、腹部を切開、開腹。",
+      "意図的に臓器を引きずり出して、四方に散らして見せました。」"
+    ],
+    "textEn": [
+      "...What we know is that she was rendered unconscious by some sort of drug, carried to that place, then had her abdomen sliced wide open.",
+      "Her organs were deliberately removed and scattered about.\""
+    ]
+  }
+]

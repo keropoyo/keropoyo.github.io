@@ -1,0 +1,3055 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "詩音との電話を切り、学校の連絡網から梨花ちゃんの電話番号を探す。",
+      "…あった！",
+      "焦って指が震え、たった５桁の番号を打つのに何度も失敗してしまう。"
+    ],
+    "textEn": [
+      "After hanging up on Shion, I searched for Rika-chan's phone number on my school's contact list.",
+      "...There it is!",
+      "My fingers trembled with urgency, and I failed multiple times to put in the simple 5-digit number."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Keiichi's mom",
+    "labelJp": "圭一の母",
+    "textJp": [
+      "「圭一…。",
+      "こんな時間に電話？",
+      "夜遅くは先方に失礼だからよしなさい…。」"
+    ],
+    "textEn": [
+      "\"Keiichi...",
+      "Are you calling someone at this hour?",
+      "It's late, and it's being rude to the other person...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「い、今はそれどころじゃないんだよッ！！」"
+    ],
+    "textEn": [
+      "\"Th-That doesn't matter right now!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お袋を怒鳴りつけ、コール音に耳を傾ける。",
+      "……出ろ…、…出てくれ…！！",
+      "時間は…午後１１時前。",
+      "確かに早い時間ではない。",
+      "深夜と呼ばれるべき時間帯だ。",
+      "…梨花ちゃんはもう寝てしまっているんだろうか…？",
+      "でも、これだけ鳴らしてるんだから…起きてはくれないだろうか？！",
+      "梨花ちゃんは…出ない。",
+      "……出ない。",
+      "…………出ないッ！！",
+      "たまたま聞こえないだけなのかもしれない。",
+      "…寝床が電話から離れていて…、",
+      "…そんなわけあるものか…。",
+      "…寝ていれば寝ているほど、電話の呼び出し音ははっきりと聞こえるものだ。",
+      "……じゃあ、",
+      "…お手洗いとか…、",
+      "…そうだ、お風呂だ！",
+      "入浴中だったら、電話が鳴っているのが聞こえたとしても、取りようがないもんな…。",
+      "…お風呂に入る時間にはちょっと遅いが…、梨花ちゃんは寝る前に入浴する習慣の可能性だって考えられる。",
+      "…………………３０分くらい待って、もう一度かけ直してみよう……。",
+      "そう思っている間にも、何度も何度も梨花ちゃんの家に電話をかけた。",
+      "かけ続けた。",
+      "繰り返し繰り返し、何度も何度も電話をかけた。",
+      "……だが出ない。",
+      "もう３０分くらいはかけ続けたと思う。",
+      "…なのに出ない。",
+      "あまりにもしつこい電話だから、怖くなってしまって受話器を取れないのか？！",
+      "……いや、そんなはずは………。",
+      "……………………………。",
+      "もうこんなことをしていてもしょうがない。",
+      "…直接行って確認する方が確実で絶対だ…！",
+      "でも…梨花ちゃんの家ってどこにあるんだろう…。",
+      "くそ、…俺、場所を聞いたこともない…！！",
+      "…連絡網には住所も載っているが、番地標記なので、見てもそれがどこの事だかわからない。",
+      "……地図か何かに載っていないだろうか？！",
+      "古手梨花。",
+      "…苗字は古手。",
+      "かわった苗字だ。結構簡単に見つかるかもしれない…！！",
+      "そう思い、電話帳の引き出しを漁るが、出前のメニューとか、公共機関の電話番号とかそんなものしか出てこない…！",
+      "くそ、くそ…、くそ…！！",
+      "引き出しの中身を次々にぶちまけて行くが…梨花ちゃんの家の場所を知れる手がかりは見つからなかった。",
+      "落ち着け前原圭一…！",
+      "知らないなら…聞けばいいじゃないか！",
+      "知っている人に！"
+    ],
+    "textEn": [
+      "I shouted angrily at my mother, listening to the dial tone.",
+      "...Pick up... Come on, pick up...!!",
+      "The time... was 11 PM.",
+      "It certainly wasn't early.",
+      "It was essentially the middle of the night.",
+      "...Had Rika-chan already gone to bed...?",
+      "Her phone would be ringing constantly, though, so... would she get back up for me?!",
+      "Rika-chan... didn't pick up.",
+      "...She didn't pick up.",
+      ".........She didn't pick up!!",
+      "Maybe she just happened to miss it.",
+      "...Maybe her bed was just...",
+      "too far away from the phone...",
+      "...The sound of a phone ringing gets clearer and clearer the longer you go on sleeping.",
+      "...Then...",
+      "the bathroom...?",
+      "...Yeah, she must be taking a bath!",
+      "If that was the case, then even if she heard the phone, she wouldn't be able to pick up...",
+      "...It was a little late to be taking a bath... but it was possible she normally took baths right before going to bed.",
+      "............I'll wait thirty minutes, then try calling again...",
+      "Even as I was thinking that, I called her house over and over again.",
+      "I kept calling.",
+      "Over and over, again and again, I kept on calling her, but...",
+      "...she didn't pick up even once.",
+      "I think I kept trying for about thirty minutes.",
+      "...Yet, she wasn't picking up.",
+      "Were my phone calls so persistent that she had gotten scared of picking up the receiver?!",
+      "...No, that couldn't possibly be it......",
+      "............",
+      "There was no point in doing this any longer.",
+      "...The best thing to do would be to go there in person...!",
+      "Where was Rika-chan's house, though...?",
+      "Shit... I've never even asked her where she lived...!!",
+      "...Her residence was written there in the contact list, but it was an address with mostly numbers, so I couldn't tell where it was just by reading it.",
+      "...Isn't there a map or something in here?!",
+      "Rika Furude.",
+      "...Her last name was Furude.",
+      "It was a bit of an odd last name, so it might be easy to find...!!",
+      "Thinking that, I rummaged around the drawer with the phone book, but could only find things like takeout menus and phone numbers for public establishments...!",
+      "Shit, shit... shit...!!",
+      "I tore one thing after another out of the drawer... but I didn't come up with any clues as to where Rika-chan's house was.",
+      "Calm down, Keiichi Maebara...!",
+      "If you don't know... then just ask!",
+      "Ask someone who does know!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…そうだ、",
+      "……レナなら知ってるに違いない！」"
+    ],
+    "textEn": [
+      "\"...Ah, that's it.",
+      "...Rena's gotta know!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "連絡網からレナの電話番号を探し出す。",
+      "…竜宮、レナ。",
+      "……あった。"
+    ],
+    "textEn": [
+      "I looked up Rena's phone number on the contact list.",
+      "...Rena Ryuugu.",
+      "...There she was."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「…もしもし。",
+      "竜宮です。」"
+    ],
+    "textEn": [
+      "\"...Hello?",
+      "This is Ryuugu.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "不機嫌そうなおっさんの声。",
+      "…レナの親父さんだな。",
+      "深夜の電話だからな、腰を低くしないと……。"
+    ],
+    "textEn": [
+      "It was the voice of a grumpy-sounding man.",
+      "...It must have been Rena's father.",
+      "I am calling in the middle of the night—I need to be polite......"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「や、…夜分遅くに申し訳ありません。",
+      "前原と申しますが、レナさんはいらっしゃいますか…？」"
+    ],
+    "textEn": [
+      "\"I-I'm sorry for calling so late at night.",
+      "This is Maebara. Is there any chance Rena-san is around...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「礼奈は風呂に入っていますが、",
+      "……あ、出たかな？",
+      "……礼奈。",
+      "友達から電話だぞ。」"
+    ],
+    "textEn": [
+      "\"Reina is taking a bath...",
+      "......Oh, she's done?",
+      "......Reina.",
+      "There's a friend of yours on the phone.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そうだった、竜宮礼奈が本名だったな。",
+      "…レナですっかり馴染んでしまったので、本名の礼奈という方がむしろ違和感がある。"
+    ],
+    "textEn": [
+      "Oh, right. \"Reina Ryuugu\" was her real name, wasn't it?",
+      "...I'd gotten so used to calling her \"Rena\" that hearing her real name caught me a little off-guard."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「もしもし。",
+      "お電話かわりました。」"
+    ],
+    "textEn": [
+      "\"Hello?",
+      "This is Rena.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あ、…お、俺だよ、圭一だ。",
+      "夜遅くにすまん…！」"
+    ],
+    "textEn": [
+      "\"Ah... i-it's me, Keiichi.",
+      "Sorry for calling so late...!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あれ？",
+      "圭一くん？",
+      "こんな時間に何かな？　かな？」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "Keiichi-kun?",
+      "What do you need at a time like this? Like this?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…実は、その………梨花ちゃんの家がどこにあるのか知りたいんだ。」"
+    ],
+    "textEn": [
+      "\"...Well, actually...... I wanted to know where Rika-chan's house is.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは、こんな時間にかけてくる電話だから何かと思えば…とちょっと呆れたようだった。",
+      "でも逆に緊急性を感じてくれたのか、口調はぐっと真剣になった。"
+    ],
+    "textEn": [
+      "Rena seemed... a little appalled that I'd call her for something like that at this hour.",
+      "However, she spoke her next words seriously, as if she'd caught on to how urgent my need was."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「う、うん。",
+      "いいよ。",
+      "古手神社の境内に集会所があるよね。",
+      "その裏手に２階建ての倉庫小屋があるのを知ってるかな？",
+      "そこに住んでるんだよ。」"
+    ],
+    "textEn": [
+      "\"O-Okay.",
+      "Sure.",
+      "You know the assembly hall on the grounds of the Furude Shrine?",
+      "There's a two-story shack used for storage behind it.",
+      "That's where she lives.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…咄嗟に場所のイメージは沸かないが、神社の敷地内に住んでいることさえわかれば、あとは何とか探せるだろう。"
+    ],
+    "textEn": [
+      "...I couldn't immediately visualize the place, but as long as I knew she lived on the shrine grounds, I'd just have to take a look around."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わ、わかった！",
+      "ありがとう。",
+      "こんな遅くに済まなかったな。",
+      "親父さんに謝っといてくれ。」"
+    ],
+    "textEn": [
+      "\"G-Got it!",
+      "Thanks.",
+      "Sorry again for calling so late.",
+      "Apologize to your dad for me too, would you?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そんなのはいいよ圭一くん。",
+      "それより、どうして梨花ちゃんの家を聞くのかな？」"
+    ],
+    "textEn": [
+      "\"Okay, but, Keiichi-kun...",
+      "why do you want to know where Rika-chan lives?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが普段は見せない鋭さで、俺が電話を切るよりも早く食いついてくる。",
+      "……レナに話すことを一瞬、ためらう。",
+      "話シタカラ殺サレテシマッタ。"
+    ],
+    "textEn": [
+      "Rena asked in an unusually sharp way, halting me before I could hang up the phone.",
+      "......I hesitated for a moment about whether to tell her.",
+      "<i>He was killed because I told him.</i>"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……圭一くん？",
+      "聞こえてるなら答えて欲しいな。",
+      "どうして梨花ちゃんの家の場所を、こんな時間に聞きたいのかな？」"
+    ],
+    "textEn": [
+      "\"......Keiichi-kun?",
+      "If you're still listening, could you answer me?",
+      "Why are you asking where Rika-chan lives at a time like this?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはいつもの口調を装っているが、…言葉の裏に非常時を敏感に察した緊迫感がこもっていた。",
+      "………どうする、圭一。",
+      "レナになら…話してもいいのではないか…？",
+      "知ッタカラ殺サレテシマッタ。",
+      "打チ明ケタカラ、……殺サレテシマッタ。"
+    ],
+    "textEn": [
+      "Rena affected her usual tone... but beneath her words lay a certain tension, like she'd intuitively sensed something was going on.",
+      "......What will you do, Keiichi?",
+      "If it's Rena... can't I tell her...?",
+      "<i>He was killed because he found out.</i>",
+      "<i>I revealed everything...... so he was killed.</i>"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…圭一くん？！",
+      "レナは真剣に聞いてるんだけどな。",
+      "答えて欲しいよ！」"
+    ],
+    "textEn": [
+      "\"...Keiichi-kun?!",
+      "Rena is being serious.",
+      "Please answer me!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが、普段からは想像もつかないような強い口調で再び聞いてきた。",
+      "…その気迫に驚かされる。",
+      "………レナもまた、梨花ちゃんの友人なのだ。",
+      "……梨花ちゃんの失踪を心配する権利は、",
+      "……ある。",
+      "…話せばレナもまた…。",
+      "………その恐ろしい想像を、……今だけねじ伏せる！"
+    ],
+    "textEn": [
+      "Rena asked me once again in a tone so forceful I couldn't imagine her ever using it normally.",
+      "...I was taken aback by her vigor.",
+      "......Rena was Rika-chan's friend, too.",
+      "...She had the right...",
+      "...to be concerned about Rika-chan disappearing.",
+      "...If I told Rena, then...",
+      "......even if only for a moment... I could drive away my horrifying fears!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…レナ、",
+      "……その、",
+      "………理由を聞かれると困るんだが、……………。」"
+    ],
+    "textEn": [
+      "\"...Rena,",
+      "...well...",
+      "......I can't exactly tell you why, but......\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。」"
+    ],
+    "textEn": [
+      "\"Yes?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの声は真剣そのものだった。",
+      "…圭一くんが何を言っても、ちゃんと信じるよ。",
+      "そう言っているようにも聞こえた。",
+      "……そんな、ちょっとした心強さが、俺に打ち明ける勇気を与える…。"
+    ],
+    "textEn": [
+      "Rena's tone was seriousness itself.",
+      "...Just from that tone, I could feel her saying...",
+      "No matter what you say, Keiichi-kun, I'll believe you.",
+      "......That subtle sense of security gave me the courage to reveal the truth..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「梨花ちゃんが、",
+      "……………危ない気がするんだ。」"
+    ],
+    "textEn": [
+      "\"I have a feeling...",
+      "......that Rika-chan is in danger.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…それは虫の知らせ、かな？",
+      "…それとも、梨花ちゃんに危険が迫っている何か確信がある…？」"
+    ],
+    "textEn": [
+      "\"...You mean like a premonition,",
+      "or do you have some reason to believe she's in danger...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……本当はこうしてレナと議論する時間も惜しい。",
+      "…だが、レナの冷静な声を聞いていると、無駄な焦りが抜けていく気がした。"
+    ],
+    "textEn": [
+      "...I really didn't have time to go back and forth with Rena about this.",
+      "...Still, I think listening to her calm voice soothed my pointless impatience."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……確信は……ないけど、………………。」"
+    ],
+    "textEn": [
+      "\"...I don't have much... reason, but......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それでも言いよどむ。",
+      "…俺たちが祭具殿に忍び込んだことを梨花ちゃんに打ち明けた。",
+      "先に打ち明けられた村長さんが昨夜、失踪した。",
+      "だから…次は梨花ちゃんの可能性も………。",
+      "……レナに何て説明すればいいのかわからなかった。",
+      "…そうして口ごもっている内にレナが言った。"
+    ],
+    "textEn": [
+      "Yet, I still hesitated.",
+      "...I had told Rika-chan that we had snuck into the ritual storehouse.",
+      "The mayor, to whom Shion had confessed before that, had already disappeared.",
+      "So... it was possible that Rika-chan also...",
+      "...I didn't know how to explain it to Rena.",
+      "...While I was tongue-tied, Rena spoke up."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ヘンなこと聞いてごめんね。",
+      "考えたら、確信なんか必要なかった。」"
+    ],
+    "textEn": [
+      "\"Sorry for asking something so weird.",
+      "I thought about it, and it isn't like you need to be sure.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはあっけらかんとした様子で軽く笑った。",
+      "…とても笑えるような心境でなかったので、こっちこそ呆気に取られる。",
+      "レナは明るい声で、だけれどもしっかりとした口調で続けた。"
+    ],
+    "textEn": [
+      "Rena laughed a little, seeming a bit absentminded.",
+      "...I wasn't exactly in the mood to laugh, so this time I was dumbfounded.",
+      "Rena continued in a cheerful, yet still purposeful voice."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「友達のことが心配になって。",
+      "それを確かめるのに理由なんかいらないと思う。"
+    ],
+    "textEn": [
+      "\"You're worried about a friend.",
+      "I don't think you need a reason to go and check on them."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "…仮に、梨花ちゃんが寝てて、それを起こしてしまったとしても、それが理由なら私たちは誰も怒らないと思うよ。」"
+    ],
+    "textEn": [
+      "...Even if Rika-chan was asleep and you ended up waking her up, if that was why you did it, then none of us would get mad.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……レナ、……ありがとう…。"
+    ],
+    "textEn": [
+      "......Rena...... Thank you..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあまずは圭一くんに確認するね。",
+      "…梨花ちゃんの家に電話はしたんだよね？",
+      "それでどうしてもつながらないから、家の場所を聞いてきたんだね？」"
+    ],
+    "textEn": [
+      "\"Okay then, Keiichi-kun, just one thing.",
+      "...You called Rika-chan's house, right?",
+      "Then you just couldn't get through, so that's why you asked me where her house is?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あ、…あぁ！",
+      "１０分以上は鳴らし続けたと思う。",
+      "…ひょっとしたら気付かなくて寝てるだけなのかも…。」"
+    ],
+    "textEn": [
+      "\"Yeah... that's right!",
+      "I must have called her for over ten minutes.",
+      "...She could just be sleeping and not have noticed...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「梨花ちゃんの家はとても狭いの。",
+      "だから電話が鳴ったら、例え寝ていても気付かないわけはないよ。",
+      "沙都子ちゃんもいるんだから、２人揃って気付かないわけはない。」"
+    ],
+    "textEn": [
+      "\"Rika-chan's house is really small.",
+      "She would definitely hear the phone ringing even if she was asleep.",
+      "Satoko-chan is there too, so there's no way neither of them would notice.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…え？",
+      "沙都子って、梨花ちゃんと一緒に住んでるのか…？」"
+    ],
+    "textEn": [
+      "\"...Huh?",
+      "Satoko... you mean she's living with Rika-chan...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "知らなかったの？",
+      "……今はその話は後ね！",
+      "…とにかく、電話をそれだけ鳴らして誰も出ないのは絶対におかしいよ。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "You didn't know?",
+      "......Well, we can talk about that later!",
+      "...Anyway, if you called that much and no one answered, then something's definitely wrong.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは想像していたよりもはるかに迅速に、事態が異常であることを理解してくれた。",
+      "それを頼もしくも思ったが…、",
+      "異常であることをレナも認めたということが、自分の杞憂だったという最上最良の可能性を打ち消すことも同時に意味した。"
+    ],
+    "textEn": [
+      "Rena understood that the situation wasn't normal far faster than I could have ever imagined her to.",
+      "It made her seem dependable...",
+      "However, the fact that Rena had acknowledged this also meant that the best-case possibility of it all just being the result of my own needless fears went out the window."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「私も今からすぐに梨花ちゃんの家に行くね。",
+      "一緒に行く？",
+      "なら迎えに行くよ。」"
+    ],
+    "textEn": [
+      "\"I'll go to Rika-chan's house right now.",
+      "Will you come with me?",
+      "I can show you the way.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わかった。",
+      "じゃあいつもの待ち合わせ場所で合流しよう！",
+      "待ってるぞ！！」"
+    ],
+    "textEn": [
+      "\"Sounds good.",
+      "Let's meet up at the same place as usual!",
+      "I'll be waiting for you!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うぅん！",
+      "私、圭一くんの家に迎えに行くから。",
+      "だからお家で待ってていいよ。",
+      "それからご家族に、私と一緒に梨花ちゃんの家に行って来るって伝えておいてね！」"
+    ],
+    "textEn": [
+      "\"No, wait!",
+      "I'll come get you at your house.",
+      "You just wait there,",
+      "and tell your family you're coming with me to Rika-chan's house, okay?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……家でいいのか？",
+      "時間のロスのような…。」"
+    ],
+    "textEn": [
+      "\"...Will that be okay?",
+      "We might lose time if you come here...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あと、魅ぃちゃんには電話した？",
+      "魅ぃちゃんはこういう時、すっごく頼もしいの！",
+      "まだなら私から電話しておくね！！」"
+    ],
+    "textEn": [
+      "\"Did you call Mii-chan too?",
+      "She's really dependable at times like these!",
+      "If you haven't, then I'll give her a call!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "一瞬だけ思考が凍った。",
+      "……ついさっきまでしていた詩音との電話で、魅音には用心した方がいいと言われたばかりだからだ。",
+      "……毎年起こる連続怪死事件の裏に、…園崎本家の暗躍があるなら…。",
+      "…それは当主跡継ぎである魅音にも無関係ではないはず…。",
+      "なら……今年の事件である鷹野さんたちの怪死や、村長さんの失踪も無関係ではない……？"
+    ],
+    "textEn": [
+      "My thoughts froze for a moment.",
+      "...Shion had just told me to be careful around Mion during our phone conversation a little while ago.",
+      "...If the Sonozaki main house was... somehow lurking behind the surface of the annual freak deaths...",
+      "...then the current heir to the family, Mion, wouldn't be uninvolved...",
+      "So... wouldn't that mean she wasn't uninvolved in what happened this year to Takano-san and Tomitake-san, and also the mayor's disappearance...?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあね！",
+      "すぐに行くからね！",
+      "待っててね！！」"
+    ],
+    "textEn": [
+      "\"Okay, bye!",
+      "I'll be right over!",
+      "Wait for me!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはそれだけを伝えると、慌しく電話を切った。",
+      "……今、必要なのは魅音を怪しむことじゃない。",
+      "梨花ちゃんの無事を確認することだ。",
+      "着替えて、自転車のカギを用意する。",
+      "登校の時の待ち合わせ場所で合流した方がスムーズに行けるんじゃないかな、と思った。",
+      "…レナに家まで来てもらうことはないよな。",
+      "外出を告げると両親がうるさそうだったので、無言で表に出る。",
+      "いつもの涼しさのない、…何だか嫌な湿気のある晩だった。",
+      "……梨花ちゃんと沙都子は一緒に住んでるって言ってたな。",
+      "……？！",
+      "では、……梨花ちゃんだけでなく……",
+      "沙都子もいないということか？！",
+      "２人が同居していることの意味が、一気に最悪の想像に転化する。",
+      "そんな……沙都子は、",
+      "……本当に無関係だぞ？！",
+      "梨花ちゃんには失踪する理由はあっても……沙都子にはないはず……！！"
+    ],
+    "textEn": [
+      "That's all Rena said before hurriedly hanging up.",
+      "...Now wasn't the time to be doubting Mion.",
+      "I needed to make sure Rika-chan was safe.",
+      "I got changed and grabbed the key to my bike.",
+      "I figured things would go more smoothly if we met up in the place we usually do before school.",
+      "...Rena wouldn't need to come all the way to my house.",
+      "My parents would probably have objected if I told them I was leaving, so I creeped out without a word.",
+      "The night was unusually warm... and disagreeably humid.",
+      "...She said that Rika-chan and Satoko live together, right?",
+      "......?!",
+      "Then it wasn't only Rika-chan...",
+      "Satoko wasn't there either?!",
+      "Realizing what them living together really meant caused my thoughts to immediately take a turn for the worse.",
+      "That can't be...... Satoko is...",
+      "......She's got nothing to do with any of this!",
+      "Even if there were a reason for Rika-chan to disappear...... there shouldn't be one for Satoko......!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「け、…圭一くーん…！！！」"
+    ],
+    "textEn": [
+      "\"Ke... Keiichi-kuun...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは本当に早かった。",
+      "すごい速度で自転車でやって来た。",
+      "…荒い息が、レナがいかに急いでいたかを如実に物語る。"
+    ],
+    "textEn": [
+      "Rena was really fast.",
+      "She approached me on her bike at an amazing speed.",
+      "...Her breath was ragged, painting a clear picture of just how hurriedly she'd been going."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おうレナ！",
+      "さぁ行こうぜ！！」"
+    ],
+    "textEn": [
+      "\"Hey, Rena!",
+      "Let's get going!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…圭一くん。",
+      "私、お家で待っててって言ったはずだよ。」"
+    ],
+    "textEn": [
+      "\"...Keiichi-kun.",
+      "I thought I told you to wait at your house.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが真剣な顔で言った。",
+      "……怒っている？",
+      "身に覚えがなく、一瞬困惑する…。"
+    ],
+    "textEn": [
+      "Rena's expression was all business.",
+      "...Was she mad?",
+      "It came out of the blue, and I faltered for a moment..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「い、いや…、ここで合流した方が早く出発できると思ってさ…。」"
+    ],
+    "textEn": [
+      "\"W-Well... I just figured it would be faster to meet up here...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…圭一くんは……本当にわかってるのッ？！」"
+    ],
+    "textEn": [
+      "\"...Keiichi-kun... Don't you get it?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが怒りをあらわにして叫んだ。",
+      "…こんなレナを見るのは初めてだった。"
+    ],
+    "textEn": [
+      "Rena shouted, clearly angry.",
+      "...I'd never seen Rena like this before."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わ、…わかってるのかって、……何がだよ…。」"
+    ],
+    "textEn": [
+      "\"D... Do I get it...? What's the problem...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは自分が俺を怖がらせていることに気付いたらしく、１〜２度大きく深呼吸をしてから、…諭すように言った。",
+      "…だが決して表情を和やかにすることはなかった。"
+    ],
+    "textEn": [
+      "Rena seemed to notice she was scaring me, took a couple of deep breaths... then continued as if admonishing me, but...",
+      "her expression didn't soften at all."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん。",
+      "…昨日、村長さんがいなくなって村中で大騒ぎになったよね？」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun.",
+      "...The whole village is in an uproar now that the elder disappeared, right?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ………。」"
+    ],
+    "textEn": [
+      "\"Yeah......\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そんな中で、圭一くんは梨花ちゃんと沙都子ちゃんがいなくなった、って言ってるんだよ。」"
+    ],
+    "textEn": [
+      "\"Now you're telling me that Rika-chan and Satoko-chan aren't where they're supposed to be, right?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…あぁ…。",
+      "そ…そういうことになるな……。」"
+    ],
+    "textEn": [
+      "\"...Yeah...",
+      "Th-That about sums it up......\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあもっと用心しなくちゃ駄目だよッ！！！",
+      "こんな夜中に、たった１人でこんなところで突っ立ってるなんて無用心にも程があるんだから！！」"
+    ],
+    "textEn": [
+      "\"Then you need to be more careful!!!",
+      "Do you have any idea how dangerous it is to be standing out here alone in the middle of the night?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…レナの怒りの意味が徐々にわかってくる…。"
+    ],
+    "textEn": [
+      "...I began to understand where Rena's anger was coming from..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ご家族には、ちゃんと私と梨花ちゃんの家に行くって伝えたよね？",
+      "……万が一。",
+      "…私と圭一くんが揃って失踪しちゃうようなことがあっても、…いつ、どの辺でいなくなったのかを残すことができる。」"
+    ],
+    "textEn": [
+      "\"You told your family you'd be going to Rika-chan's house with me, didn't you?",
+      "...So that in the worst case scenario...",
+      "...If you and I were to disappear... people would know when and where we did.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………レナは…この緊急事態に冴え渡るくらいに冷静だったのだ。",
+      "あの綿流しの夜以降…。",
+      "毎夜、誰かが死んだり消えたりしているのだ。",
+      "綿流しの晩、鷹野さんたちが異常な死を遂げ。",
+      "…その次の晩、村長さんが姿を消し。",
+      "…さらに次の晩、梨花ちゃんと沙都子が姿を消した…。",
+      "……俺は自分のことしか考えていなかったが…、",
+      "今、この雛見沢では、異常という言葉で表現するのが妥当かどうかも怪しいような「極限の異常状態」に置かれているのだ…。",
+      "レナはそこまで、自分たちの失踪までも見越して、家族に行き先を言い残すように言ったのだ。",
+      "……自分の無用心を恥じ、",
+      "…それを恥じなければならない、今夜を恐れた。"
+    ],
+    "textEn": [
+      "......Rena was... perfectly level-headed in this emergency situation.",
+      "Ever since the night of Watanagashi...",
+      "Every night, someone had died or disappeared.",
+      "On the night itself, Takano-san and Tomitake-san met strange ends.",
+      "...On the next night, the elder vanished.",
+      "...Now, on the next night after that, Rika-chan and Satoko were nowhere to be found...",
+      "...I hadn't been thinking of anyone but myself, but...",
+      "It wasn't enough to say that Hinamizawa was a little weird at the moment—it was, in fact, extremely strange...",
+      "Rena had even anticipated our own disappearances, and had told me to tell my family where I was going.",
+      "...I was embarrassed at my own carelessness,",
+      "and the need to be embarrassed made me afraid of the night."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……ごめん。",
+      "……まだ言ってなかった。」"
+    ],
+    "textEn": [
+      "\"...Sorry.",
+      "...I didn't tell them yet.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "じゃあ一緒に言いに行こ！」"
+    ],
+    "textEn": [
+      "\"Okay.",
+      "Then let's go tell them together!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナと共に自宅へとんぼ返りする。",
+      "…月が異様に高い。",
+      "……空が無駄に広々と、寒々としていて、",
+      "……何があっても、決して夢だと思わせない…そんな残酷さをすでに突きつけていた。",
+      "こんな…狂った夜に、普段からは想像もつかないくらいにしっかりしたレナが頼もしく、",
+      "……レナに無用心を注意されるほどの、",
+      "………雛見沢の変貌が、何よりも恐ろしかった……。",
+      "月が、異様に高い。",
+      "途中で合流した魅音は、当然だが、梨花ちゃんたちの失踪に半信半疑だった。"
+    ],
+    "textEn": [
+      "With Rena beside me, I wheeled back towards my house.",
+      "...The moon seemed strangely high in the sky.",
+      "...A sky that was uselessly vast and cold,",
+      "so that no matter what, it would never seem to me like a dream—this cruel fact had already confronted me.",
+      "On such a crazy night, Rena had been unimaginably dependable...",
+      "...Hinamizawa's metamorphosis, enough to make Rena caution me against carelessness...",
+      "...was, to me, the most fearsome thing of all...",
+      "The moon seemed... strangely high in the sky.",
+      "We met up with Mion on the way, and she, of course, was unsure whether to believe me about Rika-chan and Satoko's disappearance."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……圭ちゃん、本気で言ってんの？",
+      "もし冗談だったら、かなり怒るよ？」"
+    ],
+    "textEn": [
+      "\"...Kei-chan, are you serious?",
+      "I'm going to get really mad if this is a joke.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は明らかに不機嫌そうだった。",
+      "…冗談なら、あまりに笑えないからだ。",
+      "…確かに、自分がどれだけ不謹慎なことを言っているかわかっていた。",
+      "一昨日の綿流し以降、夜毎に人が死んだり消えたりする。",
+      "…そしてそれに続いて、梨花ちゃんと沙都子までもが消えたなんて、冗談でも絶対に言えない。"
+    ],
+    "textEn": [
+      "Mion was clearly displeased.",
+      "...If this were a joke, it wasn't very funny.",
+      "...I understood how indiscreet my words were.",
+      "Ever since the day before yesterday, someone had either died or vanished every night.",
+      "...Rika-chan and Satoko disappearing after all that was something you just couldn't say, even in jest."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃん。",
+      "本当に冗談だったなら、怒るんじゃなく、笑おうよ。",
+      "だって冗談なんだから。",
+      "……私たちはそれが冗談であることを確かめなくちゃいけない。」"
+    ],
+    "textEn": [
+      "\"Mii-chan.",
+      "If it really is a joke, don't get mad, smile.",
+      "It would be a joke, after all.",
+      "...We need to go make sure whether it's a joke or not.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………そうだね。",
+      "…機嫌の悪そうなことを言ってごめん。」"
+    ],
+    "textEn": [
+      "\"......You're right.",
+      "...Sorry for getting upset.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どんな不謹慎な冗談にしろ、結果、仲間の無事が確認できるなら笑い話に過ぎない…。",
+      "レナにそれを諭され、魅音は少し緊張を解いて苦笑いして見せた。",
+      "魅音も自転車にまたがった。",
+      "ほとんど外灯もない真っ暗な夜道の暗闇を、俺たち３人の自転車のライトが切り裂いて行く。"
+    ],
+    "textEn": [
+      "However indiscreet a joke it may have been, if we learned that our friends were safe, it would end up as nothing more than a funny story...",
+      "Having been warned about that by Rena, Mion gave a dry smile, the tension she felt loosening a bit.",
+      "She mounted her bicycle as well.",
+      "Our three bicycles' lights flashed down the pitch-black roads—they were some of the only illumination outside."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんはなぜ急に、こんな時間に梨花ちゃんの家に電話なんかする気になったわけ？　」"
+    ],
+    "textEn": [
+      "\"Kei-chan, why did you suddenly decide to call and ask about Rika-chan's house at a time like this?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…レナにも上手に説明できなかったことを、再び魅音が聞いてきた。"
+    ],
+    "textEn": [
+      "...Mion asked me the same thing that I had trouble explaining to Rena."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……虫が知らせた、…じゃおかしいか？」"
+    ],
+    "textEn": [
+      "\"...Would it be weird to call it... a premonition?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "暗くてよくわからないが、魅音はとても曖昧そうな顔で笑っていた。",
+      "……納得しきれないらしい様子は、この暗闇でもよくわかった。"
+    ],
+    "textEn": [
+      "I couldn't quite tell because it was dark, but I thought I could see Mion smiling very ambiguously.",
+      "...I definitely understood that she wasn't convinced, though, despite the darkness."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺さ、うたた寝してる時に悪い夢を見ると、どうしても気になっちゃうんだよ。」"
+    ],
+    "textEn": [
+      "\"Well, I had this bad dream while I was snoozing, and I couldn't get it out of my head.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんは、…それで梨花ちゃんがさらわれる夢を見たわけかな…？」"
+    ],
+    "textEn": [
+      "\"So... did Rika-chan get kidnapped in the dream...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……いや、…その…。",
+      "…もっと漠然とした、…予感みたいなものだよ。",
+      "…梨花ちゃんが電話に出てくれたなら、レナや魅音にも続けて電話するつもりだったよ。」"
+    ],
+    "textEn": [
+      "\"......Well, hmm...",
+      "...It was more of a vague feeling... sort of thing.",
+      "...If Rika-chan had answered the phone, I would have called you and Rena after that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "さらさらっと、間に合わせにしては滑らかにウソが飛び出る。",
+      "詩音と俺に縁があることを話すのは、…あの晩、一緒に祭具殿に忍び込んだことを遠巻きに認めることになると思ったからだ…。",
+      "それ以上は魅音も聞かなかった。",
+      "…納得してくれたのかはわからない。",
+      "あるいは、そんなことよりも、梨花ちゃんと沙都子の無事を確かめる方が手っ取り早いと思ったのかもしれない。",
+      "それをほっとする自分が、何だか後ろめたかった…。",
+      "……ここ何日か、魅音はそんなに振る舞いを変えたわけでもないのに、…なぜか距離を置こうとしてしまう。",
+      "詩音や大石さんに、…何だか魅音が大仰な一族の跡取りだと聞かされただけなのに…。",
+      "………いや。",
+      "………無理に忘れようとしているだけだろうか。",
+      "思い出せ前原圭一。",
+      "…綿流しの晩のことを、一番最初に聞いてきたのは…魅音じゃないか。",
+      "…それも、とてもきつい口調で。",
+      "あの時、すくみ上がったことをもう忘れたのか…。",
+      "……あの魅音は…、確かに俺が普段知っている魅音とは異なって見えた。",
+      "……あの魅音に限って言えば、…………詩音や大石さんの言う魅音像と、ほんの少しだけ重ならなくもない…。",
+      "そうなのだ。",
+      "…あの日の魅音さえなければ、……俺は魅音に対して、こんな感情を持つことはないのだ。",
+      "…あの日の魅音は一体、…何だったんだろう。",
+      "……あの後に起こった様々な出来事で都合よく頭を満たし、",
+      "……一番最初の、一番無視してはいけないことから目を逸らしているのではないだろうか…。",
+      "俺の前を、長い髪をなびかせながら自転車をこぐ魅音。",
+      "…その背中をいくら見つめても、それらの疑問への答えが浮かぶことは決してなかった…。",
+      "神社の境内へ続く石段前までやってきた。",
+      "さすがに自転車を担いであがるつもりはないらしい。",
+      "みんな、石段脇に自転車を停める"
+    ],
+    "textEn": [
+      "Lies smoothly babbled out of my mouth, makeshift though they were.",
+      "I was lying because I thought telling them I was connected to Shion... would be like silently admitting we'd stolen into the ritual storehouse together that night...",
+      "Mion didn't press me any further.",
+      "...I don't know whether that convinced her.",
+      "Or maybe she figured that making sure Rika-chan and Satoko were safe would be faster than making an issue out of it.",
+      "I felt relieved, and immediately a little guilty...",
+      "...Mion hadn't really been acting any differently these last few days... but I'm still trying to distance myself from her for some reason.",
+      "It was only because of what I heard from Shion and Ooishi-san: that she was the successor to some kind of super-extravagant gang family...",
+      "......No.",
+      "......Was I just trying to force myself to forget?",
+      "Don't do that, Keiichi Maebara.",
+      "...Wasn't it... wasn't it Mion who was the first to ask about the night of Watanagashi?",
+      "...In such a harsh tone, at that?",
+      "Have I already forgotten the terror I felt?",
+      "...At the time, Mion looked like... someone different from the Mion I knew.",
+      "...When I think about that Mion...... then Shion and Ooishi-san's descriptions of Mion made a tiny bit more sense...",
+      "That's it, isn't it?",
+      "...If it wasn't for how she acted that day... then I wouldn't be feeling this way towards her now.",
+      "...What on earth... was going on with her back then?",
+      "...I was conveniently thinking only of everything she had done after that...",
+      "while disregarding the very first thing—the thing I should have been looking at most, wasn't I...?",
+      "Mion was pedaling her bicycle in front of me, her long hair fluttering in the wind.",
+      "...No matter how long I looked at her back, it never gave me answers to any of my questions...",
+      "We went all the way to the stone steps leading up to the shrine grounds.",
+      "Of course, we weren't going to want to haul our bikes up there,",
+      "so we parked them beside the staircase instead."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……古手神社、か。」"
+    ],
+    "textEn": [
+      "\"...So this is the Furude Shrine.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「みんな公園みたいな感覚で勝手に出入りしてるけど、本当はここは古手家の立派な私有地なんだよ。」"
+    ],
+    "textEn": [
+      "\"Everybody comes and goes as they please, as if it were a park, but this place is actually a grand estate owned by the Furude family.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "神社がまるごと私有地か。",
+      "…この神社は結構、時代を感じさせるよな。",
+      "…１０年や２０年なんてものでは済まないくらい、昔からあるように見える。"
+    ],
+    "textEn": [
+      "So the entire shrine is private property.",
+      "...It really makes you feel the passage of time.",
+      "...Ten or twenty years ago, it would have looked the exact same."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…だとすると、…古手家って結構な旧家なんじゃないのか？",
+      "代々続いた、由緒ある…。」"
+    ],
+    "textEn": [
+      "\"...Then wouldn't that mean... that the Furude family is really old?",
+      "With a history going back for generations...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………………うん。",
+      "ない。",
+      "おかしいよ。」"
+    ],
+    "textEn": [
+      "\".........Yeah.",
+      "They're gone.",
+      "That's odd.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが明らかに不穏なことを言ったので、そこへ駆け寄る。"
+    ],
+    "textEn": [
+      "Rena said something clearly disquieting, so I ran over to her."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「どうしたレナ。」"
+    ],
+    "textEn": [
+      "\"What's wrong, Rena?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……梨花ちゃんと沙都子ちゃんは、いつもここに自転車を止めてるはずなの。",
+      "…ほら。",
+      "どこにもない。」"
+    ],
+    "textEn": [
+      "\"......Rika-chan and Satoko-chan always leave their bicycles here.",
+      "...See?",
+      "They're gone.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぐるっと回りを見渡す。",
+      "………確かに自分たちが乗ってきたもの以外の自転車は見つからない。"
+    ],
+    "textEn": [
+      "I took a look around.",
+      "...Indeed, there were no other bicycles aside from the ones we'd taken to get here."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「他の場所に停めてる可能性もあるんじゃない？」"
+    ],
+    "textEn": [
+      "\"Couldn't they have parked them somewhere else?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……例えば、担いで石段を上がったとか。」"
+    ],
+    "textEn": [
+      "......Could they have brought them up the stairs?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「女の子には無理だよ圭一くん。」"
+    ],
+    "textEn": [
+      "\"Those girls couldn't do that, Keiichi-kun.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "確かにこの石段を、梨花ちゃんや沙都子が自転車を担いで上がるなんて、とても思えない。",
+      "…梨花ちゃんの家の戸を叩く前に、もう嫌な想像を掻き立てる現実を突きつけられる。",
+      "……俺たちの気付かない木陰に停めてあるだけかもしれない。",
+      "今、この場で自転車が見つからないことが、失踪の証拠になんかなってたまるか…。"
+    ],
+    "textEn": [
+      "Just as she said, I couldn't imagine Rika-chan and Satoko lugging their bikes all the way up there.",
+      "...We hadn't yet knocked on Rika-chan's door, but reality was already sparking some ideas that weren't what you'd call good.",
+      "...Maybe they were just parked under some trees and we hadn't noticed them.",
+      "I refused to believe that not being able to find their bikes here was proof that they'd disappeared..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「行こうぜ…！",
+      "家に行った方がはるかに確実だろ！」"
+    ],
+    "textEn": [
+      "\"Let's go...!",
+      "The only way to be sure is to check their house!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "３人で頷きあい、石段を駆け上がる。",
+      "鳥居をくぐり、きれいに砂利の敷かれた境内に入る。",
+      "……綿流しのお祭りがここであったのがウソのように静まり返っていた。"
+    ],
+    "textEn": [
+      "We all nodded and dashed up the stone steps.",
+      "We passed through the red arch and came out onto the shrine grounds, which was covered in neat gravel.",
+      "...It was so quiet here, as though the Watanagashi festival had never happened."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…で、梨花ちゃんたちが住んでいる家ってのはどこにあるんだ？」"
+    ],
+    "textEn": [
+      "\"...So, where's the house they live in?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「こっち。",
+      "付いてきて。」"
+    ],
+    "textEn": [
+      "\"Over here.",
+      "Come with me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが先陣を切って走り出す。",
+      "…境内脇の集会所の方へ行き、その裏手へ回る。",
+      "真っ暗な中に資材倉庫みたいな、２階建てのプレハブ小屋があった。"
+    ],
+    "textEn": [
+      "Rena took the lead and sprinted off.",
+      "...We went towards the assembly hall behind the shrine, then looped around behind it.",
+      "In the darkness of the night, we found a small, prefab two-story shack that looked like a warehouse."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……灯り、消えてるね。",
+      "…寝てるんじゃない？」"
+    ],
+    "textEn": [
+      "\"...The lights are off.",
+      "...Are they sleeping?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ノックしてみよ。」"
+    ],
+    "textEn": [
+      "\"Let's knock.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナと魅音が、とても人の住まいには見えなかったそのプレハブ小屋に近付いていった。",
+      "……こんな立派な神社を持ってるくらいなんだから…もっと立派な家に住んでいると思っていた。",
+      "……すごく意外だった。"
+    ],
+    "textEn": [
+      "Rena and Mion neared the shack, which didn't really look like a place people would live.",
+      "...They had such a beautiful shrine, so... I'd figured they'd live in an equally beautiful house.",
+      "......It was far from what I had expected."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「梨花ちゃーーん！！！",
+      "沙都子ちゃーーーん！！",
+      "いるぅーー？！」"
+    ],
+    "textEn": [
+      "\"Rika-chaaaaan!!!",
+      "Satoko-chaaaan!!",
+      "Are you theeeeere?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが２階へ向けて声をかけた。",
+      "始めは遠慮がちに、徐々に大きな声で。",
+      "……………返事はない。",
+      "…ないどころか人の気配すらしない。"
+    ],
+    "textEn": [
+      "Rena shouted up towards the second floor.",
+      "Her voice was restrained at first, but it steadily grew louder.",
+      "............No answer.",
+      "...In fact, there wasn't any sort of activity in the house at all."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…寝てるのかも知れない。",
+      "起こしてみよう。」"
+    ],
+    "textEn": [
+      "\"...They might be sleeping.",
+      "Let's wake them up.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がシャッターを両手でバンバンと叩くと、騒々しい音が当たりに響き渡った。",
+      "…これだけ賑やかにされれば、絶対に気付くはずだ。",
+      "…部屋の灯りをつけ、窓をガラリと開けて…今、何時だと思ってるんだー！って。",
+      "………だが、そうはならない。",
+      "…………まったく何の反応もない。",
+      "魅音がシャッターを叩くのをやめると、急激に静寂が押し寄せた。",
+      "……その静寂が、……最悪の想像を掻き立てる…。",
+      "…顔面の血が、さーっと音を立てて引いていくのが自分でわかった…。"
+    ],
+    "textEn": [
+      "Mion banged on the shutter with both hands, and the loud sounds echoed into our surroundings.",
+      "...They would have to notice this much noise.",
+      "...They would turn on the light in their room, fling open the windows, and yell \"what time do you think it is?!\"",
+      "......That, however, wasn't happening.",
+      ".........There was absolutely no response.",
+      "Mion stopped slamming her fists on the shutter, and a sudden silence fell over us.",
+      "...The silence... aroused terrible thoughts in us.",
+      "...I could feel the blood draining from my face..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「カギかかってる…。",
+      "…どこかから中に入れないかな…。」"
+    ],
+    "textEn": [
+      "\"It's locked...",
+      "...I wonder if we can get into somehow...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはめげなかった。",
+      "中に入って不在を確認しない限り、認めないらしい。",
+      "……そんなレナの足掻きに勇気付けられる。"
+    ],
+    "textEn": [
+      "Rena showed no signs of stopping.",
+      "It didn't look like she would admit they weren't there until we went inside and saw for ourselves.",
+      "...That refusal to give in gave me strength."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「２階の窓とか、カギをかけ忘れてないかな。",
+      "…俺、ちょっと試してみる！」"
+    ],
+    "textEn": [
+      "\"The second-story windows wouldn't be locked.",
+      "...I'll give them a try!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃん、ハシゴ。」"
+    ],
+    "textEn": [
+      "\"Kei-chan, a ladder.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が立て掛けてあったハシゴを用意してくれた。",
+      "ハシゴをかけるには少し不安定な足場だったが、魅音がしっかり押えて固定してくれた。",
+      "ハシゴなんてそんなに上ったことない。",
+      "…不慣れを丸出しにしながら、１段１段登り、…２階の窓が開かないかひとつひとつ試す。"
+    ],
+    "textEn": [
+      "Mion brought over a ladder that was standing against the house.",
+      "The footing was a little unstable for me to be climbing it, but Mion held the ladder firmly in place for me.",
+      "I hadn't climbed too many ladders.",
+      "...My inexperience with them exposed, I climbed up one step at a time... and tried to open each window on the second floor."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃん、私、念のため、本宅の方も見てくるね！",
+      "すぐ戻るから！」"
+    ],
+    "textEn": [
+      "\"Mii-chan, I'm going to go check the main house just to be sure, okay?",
+      "I'll be right back!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが駆け出して行った。",
+      "……本宅って何だ？"
+    ],
+    "textEn": [
+      "Rena darted away.",
+      "...What? A main house?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「古手家の本当の家だよ。",
+      "両親が亡くなって以来、ずっと放置してあるそうだけど。」"
+    ],
+    "textEn": [
+      "\"It's the Furude family's actual house.",
+      "After her parents passed away, I think it's been left like that.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………あ、…そうか。",
+      "……梨花ちゃんのご両親って、…亡くなってるんだよな。」"
+    ],
+    "textEn": [
+      "\"....Ah... right.",
+      "...Rika-chan's parents... they passed away, huh?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そこで改めて思い出す。",
+      "……そう言えば、沙都子も一緒に住んでるんだよな？"
+    ],
+    "textEn": [
+      "At that point, I recalled something else.",
+      "...Wasn't Satoko living here too?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「沙都子も親なしだよ。",
+      "………オヤシロさまの祟りってことで、両親が崖から落っこちてね。",
+      "……お兄さんだった悟史くんも……いなくなっちゃって…。」"
+    ],
+    "textEn": [
+      "\"Satoko's also an orphan.",
+      "...Her parents fell from a cliff because of Oyashiro-sama's curse.",
+      "...Then her older brother, Satoshi-kun... he disappeared...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…悟史って、……前に聞いた名前だな。」"
+    ],
+    "textEn": [
+      "\"...Satoshi... I've heard that name before.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "思い出した。",
+      "…去年の祟りで失踪したヤツだ。"
+    ],
+    "textEn": [
+      "I remembered.",
+      "...He was the one who disappeared last year because of the curse."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「それ以来、沙都子は梨花ちゃんと一緒にこの小屋で暮らしてるんだよ。",
+      "互いに身寄りのないひとりぼっち同士。",
+      "…助け合ってね。」"
+    ],
+    "textEn": [
+      "\"Ever since then, Satoko and Rika-chan have been living in this shack.",
+      "Neither of them has any family, but at least they're together.",
+      "...They help each other out.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……本宅って言ったか？",
+      "そっちで暮らした方が楽だろうに…。」"
+    ],
+    "textEn": [
+      "\"......Rena said 'main house,' didn't she?",
+      "Wouldn't it be easier to live there...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "カーテンがかかっているので、部屋の中をうかがい知ることは出来ないが…。",
+      "…小さな女の子が二人で暮らすには、…ちょっと厳しそうに見えた。"
+    ],
+    "textEn": [
+      "The curtains were drawn, so I couldn't get a good look inside to see, but...",
+      "two young girls living together... seemed like a pretty tough life."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「始めはそうしてたみたい。",
+      "……でも、両親を思い出すから辛いって言って。」"
+    ],
+    "textEn": [
+      "\"I think she tried that at first.",
+      "...She said it was hard, though, because it reminded her of her parents.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…そんな、不憫な身上とは……知らなかった。",
+      "……普段の、学校での元気な姿からは微塵もそんな気配は感じさせなかった…。"
+    ],
+    "textEn": [
+      "...I had no idea... I feel really bad for them.",
+      "...They were normally so cheerful at school that I never even realized an atom of this..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…梨花ちゃんも…………沙都子も、……大変なんだな。」"
+    ],
+    "textEn": [
+      "\"...Rika-chan...... and Satoko-chan... they have it hard, huh?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「呪われてるんだよ。」"
+    ],
+    "textEn": [
+      "\"She's cursed.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……え？」"
+    ],
+    "textEn": [
+      "\"...Huh?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が急に…、本当に呪うような低い声でそう呟いたのを、俺は聞き逃さなかった。",
+      "ハシゴの下の魅音に振り返り、聞きなおす。"
+    ],
+    "textEn": [
+      "Suddenly... Mion said something in such a low voice that it sounded like she was really cursing someone, and I didn't let it slide.",
+      "I turned around on the ladder to face her and asked again."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…魅音、…お前、今、…何て言った？」"
+    ],
+    "textEn": [
+      "\"...Mion... what... did you just say?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「呪われてるって言ったの。」"
+    ],
+    "textEn": [
+      "\"I said, she's cursed.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…ハシゴを押えていた魅音が、俺に目線を合わせるように顔を上に上げる。",
+      "……その目があった途端、全身に絶対零度の電流が走った。",
+      "魅音の目は…どろりと濁り、…瞳の中には…混沌と言う名のシチューがぐつぐつと煮えくり返っていた。",
+      "それらがぐるりぐるりと渦を巻き…ぼこりぼこりと泡を浮かせる…。",
+      "…俺は、……ハシゴと言う名の袋小路に…いつの間にか追い詰められていた。"
+    ],
+    "textEn": [
+      "...Mion, still holding onto the ladder, brought her head up to look me in the eyes.",
+      "...As soon as our eyes met, an absolute zero jolt of electricity surged through my body.",
+      "Mion's eyes clouded over... and within them boiled and bubbled... a stew of chaos.",
+      "They whirled around and around like a raging sea... and bubbles floated to the surface...",
+      "...I had at some point... been trapped on this ladder... like being cornered on a dead-end street."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……み、…魅音、お前………何てカオしてんだよ…？」"
+    ],
+    "textEn": [
+      "\"......Mi... Mion, you... Why are you making that face...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "冗談が過ぎるぜ…と、苦笑いを交えながら軽く言うつもりだった。",
+      "…だが、…不安定な足場の上で…こみ上げる感情に呑まれまいと必死に足掻く俺の口からは、しわがれた声しか出なかった。"
+    ],
+    "textEn": [
+      "I intended to follow that up with \"you're going too far with this joke\" and give her a forced smile.",
+      "...However... on such uneven footing as I was... the only thing that came out of my mouth was a hoarse groan as I desperately struggled to not let nausea overwhelm me."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「北条沙都子はね。",
+      "……オヤシロさまの祟りを一身に受けた、呪われた子なの。」"
+    ],
+    "textEn": [
+      "\"Satoko Houjou...",
+      "...She's been cursed by Oyashiro-sama.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…魅音は…俺以外の誰かの問いかけに答えるように、…聞いてもいないのにそう答えた。"
+    ],
+    "textEn": [
+      "...Mion answers... with a response to something I never asked... as if replying to somebody else's question."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「公園の展望台から転落死したのは両親だけ。"
+    ],
+    "textEn": [
+      "\"The only people who fell from the park observation platform were her parents."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "あの子を味噌っかす扱いしてた冷たい両親だけが死んで、",
+      "あの子は１人だけ助かった。"
+    ],
+    "textEn": [
+      "Only her parents, who treated her like dirt, died that day.",
+      "She was the only one to survive."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "",
+      "…引き取り先で、あの子を虐めた叔母は、綿流しの夜に異常者に、脳みそがぐっちゃぐちゃに飛び散って、頭が原形を留めないくらいに滅多打ちにされて殺された。"
+    ],
+    "textEn": [
+      "<size=-2>",
+      "...Then she was sent to live with her aunt, who treated her cruelly, and the aunt was killed on the night of Watanagashi by some deviant, who beat her to death so violently her brains were everywhere and her head an entirely different shape by the end of it."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…いつもあの子をかばってた悟史くんも、",
+      "…あの子の誕生日に突然消えてしまった。"
+    ],
+    "textEn": [
+      "...Then Satoshi-kun, who always protected her...",
+      "He suddenly disappeared on her birthday."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "あの子を虐めていなかったのに消されてしまった。",
+      "…警察は家出したんだって決め付けたけど、悟史くんは逃げ出すような人じゃなかった。",
+      "いつも一生懸命。"
+    ],
+    "textEn": [
+      "Someone made him disappear, even though he wasn't abusing her.",
+      "...The police judged him to have run away from home, but Satoshi-kun wasn't the kind of person who would do that.",
+      "He was always earnest."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "誰の力も借りずにこつこつと、一人懸命に努力する人だった。"
+    ],
+    "textEn": [
+      "He would never ask for anyone else's help—he would always drag himself through everything with hard work alone."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "たった１人の妹のために身を粉にして頑張ってたのに、消されてしまった。"
+    ],
+    "textEn": [
+      "He worked so hard he nearly ground his bones into dust, all for his one and only little sister—and yet someone made him disappear."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "あの子のためにだけに生きていたのに消されてしまった。",
+      "可哀想な悟史くん。",
+      "なんて報われない悟史くん。",
+      "なんて恩知らずなあの子なの。",
+      "……あの子は呪われた子。"
+    ],
+    "textEn": [
+      "She was the only thing he lived for, and yet someone made him disappear.",
+      "Poor, poor Satoshi-kun.",
+      "He was never rewarded, that Satoshi-kun.",
+      "How ungrateful that child is.",
+      "......She is cursed."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "あの子に近付けば、それが誰でも末路は同じ。",
+      "祟りで死ぬか、",
+      "祟りで消えるか。",
+      "あの子に安らぎなんてあるものか、",
+      "あの子に安らぎなんてあるものか。"
+    ],
+    "textEn": [
+      "All who get near her suffer the same fate.",
+      "The curse kills them,",
+      "or the curse makes them disappear.",
+      "She cannot have any relief,",
+      "she cannot have any relief."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……梨花ちゃんが消えたのもきっと沙都子のせいだよ",
+      "違",
+      "い",
+      "な",
+      "い",
+      "違",
+      "い",
+      "な",
+      "い",
+      "違",
+      "い",
+      "な",
+      "い",
+      "違",
+      "い",
+      "な",
+      "い",
+      "違",
+      "い",
+      "な",
+      "い",
+      "違",
+      "い",
+      "な",
+      "い",
+      "違",
+      "い",
+      "な",
+      "い",
+      "違",
+      "い",
+      "な",
+      "違",
+      "違",
+      "違",
+      "違",
+      "違",
+      "違",
+      "…」"
+    ],
+    "textEn": [
+      "......It's probably Satoko's fault that Rika-chan disappeared, too.",
+      "It",
+      "has",
+      "to",
+      "be",
+      "it",
+      "has",
+      "to",
+      "be",
+      "it",
+      "has",
+      "to",
+      "be",
+      "it",
+      "has",
+      "to",
+      "be",
+      "it",
+      "has",
+      "to",
+      "be",
+      "it",
+      "has",
+      "to",
+      "be",
+      "it",
+      "has",
+      "to",
+      "be",
+      "it",
+      "has",
+      "to",
+      "has",
+      "to",
+      "has",
+      "to",
+      "has",
+      "to",
+      "...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音はうわ言のように…もはや聞き取れない言葉を繰り返していた。",
+      "…わなわなと肩を震わせ、その震えがハシゴを伝って俺にも直接伝わってくる。",
+      "足場がぐらぐらと振るえ…、地面がいかに遠いものかを気付かされる。"
+    ],
+    "textEn": [
+      "Mion was mumbling words over and over that were no longer coherent.",
+      "...Her shoulders were trembling so hard that I could feel it through the ladder.",
+      "I almost lost my footing... which made me realize just how far away the ground really was."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お、…落ち着けよ魅音…！！",
+      "な、何のことを言ってるのかわからないよ！！」"
+    ],
+    "textEn": [
+      "\"C... Calm down, Mion...!!",
+      "I-I don't know what you're talking about!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それが魅音の耳に届いたかは怪しい。",
+      "……魅音が揺らす、ガクガクという揺れはもっと大きいものになろうとしていた…。",
+      "た、……助けて……。",
+      "ハシゴを……た、倒される……、",
+      "助けて…、",
+      "…助け……！！",
+      "その時、大勢の人が駆けて来る足音が聞こえてきた。"
+    ],
+    "textEn": [
+      "I wasn't sure if she even heard me.",
+      "......Mion rocked back and forth, and that rocking and trembling was becoming even more violent...",
+      "H... Help me......",
+      "The ladder... i-it's falling......",
+      "Help me...",
+      "...Help...!!",
+      "Just then, I heard the sound of many people running towards us."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ぅお、……ぉ、おおーーいい！！",
+      "こ、ここ、ここだーー！！！！」"
+    ],
+    "textEn": [
+      "\"Oh... oh, heeeyyyy!!",
+      "O-O-Over heeere!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "助けてくれ、とまで言いそうになった。",
+      "レナを先頭に、４〜５人の大人たちが懐中電灯を手に駆けつけてくる。"
+    ],
+    "textEn": [
+      "I very nearly said \"help me\" outright.",
+      "Four or five adults, led by Rena, ran over here with flashlights."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん、魅ぃちゃん、遅れてごめんね！",
+      "カギ、借りてきたよ！」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun, Mii-chan, sorry I took so long!",
+      "I borrowed the key!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「お、助かったね。",
+      "どうも窓も戸締りは完璧らしくてね。",
+      "困ってた。」"
+    ],
+    "textEn": [
+      "\"Oh, nice one.",
+      "Seems all the windows and doors are perfectly sealed.",
+      "I was getting worried.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……魅音がけろっとした様子でそう言うのを聞き、…改めてぞっとするものを感じた。",
+      "今、そこでハシゴを押えているのは間違いなく魅音だ。",
+      "園崎魅音本人だ。",
+      "………じゃあ、",
+      "……ついさっきまで、",
+      "…うわ言のように言っていたのは…、",
+      "…あれは誰だったんだよ…？",
+      "呪われているなんて物騒なことを…ぶつぶつと言い続けていたのは……誰だったんだよ…？",
+      "…魅音がもう一度魅音でない魅音になる前に、俺は逃げるようにハシゴから飛び降りた。",
+      "大人がカギ束をいくつか試しながら、１階の大きなシャッターを開けようとしていた。"
+    ],
+    "textEn": [
+      "...When I heard Mion talking like nothing had just happened... I again felt a chill run through me.",
+      "The person currently holding the ladder in place—it was definitely Mion.",
+      "It was the real Mion Sonozaki.",
+      "......Then...",
+      "......the person muttering to themselves...",
+      "...just a few seconds ago...",
+      "...who was that...?",
+      "The person who was mumbling about terrible things... like curses... who was that...?",
+      "...I jumped down from the ladder as if running away, before Mion turned into that person who wasn't Mion a second time.",
+      "The adults tried a few different keys on a keyring as they tried to open the big shutter on the first floor."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「梨花ちゃんの家はね、元々は町会の防災倉庫だったの。",
+      "だからシャッターのカギを今でも村長さんの家が預かってるの。」"
+    ],
+    "textEn": [
+      "\"Rika-chan's house used to be a disaster shelter for the town council.",
+      "So the key to the shutter is still kept in the mayor's house.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「今では梨花ちゃんと沙都子の私邸だけど。",
+      "…まぁ、元々梨花ちゃんの家の敷地内だし。",
+      "誰も文句は言わないけどね。」"
+    ],
+    "textEn": [
+      "\"It's Rika-chan and Satoko's private residence now, though.",
+      "...Well, this is on Rika-chan's property anyway.",
+      "Nobody complains about it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がそう言いながら俺に笑いかける。",
+      "……だが俺は蒼白な表情を返すだけだ。",
+      "…あまりにいつもの様子の魅音が、かえってさっきの魅音でない魅音の気味悪さを浮き彫りにしていた……。",
+      "ガチャン、……ガシャ、ガララララララララ……ガシャーン！！",
+      "長いこと開けられることのなかったシャッターが開けられた。",
+      "レナが、灯りのスイッチを探り当て、中に飛び込んでいく。",
+      "俺もそれに続いた。"
+    ],
+    "textEn": [
+      "Mion gave me a smile as she said that.",
+      "...I, however, could only return her gaze with an aghast expression.",
+      "...Mion was acting all-too-normal now, but that only contrasted all the more sharply with her earlier un-Mion-like creepiness.",
+      "Bang! ......Bam, clatter clatter clatter..... bang!!",
+      "The shutter opened up for the first time in a very long while.",
+      "Rena located the light switch and wasted no time going inside.",
+      "I followed her in."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「梨花ちゃーん！！",
+      "沙都子ちゃーん！！",
+      "いるなら返事をしてー！！」"
+    ],
+    "textEn": [
+      "\"Rika-chaaaan!!",
+      "Satoko-chaaaan!!",
+      "If you're here, say something!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "狭い階段を登る。",
+      "…外から見たときは倉庫にしか見えなかったが、こうして中に入ると、生活感にあふれた人家であることがよくわかった。",
+      "……何となく、あの２人を感じさせる匂いが満ちている。",
+      "間違いなくここは、梨花ちゃんと沙都子の家なのだ。",
+      "１階が町会の倉庫を兼ねているのに対し、２階は完全に居住のための空間だった。",
+      "ワンルームマンションのように、台所を通り抜けた先が８畳くらいの居間になっていた。",
+      "タンスや戸棚がぎっしりと置かれ、隅には取り込んだらしい洗濯物が山になっていた。",
+      "居間の中央には折り畳みテーブルが置かれ、その上には醤油やドレッシングの小瓶があり、…質素な生活感を漂わせていた。",
+      "こんな深夜に２人がいないなんておかしい。",
+      "…次々と階段を登ってくる大人たちが口々に騒ぎ始める。"
+    ],
+    "textEn": [
+      "We climbed a narrow staircase.",
+      "...It had looked like nothing more than a warehouse, but now that I was inside, I could feel how lived-in it was—it was a person's home.",
+      "...Somehow, the scent of the two of them filled the place.",
+      "This was definitely where Rika-chan and Satoko lived.",
+      "The first floor doubled as a town assembly warehouse, but the second floor was a space entirely for living.",
+      "Just like a one-room apartment, past the kitchen was a living room taking up about 150 square feet.",
+      "Dressers, cupboards, and the like were packed into the space, and in the corner there was a huge pile of clothes that appeared to have just been taken in from drying outside.",
+      "In the center of the living room was a fold-up table, and on it were small containers for things like soy sauce and salad dressing... The sense of a frugal lifestyle drifted from all of it.",
+      "It was strange that they weren't here in the middle of the night like this.",
+      "...The adults, climbing the stairs one at a time, began to make a fuss and talk amongst themselves."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……どう？",
+      "やっぱりいない？！」"
+    ],
+    "textEn": [
+      "\"......So?",
+      "Not here?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "………いない。",
+      "絶対おかしい。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "......They're not here.",
+      "This is definitely weird.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "つい昨日、村長が失踪して大騒ぎになったばかり。",
+      "…そして今日は、梨花ちゃんに沙都子までが…。",
+      "…２人して夜遊びに？",
+      "そんなはずはない。",
+      "でも自転車はなかった。",
+      "こんな深夜にどこへ？！",
+      "行ったまま帰ってこないのか？",
+      "どこへ行ったんだ？！",
+      "大人たちが様々な可能性を口にし、場は一気に騒然とする。",
+      "…やがて魅音がそれを制した。"
+    ],
+    "textEn": [
+      "The village had just been thrown into chaos yesterday because of the mayor's disappearance.",
+      "...Then today, even Rika-chan and Satoko had...",
+      "\"...Were they out playing somewhere together?\"",
+      "\"That can't be.\"",
+      "\"Their bicycles aren't here, though.\"",
+      "\"Where would they have gone so late at night?!\"",
+      "\"Have they just not come back yet?",
+      "Where did they go?!\"",
+      "The adults put forth various possibilities, and the house immediately devolved into a state of confusion.",
+      "...Eventually, Mion settled them down."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……信じたくないけど、…公由の村長さんが消えたのが昨日の今日。",
+      "……無関係とは言い切れないね。」"
+    ],
+    "textEn": [
+      "\"...I don't want to believe it, but... the mayor, Kimiyoshi, disappeared yesterday.",
+      "...We can't say that this is unrelated.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…魅音の断言に、大人たちは顔を青ざめさせる…。",
+      "それは俺とレナも同じだ…。"
+    ],
+    "textEn": [
+      "...The adults' faces paled at Mion's declaration.",
+      "My and Rena's did as well..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「例えば…ご近所に行って、お茶でもご馳走になって眠っちゃって。",
+      "起こすに起こせなくなってるなんて可能性ももちろんあるよね。"
+    ],
+    "textEn": [
+      "\"Let's see... They could have gone nearby for some tea or something, then accidentally fallen asleep.",
+      "Whoever invited them might just not be able to wake them up at all, too."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……その可能性をまず潰そう。",
+      "牧野さんは裏手から沢の辺りの家を回って下さい。",
+      "慶太郎さんは御蛇ヶ池の方を。",
+      "岡村さんは…、」"
+    ],
+    "textEn": [
+      "...Let's eliminate that possibility first.",
+      "Makino-san, please go around to the houses near the stream.",
+      "Keitarou-san, go look near Ojaga Lake.",
+      "Okamura-san, you...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は村人たちにてきぱきと指示を出した。",
+      "……大人たちは年下であるはずの魅音の指示に躊躇なく従っていた。"
+    ],
+    "textEn": [
+      "Mion promptly gave directions to the villagers.",
+      "...The adults followed them without hesitation, despite her age."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「私はここに残って、電話で片っ端から心当たりに問い合わせてみます。",
+      "じゃ、皆さん、そういうことで！」"
+    ],
+    "textEn": [
+      "\"We'll remain here and call up anyone we can think of on the phone.",
+      "Okay, everyone, you have your orders!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "おぉう！",
+      "大人たちは唸って返事をすると、どかどかと階下へ下りて行った。"
+    ],
+    "textEn": [
+      "\"Got it!\"",
+      "The adults all roared in reply and pounded back down the stairs below."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…さすが魅ぃちゃんだね。",
+      "魅ぃちゃんは学校だけじゃなく、雛見沢の委員長さんみたいだよね！」"
+    ],
+    "textEn": [
+      "\"...Wow, Mii-chan.",
+      "You're not only chairperson of the school, but Hinamizawa too!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「茶化さない茶化さない！",
+      "ほらどいて。",
+      "おじさんは電話を使うんだから。」"
+    ],
+    "textEn": [
+      "\"No time for jokes!",
+      "Hey, step aside.",
+      "This old man is using the phone.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は得意げに笑ってみせると、受話器を取り、電話を始めた。",
+      "レナは頼りになる魅音をとても頼もしそうに見つめていた。",
+      "だが俺は、……魅音のリーダーシップが、むしろ詩音や大石さんの言う、園崎家の跡継ぎとしての魅音像を肯定するようで複雑な気持ちだった…。",
+      "……おいおい、前原圭一。",
+      "今はそんなことはどうでもいいだろ。",
+      "今は梨花ちゃんと沙都子の安否の方が大事だ！",
+      "例えば…この部屋に二人の行き先を示す手がかりがあるかもしれないじゃないか！"
+    ],
+    "textEn": [
+      "Mion grinned proudly, took the receiver, and got started.",
+      "Rena gave Mion a trusting look, considering her dependable for doing all of this.",
+      "My feelings, though, were... a little more complicated, since her leadership seemed to be affirming the 'Sonozaki family successor' impression that Shion and Ooishi-san had given me...",
+      "...Stop right there, Keiichi Maebara.",
+      "None of that matters right now.",
+      "The most important thing is to make sure Rika-chan and Satoko are safe!",
+      "Let's see... couldn't there be a clue hinting at where they might have gone somewhere in this room?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……とは言え…、……そんなのわかるはずもないよな。」"
+    ],
+    "textEn": [
+      "\"...Still, though... I wouldn't know what to look for anyway.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "この部屋が荒らされたり、以前と極端に違っている部分とかがあるならいろいろと推理もできるのだろうが、",
+      "……こうも何の異常もない室内では、何の手がかりも目に付かない。",
+      "第一…、俺は初めて訪れる部屋なんだ。",
+      "…正常な状態の部屋を知らない以上、何もわかるわけがない…。",
+      "…おいおい、諦めるな前原圭一！",
+      "いいから探せ！",
+      "何かを！",
+      "その何かを求めて、タンスを開けたり窓を開けたりしてみる。",
+      "…だが何も気になるものは見つからなかった。",
+      "レナも、居ても立ってもいられないのか、俺と同じように室内に手がかりがないかきょろきょろしているようだった。"
+    ],
+    "textEn": [
+      "If we tore the whole place apart and figured out what was different from before, we might be able to speculate, but...",
+      "there was nothing strange about this room, and there were no clues in sight.",
+      "In the first place... I had never been here before.",
+      "...There was no way for me to know what was different if I didn't know how the room usually looked...",
+      "...Hey, don't give up, Keiichi Maebara!",
+      "Stop thinking and start looking!",
+      "For something!",
+      "In search of something, I tried pulling open the dresser drawers and opened the windows.",
+      "...I didn't uncover anything meaningful, though.",
+      "Rena, also unable to stand around doing nothing, was looking around the room like I was."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…でもレナ。",
+      "冷蔵庫や流しの下の棚とかを開いても梨花ちゃんは見つからないと思うぞ。」"
+    ],
+    "textEn": [
+      "\"...Rena.",
+      "I don't think you'll find Rika-chan by opening the refrigerator or the cabinet underneath the sink.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「隠れてるかな、って思って…。",
+      "は、…はぅ〜…。」"
+    ],
+    "textEn": [
+      "\"I just thought they might be hiding...",
+      "Ha... Hau~...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そうしてる内に外が賑やかになった。",
+      "…騒ぎを聞きつけて村人たちがどんどん集まってきているのだ。",
+      "もちろん、魅音が電話で呼び出した人たちもたくさんいるだろう。"
+    ],
+    "textEn": [
+      "As we were searching, it got noisy outside.",
+      "...Villagers were quickly assembling here, having heard the commotion.",
+      "Of course, a lot of them were probably people Mion had called."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「私、みんなに話をしてくる。",
+      "…遅かれ、警察も来るだろうしね。",
+      "大石のヤツにも事情を説明しなきゃ。」"
+    ],
+    "textEn": [
+      "\"I'll go tell everyone what's going on.",
+      "...The police will be here sooner or later, too.",
+      "We'll need to explain the situation to Ooishi.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が階段を降り始めたので、俺たちもそれに付いて階段を降り表へ出た。",
+      "外にはもう１０人くらいの大人たちが集まっていた。",
+      "…みんな不安そうだ。",
+      "気付くと、社の方には老人たちが集まり、数珠を揉みながら梨花ちゃんの無事を祈っていた。",
+      "………大変なことになった…。",
+      "これはもう俺たち友人同士だけの問題じゃない。"
+    ],
+    "textEn": [
+      "Mion began descending the stairs, and we followed her out to the front of the house.",
+      "There were already around ten adults there...",
+      "and all of them looked uneasy.",
+      "I suddenly noticed that the old people from the shrine were here as well, and they were praying for Rika-chan's safety, rubbing their prayer beads.",
+      "......This had gotten bad...",
+      "This wasn't just a problem between friends anymore."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「魅音ちゃん、梨花ちゃまと沙都子ちゃんがいなくなったってのは本当かい！！」"
+    ],
+    "textEn": [
+      "\"Mion-chan, is it true that Rika-chan and Satoko-chan aren't anywhere to be found?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "村人たちが魅音に群がり輪を作る。",
+      "魅音は落ち着けと言うように右手を上げてそれらを制した。"
+    ],
+    "textEn": [
+      "The villagers all formed a ring around Mion, swarming her.",
+      "Mion raised her right hand, as if silently telling them to calm down."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「誰かの家にお邪魔していないか、町会の回覧区分に沿って全戸をまず調べよう。"
+    ],
+    "textEn": [
+      "\"First, let's check every house according to the town council's notification division and see if they're visiting anyone."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…本人たちが、こっちの気も知らずに、誰かの家ですやすやとお泊りしている可能性もあるわけだからね。」"
+    ],
+    "textEn": [
+      "...After all, they could be fast asleep at someone's house and totally unaware that we're looking for them.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……寝入った猫の子のように、満腹になって気持ち良さそうに眠ってしまった梨花ちゃんを起こすのは確かに心苦しいだろう。",
+      "…そうだったらどんなにいいか。"
+    ],
+    "textEn": [
+      "...It would definitely be hard for someone to wake up Rika-chan if she had eaten a good, full meal and fallen asleep like a kitten afterwards.",
+      "...Oh, how nice it would be if that were the case."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……こんなことは考えたくないけど、もちろん悪いことが起こった可能性もある。」"
+    ],
+    "textEn": [
+      "\"......I don't want to think about this, but it's also possible something bad has happened.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が一際表情を険しくしてそう告げると、大人たちもシンとなった…。"
+    ],
+    "textEn": [
+      "Mion's face grew remarkably more grim, and a wave of silence washed over the adults..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「我々も手分けしよう。",
+      "昨夜の村長探しで回ったところをもう一度回る。」"
+    ],
+    "textEn": [
+      "\"We should divide up the work, too.",
+      "We'll go around to all the places we went last night while looking for the mayor.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「…俺たちはダム現場をよく念入りに探してみる。",
+      "お前さんたちは学校の辺りを探してみてくれ。」"
+    ],
+    "textEn": [
+      "\"...We'll go look around the dam construction site as best we can.",
+      "You guys go search around the school.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「おぅ！",
+      "すったら早ぅ回らんと！！",
+      "行こ行こ！！」"
+    ],
+    "textEn": [
+      "\"Right!",
+      "Let's get a move-on!!",
+      "Come on, let's go!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…みんな、昨日も村長さん探しで徹夜だったからね。",
+      "…寝不足で辛いだろうけど、どうかよろしく！」"
+    ],
+    "textEn": [
+      "\"...All of you were up all night looking for the mayor.",
+      "...I know you're all low on sleep, but please, do your best!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Men",
+    "labelJp": "男性",
+    "textJp": [
+      "「「「おぉうッ！！！」」」"
+    ],
+    "textEn": [
+      "\"\"\"Got it!!!\"\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それを合図に、大人たちは四方へ散っていった。",
+      "自分もどこかへ散るべきだと思い…、誰も向かわなかった方向へふらふらと歩き出す。",
+      "どんどんひと気がなくなる。",
+      "…でも別に怖いとは思わなかった。",
+      "……消されるなら俺か詩音が先のはず。",
+      "だから俺はもっと暗闇を怖がってもいいはずなのに。",
+      "……でも怖いとは思わなかった。",
+      "……どうして？",
+      "今夜はもう、",
+      "…人が消えたから。",
+      "…だから、これ以上、今夜に人が消えることはない…。",
+      "そんな自分勝手な安心感の根拠に罪悪感を覚えるには、…今の焦燥して疲れ果てた俺にはしばらく時間が必要だった…………。"
+    ],
+    "textEn": [
+      "With that as their signal, the adults scattered in every direction.",
+      "I figured I should scatter somewhere as well... so I started walking unsteadily in a direction no one else had gone in.",
+      "I was getting farther and farther from people.",
+      "...I didn't feel scared or anything, though.",
+      "...If someone were made to disappear, Shion and I should be first.",
+      "It would have been perfectly normal for me to be scared of the dark.",
+      "...However, I didn't feel that way.",
+      "...Why was that?",
+      "It was because tonight...",
+      "someone had already disappeared.",
+      "...So, nobody else would disappear tonight...",
+      "It would take some time before I, exhausted as I was... would feel guilt at the cause of my own selfish sense of relief........."
+    ]
+  }
+]

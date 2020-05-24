@@ -1,0 +1,57 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「うちのお父さん、ヤクザの大物ですから。",
+      "…年少のお姉でも、若いガラの悪いのを何人も従えることができました。"
+    ],
+    "textEn": [
+      "\"Well, our dad is a big-shot yakuza.",
+      "...Even when she was little, my sister managed to subjugate a bunch of young street rats."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "で、様々な嫌がらせや妨害をやってのけたんです。」"
+    ],
+    "textEn": [
+      "Then she played all sorts of tricks on them and just generally got in their way.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…今は何だかのんびりした雰囲気だから想像も付かないでしょうが。",
+      "器物破損から脅迫、暴行まで一通りこなして、何度も補導されたんですよ。"
+    ],
+    "textEn": [
+      "\"...Now she's pretty laid-back, so it might be hard to imagine.",
+      "They put her in charge of everything, from property damage to threats and even acts of violence."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "…子供ですから、すぐに釈放してもらえたみたいですけどね。"
+    ],
+    "textEn": [
+      "...Though since she was a kid, they could get her released pretty easily."
+    ]
+  }
+]

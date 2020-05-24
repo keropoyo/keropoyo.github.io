@@ -1,0 +1,76 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「変わった質問をしましたね。",
+      "ひょっとして今日、寝不足ですか？",
+      "いけませんよー、成長期は良く食べよく寝て育つんですから」"
+    ],
+    "textEn": [
+      "\"That was a strange question.",
+      "Perhaps you didn't sleep well last night?",
+      "You can't do that. You have to sleep and eat well to grow up fine.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんに詩音のヤツが、ちょっかい出して来たのを無視してね〜！",
+      "…圭一くん、だから祭の前の日は、よく寝た方がいいよって言ったのに…。」"
+    ],
+    "textEn": [
+      "\"And he ignored it when that troublemaker Shion came up and made a pass at him~!",
+      "...Keiichi-kun, this is why I said to get a good night's sleep before the festival...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺昨日、寝不足で半分頭がぼおっとなっててさ…。",
+      "怪しいお注射で自由を奪って、私だけの専属メイドに〜〜…☆」",
+      "思春期のシャイな悩み、大いに歓迎ですよ〜☆」"
+    ],
+    "textEn": [
+      "\"You know, yesterday I didn't really get enough sleep and my head's a bit fuzzy...",
+      "I could steal their agency with a suspicious injection, and have them be my personal maids~~...☆\"",
+      "I greatly welcome any shy, bashful worries you might have as you come into puberty~☆.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「睡眠導入剤を入れて。種類は任せます。"
+    ],
+    "textEn": [
+      "\"Mix in the sedative you think best for the occasion."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Bureau Staff",
+    "labelJp": "局員",
+    "textJp": [
+      "「…県警の発表では、他殺の可能性が極めて高いと…。」",
+      "口と手を一緒に動かすのは落語家だけ。"
+    ],
+    "textEn": [
+      "\"...According to the statement from the prefectural police department, the possibility is extremely high that she was murdered...\"",
+      "Only stage actors do both at once."
+    ]
+  }
+]

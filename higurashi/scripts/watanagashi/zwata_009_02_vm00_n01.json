@@ -1,0 +1,67 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「前原さんの御宅でしょうか。",
+      "夜分遅くに失礼いたします…。",
+      "公由と申します。",
+      "ご主人でいらっしゃいますか？」"
+    ],
+    "textEn": [
+      "\"Is this the Maebara residence?",
+      "Excuse me for the late call...",
+      "I'm Kimiyoshi.",
+      "Is this the head of the household?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "中年の男性の声。",
+      "……一気に失望する。"
+    ],
+    "textEn": [
+      "It was the voice of a middle-aged man.",
+      "...All my hopes rushed out of me."
+    ]
+  },
+  {
+    "color": "#f3cfb5",
+    "labelEn": "Kimiyoshi",
+    "labelJp": "公由",
+    "textJp": [
+      "「あ、いえいえ、お忙しければ結構なんです。",
+      "…実は恐縮なんですが…ウチのお爺ちゃんがお邪魔してませんでしょうか。」"
+    ],
+    "textEn": [
+      "\"Oh, no no, if he's busy, then it's fine.",
+      "...This may be a strange question, but... is my old man paying you a visit?\""
+    ]
+  },
+  {
+    "color": "#f3cfb5",
+    "labelEn": "Kimiyoshi",
+    "labelJp": "公由",
+    "textJp": [
+      "「そうですか！",
+      "夜分遅くに申し訳ありませんでした。",
+      "失礼いたします……。」"
+    ],
+    "textEn": [
+      "\"I see!",
+      "Again, I apologize for calling you so late at night.",
+      "Goodbye......\""
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…わ、…それ絶対にバレるよ、お酒臭いー！」"
+    ],
+    "textEn": [
+      "...Wow... You really stink of liquor! You'll get found out for sure!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、県の児童相談所に電話してね。",
+      "児童福祉司が昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…保護司、来たんでしょ？",
+      "……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"...A probation officer came, right?",
+      "...Umm... How did it go?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それは……、児童相談所長がいろいろ検討した末に判断を……。」",
+      "……実は、沙都子の児童虐待の通報は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、自傷と作話で…嘘の虐待話を作って……、",
+      "自分で虐待ＳＯＳに電話したって。」",
+      "……………児童相談所に、ちゃんと昔の記録が残ってましたですから、"
+    ],
+    "textEn": [
+      "\"...Well... After the person in charge at the child consultation center looked into it from many angles, they determined...\"",
+      "...This is actually the third time someone has reported Satoko's child abuse.",
+      "especially her stepfather, so she inflicted wounds on herself so she could... make up a false story about abuse...",
+      "And that she sent out an SOS herself.\"",
+      "......The child consultation center had all their past records..."
+    ]
+  }
+]

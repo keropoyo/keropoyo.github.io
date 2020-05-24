@@ -1,0 +1,221 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「はい。郵便局員も目撃してないそうです。",
+      "…園崎本家は、郵便受けにハンコが吊るしてあるそうで、書留も宅急便も勝手にハンコを押して投函していい事になってるんだそうっす。」"
+    ],
+    "textEn": [
+      "\"Yes. The postal worker hasn't seen anything either.",
+      "...The Sonozaki main house has their seal hanging from their mailbox so that anyone can stamp their mail or parcels with it and drop it in.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっは、そりゃ無用心ですねぇ。",
+      "…ってことは、最後の目撃はいつになるんです？」"
+    ],
+    "textEn": [
+      "\"Na-ha-ha, that's rather careless of them.",
+      "...So when was she last seen?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「綿流しの開会式でした挨拶が最後です。",
+      "その後すぐに帰宅したらしいっすから。」"
+    ],
+    "textEn": [
+      "\"She was last seen at the Watanagashi opening ceremony greetings.",
+      "She apparently returned home right after that.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「高齢ですからねぇ。",
+      "…話じゃ、週に何回かお稽古事で外出してるそうじゃないですか。",
+      "そっちはどうです？」"
+    ],
+    "textEn": [
+      "\"Well, she is pretty old.",
+      "...From what I've heard, she goes out a few times a week to take lessons, right?",
+      "Have you found anything out about that?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「毎週月曜に集会所で大正琴を習ってるんですが、今週は休んだそうです。」"
+    ],
+    "textEn": [
+      "\"Every Monday she goes to the assembly hall to practice the taishougoto, but she didn't go this week.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「欠席の電話とかは？",
+      "それを誰かが確認したとかは？」"
+    ],
+    "textEn": [
+      "\"Any calls to say she wasn't going to be there?",
+      "Has anyone confirmed it?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「いえ、誰も。",
+      "ただ、たまに休むことがあったらしいので誰も不審には思わなかったようです。」"
+    ],
+    "textEn": [
+      "\"No, nobody.",
+      "She apparently takes days off once in a while, though, so no one thought it was strange.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「明日さ、１０時くらいになったら市役所のふりして電話してみましょうかね。",
+      "在宅を確認してみて下さい。」"
+    ],
+    "textEn": [
+      "\"Tomorrow, why don't we pretend we're the town hall and call around ten o'clock?",
+      "Please figure out whether she's at home.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「１０時ですね。了解っす！」"
+    ],
+    "textEn": [
+      "\"Ten o'clock? Got it!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "雛見沢の古い因習が関わっている気配が濃厚になった頃から、御三家をこっそりと監視していた。",
+      "今日までに御三家の公由家の当主と、古手家の当主が消えた。",
+      "残る当主は１人。",
+      "園崎家当主の園崎お魎。（そのざきおりょう）",
+      "高齢の婆さまらしい。",
+      "威厳は衰えないものの、人前に姿を現すことは稀だそうで、確認がなかなか取れなかった。",
+      "…その最後の当主も、綿流しの日に目撃されたのを最後に、誰からも目撃されていない。",
+      "園崎本家の中にいて今も健在なのか？",
+      "…それとも……もう？"
+    ],
+    "textEn": [
+      "Ever since it started to seem more and more like ancient Hinamizawa traditions had something to do with all this, he'd been keeping a careful eye on the Three Families.",
+      "At this point, the leader of the Kimiyoshi family and the leader of the Furude family had disappeared.",
+      "There was only one leader left.",
+      "Oryou Sonozaki, the leader of the Sonozaki family.",
+      "She was apparently a pretty old woman.",
+      "Her dignity hasn't waned, but she still only appeared before people rarely, so it was difficult to confirm where she was at any given time.",
+      "...She, the last leader, hadn't been seen since the day of Watanagashi.",
+      "Was she still alive and well within the Sonozaki main house?",
+      "...Or had she...?"
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「園崎魅音が言うには、体調を崩して寝込んでるんだそうです。」"
+    ],
+    "textEn": [
+      "\"According to Mion Sonozaki, she had fallen ill and was sleeping it off.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「本当に寝込んでるのかなぁ。",
+      "顔と脈を見てみたいですねぇ…。」"
+    ],
+    "textEn": [
+      "\"I wonder if she's really sleeping.",
+      "I'd like to take a look at her face—and her pulse...\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「………………まったくっす。」"
+    ],
+    "textEn": [
+      "\"............You can say that again.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "２人してタバコの煙を大きく吐き出す…。"
+    ],
+    "textEn": [
+      "The two of them breathed out a big puff of cigarette smoke..."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「大石さん、…園崎本家と古手神社の捜査令状。",
+      "申請、通ると思います？」"
+    ],
+    "textEn": [
+      "\"Ooishi-san... About the search warrants for the Sonozaki main house and the Furude shrine.",
+      "Do you think we'll get them?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は特に答えず、再び紫煙を吐き出して、文字通り煙に巻いていた…。"
+    ],
+    "textEn": [
+      "Ooishi didn't respond, exhaled another cloud of tobacco smoke, his surroundings now as foggy as his mind..."
+    ]
+  }
+]

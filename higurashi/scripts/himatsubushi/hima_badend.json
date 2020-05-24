@@ -1,0 +1,75 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "くそ…、くそくそくそ…！",
+      "こんなところで死ぬわけにはいかない！！",
+      "私は生きて、雪絵のもとへ帰るんだ！！",
+      "「………」",
+      "わずかに、拳銃を構える男の目に躊躇いが見える。",
+      "こいつは、撃つことをまだ迷っている…？！",
+      "それなら今飛び込めば、…もしかしたら！！"
+    ],
+    "textEn": [
+      "Shit...Shit, shit, shit...!",
+      "I can't afford to die in a place like this!!",
+      "I need to survive and return to Yukie's side!!",
+      "\".........\"",
+      "For a moment, I catch a glimmer of hesitation in the eyes of the man holding the gun.",
+      "This guy's... unsure about shooting at me...?!",
+      "If so, maybe if I jump at him now, ...I could—!!"
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「うおぉぉおぉっっ！！！」"
+    ],
+    "textEn": [
+      "\"Uwoaaaaahhhhhh!!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Kidnapper",
+    "labelJp": "誘拐犯",
+    "textJp": [
+      "「なっ？！",
+      "っち、こんダラズがぁぁッ！！」"
+    ],
+    "textEn": [
+      "\"Wha—?!",
+      "Tch, ya damn bastaaaaaaaarrrrd!!\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「………」"
+    ],
+    "textEn": [
+      "\".........\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然。",
+      "目の前が真っ暗になって、…意識が遠のく。",
+      "自分が撃たれたとわかったのは、急速に冷えていく体温と、胸のあたりに感じる焼けるような熱さが痺れに変わった直後だった…。"
+    ],
+    "textEn": [
+      "In a flash.",
+      "Everything before me grows dark, ...as my consciousness leaves me behind.",
+      "It was only after my body temperature rapidly came down and a burning sensation in my chest turned numb, that I realized I had been shot...."
+    ]
+  }
+]

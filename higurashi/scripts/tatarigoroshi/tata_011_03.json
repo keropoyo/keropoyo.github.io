@@ -1,0 +1,2428 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "家の灯りがこうこうとまぶしい。",
+      "……その灯りが、急に空腹感を思い出させる。",
+      "腕時計を見ると……もうすぐ午後７時になるところだった。",
+      "……もうてっきり深夜の２時か３時かと思っていた。",
+      "…体内時計が一夜にしてこれだけ狂ったのかと驚く。",
+      "居間の窓……カーテンの隙間から温かな灯りが漏れていた。",
+      "……あの窓の向こうとこちら側で、…どれだけ世界が異なるのだろう……。",
+      "あの男さえ現れなければ……俺はきっとあの灯りの中にいた。",
+      "……楽しかったお祭りの興奮が醒めなくて…、きっと上機嫌に仲間と過した楽しい時間を両親に話していただろう。",
+      "そして…せっかくの温かい食事も、露店で食べ過ぎてろくろく手をつけないまま自室に戻り………、",
+      "眠さにあっさりと身を委ね、布団にもぐりこむに違いないのだ。",
+      "だが今の俺は、それとはまったく違う。",
+      "街路灯の弱々しい灯りには欠片ほどの温もりもない。",
+      "…家族で過す団欒の時間とも無縁だし、…もちろん温かい食事もなければ、…睡魔に身を許すこともできない。",
+      "冷たい雨に身をさらし、……ただ、…やり遂げねばならないことのために、体に鞭打つ。",
+      "…………卑屈になりかけている自分に気付いた。",
+      "……何のために、…こんな辛い思いをしてまで、人を殺さなければならないのか。",
+      "……その理由を見失いかけていた。",
+      "俺は沙都子を救うために、もっとも早く、もっとも根本的な最善手を択一し、…躊躇なく実行したのだ。",
+      "あの男は死んだ。",
+      "消えた。",
+      "……もう沙都子を傷つけることは金輪際ない。",
+      "…俺たちが、必死になって、何日も何日もかけて考え、…その挙句、打つ手なしと見限った、…沙都子の問題を、一夜にして解決した。",
+      "…誰の手も借りず、たったひとりで。",
+      "今頃沙都子は、……いつ帰ってくるかもわからない叔父のために夕食を用意し、……その味加減を怒鳴られないかとびくびくしながら夜を過しているのかもしれない。",
+      "だが、…もう叔父が帰ってくることはない。",
+      "その怒声に怯えることも、悲しまされることもない。",
+      "…………………俺、",
+      "…………そうか、",
+      "……………遂げたんだ。",
+      "沙都子を救うことを、…成し遂げた。",
+      "…ずっと……あの男を殺すという、そのことだけを考えていたので、…沙都子を救ったという実感が喪失していた。"
+    ],
+    "textEn": [
+      "The lights at home were dazzlingly bright.",
+      "...Suddenly, they reminded me of how hungry I was.",
+      "I checked the clock... and saw that it was almost seven.",
+      "...I'd thought for sure it was two or three in the morning already.",
+      "...I was surprised at how messed up my biological clock had gotten just from this one night.",
+      "There was a warm light... coming from the curtains in the living room window.",
+      "...The worlds between here and what was beyond those curtains... were so different...",
+      "If only that man hadn't shown up... I would have been in that light.",
+      "...I'd still be excited from the festival... and I'd be talking to my parents about how much fun I had with all of my friends.",
+      "And then... even though they made a hot meal for me, I would have eaten way too much at the stalls, barely eaten any of it, and gone back to my room...",
+      "No doubt I'd crawl into my futon and easily let myself fall asleep.",
+      "But right now, I was completely different.",
+      "There wasn't a single ember of warmth from those weak street lights.",
+      "...Right now, I was unconnected to any time spent with my family... and there was neither warm food... nor the time to allow myself to sleep.",
+      "My body exposed to the cold rain... I knew... that I simply had to spur myself on to accomplish what I must.",
+      "......I realized how timid, how cowardly I was becoming.",
+      "...For what reason... did I need to kill someone... even if it felt this terrible?",
+      "...I'd lost sight of my purpose.",
+      "I selected the fastest, most fundamental way of saving Satoko... and executed it without hesitation.",
+      "That man was dead.",
+      "He was gone.",
+      "...He would never, ever hurt Satoko again.",
+      "...We all thought frantically for days on end about Satoko's problem... and finally, with no options, we gave up... and I had solved it in one night.",
+      "...By myself, without anyone's help.",
+      "Right about now... Satoko would be making dinner for her uncle, despite not knowing when he'd return... and she might be spending the night trembling in fear of whether he'd yell at her for how it tasted.",
+      "But... her uncle wouldn't come home.",
+      "She wouldn't have to fear his wrath, nor let him make her feel sad.",
+      ".........I",
+      "......I see.........",
+      "I did it.",
+      "I successfully... saved Satoko.",
+      "...All I'd been thinking about for a long time... was killing that man... and I'd forgotten the feeling that it was actually all to save her."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………そっか。",
+      "………あは、……ははははははは…、」"
+    ],
+    "textEn": [
+      "\"...I did.",
+      "...Aha... hahahahahaha...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺、…いいことをしたんだ。",
+      "……そうだよ、",
+      "……いいことを……したんじゃないか…。",
+      "ぼろりと…熱い涙がこぼれて初めて…。",
+      "……俺の疲労感の正体が、罪悪感だったことに気付く。",
+      "罪悪感という刃が、…さっきからずっと…その先端だけをかすらせるようにチクチクと……心を傷つけていたのだ。",
+      "……それがたまらなく痛くて…じんじんと疼く。",
+      "…痛くて痛くて、辛くて泣いた。",
+      "…沙都子を救えて、うれしくて泣いた。",
+      "…もう何だかよくわからなくて、とにかく泣いた。",
+      "…ぼろぼろ、ぼろぼろ。",
+      "しばらく…そうして熱い涙を噛み締めている内に…、…心がほんの少し楽になる。",
+      "…さぁ前原圭一。",
+      "…もういいだろ。",
+      "何も恥じることも悔いることもない。",
+      "今は確かに、身も心も…全てが疲れきっている。",
+      "…何も感じられないのは当然。",
+      "明日になっても明後日になっても、…しばらくは何も感じられないかもしれない。",
+      "……でも、……ひとつだけの事実。",
+      "…沙都子を救ったという事実は間違いないのだ。",
+      "いつかきっと報われる日がくる。",
+      "…沙都子の笑顔を取り戻すために、自分がいかに困難な偉業を成し遂げたか、誇れる日がやってくる。",
+      "その日を待つためにも、………今夜を完璧に成し遂げよう。",
+      "ここで片手落ちになったら…今日の苦労は全部、水の泡だ。",
+      "俯いていた顔を上げ、いつ止むともしれない雨空を見上げる。",
+      "そして、…両目を固くつぶって、もう一度体の奥から力を呼び戻す。",
+      "………いつまで俺、…ぼーっとしてるつもりだよ。",
+      "こんなことしてる場合じゃないだろ…。",
+      "こうしてる間にも…誰かに死体を見つけられてしまうかもしれない…。",
+      "………そんなネガティブな感情も、恐怖心という当り前の感情が蘇ってきた証拠。",
+      "…俺はその恐怖心に背を押されることを許しながら、…物置に入りランタンともう一本のシャベルを探すのだった……。",
+      "死体の近くで見た街路灯の特徴をよく覚えていたのは…幸運だった。",
+      "…この真っ暗な中では、死体すらも捜せなくなる可能性は高かった。",
+      "…ここを離れた時、それには気付いていなかったので、この場所を暗記しようという気持ちはまったくなかった。",
+      "……だからこそ、こうして死体のもとに無事戻れたのは、幸運だったと言っていい。",
+      "死体のある場所は、今や大きな水溜りのようになりぬかるんでいた。",
+      "…死体も半分ほど、泥のような水溜りに沈んでいた。",
+      "あとで気付くのだが、すぐ近くに使われなくて、落ち葉や土で詰まった用水路があり、そこに流れ込んでくる雨水があふれ出しているのだ。",
+      "とっくの昔に靴の中は水で溢れかえっていたので、何の躊躇もなく、水溜りの中へ踏み込んでいく。",
+      "泥水の濁流が、一切を流し去ってくれている。",
+      "……血痕等の細かな痕跡は、…残るまい。",
+      "…まさに天の恵みの雨だった。",
+      "周りを確認すると、…念には念を入れて、ランタンを消した。",
+      "……真っ暗闇になるが、…しばらくすると闇に目が馴染み、…向こうの街路灯から何とか届く、薄い灯りでも見えるようになっていた…。",
+      "死体のすぐ近くに、水溜りの底にシャベルを突き立てる。",
+      "……期待していた以上に地面は弛み、やすやすとシャベルの刃を突き立てることができた。",
+      "急いで掘ってしまおう。",
+      "……時間をかければ、また気力が萎えてしまうかもしれない。",
+      "まるで砂浜に穴を掘っている気分だった。",
+      "やすやすと掘れるが、…絶え間なく流れ続ける泥水が穴を埋めてしまう。",
+      "…思い通りになかなか掘れない。",
+      "掘っても掘っても…水で埋まってしまうから、どれだけの深さなのか実感がない。",
+      "……泥の底に立つ自らの足の埋まり具合で測るしかなかった。",
+      "ちゃんと掘れてる…。",
+      "大丈夫、挫けないで…掘れ、…掘れ、……掘れ。",
+      "時折、道路に車が通りかかり、…慌てて木陰に何度も隠れた。",
+      "……皆、通り抜けるだけ。",
+      "こんな暗がりに目なんかこらさない。",
+      "……理屈ではわかっていても、やはり隠れずにはいられない………。",
+      "本当に怖いと思ったのは、…そんな車の一台が、偶然にも俺を目撃するかもしれないということよりも…。",
+      "……車の気配を悟れる距離が、次第に短くなっていることの方だった。",
+      "始めのうちは、ずっとずっと彼方からの、水溜りを裂く水音で気付けた。",
+      "……それがだんだん気付けなくなり、…ついさっきの車に至っては、ヘッドライトの灯りが漏れてくるまで気付けもしなかった。",
+      "…自分の感覚がどんどん鈍くなっているのがわかる。",
+      "今この場を、……死体を埋めているという致命的現場を、…誰かにそっと覗かれていても……気付けないのでは………。",
+      "そう思った瞬間に……全周囲をぎょろっと見渡した。",
+      "……寝ぼけ掛けていた神経を全て叩き起こし……周囲の気配を探る…………。",
+      "……もしも……木立に隠れ、誰かがうかがっているのがわかったら……？",
+      "………………………………………………………。",
+      "肉食獣の感性が……ぎらりと牙を剥き出す…………。",
+      "……………………………………いたら、…………………穴をもうひとつ掘る。",
+      "…………ここまでやったのだ。",
+      "…………完璧を期すために……これ以上、どんな支払いも恐れるものか……………。",
+      "その時、自分がどんな目つきをしていたかはわからないが、……きっと、ギラギラとしていたに違いなかった…。"
+    ],
+    "textEn": [
+      "I... did something good.",
+      "...That's right.",
+      "...I did... something good, didn't I?",
+      "I felt hot tears... coming from my eyes...",
+      "and that's when I first realized that the exhaustion I'd been feeling was actually guilt.",
+      "The blade of guilt... for a while now... had just been scraping away with its tip... hurting my heart.",
+      "...It hurt so bad I couldn't stand it... It was throbbing painfully.",
+      "...It hurt so much, it was so painful, that I cried.",
+      "...I cried tears of joy at saving Satoko.",
+      "...I didn't know why, really, anymore—I just cried.",
+      "...My tears fell and fell.",
+      "As I stood there for a while... coming to terms with those warm tears... my heart was comforted a little.",
+      "...All right, Keiichi Maebara.",
+      "...That's enough.",
+      "There's nothing to regret or feel ashamed about.",
+      "Both my body and mind... were thoroughly exhausted, and that was a fact.",
+      "...It was only natural I couldn't feel anything.",
+      "Even tomorrow, and the day after that... I might not be able to feel anything for a while.",
+      "...But... there was one thing that was true.",
+      "...There was the indisputable fact that I had saved Satoko.",
+      "One day, we would surely be rewarded.",
+      "...One day, I would be proud of how distressing an enterprise I had undertaken to get Satoko's smile back.",
+      "And so that I could wait for that day... I had to put the finishing touches on this night.",
+      "If I left it undone... everything I'd accomplished today would be for naught.",
+      "I looked back up, up at the sky, which didn't look like it would stop raining anytime soon.",
+      "Then... I rubbed my eyes and summoned forth energy from my core again.",
+      "...How long... did I plan on spacing out?",
+      "This isn't the time for daydreaming.",
+      "Someone could find that corpse this very moment...",
+      "...That pessimistic thought was proof the very natural emotion of fear had returned to me.",
+      "...As I allowed the fear to spur me onwards... I went to look for the other shovel and the lantern inside the storage room...",
+      "It was fortunate... I remembered what it looked like around the street light the body was near.",
+      "...With how dark it was, it was quite possible I wouldn't have been able to look for it either.",
+      "...I didn't realize that when I left the place, so the idea of memorizing the spot hadn't even crossed my mind.",
+      "...And that's why I had to call it fortunate that I managed to get back to the body like this.",
+      "The corpse was now located in a big, muddy puddle.",
+      "...Half the thing had already sunk into the swamp-like pool of water.",
+      "I only realized afterward, but there was an unused irrigation channel right nearby clogged with fallen leaves and dirt, and there was rainwater flowing in from there.",
+      "My shoes had been awash with water for a long time now, so without any hesitation, I stepped into the puddle.",
+      "The whole muddy stream started flowing back, luckily.",
+      "...I couldn't leave any slight traces... like bloodstains.",
+      "...The rain was like a blessing from heaven.",
+      "I checked around me... paying very close attention... then turned off the lantern.",
+      "...It became pitch black... but my eyes got used to the darkness in a few moments... and once I managed to reach the streetlight on the other side, I was able to make out even faint lights...",
+      "I stuck the shovel into the puddle right next to the corpse.",
+      "...The ground was even looser here than I'd thought, and the shovel's tip easily slid inside it.",
+      "I had to hurry and dig.",
+      "...If I took too much time, I might lose my energy and strength again.",
+      "It felt almost like digging a hole in the sand at the beach.",
+      "It was easy to dig... but no matter what, the muddy water kept flowing in, covering the hole.",
+      "...The digging wasn't going as well as I'd hoped.",
+      "I dug and dug... and the water would go in... so I couldn't get a sense of how deep it was.",
+      "...The only way for me to measure it was to bury my own foot in the mud.",
+      "I'm digging just fine...",
+      "It's all right, don't be disheartened... dig... dig... dig.",
+      "Occasionally a car would come by on the road... and I'd hurry to hide myself in the trees.",
+      "...Everyone was only passing through.",
+      "They wouldn't have their eyes peeled in this kind of darkness.",
+      "...I understood it logically, but I still couldn't help but hide...",
+      "What I was really scared of... wasn't quite that one of those cars would coincidentally happen to witness me here...",
+      "...It was that the distance I could spot cars from was getting gradually shorter.",
+      "At first, I noticed the splashing sounds from really far away as cars drove through them.",
+      "...I started noticing them less and less... and with the car that just passed by, I didn't notice it until its headlights were upon me.",
+      "...I felt my senses growing duller by the second.",
+      "If someone... were to take a peek in secret... as I was burying the body, at the worst possible time... maybe I wouldn't even notice...",
+      "The moment I thought that... I took a good look all around me.",
+      "...I roused all my half-asleep senses... and searched for signs of presence nearby...",
+      "...What if... I found out someone was spying on me from the trees...?",
+      ".....................",
+      "A carnivorous feeling... snarled at me, glaring...",
+      "............If there was............ then I would dig another hole.",
+      "......I'd come this far already.",
+      "......In order to achieve perfection... I didn't care how much more I had to pay......",
+      "I didn't know what kind of face I was making at the time... but it was definitely a fervently glaring one..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………………………。」"
+    ],
+    "textEn": [
+      "\"..................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………気配は…まったくない。",
+      "………五感全てがそう結論付ける。",
+      "…安堵のため息は、出なかった。",
+      "どれくらいの時間、泥水を掻き出しながら掘り続けたろう。",
+      "……自分の膝が埋まるくらいの深さにはなっていた。",
+      "これだけ掘れば充分かもしれない。",
+      "……試しに、死体を穴に放り込んでみるか…。"
+    ],
+    "textEn": [
+      "...My five senses reached the conclusion...",
+      "that nobody was present.",
+      "...I didn't breathe a sigh of relief.",
+      "How long had I been digging this mud out of here?",
+      "...It was deep enough for it to go up to my knees.",
+      "Maybe this was enough.",
+      "...Maybe I'd throw the corpse in as a test..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………はぁ、…………はぁ、…………ん…。」"
+    ],
+    "textEn": [
+      "\"...Hah...... hah...... ngh...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "荒くなっていた息をのみ込み、整える…。",
+      "あれだけ殴ったにも関わらず、…死体の手を取るのは怖かった。",
+      "…なので、足を引っ張って穴まで引きずる。",
+      "…………ちょっとやそっとの力では引きずれない。",
+      "……それもそのはず。",
+      "…この男の体格を見れば…８０キロくらいはゆうにありそうだ。",
+      "全身の力を込め……引きずる……。",
+      "この頃には、突然動き出すかもしれないなんていう、根拠のない恐怖心はとっくに消えていた。",
+      "叔父の死体は、泥水の中に完璧に埋まった。",
+      "……深さも充分にある。",
+      "よし…、埋めよう。",
+      "…早く早く早く…。",
+      "ここを完全に埋めてしまえば…もう全て終わりなのだ。",
+      "……埋めて隠して、全てはなかったことに…！！",
+      "…あとわずかで全てが終わることがわかると……まるで時間に追われるかのように、無意味な焦りに襲われた。",
+      "…早く埋めなければ、この死体が蘇るかも知れない、…そんな妄想に取り付かれているように。",
+      "とにかく…大焦りしながら、泥や土をどんどん流し込んだ。",
+      "もたもたと作業をしてたら……ここを誰かに見られるかもしれない。",
+      "…さっきまでは、見られたら殺せばいいなんて思っていたが、……今は違う。",
+      "…誰かに見られたら全てが終わる、…そんな絶対的な恐怖心に取り憑かれていた。",
+      "もう…最後の方は滅茶苦茶だった。",
+      "…ぐしゃぐしゃばしゃばしゃと。",
+      "…地面を平らにしようとシャベルで辺り一面を掻きまわし耕す。",
+      "…もう全身、泥まみれだった。",
+      "雨は体についた泥は流してくれるが、…真っ黒になった服までは洗ってくれない。",
+      "焦りと恐怖心で、雨と汗と泥で、もう身も心も泥まみれだった…………。"
+    ],
+    "textEn": [
+      "I swallow, getting my breathing under control...",
+      "Despite how much I'd beaten him... I was afraid of touching the corpse.",
+      "...So instead, I dragged it by the feet to the hole.",
+      "......It took more than just a waggle and a tug to do it.",
+      "...But of course it did.",
+      "...Considering this man's weight... was easily eighty kilograms.",
+      "I rallied all my strength... and dragged him...",
+      "At this point, my groundless fears that he might suddenly start moving again had vanished long ago.",
+      "His body fit perfectly into the muddy hole.",
+      "...It was more than deep enough.",
+      "All right... let's bury him.",
+      "...Quickly, quickly, quickly...",
+      "If I did a perfect job of burying it here... everything would be over.",
+      "...I would hide it in the hole, and none of this would have ever happened...!!",
+      "...When I realized I only had a little farther to go to finish everything... I was wracked with pointless anxiety, like I was in a race against time.",
+      "...It was like I was absorbed in a delusion... that if I didn't bury the body quickly, it might come back to life...",
+      "In any case... in a great rush, I poured mud and dirt into the hole.",
+      "If I didn't work efficiently... someone might find me here.",
+      "...Until now, I figured if someone saw, I'd just kill them... but not anymore.",
+      "...I was arrested with such absolute fear... that if someone saw me, it would all be over.",
+      "As I finished the work off... it was a total mess.",
+      "...Splish-splash, squish-squash.",
+      "...I drew the surface of the shovel across the ground, trying to make it flat.",
+      "...I was completely covered in mud at that point.",
+      "The rain washed the mud off my body... but not off my now-blackened clothing.",
+      "My body and mind were caked with panic, with fear, with rain and sweat and mud......"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…はぁ………はぁ………はぁ………！！」"
+    ],
+    "textEn": [
+      "\"...Hah... hah... hah...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "肩で息をしながらシャベルを投げ出し、泥の中に座り込む。",
+      "…もう…クタクタで…この場に倒れて眠りたいくらいだった…。",
+      "…………終わった。",
+      "……今度こそ、",
+      "……………本当に、",
+      "……終わった……！",
+      "あの男は今や泥の底。",
+      "…今でこそ、ここは掘り返した痕跡が残っているが、この雨と流れ続ける泥水が、すぐにも全てを覆い隠してしまうだろう。",
+      "……そう、…終わったのだ。"
+    ],
+    "textEn": [
+      "My shoulders heaving, I threw down the shovel and sat down in the mud.",
+      "...I was... so exhausted... that I wanted to lie down right here and sleep...",
+      "......It was over.",
+      "...This time.........",
+      "for real...",
+      "it was over...!",
+      "The man was now in the bottom of the wet dirt.",
+      "...Right this moment, there were traces that this place had been dug up, but the rain and flowing muddy water would completely cover it all within moments.",
+      "...Yes... It was over."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「やった、",
+      "……やった……、",
+      "…………やったぞ、",
+      "くそったれええぇえぇえ…ッ！！！」"
+    ],
+    "textEn": [
+      "\"I did it...",
+      "I did it......",
+      "I did it,",
+      "you motherfuckerrrrrrrr...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そしてそのまま後ろに倒れこみ、泥の中に仰向けになって横になる。",
+      "……雨粒が容赦なく顔面を叩くが、そんなに気にはならなかった。",
+      "………そのまま……しばらく放心してから、身を起こす。",
+      "終わった。",
+      "…だから帰ろう。",
+      "……もう、全部埋めてしまった。",
+      "だから、なかったことになった。",
+      "なかったことになったんだから、……俺はもう、こんなところで雨に打たれている理由は…何もないのだ。",
+      "のろのろと立ち上がる。",
+      "………シャベルはもう使わない。",
+      "分解しようとねじったが……今の疲れ切った俺に、そんな力はないようだった。",
+      "……別に…分解しなくてもいいさ。",
+      "………シャベルを引きずりながら…灯りの方へ向かう。",
+      "道の脇の草むらに横たえてあった自転車を起こした。",
+      "……分解していないシャベルは、どうやっても前カゴにはうまく収まらない。",
+      "…バットをそうしたように、シャベルもまた背中に突っ込む。",
+      "…バットと違い、角が当たってとても痛かった。",
+      "それに、ちょっとでも姿勢が弛むと、背中から抜け落ちてしまう。",
+      "…結局、左手でシャベルを持ち、片手で自転車にまたがる他なかった。",
+      "疲労困憊に加え、この土砂降り。",
+      "その上、片手。",
+      "……まるで酔っ払いのようなふらふら運転だった。",
+      "……でも構わない。",
+      "…ふらふらでも、ペダルをひとつ漕ぐ度に家は近付くのだ。",
+      "……前方にゆらりと二本の灯りが見えた。",
+      "……車がやってくる。",
+      "……まずい……、避けなきゃ…………。",
+      "ずっと向こうの暗闇の影から、車が姿を現した。",
+      "眩しいライトが俺の姿を捉える。",
+      "……パッ！　と短く鳴らされたクラクションは、俺が道のど真ん中にいることを教えてくれた。",
+      "……避けなくちゃ。",
+      "……わかっていても、…片手運転の上、疲れ切った今の体ではどうにもならない。",
+      "……ふらふら、ふらふら…。",
+      "右とも左とも付かず、…蛇行するのみ。",
+      "…車は、俺が直前で避けるものだと決めつけ、大して速度を落とさず、ぐんぐん近付いてくる。",
+      "………そのシルエットが眼前に迫り、…とにかく避けなければと思って、ぐっとハンドルを曲げた時、バランスを崩し、横転してしまった。",
+      "全身が投げ出され、片足が自転車に挟まれる。",
+      "……これは…本当にまずい…ッ！！",
+      "寝ぼけていた感覚が吹っ飛び、全身から冷や汗が吹き出た瞬間。",
+      "……車はガリガリガリっとハンドルを左に切り、車体を反時計周りに半回転回して…ぎりぎりのところで止まってくれた…。",
+      "………運転席が開き、…運転手が降りてきた。",
+      "馬鹿野郎、こんなところで何やってんだ。",
+      "……そう怒鳴られると思っていた。"
+    ],
+    "textEn": [
+      "And then I fell over backwards, face-up in the mud.",
+      "...Raindrops pelted my face without mercy, but I didn't care.",
+      "...After staying there for a while... resting my mind... I got up again.",
+      "It was over.",
+      "...So let's go home.",
+      "...You already buried the whole thing.",
+      "So now it's like it's never happened.",
+      "It never happened... so there's no reason for me to stay out here... and get rained on.",
+      "I wobbled to my feet.",
+      "...I wouldn't use the shovel anymore.",
+      "I considered disassembling it... but I didn't have the strength in my absolute exhaustion.",
+      "...I didn't... really need to take it apart anyway.",
+      "...Dragging the shovel behind me... I headed towards the light.",
+      "I stood up my bike; it had been laying in the grass by the road.",
+      "...I didn't know how I was going to get the still-assembled shovel into the front basket.",
+      "...I put the shovel down the back of my shirt like I'd done with the baseball bat.",
+      "...Unlike the bat, the corner of it was on my back, making it very painful.",
+      "Plus, if I relaxed my posture even a little, it would fall out behind me.",
+      "...I ended up having to carry the shovel in my left hand and ride my bike using only my right hand.",
+      "Not only was I in a state of total exhaustion—this was a downpour.",
+      "One hand on the handlebars.",
+      "...I was swaying to and fro like a drunk.",
+      "...But I didn't care.",
+      "...Even swaying like this, I got a little closer to home every time I pedaled.",
+      "...I saw two lights swaying slowly in front of me.",
+      "...A car was approaching.",
+      "...Oh no... I need to get out of the way......",
+      "From far away in the shadows of the darkness, a car appeared.",
+      "Its dazzling lights washed over me.",
+      "...The driver made a short honk of the horn to inform me I was in the middle of the road.",
+      "...I have to get out of the way.",
+      "...I kept telling myself that... but not only was I riding one-handed, I was exhausted, so I couldn't do anything.",
+      "...Wobble, wobble, wobble, wobble...",
+      "I meandered about... not going to the right or to the left.",
+      "...The driver decided to swerve out of the way right in front of me, and without lowering its speed much, steadily came towards me.",
+      "...Its outline grew larger in my vision... and telling myself again that I really needed to get out of the way, I jerked the handlebars in one direction, then lost my balance and fell over, bike and all.",
+      "My whole body splayed out, and one foot got caught in the bike.",
+      "...This was... seriously bad...!!",
+      "My drowsiness quickly vanished, and just as a cold sweat broke out on my skin...",
+      "the driver recklessly spun the wheel to the left, made a counterclockwise U-turn... and came right up to me and stopped...",
+      "...The driver's seat door opened... and the driver came out.",
+      "You idiot—what are you doing here?!",
+      "...I was pretty sure someone would yell at me like that."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…あらあら。",
+      "……誰かと思えば。」"
+    ],
+    "textEn": [
+      "\"...Oh, oh my.",
+      "...Look who it is.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…女性の、聞き覚えのある声。",
+      "……うつ伏せになっていた上半身を起こし、…相手を見た。"
+    ],
+    "textEn": [
+      "...It was a woman's voice—and one I knew.",
+      "...I lifted my face off the ground... and looked at her."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………た、…………鷹野さん………。」"
+    ],
+    "textEn": [
+      "\".........T...... Takano-san...\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「こんばんは。",
+      "月の綺麗な夜ね。",
+      "…前原くん。」"
+    ],
+    "textEn": [
+      "\"Good evening.",
+      "The moon is very pretty tonight...",
+      "Maebara-kun.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "月なんか見えるはずもない土砂降りの中で。",
+      "……鷹野さんは折り畳み傘を広げながら、そう微笑んだ。",
+      "……その微笑みが、…なぜか見透かしたようで薄気味悪い。",
+      "………俺の知る顔の中で、…一番会いたくない人に会ったような気がした…。"
+    ],
+    "textEn": [
+      "It was raining far too hard to see the moon.",
+      "...Takano-san unfolded an umbrella and smiled as she spoke.",
+      "...That smile... was, for some reason, uncanny... like she'd seen right through me.",
+      "...Out of all the people I could have met... I got the sudden feeling that this was the one I wanted to see the least..."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「こんな時間にどうしたのかしら？",
+      "傘もささずに全身ずぶ濡れの泥まみれで。",
+      "……それは何？",
+      "……シャベル？」"
+    ],
+    "textEn": [
+      "\"What are you doing out so late?",
+      "And you're soaked and covered in mud, and no umbrella, either.",
+      "...What is that?",
+      "...A shovel?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……この人は今、車でやってきたんだ。",
+      "……俺がさっきまでやっていたことを知るはずはない。",
+      "………なのに、……何もかもお見通しのように、…微笑む。",
+      "…落ち着け前原圭一。",
+      "……この人は…もともとこういう謎めいた笑い方をする人だ。",
+      "…変に勘ぐって墓穴を掘らないように気をつけろ……。"
+    ],
+    "textEn": [
+      "...She had come here via car.",
+      "...She wouldn't have known what I was just doing.",
+      "...And yet... she smiled... as though she knew everything.",
+      "...Calm down, Keiichi Maebara.",
+      "...She always makes that mysterious-looking smile, remember?",
+      "...Don't let her on to anything, lest you dig your own grave..."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…噂じゃあなた、ゴルフクラブで野球に参加したそうだけど。",
+      "そのシャベルも、つまりはそういうこと？",
+      "くすくすくす…、傘の代わりってわけかしら？」"
+    ],
+    "textEn": [
+      "\"...The rumors say you were playing baseball with a golf club.",
+      "Is that what the shovel's for, too?",
+      "Hee-hee-hee... You're using it as an umbrella?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……うまく…誤魔化しておいた方がいい。",
+      "…ここさえやり過ごせば…何とかなるのだ。"
+    ],
+    "textEn": [
+      "...I should... tell a good lie here.",
+      "...If I could just do that... things would work out."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………レナと、………宝探しにダム現場に行ったときに…これを忘れてきちゃったんですよ。」"
+    ],
+    "textEn": [
+      "\"......When I went with Rena... to go digging for treasure at the dam... we forgot this there.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「……ふぅん。",
+      "それをこの土砂降りの中、取りに行ったわけ…？」"
+    ],
+    "textEn": [
+      "\"...Hmm.",
+      "And you went to get it in this downpour...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………家を出た時は、降るとは思いませんでしたので…。」"
+    ],
+    "textEn": [
+      "\"...When I left my house, I didn't think it would rain, so...\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…あら、降り出したのは結構前よ？",
+      "…あなた、ずいぶん前から表にいるのね。」"
+    ],
+    "textEn": [
+      "\"...Oh, it's been raining for a while, though.",
+      "...You've been out for quite some time, haven't you?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……まぁ…その、……ほっつき歩いてましたから…。」"
+    ],
+    "textEn": [
+      "\"...Well... yes... I was kind of wandering around...\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「それにしたって。",
+      "………あなた向こうからこっちに向かって来たんでしょ？",
+      "ダムとは場所も方向も正反対よ？",
+      "……くすくすくすくす…。」"
+    ],
+    "textEn": [
+      "\"Even so.",
+      "...You came from that direction, didn't you?",
+      "The dam is in the opposite direction, you know.",
+      "...Hee-hee-hee-hee...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんは明らかに…俺が極めて異常な状態であることを認識している。",
+      "…そして、言葉遊びをしながら、俺を追い詰めて遊んでいるのだ。",
+      "………この状況から、……薄々と、俺が何をしてきたかに気付いてしまっているかもしれない……。",
+      "……俺は……何てタイミングで、嫌な人に出会ってしまったんだろう。",
+      "…………最後の最後で…自分のツキのなさを恨むしかなかった…。",
+      "ここまで頑張ってきて…もう一息で全部終わるところだったのに……。",
+      "……どうして……どうして最後の最後で、……よりにもよって…こんな人と……！",
+      "…………どうする前原圭一。",
+      "……シャベルという凶器がまだ手元にある。",
+      "……………………鷹野さんを、…沈黙させてしまおうか…？"
+    ],
+    "textEn": [
+      "Takano-san... was clearly aware that something exceedingly abnormal was happening with me.",
+      "...And as she played her little word games, she was enjoying driving me into a corner.",
+      "......Maybe she had a vague guess, just from the situation... of what I'd been doing...",
+      "...My timing really sucked... to run into her, of all people, of all the times...",
+      "......At the very end... I could only be frustrated at my terrible luck...",
+      "I'd done so much... and the end was literally right around the corner...",
+      "...So why... why, at the very, very end... did I run into... her, of all people...?!",
+      "......What do you do, Keiichi Maebara?",
+      "...You're still holding something that could be a dangerous weapon.",
+      ".........Will you... silence Takano-san...?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………………………………。」"
+    ],
+    "textEn": [
+      "\"........................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……鷹野さんを殺すことが容易だったとしても、……鷹野さんが乗ってきたこの車の処理が困難だ。",
+      "…車なんて動かせない。",
+      "バイクとは訳が違う。",
+      "……でも、…別に車が残っても……俺が殺したという証拠さえなければ………。",
+      "…そうさ、…こんな夜の土砂降りの中、…何の計画性もなく、偶然に出会っての…出会い頭の殺人。",
+      "……俺のイニシャルでも入ったハンカチを落とさない限り、………俺が殺したなんて…ワカルモノカ………………。",
+      "体の芯に……黒い炎が…静かに燃え上がろうとする……。"
+    ],
+    "textEn": [
+      "...Even if it would be simple to kill Takano-san... dealing with the car she'd come in afterward would be an issue.",
+      "...I couldn't drive a car.",
+      "It was completely different from a motorbike.",
+      "...But... even if the car was here... as long as there was no proof I killed her...",
+      "...Yes... In tonight's downpour... without any prior planning, all by coincidence... a hit and run.",
+      "...As long as I didn't drop any handkerchiefs with my initials on them...... they would never know I killed her.........",
+      "A black flame... quietly smoldered and raged... in the core of my body..."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…………………コワイ顔。",
+      "いじめ過ぎちゃったかしら？　くすくす！」"
+    ],
+    "textEn": [
+      "\"............That's a scary look.",
+      "Did I tease you too much? Hee-hee!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんは、勝手に笑い出すと、それで話を切り上げてくれた。",
+      "………だが、俺の心から黒雲が晴れることはなかった……。"
+    ],
+    "textEn": [
+      "Takano-san started to laugh by herself, then thankfully stopped talking about it.",
+      "......But the dark clouds in my mind didn't go away..."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「それはそうと…。",
+      "いつまで自転車にまたがったまま、地面に這いつくばってるつもり…？",
+      "そろそろどいてくれるかしら。」"
+    ],
+    "textEn": [
+      "\"Leaving that aside...",
+      "How long are you planning on crawling on the ground with your bike like that...?",
+      "Would you mind moving out of the way?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どけば去ってくれる…。",
+      "…そう思い、自転車をどかし立ち上がろうとした時、…片足をぐきっとひねり転んでしまった。"
+    ],
+    "textEn": [
+      "If I moved, she would leave...",
+      "...So I tried to get the bicycle up and out of the way... but then twisted my ankle in it and fell over."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……い、…いてててててててててて…ッ！！",
+      "……ぅううぅうぅ…ッ！！」"
+    ],
+    "textEn": [
+      "\"...Agh... ow, shit, ahhhh...!!",
+      "...Urgghh...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ねじった足に鋭い痛み…。",
+      "…何て馬鹿な…。",
+      "こんな時に…捻挫…？"
+    ],
+    "textEn": [
+      "There was a sharp pain in the ankle I'd twisted...",
+      "This is nonsense...",
+      "A sprained ankle... now...?"
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あら……、………大丈夫…？",
+      "ひょっとして、捻っちゃった…？」"
+    ],
+    "textEn": [
+      "\"Oh, my......... Are you all right...?",
+      "Did you twist your ankle...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんが屈みこみ、俺がさすり続ける足首をじっと覗き込む。",
+      "…そして俺の表情と見比べ、怪我の度合いを測っているようだった。"
+    ],
+    "textEn": [
+      "Takano-san squats down and takes a good look at the ankle I keep rubbing.",
+      "...She compares it to my facial expression, apparently trying to gauge how bad the wound was."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「立てる？」"
+    ],
+    "textEn": [
+      "\"Can you stand?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………ぅぅ………………ぐ……！」"
+    ],
+    "textEn": [
+      "\"...Ugh............ guh...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "とてもじゃないが、……立ち上がることなどできない。",
+      "芋虫みたいに、みっともなく地面を這うのが精一杯だった…。",
+      "鷹野さんは腕時計と自分の車を見比べてから、少し思案した後、助手席の扉を開ける。",
+      "そして……俺に肩を貸してくれた。"
+    ],
+    "textEn": [
+      "I didn't expect to... but I couldn't even stand up.",
+      "It was all I could do to shamelessly wriggle on the ground like a caterpillar...",
+      "Takano-san looked at her watch, then at her car, and after thinking for a moment, opened the passenger's seat door.",
+      "And then... gave me her shoulder to stand up with."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…家まで送るわ。",
+      "何だか、私がはねたみたいで嫌な気持ちだけどね。」"
+    ],
+    "textEn": [
+      "\"...I'll take you home.",
+      "I do feel bad, since it's almost like I hit you.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………ぅぅ、………す、……すみません……。」"
+    ],
+    "textEn": [
+      "\"......Ugh...... I... I'm sorry...\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「見捨てるのも気の毒だし。",
+      "…私がやさしい人で良かったわね、くすくすくす…。」"
+    ],
+    "textEn": [
+      "\"I wouldn't just leave you there.",
+      "...It's a good thing I'm a nice person! Hee-hee-hee...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…自分でやさしい人なんて言うヤツにろくなのがいるもんか…、なんて思ったが、肩を借りてる身で、それはあまりに失礼な発言だ。",
+      "鷹野さんの手を借りて、助手席に座る。",
+      "…鷹野さんは後ろに振り返り、倒れている俺の自転車を見た。"
+    ],
+    "textEn": [
+      "...Nobody good has ever called themselves a nice person... but that would have been a terrible thing to say to someone holding me up like this.",
+      "I took Takano's hands and sat down in the passenger's seat.",
+      "...Takano-san went around the back and looked at my bike on the ground."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「………自転車は後日、ってことにはならない？」"
+    ],
+    "textEn": [
+      "\"...I don't suppose we could take the bicycle home tomorrow?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんの目には、面倒くさいし重そうだし、車が汚れるから嫌だと浮かんでいるのがよくわかる。",
+      "……だが、自転車には前原と名前が書いてある。",
+      "……こんなところに残すわけには行かないのだ。"
+    ],
+    "textEn": [
+      "I could clearly tell from her face that she thought it would be a pain, since it would be heavy, and it would get her car dirty.",
+      "...But... my bike has the name Maebara written on it.",
+      "...I couldn't leave it out here like this."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「えっと……、その、……何とか車に積めませんか…。",
+      "ないと、…困るんで。」"
+    ],
+    "textEn": [
+      "\"Umm... well... can you somehow put it in the car...?",
+      "I sort of... need it.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「トランクはもういっぱいなの。",
+      "後部座席なんかに積んだら、シートが泥で汚れちゃうわ。",
+      "…まぁ、あなたを乗せた時点でもう充分に汚れてるんだけれども。」"
+    ],
+    "textEn": [
+      "\"The trunk is already full.",
+      "If I put it in the back seat, it'll get the seats dirty with mud.",
+      "...Well, given how you're already in here, it's already dirty, I suppose.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "後部座席を振り返ると…、誰のだか知らないが折りたたみ式の自転車が積んであった。",
+      "………まだ俺の自転車を積むくらいのスペースはあるように見える。",
+      "そんな考えは、俺の瞳に浮かんで、原文そのままに鷹野さんに伝わったようだった。"
+    ],
+    "textEn": [
+      "I turn back to the back seat... and see someone's folding bicycle there already.",
+      "...It still looked big enough to fit my bike in there as well.",
+      "My expression reflected my thoughts, and the exact thought seemed to get through to her."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「……わかったわ、わかったわ。",
+      "積んであげる。",
+      "……今夜だけはお姉さんもやさしくしてあげるわ。…くすくすくすくす…。」"
+    ],
+    "textEn": [
+      "\"...All right, all right.",
+      "I'll put it in here for you.",
+      "...I'll be really nice, but just for tonight, okay? ...Hee-hee-hee-hee...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんは、さんざん悪態をつきながらも、俺の自転車を抱えて後部座席に詰め込んでくれた。",
+      "悪態をつくだけならともかく、薄気味悪く笑うのは何とかならないものか…。",
+      "……それから…自転車以上に、もっと残したくないのがシャベルだ。",
+      "…シャベルは埋めた死体と俺を直接結ぶキーワードになりかねない。"
+    ],
+    "textEn": [
+      "Takano-san continued with her mean jokes, but she hoisted my bike and loaded it into the back seat for me.",
+      "The mean jokes were one thing, but couldn't she do something about that eerie smile of hers...?",
+      "...And... even more importantly than the bike... I didn't want to leave the shovel here.",
+      "...The shovel could be directly connected to the buried body and to me."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……あの、…ついでで申し訳ないんですけど……、シャベルもお願いしていいですか？」"
+    ],
+    "textEn": [
+      "\"...Umm... Sorry to ask another favor... but could you get my shovel too?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんは明らかに怪訝な顔をする。"
+    ],
+    "textEn": [
+      "Takano-san gave me a clearly dubious expression."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「………………………シャベル？",
+      "………別にいいけど。",
+      "…大事なもの？」"
+    ],
+    "textEn": [
+      "\"...............Your shovel?",
+      "......That's fine with me.",
+      "...Is it important?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………………。」"
+    ],
+    "textEn": [
+      "\"..................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "しゃべればしゃべるほど俺が不利になる…。",
+      "そんな気がして、無理に返事をすることを避けた…。",
+      "……そんな俺の黙り込みに耐えかねてか、鷹野さんは肩をすくめるようにして呆れ顔のため息をついた。"
+    ],
+    "textEn": [
+      "The more I talk, the worse it gets for me...",
+      "That's how I felt, so I didn't force myself to answer her...",
+      "...Eventually, outlasted by my silence, Takano-san gave a short shrug and sighed."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「………はいはい、わかったわ。",
+      "ボクはシャベルがないと困っちゃうんでしょう？",
+      "…そんなコワイ目しなくてもいいわよ。」"
+    ],
+    "textEn": [
+      "\"...All right, I understand.",
+      "You need your shovel, right?",
+      "...You don't need to make such a mean face.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんは道の真ん中に転がっていたシャベルを持ってきてくれた。",
+      "…俺はそれを二度と手放さないように、抱く。",
+      "……鷹野さんはそんな様子を怪訝そうに見ていた。"
+    ],
+    "textEn": [
+      "Takano-san brought over the shovel that was lying in the middle of the road.",
+      "...I clutched it like I'd never let go of it again.",
+      "...Takano-san watched me with a puzzled look."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「じゃ、行くわよ。",
+      "…前原くんのお家って、あの前原屋敷でいいんでしょう？」"
+    ],
+    "textEn": [
+      "\"Okay, let's be off.",
+      "...Maebara-kun, you live at the Maebara mansion, don't you?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……何でみんな、家のことを前原屋敷って呼ぶんですか？」"
+    ],
+    "textEn": [
+      "\"...Why does everyone call my house the Maebara mansion?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「だって現にお屋敷じゃない。",
+      "お金持ちが羨ましいわ。」"
+    ],
+    "textEn": [
+      "\"Because it's actually a mansion!",
+      "It must be nice to be rich.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……そんな話をしながら、鷹野さんはサイドブレーキを下ろし、アクセルを踏み込む。",
+      "…そして路肩を利用して上手にＵターンすると、ぐんぐんと速度を上げていった……。",
+      "……バックミラーから、呪われた場所が闇の向こうに溶けて消えていくのを見る。"
+    ],
+    "textEn": [
+      "...As she spoke, Takano-san pulled the hand break and stepped on the gas.",
+      "...After making a skillful U-turn using the shoulder of the road, she steadily increased in speed...",
+      "...From the rear-view mirror, that accursed place seemed to melt into the darkness."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「………られた？」"
+    ],
+    "textEn": [
+      "\"...ried?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え？",
+      "………すみません、よく聞こえませんでした。",
+      "……今なんて？」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "...I'm sorry, I didn't quite hear you.",
+      "...What was that?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然鷹野さんに何か話しかけられたが、…ちょっとうっかりして聞き損ねてしまった。",
+      "鷹野さんは前方を見据えたまま、…もう一度同じことを言ってくれた。"
+    ],
+    "textEn": [
+      "Takano-san suddenly tried to say something to me... but thoughtlessly, I didn't catch it.",
+      "Looking ahead, Takano-san... said the same thing one more time."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「死体。」"
+    ],
+    "textEn": [
+      "\"The body.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………え………、」"
+    ],
+    "textEn": [
+      "\"......Uh......\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…上手に埋められた？」"
+    ],
+    "textEn": [
+      "\"...How well was it buried?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………………………。」"
+    ],
+    "textEn": [
+      "\"..................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………………心臓が飛び跳ねるような、派手な反応は示さなかった。",
+      "…ただ、…息の根がきゅぅっと、…締まって息が吸えなくなった。"
+    ],
+    "textEn": [
+      "............I thought my heart might beat out of my chest, but I didn't let it show.",
+      "...But... my lungs were squeezed tight... and I couldn't breathe."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……な、………………何を、……言ってるんです…か……。」"
+    ],
+    "textEn": [
+      "\"...Wha......... what... are you talking... about...?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…こういう山奥に死体を埋める時はね。",
+      "結構深く掘らないと、野犬とかが臭いを嗅ぎつけて掘り返しちゃうことも多いのよ？"
+    ],
+    "textEn": [
+      "\"...When burying bodies in mountains like these...",
+      "You have to bury it fairly deep, because wild dogs will often smell the corpse and dig it out."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "………野犬が咥えてた人骨で事件が発覚、警察、一帯を山狩りへ…なんて、結構ないことじゃないのよ？",
+      "………くすくす…。」"
+    ],
+    "textEn": [
+      "...Some human bone a wild dog brings back in its mouth leads to an incident being uncovered, the police head out to a stretch of mountains... It actually happens pretty often, you know?",
+      "...Hee-hee...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ガンガンと…わんわんと…。",
+      "…頭の中にでっかく錆び付いた鐘がいくつも鳴り響く…。",
+      "……絶対大丈夫だと言い切れるくらいに…深く埋めただろうか…？",
+      "…答えはノーだ。",
+      "………埋めれば全てが終わるという焦りで、…乱暴に浅く埋めてしまった可能性は否定できない…。",
+      "いやいやいやいや……そんなことよりそんなことより……。",
+      "…この女、……どうして……知っている……ッ？！",
+      "……こいつは、車でたまたまあそこを通りかかった。",
+      "…そして、…偶然俺と出会ってしまっただけ。",
+      "……木陰から一部始終を見ていて、",
+      "…一度離れてから、",
+      "わざわざ車で来直したなんて、…常識的には考えられない。",
+      "…………なのに………どうして………。",
+      "………………………前原圭一…、",
+      "……やっぱり……殺すしか…ない……ぞ……。",
+      "再び全身が覚醒し……、瞳孔がぐわっと開くのがわかる。",
+      "…狭い車内だから、シャベルで殴り殺すわけにはいかない。",
+      "……なら、……この手で…………絞め殺してやる………………。",
+      "…でも、…今は車を運転しているんだぞ……。",
+      "今、絞めたら…事故になってしまうかも…………。",
+      "その時、不意に鷹野さんが振り返り、俺に目を合わせた。"
+    ],
+    "textEn": [
+      "Pound, pound... clang, clang...",
+      "...Huge, rusted bells start ringing in my head...",
+      "...Had I buried it... so deep that I could say it absolutely wouldn't be found...?",
+      "...The answer was no.",
+      "......I was in such a rush to bury him and get it over with... that I couldn't deny having possibly buried it too close to the surface...",
+      "No, wait, wait, wait, wait... That's not, wait, anyway...",
+      "...This woman... how... how does she know...?!",
+      "...She had just passed by here in her car by coincidence.",
+      "...And we ran into each other... by coincidence.",
+      "...If she had been watching the entire thing from the trees...",
+      "and once I left,",
+      "she came back in her car? ...It didn't make logical sense.",
+      "......So then...... why...",
+      "...............Keiichi Maebara...",
+      "...That's it... You need... to kill... her...",
+      "My entire body reawakened... and I could feel my pupils dilate.",
+      "...I couldn't possibly beat her to death with the shovel in such a small car.",
+      "...Then... I would use my hands...... and strangle her.........",
+      "...But... she was driving right now...",
+      "If I strangled her... we might get into an accident......",
+      "Then, suddenly, Takano-san turned and looked at me."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「……………ボケもツッコミもなし？」"
+    ],
+    "textEn": [
+      "\".........What, no witty retort?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…何の話か一瞬わからず、面食らう。"
+    ],
+    "textEn": [
+      "...For a moment, I was surprised—what was she talking about?"
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…私たち、あんまり相性はよくないみたいね。」"
+    ],
+    "textEn": [
+      "\"...It would seem we're not a very good match.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんはつまらなさそうにそう言うと、再び視線を前方に戻した。",
+      "……鷹野さんが言っていた言葉を、…何度も反復して、………ようやく、性質の悪い冗談のつもりだったんだと気付く…。",
+      "本当に冗談だったかは…わからないが。",
+      "…俺如きがいくら嘘を重ねても、とても騙しきれる人じゃない。",
+      "……………今、こうして運転している状況では……殺すことはできない。",
+      "…このまま自宅へ着けば、さらに殺すことは躊躇われるだろう。",
+      "………一番最初の、あの出会った最初の瞬間が一番のチャンスだったのだ。",
+      "…それをみすみす逃したのは大きく、…痛い。",
+      "それっきり、……鷹野さんは何もしゃべらなかった。",
+      "…沈黙が車内を埋め尽くし、窒息を誘う。",
+      "………俺は……何て女と出会ってしまったんだろう…。",
+      "……今日、いろいろとありながらも……何とかうまく行き、……後は帰宅して眠るだけという…この最後の最後で………何と言う不運……。"
+    ],
+    "textEn": [
+      "Takano-san said, disappointed, returning her gaze ahead.",
+      "...I repeated the words she'd said... a few times in my head... and finally realized she'd meant it as an off-color joke...",
+      "I didn't know whether it was really... a joke, but...",
+      "I wouldn't be able to fool her, no matter how many lies I told.",
+      "......Right now, with her driving the car like this... I couldn't kill her.",
+      "...I would have an even harder time doing it when we got back to my house.",
+      "...That moment we met—that had been my best chance.",
+      "...And to have missed it so easily... it hurt.",
+      "After that... Takano-san didn't say a single word.",
+      "...The car was completely buried in an almost suffocating silence.",
+      "...What... kind of woman had I run into...",
+      "...With everything that happened today... I managed to pull it off.. and at the very end of it all... I just had to go home and go back to sleep... What bad luck..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……そんな不安感は…次第に押し寄せる眠気の前に、……徐々にどうでもいいものになっていくのだった……。",
+      "…………………いいのか？　前原圭一…。",
+      "…………この女、………多分、生かしておかない方がいいぞ……？",
+      "………………………………今は……眠い。",
+      "ブレーキがかかって、体がシートベルトに締め付けられた。",
+      "…それで目が覚める。",
+      "……今、俺はどうやら眠ってしまっていたらしかった。",
+      "窓の外を見ると…ぼんやりとした灯りに大きな建物が浮かび上がっていた。",
+      "……真っ暗だったが、自分の家であることはすぐにわかった。"
+    ],
+    "textEn": [
+      "As my sleepiness gradually overtook me... the anxiety I felt... steadily started to matter less and less...",
+      "............Is this all right, Keiichi Maebara...?",
+      "......You probably... should not leave this woman alive.",
+      "..................Right now... I'm tired.",
+      "She stepped on the brakes, and I jerked against my seatbelt.",
+      "...That woke me up.",
+      "...I thought I must have fallen asleep by accident.",
+      "I looked out the window... and there was a big building with faint lights on.",
+      "...It was really dark out, but I knew immediately it was my house."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「今、ご家族を呼んでくるわね。",
+      "少しの間だけど、ひとりでお留守番できるかしら？",
+      "くすくすくす…。」"
+    ],
+    "textEn": [
+      "\"I'll go get your folks for you.",
+      "Would you mind the place for a few moments while I'm gone?",
+      "Hee-hee-hee...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……馬鹿にしないで下さい。",
+      "…それに、ほら。",
+      "…もう大丈夫です。",
+      "ひとりで歩けますから。」"
+    ],
+    "textEn": [
+      "\"...Don't make fun of me, please.",
+      "...Besides, look.",
+      "...I'm fine now.",
+      "I can walk by myself.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…あらあら。",
+      "さっきは痛そうな顔して肩まで借りたのに？",
+      "ひょっとしてお姉さんに甘えてみたかったから？",
+      "…くすくすくす。」"
+    ],
+    "textEn": [
+      "\"...Oh, my.",
+      "You were in such pain before that you had to get me to carry you.",
+      "Did you just want a pretty lady to be nice to you?",
+      "...Hee-hee-hee.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんはそう言いながら、車を降り、傘をさす。",
+      "…雨粒が傘を叩く音は相変わらず激しかった。",
+      "さっき挫いた足首を恐る恐るさする。",
+      "………まだ痛みと違和感はあるが、…もうそんなにひどくはないようだった。",
+      "……大した怪我でなかったことを喜ぶより、…あそこで捻挫さえしてなければ……あの場で鷹野さんを殺すという選択肢も選べたはず…という後悔の方が先だった。",
+      "………………鷹野さんは多分、間違いなく、……俺が何かの犯罪に関わったと確信している。",
+      "……沙都子を巡る一連の騒ぎを知っているなら、…俺が誰を殺したかさえ想像がつくだろう。",
+      "ガチャリ。",
+      "……鷹野さんが、助手席の扉を開けてくれた。"
+    ],
+    "textEn": [
+      "As Takano-san spoke, she left the car and opened up her umbrella.",
+      "...The sound of falling raindrops was fierce, as always.",
+      "I carefully reached down and rubbed the ankle I'd twisted.",
+      "...There was still some pain and a little weirdness... but they weren't that bad anymore.",
+      "...Rather than being happy about how light the wound was... I first regretted this whole thing... If I hadn't twisted my ankle, I could have still taken the option of killing Takano-san right then and there.",
+      "......There probably wasn't much doubt... that Takano-san was convinced I was involved in some sort of crime.",
+      "...If she knew about everything happening with Satoko... then she might have even guessed I'd killed somebody.",
+      "Ka-click.",
+      "...Takano-san opened the passenger side door for me."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「本当に肩は必要ないかしら？",
+      "もう一回だけ甘えてもいいのよ？",
+      "くすくす…。」"
+    ],
+    "textEn": [
+      "\"You're sure you don't need my shoulders?",
+      "I wouldn't mind doing it for you again.",
+      "Hee-hee...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それを無視して、一人で降りることで返事とする。",
+      "…雨はまだだいぶ激しかった。",
+      "後部座席から俺の自転車を下ろす。",
+      "……もう一台の自転車が誰のものか、少し気になったが、今はどうでもよかった…。",
+      "鷹野さんの傘に入れてもらいながら自転車を押し、玄関までやってくる。"
+    ],
+    "textEn": [
+      "I ignored her and answered by getting out of the car by myself.",
+      "...The rain was still pretty intense.",
+      "I got my bicycle out of the back seat.",
+      "...I was a bit curious who the other bike belonged to, but that didn't matter right now...",
+      "I let Takano-san hold the umbrella over me, then pushed my bicycle up to the front door."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…ありがとうございます。",
+      "もうここまでで大丈夫です。」"
+    ],
+    "textEn": [
+      "\"...Thank you, very much.",
+      "I'll be fine now.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "さっきはあんなに痛んだ足首が、…今でも多少は痛むにせよ、そんなに大したことがないのが腹立たしくてならない。",
+      "……本当の本当に……不運だった。"
+    ],
+    "textEn": [
+      "My ankle hurt so much earlier... and it still did, but it aggravated me that it hadn't even been that bad.",
+      "...It was really, seriously... terrible luck."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「じゃあ、…私はこれで失礼するわね。",
+      "前原くんと二人きりで夜のドライブだったなんて、…みんなにはナイショよ？",
+      "くすくす…、特にジロウさんにはね。」"
+    ],
+    "textEn": [
+      "\"All right... I will be leaving, then.",
+      "Keep it a secret... that we had a nice evening drive together by ourselves, okay?",
+      "Hee-hee... Especially from Jirou-san.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ジロウさん…？",
+      "あぁ、…富竹さんのことか。",
+      "…この人は富竹さんのことをジロウさんって呼ぶんだよな。",
+      "…富竹ジロウが本名なんだろう。",
+      "その時、………さっき興味のなかったあの、後部座席のもう一台の、…折り畳み自転車が記憶に蘇る。",
+      "「やぁ、申し訳ないね。君、雛見沢の人だよね？」",
+      "……一昨日、…寝坊した俺がダム現場を歩いていた時に、富竹さんに話しかけられた。",
+      "……その富竹さんがまたがっていた自転車が………、……確か…………。"
+    ],
+    "textEn": [
+      "Jirou-san...?",
+      "Oh... she meant Tomitake-san.",
+      "...I supposed she calls him by his first name.",
+      "...His full name must be Jirou Tomitake, then.",
+      "And then...... the other bike, the folding one in the back seat, that I didn't care about at first... suddenly came to mind.",
+      "\"Hey, excuse me. You're from Hinamizawa, right?\"",
+      "...On the day before yesterday... as I walked near the dam, half-asleep, Tomitake-san had talked to me.",
+      "...And the bicycle he'd been riding......... It was......"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あの後ろに積んであった自転車、……富竹さんのですよね…？」"
+    ],
+    "textEn": [
+      "\"That bicycle in the back... belongs to Tomitake-san, doesn't it...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんの目つきが、…一瞬鋭くなったように感じた。"
+    ],
+    "textEn": [
+      "Takano-san's eyes... I think they sharpened for a moment."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「……………………………どうしてそう思うのかしら…？」"
+    ],
+    "textEn": [
+      "\"............And why do you think that...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……以前に会った時、見てますから。",
+      "…フレームも特徴的でしたし。」"
+    ],
+    "textEn": [
+      "\"...I saw it when I met him before.",
+      "...The frame stood out to me.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…………………………ふぅん。",
+      "………でも、…おかしくないかしら…？",
+      "この自転車がジロウさんのものだなんてこと、ありえると思う…？」"
+    ],
+    "textEn": [
+      "\"..................Hmm.",
+      "...But... wouldn't that be odd...?",
+      "Do you think it's possible for this to be Jirou-san's bike...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…おかしいって、……………え…？」"
+    ],
+    "textEn": [
+      "\"...Odd......... huh...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんは、優雅そうに髪の毛をなびかせてから、…俺の目を覗き込むように言った。"
+    ],
+    "textEn": [
+      "Takano-san, her hair elegantly fluttering... peers into my eyes."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「……だって。",
+      "…雛見沢には民宿なんてないのよ？",
+      "ならジロウさんは町に泊まっていることになるわよね。」"
+    ],
+    "textEn": [
+      "\"...Well...",
+      "There are no bed and breakfasts in Hinamizawa, are there?",
+      "Jirou-san would need to be staying in town.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………そうなんですか…？",
+      "…まぁ……そうなら、そうなんじゃないですか…？」"
+    ],
+    "textEn": [
+      "\"......Is that so...?",
+      "...Well... I guess that's right, huh...?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「……町から雛見沢までは、とても歩いてなんか行き来できないわよね？",
+      "バスだって走ってないし。",
+      "……せめて自転車くらいはなきゃね。」"
+    ],
+    "textEn": [
+      "\"...You can't really walk from town to Hinamizawa, can you?",
+      "And there are no buses, either.",
+      "...You at least need a bicycle.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "言われるまでもない。",
+      "…だから富竹さんは自転車に乗っていた。"
+    ],
+    "textEn": [
+      "She didn't need to tell me that.",
+      "...That's why Jirou-san was riding a bike."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…そのジロウさんの自転車が私の車に積んであって、",
+      "…ジロウさんは私の車に乗っていないなら、",
+      "………おかしいじゃない。",
+      "……ジロウさんは雛見沢で自転車ナシ…ってことになっちゃうわよ。"
+    ],
+    "textEn": [
+      "\"...For Jirou-san's bicycle to be stowed in my car...",
+      "and him not in there...",
+      "That would be strange, wouldn't it?",
+      "...It would mean Jirou-san was in Hinamizawa... without a bike."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "ジロウさんを放っておいて自転車だけが私の車に積んであるなんて、ね？",
+      "ありえないでしょう？」"
+    ],
+    "textEn": [
+      "I'd have to have left Jirou-san somewhere and put his bike in the car, wouldn't I?",
+      "It wouldn't make sense.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………鷹野さんが、名前通りの鷹のような目つきで…そう語るが、",
+      "……悪いが俺には、何がどうおかしいのか、",
+      "……少しわからない。"
+    ],
+    "textEn": [
+      "......As she spoke, Takano-san made eyes like a hawk...",
+      "...Unfortunately, I didn't really understand...",
+      "what was so odd."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………それの、何がおかしいんですか。",
+      "…鷹野さんは富竹さんとは仲がいいんですよね。",
+      "………何かの用で自転車を積んであげたって、別におかしいことだとは思わないですけれど…。」"
+    ],
+    "textEn": [
+      "\"...What about that is odd?",
+      "...Aren't you and Tomitake-san friends?",
+      "...I don't really think it would be strange for there to be some reason you had his bicycle in your car...\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「そうじゃないでしょ。",
+      "…つまり、この雛見沢において、ジロウさんとその自転車がばらばらに存在することはありえない、ということなのよ。"
+    ],
+    "textEn": [
+      "\"But it would be.",
+      "...What I mean is, Jirou-san and his bicycle being in different places in Hinamizawa wouldn't make sense."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "………以上の理由から、この自転車がジロウさんのものであるわけがない。",
+      "………理解できたかしら…？」"
+    ],
+    "textEn": [
+      "...And for those reasons, it means this bicycle can't be his.",
+      "...Do you understand now...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…鷹野さんの言い回しが少々わかりにくいが、…それ以上に、どことなく凄みを感じさせる薄気味悪さが…とても嫌だった。",
+      "…だが、………本能のもっとも野性的な部分が、…立ち入らない方が良いと警告する。"
+    ],
+    "textEn": [
+      "...Takano-san's roundabout way of talking was hard to comprehend... but that eeriness I could feel, that vague dreadfulness... I didn't like it at all.",
+      "...But...... the most wild, instinctive part of me... warned me not to pry."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あれは私の自転車なのよ。",
+      "………ジロウさんに選んでもらったから、センスが似てるのは間違いないけれどね。」"
+    ],
+    "textEn": [
+      "\"That's my bicycle.",
+      "...Jirou-san picked it out for me, though, so I can't deny that it looks alike.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………あ、……そうだったんですか。",
+      "…どうりで似てると、」"
+    ],
+    "textEn": [
+      "\"...Ah... I see now.",
+      "...I thought it looked similar.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「私とあなたは今夜、出会わなかった。」"
+    ],
+    "textEn": [
+      "\"You and I never saw each other tonight.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "会話が全然つながらない…。"
+    ],
+    "textEn": [
+      "And now she was talking about something completely different..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…何を言ってるんですか。」"
+    ],
+    "textEn": [
+      "\"...What are you talking about?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「私とあなたは今夜、出会わなかった。」"
+    ],
+    "textEn": [
+      "\"You and I never saw each other tonight.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺が相槌を打てずに戸惑っていると、…鷹野さんは薄気味悪く、その短いフレーズをもう一度繰り返した。"
+    ],
+    "textEn": [
+      "I stayed there, not knowing what to say... and Takano-san repeated her eerie, succinct phrase to me again."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「私とあなたは今夜、出会わなかった。」"
+    ],
+    "textEn": [
+      "\"You and I never met this night.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\".........\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「………私とあなたは今夜。",
+      "出会わなかった。」"
+    ],
+    "textEn": [
+      "\"...You and I...",
+      "never saw each other tonight.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "背筋を…冷たくて気持ち悪いものが駆け上る。",
+      "………さっき、……人間をこの手で殺した俺だからわかる。",
+      "…さっき俺がためらいもせず、この女を殴り殺して黙らせるなら今しかないと考えるに至ったように、……この女も同じ考えに、至っているのが、…わかる。",
+      "再び本能が警告する。",
+      "……この女と出会わなかった方がよかった。",
+      "この女から漂う…腐臭のような臭いの気配は、………きっと今の俺から滲み出ている気配と、…何ら変わらない。",
+      "………目的のために、ニンゲンの命を奪うことに何の躊躇もない、超越した人間の持つ…独特の覇気。",
+      "…いや、…吐き気と言うべきか。",
+      "つまり………どういうことなのかうまく説明できないが、……鷹野さんは、俺と同じなのだ。",
+      "つまり……ここに居てはいけない人間。",
+      "ここにいなかったことにしなければならない人間。",
+      "…………誰とも会うことを望まない人間。",
+      "………そして、……出会ってしまった相手を消すことで、……出会わなかったことに平気でできる人間…。",
+      "そう。",
+      "……ということはつまり…、俺がこれ以上何も触れられたくないように、……彼女もまた、触れられることを望んでいない。",
+      "そして、…彼女もまた俺と出会わなかったことを望んでいる。",
+      "………両者は、同じことを望んでいたのだ。",
+      "………望むものが同じなら、………鷹野さんの提案は極めて合理的なものだ…。",
+      "……そして、それはむげに断るべきではない…。"
+    ],
+    "textEn": [
+      "Something cold and unpleasant... crawled up my spine.",
+      "...I knew... because I'd killed a person with my own hands before.",
+      "...Before, I came to the conclusion that I only had one chance to beat this woman to death to keep her quiet, and I couldn't hesitate... so I could tell... that she'd arrived at the very same conclusion.",
+      "My instincts warned me again.",
+      "...I wish I'd never met this woman.",
+      "The faint sense, like a rotten smell... drifting from this woman... was no doubt the exact same sense... that I was giving off right now.",
+      "...The very peculiar aspiration... the lack of uncertainty at taking a human's life for a purpose, one that only those who have risen above everything had.",
+      "...Actually... maybe I should have called it a nausea.",
+      "It meant... and I didn't know how to explain this very well... but Takano-san was the same as me.",
+      "In other words... someone who shouldn't have been here.",
+      "Someone I couldn't have let anybody know was here.",
+      "......Someone who nobody would have wanted to see.",
+      "...And, now that we had... we could calmly pretend... as though we never met.",
+      "Yes.",
+      "...Which meant that... just like I wanted to have nothing else to do with her... she didn't want anything to do with me, either.",
+      "And... she, too, wanted to make it so that we'd never met.",
+      "...Both of us wished for the same thing.",
+      "...Our desires were the same... which meant Takano-san's suggestion was extremely practical...",
+      "...And that I couldn't outright refuse..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…それでいいなら、そういうことでもいいです。",
+      "……俺と鷹野さんは今夜、出会わなかった。」"
+    ],
+    "textEn": [
+      "\"...If that's fine with you, then sure, whatever.",
+      "...You and I didn't meet this night.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「そうよね。",
+      "……あなたにとってもその方がいいでしょうから。」"
+    ],
+    "textEn": [
+      "\"You're right.",
+      "...That would be best for you too, wouldn't it?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……どうしてそう思うんですか。」"
+    ],
+    "textEn": [
+      "\"...Why do you think that?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「いちいちうるさいわね。",
+      "…それくらい自分で考えられないの、坊や。」"
+    ],
+    "textEn": [
+      "\"Are you seriously asking me that?",
+      "...You can't figure that out on your own, boy?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………坊やという見下した言葉で、俺との会話をぴしゃりと遮る。",
+      "家の玄関前という…殺しにはもっとも適さないはずの場所で。",
+      "………それでも、………俺とその女から…互いに凍てついた殺気が滲み出している。",
+      "……俺は今この場で、",
+      "…殺される……………………。",
+      "…あぁ……、…それならやはりあの時に、…出会い頭に殴りかかるべきだった…。",
+      "じっとりとした脂汗が全身に浮き出す…。",
+      "…………いいさ、……来たければ…、いつでも来たらいい…………。",
+      "そう覚悟を決めた時。",
+      "…………鷹野さんが優雅に髪を散らしながら、踵を返した。"
+    ],
+    "textEn": [
+      "......She cut me off with the condescending word \"boy.\"",
+      "Right in front of my house... in a place most unsuited to killing.",
+      "...And yet... there was a frozen thirst for blood... coming from both of us.",
+      "...I would be...",
+      "killed, right here, right now.........",
+      "...Yeah... Then I should have definitely... beaten her as we passed each other...",
+      "A damp, greasy sweat broke out on my body...",
+      "......That's fine... If you want me... then you can come anytime......",
+      "And when I made up my mind......",
+      "She shook her hair elegantly and turned on her heel."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…よかったわね。",
+      "…私がやさしい人で。」"
+    ],
+    "textEn": [
+      "\"...Good.",
+      "...I am a kind person, after all.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何がどうで、よかったのか。",
+      "……鷹野さんがやさしい人だったから、何がどうだったというのか。",
+      "………わからない…。",
+      "鷹野さんはそのまま車に乗り込んでいく。",
+      "…別れの挨拶は何もなかった。",
+      "……沙都子の叔父殺害という偉業を成し遂げたのに、………心には何の達成感もない。",
+      "…………誰かひとりの命を奪うことが許されるオヤシロさまの祟りの聖夜に。",
+      "………オヤシロさまの代行者としての…鬼が徘徊する土砂降りの夜。",
+      "………出会うはずのない鬼たちが、……偶然、……出会ってしまった。",
+      "鬼たちは、……揚々と別れていく。",
+      "……争う必要は何もない。",
+      "……互いの目的は、…もう果たされているのだから……。",
+      "…滝のように雨水が流れ落ちる車の窓越しに、鷹野さんと目が合う。",
+      "その女の鬼は、……不敵に、にやっと口元を歪めたように見えた。",
+      "………………もう殺すには遅い。",
+      "…手遅れ。",
+      "…一番最初の、あの出会った最初の瞬間が一番のチャンスだった。",
+      "……今、こうして別れてしまってからはっきりと自覚する。",
+      "………コイツハ…生カシテ帰スベキデハナカッタ…！",
+      "短いクラクションを一度鳴らし、…鷹野さんの車は土砂降りの中を走り去って行く。",
+      "……今夜の真相を知る、唯一の女が、……闇の中に去っていく。",
+      "あの女が生き続ける限り、………今夜という夜が終わることはないのだ。",
+      "……………事故に遭え、……と思った。",
+      "この土砂降りの中、……泥か何かでスリップして、……大木に正面衝突して…死亡。",
+      "…これは俺の妄想なんかじゃない。",
+      "……願いであり、",
+      "………そう、",
+      "………命令だ。",
+      "死ね。",
+      "…死んでしまえ。",
+      "…そして永久に口を噤むがいい。",
+      "……お前だって今頃、…俺が死ぬことを望んでいるに違いないのだから。",
+      "そんな俺の呪いも空しく、鷹野さんの車のバックライトは漆黒の闇の中に消えていった…。"
+    ],
+    "textEn": [
+      "What was good? How?",
+      "...Because she was a kind person? Was that it?",
+      "...I didn't get it...",
+      "Takano-san got into her car.",
+      "...We didn't exchange any words of parting.",
+      "...I had performed a massive feat: the killing of Satoko's uncle... and yet I didn't feel any accomplishment.",
+      "......On the holy night of Oyashiro-sama's curse, on which the taking of another's life was allowed.",
+      "......On the terribly rainy night when the demons wandered... as agents of Oyashiro-sama's will.",
+      "...The demons were never supposed to meet... but suddenly... they did.",
+      "The demons... parted ways triumphantly.",
+      "...There was no reason for them to fight.",
+      "...Both their objectives... had already been accomplished...",
+      "...With the rain hitting me like a waterfall, my eyes met with Takano-san's through the car window.",
+      "The female demon... Her mouth twisted into a distorted, fearless smile.",
+      ".........It was too late to kill her.",
+      "...Far too late.",
+      "...That first moment, the very first moment we saw each other, had been my best chance.",
+      "...And now that we had parted like this, I was acutely aware of it.",
+      "...I... s h o u l d   n o t   h a v e   l e t   h e r   l i v e...!",
+      "She beeped her horn quickly... then her car drove away into the deluge.",
+      "...The one woman who knew what really happened tonight... disappeared into the dark.",
+      "As long as she was alive... this night would never really end.",
+      "......Just get into an accident... I thought to myself.",
+      "In this downpour... Slip on some mud or something... and fly face first into a tree... and die.",
+      "...That wasn't a delusion, a wild flight of fantasy.",
+      "...It was an earnest wish.",
+      "......Yes.",
+      "......It was a command.",
+      "Die.",
+      "...Die!",
+      "...And keep your mouth shut for eternity.",
+      "...Because I have no doubt... you're wishing for me to die all the same.",
+      "My curse upon her faded emptily as Takano-san's tail lights disappeared into the utter darkness..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…車の灯りは完全に見えなくなる。",
+      "土砂降りの音に溶け込み、音も何も、もうわからない。",
+      "……俺もまた踵を返す。",
+      "……狂った夜に幕を下ろすために。",
+      "玄関の扉を開いて、今夜を終わらせるために。",
+      "玄関の扉へ、歩みを進める。",
+      "……泥まみれで、歩くたびに無様な音を立てる靴で、ぐしゃ、ぐしゃ、…と一歩一歩、歩みを進める。",
+      "…ぐしゃ。",
+      "…ぐしゃ。",
+      "……………………安心しろ前原圭一。"
+    ],
+    "textEn": [
+      "...Her car's lights were completely out of sight now.",
+      "Even the sound of the engine faded into the sound of the heavy rain, and was inaudible now.",
+      "...I, too, turned on my heel.",
+      "...To draw the curtains on this insane night.",
+      "To open my front door and end it all.",
+      "I began walking towards the front door.",
+      "...I was covered in mud, and I made a squishing sound with every step I took.",
+      "...Squish.",
+      "...Squish.",
+      "............Don't worry, Keiichi Maebara."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…ぐしゃ。",
+      "…ぐしゃ。",
+      "……………あの女は、死ぬから。"
+    ],
+    "textEn": [
+      "...Squish.",
+      "...Squish.",
+      "............She'll die."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…ぐしゃ。",
+      "…ぐしゃ。",
+      "………あの女に相応しい、無惨な最期を。",
+      "…生きたまま炎を纏わせ、黒コゲになるまで躍らせてやろう。",
+      "お前が焼かれるはずの分まで、地獄の業火で焼き尽くしてやるから。"
+    ],
+    "textEn": [
+      "...Squish.",
+      "...Squish.",
+      "............Her end will be as miserable as she is.",
+      "...I'll throw her into some flames alive and let her dance until she's burned to a crisp.",
+      "I'll burn her to ashes in the fires of hell itself until she's roasted as much as she deserves."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……そう願うぜ。",
+      "……本気でな。」"
+    ],
+    "textEn": [
+      "\"...I wish.",
+      "...I really do.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぐしゃ。",
+      "……………………………え？",
+      "…今、",
+      "俺。",
+      "………歩いてない。",
+      "……のに、",
+      "……足音………………。",
+      "……………何の感情もなく、…後ろに振り返る。",
+      "…俺の足音でない音がひとつしたなら、……俺以外の誰かが後ろにいて当然だからだ。",
+      "…俺以外の誰かがそこにいたら………？",
+      "もうごめんだ。",
+      "誰だろうと今夜は絶対にごめんだ。",
+      "今度こそ………殺す。",
+      "今度こそ躊躇なく殺す。",
+      "……何の迷いもなく、…引き返し、もうひとつ穴を掘る。"
+    ],
+    "textEn": [
+      "Squish.",
+      "........................Huh?",
+      "...Just now,",
+      "I...",
+      "hadn't taken a step...",
+      "And yet...",
+      "a footstep.........",
+      "......Without emotion... I turned around.",
+      "...If there was a footprint that wasn't my own... then it was obvious someone else was behind me.",
+      "...Was somebody else there......?",
+      "I was sick of this.",
+      "Whoever it was, I was sick of everything tonight.",
+      "This time... I would kill them.",
+      "I'd kill them without a second thought.",
+      "...I wouldn't hesitate... to turn around and dig another hole."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………………………………。」"
+    ],
+    "textEn": [
+      "\"........................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………だが、……幸いなことに、…………………そこには誰もいなかったから。",
+      "…俺は今夜、これ以上、誰も殺さなくて済んだのだった…。",
+      "その夜は、……それ以上、気にならなかった。",
+      "俺が立ち止まる度に、一歩余計に足音が聞こえたとしても、…疲れているからだと、片付けられた………。"
+    ],
+    "textEn": [
+      "...But... fortunately............ there was nobody there.",
+      "...I wasn't going to have to kill any more people tonight...",
+      "This night... I couldn't handle any more of it.",
+      "Even if I heard an extra footstep each time I stopped... I put it down to me just being tired..."
+    ]
+  }
+]

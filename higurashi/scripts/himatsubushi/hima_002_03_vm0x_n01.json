@@ -1,0 +1,155 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "警官辞めても、大企業の営業で十分飯が食えますよ」"
+    ],
+    "textEn": [
+      "You could quit the force and easily make a living in sales for some large corporation.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「まだ警官辞めた後のことなんか、考えたこともありません…！」"
+    ],
+    "textEn": [
+      "\"I've never so much as considered quitting the force...!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「そこまで過剰に反応されると、…面白いなぁ。",
+      "なっはっはっは！",
+      "しかし、いけないなぁ。因果な商売ですし今から考えても遅くないですよ。",
+      "んっふっふっふ！」",
+      "それは残念です、じゃ老後の話は次の機会にでも。"
+    ],
+    "textEn": [
+      "\"The way you overreact is rather... interesting.",
+      "Na ha ha ha!",
+      "That's no good, it doesn't pay to be a cop and it's not too late to reconsider.",
+      "Nfu fu fu!\"",
+      "Too bad, we'll leave the retirement conversation for next time, then."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「……今さら野暮なことを聞きますが、…私たち、警察官ですよね…？」"
+    ],
+    "textEn": [
+      "\"...I know asking this now might be stupid... but we're all police, aren't we...?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「まぁ〜それは言いっこ無しで。",
+      "なぁに、実際には賭けるわけじゃありませんよ。",
+      "この後い〜いお店に遊びに行く時に、誰が全員分を払うのか決めるだけですって〜〜！",
+      "むっふっふっふっふ〜〜！！！」"
+    ],
+    "textEn": [
+      "\"Well~, let's not talk about that.",
+      "Loosen up a bit, we won't actually gamble anything.",
+      "We're just deciding whose going to pay for everyone at a very ni~ce place afterward~~!",
+      "Mfu fu fu fu fu~~!!!\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「…私のお金は先日、大石さんに根こそぎ預けて支払いは不可能ですし、…仕事の都合があるので長居はできないのですが…。」",
+      "お前が勝ったらこの雀荘の支払いは無しで、蔵人に仕事の話でも何でもすればいい。」"
+    ],
+    "textEn": [
+      "\"...Ooishi-san took all my money the other day, and I also have work to do, so I can't stay for long...\"",
+      "If you win, then you won't have to pay for this table, and you can talk to Kuraudo about work or whatever.\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「……わかりました。",
+      "では、少しだけお付き合いします。",
+      "私が勝ったら、アフターの遊びは一切なしで、すぐに仕事の話に入ってもらいますからね。」",
+      "私はもちろん馴染みの店をハシゴしまくりですよ？"
+    ],
+    "textEn": [
+      "\"...I understand.",
+      "Then, I'll play with you guys for just a bit.",
+      "If I win, you guys don't get to go out playing, and we talk about work right away.\"",
+      "Of course, we're going to hop between all the favorite places!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「静かにバニーさんと、でしょー？"
+    ],
+    "textEn": [
+      "\"Like a nice quiet place with a bunny girl?"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Sato",
+    "labelJp": "佐藤",
+    "textJp": [
+      "「マスターに縫製代とか言われて、一本ドンペリ空けられたなぁ。」"
+    ],
+    "textEn": [
+      "\"The owner started a bottle of Dom Perignon on my tab and called it a 'tailoring fee.'\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「……早稲田、高田馬場辺りでだいぶ遊ばせてもらいました。",
+      "ちょっと勝ちまくりすぎて、馴染みの店に出禁を食らいまして。"
+    ],
+    "textEn": [
+      "\"I played quite a bit around Waseda and Takadanobaba.",
+      "The place I frequented banned me for winning too much."
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「面子にもよりましたが、歌舞伎町辺りで打つときはほぼ負けなしでした。",
+      "特に、相手が「アレ」系の人のときは命かかってましたからね。」",
+      "蔵人！！",
+      "このタコ！！",
+      "お前、どっからこんなプロ雀士みたいなの引っ張ってきたんだ！！"
+    ],
+    "textEn": [
+      "\"It depends on who I was playing with, but I had an almost perfect record playing in Kabukicho.",
+      "Especially since when I played against a certain crowd, my life was on the line.\"",
+      "Kuraudo!!",
+      "You buffoon!!",
+      "Where did you pull this guy from? He's practically a professional!!"
+    ]
+  }
+]

@@ -1,0 +1,1417 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………頭がガンガンする。",
+      "……空が……眩しい。",
+      "……寒い。",
+      "………痛い。",
+      "様々な感覚が…次々と異なる感覚を目覚めさせていった。",
+      "気付くと…俺は河原にうつ伏せになって倒れていた。",
+      "…全身のあちこちがものすごく痛い。",
+      "あちこちの間接の皮が破れ、青くなったり赤くなって血を滲ませたりしていた。",
+      "……体を動かす度に走る激痛から、あちこちの骨が痛んでるのがわかる。",
+      "…見上げて、俺が落ちた橋の高さを見た。",
+      "………あそこから落ちたことを思えば、……再び目を覚ませたのは奇跡だろう。",
+      "自分のすぐ近くに…子供が遊びで持ってきたのだろうか、…車から取り外されたらしい壊れたシートがひっくり返っていた。",
+      "……ひょっとして、…こいつがうまい具合に下にあったお陰で、俺は即死を免れたのかもしれない。",
+      "…奇跡だった。",
+      "もっとも、その奇跡が幸運なのか不運なのかは…わからない。",
+      "死に損ねた以上、……俺はまだ、この狂った世界にいるからだ。",
+      "………俺はどのくらいここで気を失っていたのだろう。",
+      "…日はまだ高く、あれからほんの１〜２時間しか経っていないように見える。",
+      "…だが、体のだるさを思うと、とても１〜２時間しか経っていないとは思えない。",
+      "……気分的には、十年もここで眠っていたような感覚だった。"
+    ],
+    "textEn": [
+      "......My head was pounding.",
+      "...The sky... was bright.",
+      "...It was cold, too.",
+      "......It hurt.",
+      "Each sensation I felt... led to a new and different one awakening.",
+      "When I came to... I was lying face-first on a dry river bed.",
+      "...A few body parts hurt a lot.",
+      "The skin over a bunch of my joints was torn, turned blue or red or oozing blood.",
+      "...I could tell it was my bones that were in pain from the agony I felt whenever I moved.",
+      "...I looked up and saw how high the bridge from which I had fallen was.",
+      "......Considering I'd dropped from there... it was a miracle that I could open my eyes again.",
+      "Right next to me... was a broken, upside-down car seat... which I guessed some pranksters had brought here.",
+      "...Maybe... this thing had been conveniently lying right under me, allowing me to escape instant death.",
+      "...Miraculous.",
+      "Of course, I didn't know... whether this miracle was fortunate or unfortunate.",
+      "I'd failed to die... and now I was still stuck in this insane world.",
+      "......How long had I been unconscious for?",
+      "...The sun was high in the sky, so it looked like only one or two hours had passed.",
+      "...But my body's sluggishness didn't make it feel at all like so short a time had gone by.",
+      "...Mentally, it felt like I'd been asleep here for a decade."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………い、…………いてて………………。」"
+    ],
+    "textEn": [
+      "\"......Ow...... agh.........\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "体の感覚が戻れば戻るほど…、全身の痛覚が目覚めていった。",
+      "……いっそ起きなければよかったと思うくらいに痛み出す。",
+      "……医者へ行かなくちゃ。",
+      "…そうだ、…監督の診療所へ…。",
+      "監督の診療所、という単語から………、次々と…思い出さなくてもよかった記憶が蘇って行く。",
+      "沙都子は、もう橋の上にはいない。",
+      "…さすがにもう、雛見沢に帰っただろう。",
+      "そして、服を着て診療所に行って診察を受け、……俺の様子がおかしいことを告げるだろう。",
+      "警察は俺を、待ち受けているに違いない。",
+      "叔父殺しが今度こそバレて逮捕か、それとも今度こそ精神病院送りか。",
+      "………でも、…どちらでもいいと思った。",
+      "この全身の痛みを止めてくれ。",
+      "…そのあとは煮るなり焼くなり好きにしたらいい。",
+      "びっこを引きながら…俺はひょこひょこと歩き始める。",
+      "沢を下り、…獣道のような林道を抜け……。",
+      "…見知った道を求めてでたらめに歩く。",
+      "…その内に…ようやく馴染んだ道に行き当たり…、俺は診療所を目指して歩き出す。",
+      "………家でなく、…俺を異常者扱いしてくれた診療所へ、だ。",
+      "………蒸し暑い。",
+      "……風もなく、空気もよどんでいた。",
+      "さきからずっと…卵を煮焦がしたような嫌な臭いがしつこく鼻を突き、顔をしかめさせる。",
+      "……そして今頃になって気付く。",
+      "セミの声がないのだ。",
+      "こんな静寂に包まれた雛見沢は初めてだった。",
+      "…こうして思い返すと、朝は小鳥がさえずり、昼はセミが賑やかに鳴き、夕暮れにはひぐらしが合唱する雛見沢のなんと賑やかだったことか。",
+      "虫の声ひとつ聞こえない。",
+      "聞こえるのは、風が梢を擦り合わせる時のざわざわという音だけ。",
+      "…………こんな静けさは初めてだった。",
+      "その唯一の音を聞かせてくれる木々も、どこか精彩がない。",
+      "木々は黄色くなり、路上に季節外れなたくさんの落ち葉を落としていた。",
+      "…路肩にたくましく生えているはずの雑草ですら、黄ばんだり茶けたりして勢いをなくしていた。",
+      "………日差しだけが、俺の知っている６月の雛見沢なのに。",
+      "……まるで、季節がまるごとずれてしまったかのような錯覚。"
+    ],
+    "textEn": [
+      "The more feeling returned to my body... the more the pain flooded in.",
+      "...It hurt so much it would have been better not to have woken up.",
+      "...I needed to get to a doctor.",
+      "...Yeah... to Coach's clinic...",
+      "The term \"Coach's clinic\"... brought memories back one after another... memories I wish I hadn't recalled.",
+      "Satoko was no longer on the bridge.",
+      "...She would have returned to Hinamizawa by now.",
+      "And she would... put on some clothes, go to the clinic, get a check-up, and report on how crazy I had seemed.",
+      "The police were waiting for me without a doubt.",
+      "This time, would they find out for real that I'd killed her uncle and arrest me, or would they just send me to a mental institution like I thought they might?",
+      "......Still... I didn't care which it was.",
+      "Please, someone stop all this pain.",
+      "...You can boil me or cook me after that—whatever you want.",
+      "I began to walk unsteadily... just limping along.",
+      "I went downstream... and then through an animal trail-like path in the woods...",
+      "I walked haphazardly, searching for a path I knew.",
+      "...Eventually... I finally came across a familiar road... and set off towards the clinic.",
+      "......Not to my house... but to the clinic, which had treated me like a lunatic.",
+      "......It was hot and humid.",
+      "...There was no wind, and the air was stagnant.",
+      "For a while now... I've been smelling the terrible stench of burned eggs, and it made my face scrunch up.",
+      "...And then, at last, I noticed something.",
+      "I couldn't hear any cicadas.",
+      "It was the first time I'd heard Hinamizawa be so utterly silent.",
+      "...When I thought back, it seemed like birds always chirped in the morning, cicadas always cried loudly in the afternoon, and higurashi always rose up in chorus in the evening—always something to hear.",
+      "I couldn't hear a single insect.",
+      "The only thing I could hear was the rustling of the wind brushing the treetops.",
+      "......I'd never experienced this sort of quiet before.",
+      "Even the only sound coming from the trees lacked life somehow.",
+      "The trees were yellow, and many leaves were spread on the ground, despite it being too early for autumn.",
+      "...Even the weeds that had been growing so persistently at the side of the road had yellowed, browned, and lost their vigor.",
+      "......Only the sunlight itself was of the June Hinamizawa I knew.",
+      "...And yet it seemed like the seasons had switched all of a sudden."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………………………。」"
+    ],
+    "textEn": [
+      "\"..................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そんな落ち葉や朽ちかけた雑草を見ていると、小さな昆虫たちが何匹か、仰向けになって転がっていた。",
+      "……ぴくりとも動かない。",
+      "死骸だった。",
+      "………よく見れば、その死骸はあちらこちらにバラバラと散らばり、…まるで子供が標本に集めた虫をバラ蒔いたかのようであった…。",
+      "……この異臭は…何なんだろう。",
+      "卵を煮焦がしたような…嫌な臭い。",
+      "…そしてたくさんの虫の死骸と、季節外れの落ち葉を散らす木々。",
+      "……………除草剤とか殺虫剤でも散布したのだろうか。",
+      "……学校なんかでも、年に１〜２回、殺虫消毒とか言って薬で虫を燻り出すというし…。",
+      "さっきから、こんなに明るいのに誰とも行き会わない。",
+      "真昼間なのに、……まるで深夜を徘徊しているような錯覚に陥ってしまう。",
+      "こんなに表が臭いなら、誰も表なんか歩きたくないに決まってる。",
+      "………一体、何だというんだろう、…これは…。",
+      "…………………何の音も、",
+      "雑音も、",
+      "息吹も聞こえない…静寂の雛見沢。",
+      "ここを曲がれば、……もうすぐ、学校が見えてくるはずだ。",
+      "…なのに、何のざわめきも聞こえない。",
+      "……子供独特の騒ぎ声も奇声もない。",
+      "…………ただただ、…静かだった。",
+      "その静けさを、無関心を装って無視するのにも…そろそろ耐え難くなってきた頃、…学校が見えてきた。",
+      "そこで、俺はようやく音を聞くことができた。",
+      "……それは、何台かのトラックの音だった。",
+      "何台かの車高のとても高いトラックがアイドリング状態で校庭に停車しているのだ。",
+      "そして１０人くらいの、…雨ガッパの作業員がその荷台から荷降ろしをしていた。",
+      "…俺みたいなラフな格好でも蒸し暑いと思うのに…あれではたまったものではないだろう。",
+      "……そうだ、思い出した。",
+      "うちの学校は営林署の建物を間借りしてるんだもんな。",
+      "…校庭に営林署のトラックが入って作業をしてても、何の不思議もないのだ。",
+      "…そもそも、……営林署の人って、どんなことをする仕事なんだろう。",
+      "………こんな暑く、…嫌な臭いが充満する中でも働かなくてはならない彼らが気の毒だった。",
+      "彼らは、トラックに積まれたカラフルな積荷を次々に校庭に並べていた。",
+      "荷物は……色とりどりのツギハギみたいな袋に入った、結構大きなものだった。",
+      "しかも重いものらしく、２人１組で運んでいる。",
+      "それを、まるで魚河岸のまぐろ市場のように、整然と並べているのだった。",
+      "そのまぐろがいくつもいくつも何百も、…結構広い校庭全体にぎっしりと広がっていた。",
+      "…全身が痛むのもしばし忘れ、……俺はこの初めて見る営林署の大仕事に目を奪われていた…。",
+      "ぼー…っと、校門前に突っ立っている内に、…校庭のずっと向こうで働いている雨ガッパの人たちが俺に気が付いたようだった。",
+      "……俺を指差して、盛んに言葉を掛け合っている。",
+      "………仕事の邪魔をするなと怒られるな…そう思い、足早に立ち去ろうと思った。",
+      "その時、後ろからトラックが２台やって来た。",
+      "俺が道を開けると、校庭に入っていく。",
+      "……荷台にはシートがかぶせられているが、積荷は満載であることがわかった。",
+      "……そのトラックが通り抜ける時のものすごい汚臭に鼻が曲がりそうになる。",
+      "……それはさっきからの焦げ卵の臭いとはまた異なる…蟹味噌を腐らせたような最低の臭い。",
+      "何なんだ一体…。",
+      "……今日は何だってこんなに異臭や悪臭ばかり立ち込めてるんだ。",
+      "その時、通り過ぎるトラックの横腹に書かれた白い文字の一部が目に飛び込んだ。",
+      "「陸上自衛隊」",
+      "……………え？",
+      "自衛隊って、…軍隊の自衛隊？",
+      "そんなのが、何で校庭に…？"
+    ],
+    "textEn": [
+      "Looking at the fallen leaves and rotting weeds led me to spot a few small insects turned on their backs.",
+      "...They weren't moving.",
+      "They were corpses.",
+      "......I looked closer to see insect corpses scattered all around... like a child had collected them as samples and then strewn them about...",
+      "...This stench... What was it?",
+      "It was terrible... like burned eggs.",
+      "...Combined with all the bug corpses and leaves falling from the trees in summer.",
+      "......Had someone sprayed herbicides or pesticides around here?",
+      "...Even at school, we apparently fumigate—they call it pest disinfection or something—once or twice a year...",
+      "I hadn't run into anybody, despite how bright it was outside.",
+      "It was mid-afternoon... and yet it felt like I were sauntering about at midnight.",
+      "Well, with this smell, nobody would want to be walking around outside.",
+      "...Just what was this... anyway...?",
+      ".........There was no sound,",
+      "no noise,",
+      "not even a breath... Hinamizawa was silent.",
+      "The school would come into view... right after turning this corner.",
+      "...And yet I couldn't hear any commotion at all.",
+      "...None of the shouts or grunts that children always made.",
+      "......It was simply... quiet.",
+      "Just as pretending to ignore the silence... had grown intolerable... I saw the school.",
+      "And finally I heard something.",
+      "...It was the sound of a few trucks.",
+      "There were a few very tall trucks parked in the schoolyard, idling.",
+      "About ten workers in raincoats... were unloading things from their trunks.",
+      "...It was hot and humid even in my casual clothing... I couldn't imagine how unbearable that must have been.",
+      "...And then I remembered.",
+      "Our school was rented from the forest service field office building, wasn't it?",
+      "...It wasn't strange at all for forest service trucks to be doing some kind of work in the schoolyard.",
+      "...Besides... What did forest rangers do, anyway?",
+      "......I felt bad for them having to work in such heat... and with such a stench about.",
+      "They were taking colorful cargo out of the truck and lining it up in the schoolyard.",
+      "They were containers... fairly large ones, inside multicolored, patchwork bags.",
+      "Heavy, too—they were being carried in pairs.",
+      "They lined them up very neatly, like tuna at a riverside fish market.",
+      "Several, dozens, hundreds of tuna... were completely filling the fairly wide schoolyard up.",
+      "...I forgot my pain for a little while... captivated by this big forest ranger job I'd never seen before...",
+      "As I stood there, watching in a daze... the people in raincoats working on the other side noticed me.",
+      "...One of them pointed me out and they shouted a few things back and forth.",
+      "......I thought they might yell at me for getting in their way... so I decided to leave post haste.",
+      "But then, two trucks drove up behind me.",
+      "I stepped aside and they entered the schoolyard.",
+      "...Sheets covered their trunks, but I could tell they were completely full.",
+      "...As they passed, there was an awful smell that made me want to choke.",
+      "...It wasn't the same burned eggs smell as before... but an even worse one, like rotten crab meat.",
+      "What on earth was it?",
+      "...I'd been enshrouded in one terrible stench after another all day.",
+      "Then, certain white letters emblazoned on the side of the passing trucks caught my eye.",
+      "\"Ground Self-Defense Forces\"",
+      "......What?",
+      "Self-defense forces... Like the army?",
+      "Why was the army in the schoolyard...?"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Group Member",
+    "labelJp": "隊員",
+    "textJp": [
+      "「おい君！",
+      "どこから入ってきた？！」"
+    ],
+    "textEn": [
+      "\"Hey, you!",
+      "Where did you come from?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然、後ろから俺の肩を強く叩かれた。",
+      "振り返ると…幌を被った自衛隊のジープが停まっていた。",
+      "…その自衛隊の人は緑の雨ガッパのようなものに、映画で見たような防毒マスクを被り、ボンベを背負っていた。",
+      "…肌の露出は一切なく、その身なりはとても異様だ。"
+    ],
+    "textEn": [
+      "Suddenly, someone slapped me on the shoulders from behind.",
+      "I turned around... and a canopied SDF jeep was parked there.",
+      "...The SDF person had on a green raincoat and a gas mask like in the movies, carrying a compressed air cylinder.",
+      "...He didn't look normal—there wasn't an inch of exposed skin anywhere."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………どこから入ってきたって、……いてててて……。」"
+    ],
+    "textEn": [
+      "\"......Where did I... Oww, ow...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "しゃべろうとしたら、頭の傷が引きつって痛んだ。",
+      "…その仕草を見て、自衛隊の人たちが顔を見合わせていた。",
+      "……表情はマスクで全然わからないが、…驚いているように見えた。"
+    ],
+    "textEn": [
+      "When I tried to talk, I stretched a wound on my head.",
+      "...It made the SDF people exchange glances.",
+      "...I couldn't see their faces through their masks... but they seemed surprised."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Group Member",
+    "labelJp": "隊員",
+    "textJp": [
+      "「君は雛見沢の住民か？",
+      "住所と名前は言えるか？」"
+    ],
+    "textEn": [
+      "\"Do you live in Hinamizawa?",
+      "Can you tell us your name and address?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………一応、ここに住んでますけど。",
+      "…名前は…前原、圭一です。",
+      "…あ、住所は、鹿骨市雛見沢村ＸＸＸ番地…。」"
+    ],
+    "textEn": [
+      "\"......Well, yeah, I sort of live here.",
+      "...My name... is Keiichi... Maebara.",
+      "...Oh, and my address... ___ Hinamizawa Village, Shishibone...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺が躊躇なく名前と住所を言い出したのを見て、ジープから様子を伺っていた自衛隊の人が、無線機にしゃべり出す。"
+    ],
+    "textEn": [
+      "After seeing me tell them my name and address without hesitation, one of the SDF people watching from the jeep started talking into a radio."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Group Member",
+    "labelJp": "隊員",
+    "textJp": [
+      "「…本部、応答願います。",
+      "本部、応答願います。",
+      "４０２、生存者発見。",
+      "繰り返す、４０２、生存者発見。",
+      "場所は営林署入口前。」"
+    ],
+    "textEn": [
+      "\"...Base, do you read?",
+      "Base, do you read?",
+      "We have a 402—survivor discovered.",
+      "I repeat, we have a 402, we've found a survivor.",
+      "He's in front of the forest service office.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "「本部了解。",
+      "生存者を至急保護されたし。",
+      "生存者の容態は。」"
+    ],
+    "textEn": [
+      "\"This is Base, we copy.",
+      "Secure the survivor at once.",
+      "What is his status?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Group Member",
+    "labelJp": "隊員",
+    "textJp": [
+      "「生存者は健在。",
+      "全身に外傷認められるも、生命に支障なし。",
+      "自立歩行可能。",
+      "これより保護し本部へ送致します。」"
+    ],
+    "textEn": [
+      "\"Healthy.",
+      "Wounded all over, but not fatally.",
+      "He can walk on his own.",
+      "We'll send him to HQ for safety.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………警察に世話になる覚悟はあったが…、…自衛隊にとは……。",
+      "…さすがに行き過ぎだと思った。",
+      "彼らに促されるまま、ジープの後ろに乗せられる。",
+      "それから…みんながしているでっかい防毒マスクを被るように指示された。",
+      "…大人しく被ると、それを隊員の人がいじり、バンド等を止めてぎゅっと締めてくれた。",
+      "……重くて視界が狭くて、暑くて息苦しい。",
+      "…レンズごしに見る世界は…それだけで現実感が喪失していた。",
+      "自分の呼吸音が、コーハー、コーハーと、まるで怪物の息吹のように聞こえた。",
+      "……何が何やら…もう本当にわからない。",
+      "俺のマスクを調整している隊員の人に…恐る恐る聞いてみた。"
+    ],
+    "textEn": [
+      "...I was prepared to go along with the police... but the SDF...",
+      "...I couldn't help but think it seemed a little bit much.",
+      "They urged me into the back of the jeep.",
+      "And then... they told me to put on this gigantic gas mask.",
+      "...I did so, and one of the troops fiddled around with it, strapping it tightly to me.",
+      "...It was heavy, hard to see out of, hot, and difficult to breathe.",
+      "...Just looking at the world through the lenses... made it lose its sense of reality.",
+      "My breathing sounded like some giant monster through the mask.",
+      "...At this point... I had no idea what was happening.",
+      "With much trepidation... I asked the trooper adjusting my mask."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……あの、……すみません。",
+      "………何かあったんですか……？」"
+    ],
+    "textEn": [
+      "\"...Umm... Excuse me.",
+      "...Has something happened...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Group Member",
+    "labelJp": "隊員",
+    "textJp": [
+      "「君はどこにいたんだ？",
+      "何をしていたんだ？」"
+    ],
+    "textEn": [
+      "\"Where were you?",
+      "What were you doing?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…質問に質問で返されると困る…。",
+      "聞きたいのはこっちなのに…。"
+    ],
+    "textEn": [
+      "...Hey, don't answer a question with more questions...",
+      "I was the one asking you.."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………ずーっと山に入ったところにある吊り橋から…落っこちて。",
+      "……河原で、多分気絶してました。",
+      "……今日が何曜日かもよくわからないです。」"
+    ],
+    "textEn": [
+      "\"...I, umm... fell from a rope bridge way back in the mountains.",
+      "...I think I passed out on the river bed.",
+      "...I don't actually know what day it is.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Group Member",
+    "labelJp": "隊員",
+    "textJp": [
+      "「今日は昭和５８年の６月２２日。",
+      "水曜日だ。」"
+    ],
+    "textEn": [
+      "\"Today is June 22nd, 1983.",
+      "Wednesday.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…驚く。",
+      "……俺が沙都子に突き落とされたのは、２１日の火曜日。",
+      "……つまり俺は…あの河原でたっぷり丸一日は眠っていたのだ。"
+    ],
+    "textEn": [
+      "...That surprised me.",
+      "...Satoko pushed me off the bridge on Tuesday the 21st.",
+      "...That meant... I'd been asleep on that river bed for an entire day."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……改めて聞きますけど、…何があったんですか？",
+      "何で自衛隊が来てるんです？",
+      "何かの訓練ですか？」"
+    ],
+    "textEn": [
+      "\"...Forgive me for asking again, but... did something happen?",
+      "Why is the SDF here?",
+      "Is this a drill?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Group Member",
+    "labelJp": "隊員",
+    "textJp": [
+      "「…………………………………。」"
+    ],
+    "textEn": [
+      "\"..................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……俺の質問は、そんなにも世間ズレていたのだろうか。",
+      "…隊員の人たちは応えてくれなかった。",
+      "運転席でさっき無線とやり取りをしていた隊員が、車のラジオを付けた。",
+      "…チューニングを合わせ、どこかの放送局につなぐ。",
+      "……聞きなれたラジオのアナウンサーの声が聞こえてきた…。"
+    ],
+    "textEn": [
+      "...Had my question been that difficult for him?",
+      "...None of the troopers would answer me.",
+      "The one in the driver's seat talking on his own radio turned on the vehicle's.",
+      "...He turned the dial and some broadcast station or another came in.",
+      "...I started to listen to the voice of a radio announcer I was familiar with..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「…より首相官邸で行なわれました。",
+      "記者団からの、自衛隊の災害出動が迅速に行なわれなかったことが、",
+      "前例のない未曾有の大災害に直結したのではないかとの質問に対し奥野官房長官は、次のようにコメントしました。」"
+    ],
+    "textEn": [
+      "\"...was conducted at the prime minister's office.",
+      "In regards to questions from the press that the SDF not responding to the disaster promptly",
+      "was directly related to this unprecedented, unheard-of catastrophe, Chief Cabinet Secretary Okuno had this to say.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okuno",
+    "labelJp": "奥野",
+    "textJp": [
+      "「〜でありまして…、県知事からの派遣要請を受けて、迅速に対応したものと思っております。」"
+    ],
+    "textEn": [
+      "\"~and so... I believe that once the SDF received the dispatch order from the prefectural governor, they responded promptly.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「と、このように述べ、要請を受けてからの自衛隊の出動は迅速であった。",
+      "むしろ県側の事態把握に遅れがあった可能性を示唆しました。"
+    ],
+    "textEn": [
+      "\"According to him, the SDF was prompt to respond to the crisis after receiving their orders.",
+      "He implied that it was the prefecture's responsibility for taking too long to comprehend the situation."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "そもそも自衛隊の派遣を要請した県知事は、災害発生から前例のない大災害であることをいつ認識できたのか。",
+      "そして災害派遣要請までに、いわゆるお役所的なロスタイムが生じ、被害の拡大を招いたのではないか。",
+      "今後の究明が待たれています。」"
+    ],
+    "textEn": [
+      "When did the governor who requested the SDF's dispatch actually become aware of the outbreak of such an unprecedented catastrophe?",
+      "And did he not invite further damage because of the time lost before he sent the request for disaster relief—in other words, because of the bureaucracy?",
+      "We are awaiting further investigation into the matter.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「首相官邸より報道部の緒方記者がお送りしました。",
+      "さて、ここでもう一度、災害発生からの行政の対応を振り返ります。」"
+    ],
+    "textEn": [
+      "\"That was Mr. Okada, reporting from the prime minister's official residence.",
+      "At this point, we can take another look at the political response following this disaster.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "６月２１日から２２日にかけての深夜。",
+      "鹿骨市雛見沢村にて大規模な災害が発生。",
+      "詳細はまだ究明されていないが、雛見沢村地区の某所から猛毒の火山性ガスが噴出。",
+      "比重の重いガスが溢れ出し、ガス流となった。",
+      "ガス流は沢沿いに下り、雛見沢村地区を直撃。数時間をかけて全地区を覆った。",
+      "時刻は深夜。",
+      "午前２時〜４時。",
+      "雛見沢村の全戸、全世帯が罹災。",
+      "住民のほとんどは睡眠中で、災害に気付くことなく死亡したと推定。",
+      "深夜の就寝中の大災害が、その発覚を遅れさせたのである。",
+      "…だが、その災害に気付ける小さな機会もあった。",
+      "午前３時。",
+      "興宮の新聞販売店が、朝刊を運ぶ車を雛見沢村の出張所に送っていた。",
+      "いつもなら到着すると伝えてくる事務連絡の電話が、その日に限り、なかった。",
+      "新聞販売店店主は電話を繰り返すが、応答がない。",
+      "様子を見てくるように、長男を向かわせたが、これも音信不通になった…。"
+    ],
+    "textEn": [
+      "In the middle of the night, between June 21 and June 22.",
+      "A large-scale disaster broke out in Hinamizawa Village, Shishibone.",
+      "The details have not yet been investigated, but there was an eruption of volcanic gas from somewhere in the Hinamizawa area.",
+      "The gas was relatively heavy, and as it spewed out, it began to flow.",
+      "That flow went down along a small river and headed directly into Hinamizawa Village. After a few hours, it had covered the entire region.",
+      "It happened in the middle of the night.",
+      "2:00 to 4:00 AM.",
+      "Every home and household in the village was afflicted.",
+      "With most of the residents asleep, it is thought that all died without noticing the crisis.",
+      "The catastrophe striking in the middle of the night caused its detection to come too late.",
+      "...But there was still one small opportunity to have noticed it.",
+      "3:00 AM.",
+      "A news dealer's shop in Okinomiya sent a vehicle carrying the morning newspaper to its branch office in Hinamizawa.",
+      "Usually the shop would be contacted upon the vehicle's arrival, but this morning, that didn't happen.",
+      "The news dealer's shop made repeated calls, but got no response.",
+      "The shopkeeper sent his eldest son to check on things, but they lost contact with him as well..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「…非情に悔やまれています。",
+      "この時点で警察か消防への連絡があったなら、事態はもっと改善されていた可能性が高いでしょう。",
+      "少なくとも、村全滅という惨劇は免れた可能性があります。」"
+    ],
+    "textEn": [
+      "\"...It is extremely regrettable.",
+      "If they had contacted the police or fire department at this point, it is highly possible the situation would have turned out more positively.",
+      "At the very least, it's possible that a portion of the village might have been saved from tragic annihilation.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "午前６時。",
+      "雛見沢村地区に近い住民から、卵の腐乱臭、めまい・吐き気・頭痛などを訴える１１９番通報が続々と入った。",
+      "消防司令部は同様の通報がが同時多発的に、限定された地域から発生したことから、",
+      "化学薬品を積載したトラック等の事故によるものではないかと推測、地元警察に通報した。",
+      "午前６時半。",
+      "雛見沢村地区に巡回に向かった警邏車から、卵の腐乱臭を伝える連絡を最後に通信途絶。",
+      "地元警察は致死性の高いガスによる広域災害の可能性があるとして、午前７時１５分、県と県警本部に通報した。",
+      "午前８時。",
+      "知事は近県へ視察旅行中であったため、規定に従い県環境防災部長が臨時の本部長となり災害対策本部を設置した。",
+      "だが、知事への連絡が付かず、その対応は遅れに遅れた。"
+    ],
+    "textEn": [
+      "6:00 AM.",
+      "Residents in areas in the same region began continuously calling 119 to report the smell of rotten eggs, dizziness, nausea, and headaches.",
+      "The fire department received the same reports, all from the same confined region.",
+      "They speculated a truck loaded with chemicals may have gotten into an accident and reported it to the local police.",
+      "6:30 AM.",
+      "Contact was lost with a patrol car on duty in the Hinamizawa area after the officer reported the smell of rotten eggs.",
+      "The local police considered the possibility of a large-scale disaster involving highly lethal gas and reported it to the prefecture and prefectural police at 7:15 AM.",
+      "8:00 AM.",
+      "The governor was travelling to nearby prefectures for inspection, so in accordance with regulations, the prefectural environmental disaster prevention chief was provisionally escalated to director-general and set up a disaster countermeasures office.",
+      "However, without contacting the governor, the countermeasures came too late."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「近年、市民団体によって指摘されていますが、議員待遇者との視察旅行は完全に親睦を目的にしたもので、酒宴三昧だと噂されています。"
+    ],
+    "textEn": [
+      "\"As has recently been pointed out by citizens' groups, his trip with honorary Diet members to inspect other prefectures was based solely on good relations, and it's rumored they preoccupied themselves with a drinking party."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "近い筋の話では、知事は徹夜で飲んだくれて、泥酔状態で就寝していたそうです。",
+      "環境部長から電話があった時も泥酔していて、まったく取り合ってもらえなかったのだそうです。」"
+    ],
+    "textEn": [
+      "Sources closer to him claimed the governor had been drinking all night, and had gone to sleep in a drunken state.",
+      "He was completely drunk when the environmental chief phoned him as well, and apparently he could not get him to pay any attention to the matter.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こうして行政は、知事が事態を把握し、酔いから醒めるまでの約１時間の間、情報収集に徹するのみとなってしまう…。"
+    ],
+    "textEn": [
+      "And so it took about hour for the governor to sober up, gain an understanding of the situation, and gather information..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「知事は言うに及びませんが、知事不在時には本部長を務めることになる環境部長にも、怠慢の責任が問われるでしょう。",
+      "また県としても大災害を想定したマニュアルが用意されておらず、対応が常に後手に回ってしまったのが致命的でした。」"
+    ],
+    "textEn": [
+      "\"Though not as extreme as the governor's case, the environmental chief who became director-general in the governor's absence will likely also be questioned about his negligence.",
+      "In addition, without any procedures in place on the prefecture's side that predicted catastrophes this massive, they would always react too late, and that ended up being fatal.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "午前９時１２分。",
+      "県警本部の助言を受け、県知事は自衛隊に災害派遣を要請。",
+      "ガス防護の装備を持った化学防護隊が到着した時には、災害発生から実に８時間以上が経過していた…。"
+    ],
+    "textEn": [
+      "9:12 AM.",
+      "On the advice of the prefectural police, the governor requested a disaster relief mission from the SDF.",
+      "By the time the Chemical Defense Unit, equipped with protective equipment, arrived on the scene, eight hours had already passed since the incident's outbreak..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「とにかく、深夜の就寝中というのが不運でした。",
+      "同じ災害でも日中に起こっていれば、まったく違ったでしょう。」"
+    ],
+    "textEn": [
+      "\"Whatever the case may be, it was unfortunate this happened while everyone was sleeping in the middle of the night.",
+      "Had the same disaster occurred during the day, it likely would have been entirely different.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "雛見沢村地区の全世帯が、全滅。",
+      "犠牲者は１０００人以上。",
+      "自衛隊が現在、被害状況を確認中だが、その結果さらに犠牲者数は増えるものと予想される…。"
+    ],
+    "textEn": [
+      "All households in the Hinamizawa Village region were wiped out.",
+      "There were over one thousand victims.",
+      "The SDF is still confirming the situation on the ground, but their results are predicted to only increase that number..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「スタジオにはゲストとして、火山性の災害にお詳しいＸＸ大学教授の藤原先生にお越しいただいております。",
+      "…先生、このような恐ろしい毒ガスが突然湧き出すようなことはあるのでしょうか。」"
+    ],
+    "textEn": [
+      "\"Here with us in the studio today is Dr. Fujiwara, a professor at ____ University who is well-acquainted with volcanic disasters.",
+      "...Doctor, can such a sudden and horrible outburst of poisonous gas actually happen?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Fujiwara",
+    "labelJp": "藤原",
+    "textJp": [
+      "「火口部に限定して申し上げれば、決して珍しいことではありません。"
+    ],
+    "textEn": [
+      "\"It isn't at all unusual for this to happen right around craters, at least."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Fujiwara",
+    "labelJp": "藤原",
+    "textJp": [
+      "火山大国日本にはたくさんの活火山がありますが、",
+      "それらの火口部はいずれも危険なガスの噴出する危険性があり、一般登山者も火口部周辺には立ち入らないのが一般的です。」"
+    ],
+    "textEn": [
+      "Japan is a volcanic nation, and so has many active volcanoes.",
+      "There is always a danger of hazardous gas around any of these craters, and it's generally a rule among mountain climbers not to go near them.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「では今回、雛見沢村を襲った卵の腐乱臭のするガスというのも、火口部では一般的なガスということですか？」"
+    ],
+    "textEn": [
+      "\"Does this mean the rotten egg smell that visited Hinamizawa Village was the normal sort of gas from volcanic craters?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Fujiwara",
+    "labelJp": "藤原",
+    "textJp": [
+      "「卵の腐乱臭という特徴から、恐らく火山ガスの中でも事故例の多い硫化水素によるものだと考えられます。",
+      "高い濃度であれば、非常に危険なものです。」"
+    ],
+    "textEn": [
+      "\"Judging by how it smelled like rotten eggs, we think it was hydrogen sulfide, a gas seen particularly frequently in accidents compared to other volcanic gases.",
+      "If it's dense, it becomes extremely dangerous.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「雛見沢村は火山の火口部とはまったく縁遠い場所にあるわけですが、",
+      "そういった火口部でない場所にもその硫化水素が発生することがあるのでしょうか？」"
+    ],
+    "textEn": [
+      "\"Hinamizawa Village is very far away from the craters of any volcanoes.",
+      "Can hydrogen sulfide be generated even from a place not close to a crater?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Fujiwara",
+    "labelJp": "藤原",
+    "textJp": [
+      "「詳しいことがわかっていないので、まだはっきりとしたことは申し上げられませんが……。",
+      "外国の例で、温泉の地下のマグマ溜りからガスが噴出したという記録があります。",
+      "極めて希少な例ですが、必ずしも火口部でなくても発生の可能性はあるということです。」"
+    ],
+    "textEn": [
+      "\"I don't know all the details, so I can't say anything concrete...",
+      "But in other countries, there are records of gas eruptions due to magma buildup under hot springs.",
+      "It's an extremely rare event, but it is possible for such a thing to happen even in a region not near craters.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「先生、ありがとうございました。",
+      "…今、防衛庁から発表があった模様です。",
+      "防衛庁の森川さん？」"
+    ],
+    "textEn": [
+      "\"Thank you very much, Doctor.",
+      "...We appear to have an announcement from the Japan Defense Agency.",
+      "Miss Morikawa, are you there?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Morikawa",
+    "labelJp": "森川",
+    "textJp": [
+      "「ハイ、防衛庁です。",
+      "先ほど防衛庁は雛見沢村ガス災害の主原因となった火山性ガスについて、",
+      "陸上自衛隊化学学校での分析の結果、二酸化炭素と硫化水素の混合ガスによるものだったと発表しました。」"
+    ],
+    "textEn": [
+      "\"Yes. I'm at the Japan Defense Agency.",
+      "The agency has just made an announcement regarding the source of the Hinamizawa Village gas disaster.",
+      "Analysis from the Ground Self-Defense Force's Department of Chemistry has found that the gas was a mixture of carbon dioxide and hydrogen sulfide.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「森川さん、そのガスは依然として噴出を続け、周囲に拡大しているのでしょうか？」"
+    ],
+    "textEn": [
+      "\"Miss Morikawa, do you know whether the gas is still erupting or spreading to nearby areas?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Morikawa",
+    "labelJp": "森川",
+    "textJp": [
+      "「現在、雛見沢村で救助活動に入っている自衛隊第９師団の報告として、ガスの濃度は徐々に薄まりつつある。",
+      "これ以上の被害の拡大はないと発表しました。"
+    ],
+    "textEn": [
+      "\"According to the SDF's 9th division, who are currently engaged in a rescue operation at Hinamizawa Village, the gas density is steadily decreasing.",
+      "They've announced that the damage will not spread."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Morikawa",
+    "labelJp": "森川",
+    "textJp": [
+      "ですが、依然、雛見沢村地区は危険な状態にあることには変わりなく、今後も注意深く監視を続ける必要があるようです。」"
+    ],
+    "textEn": [
+      "However, it does not change the fact that surrounding areas are still in danger, and that very strict observation must be maintained.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Announcer",
+    "labelJp": "アナウンサー",
+    "textJp": [
+      "「防衛庁から報道部の森川記者がお伝えしました。",
+      "続きまして、避難を余儀なくされている興宮地区住民の模様をリポートします。",
+      "現在、避難所のひとつとなっている下篠崎小学校に報道部の……、ザザ、……者が…ってい、…ザザ…ザ、」"
+    ],
+    "textEn": [
+      "\"That was Morikawa from the Japan Defense Agency.",
+      "And now we have a report on the state of those who have been made to evacuate the Okinomiya area.",
+      "Shimoshinozaki Elementary School is one of the evacuation sites, and we currently have a reporter on... bzzz... scene... bzzz... bzzz...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………なんですか、",
+      "……………それ。」"
+    ],
+    "textEn": [
+      "\".........Wait.........",
+      "what?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ガタンゴトンと粗い路面に跳ねるジープの中で、…俺の呟きに応えてくれる人はいなかった。",
+      "未曾有の大災害により、",
+      "……雛見沢が…一夜にして滅んだって…？",
+      "雛見沢村って、どこの村だよ。",
+      "…きっとどこかの遠い山奥のことだろ…？",
+      "ラジオに出てくる地名なんていつもそうだ。",
+      "…どこのことやら、…わからない…聞いたこともない地名ばかり………。",
+      "全滅…？",
+      "全滅って、どういう意味だよ…？",
+      "よく…死者何名、負傷者何名なんて言うだろ…？",
+      "生きてる人は何人いるんだよ？",
+      "みんなは…どこへ避難してるんだよ…？",
+      "やがて、前方に見えてきたのは…監督の診療所だった。",
+      "診療所の国旗掲揚のポールに旗がかけてあるとことなんか初めて見た。",
+      "……日本の、日の丸の国旗がくたびれたかのように垂れ下がっていた…。",
+      "診療所の広い駐車場には自衛隊のテントがたくさん張られ、物々しい車両が何台も停められていた。",
+      "ジープが来たことを認めると、診療所の中から防毒マスクを付けた白衣の人たちが担架を持ってバラバラと走ってくる。"
+    ],
+    "textEn": [
+      "Inside the jeep clambering and bouncing along the rough road... none answered my muttered question.",
+      "An unprecedented catastrophe...",
+      "had destroyed Hinamizawa... in a single night...?",
+      "Where was Hinamizawa Village, anyway?",
+      "...Some place deep in the mountains, right...?",
+      "Names of places I'd heard about on the radio were always like that.",
+      "...They were all places... I'd never heard of... much less knew the locations of...",
+      "Wiped out...?",
+      "What does that mean...?",
+      "Don't... they usually say how many died, and how many were injured...?",
+      "How many people were alive?",
+      "Where... where did everyone evacuate to...?",
+      "Eventually we came into view... of Coach's clinic.",
+      "For the first time, I saw the flag of Japan hanging on a pole outside.",
+      "...Japan's circular sun hung down as though exhausted...",
+      "Many SDF tents were set up in the clinic's big parking lot, and many strict security vehicles were parked there as well.",
+      "When they saw the jeep coming, men in white clothing and gas masks came running out of the clinic, frantic, carrying a stretcher."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Doctor",
+    "labelJp": "医者",
+    "textJp": [
+      "「もう大丈夫だよ。",
+      "具合は？",
+      "歩けるかい？」"
+    ],
+    "textEn": [
+      "\"You're going to be all right.",
+      "How do you feel?",
+      "Can you walk?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………歩けます。",
+      "…いてて……。」"
+    ],
+    "textEn": [
+      "\"......Yes.",
+      "...Ow, oww...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "いてて…なんて言ったばかりに、彼らは俺を無理やり担架に横たわらせた。",
+      "……医者らしい人が無線機で俺の様子を見ながら容態を連絡している。"
+    ],
+    "textEn": [
+      "And because of my \"oww\"s, they forced me to lay in the stretcher anyway.",
+      "...People who seemed like doctors were looking at me and notifying others of my condition via radio."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Doctor",
+    "labelJp": "医者",
+    "textJp": [
+      "「外傷多数。",
+      "骨折もしくは内臓損傷の可能性大。",
+      "頭部に大きな裂傷。",
+      "瞳孔正常、眼底に出血なくも脳内損傷の可能性は否定できず…。」"
+    ],
+    "textEn": [
+      "\"Multiple wounds.",
+      "High possibility of fractures and internal damage.",
+      "Large laceration in the head.",
+      "Pupils normal, but even without bleeding from the fundus, brain damage is still possible...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その時、…診療所の入口から、担架に横たえられた人たちが、俺とは入れ替わりに表へ出されてきた。",
+      "…………服装の雰囲気から、雛見沢の住人、",
+      "…犠牲者だとわかる。",
+      "その担架はトラックの前に停められる。",
+      "…二人の隊員の人が、肩と足を持ち、…まるで荷物みたいに…ひょいっと、トラックの荷台に投げ上げて……。"
+    ],
+    "textEn": [
+      "And then... from the clinic entrance, people lying on stretchers were brought outside to replace me.",
+      "......Judging by their clothing, they were from Hinamizawa...",
+      "and that's how I knew they were victims.",
+      "They brought the stretchers in front of a truck.",
+      "...Two troops, holding shoulders and legs... like some kind of baggage... picked them up and threw them into the trunk..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………わ、…………ああぁ……、……あぁああぁああぁぁぁあぁ………。」"
+    ],
+    "textEn": [
+      "\"......Wha...... ahh...... aaaaaahhhhhhhh......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…トラックの荷台には、……人の体が、…累々と積まれていた。",
+      "…そのあまりに荷物的な扱いが、……すでに骸であることを悟らせる。",
+      "その瞬間、…色とりどりのズタ袋を荷台に満載して",
+      "………",
+      "学校の校庭に…魚河岸のように並べられていた…あの光景が……蘇る…。",
+      "何百という、………骸。",
+      "…死体",
+      "…死体",
+      "…死体、",
+      "…死体",
+      "…死体",
+      "…死体、",
+      "…死体",
+      "…死体",
+      "…死体、",
+      "…死体ッ！！！"
+    ],
+    "textEn": [
+      "...In the trunk of the truck... people's bodies... piled in heaps.",
+      "...They were just like baggage... and that told me they were already nothing but shells.",
+      "At that moment... I remembered... all those colorful sacks filling the trunks...",
+      "...",
+      "and them... lined up in the schoolyard like a fish market...",
+      "Hundreds... of empty shells.",
+      "...Corpses...",
+      "corpses...",
+      "corpses...",
+      "corpses...",
+      "corpses...",
+      "corpses...",
+      "corpses...",
+      "corpses...",
+      "corpses...",
+      "corpses!!!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Doctor",
+    "labelJp": "医者",
+    "textJp": [
+      "「馬鹿ッ！！",
+      "犠牲者を粗末に扱うな！",
+      "彼は村の住民だぞ！」"
+    ],
+    "textEn": [
+      "\"You jackasses!!",
+      "Don't just throw the victims in like that!",
+      "They lived here!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ズタ袋を運んでいた隊員たちがかしこまったように敬礼をして応えた………。",
+      "……こんな狂った雛見沢なんか、死んじまえ。",
+      "俺の、",
+      "……最後の、",
+      "……願いが、",
+      "……またしても、",
+      "…………かなったわけで……。",
+      "…………もう、……わけがわからない……。",
+      "…どうでもいい…。",
+      "………俺が願って、…祟って、……それが次の日にかなうなら。",
+      "…………明日の朝には俺を死なせてくれ。",
+      "……そして、……早く、あの日から未だに終わらない狂った夜を、…終わらせてくれ。"
+    ],
+    "textEn": [
+      "The troops carrying the sacks answered with a humble salute...",
+      "...The world didn't need this insane version of Hinamizawa.",
+      "My...",
+      "my final...",
+      "wish...",
+      "again......",
+      "it was granted...",
+      "......I... didn't understand anything anymore...",
+      "...None of it mattered...",
+      "......I wished... I cursed... and then it happened the next day......",
+      "Then please, tomorrow morning, let me die.",
+      "...That insane night... it's still going on... please, please end it already."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Doctor",
+    "labelJp": "医者",
+    "textJp": [
+      "「………？！",
+      "おい、意識が喪失したぞ！！",
+      "患者の名前を呼びかけろ！",
+      "早くッ！」"
+    ],
+    "textEn": [
+      "\"......?!",
+      "Hey, he's lost consciousness!!",
+      "Shout his name!",
+      "Quickly!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Doctor",
+    "labelJp": "医者",
+    "textJp": [
+      "「前原くん！",
+      "聞こえるかい？！",
+      "聞こえるなら瞬きでいいからしてくれ！！",
+      "前原くん！",
+      "前原くん！",
+      "前原くん！！」"
+    ],
+    "textEn": [
+      "\"Maebara-kun!",
+      "Can you hear me?!",
+      "If you can hear me, just blink!!",
+      "Maebara-kun!",
+      "Maebara-kun!",
+      "Maebara-kun!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "急に、…世界がどうでもよくなる。",
+      "…呼びかけにも興味は湧かなかった。"
+    ],
+    "textEn": [
+      "Suddenly... the world didn't matter to me anymore.",
+      "...I wasn't interested in their cries."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Doctor",
+    "labelJp": "医者",
+    "textJp": [
+      "「呼吸が停止したぞ！",
+      "気道確保！",
+      "人工呼吸！！",
+      "絶対に生かせ！！",
+      "畜生畜生…！！",
+      "もうこれ以上、死者は御免だぞ！！",
+      "死んでもいい命なんかないんだ！！",
+      "殺すな！",
+      "殺すなぁあぁああッ！！」"
+    ],
+    "textEn": [
+      "\"His breathing stopped!",
+      "Get his respiratory tract open!",
+      "Use CPR!!",
+      "Make him live!!",
+      "Damn it, damn it...!!",
+      "No more, no more dead people!!",
+      "Nobody deserves to die!!",
+      "Don't kill him!",
+      "Don't kill hiiiiiiiiiiim!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…耳元で、泣きながら怒鳴る男の声が聞こえる。",
+      "彼の言った、………死んでもいい命なんか、ないんだという、",
+      "心からの言葉。",
+      "そんな、……すごくすごく、…当り前な一言が、…胸に染み入る。",
+      "……沙都子を救うためでも、……人の命を奪うのは…誤りだったのかもしれない。",
+      "…もし、…この大惨事が、……それへの代償なのだとしたら。",
+      "……………そんなのってあんまりだろ、オヤシロさま。",
+      "………………どうして、…俺だけにバチを当ててくれなかったんだよ…。",
+      "……そう言えば、…沙都子、言ってたよな。",
+      "本当のオヤシロさまの祟りってのは、…本人じゃなく、…本人の親しかった人から殺してくんだ、って。",
+      "オヤシロさまの、……祟り。",
+      "…俺の祟りでなく、オヤシロさまの祟りで滅んだと、……最後の最後で都合のいい言い訳。",
+      "……………………担架に横になっているから、当り前なのだが…。",
+      "……最後にひとつだけ気が付いた。",
+      "…",
+      "…",
+      "あ",
+      "ぁ",
+      "、",
+      "…",
+      "…",
+      "…",
+      "…",
+      "…",
+      "今",
+      "日",
+      "は",
+      "も",
+      "う",
+      "、",
+      "…",
+      "…",
+      "あ",
+      "の",
+      "つ",
+      "い",
+      "て",
+      "く",
+      "る",
+      "足",
+      "音",
+      "、",
+      "…",
+      "…",
+      "…",
+      "一",
+      "度",
+      "も",
+      "…",
+      "…",
+      "な",
+      "か",
+      "っ",
+      "た",
+      "ん",
+      "だ",
+      "な…",
+      "。",
+      "俺、……これで、解放されたんだ…。",
+      "聞こえるはずのない、ひぐらしの泣き声が…頭の中にいっぱい広がっていく。",
+      "その泣き声の合奏だけが、…俺への葬送曲だった。"
+    ],
+    "textEn": [
+      "...I could hear the voice of a man crying and screaming in my ears.",
+      "......Nobody deserves... to die.",
+      "Those words came from his heart.",
+      "They were... so, so... commonplace... and they soaked into my heart, too.",
+      "...Maybe it was a mistake... to take someone's life... even if it was to save Satoko.",
+      "...If... if this is the price I had to pay... this horrible tragedy.",
+      ".........Then this is a little much, Oyashiro-sama.",
+      "............Why... why did you never punish me...",
+      "...Come to think of it... Satoko said something.",
+      "Oyashiro-sama's actual curse... never goes for the target at first... but kills everyone they love before that.",
+      "Oyashiro-sama's... curse.",
+      "...It was a convenient excuse I told myself at the very end... that it wasn't my curse that destroyed it, but Oyashiro-sama's.",
+      "............Given that I was in a stretcher, this next bit might have been obvious...",
+      "...But last of all, I realized one thing.",
+      "...",
+      "...",
+      "Y",
+      "e",
+      "a",
+      "h",
+      "...",
+      "...",
+      "...",
+      "...",
+      "T",
+      "o",
+      "d",
+      "a",
+      "y",
+      "...",
+      "...",
+      "...",
+      "I",
+      "had",
+      "not",
+      "heard",
+      "those",
+      "...",
+      "...",
+      "...",
+      "...",
+      "...",
+      "...",
+      "foot",
+      "steps",
+      "following",
+      "me",
+      "...",
+      "...",
+      "...",
+      "...",
+      "ev",
+      "en",
+      "...",
+      "on",
+      "ce",
+      "...",
+      "...",
+      "And now... I was liberated...",
+      "As the cries of the higurashi... I couldn't have been hearing... filled my mind...",
+      "Their tearful ensemble... was the only funeral march I had."
+    ]
+  }
+]

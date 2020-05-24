@@ -1,0 +1,3979 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "下校時間には、たくさんの保護者が迎えに来ていた。",
+      "…さながら幼稚園のようだった。",
+      "親の来ない生徒は集団下校。",
+      "決められた順路に従い、みんなで下校する。",
+      "下校中も、みんなは面白おかしいおしゃべりなどしなかった。",
+      "……まるで黙々と山中を歩く、疲れ切った登山者みたいだった。",
+      "……そうして、ひとり、",
+      "またひとりといなくなり、",
+      "最後には俺とレナだけになった。",
+      "レナを自宅まで送っていくことになっていたが、レナはそれを辞退すると言った。"
+    ],
+    "textEn": [
+      "There were a lot of parents picking up their children after school.",
+      "...It was just like a kindergarten.",
+      "The students whose parents didn't come went home as a group.",
+      "We left school with everyone else, following the assigned route.",
+      "Even while leaving, nobody said anything funny.",
+      "...They all looked like exhausted mountaineers silently marching through the mountains.",
+      "...As we went, one left,",
+      "and then another,",
+      "and in the end it was just Rena and me.",
+      "I was supposed to escort Rena all the way to her house, but she declined."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…本当にいいのか？",
+      "ひとりじゃ無用心だぞ…。」"
+    ],
+    "textEn": [
+      "\"...Will you be all right?",
+      "It's not safe to go alone...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「レナを送った後、ひとりで帰る圭一くんだって同じくらい無用心だよ。",
+      "…まだ明るいんだもの。",
+      "大丈夫。」"
+    ],
+    "textEn": [
+      "\"It would be just as dangerous for you to go home by yourself after bringing me back, Keiichi-kun.",
+      "...It's still light out anyway.",
+      "I'll be fine.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうか。",
+      "……じゃあ、気をつけてな。」"
+    ],
+    "textEn": [
+      "\"I see.",
+      "...Then be careful, okay?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "……あれ？",
+      "…あれ、警察の人じゃないかな？」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "...Huh?",
+      "...Isn't that a policeman?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが俺の家の方を指差す。",
+      "…家の前に車が停めてあった。",
+      "そこから降りてきたのは大石さんだった。",
+      "……俺の帰宅を待ち伏せていたに違いない。",
+      "嫌らしくにやにやと笑いながらこちらにやってくる。"
+    ],
+    "textEn": [
+      "Rena pointed towards my house.",
+      "...There was a car stopped in front of it.",
+      "From out of that car came Ooishi-san.",
+      "...He must have been waiting for my return to ambush me.",
+      "Ooishi-san started walking over wearing that annoying grin."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…レナはもう行きな。",
+      "あいつに絡まれると長い。」"
+    ],
+    "textEn": [
+      "\"...Rena, you should go.",
+      "If you get involved with him, you'll be here for hours.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「で、でも、",
+      "どうして警察の人が圭一くんに用があるんだろ。…だろ。」"
+    ],
+    "textEn": [
+      "\"B-But,",
+      "what do the police want with you? ...With you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………レナはいいヤツだと思った。",
+      "梨花ちゃんの失踪を騒ぎ出した時にも、俺になぜとは聞かなかった。",
+      "…あの時点から、レナは俺を疑ってもよかったのだ。",
+      "でも、今日までレナはあえて聞かないでくれた。",
+      "……俺が打ち明けるまで、急かさないでくれた。"
+    ],
+    "textEn": [
+      "............Rena's a good person.",
+      "Even when I made a fuss over Rika-chan's disappearance, she never asked me why I did.",
+      "...She could have been suspecting me ever since then, and that would have been okay.",
+      "Even so, she still hadn't asked me anything.",
+      "...She didn't try and pressure me into revealing the truth."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………俺は犯人じゃない。」"
+    ],
+    "textEn": [
+      "\"......I'm not the culprit.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そんなの知ってるよ。」"
+    ],
+    "textEn": [
+      "\"I know that.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………でも、",
+      "……事件に、……何の関わりもないとは…言い切れない。」"
+    ],
+    "textEn": [
+      "\"......That said...",
+      "I can't say... that I'm totally uninvolved... with this incident.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはいつもの笑顔で聞いてくれた。",
+      "…事件への関係を臭わせる俺にも、汚いものを見るような目を向けなかった。"
+    ],
+    "textEn": [
+      "Rena simply listened, smiling like she always did.",
+      "...Even though I had insinuated I was related to the incident, she didn't look at me as though she were looking at something dirty."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……今度、話すよ。」"
+    ],
+    "textEn": [
+      "\"...I'll tell you next time.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "……待ってるね。」"
+    ],
+    "textEn": [
+      "\"Okay.",
+      "...I'm looking forward to it.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…じゃ、早く行きな。」"
+    ],
+    "textEn": [
+      "\"...Get going, then.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは会釈してから小走りで駆けて行った。",
+      "…残される俺。",
+      "その眼前にやってくる大石さん。"
+    ],
+    "textEn": [
+      "Rena gave me a slight bow and trotted away.",
+      "...Leaving me...",
+      "alone with Ooishi-san, who walked over."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「どうもどうも。",
+      "お帰りなさい。前原さん。」"
+    ],
+    "textEn": [
+      "\"Hello, hello.",
+      "Welcome home, Maebara-san.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……どうも。」"
+    ],
+    "textEn": [
+      "\"...Hello.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ご家族はお留守みたいですねぇ。",
+      "いやはや、困っていたんですよ。」"
+    ],
+    "textEn": [
+      "\"It looks like your parents aren't here.",
+      "My my, was I in a bit of a spot.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…家にまで来たのか…。",
+      "…両親不在の幸運に感謝するしかない。",
+      "…この時間に２人揃っていないということは、きっと帰りは遅くなるだろう。"
+    ],
+    "textEn": [
+      "...He came all the way to my house...?",
+      "...I could only thank my good fortune that my parents were absent.",
+      "...Since neither of them was around at this hour, they would probably be back late."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…親父の仕事の関係で出掛けてるんだと思います。",
+      "帰りは遅いと思いますよ。」"
+    ],
+    "textEn": [
+      "\"...I think Dad got called out on business.",
+      "I don't think he'll be back until later.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「そうですか。",
+      "それはそれは好都合です。",
+      "…親御さんに変な思いをさせずに済みます。」"
+    ],
+    "textEn": [
+      "\"I see.",
+      "Well, that's convenient, I suppose.",
+      "...We can do this without giving your parents any strange ideas.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石さんが俺の背中を押し、歩くよう促す。",
+      "…どうも自分の車に乗せる気のようだった。"
+    ],
+    "textEn": [
+      "Ooishi-san pushed my back, prompting me to walk.",
+      "...It seemed like he wanted me to get in the car."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……警察に連行するんですか。」"
+    ],
+    "textEn": [
+      "\"...Are you taking me to the police station?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…俺は犯人じゃないが、……全ての元凶だ。",
+      "取調べられてもおかしくない。",
+      "そういう意味ではある種の諦めに似た感情もあった…。"
+    ],
+    "textEn": [
+      "...I wasn't the culprit... but I was the cause of everything.",
+      "It wouldn't be weird if he wanted to investigate me.",
+      "That kind of gave me a resigned feeling..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いえいえ、立ち話も何ですから、車の中でお話しようってだけですよ。",
+      "さぁさ、どうぞどうぞ。」"
+    ],
+    "textEn": [
+      "\"No, no, I just don't want to stand around talking—we can just talk in the car, that's all.",
+      "Come now, don't be shy.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "後部座席を開け、入るように勧める。",
+      "……これに乗ってしまったら、簡単には開放されないだろう。",
+      "…だが、……嫌だと言えばこの男のこと、本当に手錠をかけて連れて行くかもしれない。",
+      "……断っても駄目なら、潔くするしかなかった。",
+      "車内は効き過ぎたクーラーと、あまり掃除をしていないフィルターのかび臭い匂いで満ちていた。"
+    ],
+    "textEn": [
+      "He opened the back door and urged me inside.",
+      "...If I got in, I wouldn't have a very easy time getting out.",
+      "...If I said no, however... then this man might really handcuff me and take me away.",
+      "...I couldn't refuse—I could only accept in good grace.",
+      "The inside of the car had been cooled too much by the air conditioner, and there was a rusty smell coming from the filter, which must have been cleaned only rarely."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ありゃ、冷えすぎます？",
+      "切りましょうか。」"
+    ],
+    "textEn": [
+      "\"Oh, is it too cold?",
+      "I'll turn the car off.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "エンジンを切ると、急に静かになり、涼しさと寂しさを持ったヒグラシの声が忍び込んできた。",
+      "……カナカナカナカナカナ。",
+      "それは、自分の浅はかな好奇心が招いてしまった、あまりに大きすぎる代償を嘆く声の合唱に聞こえた。",
+      "しばらくの間、……その声を聞きながら、俺もまた、あの晩から狂い始めてしまった日々を…嘆く。",
+      "大石さんも、俺が自発的に話すのを待っているつもりなのか、タバコに火をつけ、ひぐらしの声に耳を傾けている…。",
+      "沈黙が耳に痛くなり…先に折れたのは俺の方だった。"
+    ],
+    "textEn": [
+      "He turned off the engine and it suddenly became quiet—and the voices of the higurashi, with all their cool loneliness, snuck inside.",
+      "......Kwakwakwakwakwakwakwa.",
+      "It sounded to me like a chorus of voices, lamenting my exorbitant punishment for having harbored such foolish curiosity.",
+      "For a few moments... while listening to those voices, I myself lamented... the days that had been twisted and distorted since that night.",
+      "Ooishi-san, as if waiting for me to voluntarily begin talking, lit a cigarette and listened to the higurashi...",
+      "The silence became deafening... and I was the one who folded first."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……捜査の方はどうなってるんですか。」"
+    ],
+    "textEn": [
+      "\"...How is the investigation going?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「捜査？",
+      "何のですか？",
+      "最近はいっぱいあり過ぎて、どれのことやら。んっふっふ！」"
+    ],
+    "textEn": [
+      "\"The investigation?",
+      "Of what?",
+      "There've been so many. Which do you mean? Nfu-fu!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「全部です。」"
+    ],
+    "textEn": [
+      "\"All of them.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……いいですよ。",
+      "本当は報道管制の敷かれた秘密捜査なんですが、あなたには特別に聞かせてあげましょう。",
+      "…じゃあ最初の事件から行きます？」"
+    ],
+    "textEn": [
+      "\"...Well, all right then.",
+      "They're officially secret investigations, and we're under a media blackout, but I'll let you in on them.",
+      "...Then shall we start from the first incident?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…綿流しの晩の、富竹さんと鷹野さんの怪死。"
+    ],
+    "textEn": [
+      "...The freak deaths of Tomitake-san and Takano-san on the night of Watanagashi."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……こっちはお恥ずかしいかな、…さっぱり進展なしです。"
+    ],
+    "textEn": [
+      "\"......On this one, embarrassingly enough... we haven't made any progress at all."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "まずは富竹さん。",
+      "集団で暴行を受けた形跡はあるのですが、自分の喉を掻き破るなんて異常な死に方の説明がつかないんです。"
+    ],
+    "textEn": [
+      "First of all, Tomitake-san.",
+      "There are indications on his body that he was assaulted by a group of people, but we have no explanation for him clawing out his own throat and dying."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「鷹野さんはどんな感じなんです…？」"
+    ],
+    "textEn": [
+      "\"What about Takano-san...?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「同じくさっぱりです。",
+      "焼死死体は検死が非常〜に困難でして。",
+      "首を絞められた後にガソリンをかけられたんじゃないかと見ています。",
+      "あちらさん、自分たちの縄張りの事件だからって、あんまり協力的じゃないんですよ。",
+      "…おっと、これは関係ない話ですね。」"
+    ],
+    "textEn": [
+      "\"The same—we're in the dark.",
+      "Autopsies for those who are burned to death are reeeeal tough.",
+      "We believe she was doused in gasoline after she was strangled.",
+      "They haven't been very cooperative, even though it happened in our territory.",
+      "...Oh, that's not really relevant, though.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……不可解な死だという以上のことは、何もわかっていないということか。"
+    ],
+    "textEn": [
+      "...So the police didn't know anything other than the fact that the victims died inexplicably."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ですが、犯行時間は概ね、お祭りが終わった直後だろうと見ています。"
+    ],
+    "textEn": [
+      "\"Nonetheless, the times when the incidents occurred have been generally placed right after the festival ended."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……どうして、わざわざ遠くの山まで死体を運んだんでしょう。",
+      "…富竹さんも同じように遠くへ運べばよかったのに…。」"
+    ],
+    "textEn": [
+      "\"...Why would they bring a dead body all the way to the mountains?",
+      "...They should have just brought Tomitake-san out there too...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ありゃ、…前原さん、あなた、なかなかどうして鋭いですねぇ！",
+      "もちろん私もそこは注目すべき点だと思ってますよ。"
+    ],
+    "textEn": [
+      "\"Oh my... Maebara-san, you're quite sharp, you know that?",
+      "Of course, I do believe that is something we need to be attentive of."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…他にもいくつか不審点はありますが、…まぁ現時点でお話できるのはこのくらいです。」"
+    ],
+    "textEn": [
+      "...There are a bunch of other suspicious things... but this is about all I can tell you at this point.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……村長さんの方はどうですか？",
+      "何か手がかりはありましたか？」"
+    ],
+    "textEn": [
+      "\"...How about the mayor?",
+      "Have there been any clues?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "話題が尽きると、次は自分にお鉢が回ってくるかもしれないと思い、次の話題を向ける…。"
+    ],
+    "textEn": [
+      "Having exhausted that topic, I changed the subject... otherwise, he might turn the conversation on me..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「失踪された一日の足取りを調べました。",
+      "…手がかりになるようなものは見つかりませんでしたが、一応、お話しましょうか。」"
+    ],
+    "textEn": [
+      "\"We investigated his movements on the day he disappeared.",
+      "...We didn't find anything that could provide any clues, but I'll tell you about it anyway.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "村長、公由喜一郎。",
+      "…彼は重度の痔を患っていたという。"
+    ],
+    "textEn": [
+      "The mayor—Kiichirou Kimiyoshi.",
+      "...Apparently he was suffering from severe hemorrhoids."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「古い生まれの方って非常にプライドが高いんですよね。",
+      "…それで村長さん、誰にも内緒で鹿骨市内の某大学病院の肛門科に通われていたんです。"
+    ],
+    "textEn": [
+      "\"People who've lived a long time have an unusual amount of pride.",
+      "...So the mayor hadn't been telling anyone that he was going to a proctologist at a certain university hospital in Shishibone."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "失踪当日、村長さんは診察の予約が取ってあったんで朝一で出掛けられました。」"
+    ],
+    "textEn": [
+      "On the day he disappeared, he had an appointment for a checkup, so he went out first thing in the morning.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大学病院みたいな大きい病院は、待ち時間がとても長いことは俺だって知ってる。",
+      "…予約があっても何時間も前から順番待ちをするのは当り前らしい。"
+    ],
+    "textEn": [
+      "Even I knew that big hospitals, like university hospitals, had a really long waiting time.",
+      "...Apparently people would get in line hours beforehand, even if they had an appointment."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「診察が終わったのは午後１時頃です。",
+      "その後、病院内のレストランで軽食を取られ、雑誌を読みながら時間をつぶされました。",
+      "…この辺りのことは自宅にあったお財布の中のレシートでわかってます。」"
+    ],
+    "textEn": [
+      "\"His exam ended at 1 PM.",
+      "After that, he ate a light meal in the hospital restaurant and passed the time reading a magazine.",
+      "...We know this because of a receipt we found in his wallet at his house.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……不審な点はまったくない。"
+    ],
+    "textEn": [
+      "...There was nothing suspicious at all about that."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「その日は夕方から神社の集会所で会合の予定があったんです。"
+    ],
+    "textEn": [
+      "\"That day, he had planned to go to a meeting in the assembly hall in the evening."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…それで余裕を持ってお帰りになるはずだったんですが、途中、電車で人身事故がありましてね。"
+    ],
+    "textEn": [
+      "...He was supposed to return home with plenty of time to spare, but while he was on the train coming back, there was an accident."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "どうも、それで足止めを食ってしまったらしく、家についたのは会合の時間の直前でした。"
+    ],
+    "textEn": [
+      "Seems it delayed him a bit, and he only got back to his house right before the meeting was scheduled to start."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "ご家族が、大慌てで神社の集会所に出かけていく村長さんを目撃しています。」"
+    ],
+    "textEn": [
+      "His family witnessed a very hectic mayor leaving to go to the assembly hall at the shrine.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…会合ってのは何だったんですか。",
+      "確か、その会合の帰り道に失踪してるんですよね。」"
+    ],
+    "textEn": [
+      "\"...What was the meeting about?",
+      "He disappeared on his way back home, right?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「会合は御三家と町会の主要役員が集まってのものでした。"
+    ],
+    "textEn": [
+      "\"The Three Families and the essential members of the town assembly were at the meeting."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "今年も起こってしまった連続怪死事件の対応について協議したものと思われます。」"
+    ],
+    "textEn": [
+      "We think they were discussing how to deal with the serial freak death incidents that had happened again this year.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……それで……その帰り道に………。",
+      "詩音を可愛がってくれた爺さん。",
+      "…不安に押しつぶされそうな詩音を励ましてくれた、頼もしい人だったろうに。",
+      "……詩音の痛ましい声が胸に刺さる…。"
+    ],
+    "textEn": [
+      "...So then... on his way home......",
+      "The old man, who had treated Shion like his own daughter.",
+      "...He was a dependable person who would encourage Shion whenever she felt pressured by anxiety, and yet...",
+      "...Shion's painful voice struck me right in the heart..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え？",
+      "……………………",
+      "あれ……？」"
+    ],
+    "textEn": [
+      "\"Hm?",
+      "............",
+      "Huh......?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「どうなさいました？」"
+    ],
+    "textEn": [
+      "\"What's the matter?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "自分で、自分の出した素っ頓狂な声に驚いた。",
+      "……今、俺は、…何に驚いたんだ…？",
+      "今、一瞬気がついたことを頭からもう一度引き出すため、両手で頭を締め付ける。",
+      "……思い出せ前原圭一！！",
+      "今、気付いたじゃないか！！",
+      "…大切なこと…！！！",
+      "綿流しの晩。",
+      "これが全ての始まり。",
+      "…その夜、鷹野さんたちが死んだ。",
+      "……翌朝、事件が雛見沢中に広がった。",
+      "夕方からの会合でそれを話し合うことになった。",
+      "だが村長さんは病院に予約があったので、予定通り、家族にも内緒の病院へ向かった。",
+      "病院で診察を受け、",
+      "食事をし、",
+      "帰りの電車で思わぬ足止めを受け。",
+      "…帰宅した時にはもう会合の始まる時間だった。",
+      "村長さんは上着を着替え、自転車にまたがり、大急ぎで神社の集会所に走っていった…。",
+      "綿流しの晩の事件が耳に入ってから、…集会所に姿を現すまで。",
+      "……村長さんの一日の行動は全て秘密だったことになる。",
+      "その間は誰にも知られることなく、",
+      "ひとりで病院で過ごし、",
+      "ひとりで食事をし、",
+      "ひとりで電車に乗ってきた。",
+      "……それは外部から一切接触できなかったことを示す。",
+      "電話ですら呼び出せない状態だった。",
+      "……でもそれが何だってんだ前原圭一…。",
+      "それがどうしたって言うんだ前原圭一…。",
+      "………………………………あ。"
+    ],
+    "textEn": [
+      "I was taken aback by how strange my own voice sounded.",
+      "...What was it that just... surprised me...?",
+      "I squeezed my head with my hands to try and drag back out what I had only realized for a split second.",
+      "...Remember, Keiichi Maebara!!",
+      "You just realized something!!",
+      "...Something important...!!!",
+      "The night of Watanagashi.",
+      "That was when everything started.",
+      "...That night, Takano-san and Tomitake-san died.",
+      "...The next morning, word of the incident had spread throughout Hinamizawa.",
+      "They planned to talk about it during the evening meeting.",
+      "The mayor, however, had an appointment at the hospital, and as planned, he went there without telling his family.",
+      "He got a checkup at the hospital,",
+      "ate something,",
+      "and then there was an unexpected delay on his train ride back.",
+      "...When he returned, the meeting was already about to start.",
+      "The mayor changed clothes, got on his bicycle, and hurried to the assembly hall at the shrine as fast as he could...",
+      "From when he heard about the incident on the night of Watanagashi... until when he showed up at the assembly hall.",
+      "......Everything he was doing that day was done in secret.",
+      "During that time, nobody found out that...",
+      "he went to the hospital alone,",
+      "he ate alone,",
+      "and he got on the train alone.",
+      "...That all meant he had absolutely no contact with anyone else.",
+      "You couldn't have even called him on the phone.",
+      "...Okay, but what does that mean, Keiichi Maebara...?",
+      "Why does that matter, Keiichi Maebara...?",
+      "............Ah—"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………………………………圭ちゃん、……私、……………どうしよう……。」"
+    ],
+    "textEn": [
+      "\"............Kei-chan, ...What should............ I do...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…どうした。",
+      "……話せよ。",
+      "俺たちの間で隠し事はなしだろ…？」"
+    ],
+    "textEn": [
+      "\"...What's wrong?",
+      "...Tell me.",
+      "We're not keeping secrets from each other, right...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「私、…………公由のお爺ちゃんに……打ち明けたんです。」"
+    ],
+    "textEn": [
+      "\"I............ Old man Kimiyoshi, I... I told him everything.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "打チ明ケタンデス。",
+      "公由ノオ爺チャンニ。"
+    ],
+    "textEn": [
+      "<i>I told him everything.</i>",
+      "<i>I told old man Kimiyoshi everything.</i>"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……村長さんに、……私、あの晩、祭具殿に忍び込んだこと……打ち明けたんです。",
+      "…誰かにそれを見られてて、……私たちを狙っている人がいるって。」"
+    ],
+    "textEn": [
+      "\"...That night... I told the mayor... that we snuck into the ritual storehouse.",
+      "...Also that someone saw us... and was out to get us.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………あぁ。",
+      "…それで？」"
+    ],
+    "textEn": [
+      "\"...Right.",
+      "...What then?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……公由のお爺ちゃん、…怒らなかった。"
+    ],
+    "textEn": [
+      "\"...Old man Kimiyoshi... didn't get angry."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "……そして、にっこり笑って、詩音ちゃんがちゃんと反省してるなら、鬼隠しになんかなるものか、…って。"
+    ],
+    "textEn": [
+      "......He smiled, then told me that if I was properly sorry about it, there was no way I'd be demoned away..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "…本当に……笑いながら……任せなさい…って………。",
+      "……ぅぅ…ッ！！」"
+    ],
+    "textEn": [
+      "...He was really... smiling... and he told me to leave it to... him......",
+      "...ngh...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "全身に、玉のように汗が浮き出ていた。",
+      "……それらが一筋の汗となって、……つーっと…額から鼻筋へ、……伝い落ちていく。",
+      "………だからつまり、",
+      "………何だってんだ……？",
+      "おい、…もうとぼけるのはよせよ前原圭一…………。",
+      "イツ、打チ明ケルンダ？",
+      "詩音は事件を知ったのを、朝、父親がしていた電話で聞いたと言った。",
+      "その頃、村長は病院の予約があったから朝一で家を出ていた。",
+      "行き先は誰にも告げてない。",
+      "……村長が大学病院へ行ったのは、誰も知らないことだ。",
+      "そして電車の事故で帰宅が遅れ、帰ってきたらすぐに集会所に飛び出して行った。",
+      "そして集会所で会合が始まり、",
+      "…それは暗くなるまで続いた。",
+      "…そして解散。",
+      "…解散のあとは、もう目撃はない。",
+      "…失踪するのみ。",
+      "つまり、",
+      "…つまり、",
+      "……つまり、",
+      "………………えぇと………。"
+    ],
+    "textEn": [
+      "Sweat burst out of my body like bullets.",
+      "...They became one long strand... and slid down... down from my forehead to my nose...... and fell.",
+      "......So then...",
+      "What does it mean...?",
+      "Hey, Keiichi Maebara... No more playing dumb.........",
+      "<i>When did she tell him?</i>",
+      "Shion said she learned of the incident from a phone call her father had made that morning.",
+      "The mayor had left the house first thing in the morning for his appointment at the hospital.",
+      "He didn't tell anybody where he was going.",
+      "...Nobody knew about him going to the university hospital.",
+      "Furthermore... his train ride back to his house was delayed by an accident—as soon as he got home, he rushed out to the assembly hall.",
+      "Then the meeting at the assembly hall began...",
+      "...and continued until it was dark out.",
+      "...Then, everyone left.",
+      "...Nobody saw him after the meeting was over.",
+      "...He just disappeared.",
+      "Which meant...",
+      "...Which meant...",
+      "......Which meant...",
+      "............Umm......"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「前原さん？",
+      "大丈夫ですか？",
+      "やっぱり熱いならクーラー入れますよ？」"
+    ],
+    "textEn": [
+      "\"Maebara-san?",
+      "Are you all right?",
+      "If you're too hot, I can turn on the air conditioner, mm?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………………………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その先を考えることを、もうひとりの自分がやめろと脳を撹乱させる。",
+      "頭がカタカタと痙攣し…中に詰まったジュースを、わけわからなく…めちゃくちゃになるようにミキサーをかける。",
+      "やっと沈殿しかけたそれは、あっというまに粉々にぐちゃぐちゃになって形をなさなくなった…。"
+    ],
+    "textEn": [
+      "Another part of me was messing with my thoughts, demanding that I didn't think any further than that.",
+      "My head was pounding violently... and the fluids packed inside it... all blended together until nothing made sense.",
+      "It was just about to settle, yet it had been smashed and melted in the blink of an eye, no longer able to retain its shape..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…前原さん？",
+      "もしもし？」"
+    ],
+    "textEn": [
+      "\"...Maebara-san?",
+      "Are you in there?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………あ、",
+      "……………はい。」"
+    ],
+    "textEn": [
+      "\"............Ah...",
+      "............yeah.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石さんは何本目かのタバコに火をつける。",
+      "…吸殻入れにはもう何本もの吸殻が詰まっていた。",
+      "……それは時間の経過を示すものなのか。",
+      "…俺は、…そんなにも長い時間、思考を凍らせていたのか………。"
+    ],
+    "textEn": [
+      "Ooishi-san lit yet another cigarette.",
+      "...There was yet another cigarette butt placed in the ashtray.",
+      "...Was it displaying the passage of time?",
+      "...Had I... had my thoughts been frozen over for that long...?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「私、知ってる限りのことを話したつもりです。",
+      "…お返しに、今度は前原さんの話を聞かせてもらってもいいですよね。」"
+    ],
+    "textEn": [
+      "\"I've tried to tell you everything I know.",
+      "...In return, feel free to tell me anything you want, Maebara-san.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の頭の中は…もう、ぐちゃぐちゃのジュースになっていた。",
+      "…脳みそだったものはミキサーの刃ですっかり摩り下ろされてしまっていて、……何も考えることなんてできない。"
+    ],
+    "textEn": [
+      "My mind had become... a gigantic, oozing mess.",
+      "...My brain felt like it had been totally minced by the blades of a blender...... and I couldn't think."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ほらほら、また黙り込む。",
+      "…もし誤解があるような先に解いておきたいんですがね。",
+      "…私ゃ別に、あなたが犯人だなんて思っちゃいないんです。」"
+    ],
+    "textEn": [
+      "\"Now, now, don't clam up again.",
+      "...If there are any misunderstandings, I'd like to clear them up first.",
+      "...I don't think you're the culprit here or anything.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石さんは、本人なりの精一杯のスマイルをして見せた。"
+    ],
+    "textEn": [
+      "Ooishi-san gave his best attempt at an adult smile."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…あの晩、あなたたち４人が祭具殿に忍び込んだことは知っています。",
+      "次の日にはもう村の、知る人は誰でも知る噂になってましたからね。"
+    ],
+    "textEn": [
+      "\"...I know the four of you snuck into the ritual storehouse that night.",
+      "Everyone in the village heard rumors about it by the next day."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…それ自体は不法侵入として問われるべきことですが、問題はそれじゃない。",
+      "……そこで何があったかなんです。",
+      "…忍び込んだ人間が次々と犠牲になるような、何があったのか。」"
+    ],
+    "textEn": [
+      "...That in itself means we should take you in for trespassing, but that isn't the problem.",
+      "......It's what was inside.",
+      "...What was inside that made the people who snuck in there end up as sacrifices?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………何も、",
+      "……なかったです。」"
+    ],
+    "textEn": [
+      "\"............There...",
+      "......There wasn't anything.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "言ってしまってから、認めたことを後悔したが、…もう今さらだと思った。"
+    ],
+    "textEn": [
+      "As soon as I said it, I regretted confirming my presence there... but I knew it didn't matter anymore."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…本当に何もなかったんですか？"
+    ],
+    "textEn": [
+      "\"...Was there really nothing in there?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "だって、現にこうして中に入った人たちが次々と犠牲になってるんですよ？",
+      "しかも、扉のカギを付け替えた村長や梨花さんまで犠牲に。"
+    ],
+    "textEn": [
+      "I mean, everyone who went in is being sacrificed one by one, you know?",
+      "Even the mayor and Rika-san, who switched the lock on the door, were sacrificed."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…それだけの事態を引き起こす、何があの中になったんです？」"
+    ],
+    "textEn": [
+      "...What was inside that could have caused such terrible things to happen?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もう黙っているのにも疲れ果てた…。",
+      "…これこそが大石の狙いなのだろうが、…もう今さらどうでもよかった。"
+    ],
+    "textEn": [
+      "I was far too tired of keeping quiet about this...",
+      "...Perhaps that was Ooishi-san's goal all along... but again, that didn't matter anymore."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………大昔に使った拷問道具がたくさんしまってありました。",
+      "…それを鷹野さんたちと見て回りました。」"
+    ],
+    "textEn": [
+      "\"...There were just a lot of torture devices that were used a long time ago.",
+      "...I looked around at them with everyone.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「本当にそれだけ？」"
+    ],
+    "textEn": [
+      "\"Was that really all?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…本当にそれだけです。」"
+    ],
+    "textEn": [
+      "\"...That was really all.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石さんが期待するような、…そんな大仰なものは一切なかったが。",
+      "……ある意味、充分にとんでもない物が隠してあったと思う。",
+      "それに、祭具殿を神聖だと思う側の人間から見れば、…俺が見て大した物だと思おうが思うまいが、どうでもいいことに違いない。",
+      "……あの４人は禁忌を破った。",
+      "罰せよ。",
+      "………そうなるはずだ。"
+    ],
+    "textEn": [
+      "There was nothing... as exaggerated as what Ooishi-san was hoping for, but...",
+      "...I felt like in a way, there were plenty of terrible things hidden in there.",
+      "From the perspective of someone who viewed the storehouse as sacred... whether or not I thought I had seen some crazy things didn't matter in the slightest.",
+      "......The four of us broke the taboo.",
+      "Punish us.",
+      ".........That should have been what happened."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…あの祭具殿に、何か秘密があるんじゃないかと思って、捜査令状を請求したんですがね、",
+      "……もーー、空前絶後の妨害工作がありまして。"
+    ],
+    "textEn": [
+      "\"...We put in a request for a search warrant thinking that there might have been some secrets hidden in that storehouse.",
+      "...Agh, it's been the sabotage of the century."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "信仰の対象に対する侮辱であり、憲法で定めた信仰の自由を何たらかんたら…。",
+      "いやぁもう！"
+    ],
+    "textEn": [
+      "They said it would be an insult to religious figures, and something about the right to free religion in the constitution...",
+      "Ahh, geez!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…だから実際に入ったあなたに聞くほかなかったんですよ。」"
+    ],
+    "textEn": [
+      "...That's why I really didn't have any other recourse but to ask you, since you went in there.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……本当に、…古い、錆びて埃を被った拷問道具しかなかったです。",
+      "……他に目立つものなんて何もなかったです。」"
+    ],
+    "textEn": [
+      "\"......There really was just... old, rusty, dusty torture equipment.",
+      "...Nothing else stood out.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…ふ〜む。",
+      "……では、富竹さんたちが殺されたのは、禁忌を破ったからという、制裁だけなんですかね？」"
+    ],
+    "textEn": [
+      "\"...Hmm.",
+      "......Then Tomitake-san and Takano-san were only killed as a punishment for having broken the taboo?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……だけなんですかね、なんて言われたら返事のしようがない。"
+    ],
+    "textEn": [
+      "...I didn't have an answer for the 'only' part."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……もういちいち隠しませんけどね。",
+      "…あなただけが今日まで被害を免れてるんです。"
+    ],
+    "textEn": [
+      "\"...I suppose I won't bother hiding it anymore.",
+      "...You're the only one to escape harm so far."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "あなた以外は全員が消えたのに、",
+      "あなただけが無事なんです。"
+    ],
+    "textEn": [
+      "Everyone but you has disappeared,",
+      "and yet you alone are safe."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…あなたが無事で、あなた以外が被害に遭う、どんな違いがあったのか？",
+      "それが知りたいんです。」"
+    ],
+    "textEn": [
+      "...What's the difference between you and them that would protect you, but bring harm to the others?",
+      "That's what I want to know.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…大石さんの言い方にどこか違和感がある。",
+      "…あなただけが、",
+      "あなただけが。",
+      "…何だって…？"
+    ],
+    "textEn": [
+      "...There was something wrong with what Ooishi-san was saying.",
+      "...You alone...",
+      "You alone.",
+      "...What...?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ちょ、…ちょっと待ってください。",
+      "あなただけがって、…どういう意味ですか？」"
+    ],
+    "textEn": [
+      "\"Wait... Wait a second.",
+      "What do you mean by... 'you alone'?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なははは、",
+      "…ですから、",
+      "あなただけが、",
+      "最後の生き残りなんじゃないですか。"
+    ],
+    "textEn": [
+      "\"Na-ha-ha-ha.",
+      "...I'm saying,",
+      "that you alone",
+      "have been left alive, right?"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "祭具殿に忍び込んだコソ泥４人組の。」",
+      "………最後の生き残り？",
+      "…ちょっと待って、",
+      "…まだ詩音が…、"
+    ],
+    "textEn": [
+      "Out of the four people who tiptoed into the storehouse for ritual implements, I mean.\"",
+      "...The only one left alive?",
+      "...Hold on.",
+      "...Shion was still..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あの晩に、富竹ジロウさんと鷹野三四さんが死に、",
+      "翌日、園崎詩音さんが失踪しました。",
+      "…あなただけが、無事に今日までを過ごしてるんです。",
+      "…なぜあなただけなのか？",
+      "私はそれが知りたいと言ってるんです。」"
+    ],
+    "textEn": [
+      "\"Jirou Tomitake-san and Miyo Takano-san died that night,",
+      "and Shion Sonozaki disappeared the next day.",
+      "...Only you are still safe and sound at this point.",
+      "...Why only you?",
+      "I'm saying that's what I want to know.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「し、詩音が失踪したって？！",
+      "そんな馬鹿なッ！！！」"
+    ],
+    "textEn": [
+      "\"S-Shion disappeared?!",
+      "That's impossible!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "思わず声を荒げてしまう。",
+      "…でもそんなことはどうでもよかった。",
+      "富竹さんが死に、",
+      "鷹野さんが死に、",
+      "…詩音が消えた？！",
+      "いつ消えたって…？！？！",
+      "この男は、何の話をしているんだッ？！？！"
+    ],
+    "textEn": [
+      "I unintentionally raised my voice...",
+      "...but I didn't care about that.",
+      "Tomitake-san died,",
+      "Takano-san died,",
+      "...and Shion disappeared?!",
+      "When did she disappear...?!?!",
+      "What is this guy talking about?!?!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…ありゃ、……とっくにご存知だったとばかり。」"
+    ],
+    "textEn": [
+      "\"...Oh, well now... I thought you were long since aware of this.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…そ、そんなのは初めて聞いたッ！",
+      "詩音が失踪した？　いつッ！！！」"
+    ],
+    "textEn": [
+      "\"...Th-This is the first I've heard of it!",
+      "Shion disappeared? When?!?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「えー、遡ると綿流しの次の日に失踪していたことになります。」"
+    ],
+    "textEn": [
+      "\"Well, going back a bit, she disappeared the day after Watanagashi.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…遡ると、だって？！",
+      "わけのわからない言い方を…！！"
+    ],
+    "textEn": [
+      "...Going back a bit?!",
+      "Stop saying stuff I don't understand...!!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「園崎詩音さんは、その日の気分で親類の家を泊まり歩いたりしますので、所在不明が当り前なんですよ。",
+      "学校も気分ひとつでよく休みますしね。"
+    ],
+    "textEn": [
+      "\"Shion Sonozaki spends the night at relatives' houses depending on her mood on any given day, so no one thought much of not knowing where she was.",
+      "She frequently takes days off from school, too."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "先生も困り果ててました。」"
+    ],
+    "textEn": [
+      "Her teacher has been pretty troubled by it.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そんなことは聞いてないッ！！",
+      "詩音はいつ失踪したかって聞いてるんだ！！」"
+    ],
+    "textEn": [
+      "\"I didn't ask about any of that!!",
+      "I'm asking you when Shion disappeared!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ですから、綿流しの次の日です。」"
+    ],
+    "textEn": [
+      "\"I told you, it was the day after Watanagashi.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…全身の体液が逆流していく…。",
+      "…平衡感覚がなくなり、…視界の全てのものがぐにゃりと歪み出す。",
+      "……とても自分を保っていられなかった…。",
+      "ちょっと待て、",
+      "ちょっと待て。",
+      "……詩音がもう失踪してたって…？",
+      "じゃあじゃあ……、",
+      "俺ニ毎晩、掛カッテキタ、アノ電話ハ、…誰ガ掛ケテタンダヨ…。",
+      "毎晩かけてくれた。",
+      "励ましてくれた。",
+      "…消されてなるものかって、二人で頑張って生き抜こうと誓い合った。",
+      "……そう、あれは詩音からの電話のはず、",
+      "詩音からの電話のはず、",
+      "詩音からの電話のはず…。"
+    ],
+    "textEn": [
+      "...The fluids in my body all reversed direction...",
+      "...I lost my sense of balance... and everything I could see started to warp and twist out of shape.",
+      "...I simply couldn't endure it...",
+      "Hang on,",
+      "hang on.",
+      "......Shion had already disappeared...?",
+      "Then, then...",
+      "<i>That night, that call, that phone call... Who was that...?</i>",
+      "She called me every night.",
+      "She encouraged me.",
+      "...We vowed that we would do our best to live on and not be erased.",
+      "...Yes, that should have been a phone call with Shion,",
+      "should have been a phone call with Shion,",
+      "should have been a phone call with Shion..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「学校は平気で休むし、それを自宅に知らせても取り合ってもらえないから、学校もいちいち電話しない。"
+    ],
+    "textEn": [
+      "\"She took breaks from class like it was nothing, and her family wouldn't listen when I told them, so I didn't bother calling the school in the end."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…そんなこんなで、彼女が失踪したことに気付くのにだいぶ時間がかかったんですよ。」"
+    ],
+    "textEn": [
+      "...So it ended up taking quite a while before we realized she'd disappeared.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "全身の毛穴に針を突き立てたような刺激痛。",
+      "……それが背中から始まり、…全身に広がっていく。",
+      "…それは皮膚の表面を全て覆い尽くすと、…今度はお腹の内側にも広がっていった……。"
+    ],
+    "textEn": [
+      "I felt a stabbing pain like needles were being pushed into every pore of my body.",
+      "...It started on my back... and began spreading throughout the rest of me.",
+      "...When it had completely covered the surface of my skin... it began to worm its way inside my stomach as well......"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ほら、覚えてませんか？",
+      "綿流しの次の日に、私たち図書館でお会いしたでしょう。",
+      "あの時、詩音さんも居ましたよね。",
+      "…あれが最後の目撃なんです。",
+      "あの後、彼女の所在は確認されてないんです。」"
+    ],
+    "textEn": [
+      "\"Don't you remember?",
+      "We talked at the library the day after Watanagashi.",
+      "Shion-san was there then.",
+      "...That was the last we saw of her.",
+      "No one knows where she's been since.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………そんな馬鹿な…。",
+      "…………そんな馬鹿な……。」"
+    ],
+    "textEn": [
+      "\".........That's...",
+      "............That can't be......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あの日は、俺だけ大石さんに捕まって、…詩音はバイトを口実にひょうひょうと逃げた。",
+      "……そして夜、電話をかけてきてくれたじゃないか…！"
+    ],
+    "textEn": [
+      "That day, Ooishi-san had only caught me... and Shion bounded away, lying that she needed to go to work.",
+      "...Didn't she call me that night...?!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「エンジェルモートっていうファミレスのバイトですよね。",
+      "あの日から無断欠勤です。",
+      "…今日に至るまで全てを無断欠勤しているんです。"
+    ],
+    "textEn": [
+      "\"Her job was at a restaurant called Angel Mort, right?",
+      "She hasn't been there since that day.",
+      "...She's been completely absent ever since."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "お店の人も連絡を取ろうにも取れず、困りきってましたよ。」"
+    ],
+    "textEn": [
+      "The person at the restaurant couldn't get in touch with her. He was really worried.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………そんな馬鹿な…。",
+      "…………そんな馬鹿な……。」"
+    ],
+    "textEn": [
+      "\"......That can't be...",
+      ".........It can't be...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「状況証拠だけですがね。",
+      "図書館でお別れしてから、バイト先に向かうまで。",
+      "…この間に失踪したと考えるのが妥当でしょうね。」"
+    ],
+    "textEn": [
+      "\"It's only circumstantial evidence, but...",
+      "after she left us at the library, but before she made it to work...",
+      "I think it's appropriate to consider her having disappeared during that time.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……詩音が、……俺を置いて逃げ出した、",
+      "…直後…？！"
+    ],
+    "textEn": [
+      "...Right after Shion...",
+      "ran away without me...?!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ご存じなかったみたいですね。",
+      "…なら、先に話せばもっと話が早かったかなぁ。",
+      "もうこれでご理解いただけたでしょ。",
+      "…あとはあなただけなんです。"
+    ],
+    "textEn": [
+      "\"It seems that you didn't know.",
+      "...Maybe if you had said something earlier, this would have gone more quickly.",
+      "Now you understand, right?",
+      "...You're the only one left."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "あなただけが、祭具殿に忍び込んだ４人の生き残りなんです。」"
+    ],
+    "textEn": [
+      "You're the only survivor of the four who slipped into the ritual storehouse.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………そんな馬鹿な…。",
+      "…………そんな馬鹿な……。"
+    ],
+    "textEn": [
+      "......It couldn't be...",
+      ".........It just couldn't be..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「次に何か起こるとすれば、それはあなたなんです。",
+      "前原さん、どうかご理解を。」"
+    ],
+    "textEn": [
+      "\"If something else happens, it would happen to you.",
+      "I need you to understand that, Maebara-san.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……そんな馬鹿な、",
+      "そんな馬鹿な、",
+      "そんな馬鹿な…。",
+      "…詩音がもう、すでに、失踪してたって…？！？！",
+      "そんなはずはない、そんなはずはない。",
+      "…詩音とは一昨日も電話した。",
+      "昨夜も電話した。",
+      "そして今夜も掛かってくるはず。",
+      "それは詩音の電話、詩音の電話。",
+      "…詩音から詩音から。"
+    ],
+    "textEn": [
+      "...It can't be,",
+      "it can't be,",
+      "it can't be...",
+      "...Shion had already disappeared...?!?!",
+      "That couldn't be. It couldn't be.",
+      "...I talked to her the day before yesterday.",
+      "I talked to her last night.",
+      "She was going to call me again today.",
+      "That was Shion on the phone—Shion on the phone.",
+      "...It was from Shion, from Shion."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「詩音さんはとっくに失踪してるんです。",
+      "…次は、あなたなんですよ。」"
+    ],
+    "textEn": [
+      "\"Shion has long since disappeared.",
+      "...Next will be you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "じゃあ…夜毎に掛かってきた電話は誰からなんだ。",
+      "夜毎に掛かってきた電話は誰からなんだ。",
+      "夜毎に掛かってきた電話は誰からなんだ…！！！"
+    ],
+    "textEn": [
+      "Then... who was on the phone those past nights?",
+      "Who was on the phone those past nights?",
+      "Who was on the phone those past nights...!!?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そんな、………",
+      "馬鹿ぁあぁあぁああぁあぁぁあぁあぁああぁあぁぁあぁあぁああぁあぁぁああぁあッ！！！」"
+    ],
+    "textEn": [
+      "\"That's...",
+      "It can't beeeeeeeeeeeeeeeee!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……ソファーに横になり、…ぼんやりと時間を過ごした。",
+      "すっかり頭の中が空っぽになり、……何を考えても形にまとまらなかった。",
+      "家には書置きがあり、親父とお袋は帰りが深夜になるから、ラーメンでも作って食べててくれ、とのことだった。",
+      "食べる気ならいつでも作れるし、…それに食欲も湧かなかったので、…何も口にせず、ただぼーっと天井を眺めて過ごした。",
+      "時計の針が…もうじき夜の１０時を指す。",
+      "……今日も、…あの電話は掛かってくるのだろうか。",
+      "……すでに詩音は失踪しているのに。",
+      "……それでも詩音から電話は掛かってくるのだろうか。",
+      "その電話はどこから……誰から……。",
+      "考えれば考えるほどに……体が震え出す…。",
+      "電話線をいっそ引っこ抜いてしまおうかとまで考えた。",
+      "……自分に理性があとちょっと足りなかったなら、本当にそうしたに違いない。",
+      "…でも待てよ、前原圭一。",
+      "…大石さんも自分で認めたじゃないか。",
+      "詩音は所在不明なことが多いって。",
+      "大石さんの知らない親類の家で今日まで過ごしてたってのは考えられることじゃないのか？",
+      "俺も詩音も、何者かに狙われる身なんだから…、普段とは違う場所に身を隠そうと思ったって何の不思議もないはず…。",
+      "…だから大石さんは詩音の所在を見つけられず、失踪と決め付けてしまったに違いないのだ。",
+      "…そうだ、そうに違いない！",
+      "詩音は失踪なんかしてはいないのだ…！！",
+      "その時、自分の意志とは無関係に右手が動き、ピシャリと頬を叩いてくれた。",
+      "そのひんやりとした手の感触が、わずかな冷静さを取り戻させてくれた…。"
+    ],
+    "textEn": [
+      "...I lay down on the couch... and stayed there dazed for a while.",
+      "My mind was completely blank... I couldn't think about anything for more than a few seconds.",
+      "There was a note in my house saying that Mom and Dad would be home late and that I should have some ramen or something for dinner.",
+      "I could make it whenever I got hungry... but I had no appetite... so I just stared blankly at the ceiling without eating anything.",
+      "The hands of the clock... were already pointing at ten.",
+      "...Would I get... another phone call like that today?",
+      "...Even though Shion had already disappeared...",
+      "...Would she still call me?",
+      "Where were they calling from... and who were they...?",
+      "The more I thought about it... the more I started to tremble...",
+      "I even thought about just disconnecting the phone line.",
+      "...If I had been thinking a little less logically, I really would have done it, too.",
+      "...Hold on, Keiichi Maebara.",
+      "...Ooishi-san admitted it himself, didn't he?",
+      "That Shion went missing a lot?",
+      "Couldn't she have just gone to relatives that Ooishi-san didn't know about and have been there ever since?",
+      "Shion and I were both being targeted by somebody... so it wouldn't be strange to think she went somewhere she usually didn't in order to hide...",
+      "...That must have been why Ooishi-san couldn't locate her—and why he labeled her a disappearance.",
+      "...Yeah, that had to be it!",
+      "Shion hadn't disappeared at all...!!",
+      "Then, my right hand moved of its own volition and slapped me on the cheek.",
+      "Its cold sting let me calm down a little..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………都合良く考えすぎるなよ、前原圭一……。」"
+    ],
+    "textEn": [
+      "\"............Don't just convince yourself of the most convenient possibility, Keiichi Maebara...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……失踪を認めたくないのはわかる。",
+      "…それを認めるのは、…きっととてつもなく恐ろしいことに違いないからだ。",
+      "……電話の相手に、…詩音かどうか確かめればいい。",
+      "………詩音に、お前は本当に詩音かって確かめるのか…？",
+      "……それはとんでもなく滑稽な話に思えた。"
+    ],
+    "textEn": [
+      "...I knew I didn't want to admit she had disappeared.",
+      "...Admitting it... would mean that something terrifying was definitely happening.",
+      "...I just needed... to figure out whether Shion was the one on the phone or not.",
+      "......Would I ask her if she was actually Shion...?",
+      "...That seemed like an incredibly absurd thing to do."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……でも、…逃げるな圭一。」"
+    ],
+    "textEn": [
+      "\"...Still... don't run from this, Keiichi.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "向こうが、自分が詩音だと思われているとまだ信じているなら、…それは俺にとってほんのちょっとの優位だ。",
+      "さり気なく…本当にさり気なく、",
+      "…会話を聞き、",
+      "受け、",
+      "流す。",
+      "…化けの皮を剥いでやるんだ…。",
+      "確かにそれはとても恐ろしいことだ…。",
+      "でも、……あの晩、祭具殿に忍び込んだ人間の、…最後の生き残りとして……俺がやらねばならない責務なのだ。",
+      "でも、……なら誰が……詩音のふりをして電話をしているんだ……？",
+      "電話の声とは言え…、そんな簡単に似せられるものじゃない。",
+      "…あの声は確かに詩音だ。",
+      "…詩音にそっくり。",
+      "…詩音そのものとしか思えない……。",
+      "……………………………いるじゃないか。",
+      "……詩音とそっくりに喋れるヤツが。",
+      "……魅音だ。",
+      "……………………魅音。",
+      "………他に、…誰ができる……………？",
+      "この時になって…、本当に今さらのように……。",
+      "…今日まで魅音に感じてきた数々の違和感が…心の中にあふれ出す…。",
+      "祭具殿に忍び込んだことを詰問し、……呪いの言葉を吐きながらハシゴを揺らした。",
+      "……他にも、…他にも、……………。",
+      "でも、……どうして魅音が……？",
+      "大石さんや詩音に聞いた、園崎家の話を思い出す…。",
+      "……魅音はいつも、事件の渦中にいて……全てを知り得る立場に居て……。",
+      "……その情報の中には、失踪後の「詩音」に聞かされたものも混じっていた。",
+      "頭をガリガリと掻き毟る…！",
+      "勇気を…どうか勇気を…。",
+      "……今夜も掛かってくるに違いない電話を取る、ほんの少しの勇気を…！",
+      "逃げるのはあまりに簡単…。",
+      "でもそれでは…自分が消されるまでの準備期間を相手にのんびりと与えることと何も変わらない…。",
+      "逃げてはいけない…。",
+      "立ち向かわなくてはいけない…。",
+      "次に犠牲になるのは間違いなく……俺なのだから。",
+      "……「詩音」は言葉巧みに俺をワナにかけようとしているに違いない。",
+      "……用心せよ用心せよ…。",
+      "…怖い怖い怖い…。",
+      "…嫌だ嫌だ嫌だ嫌だ……。",
+      "……………………その時、",
+      "…鳴った。",
+      "どこから掛かってきているかもわからない、…電話が鳴った。",
+      "…詩音は消えていた。",
+      "…とっくに消えていた。",
+      "…綿流しの次の夜には消えていた。",
+      "なのに……、",
+      "今日まで、",
+      "…さも当り前のように電話がかかってきた。",
+      "…そしてそれは今夜も……。",
+      "………消された人たちは、…死体が見つからないだけで、…生きているとは到底思えない。",
+      "…なら、この電話の主が本当の詩音なら、",
+      "……それはこの世ならざる場所から掛かってくる電話なのか…？",
+      "もちろん、そんなわけはない。",
+      "……生きている誰かが、詩音のふりをして電話をかけているのだ。",
+      "……詩音はもうとっくにいないのに、……詩音はさも健在であるように…。",
+      "諦めることなく、…電話は鳴り続けている。",
+      "電話に…出なくて済むなら出たくはない。",
+      "…だけど、それは何の解決にもならないとさっき自ら結論したばかりだ。",
+      "では……出てどうする…？",
+      "お前は詩音じゃない、お前は何者だ、と問い詰めてみるか…？",
+      "それとも、騙され続けているふりをしながら、……相手の尻尾を探ってみるか…？"
+    ],
+    "textEn": [
+      "If the person on the other end still believed that I thought she was Shion... then that gave me a tiny advantage.",
+      "Casually... completely casually...",
+      "...I would listen to what she had to say...",
+      "and fend",
+      "her off.",
+      "...I would tear the skin off the monster...",
+      "It would definitely be really scary for me...",
+      "However... as the last survivor... of the people who went into the storehouse that night... this was my duty to perform.",
+      "Still...... then who...... Who would call me and pretend to be Shion......?",
+      "I may have only heard her over the phone... but her voice shouldn't be that easy to replicate.",
+      "...That was definitely Shion's voice.",
+      "...It sounded just like her.",
+      "...It could have only been Shion...",
+      "............There was someone, though, wasn't there?",
+      "...Someone who sounded just like Shion.",
+      "...Mion.",
+      "............Mion.",
+      "......Who else... could have done this............?",
+      "At this point... Seriously, after all this time......",
+      "...All those little things that didn't quite make sense about Mion until now... overwhelmed my mind...",
+      "Like being questioned about sneaking into the ritual storehouse...... and how she shook the ladder while spouting curses.",
+      "...Who else... who else could have............",
+      "Why, though... why would Mion...?",
+      "I thought back to the things about the Sonozaki family that I had heard from Ooishi-san and Shion...",
+      "...Mion was always entangled in the incidents... in a position where she was omnipotent...",
+      "...Some of that information included things that 'Shion' had told me after she disappeared.",
+      "I madly scratched at my head...!",
+      "Courage... Give me the courage...",
+      "...Just a little bit of courage to pick up the phone—I know it will ring tonight...!",
+      "It would be so easy to run away...",
+      "That, though... would be the same as making it easy for them to erase me...",
+      "I cannot run...",
+      "I must stand up and face it...",
+      "After all, the next sacrifice...... would definitely be me.",
+      "...I was sure 'Shion' would use tricky words to try and trap me.",
+      "......Be careful, be careful...",
+      "...I'm scared I'm scared I'm scared...",
+      "...I don't want to do this I don't want to do this I don't want to do this I don't want to do this...",
+      "............At that point...",
+      "it rang.",
+      "The phone rang... and I didn't know where the call was coming from.",
+      "...Shion had disappeared.",
+      "...Disappeared a long time ago.",
+      "...Disappeared the night after Watanagashi.",
+      "Yet...",
+      "until today...",
+      "she had been calling me like nothing happened.",
+      "...Now again, tonight...",
+      "......The people that had disappeared... their corpses simply haven't been found... I really didn't think they were alive.",
+      "...So if it really was Shion on the other end...",
+      "then did that mean she was calling me from another world...?",
+      "Of course, that couldn't be.",
+      "...A living being was calling me, pretending to be Shion.",
+      "...Shion was long gone... and yet, as though she were alive and well...",
+      "the phone continued its incessant ringing.",
+      "I... didn't want to pick up if I didn't have to.",
+      "...I had just concluded, though, that not doing so wouldn't solve anything.",
+      "Then... what would I do after I answered it...?",
+      "Would I immediately declare she wasn't Shion and ask who she was...?",
+      "Alternatively, would I pretend I was still fooled... and try to grab her by the tail...?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………それが、…一番、安全かもしれないよな…。」"
+    ],
+    "textEn": [
+      "\"............That... would probably be the safest thing to do...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "電話の相手が、自分が詩音でないことを見破られたと知った時、どんな行動に出てくるかが一番、怖かった。",
+      "…だが、騙され続けているように見せる限り、相手は極端な行動には出ないのでは…？",
+      "用心さえすれば、きっとそれが一番安全………。",
+      "……心に決める。",
+      "…電話を取ろう。",
+      "…そして、…さもいつものように話をしよう。",
+      "だが、…今日はそれだけじゃない。",
+      "…相手を探るんだ。",
+      "何者で、",
+      "…何を考えていて、",
+      "…何が目的なのか。",
+      "……何でこんなことをするのか。",
+      "富竹さんたちを殺したのは本当にお前なのか。",
+      "村長さんはどうなったのか。",
+      "……梨花ちゃんと沙都子をどうしたのか…！",
+      "受話器を取ろうとする腕が震える…。",
+      "聞きたいことが多過ぎて…、問い詰めたいことが多過ぎて…、",
+      "…怖い。",
+      "とにかく電話を取ろう。",
+      "…取るぞ圭一。",
+      "取るぞ圭一！！"
+    ],
+    "textEn": [
+      "What I was most afraid of was what the person on the phone would do when she realized I knew she wasn't Shion.",
+      "...However, as long as I continued to let her think I was fooled, she wouldn't do anything extreme, right...?",
+      "If I just make sure to be careful, that should be the safest option......",
+      "...I've made up my mind.",
+      "...I'll answer the phone.",
+      "...Once I do that... I'll talk to her as if nothing happened.",
+      "...That wasn't all I'd do this time, though.",
+      "...I'd scope her out.",
+      "Who was she...",
+      "what was she thinking...",
+      "and what was she after?",
+      "...Why was she doing this?",
+      "Was she really the one who killed Tomitake-san and Takano-san?",
+      "What happened to the mayor?",
+      "...What happened to Rika-chan and Satoko...?!",
+      "I reached out for the receiver, my arm trembling...",
+      "There were too many things I wanted to know... too many things I wanted to ask...",
+      "...I was scared.",
+      "I should start by picking up the phone.",
+      "...Pick it up, Keiichi.",
+      "Pick it up, Keiichi!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……も、…もしもし。」"
+    ],
+    "textEn": [
+      "\"...H-Hello?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……詩音からの電話でなければ、どんなに心安らかなことか………。"
+    ],
+    "textEn": [
+      "...Oh, how relieved I would have been if it hadn't been a call from Shion......"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あ、圭ちゃんですか？",
+      "私です。",
+      "詩音です。」"
+    ],
+    "textEn": [
+      "\"Ah, Kei-chan?",
+      "It's me.",
+      "It's Shion.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "一瞬だけでも期待した、都合のいい淡い予感は、これ以上ない形で引き裂かれる。",
+      "…もう震えてもしょうがない…。",
+      "覚悟を決めるんだ……………。"
+    ],
+    "textEn": [
+      "My momentary, convenient, and above all fleeting prediction was ripped into a thousand pieces.",
+      "...I couldn't help shaking at this point...",
+      "Get ready for this............"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「電話、なかなか出なかったんで、お留守かと思って切ろうとしてたんですよ。」"
+    ],
+    "textEn": [
+      "\"You took a long time to pick up. I thought you weren't home, and I was about to hang up.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あ、…あぁ、ごめん…。",
+      "ちょっとその…お風呂に入っててさ。」"
+    ],
+    "textEn": [
+      "\"Ah... ah, sorry...",
+      "I was just... in the bath.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…それでもご家族の方が電話を取りませんか？",
+      "ひょっとして……圭ちゃんの家、今、ご両親はお留守なんですか？」"
+    ],
+    "textEn": [
+      "\"...Did your family not pick up for you?",
+      "Could... your parents be out right now, Kei-chan?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "失態だ…。",
+      "自宅に自分が１人しかいないという致命的な情報が伝わったことを悟る…。"
+    ],
+    "textEn": [
+      "I failed...",
+      "I let her in on a fatal piece of information—that I was currently the only one at my house..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いや別に…留守ってわけじゃ……、",
+      "そ、そそ、そんな事より！！",
+      "聞いたか？！",
+      "梨花ちゃんと沙都子の件。」"
+    ],
+    "textEn": [
+      "\"Well, no... They're not really...",
+      "A-A-A-Anyway!!",
+      "Have you heard?!",
+      "About Rika-chan and Satoko?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「いえ。",
+      "…結局、あの後、どうなったんですか？",
+      "見つかったんですか？」"
+    ],
+    "textEn": [
+      "\"No.",
+      "...What happened after that?",
+      "Were they found?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………あぁ。",
+      "…見つからなかった。」"
+    ],
+    "textEn": [
+      "\"............Nah.",
+      "...They weren't found.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……圭ちゃん、どうか気を落とさないで…。」"
+    ],
+    "textEn": [
+      "\"......Kei-chan, please don't lose hope...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………………………………。",
+      "……もしも、…俺が大石さんに何も知らされていなかったなら。",
+      "……俺はこの、詩音の気遣ってくれる言葉に薄い涙を浮かべることもできたかもしれない。",
+      "……だが、今となっては…その言葉をそのまま受け入れることは出来ない……。",
+      "…受話器の向こうのこいつが、",
+      "…完璧に詩音であればあるほど、",
+      "…恐ろしさが募っていく…。"
+    ],
+    "textEn": [
+      "............",
+      "...If... If Ooishi-san hadn't let me know...",
+      "...then I might have allowed myself to shed a tear or two at Shion's considerate words.",
+      "...Instead, now that it had come to this... I couldn't take her words at face value...",
+      "...This person on the other end of the receiver...",
+      "The more perfect a Shion they were...",
+      "the more my blood curdled in fear..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………梨花ちゃんと沙都子は、",
+      "………さらわれたんだよな…。」"
+    ],
+    "textEn": [
+      "\"............Rika-chan and Satoko...",
+      "...They were kidnapped, weren't they...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……はい。",
+      "それは間違いないでしょうね…。」"
+    ],
+    "textEn": [
+      "\"...Yes.",
+      "I don't think there's much doubt...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………それがどれほど重要で、残酷な意味を持つのか…。",
+      "その言葉の重みに…愕然とし、…そして遅れて…意識が遠のきそうになる痺れが襲ってきた。",
+      "…梨花ちゃんたちはさらわれたのか、と問いかけた。",
+      "…それに「詩音」は「間違いない」と答えたのだ。",
+      "……それが意味する……残酷さ………。"
+    ],
+    "textEn": [
+      "......Just how cruel and grave a meaning did those words hold...?",
+      "Their weight... astonished me... and then a moment later... I was overcome with numbness and felt like I would pass out.",
+      "...I had asked if Rika-chan and Satoko had been kidnapped.",
+      "...'Shion,' in turn, had answered that there \"wasn't much doubt.\"",
+      "...That cruel meaning... behind her words......"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………梨花ちゃんと、沙都子は、",
+      "……あ、いや…ッ、えぇと……、あ、ごめん。",
+      "…その………村長さんは、",
+      "…さらわれて…どうなったと思う…？",
+      "まだ……生きてるんだろうか…？」"
+    ],
+    "textEn": [
+      "\"............Rika-chan and Satoko were...",
+      "Ah, no... I mean... I'm sorry.",
+      "...Umm....... About the mayor...",
+      "...What do you think happened... after he was kidnapped...?",
+      "Do you think... he's still alive...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんと沙都子はさらわれてどうなった…？",
+      "そう聞きそうになり、慌てて口をつぐんだ。",
+      "その問いに、もしもあまりに恐ろしい答えが、…まるで他人事のように告げられたら…？",
+      "…それが怖くて、咄嗟に村長を引き合いに出してしまった。",
+      "…だが、結局のところ、村長にしたって梨、"
+    ],
+    "textEn": [
+      "What happened to Rika-chan and Satoko after they were kidnapped...?",
+      "That's what I wanted to ask, but I frantically caught myself.",
+      "What if she had given that question... a terrifying response, in such a way to sound like it had nothing to do with her...?",
+      "...I was scared of that, so I immediately brought up the mayor.",
+      "...That said, however much I talked about the mayor, Ri—"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「殺されちゃったんだと思います。」"
+    ],
+    "textEn": [
+      "\"I think he was killed.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………お、",
+      "………おいおい、",
+      "………そんなにあっさり……。」"
+    ],
+    "textEn": [
+      "\"...He",
+      "......Hey, wait...",
+      "...That was quick...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…人間をさらって、その状態を維持するのってとても大変なことだと思います。",
+      "…人質にするんでもない限り、用が済んだら殺しちゃうのが一番合理的じゃないかと。」"
+    ],
+    "textEn": [
+      "\"...I think it must be really hard to kidnap someone and keep them like they are.",
+      "...As long as they're not hostages, it would be most practical to kill them once you were done with them.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………足元がぐらつくくらいに世界がたわみだす。",
+      "……目に映る世界が、時計回りにぐるりぐるりと渦を巻き、…俺を足元から飲み込もうとした。",
+      "…慌てて壁に手を付き体を支える。",
+      "…少し遅れて、激しい嘔吐感がこみ上げてきた。",
+      "今こいつは……",
+      "何てことを……",
+      "あっさりと言ったんだ…？！？！"
+    ],
+    "textEn": [
+      "............The world started to bend so much I almost lost my balance.",
+      "...The scenery in my eyes whirled around and around like the hands of a clock... and tried to swallow me whole from below.",
+      "...I frantically put a hand on the wall to support myself.",
+      "...A moment later, a severe nausea welled up within me.",
+      "How was she...",
+      "saying such things...",
+      "so lightly...?!?!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「こ、ここ、殺しちゃうって、…そんなにあっさり…。",
+      "ひ、人の命を何だと思ってやがるんだ…ッ？！？！」"
+    ],
+    "textEn": [
+      "\"K-K-K-Kill them... So readily...",
+      "I-I mean, what's a human life or two, anyway...?!?!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………恐ろしいことだとは思いますが。",
+      "…多分、そうではないかと。」"
+    ],
+    "textEn": [
+      "\".........It's a horrible thing, but...",
+      "I think that's probably what happened.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "村長が殺されたということは…、梨花ちゃんや沙都子も……同じ様に殺されたかもしれないということなのか…？！？！",
+      "…い、…いや、…そんなはずは……、どっかのジジイとはわけが違うぞ？！",
+      "梨花ちゃんだぞ？！",
+      "沙都子だぞ？！",
+      "そ…そんなにあっさりと……殺すはずは………！"
+    ],
+    "textEn": [
+      "If the mayor was killed... then did that mean the same had happened... to Rika-chan and Satoko...?!?!",
+      "...N-No... That couldn't... They weren't some random old man!!",
+      "It was Rika-chan!!",
+      "It was Satoko!!",
+      "Th-They couldn't... They couldn't kill them so readily......!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「梨花ちゃんと沙都子ちゃんも、…同じだと思ったほうがいいでしょうね。」"
+    ],
+    "textEn": [
+      "\"It's probably better to think that Rika-chan and Satoko-chan ended up the same way.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「うわああぁああぁああぁあぁぁああぁああぁあぁああぁああああぁあああぁああぁああぁああぁあああぁああぁああぁあぁああぁぁああぁああぁああぁあぁああぁあああぁああぁあぁああぁああ…ッ！！！！」"
+    ],
+    "textEn": [
+      "\"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhh...!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "一番聞きたくない言葉を…自らの絶叫で押し潰す。",
+      "…なかったことになんか、できないのに…",
+      "それでも…、",
+      "それでも、",
+      "…俺は叫ばずにはいられなかった。"
+    ],
+    "textEn": [
+      "Those were the words I wanted to hear the least... and I fought them back with a scream of my own.",
+      "...Even though it wouldn't change anything...",
+      "Still...",
+      "I still...",
+      "couldn't help but scream."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ぁああぁあぁ…ぁあぁあ……ぁ………ぁ………。」"
+    ],
+    "textEn": [
+      "\"Aaahhhh... aahh... ah... ah...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今度こそ、……涙がこぼれた。",
+      "昨夜からずっと避けてきた…もっとも恐ろしい結末を突きつけられ、…泣いた。",
+      "……それが…俺のせいであることは…もう疑う余地もなかった。",
+      "……俺が殺した。",
+      "……俺が梨花ちゃんと沙都子を殺した。",
+      "……俺が……、心の弱さに負け…、打ち明けてしまった。",
+      "…だから殺されてしまった。",
+      "…それは俺が殺したということ。",
+      "……あの時、梨花ちゃんの無垢な瞳に見つめられても…俺が屈することなかったなら！！",
+      "俺が、",
+      "……俺が",
+      "……俺が…！！！",
+      "………ぁぁ……ぁ……ぁ………………………。",
+      "声すら枯れ果てて、……それでも、………泣いた。",
+      "……………………泣いた。"
+    ],
+    "textEn": [
+      "This time...... the tears flowed.",
+      "I'd been confronted with the most horrific outcome... that I'd been trying to avoid considering ever since last night... and I cried.",
+      "...There was no longer... any doubt... that it was my fault.",
+      "...I killed them.",
+      "...I killed Rika-chan and Satoko.",
+      "...I... succumbed to the weakness of my own heart... and confessed everything to Rika-chan.",
+      "...That's why they were killed.",
+      "...That meant I killed them.",
+      "...When Rika-chan looked at me with those innocent eyes... if only I hadn't given in!!",
+      "I...",
+      "I......",
+      "I......!!!",
+      "......Ah... ah... ah............",
+      "Even my voice gave out... and yet still... I cried...",
+      "......................and cried."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……圭ちゃん。",
+      "…………どうか気を確かに…。」"
+    ],
+    "textEn": [
+      "\"......Kei-chan.",
+      ".........Please, just try and calm down...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………………………梨花ちゃんと沙都子は、…………殺された。",
+      "………もう遺体すらも見つからない。",
+      "……その死に顔に、……謝ることすら、…永遠に許されない。",
+      "…………それが俺への罰ならば……なんて……惨い……。",
+      "……詩音が慰めの言葉をかけているようだったが、…それらはほとんど俺の耳には入らなかった…。"
+    ],
+    "textEn": [
+      "............Rika-chan and Satoko......... They've been killed.",
+      ".........We couldn't even find their remains.",
+      "...I would never be allowed... to even apologize... to their faces.",
+      ".........If that was to be my punishment... then... how brutal a punishment it was...",
+      "......I think Shion tried to comfort me... but I didn't hear any of it..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「そんなことでどうするんですか…！",
+      "次に狙われるのは確実に…私か圭ちゃんなんですよ？！",
+      "お願いですから…しっかりして下さい！！",
+      "…お願いします。",
+      "…お願いしますから……！」"
+    ],
+    "textEn": [
+      "\"What are you going to gain by doing that...?!",
+      "They're... definitely going to target you and me next!!",
+      "Please, I'm asking you... get a hold of yourself!!",
+      "...Please.",
+      "...Please...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "詩音もまた、目に涙を溜めるような声で懇願するように叫んだ。",
+      "だが…次第にその声に、憎しみを感じるようになってくる…。",
+      "この「詩音」が殺した…。",
+      "…こいつが殺したに違いないのだ。",
+      "……どうして。",
+      "…どうして？！"
+    ],
+    "textEn": [
+      "Shion was shouting, imploring me with a voice that sounded like tears were in her eyes.",
+      "However... I was coming to hate the sound of that voice more and more...",
+      "This 'Shion' killed them...",
+      "...I had no doubts that this person killed them.",
+      "......Why?",
+      "...Why?!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「どうしてだよ？！",
+      "どうして……人をさらったり、殺したりするんだよッ？！？！",
+      "祟りだか何だか知らないが、人の命ってのはそんなに安いのかよ？！",
+      "あっさり消したり殺したり！！」"
+    ],
+    "textEn": [
+      "\"Why?!",
+      "Why... Why kidnap someone and then kill them...?!?!",
+      "Screw curses! Are people's lives really that cheap?!",
+      "Erasing them and killing them without a second thought like this!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………えぇ。",
+      "…まったくです。",
+      "…悪魔ですよね…。」"
+    ],
+    "textEn": [
+      "\"......You're right.",
+      "...You're absolutely right.",
+      "...It would take a demon...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "受話器を握りつぶしそうになる。",
+      "……こいつは……いつまで他人事のつもりで…！！",
+      "腹の底のマグマが、今にも腹を焼ききってあふれ出しそうだった。"
+    ],
+    "textEn": [
+      "I felt like crushing the receiver in my hand.",
+      "...How long... did this person plan on acting like it was someone else's problem...!!",
+      "There was magma in the pit of my stomach, and it felt like it was going to erupt at any moment."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なぁ詩音。",
+      "…教えてくれ。",
+      "…どうしてこの雛見沢では、綿流しの夜に人が死ななければならないことになってしまったんだ？」"
+    ],
+    "textEn": [
+      "\"Hey, Shion.",
+      "...Please, tell me.",
+      "...Why did Hinamizawa start needing someone to die on the night of Watanagashi?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………それは私が知りたいです。」"
+    ],
+    "textEn": [
+      "\"......That's what I'd like to know.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「もうダム計画との戦いは終わったんだぞ？！",
+      "なのに…どうしてまだ祟り足りないんだ？！",
+      "どうしてだよ、どうしてッ！！！",
+      "理由があるなら言ってみろよ！！！」"
+    ],
+    "textEn": [
+      "\"The fighting over the dam project is already over and done with!!",
+      "...Haven't enough people been cursed already?!",
+      "Why is it? Why?!?",
+      "If there's a reason, then say it, now!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…もう滅茶苦茶だった。",
+      "…感情が堰を破ってあふれ出すのを止められない。",
+      "それは問いかけでなく、詰問だった。",
+      "…それに当の「詩音」が気付いていないのが、あまりに滑稽だった。",
+      "…滑稽でおかしくて、…涙が止まらなかった。"
+    ],
+    "textEn": [
+      "...I was incoherent at this point.",
+      "...My emotions had broken through the dam inside of me, rushing forth, and I couldn't stop them.",
+      "These were not simple questions—this was an interrogation.",
+      "...'Shion' herself hadn't realized it yet... It was just too funny.",
+      "...It was so funny... that I couldn't stop crying."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……圭ちゃんの気持ち、私もよくわかります。",
+      "…ダム闘争はとっくの昔に終わったんです。",
+      "なのに毎年、オヤシロさまの祟りと言う名の殺人と失踪が繰り返されている。",
+      "……なぜ？！"
+    ],
+    "textEn": [
+      "\"...I understand how you feel, Kei-chan, I really do.",
+      "...The dam wars ended a long time ago.",
+      "Yet, murders and disappearances keep happening every year under the guise of Oyashiro-sama's curse.",
+      "...Why?!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "どうしてなんですか？！",
+      "全然関係ない人もいた、祟られるのに不相応な人だっていたのに、どうして？",
+      "…どうしてッ？！？！」"
+    ],
+    "textEn": [
+      "Why is it happening?!",
+      "Some of them had nothing to do with this, and some of them didn't deserve to be cursed, so why?",
+      "...Why?!?!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それを俺が聞いてるんだぁあああぁーーッ！！！！」"
+    ],
+    "textEn": [
+      "\"That's what I'm asking yooouuuuu!!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「それを私だって知りたいんですよぉおおぉおおぉッ！！！！！」"
+    ],
+    "textEn": [
+      "\"I want to know that as much as anyone!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "はぁはぁ…！！",
+      "電話越しに互いの荒い息が聞こえた。"
+    ],
+    "textEn": [
+      "Hah, hah...!!",
+      "Both our ragged breaths could be heard over the phone."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「いいですか。",
+      "…オヤシロさまの祟りなんて非現実的なものは初めから存在しません。"
+    ],
+    "textEn": [
+      "\"Listen.",
+      "...Oyashiro-sama's curse never existed. It's too unrealistic."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "圭ちゃんの言うとおり、村の何者かが、オヤシロさまの祟りというもっともらしい大義名分を利用して、綿流しの度に殺しと失踪を繰り返しているんです！！！"
+    ],
+    "textEn": [
+      "Just like you said, someone in the village is using the grand name of 'Oyashiro-sama's curse' as a justification for continuing these murders and disappearances every Watanagashi!!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "…ヤツらは狡猾でした。",
+      "祟りを都合よく利用して、村の仇敵を毎年２人ずつ消し去るシステムを構築していったんです。"
+    ],
+    "textEn": [
+      "...They were cunning.",
+      "They've been using the curse as a convenient tool, and made a system where they would get rid of two enemies in the village every year..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "…そしてこのシステムで、今年は鷹野さんたちが殺された！！」"
+    ],
+    "textEn": [
+      "and this year, that system killed Takano-san and Tomitake-san!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ２人で充分じゃねぇかよ！！",
+      "どうして村長や梨花ちゃんや沙都子まで殺されなくちゃならないんだよッ！！",
+      "それに俺は過去のことは今さらどうでもいいんだ！！"
+    ],
+    "textEn": [
+      "\"Then why wasn't that enough?!",
+      "Why did the mayor and Rika-chan and Satoko have to get killed too?!",
+      "I don't give a shit about the past!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "梨花ちゃんと沙都子がなぜ殺されなくちゃならなかったのか、その一点にしか興味はないんだ！！",
+      "どうしてなんだ？！",
+      "沙都子には打ち明けてすらないんだぞ？！？！",
+      "どうして沙都子まで……。",
+      "どうしてなんだぁああぁあぁあぁあ？！？！」"
+    ],
+    "textEn": [
+      "The only thing I care about is why Rika-chan and Satoko needed to be killed!!",
+      "Why is that?!",
+      "I didn't say a word to Satoko, you know!!!",
+      "Why even her...",
+      "Whyyyyyyyyyyyyy?!?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………沈黙が訪れる。",
+      "……詩音はしばらく、答えなかった。"
+    ],
+    "textEn": [
+      "......A silence fell between us.",
+      "...Shion didn't answer for a while."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………圭ちゃん、",
+      "………もう",
+      "……いじめないで下さい……。",
+      "……ぅっく…。」"
+    ],
+    "textEn": [
+      "\".........Kei-chan,",
+      "......please",
+      "......stop being mean...",
+      "...hic...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…嗚咽。",
+      "……泣いている…？"
+    ],
+    "textEn": [
+      "...A sob.",
+      "...Was Shion crying...?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………………私だって何が何だかわからないんです…",
+      "。祭具殿に忍び込んだあの晩から……全てが変わってしまった……。」"
+    ],
+    "textEn": [
+      "\"............I don't have any idea what's going on either...",
+      "Everything changed... when we went into the ritual storehouse that night......\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…それは俺も同じだった。",
+      "……詩音のさめざめと泣く嗚咽を聞くうちに…興奮が冷めていくのがわかった…。"
+    ],
+    "textEn": [
+      "...It was the same for me.",
+      "......As I listened to Shion's bitter weeping... I could feel my agitation subsiding..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………あの晩、…鷹野さんたちが死んだと聞き、耳を疑いました。",
+      "……そして……すぐに気付いたんです。",
+      "……今度は、",
+      "……自分が狙われる立場になったんだ、って……。"
+    ],
+    "textEn": [
+      "\"......When I heard... that Takano-san and Tomitake-san had been killed that night, I doubted my ears.",
+      "...Then... I realized it instantly.",
+      "...I realized...",
+      "what sort of a position I was in now..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "忍び込んだのは私たち４人。",
+      "…私と圭ちゃんだけが都合よく許してもらえるわけがない…。"
+    ],
+    "textEn": [
+      "The four of us snuck in there.",
+      "...Kei-chan, you and I won't be so conveniently forgiven..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "…そう思った時、それがどれだけ心細くて……恐ろしいことだったか、…圭ちゃんにはわかりますよね……？」"
+    ],
+    "textEn": [
+      "...When I thought about that, it made my chest so tight... It was so terrifying... You know that feeling, Kei-chan, don't you...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………………その言葉には表裏はなかった。",
+      "……そして、そのまま俺の気持ちの代弁ですらあった。"
+    ],
+    "textEn": [
+      "............There was nothing fake about her words.",
+      "...She'd even understood how I felt."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………だから私、",
+      "……公由のお爺ちゃんに打ち明けたんです…。」"
+    ],
+    "textEn": [
+      "\"...That's why I...",
+      "confessed everything to old man Kimiyoshi..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "……私は、みんなが入ってはいけないという祭具殿に、面白半分な気持ちで踏み入ってしまいました。"
+    ],
+    "textEn": [
+      "...All of us entered the forbidden storehouse—it was just a little bit of fun."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "…いけないことだとはわかっていましたが、",
+      "……本当に面白半分な気持ち、",
+      "……ちょっとした探検気分のつもりだったんです……。"
+    ],
+    "textEn": [
+      "...We knew we shouldn't have done it...",
+      "but it really had just been for fun...",
+      "It was only a bit of exploration, that was all......"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "…一緒に入った鷹野さんたちは、その後すぐに殺されてしまいました…。",
+      "それも…あんな惨い最期を……。"
+    ],
+    "textEn": [
+      "...Takano-san and Tomitake-san, who went in with us, were killed shortly afterward...",
+      "They met such... miserable ends......"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "あの日から、…いつ私も襲われるのではないかと…怯えています…。"
+    ],
+    "textEn": [
+      "Since that day... I've been living in fear... of when I would be attacked..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "……公由のお爺ちゃんしか助けてくれる人がいません…。",
+      "……だからお爺ちゃん、",
+      "……助けて、って………。"
+    ],
+    "textEn": [
+      "...There was nobody except old man Kimiyoshi who would help me...",
+      "...So I...",
+      "I asked him to save me......"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……公由のお爺ちゃん、…怒らなかった。",
+      "……そして、にっこり笑って、詩音ちゃんがちゃんと反省してるなら、鬼隠しになんかなるものか、…って。",
+      "…本当に……笑いながら",
+      "……任せなさい…って………。",
+      "……ぅぅ…ッ！！」"
+    ],
+    "textEn": [
+      "...Old man Kimiyoshi... he wasn't mad.",
+      "...He smiled, and said, 'if you're really sorry, Shion-chan, then you'd never be demoned away'...",
+      "...He really did... smile at me...",
+      "and told me... to leave it to him......",
+      "...*sob*...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "詩音は…大好きだった村長の死を思い出し、悲痛な声で泣いた。",
+      "……聞く者の胸を締め付けずにはおかない、あまりに悲しい声だった……。",
+      "……ま、また俺は……自分の感情に流されるままに…好き放題なことを言ってしまったのだろうか…。",
+      "……詩音は、俺と同じ境遇を持つ、…唯一の仲間のはず……。",
+      "…ドクン。",
+      "鼓動がひとつ。",
+      "………心の奥底の、…もうひとりの自分が、",
+      "…囁く。",
+      "…思い出せ前原圭一。",
+      "……村長は、綿流しの次の朝。",
+      "電話で鷹野さんたちの死を知らされ、夕方の会合の約束をした。",
+      "…そして予約した病院に出掛けた。",
+      "家族にも内緒の病院へ。",
+      "そして…会合の時間ぎりぎりに戻ってきた。",
+      "…そのまま集会所へ向かっていった。",
+      "……そう大石さんは言った……………。"
+    ],
+    "textEn": [
+      "Shion... cried bitterly, recalling the beloved mayor's death.",
+      "...It was such a sad voice... that none who heard it could prevent it from twisting their hearts...",
+      "...A-Again, I... did I let my emotions take over... and go off at her...?",
+      "...Shion was in the same situation as me... She should have been my one and only comrade...",
+      "...Thump.",
+      "My heart pounded.",
+      "......My other self... deep within my mind...",
+      "whispered to me.",
+      "...Don't forget, Keiichi Maebara.",
+      "...Don't forget about the mayor... on the morning after Watanagashi.",
+      "He was told of Takano-san and Tomitake-san's deaths over the phone and committed to a meeting that evening.",
+      "...He went to a hospital appointment.",
+      "He didn't tell his family.",
+      "...He'd only made it back just in time for the meeting.",
+      "...He went straight to the assembly hall.",
+      "...That's what Ooishi-san said.........."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………いつ、",
+      "……村長に打ち明けたんだよ…。」"
+    ],
+    "textEn": [
+      "\"............When...",
+      "did you let the mayor know...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……ぅっく……、",
+      "……え……？」"
+    ],
+    "textEn": [
+      "\"...Hic...",
+      "...Huh...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………ごめんな、…詩音。",
+      "……悲しい気持ちのところに追い討ちをかけるようで。",
+      "……詩音は、…打ち明けたんだよな。",
+      "公由のお爺ちゃん、つまり村長に。」"
+    ],
+    "textEn": [
+      "\"............I'm sorry... Shion.",
+      "......It must seem like I'm kicking you while you're down, but...",
+      "...Shion, you... told him, right?",
+      "You told old man Kimiyoshi... the mayor?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……はい……。",
+      "…………ひっく……………。」"
+    ],
+    "textEn": [
+      "\"...Yes...",
+      "........hic...........\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………いつ、…打ち明けたんだよ。」"
+    ],
+    "textEn": [
+      "\"............When... did you let him know?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………え…、」"
+    ],
+    "textEn": [
+      "\"...............Eh...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…詩音の…悲しい声を聞いていると自分が口にしようとしていることが怖くなる。",
+      "……だが、……俺は矛盾したことは言ってない……。",
+      "……もし矛盾があるなら……むしろ詩音にそれを証明してもらいたいんだ……。"
+    ],
+    "textEn": [
+      "...I'd begun to get scared... of saying it aloud after hearing her sad voice.",
+      "......I wasn't saying it was contradictory, though...",
+      "...Besides, if there was a contradiction...... then I wanted Shion to explain it to me......"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…村長さんは重い痔を患ってて、病院にかかっていたという話は知ってるか…？」"
+    ],
+    "textEn": [
+      "\"...Did you know that the mayor had a severe case of hemorrhoids and had gone to the hospital for treatment...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………あの、",
+      "…………圭ちゃん…？",
+      "……それが…何か…？」"
+    ],
+    "textEn": [
+      "\".........Umm.........",
+      "Kei-chan...?",
+      "...What does that... have to...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……答えてくれ。",
+      "知らないなら知らないと答えればいい。」"
+    ],
+    "textEn": [
+      "\"...Please, answer me.",
+      "If you didn't know, then just say so.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "しばしの沈黙。",
+      "……やがて、何度かどもりながらの回答。"
+    ],
+    "textEn": [
+      "There was a momentary silence.",
+      "...Then, after stammering a few times, she replied."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………痔だったのは、",
+      "…知ってます…。",
+      "……座る時とか、辛そうでしたから…。」"
+    ],
+    "textEn": [
+      "\"......I knew that...",
+      "he had hemorrhoids...",
+      "...It looked like sitting down was really hard for him...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「病院に通ってたんだ。",
+      "…どこの病院かは知ってるよな？」"
+    ],
+    "textEn": [
+      "\"He was going to the hospital.",
+      "...You know which hospital, right?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………………………………",
+      "ごめんなさい、",
+      "それはちょっと知りませんけど…。",
+      "………でも、圭ちゃん、",
+      "……それが一体、何の……、」"
+    ],
+    "textEn": [
+      "\"............",
+      "I'm sorry,",
+      "I don't know that much, but...",
+      "......Kei-chan...",
+      "What does that have to do with...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "詩音は、…村長が行った病院を知らない。",
+      "…ということは、病院まで押しかけて行って打ち明けるなんてことは不可能だ。",
+      "……行き先の病院を知らないなら、もちろん電車で出会うなんてことも、ちょっと考えられない。",
+      "…あと接触する可能性があったら、それは雛見沢に帰ってきてからだ。",
+      "しかし…電車は遅れて、こっちについたのは会合の時間も押し迫ったぎりぎりの時刻だった。",
+      "……ぎりぎりの時間。",
+      "…とても、詩音の打ち明け話に付き合っている時間はないはず…。"
+    ],
+    "textEn": [
+      "Shion... didn't know what hospital the mayor went to.",
+      "...That meant it was impossible for her to have gone all the way to the hospital to confess everything.",
+      "...Since she didn't know his destination, then she obviously couldn't have seen him on the train, either.",
+      "...If there was any other chance for her to contact him, it would have been after he came to Hinamizawa.",
+      "...The train, however, had been delayed, and he only got back right before the meeting was about to start.",
+      "...He didn't have time.",
+      "...There wouldn't have been enough time for him to listen to Shion spill the beans..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………単刀直入に聞きたいんだ。",
+      "…詩音は、……いつ、村長に打ち明けたんだ。",
+      "どこで、いつ。",
+      "……大雑把でいいから、…教えて欲しいんだ。」"
+    ],
+    "textEn": [
+      "\"......I want to ask you straight.",
+      "...Shion... when did you tell the mayor about everything?",
+      "When and where?",
+      "...Your answer doesn't have to be precise... but please, give me one.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………………………………圭ちゃん…、…何でそんなことを……。",
+      "……ぅっく…。」"
+    ],
+    "textEn": [
+      "\"............Kei-chan... Why are you asking that...",
+      "...hic...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "嗚咽が耳に刺さる。",
+      "…自分が詩音をいじめているような錯覚に捕らわれる…。",
+      "だが…言おう。",
+      "俺に間違いがあるなら正してくれ…。",
+      "…俺に、本当の詩音であることを……証明してくれ…………。"
+    ],
+    "textEn": [
+      "Her sob pierced into my ears.",
+      "...I was taken by the illusion that I was bullying her...",
+      "Even so... I'll say it.",
+      "If I'm wrong, then please correct me...",
+      "...Please, prove to me... that you're the real Shion........."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…ありえないんだよ。",
+      "…村長が失踪した日。",
+      "朝から消えるまで。",
+      "……詩音には接触できる機会はありえないんだ。」"
+    ],
+    "textEn": [
+      "\"...It was impossible.",
+      "...The day the mayor disappeared.",
+      "From dawn until he vanished.",
+      "...There was no opportunity for you to contact him.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………………………ぇ、",
+      "……そ…、",
+      "………そんな……、」"
+    ],
+    "textEn": [
+      "\"............Eh...",
+      "Th......",
+      "That's...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「村長は朝一で、誰にも内緒の大学病院へひとりで診察に出掛けた。",
+      "…詩音は今、この病院を知らないと言った。"
+    ],
+    "textEn": [
+      "\"The mayor left first thing in the morning for his examination at the university hospital all by himself, without telling anyone.",
+      "...Shion, you just said you don't know what hospital he went to."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "…だから帰ってくるまで、村長と接触することはできないはずだ。",
+      "……そうだろ…。」"
+    ],
+    "textEn": [
+      "...So you couldn't have contacted the mayor until he got back.",
+      "...Isn't that right...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………………………ぅっく……、」"
+    ],
+    "textEn": [
+      "\"............Hic...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「帰りの電車が事故で遅れたので、自宅に帰ってきたのは会合の始まる直前だった。",
+      "…つまり、会合が始まるまでの時間にも打ち明ける時間的余裕はないんだ。」"
+    ],
+    "textEn": [
+      "\"His train back was delayed by an accident, and he didn't return to his house until the meeting was about to start.",
+      "...So there was no time for you to have told him before the meeting started, either.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…詩音の弱々しい嗚咽が…繰り返し聞こえる。",
+      "……女の子のこういう声には…機械的に胸が掻き毟られる……。",
+      "…言っていて、……辛い………。"
+    ],
+    "textEn": [
+      "...I heard Shion... repeating her weak sobs.",
+      "...That sort of feminine voice... automatically ripped into my heart......",
+      "...It was so... painful for me to say it......"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「詩音も一緒に会合に出たのか……？",
+      "そして会合の席上で、…打ち明けたのか…？"
+    ],
+    "textEn": [
+      "\"Shion, did you go to the meeting too......?",
+      "Did you attend it... and tell him there?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "ここで打ち明けなきゃ……",
+      "もう時間がないもんな。",
+      "村長は帰宅途中で失踪するんだから。」"
+    ],
+    "textEn": [
+      "If you didn't...",
+      "then there wouldn't have been any time left.",
+      "The mayor disappeared on his way home.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…詩音は会合に出たんだよな…？",
+      "出たか出ないか。",
+      "そのあまりに簡単な問いの答えが……すぐに跳ね返ってこない。"
+    ],
+    "textEn": [
+      "...Shion went to the meeting, didn't she...?",
+      "Did she, or didn't she?",
+      "The question was so simple to answer... but she didn't give me an immediate response."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………えっと、",
+      "………実は会合に出…、」"
+    ],
+    "textEn": [
+      "\".........Umm......",
+      "Actually, with the meeting, I...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あの日、詩音が行くと言ったバイトすら、君は欠勤してるんだ。",
+      "……もっと端的に言おう。",
+      "……君は、…俺と一緒に行った図書館以降、誰にも目撃されていない。」"
+    ],
+    "textEn": [
+      "\"You didn't even go to the part-time job you said you went to that day.",
+      "...I'll say it more directly.",
+      "...You haven't... been seen since we were at the library together.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………………………圭ちゃん、",
+      "………あの、………、」"
+    ],
+    "textEn": [
+      "\"............Kei-chan...",
+      "I, well...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……園崎詩音は……。",
+      "……綿流しの翌日に、失踪したんだ。」"
+    ],
+    "textEn": [
+      "\"...Shion Sonozaki...",
+      "...disappeared the day after Watanagashi.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "電話の向こうが…静まりかえる。",
+      "……まるで、電話線が切れてしまったかのように何の気配もなく、…沈黙する…。"
+    ],
+    "textEn": [
+      "The other end... fell silent as the grave.",
+      "...It was so quiet that it was like the phone cord had been cut... I couldn't sense anyone there."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…大石さんは君がすでに失踪していると言っているんだ。",
+      "…でも、…詩音はこうして毎晩、俺に電話をかけてきてくれただろ…？」"
+    ],
+    "textEn": [
+      "\"...Ooishi-san says you've been missing.",
+      "...Despite that... you've been calling me every night like this, haven't you...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……ぅっく……、",
+      "……えっく……、",
+      "…っく…、",
+      "……ぅっく……、」"
+    ],
+    "textEn": [
+      "\"......Hic......",
+      "......hic......",
+      "...hic...",
+      "......hic......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "詩音の嗚咽が苛む。",
+      "…だが、…俺は間違ったことは言っていないはず…！"
+    ],
+    "textEn": [
+      "Shion's sobs were torturing me.",
+      "...Still... I'm pretty sure I haven't said anything wrong...!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………頼む詩音。",
+      "……俺が言ったことが間違ってるなら、…そうだと言ってくれ。",
+      "詩音、頼むから……。」"
+    ],
+    "textEn": [
+      "\"......Please, Shion.",
+      "...If something I said was wrong... please say so.",
+      "Shion, I'm begging you...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………ぅっく、",
+      "……っく",
+      "……っく……、」"
+    ],
+    "textEn": [
+      "\".........Hic......",
+      "hic......",
+      "hic......\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「詩音、お前は村長に会ってなんかないんだ。",
+      "…もし会ったとしたなら……、」"
+    ],
+    "textEn": [
+      "\"Shion, there's no way you could have seen the mayor, but...",
+      "if you did see him......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……もし、詩音に村長と会う機会が、…あの日、あるとしたらそれは…、"
+    ],
+    "textEn": [
+      "......If Shion ever did have the chance to meet with the mayor on that day... then that meant..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「村長が会合を終えた後。",
+      "…すなわち！",
+      "…失踪する直前、もしくは…失踪してからしかありえないんだッ！！！！」"
+    ],
+    "textEn": [
+      "\"...then you saw him after the meeting.",
+      "...In other words!",
+      "...It could have only been right before he disappeared, or else... afterward!!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……っく、……っく、……。",
+      "…",
+      "く",
+      "け",
+      "けけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけ」"
+    ],
+    "textEn": [
+      "\"......Hic...... hic......",
+      "...",
+      "Hu...",
+      "Hee",
+      "hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……ツー、",
+      "ツー、",
+      "というトーン音。",
+      "電話が一方的に切られたと気付くまで、しばらくの間、呆然としていた…。"
+    ],
+    "textEn": [
+      "...Beep...",
+      "beep...",
+      "went the dial tone.",
+      "I stood there dazed for a while until I realized she had hung up on me."
+    ]
+  }
+]

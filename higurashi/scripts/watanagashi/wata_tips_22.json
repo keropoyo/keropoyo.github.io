@@ -1,0 +1,511 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「あ、お疲れさまです！！」"
+    ],
+    "textEn": [
+      "\"I'm back!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「どうです？",
+      "何か手掛かりはありました？」"
+    ],
+    "textEn": [
+      "\"How did it go?",
+      "Did you find any clues?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…署員たちが残念そうに首を振る。",
+      "皆、疲労が色濃く出ている。",
+      "無理もない。",
+      "綿流しの日から一睡もしていない者ばかりだ。"
+    ],
+    "textEn": [
+      "...The officers shook their heads in disappointment.",
+      "Exhaustion was plainly showing on everyone's faces.",
+      "That was only natural.",
+      "None of them had gotten a wink of sleep since the day of Watanagashi."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「課長。",
+      "若い子から交替で仮眠取らせてあげて下さい。",
+      "ここからは長丁場になりますからねぇ。",
+      "無理せず、体を休めながらのんびり行きましょ。」"
+    ],
+    "textEn": [
+      "\"Chief.",
+      "Let the youngest of us take a nap, and then switch them out.",
+      "We've got a long stretch ahead of us, after all.",
+      "Let's not push ourselves too hard—rest up so we can take it easy as we go.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「みんなには交代で休めって言ってるんだけどね。",
+      "みんな遠慮してなかなか休んでくれないんだよ。",
+      "…大石さんからも言ってくれないか。」"
+    ],
+    "textEn": [
+      "\"I've been telling them to sleep in shifts.",
+      "Nobody actually seems willing to sleep, though.",
+      "...Could you tell them yourself, Ooishi-san?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ありゃありゃ。",
+      "みんな、遠慮しないでいいんですよ？",
+      "小宮山くん。",
+      "若い子から順に交代で休ませてあげて下さい。」"
+    ],
+    "textEn": [
+      "\"Oh my.",
+      "You don't need to force yourselves.",
+      "Komiyama-kun.",
+      "Please let everyone sleep in shifts, starting with the youngest.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「小宮山さん。",
+      "そうしてあげてください。」"
+    ],
+    "textEn": [
+      "\"Komiyama-san.",
+      "Please do that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "課長に重ねて言われ、小宮山くんは席を立った。"
+    ],
+    "textEn": [
+      "After the chief told him as well, Komiyama-san left his seat."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「で、課長。",
+      "例の請求なんですけど、まだ駄目そうです？」"
+    ],
+    "textEn": [
+      "\"So, Chief.",
+      "Still no good on our request?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「…第一、村人の噂だけなんでしょう？",
+      "もっと具体的な証拠がなければ難しいよ。」"
+    ],
+    "textEn": [
+      "\"...It's just a rumor among the villagers in the first place, you know?",
+      "It's going to be difficult without more concrete evidence.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「その証拠があの中に詰まってるかも知れないんですよ？」"
+    ],
+    "textEn": [
+      "\"Even when that evidence might be tucked away in there?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「その証拠が中に詰まっているという証拠が必要なんだよ…！」"
+    ],
+    "textEn": [
+      "\"We need evidence that evidence is tucked away in there...!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「課長〜。",
+      "ナゾナゾやってるんじゃないですよ？",
+      "死んだ２人を含む４人が綿流しの晩に祭具殿と呼ばれる禁断の蔵に無断で入り込み、それを何者かが見ていた！"
+    ],
+    "textEn": [
+      "\"Chief~",
+      "Don't start speaking in riddles to me, now.",
+      "We have witnesses that say four people, including the two who died, went into the forbidden ritual storehouse without permission!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "ここまでは信頼できる情報なんです。」"
+    ],
+    "textEn": [
+      "This is all reliable information.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「情報と言ったって、あくまでも噂だよ。証拠があるわけじゃない。」"
+    ],
+    "textEn": [
+      "\"You might call it information, but they're really only rumors. They're not concrete evidence.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「そりゃまぁ、４人が頬かむりして忍び込む写真はありませんがねぇ。"
+    ],
+    "textEn": [
+      "\"Well, it's true that we don't have any pictures of the four of them sneaking in with cloth tied around their heads."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "とにかく、４人は祭具殿の中で何かを見たんです！",
+      "消されるくらいの何かを！」"
+    ],
+    "textEn": [
+      "Anyway, those four saw something inside the storehouse!",
+      "Something important enough that they'd be erased!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「消されるくらいの何か？　それは何だい。」"
+    ],
+    "textEn": [
+      "\"Important enough that they'd be erased? What would that be, exactly?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…だから〜…それを調べるために令状を請求してるんじゃあないですか…！"
+    ],
+    "textEn": [
+      "...That's why I'm asking for a warrant to go looking for it in the first place...!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「…大石さん、気持ちはわかるけど！",
+      "あの祭具殿ってのは古手神社にある神聖な建物で、地元の人間への相当の配慮が必要な建物なんだよ。」"
+    ],
+    "textEn": [
+      "\"...Look, Ooishi-san, I know how you feel!",
+      "However, that storehouse is a sacred building belonging to the Furude Shrine, and we need to have proper consideration for the locals when dealing with it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "園崎議員から署長に延々１時間に及ぶ電話があったって聞いたけど。",
+      "…課長、ひょっとして署長に釘を刺されたかな？"
+    ],
+    "textEn": [
+      "I heard that there was an hour long call made from Congressman Sonozaki to the big man.",
+      "...Chief, could he have nailed you back down?"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「とにかく！",
+      "相当の証拠がない限り、祭具殿の捜査令状は取れないよ。",
+      "園崎本家への令状も同じだ！"
+    ],
+    "textEn": [
+      "\"Anyway!",
+      "As long as we don't have suitable evidence, we won't get a search warrant for the storehouse.",
+      "That goes for the Sonozaki main house, too!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "特に園崎本家への捜査は四課と県警の暴対が絡んでる。",
+      "入念な事前調整がいるんだ！」"
+    ],
+    "textEn": [
+      "Especially considering that's the jurisdiction of both Section 4 and the prefectural police's crime prevention division.",
+      "We need careful preparations first!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……調整がいるってんなら、私、直接乗り込んで付けてきてもいいですよ？",
+      "四課長はシゲちゃんでしょ？",
+      "暴対は山海さん。"
+    ],
+    "textEn": [
+      "\"...If you say you need preparations, then why don't you just let me talk with them directly?",
+      "Shige-chan is the head of Section 4, right?",
+      "For crime prevention, it's Sankai-san."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "隣の雀荘で話した方が早そうな面子ですねぇ。」"
+    ],
+    "textEn": [
+      "They seem like they'd be quicker to talk if I sat them down at a mahjong table.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「か、課長にお客様です…！",
+      "えっと、…ぅわ！」"
+    ],
+    "textEn": [
+      "\"C-Chief, you have a visitor...!",
+      "Um... yikes!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "案内してきた署員を弾き飛ばして、紋付袴でヤクザの親分みたいな格好のジジイが入ってきた。",
+      "……電話だけじゃ飽き足らなくなったかな？"
+    ],
+    "textEn": [
+      "Pushing the employee who guided him in right out of the way was an old man who looked like a yakuza member, given his crested kimono and hakama.",
+      "...Did he not get enough of this over the phone?"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Sonozaki Representative",
+    "labelJp": "園崎県議",
+    "textJp": [
+      "「わしは議員の園崎じゃ！！",
+      "責任者を出さんかッ！！！",
+      "早ぅせいッ！！」"
+    ],
+    "textEn": [
+      "\"I am Congressman Sonozaki!!",
+      "I demand to know who's responsible for this!!!",
+      "This instant!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「ど、どうも…！",
+      "私が課長の高杉でございます！！」"
+    ],
+    "textEn": [
+      "\"H-Hello...!",
+      "I am the division chief, Takasugi!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Sonozaki Representative",
+    "labelJp": "園崎県議",
+    "textJp": [
+      "「お前の名刺なぞ要らんわ！！",
+      "お前なんぞ、いつだって閑職に飛ばせるんじゃぞ！",
+      "それにお前だけでは足らん！",
+      "大石とか言う男も呼ばんか！！"
+    ],
+    "textEn": [
+      "\"I don't need YOUR name!!",
+      "I could have you demoted on a whim!",
+      "You wouldn't even be enough!",
+      "Bring out the one called Ooishi or whatever!!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Sonozaki Representative",
+    "labelJp": "園崎県議",
+    "textJp": [
+      "神聖な古手神社に捜査令状なんぞを請求しおったバチ当たり者じゃッ！！！」"
+    ],
+    "textEn": [
+      "He deserves punishment for requesting a search warrant on the sacred Furude Shrine!!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「も、申し訳ございません…！",
+      "お、大石はただいま捜査に出ておりまして、なかなか連絡が付き難く…私が代わって承りますので…！",
+      "ど、どうぞ、おかけください！」"
+    ],
+    "textEn": [
+      "\"I-I sincerely apologize...!",
+      "O-Ooishi is currently out on investigation, and he's been difficult to contact... I'll take his place and hear you out...!",
+      "S-So please, have a seat!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "課長が今のうちに消えろと目で合図する。",
+      "…ここはひとつ、厚意をありがたく頂戴しますかね…。",
+      "仮眠室でちょっと横になるかなぁ。"
+    ],
+    "textEn": [
+      "The chief's eyes were telling me to get out of here.",
+      "...Perhaps I'll gratefully accept this favor...",
+      "Maybe I'll go lay down in the nap room."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Sonozaki Representative",
+    "labelJp": "園崎県議",
+    "textJp": [
+      "「良いかッ？！　古手神社はそもそも皇暦２６００年に継ぐ２５００年の歴史を有する、神聖にして侵すべからずの聖地なのじゃ！！"
+    ],
+    "textEn": [
+      "\"Listen here!! The Furude Shrine spent 2600 years under the imperial calendar and 2500 more beyond that! It is sacred! A sanctuary that must never be defiled!!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Sonozaki Representative",
+    "labelJp": "園崎県議",
+    "textJp": [
+      "",
+      "八百万の神々とオヤシロさまと先祖の霊を祀り、日が昇りてから沈むまで。",
+      "月が昇りてから沈むまで雛見沢を見守る尊い神社なのじゃ。"
+    ],
+    "textEn": [
+      "<size=-2>",
+      "The eight hundred thousand gods, Oyashiro-sama, and the spirits of our ancestors are enshrined there.",
+      "The holy shrine protects Hinamizawa from when the sun comes up to when it sets, and from when the moon rises to when it falls."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Sonozaki Representative",
+    "labelJp": "園崎県議",
+    "textJp": [
+      "それを土足で踏みにじろうという馬鹿がいるッッ！！！"
+    ],
+    "textEn": [
+      "Who is the idiot who wanted to set foot in there?!?!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Sonozaki Representative",
+    "labelJp": "園崎県議",
+    "textJp": [
+      "そもそも信仰の自由は憲法で定められた国民の最も尊い権利であろうが！！！",
+      "それを自らの捜査の怠慢を口実に汚そうという魂胆ッ！！！"
+    ],
+    "textEn": [
+      "Besides, the right to religion is the most revered right of the people of this country in the constitution!!!",
+      "You dare to be so bold as to sully that using your own investigation's negligence as pretext!!?"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Sonozaki Representative",
+    "labelJp": "園崎県議",
+    "textJp": [
+      "こんなものは断じて許せんぞッ！！！",
+      "聞いておるのか大虚けがッ！！！",
+      "わしを怒らせてただで済むと思わん方がいいぞぉおおぉッ！！！」"
+    ],
+    "textEn": [
+      "I cannot—I will not allow it!!!",
+      "Are you listening, you lying scum?!",
+      "I'm angry now, so you're not getting off the hook that easily!!!\""
+    ]
+  }
+]

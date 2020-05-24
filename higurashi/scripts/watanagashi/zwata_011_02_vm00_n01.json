@@ -1,0 +1,70 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…覚醒剤なんかの薬物中毒を疑っているんですが検出はされませんでした。」"
+    ],
+    "textEn": [
+      "...We suspect an overdose from a stimulant or something, but we didn't detect anything.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "……鷹野さんの方はちょっとあやふやですが、富竹さんとほぼ同じ時刻に殺害され、岐阜の山中に遺棄されたと考えるのが妥当でしょうなぁ。」"
+    ],
+    "textEn": [
+      "...It's a bit uncertain in Takano-san's case, but the likely prospect is that she was murdered at about the same time as Tomitake-san, then dumped in the mountains in Gifu.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「口封じをされるような、とんでもない物が隠してあったんじゃないですか？",
+      "…例えば、覚醒剤の山とか。",
+      "ケシの秘密工場があったとか。",
+      "あるいはソ連か中国辺りの拳銃が山ほど積まれていたと。"
+    ],
+    "textEn": [
+      "\"There was nothing terrible in there that would make you keep silent?",
+      "...Like a pile of psychoactive drugs?",
+      "Maybe a secret poppy workshop?",
+      "Perhaps there were mountains of Soviet or Chinese handguns."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "不審な木箱やコンテナが山積みされてませんでしたか？」"
+    ],
+    "textEn": [
+      "There weren't any suspicious wooden boxes or containers packed in there?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…管轄が岐阜県さんでね。"
+    ],
+    "textEn": [
+      "...That one falls under the Gifu Prefecture's police department."
+    ]
+  }
+]

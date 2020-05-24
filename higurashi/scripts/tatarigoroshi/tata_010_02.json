@@ -1,0 +1,1979 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「さぁて、お昼でございますわねぇ！！」"
+    ],
+    "textEn": [
+      "\"Okay, why don't we all have lunch!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー！」"
+    ],
+    "textEn": [
+      "\"...Meep!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははは！",
+      "五人そろってのお昼は久しぶりだね！",
+      "やっぱりこうじゃないとダメだよねぇ〜！」"
+    ],
+    "textEn": [
+      "\"Ahahaha!",
+      "It's been a while since it's been all five of us!",
+      "This really is how it has to be~!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「まったく同感同感。",
+      "ほらほら、圭ちゃんも！",
+      "机寄せて〜！」"
+    ],
+    "textEn": [
+      "\"Hear, hear.",
+      "Come on, you too, Kei-chan!",
+      "Bring your desk over~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子も満面の笑みで楽しそうに机を寄せる。",
+      "…何も解決していないとは知りながらも、…楽しかった日々を思い出させるそんなやり取りが微笑ましい。"
+    ],
+    "textEn": [
+      "Satoko brought her own desk over as well, grinning broadly.",
+      "...Even knowing nothing had been resolved... this exchange was pleasant, and made me remember how fun it used to be."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…いつまでも梨花にお弁当を作ってもらっては…悪いですわね。」"
+    ],
+    "textEn": [
+      "\"...I can't have Rika... making a bento for me forever.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……いいのですよ。",
+      "…沙都子のお弁当を作るのはボクの楽しみなのです。」"
+    ],
+    "textEn": [
+      "\"...I don't mind.",
+      "...I have fun making your bento.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんっていいヤツだ。",
+      "こんな親友がいたら、さぞや心強い…。"
+    ],
+    "textEn": [
+      "Rika-chan's such a good girl.",
+      "Having such a good friend must be so reassuring..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクに大きなハンバーグを入れて、",
+      "沙都子には焦げたのを入れて、",
+      "沙都子だけかわいそかわいそで、にぱ〜☆」"
+    ],
+    "textEn": [
+      "\"...I put in the big steak,",
+      "and Satoko puts in the burned stuff,",
+      "so if it was just Satoko it would be so sad, so very sad, nipah~.☆\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "前言撤回。",
+      "………まぁ、うむ。",
+      "…梨花ちゃんだな。うん。"
+    ],
+    "textEn": [
+      "I take it back.",
+      "...Well, hmm.",
+      "...She's Rika-chan, after all."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ほらほら見て見て！",
+      "今日はほら、オムライスなんだよ〜。",
+      "マッシュルームとか美味しそうだよね！だよね！　はぅ！」"
+    ],
+    "textEn": [
+      "\"Hey, come on, look!",
+      "I've got omelette rice today~",
+      "Mushrooms and stuff are delicious! Delicious! Hau!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「いつもながらお見事なお手前でございましてよ。",
+      "いつお嫁に行ってもおかしくない腕前ですわね！」"
+    ],
+    "textEn": [
+      "\"I say it every time, but your craftsmanship is splendid.",
+      "You could become a wife whenever and not have a problem!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「お、おおおおお嫁お嫁お嫁〜〜♪",
+      "お嫁を〜食べーると〜♪",
+      "はぅ〜〜〜〜！！！」"
+    ],
+    "textEn": [
+      "\"A, a-a-a-a-a-a-a wife, a wife~~♪",
+      "Eaaating~ a wife~♪",
+      "Hau~~~~!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「レナにお嫁はＮＧワードだね。",
+      "以後控えるようにー。」"
+    ],
+    "textEn": [
+      "\"Using the word 'wife' is totally forbidden around Rena.",
+      "Please don't say it again.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……ほんのちょっぴり反省しましてよ。」"
+    ],
+    "textEn": [
+      "\"...I'll think about what I've done. A little.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ところで魅音の弁当は何だよ。",
+      "今日のはまた趣きが違って期待大だな！」"
+    ],
+    "textEn": [
+      "\"By the way, what's in your lunch, Mion?",
+      "It looks different again today—we're all waiting in anticipation!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「おじさんはまったりと昨夜のおかず詰め合わせね。",
+      "煮物がいい感じなんだよ。",
+      "ほら、大根の色はかなりいいでしょ。」"
+    ],
+    "textEn": [
+      "\"It's a rich assortment of side dishes left over from what my uncle brought last night.",
+      "The stew looks really great, huh?",
+      "The color of the radishes too—really good, right?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……わ〜、美味しそうなのです。」"
+    ],
+    "textEn": [
+      "\"...Wow~ It looks delicious.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「煮物は一晩寝かせてからが真骨頂だな！",
+      "これはかなり行けそうだ！",
+      "…よって沙都子の分はなし。",
+      "俺が全部食って感想を聞かせるから黙って見てろ。」"
+    ],
+    "textEn": [
+      "\"Stew tastes best when it's left overnight!",
+      "This looks like it would be really good!",
+      "...And so there'll be none left for Satoko.",
+      "I'll eat it all and tell you what I think, so just be quiet and watch.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「なな、なんですってぇえぇえッ？！？！",
+      "私の分もお寄越しなさいなッ！！」"
+    ],
+    "textEn": [
+      "\"W-W-What was that?!?!",
+      "Hand over my portion too!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "肘！",
+      "拳！",
+      "頭突き！",
+      "膝まで使うぞ、ぅおおりゃ！！"
+    ],
+    "textEn": [
+      "Elbow!",
+      "Punch!",
+      "Headbutt!",
+      "I'll use my knees too, orryahh!!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「をっほっほ！！",
+      "密着距離まで入れば私の有利は動きませんわねぇ！",
+      "う〜ん、圭一さんの分のお大根が実においしいですわぁ！」"
+    ],
+    "textEn": [
+      "\"Oh-ho-ho!!",
+      "At close range like this, my advantage is unwavering!",
+      "Hmm, Keiichi-san, the daikon in your portion tastes really good!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…ちっくしょう…、バトル開始時から密着でいきなりコンボとは……。",
+      "無念…。」"
+    ],
+    "textEn": [
+      "\"...Damn it... Coming right for me from the start and using a combo attack...",
+      "How humiliating...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こんなやり取り、…本当に久しぶりだな。",
+      "……結局、様子見ということになってしまったみたいだけど、……叔父だって少しは行き過ぎを反省し、今後は加減するかもしれない。",
+      "……少しは待遇が改善されるなら……いい、のかな……。",
+      "俺から分捕った大根がそんなにも美味なのか、沙都子はこれ以上ない笑顔でうれしそうに、もごもごと頬張っていた。",
+      "そんな沙都子が、もう何だか可愛らしくて",
+      "、…これまでに何度もそうしてきたように、頭を鷲掴みにして、わしわしと撫でてやる…。",
+      "バシン…！",
+      "カシャン、…コロコロカラカラ…。"
+    ],
+    "textEn": [
+      "This little exchange... how long had it been?",
+      "...It looked like they'd ended up going with the 'wait and see' approach... but maybe her uncle had realized he'd gone a little too far and would dial it back now.",
+      "...If her treatment improved a little... would that be a good thing...?",
+      "Satoko was grinning wider than I'd ever seen as she chomped down on her mouthful of the daikon she'd plundered from me—did it really taste that good?",
+      "Satoko was somewhat cute like that...",
+      "and just as I'd done many times, I grabbed her head and started petting it...",
+      "Catch...!",
+      "Smack... flip-flop, clatter clatter..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………え…？」"
+    ],
+    "textEn": [
+      "\"......Huh...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………沙都子、……ちゃん…？」"
+    ],
+    "textEn": [
+      "\"......Satoko...chan...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……突然の出来事で、…何が起こったのか、一瞬わからない。",
+      "手の甲が…ジンジン。",
+      "………えっと、",
+      "……沙都子の頭を撫でたら…、",
+      "…沙都子に、",
+      "……腕を叩かれた…？"
+    ],
+    "textEn": [
+      "...It was so sudden... that for a moment, I didn't know what had happened.",
+      "The back of my hand... was stinging.",
+      "......Umm...",
+      "I went to pet Satoko's head...",
+      "and then she...",
+      "hit my hand...?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……ど、…どしたの、沙都子。」"
+    ],
+    "textEn": [
+      "\"...W...What's wrong, Satoko?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子は…突然、頭に吹き出物でも出来て痒くなったかのように…バリバリと頭を掻き毟ってた。",
+      "………あまりに突然、…それも脈絡のない行為に、……何のことか理解できない。"
+    ],
+    "textEn": [
+      "Satoko was... scratching at her head... as though a pimple or something had appeared on it and become itchy.",
+      "...It was so sudden... and so unprovoked... that I didn't understand what happened."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………ど、どうした沙都子。」"
+    ],
+    "textEn": [
+      "\"...W-What's wrong, Satoko?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子は、いつの間に…薄っすらとした汗を全身にかいて…呼吸を乱していた。",
+      "俺が…頭を撫でたら、",
+      "嫌がった……って、",
+      "…ことか…？"
+    ],
+    "textEn": [
+      "At some point... her body had been covered in a thin layer of sweat... and her breathing had turned ragged.",
+      "When I... pet her head,",
+      "did she not like it...",
+      "was that what it meant...?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……お前、…頭撫でられるの、…嫌いだったっけ…？」"
+    ],
+    "textEn": [
+      "\"...Hey... Did you dislike... being petted...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もう一度、……そうっと、…手のひらをかざして…沙都子の頭に近付ける。",
+      "…沙都子の頭に俺の手のひらが触れた時。",
+      "………感電したかのような衝撃が起こって、沙都子が吠え猛った…。"
+    ],
+    "textEn": [
+      "Once again... slowly... I held out the palm of my hand... and brought it close to Satoko's head.",
+      "...The instant the palm of my hand touched her head.",
+      "...There was a shock like static electricity, and Satoko began to howl..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ひいぃいいいいいぁあいああいあいあああぁあああぁああッ！！！！」"
+    ],
+    "textEn": [
+      "\"Hyyyaaaaaaaaaaaaahhhhhhhhhhhhhhhhhh!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ドタ、ガターーーーーンッ！！！",
+      "俺の腕を両手で掴み…まるで絡み付こうとする蛇を放り投げるかのように、…汚らわしいものを投げ捨てるかのように…乱暴に投げた。",
+      "…俺は突然のことに抗えず。",
+      "椅子ごと後ろにひっくり返った。",
+      "教室中が…シンと静まりかえる。",
+      "沙都子は断末魔みたいな…唸り声をあげながら…よろよろと、遠ざかる。"
+    ],
+    "textEn": [
+      "Thud, slaaaaam!!!",
+      "She grabbed my arm in both hands... and as if flinging off a snake trying to cling to her... as if trying to throw away something dirty... she threw it violently.",
+      "...It happened too suddenly for me to react.",
+      "I hit the desk behind me, and both it and I fell to the floor.",
+      "The classroom... fell deathly silent.",
+      "As Satoko bellowed... it sounded like she was in the throes of death... and she unsteadily backed away."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ぅ……ぅごおぉええええぇえぇえ…ぇぇ…ッ！！！」"
+    ],
+    "textEn": [
+      "\"Ugh... ughooooehehhhhhh...egh...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そして…今食べたばかりのものを…吐き出す。",
+      "全て嘔吐して戻す。",
+      "ビタビタベチャベチャッ！",
+      "と沙都子が床に叩きつける汚物の音が教室に響き渡る。"
+    ],
+    "textEn": [
+      "Then... she threw up the food she'd just eaten.",
+      "She vomited it all back up.",
+      "Splish splat!",
+      "The sound of Satoko's vomit hitting the floor rang through the classroom."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…だ、……大丈夫かよ沙都子…、…具合でも………。」"
+    ],
+    "textEn": [
+      "\"...A... Are you okay, Satoko... You seem sick...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「………ぃいいいいいぃいいああいああぁあぁあぁああッ！！！」"
+    ],
+    "textEn": [
+      "\"...Eeeeeeeeeee-aaaaaaaaaahhhhhh!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "手を差し伸べた俺を…両手で思い切り突き飛ばす。",
+      "すごい力に、俺はもう一度床に転げた。",
+      "沙都子は両手で頭をかばうような仕草をして唸りながら、何歩か後退る。",
+      "……それから、両手をぶんぶんと振り回し始めた",
+      "。…近くの席の生徒たちもたまらず逃げ出す。",
+      "…その席にあった弁当箱や椅子を…手当たり次第に掴んで、",
+      "投げる投げる、",
+      "ぶちまける。"
+    ],
+    "textEn": [
+      "I reached out a hand... and she swatted it away with all her might.",
+      "With such extreme strength that I fell onto the floor again.",
+      "Satoko put both hands on her head as though protecting it, groaned some more, and took a few steps back.",
+      "...And then, she began swinging both hands around.",
+      "...Students in nearby seats were forced to evacuate.",
+      "...She grabbed anything within reach... bento boxes, chairs,",
+      "threw them, tossed them,",
+      "and flung them about."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ちょっとやめなよ沙都子！！",
+      "あ、あんた…どうしちゃったの？！」"
+    ],
+    "textEn": [
+      "\"Wait, stop it, Satoko!!",
+      "W-What... What's wrong with you?!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ひいいいいぃいいいいぃいいぃい…！！！」"
+    ],
+    "textEn": [
+      "\"Eeeeeeeeeeeeeeeeeeeeee...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がかける言葉に…まるで痛みでも走るかのように絶叫する。",
+      "……誰もが……声をかけられない。",
+      "生徒たちは、こちら側にみんな避難していて…、教室の一角は沙都子だけだった。",
+      "沙都子の周りは、…暴れて倒した机や椅子、…弁当が散乱して……ひどい有様だ。",
+      "…沙都子の荒い息と、…セミの声しか、聞こえない。"
+    ],
+    "textEn": [
+      "She screamed out as if Mion's words had caused her physical pain.",
+      "...No one... spoke a word to her.",
+      "All the students were withdrawing behind us... leaving Satoko alone in the corner of the classroom.",
+      "Around her... there were desks and chairs all over the floor... bento lay scattered... It was terrible.",
+      "...All I could hear... was Satoko's ragged breaths... and the voices of the cicadas."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……あ、",
+      "……………ぁ…………………あ、",
+      "……ご、…ごめんなさい…………。」"
+    ],
+    "textEn": [
+      "\"...Ah...",
+      "........ah.............ah...",
+      "I... I'm sorry......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "興奮の糸が緩んだ沙都子は…、",
+      "たった今の自分の行為が急に恐ろしくなったのか、……カタカタと震えながら…謝罪の言葉を口にした。",
+      "……だがその謝罪の言葉が誰に向けられたものかはわからない。",
+      "……だから、……とりあえず代表で、俺が返事をするつもりだった。"
+    ],
+    "textEn": [
+      "The strings of tension loosened around Satoko...",
+      "And maybe she suddenly grew scared of her own actions... because she started trembling... and gave a word of apology.",
+      "...But nobody knew just who that apology was directed towards.",
+      "...So... for now, I decided to answer as everyone's representative."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………い、いや…そっちこそ、…大丈夫か…？」"
+    ],
+    "textEn": [
+      "\".........N-No, it's fine... Are you all right...?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……ご",
+      "……ごご",
+      "……ご",
+      "め",
+      "ん",
+      "な",
+      "さ",
+      "い",
+      "ご",
+      "め",
+      "ん",
+      "な",
+      "さ",
+      "い",
+      "……ご",
+      "め",
+      "ん",
+      "な",
+      "さ",
+      "い",
+      "ご",
+      "め",
+      "ん",
+      "な",
+      "さ",
+      "い…、",
+      "ひぃ……ぃぃ………ぁあぁ……、」"
+    ],
+    "textEn": [
+      "\"...I...",
+      "I-I...",
+      "I'm",
+      "s",
+      "o",
+      "r",
+      "r",
+      "y",
+      "I'm",
+      "s",
+      "o",
+      "r",
+      "r",
+      "y",
+      "...I'm",
+      "s",
+      "o",
+      "r",
+      "r",
+      "y",
+      "I'm",
+      "s",
+      "o",
+      "r",
+      "r",
+      "y...",
+      "Hee... eee... aaahh...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の言葉と沙都子の言葉はまったく噛み合わない。",
+      "…沙都子は自らの両肩を抱きながら…後ろへ、後ろへ…。",
+      "バン！",
+      "…清掃用具入れのロッカーにぶつかる。",
+      "それにすら沙都子は短い悲鳴をあげる。",
+      "…その衝撃で、ロッカーの上のバケツが落ち、大きな音を立てると…それは沙都子をこれ以上なく怖がらせた。",
+      "沙都子は飛び跳ねるくらいに驚いて、カーテンの束に抱きつく。",
+      "………誰も…声をかけられない。",
+      "……瞬きすら忘れ、……見ているしか、ない。"
+    ],
+    "textEn": [
+      "Our words didn't match each other at all.",
+      "...Satoko hugged her shoulders... and back, back she went...",
+      "Bang!",
+      "...She ran into the locker with the cleaning supplies in it.",
+      "Even that made her give a little yelp.",
+      "...The impact caused the bucket atop the locker to fall, making a loud sound... and that scared Satoko most of all.",
+      "She almost jumped out of her skin, grabbing a bunch of the curtain in her hands.",
+      "...Nobody... spoke to her.",
+      "...They could only look... not even remembering to blink."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「………ぅう……あぁ……ああぁ…、",
+      "ごめんなさいごめんなさい、",
+      "…ごめんなさいごめんなさい…私じゃないです私じゃないです…、ぁわあぁぁ…ぁぁ……。」"
+    ],
+    "textEn": [
+      "\"...Ooh... ah... aaahh...",
+      "I'm sorry, I'm sorry...",
+      "I'm sorry, I'm sorry... It wasn't me it wasn't me... awahhhhh... ah...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……沙都子、",
+      "……お前、",
+      "…………一体…、",
+      "立ち上がった俺は、…みんなの輪から一歩出て、…沙都子に歩み寄る。"
+    ],
+    "textEn": [
+      "...Satoko...",
+      "what......",
+      "what on earth...",
+      "I stood up... took a step away from everyone... and approached Satoko."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…何が、…………あったんだ……。」"
+    ],
+    "textEn": [
+      "\"...What...... happened...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「だからだから…ッ！！！",
+      "私知らないです私知らないです！！",
+      "違うから違うから…もう嫌ですやめてください許して許して……ぁああぁぁああ…ぁぁ……ぁ……、」"
+    ],
+    "textEn": [
+      "\"I said, I said...!!!",
+      "I don't know, I don't know!!",
+      "You're wrong, you're wrong... Please stop, please, please forgive me... aahhhhhhhhhhaaahhh... ahh... ah...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おち、…落ち着けよ…。",
+      "……沙都子、…俺がわかるか…？」"
+    ],
+    "textEn": [
+      "\"Just... just calm down...",
+      "...Satoko... Do you know who I am...?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「もうやだもうやだ…、やですやです…、ひぃ……ひいッ！！！」"
+    ],
+    "textEn": [
+      "\"No more, no more... I hate this I hate this... ee... eeee!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺が一歩近付く度に、カーテンの束をきつく抱いて…泣き叫ぶ。"
+    ],
+    "textEn": [
+      "Every time I took a step forward, she grasped the curtains more tightly... and cried out."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…沙都子、…俺だよ、……圭一だ。",
+      "わかんないのか？！",
+      "お前に危害なんか…加えない！！」"
+    ],
+    "textEn": [
+      "\"...Satoko... it's me... it's Keiichi.",
+      "Don't you recognize me?!",
+      "I would never... ever hurt you!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「嫌ぁあぁあああああぁああぁぁあッ！！！",
+      "わぁあああぁあああっぁあん！！",
+      "わあああぁああぁああん！！」"
+    ],
+    "textEn": [
+      "\"Nooooooooooooooooooooo!!!",
+      "Waaaaaaaaaaaaaaahhhh!!",
+      "Waaaaaaaahhhhhh!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「だから落ち着けって…！",
+      "大丈夫だ、…俺はお前の味方だって…！！」"
+    ],
+    "textEn": [
+      "\"Come on, calm down...!",
+      "It's all right... I'm your friend...!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「助けて…助けてぇええぇッ！！！",
+      "怖いのやだ…気持ち悪いの…やだ………やだ……、…わああぁああああぁあぁあぁああんッ！！！」"
+    ],
+    "textEn": [
+      "\"Help... help meeeeeeeeeeee!!!",
+      "I don't wanna be scared... it feels bad... no... I don't... waaaaaaaaaaaaaaaaaaahhhhh!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の肩が突然掴まれ、後ろへぐいっと引かれる。",
+      "…レナだった。"
+    ],
+    "textEn": [
+      "Suddenly, my shoulders were grabbed and I was dragged backward.",
+      "...It was Rena."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…ごめん圭一くん！",
+      "圭一くんはちょっと後ろに行ってて！！」"
+    ],
+    "textEn": [
+      "\"...Sorry, Keiichi-kun!",
+      "You get a little farther back!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが引っ張り戻した俺に代わって沙都子に駆け寄る…。"
+    ],
+    "textEn": [
+      "After pulling me back, she ran towards Satoko in my place..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…大丈夫だよ沙都子ちゃん、もう怖いことなんかないよ…！",
+      "ほら、…安心して！」"
+    ],
+    "textEn": [
+      "\"...It's okay, Satoko-chan, there's nothing to be scared of...!",
+      "Please... don't worry!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「やだやだやだ……もうやだやだ……、",
+      "あんなの…やだぁ……、",
+      "ぅああうぅあぅうぅ………！！！",
+      "……にーにー…、にーにーーッ！！",
+      "助けて…！　助けてぇえぇ！！",
+      "にーにー助けてよぉおぉぉ……、わああぁあぁああぁああん！！！」"
+    ],
+    "textEn": [
+      "\"No, no, no... No more, no...",
+      "No more of... of that...",
+      "wahhhh, ahhh, uuhhhh...!!!",
+      "...Nii-nii... Nii-niiiiii!!",
+      "Help me...! Help meeeee!!",
+      "Nii-nii, help meeeee... waaaaaaaahhhhhhhh!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…カーテンの束に抱きつき、……にーにーの名を呼び続けながら……沙都子は何かへの許しと何かへの助けを……ただただわめき続けた。",
+      "…………な、………何だよ、……………これ………。"
+    ],
+    "textEn": [
+      "...As she gripped the curtains... and kept calling for Nii-nii... she continued to wail about being forgiven for something... and to be saved from something.",
+      "......What... what is......... this..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………………………………ぐ、………ぐ…！」"
+    ],
+    "textEn": [
+      "\"...............Urgh... gh...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は…歯をぎりぎり言わせながら…固くつぶった両目から…涙をこぼしていた。"
+    ],
+    "textEn": [
+      "Mion gnashed her teeth and groaned... and there were tears... falling from her firmly closed eyes."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……どうなって…んだよ……、これ…。",
+      "……昨日で、…全部終わったんじゃないのか…？",
+      "今日から……また元の生活に…戻っていくんじゃ…ないのか…？！",
+      "魅音、…魅音んんんッ！！」"
+    ],
+    "textEn": [
+      "\"...What the hell... what is this...",
+      "...Didn't... didn't this all come to an end yesterday...?",
+      "Weren't we... supposed to go back... to our old lives...?!",
+      "Mion... Mioonnnnnn!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………………………ぐ、………ぅぅッ！」"
+    ],
+    "textEn": [
+      "\"...............Urgh... mmgh!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ガッシャーーーーン！！",
+      "…すごい音がした。",
+      "………レナが、清掃用具入れを…蹴り倒した音だった。",
+      "誰も予想しなかったレナの蛮行に…みんなが驚く。",
+      "………それからレナは、…泣きじゃくる沙都子の背中を抱いて……………………噛み殺すように、一緒に泣いた。"
+    ],
+    "textEn": [
+      "Craaaaashhh!!",
+      "...There was a crazy sound.",
+      "...Rena had taken the cleaning supply locker... and kicked it down to the ground.",
+      "Everyone stood surprised... at Rena's unexpected act of brutality.",
+      "...After that... Rena embraced the bawling Satoko from behind............ and started crying with her, stifled."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……レナ、……どうした…。」"
+    ],
+    "textEn": [
+      "\"...Rena... What's wrong...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………………………………ごめん。",
+      "…圭一くん、…ちょっと黙ってて。」"
+    ],
+    "textEn": [
+      "\"............Sorry.",
+      "...Keiichi-kun... be quiet for a minute.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………今のは何だよ。",
+      "…どうしたんだよ…！",
+      "沙都子から何か聞いたのか？",
+      "何を聞いたんだよ！！」"
+    ],
+    "textEn": [
+      "\"...What is it now?",
+      "...What happened...?!",
+      "What did Satoko tell you?",
+      "What did you hear?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うっさいなぁああぁッ！！"
+    ],
+    "textEn": [
+      "\"Shut the hell up!!"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "黙ってろって言ってんでしょおおぉッ！！！」",
+      "レナの敵意をむき出しにした感情の塊が、俺を打ちのめした。",
+      "…それはレナにとって、一時の激情の咆哮に過ぎなかったわけだが、………俺には、それ以上があった。",
+      "……レナの激情の裏側にある、…心まで、……伝わってきてしまった。"
+    ],
+    "textEn": [
+      "I told you to shut your mouth, asshole!!!\"",
+      "Rena's raw, hostile emotion hit me like a brick.",
+      "...It was no more than a momentary howl of emotion for Rena... but it was more than that for me.",
+      "...She had shown me... what was behind all that emotion... what was in her heart."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「………………………ぅぅぅぅぅ…、」"
+    ],
+    "textEn": [
+      "\"............ooooh...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……沙都子、",
+      "…ちゃん………。」"
+    ],
+    "textEn": [
+      "\"...Satoko...",
+      "chan......\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「やだやだやだやだ…、もうやだやだやだ……ぅぁあぁうぁぅ………、」"
+    ],
+    "textEn": [
+      "\"No, no, no, no... no more, no more... waahhh, wahhh......\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「許して……、何もできなかった私たちを……許して……。」"
+    ],
+    "textEn": [
+      "\"Forgive us... We couldn't do anything for you... Forgive us...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ぅ、……うああぁああぁあぁああん！！",
+      "にーにー…！",
+      "にーにー！！！",
+      "にぃーにぃいいぃいいぃ…！！！」"
+    ],
+    "textEn": [
+      "\"Wah... waaaahhhhhhhh!!",
+      "Nii-nii...!",
+      "Nii-nii!!!",
+      "Nii-niiiiiiiiiiiii...!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…ごめんね…！",
+      "ごめんね！！",
+      "……ぅぅぅぅぅぅ…！！！」"
+    ],
+    "textEn": [
+      "\"...I'm sorry...!",
+      "I'm sorry!!",
+      "...oooooh...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何もできなかった、…私たちを、…許して。",
+      "そのレナの言葉に、頭の後ろの血管が…急に灰になっていくような感覚を味わう。",
+      "……視界が遠のき、……灰色混じりになって、……世界が色彩を…失う。",
+      "………沙都子ってのは…救えるものだと思ってた。",
+      "……でも、…その救うのにかけられる時間は…短い方がいいにせよ……限りなんかないと思ってた。",
+      "……手遅れなんてことがあるなんて、……夢にも思わなかった……ッ！",
+      "俺は…大きな間違いをしていた。",
+      "………沙都子という存在が痛みこそすれ…壊れることなんかないと思ってた。",
+      "……何て…大それた間違い！！",
+      "人は…壊れるんだよ。",
+      "…壊れないなんて思うことの方が…絶対におかしいんだよ！！",
+      "沙都子を…救わなければならなかった。",
+      "…壊れる前に、助けなければならなかった。",
+      "…その致命的な認識不足が……今日を、招いたのだ。",
+      "誰のせい？",
+      "…そんなのは決まっていた。",
+      "…俺、いや、俺たちだ。",
+      "…沙都子を救わなければならないという義務を負いながら、…怠慢にもそれを怠った。",
+      "そう思うなら、…これは必然の結果だったのだ。",
+      "仮に今日という日が今日でなく、明日や明後日、来週起こることだったにせよ…俺たちはきっとその日までぼーっとしているだけだったに違いない…！！",
+      "だから…これは……当然の…終末！！",
+      "…がくりと……膝を付く。",
+      "………魅音や、…梨花ちゃんもそうしているように。",
+      "……俺も、……固く目をつぶって……すすり泣くしか、……なかった………。"
+    ],
+    "textEn": [
+      "Forgive us... for being unable... to do anything.",
+      "Rena's words... made me feel as though... the blood vessels in the back of my head were suddenly all turning to ash.",
+      "...My vision grew distant... blurred with grey... and the world... lost its color.",
+      "......I thought... I thought we could save Satoko.",
+      "...But... though I knew it'd be the sooner the better... I thought there was no time limit... for doing that.",
+      "...I never even dreamed... that we could be too late...!",
+      "I... I'd been making a huge mistake.",
+      "...I thought Satoko could be hurt... but never that she'd break.",
+      "...It was... such a huge mistake!!",
+      "People... they break.",
+      "...Thinking that they don't... is absolutely absurd!!",
+      "We... We needed to save Satoko.",
+      "...We needed to save her before she broke.",
+      "...That fatal lapse in awareness... had brought this on.",
+      "Whose fault was it?",
+      "...That went without saying.",
+      "...Mine—no, ours.",
+      "...We all took on the duty of saving Satoko... but we were negligent to the point of laziness.",
+      "In that sense... this was the inevitable result.",
+      "Even if this didn't happen today, and it happened tomorrow, or the day after, or next week... we would have just sat around doing nothing until that day...!!",
+      "So this... this was... the obvious result!!",
+      "...I slumped... down to my knees.",
+      "......Just as Mion... and Rika-chan had done.",
+      "...And I, too... closed my eyes tight... and couldn't stop myself... from sobbing..."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…な、何の騒ぎですか？！",
+      "……ちょっと、何があったんです？！」"
+    ],
+    "textEn": [
+      "\"...W-What is all the noise about?!",
+      "...Wait, what's happened?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "先生がやって来て…眼下の惨状に…目をしかめる。",
+      "先生が来たことを認めた瞬間に、沙都子に再び激変が起こった。",
+      "………カーテンでごしごしと顔を拭くと…何事もなかったような笑顔を浮かべたからだ。"
+    ],
+    "textEn": [
+      "The teacher came... and her face screwed up... at the terrible spectacle before her.",
+      "The instant she realized the teacher was here, Satoko went through another complete change.",
+      "...She wiped her face with the curtains... and, like nothing happened, smiled."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「北条さん…？",
+      "これは一体何事ですか！」"
+    ],
+    "textEn": [
+      "\"Houjou-san...?",
+      "What on earth is going on here?!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…ほほ、ほほほほほほほほほ！",
+      "ちょっと…レナさんと喧嘩になってしまっただけですのよ。",
+      "お弁当を巡ってちょっぴり大暴れなんですの。",
+      "…ねぇ？」"
+    ],
+    "textEn": [
+      "\"...Hoho, hohohohohohohoho!",
+      "I just... got into a little squabble with Rena-san is all.",
+      "We went a little crazy over our lunches.",
+      "...Right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは頷き返さなかった…。",
+      "でも……それを沙都子が望むならと、…力なく頷く。",
+      "…クラス中、……そのあまりの沙都子の変化に付いていけない。",
+      "…ただ…呆然とするしか…なかった。"
+    ],
+    "textEn": [
+      "Rena didn't nod in reply...",
+      "But then... since Satoko wished it... she nodded without strength.",
+      "...The rest of the class... couldn't keep up with her extreme changes.",
+      "...We all just... stared... in a daze."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……をっほっほ…、ちょっと悪ふざけをしただけ…なんですのよ？",
+      "皆さん、度肝を抜かれすぎでございますわね。",
+      "をっほっほっほっほ…。」"
+    ],
+    "textEn": [
+      "\"...Oh-ho-ho... It was just a little... horseplay.",
+      "I scared everyone out of their wits.",
+      "Oh-ho-ho-ho-ho-ho...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子は…この場を誤魔化しきるだろう。",
+      "……何のために？",
+      "……心までずたずたにされて、……これ以上、…何のために…？！",
+      "お前…さっき、にーにーに助けを求めたよな…？",
+      "でもな、…お前にゃ悪いが…悟史は…帰ってくる気はないんだよ！！",
+      "…都合よく現れて助けてくれるほど…現実は甘くないんだよッ！！！",
+      "だから…もう悟史なんか待たなくていいんだ！！",
+      "泣いて助けを求めて…逃げていいんだよッ！！",
+      "うおおおぉおおおおおおっぉおおおおおッ！！！"
+    ],
+    "textEn": [
+      "Satoko... would probably sweep the whole thing under the rug.",
+      "...For what?",
+      "...Her heart is torn to pieces... so what... what else...?!",
+      "You... wanted your Nii-nii to help, didn't you...?",
+      "But... unfortunately for you... Satoshi... doesn't ever intend on coming back!!",
+      "...It's never that easy... He won't just conveniently show up and save you!!!",
+      "So... you don't have to wait for him anymore!!",
+      "You can cry, beg for help... and you can run away!!",
+      "Wohhhhhhhhhhhhhhhhhhhhhhh!!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……私たちが…………",
+      "無力だから………！！」"
+    ],
+    "textEn": [
+      "\"...We......",
+      "we can't do anything...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が…ぽつりと、…言った。",
+      "……何度も俺を苛んできた、…あの一言を、言った。",
+      "その呪いの言葉が、耳に入った時。",
+      "…………全身が急に…冷静さを取り戻す。",
+      "……すーーっと、……嘘のように、…感情の波が引いていった。",
+      "その時…、世界の色彩がぐるりと反転する！",
+      "視界がぐっと広がる。",
+      "頭がぐんと冴え渡り、頭の中の面積がこの教室を遥かに越えて広がりを得たことを実感した。",
+      "その時、俺という魂は間違いなく、頭なんてちっぽけな器の中にじゃなく、それよりもう少し上方に浮き上がっていた。",
+      "それは…不思議な開放感だ。",
+      "…頭蓋骨なんていう、狭い殻から抜け出し…四方八方に…思う存分に…根が伸ばせる。",
+      "………今までに一度も感じたことのない、…不思議な感覚。",
+      "…奇妙な……爽快感。",
+      "そんな研ぎ澄まされた精神が、",
+      "……俺を、超越する！！",
+      "ナイフより鋭利になった心が…悲しみに押し潰されることに時間を費やすことを、瞬時に時間の浪費だと判断した。",
+      "…脳内から不要情報を削除。",
+      "行動に支障を来たす無駄な感情を排斥。"
+    ],
+    "textEn": [
+      "Mion... suddenly said.",
+      "...She spoke then... those few words that had tormented me countless times.",
+      "Those words were a spell, and when I heard them.",
+      "......My whole body... suddenly regained its calm.",
+      "...My emotions... all slipped away like they'd never been there... like a wave departing.",
+      "And then... the world's color flipped inside-out!",
+      "My field of view expanded.",
+      "My head grew remarkably cold, and I felt like my mind's volume had grown even wider than the classroom we were in.",
+      "At the time, my soul was doubtlessly no longer in the small, petty vessel of my head, but floating in the air a little bit above it.",
+      "It was... a mysterious feeling of release.",
+      "...I broke free of the cramped confines of my skull... and stretched out my roots... in all directions... as far as I wanted to.",
+      "...It was a strange feeling... and one I'd never felt ever before.",
+      "...An odd... sense of exhilaration.",
+      "My sharpened senses...",
+      "caused me to transcend!",
+      "My mind was sharper than a knife's edge... and I immediately decided that spending the time to let myself be crushed with grief would be an absolute waste.",
+      "...I erased all the garbage information from my brain.",
+      "I expelled the pointless emotions presenting obstacles to action."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………魅音。",
+      "…お前は呪ってろ。",
+      "自分の無力さをいつまでも。」"
+    ],
+    "textEn": [
+      "\"......Mion.",
+      "...You curse it all you want.",
+      "Curse our powerlessness as much as you want.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………え…？」"
+    ],
+    "textEn": [
+      "\"......Huh...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…起こったことを嘆いて取り返せるなら、いくらでも嘆いてやる。",
+      "…だが、ここまで事態が進んだのだけは事実。",
+      "それはもう起こった事実で取り返せない。",
+      "…ならば最優先課題は、これ以上の悪化を阻止、不幸の連鎖を断ち切ることだ。",
+      "…俺は今日まで、信じられないくらいに狭い視野でものを考えてきた。",
+      "沙都子を救うには沙都子を救うしかないと、それだけしか考えなかった。",
+      "…沙都子の不幸の元凶の摘出というもっとも根本的かつ直接的かつ絶対的で唯一無二な方法に気付こうともしなかった。",
+      "いや、……昨日気付いていた。",
+      "でもその手段は、オヤシロさまの祟りなどといういい加減なものに頼って、…自ら執行することを考えなかった。",
+      "沙都子の叔父を、",
+      "抹殺する",
+      "。",
+      "そのための方法はいくらでもある。",
+      "それこそ無限の手段があるのだ。",
+      "皮肉にも、沙都子を救うための手段のほとんどに資本を必要だとされたのに対し、",
+      "あの男を抹殺する方法のほとんどにはまったくと言っていいほど資本はかからない。",
+      "最低限の投下資本であの男は抹殺できるのだ。",
+      "最低限の資本と吊り合う程度。",
+      "それがあの男の命の重さの程度なのだ。",
+      "頭から下らない情報が次々と淘汰されていき、…目的を遂行するためだけに必要な知識が充填されていく。",
+      "脳内の全ての細胞を、あの男を抹殺するためへと回転させる。",
+      "殺害の方法は何でも構わない。",
+      "延長上に確実かつ迅速な死があるなら古今東西のあらゆる方法を許可する。",
+      "付加条件があるとしたら、俺が捕まらないことが望ましい。",
+      "あの男の摘出は、俺たちと沙都子に平穏な時間を取り戻すために行われる行為だからだ。",
+      "摘出と引き換えに俺が逮捕されることがあれば、それは刺し違えたのと変わらない。",
+      "あの男だけが消えて、俺たちには元通りの日々が蘇る。",
+      "それこそが至上目的。",
+      "絶対目標。",
+      "絶対に殺す。",
+      "だけれども絶対に証拠を残すな。",
+      "矛盾する両天秤。",
+      "自らの痕跡を残さないという条件は自動的にいくつもの殺害手段を狭めていく。",
+      "目撃がないのも絶対条件だ。",
+      "幸いにして雛見沢は時間帯を選べばほとんど人はいない。",
+      "沙都子の自宅周辺の地形を再構築。",
+      "…時間帯で変動する通行量。",
+      "周辺住民の行動アルゴリズム。",
+      "誘い出すか、襲撃するか。",
+      "武器は何か。",
+      "いつどこで実行するか。",
+      "場所は自身の痕跡を残さずに済むのが条件。",
+      "時間の条件はそれに加え、沙都子の保護のため万分の一秒でも早く遂行しなくてはならないという条件が付く。",
+      "下らない下らない。",
+      "こうして考えると、殺すという行為がどれほど簡単かわかる。",
+      "証拠が残ってもいいなら、ただ殺すだけなら、誰だってお手軽に殺人なんか犯せたのだ。",
+      "でも理性がそれを止めるのだ。",
+      "やれば必ず逮捕されると。",
+      "結局、殺人行為を思いとどまらせる究極の抑止力は、警察に逮捕されるということだけなのだ。",
+      "（下らない！）",
+      "もしも水平線までの洋上のど真ん中で、絶対に証拠が残らないことがわかっているなら、誰だって憎いヤツを海に突き落とす！",
+      "あの男の摘出だけならあまりに容易。",
+      "今すぐこの教室を抜け出し校庭で金属バットでも拾ってあの男の家を襲う。",
+      "推定所要時間は２５分。",
+      "刺し違えるつもりなら、秒に直してわずか１５００秒以内に遂行できるのだ。",
+      "あの男がいかに生かされているかがわかる。",
+      "俺が決意してわずか１５００秒でこの世から放逐されてしまう程度の存在なのだ。",
+      "俺が決意したら余命はわずか１５００秒。",
+      "いや、…駆け足でヤツの家を目指せば、その余命はさらに縮むだろう。",
+      "でもあの男は生きている。",
+      "沙都子を身を心もズタズタにし、今この瞬間も生き永らえている。",
+      "どうして？！",
+      "俺が生かしているからだ。",
+      "俺が、あいつに生きることを許可しているからまだ生きていられるのだ。",
+      "俺がその許可をやめれば、１５００秒でこの世から退去しなくてはならない。",
+      "……てめぇに、あと１５００秒も地上の空気を吸わせるかよ。",
+      "…そんな許可、今この瞬間から全て取り消す。",
+      "今日まで永らえたことをこの俺に感謝せよ。",
+      "だが実際には１５００秒以上いる。",
+      "貴様を葬るだけでなく、俺たちには元の日々を取り戻すというもっとも大事なことがあるからだ。",
+      "…貴様という存在だけが綺麗にこの世から消える。",
+      "犯人は見つからない。",
+      "俺はお前ごときに手を汚したことなんか、寝る前に歯を磨くことくらい、自然で当り前に忘れてやる。",
+      "そのために、貴様に１５００秒以上の余命を特別に許そう。",
+      "完璧な殺害計画が構築できるまで、昨日までと変わらない生活を続けることを特別に許可してやろう。",
+      "だが圭一。",
+      "その時間を無駄にかけるのはよくないぞ。",
+      "あぁわかってる。",
+      "迅速に殺す。",
+      "確実に摘出する。",
+      "その計画を練るための時間だって不必要にかけない。",
+      "…思い出せよ、明日は綿流しじゃないか。",
+      "去年の綿流しの夜、叔母は死んだ。",
+      "異常者に頭を滅茶苦茶に叩き潰されて脳みそをぶちまけながら。",
+      "そうだ、ヤツこそ綿流しの夜に死を与えられるに相応しい存在。",
+      "おいオヤシロさま。",
+      "あんたは守り神なのに沙都子を守らなかった。",
+      "ダム絡みで沙都子の一族を祟るのは勝手だが、その結果、ダムには無関係のはずの沙都子を不幸にした。",
+      "…前原圭一の名において、お前を雛見沢の守り神失格とする。",
+      "てめぇは不要だ。",
+      "神社の社の奥で今年は引っ込んでいろ。",
+      "そもそもお前が去年の時点で叔父叔母まとめて祟殺していりゃこんなことにはならなかったんだからな！",
+      "今年の祟りはお前じゃない。",
+      "俺が決める。",
+      "連続怪死事件を裏で操る御三家なんて間抜けでいるかいないかもわからない霞みたいな連中じゃなく、俺自身が神託を下して執行する。",
+      "だから貴様は邪魔せずに見ていろ、",
+      "黙って見てろ。",
+      "完全に抹殺する、",
+      "地上から消し去る。",
+      "忽然と…消し去ってやる！！",
+      "消えろ、",
+      "消えてしまえ、",
+      "そして死んでしまえッ！！",
+      "沙都子の心を引き裂いたように、貴様の心臓を引き裂いてやるッ！！",
+      "償えその血をもってッ！！！",
+      "う",
+      "ぅ",
+      "お",
+      "お",
+      "お",
+      "お",
+      "ぉ",
+      "お",
+      "お",
+      "お",
+      "ぉ",
+      "お",
+      "お",
+      "お",
+      "お",
+      "お",
+      "お",
+      "お",
+      "お",
+      "ぉ",
+      "お",
+      "お",
+      "ぉ",
+      "ぉ",
+      "お",
+      "お",
+      "お",
+      "ぉッ！！！"
+    ],
+    "textEn": [
+      "...If I could have taken back what had happened by crying about it, I'd have cried all day.",
+      "...But the fact was, this was how things had turned out.",
+      "I couldn't take back what had happened.",
+      "...The top priority, then, would be to prevent the situation from worsening further and to sever the chains of misfortune.",
+      "...Until today, I'd been looking at things so narrow-mindedly I could scarcely believe it.",
+      "To save Satoko, the only thing to do was to save Satoko—that's the only thing I thought about.",
+      "...I didn't allow myself to realize the most basic, direct, and certain way of removing the source of Satoko's unhappiness.",
+      "No... Actually, I realized it yesterday.",
+      "But as for the means, I'd relied on some stupid curse from some dumb deity... I never considered carrying the task out myself.",
+      "I would",
+      "obliterate Satoko's uncle",
+      ".",
+      "There were plenty of ways to do it.",
+      "This was a task that held infinite methods.",
+      "Ironically, the method of saving Satoko required mostly money,",
+      "but the method of killing that man pretty much took no money at all.",
+      "I could kill him with the least amount of investment.",
+      "The least amount of money suited him.",
+      "It was only the weight of his life.",
+      "I kept eliminating needless, worthless information from my head, replenishing it with only the knowledge I'd need to achieve my goal.",
+      "I used every cell in my brain to think about how I'd kill him.",
+      "The way I killed him didn't matter.",
+      "I would allow any method, from whatever time and whatever country, as long as it ended in a quick and certain death.",
+      "If I were to have an additional condition, it would be to not get caught.",
+      "Removing him was an act designed to return the peaceful times we had with Satoko.",
+      "If I was arrested in exchange for the removal, then we might as well have killed each other.",
+      "With only him gone, we'd go back to our normal lives.",
+      "That was my supreme objective.",
+      "My ultimate goal.",
+      "Kill him, definitely.",
+      "But definitely don't leave evidence either.",
+      "Two alternatives at odds with one another.",
+      "The condition of not leaving a trace back to me automatically narrowed the number of murder methods.",
+      "No witnesses was an absolute must.",
+      "Fortunately, given the right time in Hinamizawa, there would be nobody around.",
+      "I mentally reconstructed the land around Satoko's house.",
+      "...The number of pedestrians, different at different times.",
+      "The movement algorithm of the neighbors.",
+      "Would I lure him out, or charge at him?",
+      "What would my weapon be?",
+      "When and where would I carry this out?",
+      "Where—it needed to be somewhere I wouldn't leave a trace.",
+      "When—it needed to be as soon as possible, for Satoko's safety, without wasting even a millisecond.",
+      "This is absurd—completely absurd.",
+      "When I thought about it this way, it struck me how easy the act of killing was.",
+      "If I could leave evidence, if I was just going to kill him, anyone could easily turn into a murderer.",
+      "But our reason prevented that.",
+      "It told us doing so would get us arrested for sure.",
+      "In the end, being arrested by the police was the final thing preventing people from committing homicide.",
+      "(Absurd!)",
+      "If you went all the way out into the very middle of the ocean, you wouldn't leave any trace at all—anyone would drop those they hated into the depths if they knew that!",
+      "It was all too easy to simply remove him.",
+      "I could leave class right now, grab a metal baseball bat or something from the schoolyard, go to his house, and attack him.",
+      "Estimated time would be 25 minutes.",
+      "If I wanted us to kill each other, it wouldn't even be minutes—I could do it in 1500 seconds.",
+      "I knew just how much his continued existence depended on me.",
+      "He was nothing—I could expel him from this world within just 1500 seconds after making up my mind.",
+      "From when I decided what to do, he only had 1500 seconds.",
+      "Actually... if I ran full speed to his house, that number would go down even further.",
+      "But he was alive.",
+      "He was still part of this world at this very moment, having torn Satoko's body and mind to shreds.",
+      "Why?!",
+      "Because I was letting him live.",
+      "I was permitting him to live, so he was alive.",
+      "If I rescinded that permission, he would be evacuating this mortal coil within 1500 seconds.",
+      "...You think I'd let you live to breathe even 1500 more seconds of air?",
+      "...I'm taking that permission back—right here, right now.",
+      "You'd better thank me for letting you live until today.",
+      "However, I actually need more than 1500 seconds.",
+      "I'm not just gonna end you—getting back our old lives is far more important.",
+      "...It's only you I'll be cleanly cutting out of this world.",
+      "They won't find a culprit.",
+      "I'll forget that I dirtied my hands on the likes of you as naturally as I brush my teeth before bed.",
+      "So to do that, I'll make a special exception for you and give you more than 1500 seconds.",
+      "I'll give you special permission to keep on living as you have until I can construct the perfect plan for your murder.",
+      "Wait, Keiichi.",
+      "You can't let that time go to waste.",
+      "Yeah, I know.",
+      "I'll kill him quickly.",
+      "I'll remove him with certainty.",
+      "I won't misuse any time to think of a plan.",
+      "...Think back—tomorrow is Watanagashi, isn't it?",
+      "Last year on the night of Watanagashi, her aunt died.",
+      "Her head was busted open by some deviant, and her brains splattered everywhere.",
+      "That's it—he's someone who deserves to be given death on the night of Watanagashi.",
+      "Hey, Oyashiro-sama.",
+      "You call yourself a guardian, but you didn't protect Satoko.",
+      "Cursing Satoko's family for the dam stuff is your own business, but now you've made Satoko unhappy when she didn't have anything to do with it.",
+      "...I, Keiichi Maebara, hereby denounce you, the guardian deity of Hinamizawa, a failure.",
+      "We don't need YOU.",
+      "Go back to the deepest, darkest part of your shrine this year.",
+      "Besides, if you had just cursed and killed both her aunt and her uncle last year, none of this would have ever happened!",
+      "The curse this year—it's not on you.",
+      "I'll be the one deciding.",
+      "It won't be the Three Families controlling the serial deaths behind the scenes—no, not some vague people who I can't tell if they're buffoons or not—this time, I'll be the one to deliver divine judgment.",
+      "So don't get in my way, just watch...",
+      "Stay quiet and watch.",
+      "I'll obliterate him.",
+      "I'll wipe him off the face of the earth.",
+      "I will... stomp out his very existence!!",
+      "Go away!",
+      "Disappear!",
+      "And die!!",
+      "I'll tear your heart apart just like you did to Satoko!!",
+      "I'll have your blood as payment!!!",
+      "W",
+      "h",
+      "o",
+      "o",
+      "o",
+      "o",
+      "o",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "r",
+      "r",
+      "r",
+      "g",
+      "g",
+      "g",
+      "g",
+      "h",
+      "h",
+      "h",
+      "h",
+      "h",
+      "h!!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…圭一くん、……大丈夫…？」"
+    ],
+    "textEn": [
+      "\"...Keiichi-kun... Are you all right...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナと魅音と、…梨花ちゃんが俺を介抱していた。",
+      "……俺は、床に倒れていた…？"
+    ],
+    "textEn": [
+      "Rena, Mion... and Rika-chan were looking after me.",
+      "...Had I fallen to the floor...?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……急に倒れたからびっくりしたよ。",
+      "…うなされてなかった？",
+      "うなってたよ…。」"
+    ],
+    "textEn": [
+      "\"...You surprised us. You suddenly fell down.",
+      "...Were you having a nightmare?",
+      "You were moaning...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「うるさい。",
+      "…黄色い声で話しかけるな。」"
+    ],
+    "textEn": [
+      "\"Shut it.",
+      "...Quit squeaking at me like that.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………ッ！！」"
+    ],
+    "textEn": [
+      "\"......!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………ひ、…！」"
+    ],
+    "textEn": [
+      "\"...Eep...!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………………。」"
+    ],
+    "textEn": [
+      "\".........\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "びくっとして、仲間たちが後退る。"
+    ],
+    "textEn": [
+      "My friends gave a start and backed away."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………………何だよ。」"
+    ],
+    "textEn": [
+      "\"............What?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナたちは…互いの顔を見合って、何を言えばいいのか…しばし困惑していた。"
+    ],
+    "textEn": [
+      "Rena and the others... they exchanged glances, unsure of what to say... and stood confused for a few moments."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……い、………今の…圭一くんの、…声？」"
+    ],
+    "textEn": [
+      "\"...W... Was that... your voice, Keiichi-kun?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………当り前だろ。」"
+    ],
+    "textEn": [
+      "\"......Of course it was.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが一度、固い唾を飲み込んでから…口を開く。"
+    ],
+    "textEn": [
+      "Rena gulped firmly... and opened her mouth."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……今、一瞬、……………圭一くん、……その、…すごい目だった。」"
+    ],
+    "textEn": [
+      "\"...For a second... Keiichi-kun... your eyes were... really scary.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…目………？",
+      "光の角度でそう見えたんだろ。",
+      "……馬鹿馬鹿しい。」"
+    ],
+    "textEn": [
+      "\"...My eyes...?",
+      "Probably just a trick of the light.",
+      "...Don't waste my time.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………み、…見間違いじゃないよ。",
+      "…………あんな目、…初めて見た。」"
+    ],
+    "textEn": [
+      "\"......I... I'm not mistaken.",
+      "......I've never seen... those kind of eyes before.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…何を言ってるんだこいつら。",
+      "…こいつらは最近、俺に怖がり過ぎだ。"
+    ],
+    "textEn": [
+      "...What were these guys talking about?",
+      "...They've all been too scared of me lately."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………………前原圭一くん、",
+      "………だよね？」"
+    ],
+    "textEn": [
+      "\"......You are Keiichi Maebara-kun...",
+      "right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは、…何を言ってんだ？",
+      "…俺が前原圭一以外の誰に見えるんだよ。",
+      "…そういう不機嫌な考えは、俺の目つきが雄弁と物語ってしまったらしかった。",
+      "それが伝わり、レナが慌てて謝る。"
+    ],
+    "textEn": [
+      "What... was Rena saying?",
+      "...Who else do I look like except Keiichi Maebara?",
+      "...The look I gave her seemed to speak quite eloquently to those irritated thoughts.",
+      "She understood, and quickly apologized."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…ごっ、ごめん。",
+      "……気にしないでね！」"
+    ],
+    "textEn": [
+      "\"...I-I'm sorry.",
+      "...Don't worry about it!\""
+    ]
+  }
+]

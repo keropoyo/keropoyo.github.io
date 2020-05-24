@@ -1,0 +1,33 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「赤坂さんは持ってるんですか？",
+      "「コレ」。」"
+    ],
+    "textEn": [
+      "\"Akasaka-san, are you carrying one?",
+      "One of these.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……ほら、昨日、一緒に麻雀やったメンツに、お年寄りさんいたでしょ。"
+    ],
+    "textEn": [
+      "\"...Hey, the old guy that was playing mahjong with us last night?"
+    ]
+  }
+]

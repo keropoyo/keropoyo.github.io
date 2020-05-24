@@ -1,0 +1,4974 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "車は、いつも魅音と待ち合わせる場所で停まった。",
+      "そう言えば…魅音の家には一度も行ったことはない。",
+      "…この先をいくとすぐにあるとだけしか聞いたことがない。"
+    ],
+    "textEn": [
+      "Ooishi stopped the car at the place where we always waited for Mion.",
+      "Come to think of it... I've never been to Mion's house before.",
+      "...I've only heard that it's right down this road."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……お送りできるのはここまでです。",
+      "情報では、園崎本家は自宅周囲に監視カメラをかなり配置してるらしいんですよ。"
+    ],
+    "textEn": [
+      "\"...This is as far as I can take you.",
+      "According to our information, there are quite a few security cameras set up on the premises."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "でもご安心を。",
+      "何とか死角を突いて、突入できる位置に若いのが何人か待機してます。",
+      "指向性マイクで中をうかがってますから、お二人が大きな悲鳴をあげてくだされば、すぐにわかりますよ。」"
+    ],
+    "textEn": [
+      "Still, don't worry.",
+      "I've got a bunch of youngsters ready and waiting to slip past them and go in.",
+      "We'll be monitoring the inside with a one-way mic, so if you two give a loud scream, we'll know right away.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……絶対に説得しますから、自首を認めてくださいね。」"
+    ],
+    "textEn": [
+      "\"...We'll persuade her for sure, so please be ready for her to turn herself in.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…俺とレナの目に…決意が宿る。",
+      "……親友の罪をわずかでも軽くする唯一の方法なのだ。"
+    ],
+    "textEn": [
+      "...In both our eyes... was determination.",
+      "...It was the only method available to us for lightening the sins of our good friend."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「くれぐれも注意して下さい。",
+      "今さら信じないでしょうが、…できることならあなたたちに犠牲になって欲しくないんですから。」"
+    ],
+    "textEn": [
+      "\"Be plenty careful, you hear?",
+      "You probably don't believe it right now... but I don't want you two being sacrificed if at all possible.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……本当に今さらだな。」"
+    ],
+    "textEn": [
+      "\"......You're right about that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悪態を残し、車外へ出た。",
+      "むわっとした熱気とセミの声が迎える。",
+      "……昨日までと何らかわらないはずの日中だった。"
+    ],
+    "textEn": [
+      "With that rude response, we left the car.",
+      "The clinging humidity and voices of the cicadas greeted us.",
+      "...I'd never have expected this would be happening today."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……行こ。",
+      "圭一くん。」"
+    ],
+    "textEn": [
+      "\"...Let's go,",
+      "Keiichi-kun.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが先頭を切って歩き出す。",
+      "…それは初めて歩く道だった。"
+    ],
+    "textEn": [
+      "Rena took the lead and began to walk...",
+      "down the road I'd never been."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナは、…魅音の家には行ったことがあるんだよな。」"
+    ],
+    "textEn": [
+      "\"Rena... You've been to Mion's house before, right?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "何度もあるよ。",
+      "……とても大きな家でね。",
+      "お庭なんか、山がまるごと入るくらいあるんだよ。",
+      "…松茸が取れるとか何とかで、いつもは柵がしてあるんだけどね。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "A few times.",
+      "...It's a really big house.",
+      "You could fit a mountain into their backyard, too.",
+      "...You can pick mushrooms and stuff, though there are fences everywhere.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………山がまるごと入るくらい…とは…何ともすごい。",
+      "雛見沢を牛耳る御三家のひとつで、…園崎一族をまとめるその総本家。",
+      "…そのくらいのことはあるのかもしれない。",
+      "道はたんたんと続く。",
+      "路肩には金網がされ、その向こうはうっそうと木々が茂る森になっていた。",
+      "金網は高い。",
+      "…そしてその上で手前側に折り返し、槍のように鋭く伸びていた。",
+      "さらに、その槍には物騒な有刺鉄線がまき付けてある。",
+      "……見る者を威嚇せずにはいられない。",
+      "また、金網にはところどころに看板がくくり付けてあった。",
+      "「園崎家私有地につき立入厳禁！」",
+      "「毒ヘビ注意！」",
+      "「監視カメラ作動中。",
+      "侵入者は入山料として金百万円の証文に押印していただきます。」"
+    ],
+    "textEn": [
+      "......Big enough to fit a mountain... That was amazing.",
+      "One of the Three Families controlling Hinamizawa... and the head family of the Sonozaki clan.",
+      "...Perhaps there was something to be said about its magnitude.",
+      "The path continued onward, level and uneventful.",
+      "There were metal fences along its edges, and beyond them were woods with trees growing thickly.",
+      "The fences were high.",
+      "...The tops of them bent inwards, sticking out like sharp spears.",
+      "Plus, there was dangerous-looking barbed wire wrapping them.",
+      "...No one could look at them and not feel intimidated.",
+      "In addition, there were signboards hung up here and there along the fence.",
+      "'Private property of the Sonozaki family! Entrance forbidden!'",
+      "'Beware of venomous snakes!'",
+      "'Active security cameras.",
+      "Intruders will be charged an entry fee of 1,000,000 yen.'"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……この森、…いや、山か。",
+      "…まるまる庭なのか。」"
+    ],
+    "textEn": [
+      "\"...This forest... or should I say, mountain...",
+      "...Is this all their yard?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「庭というか…領地だね。",
+      "見ての通り、私有地ではあるけど、手入れも何もしてないから。",
+      "散策ができるような気持ちいい森というわけでもないし…。」"
+    ],
+    "textEn": [
+      "\"It's more like... their domain.",
+      "As you can see, it's private property, but nobody maintains it.",
+      "The forest isn't really the kind that you can go hiking in...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "確かに。",
+      "本当にほったらかしの荒れた森という感じだった。",
+      "薄暗くてジメッとしていて…確かにあまり好き好んで踏み入りたくなる森じゃない。",
+      "…土地持ちの余らせた土地ってのは、そういうもんなのかもしれないな。",
+      "大石さんの言うとおり、ところどころに監視カメラらしいものがくくりつけてあった。",
+      "…風雨で薄汚れ、機能しているのかは怪しいが。"
+    ],
+    "textEn": [
+      "She could say that again.",
+      "It really did feel like a neglected, savage woodland.",
+      "It was dark and damp... and certainly not a forest that made you want to go for a nice walk.",
+      "...Maybe that's just what happens when a landowner has too much land.",
+      "Like Ooishi-san said, there were security cameras hung up all over the place.",
+      "...Though they had been weathered by wind and rain, casting doubt as to whether they were even functional."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……俺たちが来るの、…魅音はあれを通して見てるんだろうか。」"
+    ],
+    "textEn": [
+      "\"...I wonder if Mion is watching us... as we come to her.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「見てないと思うな。",
+      "…だって魅ぃちゃんの家は、基本的にお婆ちゃんと魅ぃちゃん本人の２人しか住んでないんだもの。",
+      "カメラを見張ってる人がいないし。」"
+    ],
+    "textEn": [
+      "\"I don't think she is.",
+      "...The only people living in Mii-chan's house are generally her and her grandma, after all.",
+      "There's nobody to watch the cameras.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……そりゃ、何とも無駄な防犯設備だな。"
+    ],
+    "textEn": [
+      "...What a useless security system."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………魅ぃちゃんのお父さんが、…いろいろ大変な人みたいでね。",
+      "だから一族がみんなで集まる時にはちゃんと機能しているらしいよ。」"
+    ],
+    "textEn": [
+      "\".........Well, Mii-chan's father... seems like a pretty tough person to get along with.",
+      "So whenever everyone in the family is getting together, the cameras are apparently working properly.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…そうだ。",
+      "魅音の親父って…確かヤクザの大物なんだよな。",
+      "レナは上手にお茶を濁しながら説明してくれた。",
+      "やがて……、想像を裏切らない、大きな門が現れた。",
+      "こんな立派な門構えの家に…あいつは婆さんと二人きりで住んでいるのか…。"
+    ],
+    "textEn": [
+      "...That's right.",
+      "Mion's father... He was a big-shot yakuza, wasn't he?",
+      "Rena smoothly danced around the answer as she explained.",
+      "At last... a huge gate, as big as I'd imagined, appeared.",
+      "Was she living by herself with her grandmother... in a house with such a grand gateway...?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……いるかな。」"
+    ],
+    "textEn": [
+      "\"...I wonder if she's here.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ビーーーーーーーー。",
+      "古い作りのブザーが鈍い音を立てる。",
+      "…途中で断線してて、家の中には伝わってないのでは…？",
+      "そう思うくらい、しばらくの間、何の反応もなかった。",
+      "……やがて、門の向こうから砂利を踏みしめる足音が聞こえてきた。",
+      "…緊張に、……手のひらに浮いた汗を握りつぶす。",
+      "ゴトリとカンヌキの開けられる音がして、門が細く開かれた。",
+      "……その隙間から覗く人影は……、紛れもなく、…魅音だった。"
+    ],
+    "textEn": [
+      "Beeeeeeep.",
+      "The old buzzer made a dull sound.",
+      "...Was it cut off in the middle and not getting to the house...?",
+      "We waited long enough without a response for me to start thinking like that.",
+      "....However, we finally heard footsteps walking through gravel on the other side of the gate.",
+      "...I nervously... balled my hands, my palms now sweating, into fists.",
+      "There was the clang of a bolt being released, and the gate opened slightly.",
+      "...The person peeking out of the gap... was none other... than Mion."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…こんな時間に珍しいね。",
+      "…２人とも学校は？」"
+    ],
+    "textEn": [
+      "\"...Well, this is unusual.",
+      "...Aren't you two going to school?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は、午前中という普通じゃない時間の来訪にもそんなに驚いた様子は見せなかった。",
+      "……むしろ、やって来ることを前もって知っているような余裕さえ感じられた。"
+    ],
+    "textEn": [
+      "Mion didn't seem all that surprised at visitors arriving in the morning, which wasn't a normal time.",
+      "...In fact, she almost seemed relaxed, as if she knew we were coming beforehand."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……学校は、…休んだよ。」"
+    ],
+    "textEn": [
+      "\"...We... stayed home today.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…ふぅん。",
+      "……圭ちゃんはともかく、レナも？",
+      "…二人とも不良なんだからなぁ。」"
+    ],
+    "textEn": [
+      "\"...Hmm.",
+      "...Kei-chan is one thing, but you too, Rena?",
+      "...You two are such troublemakers.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は…俺たちがよく知る魅音がよくそうするように、…軽く笑って見せた。"
+    ],
+    "textEn": [
+      "Mion... smiled lightly... in the way that the Mion we knew always did."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………立ち話もなんでしょ。",
+      "入りなよ。」"
+    ],
+    "textEn": [
+      "\".........Well, let's not just stand here.",
+      "Come on in.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺たちに付いてくるように身振りで促す。",
+      "……少しだけ躊躇し、レナの目を見た。"
+    ],
+    "textEn": [
+      "She gestured for us to follow her.",
+      "...I hesitated for a moment, looking at Rena."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「行こ。」"
+    ],
+    "textEn": [
+      "\"Let's go.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "親しい友人の家も門をくぐるように、レナは気さくに笑って門をくぐって見せた。",
+      "…俺も意を決し、門をくぐる。",
+      "門を抜けると…あまり手入れはされていなかったが、とにかく広い立派な敷地であることがよくわかった。",
+      "……豪邸というイメージではないが、…とにかく規模が大きいのはわかる。"
+    ],
+    "textEn": [
+      "Rena smiled cheerfully, as if she were passing through the gate of a good friend's house, and then did just that.",
+      "...I rally myself and then go through the gate too.",
+      "On the other side... It hadn't been maintained very well, but it was clear that the lot was magnificently wide.",
+      "...It wasn't quite what you'd think of when you hear 'mansion'... but it was very clearly a vast place."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんは家に来るの、初めてだったっけ？」"
+    ],
+    "textEn": [
+      "\"Was this the first time you've been here, Kei-chan?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あ、……あぁ。",
+      "…でけぇ家じゃねぇか…。」"
+    ],
+    "textEn": [
+      "\"Ah... yeah.",
+      "...This house is enormous...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「今どき合掌造りなんて流行らないよ。",
+      "観光資源にはなるかもしれないけどね。",
+      "私は早く、ごくごく平均的な鉄筋コンクリートに建て替えて欲しいと思ってるよ。」"
+    ],
+    "textEn": [
+      "\"Steep thatched roofs aren't in fashion anymore.",
+      "This place could be a tourist attraction.",
+      "I want to rebuild it using totally average and boring reinforced concrete soon.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は苦笑いしながらそう言うと、門を閉め、重いカンヌキをした。"
+    ],
+    "textEn": [
+      "Mion drily smiled as she said that, then closed the gate and re-locked the heavy bolt."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「気にしないで。",
+      "最近は物騒だからね。",
+      "日中でもこれくらいはしておかないと。」"
+    ],
+    "textEn": [
+      "\"Don't worry about it.",
+      "Things have been dangerous lately.",
+      "Gotta do at least this much during the daytime.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…あぁ、……そうだな…。」"
+    ],
+    "textEn": [
+      "\"...Yeah... You're right...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "笑いに、わずかな影が差しているように感じるのは、俺が過敏なだけなのか。"
+    ],
+    "textEn": [
+      "Maybe it was my imagination, but I thought I saw the hint of a shadow in her smile."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ではご案内申し上げます。",
+      "…どうぞこちらへ。」"
+    ],
+    "textEn": [
+      "\"Well then, good sir and madam, I shall show you inside.",
+      "...Please, come this way.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう言って、魅音は高級ホテルの従業員のようにうやうやしく一礼すると、踵を返し歩き始めた。",
+      "強張りがちな俺の腕を、レナがそっと握る。"
+    ],
+    "textEn": [
+      "Mion bowed to us like a worker at a high-class hotel, then pivoted on her heel and began to walk.",
+      "Rena gripped my stiffening arm lightly."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……圭一くん、硬くなり過ぎかな。",
+      "…私たちは魅ぃちゃんに会いに来たんだよ？",
+      "そんなに緊張することはないんだから。」"
+    ],
+    "textEn": [
+      "\"...Keiichi-kun, you're too tense.",
+      "...We came to see Mii-chan, remember?",
+      "You don't need to be that nervous.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…そうだ。",
+      "俺は緊張すると考えてることが全部表に出てしまうタイプらしいからな。",
+      "……変に構えるのはやめよう。",
+      "…何かあったってこっちは２人。",
+      "…それに大石さんの部下が門の外で待っていてくれるんだ。",
+      "……何も心配はいらない…。",
+      "そういう考えの時点で、すでに緊張し切っていることに気付き、自分に苦笑した。"
+    ],
+    "textEn": [
+      "...That's right.",
+      "When I get nervous, I tend to let everything show on my face.",
+      "...I'll stop tensing up.",
+      "...Even if something were to happen, there were two of us.",
+      "...Ooishi-san's subordinates were waiting outside the gate for us, too.",
+      "...There was nothing to worry about...",
+      "After thinking about it that much, I realized my nervousness was already gone, and laughed at myself."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なんだこりゃ。",
+      "…魅音、この新聞紙の上においてある漬物石は何だ？",
+      "邪魔だぞ？」"
+    ],
+    "textEn": [
+      "\"What's this?",
+      "...Mion, what's with this stone on top of the newspapers?",
+      "It's in the way.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "玄関に新聞紙が敷いてあって、その上に大きな石が乗せてあった。",
+      "…何のためにここに置いてあるのか理解できない。",
+      "…俺が怪訝な顔をしていると、レナがそれに気付き、くすくすと笑った。"
+    ],
+    "textEn": [
+      "There was a pile of newspapers on the floor of the entrance, and there was a large rock on top of them.",
+      "...I didn't understand why something like that was here.",
+      "...Rena noticed me looking at it questioningly and giggled."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナは知ってるのか？",
+      "こりゃ何だ。",
+      "何かのおまじないか？」"
+    ],
+    "textEn": [
+      "\"Rena, do you know?",
+      "What is this?",
+      "Some kind of good luck charm?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あはははは！",
+      "圭ちゃんがよくわからないなら、それをどかしてそこに靴を脱いでもいいんだけど？",
+      "あっははははははは！」"
+    ],
+    "textEn": [
+      "\"Ahahaha!",
+      "If you don't really know, then feel free to move it out of the way and put your shoes there.",
+      "Ah-hahahahahaha!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん、その石の真上にね、ツバメの巣があるの。」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun, there's a nest of swallows right above that stone.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え？",
+      "あ、……本当だ。」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "Oh... You're right.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「人様の家なのに、ツバメが勝手に入ってきて巣を作ってるってわけ。",
+      "代々語り継いでるのか、季節になると決まってここに巣を作るんだよ。",
+      "迷惑してるんだけどねぇ。」"
+    ],
+    "textEn": [
+      "\"This house is for people, but swallows still come in without permission and make nests.",
+      "It must be like a tradition for them—whenever spring comes, they always make a nest here.",
+      "It's kind of annoying, though.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「つまりね、そこはツバメのフンとかが落ちてきて危ないから靴を脱がないようにって言う、目印なの。」"
+    ],
+    "textEn": [
+      "\"In other words, it's a sign to not take off your shoes here, because swallow poop could end up in them.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…何だか滑稽な工夫に思わず笑ってしまう。",
+      "その笑いは自然に三人に広がった。"
+    ],
+    "textEn": [
+      "...I couldn't help but laugh at the silly contrivance.",
+      "My laughter naturally spread to the other two."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「園崎家も大昔、養蚕とかやってたことがあるらしくてね。",
+      "ご先祖様はツバメ退治にやっきになったそうだけどね。"
+    ],
+    "textEn": [
+      "\"A really long time ago, the Sonozaki family apparently cultivated silkworms.",
+      "Our ancestors would get all worked up over exterminating the swallows."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…それを思うと、これはちょっとバチ当りなのかな。",
+      "あははははは！",
+      "ま、上がって上がって。」"
+    ],
+    "textEn": [
+      "...When you think of it that way, maybe this is our just desserts.",
+      "Ahahahaha!",
+      "Anyway, come on in.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "家の中は決して明るくはなかった。",
+      "…むしろ薄暗いくらいだったが、かえって風情が感じられるから不思議だった。",
+      "…魅音は近代的な建物を望んでるようだけど、…こういう伝統的な住居も悪くはないよなぁ…。"
+    ],
+    "textEn": [
+      "The inside of the house wasn't very bright at all.",
+      "...It was dimly lit, in fact, but mysteriously, I could still feel an elegance to the place.",
+      "...Mion seemed to want a more modern building... but traditional houses like this aren't bad, either..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「冗談でしょ。",
+      "隙間風は入るし、冬場は寒いし！",
+      "人の家を勝手に文化財にして改築を妨害しないでもらいたいねー。"
+    ],
+    "textEn": [
+      "\"You're kidding, right?",
+      "There's a terrible draft, and the winters are freezing!",
+      "Don't go making my house into property of cultural significance and getting in the way of renovations, got it?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…一番の理想は圭ちゃんの家でしょ。",
+      "あれはうらやましいよなぁ。",
+      "冬場は暖かそうだし。",
+      "あ、でも雪下ろしは大変かもね〜。」"
+    ],
+    "textEn": [
+      "...What I want most is a house like yours, Kei-chan.",
+      "I'm pretty jealous of it.",
+      "It seems like it would be warm in the winter.",
+      "Oh, but snowfall seems like it would be a problem~\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「雪下ろしは大変って。",
+      "…そんなに雪が降るのか、雛見沢は。",
+      "…緯度は関東より南なくらいだろ？　ここいらって暖かい土地なんじゃないのか？」"
+    ],
+    "textEn": [
+      "\"Snowfall's a problem?",
+      "...Does Hinamizawa get that much snow?",
+      "...Our latitude is south of Kanto, isn't it? Isn't this region warm?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははははは、圭一くん、知らないの？",
+      "雛見沢は豪雪地帯なんだよ。",
+      "大雪が降ると、みーんな埋まっちゃうの。",
+      "玄関なんか埋まっちゃう時もあるんだよ。」"
+    ],
+    "textEn": [
+      "\"Ahahahaha, you don't know, Keiichi-kun?",
+      "Hinamizawa is in an area that gets heavy snowfalls.",
+      "When we get a lot, everyone gets buried.",
+      "Sometimes you can't even get out of your house.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「停めた車が完全に埋まっちゃって、見つからないことだってあるんだから。」"
+    ],
+    "textEn": [
+      "\"Sometimes your car gets totally buried too, and you can't find where it is.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "き、聞いてないぞ！！",
+      "雛見沢って…そんなに冬は厳しい土地だったのか？！？！",
+      "確かに親父…、",
+      "雪がちゃんと降るところだから、冬場はかまくらとかが作れて楽しいぞー…なんて言ってたけど。",
+      "…玄関が埋まって車が見つからなくなる？？",
+      "降り過ぎだー！！！"
+    ],
+    "textEn": [
+      "I-I wasn't aware of that!",
+      "Hinamizawa... was that bad a place in the winter?!?!",
+      "Come to think of it, my dad...",
+      "He said something like... this place got plenty of snow, so we could have fun building igloos.",
+      "...Still, your front door getting buried? Not being able to find your car??",
+      "That's way too much snow!!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あっははははは。",
+      "地理の授業で習ったでしょ？",
+      "日本海側は大陸からの寒風がその流れてくるからね。",
+      "山脈で遮られてぬくぬくしてるような軟弱な太平洋側とは訳が違うんだから！」"
+    ],
+    "textEn": [
+      "\"Ah-hahahaha.",
+      "You remember from geography class, right?",
+      "The western side of Japan gets cold winds from Asia.",
+      "We're different from those softies protected by the mountains, nice and warm by the Pacific Ocean!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺、…軟弱でもぬくぬくでもなんでもいい。",
+      "寒いのは嫌だ〜〜！！」"
+    ],
+    "textEn": [
+      "\"I'm... totally okay with being a softie, and nice and warm.",
+      "I hate the cold~~!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「わっははははははは！",
+      "これは今年の冬は圭ちゃんを寒さに慣らすための強化合宿が必要だねぇ！」"
+    ],
+    "textEn": [
+      "\"Wah-ha-ha-ha-ha-ha-ha!",
+      "We'll have to have a training camp to get Kei-chan used to the cold this winter, then!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「嫌だ嫌だ全力で嫌だ！！",
+      "寒いのは嫌いだ、強化合宿も嫌いだ、両方合わさったらもっと嫌いだーーーッ！！！」"
+    ],
+    "textEn": [
+      "\"No way, no way, there's no way that's happening!!",
+      "I hate the cold, and I hate training camps too, and I hate them even more put together!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音はこれ以上ないくらいにゲラゲラと笑うと、お茶を持ってくると言い残して、一旦席を外す。"
+    ],
+    "textEn": [
+      "Mion laughed more uproariously than she ever had, then told us she'd bring out some tea and left her seat for the moment."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でもね。",
+      "冬は冬で楽しいことがいっぱいあるんだよ！",
+      "冬の部活もね、きっと楽しいんだよ！」"
+    ],
+    "textEn": [
+      "\"Still,",
+      "there's a lot of fun things to do in the winter!",
+      "I bet our club will be a blast then!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……冬の部活か、実に嫌な響きのある部活だぞ…。",
+      "…寒中水泳やら雪中行軍やら！",
+      "ここはいつから八甲田山になったんだー！！！」"
+    ],
+    "textEn": [
+      "\"...Our club continuing activities through the winter sounds totally horrible...",
+      "...Like swimming in the cold, or marching in the snow!",
+      "When did we turn into Mt. Redhorn?!?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…うん。確かに冬場の罰ゲームは辛いのが多いね…。",
+      "雪が振ってる校庭で、リオのカーニバルをさせられたことあるー。」"
+    ],
+    "textEn": [
+      "\"...Yeah. There are definitely a lot of tough punishment games for the winter season...",
+      "One time she made us have a Rio Carnival in the schoolyard while snow was falling!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……我が部の恐ろしさは季節を問わないようだな…。",
+      "…冬季限定の種目にどこまで対応できるかが勝負を分けそうだ…。"
+    ],
+    "textEn": [
+      "...I see the terror of our club cared not for the season...",
+      "...The victor would be decided by who could best adapt to the winter-only events..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「雪合戦もやるし、かき氷の大食いとか、雪中宝探しとか…。」"
+    ],
+    "textEn": [
+      "\"We do snowball fights, and shaved ice eating contests, and treasure hunts in the snow...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…だから何で外で遊ぶんだよ。",
+      "雪が降ってんだから、ぬくぬくとお部屋でテーブルゲームで遊べばいいじゃないかよー！！」"
+    ],
+    "textEn": [
+      "\"...Wait, why is everything outside?",
+      "Why can't we play tabletop games in a nice, warm room while it's snowing?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「わ、わ、圭一くん、そんなこと言ってると冬場はいっぱい負けちゃうかもね。",
+      "…圭一くん、罰ゲームいっぱいでレナは負けない。……はぅ！」"
+    ],
+    "textEn": [
+      "\"Whoa, Keiichi-kun, if you're saying things like that, then you're gonna lose a lot this winter.",
+      "...We'll have lots of punishment games, and Rena won't lose. ...Hau!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「はぅ！じゃねーー！！！！」"
+    ],
+    "textEn": [
+      "\"Don't give me that 'hau'!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "とりあえずクロスチョップをブチかましておく。"
+    ],
+    "textEn": [
+      "I settled things with a cross chop to the head."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あははははは！　盛り上がってるなぁ。",
+      "壁が薄いんだからブチ抜かないようにしてよねー。」"
+    ],
+    "textEn": [
+      "\"Ahahahaha! You're sure having fun.",
+      "Our walls aren't very thick, so be careful not to go flying through any, okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ふすまが開き、ポットとお茶の道具を一式持った魅音が戻ってきた。"
+    ],
+    "textEn": [
+      "The paper sliding door opened and Mion returned with a pot and a complete tea set."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「お茶請けはゴマ煎でいい？",
+      "ようかんとか、気の利いたものがなくて申し訳ないね。」"
+    ],
+    "textEn": [
+      "\"Do you want sesame seeds on your rice?",
+      "Sorry we don't have much in the way of bean paste or other good stuff.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いいよいいよ、",
+      "別にお茶を飲みに来たわけじゃないし……、」"
+    ],
+    "textEn": [
+      "\"It's okay, it's okay.",
+      "We didn't really come here to drink tea anyway...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その一言で、レナの表情から笑みが消えた。",
+      "…………あ、…しまった…。",
+      "…自分で言った不用意な一言が、…自分がせっかく忘れようとしていたことを思い出させる。",
+      "……和やかな時間を、もう少し楽しみたいと思っていたはずなのに、……本当に不用意な言葉で、それに終止符を打ってしまった。",
+      "レナの表情から笑みが消えたことに気付くと、魅音もまた、…表情を変えた。",
+      "……さっきまでの小春日和のような…うららかな空気が、…まるでふすまの隙間から漏れていってしまうように……。",
+      "全てなくなってしまった。",
+      "……後悔したが、…今さら仕方がない。",
+      "…俺たちは今日、ここに………楽しく話しをするために来たんじゃないのだから。",
+      "魅音が無言でお茶を入れる。",
+      "…その間、俺もレナも一言も発せず、正座したままだった。"
+    ],
+    "textEn": [
+      "And with those words, the smile disappeared from Rena's face.",
+      ".........Ah, ...she did it...",
+      "...That one careless statement... reminded us of what we had nearly been able to forget.",
+      "...I had wanted to enjoy this peaceful time for a little longer... but we put an end to that with those honestly careless words.",
+      "When she noticed the smile disappear from Rena's expression, Mion, too... changed hers.",
+      "...It was as if the cheerful air... that was like a warm spring day until a moment ago... had slipped through the cracks in the paper door...",
+      "and altogether disappeared.",
+      "...There was no point... in regretting it now.",
+      "...We did not come here today... to chat and enjoy ourselves.",
+      "Mion silently poured the tea.",
+      "...During that time, both Rena and I sat kneeling without uttering a word."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「どうぞ。",
+      "召し上がれ。」"
+    ],
+    "textEn": [
+      "\"Here you are.",
+      "Drink up.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そんな、当り前な社交儀礼の言葉にも、俺たちは相槌を打ちかねていた…。"
+    ],
+    "textEn": [
+      "We couldn't even mutter a word of acknowledgement at those natural words of courtesy..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………………毒なんか入ってないよ。",
+      "……そこまで信用ないかな。",
+      "心外だね。」"
+    ],
+    "textEn": [
+      "\"............There's no poison in it or anything.",
+      "......Do you distrust me that much?",
+      "That's upsetting.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音はそれに少し苦笑いし、肩をすくめて見せた。"
+    ],
+    "textEn": [
+      "Mion gave a bitter smile at that and let her shoulders droop."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "全員が押し黙っている。",
+      "……誰かが口火を切ることを期待し、…黙っている。",
+      "それはこの上もなく嫌で……、長い時間だった。",
+      "やがて魅音が小馬鹿にしたように笑いながら口を開いた。"
+    ],
+    "textEn": [
+      "We all remained silent.",
+      "...We remained silent... hoping that someone else would speak up first.",
+      "That was, however, the one thing we didn't want to do... and so we sat for a long time.",
+      "At last, Mion smiled scornfully and opened her mouth to speak."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…おいおい、圭ちゃんもレナも。",
+      "客はそっちなんだよ。",
+      "用があって来たんじゃないの？",
+      "そっちから切り出してくれなきゃ、おじさんも困っちゃうんだけどなぁ。」"
+    ],
+    "textEn": [
+      "\"...Hey, now, Kei-chan, Rena.",
+      "You're the guests.",
+      "Didn't you come here for something?",
+      "If you don't speak up first, this old man won't know what to do.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナと顔を見合わせる。",
+      "……そして互いに観念した。",
+      "…レナが先に口を開こうとしたので、それを制する。"
+    ],
+    "textEn": [
+      "Rena and I exchanged glances...",
+      "...and we both resigned ourselves.",
+      "...Rena opened her mouth to speak first, so I stopped her."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……圭一くん……、」"
+    ],
+    "textEn": [
+      "\"...Keiichi-kun...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いいんだ。",
+      "………俺は来るべくして来たんだ。",
+      "…俺からしゃべらせてくれ。」"
+    ],
+    "textEn": [
+      "\"It's okay.",
+      "......I needed to come here.",
+      "...Let me talk first.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………………………うん。",
+      "わかった…。」"
+    ],
+    "textEn": [
+      "\"............Okay.",
+      "I understand...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんが私に、……何の話かな？",
+      "お宅のお嬢さんを私に下さい？",
+      "あっははははは！",
+      "駄目だよ！",
+      "ウチのレナは圭ちゃんとは釣り合わないね〜！"
+    ],
+    "textEn": [
+      "\"What would Kei-chan have... to tell me?",
+      "'Please give me your daughter's hand in marriage,' maybe?",
+      "Ah-hahahaha!",
+      "Can't do that!",
+      "My little Rena and Kei-chan aren't meant for each other~!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "味噌汁で顔を洗って出直しておいで〜！！」"
+    ],
+    "textEn": [
+      "Go wash your face with miso soup and try again later~!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……その憎まれ口は、ひょっとすると魅音なりの心遣いなのではないかと後に思った。",
+      "…魅音があまりにもいつもの口調で憎まれ口を叩いてくれたから、…肩の力を抜くことができたのだ…。"
+    ],
+    "textEn": [
+      "...Afterwards, I thought her mean remarks were Mion's own way of showing consideration.",
+      "...Mion had said those mean things in a totally normal voice... and it drained the tension from my shoulders..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………魅音。",
+      "……まず、",
+      "……………謝ることがある。」"
+    ],
+    "textEn": [
+      "\"............Mion.",
+      "...First.........",
+      "I have something to apologize for.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………圭ちゃんが？",
+      "…何を。」"
+    ],
+    "textEn": [
+      "\"............You do?",
+      "...What for?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は何のことかわからないように装ったが、明らかにその意味は伝わっているようだった…。"
+    ],
+    "textEn": [
+      "Mion pretended that she didn't know what I was talking about, but I'd clearly gotten my point across..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……あの、綿流しの晩。",
+      "………俺は、神社の…祭具殿に、",
+      "…入ったんだ。」"
+    ],
+    "textEn": [
+      "\"...Well, on the night of Watanagashi.",
+      "......The... ritual storehouse behind the shrine...",
+      "I went in there.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の表情が急激に乾いていくのがわかる…。"
+    ],
+    "textEn": [
+      "I could see Mion's expression immediately become harder."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………入ってはいけない場所だったのは知ってた。",
+      "…でもほんのちょっとした探検のつもりで…悪気はなかったんだよ。",
+      "……でも、…いけないことだったんだよな…。"
+    ],
+    "textEn": [
+      "\"............I knew it was somewhere I wasn't supposed to go, but...",
+      "it was just supposed to be a little bit of exploration... We didn't mean anything by it.",
+      "...Even so... I still shouldn't have done it..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "………謝る。",
+      "……この通り……。」"
+    ],
+    "textEn": [
+      "......So I apologize.",
+      "...I'm sorry...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "自分なりの誠意を示すため、…机に額を押し付けた。",
+      "…俺なりの土下座のつもりだった。",
+      "……すぐに額を上げるのは、なんだか誠意が足りないように思い…、長いこと、机に伏せったまま時間が経つのに任せた。",
+      "魅音は何も言わない。",
+      "……面を伏せた自分には、今、魅音がどんな表情をしているか伺うことはできなかった。",
+      "………セミの声だけが部屋を満たす。",
+      "……それに混じって聞こえるのは置時計の針の音。",
+      "……それだけ。",
+      "伏せることに息苦しさを感じ始めた頃、魅音がもういいよ、と言った。"
+    ],
+    "textEn": [
+      "To display my deepest sincerity... I pressed my forehead to the table.",
+      "...I'd meant it as my way of prostrating myself.",
+      "...I figured it wouldn't feel sincere enough if I raised my head right away... so I left it there on the table for a while.",
+      "Mion didn't say anything.",
+      "...With my face down, I couldn't tell what sort of expression Mion had.",
+      "......Only the voices of the cicadas filled the room.",
+      "...Mixed with them, I could hear the sound of the clock ticking.",
+      "...That was all.",
+      "When I started to struggle to breathe from having my head down for so long, Mion told me to stop."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…参ったな。",
+      "…いきなり直球勝負で来るとは思わなかったよ。",
+      "……参った参った。」"
+    ],
+    "textEn": [
+      "\"...You got me there.",
+      "...I didn't expect you to pitch it to me straight.",
+      "...You've got me on the ropes.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "見上げると、魅音は冷めた顔をしていたが、それでも薄く笑って見せていた。"
+    ],
+    "textEn": [
+      "I looked up to see that Mion's face was calm, but she was smiling faintly."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……圭ちゃんにとっては面白半分の探検でも、…それが笑い事では済まないと思ってる人たちも大勢いるってことを、ちょっとでも理解してくれたなら。",
+      "…それでいいよ。"
+    ],
+    "textEn": [
+      "\"...If you understand that even though it was only a casual exploration for you, Kei-chan... that there are a lot of people who think it's no laughing matter...",
+      "...then it's okay."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "郷に入りては郷に従えって、…昔から言うもんね。」"
+    ],
+    "textEn": [
+      "There's an old saying... when in Rome, do as the Romans do.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………あれからもう……何日も経ってる。",
+      "…今さらだとは思うが、謝る。",
+      "……悪かった。",
+      "…許してくれ………。」"
+    ],
+    "textEn": [
+      "\"......It's been... days since then.",
+      "...It may be too late, but I apologize.",
+      "...What I did was wrong.",
+      "...Please, forgive me.........\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……情けなくも涙がこみ上げるのを感じた。",
+      "…もっと早い内にこうしておけば…恐ろしいことは何も起こらなかったかもしれないのに……。"
+    ],
+    "textEn": [
+      "...I could feel pitiful tears welling up within me.",
+      "...If I had done this sooner... maybe nothing terrible would have happened......"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………いいよ。",
+      "圭ちゃんが悪いことをしたと思ったならそれでいいんじゃない？」"
+    ],
+    "textEn": [
+      "\"......It's okay.",
+      "If you know what you did was bad, then that's enough, right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がどこか他人事のように言うのが愉快ではなかった。"
+    ],
+    "textEn": [
+      "Mion spoke like it was someone else's problem, and I wasn't happy about it."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…魅ぃちゃん。",
+      "圭一くんはちゃんと真面目に謝ってるんだよ。",
+      "…魅ぃちゃんも真剣に応えてあげるべきじゃないのかな。…かな。」"
+    ],
+    "textEn": [
+      "\"...Mii-chan.",
+      "Keiichi-kun is apologizing seriously.",
+      "...I think maybe you should respond seriously as well... as well.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………私は真剣だよ？",
+      "レナには私が不真面目そうに見える？」"
+    ],
+    "textEn": [
+      "\"...I am being serious, though.",
+      "Do I not look serious to you, Rena?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「見えるよ。」"
+    ],
+    "textEn": [
+      "\"You don't.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが売り言葉に買い言葉を返したので、…場は急に鋭さを増していく。",
+      "確かに魅音は、俺がこうして腹を割って話しに来たのに…さっきから真剣に構えていないように感じられた。",
+      "……それをレナが、不快に思っているのは間違いなかった。"
+    ],
+    "textEn": [
+      "Rena was giving her tit for tat... and so the room's atmosphere quickly began to grow sharper.",
+      "She was right—even though I came here to speak from the heart like this... it's felt like she hasn't been taking this seriously.",
+      "...Obviously, Rena isn't fond of that."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……圭一くん。",
+      "もういいよ。",
+      "全部話そう。",
+      "……魅ぃちゃんもそれを望んでいるようだし。」"
+    ],
+    "textEn": [
+      "\"...Keiichi-kun.",
+      "You can get up now.",
+      "Let's tell her everything.",
+      "...That looks like what Mii-chan wants, too.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "初めから、…こうなることはわかっていた。",
+      "…その覚悟があってここに来たはずじゃないか…。",
+      "……覚悟を決め、唇を噛んだ。"
+    ],
+    "textEn": [
+      "I had known... it would turn out like this from the beginning.",
+      "...Hadn't I come here prepared for that...?",
+      "...I mustered my willpower and bit my lip."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……魅音。",
+      "…一昨日、梨花ちゃんと沙都子を呼んだろ。」"
+    ],
+    "textEn": [
+      "\"......Mion.",
+      "...You called Rika-chan and Satoko the day before last, right?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………………………………覚えはないけど。",
+      "そう思うに足る根拠があるなら聞かせてもらえる…？」"
+    ],
+    "textEn": [
+      "\"............I don't remember doing so.",
+      "If you have a reason to think so, could you let me hear it...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「夕方過ぎのお夕食前の時間。",
+      "…梨花ちゃんが来たはずだよ。",
+      "お醤油の大瓶を持って。",
+      "お裾分けしてもらいに。」"
+    ],
+    "textEn": [
+      "\"It was evening, before dinnertime.",
+      "...Rika-chan should have come here.",
+      "Bringing a big bottle of soy sauce.",
+      "To have you share some with her.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は無反応を装ったが、…まぶたがわずかに歪むのを見逃さない。"
+    ],
+    "textEn": [
+      "Mion was trying to keep from showing any reaction... but I didn't miss her eyelid twitching just a little bit."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………………どうしてそう思う？」"
+    ],
+    "textEn": [
+      "\"............Why do you think that?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…そんなに難しい話じゃない。",
+      "魅ぃちゃんも見たでしょ。",
+      "梨花ちゃんの部屋。」"
+    ],
+    "textEn": [
+      "\"...It's not hard to understand.",
+      "Mii-chan, you saw it too, didn't you?",
+      "Rika-chan's room.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が額に指を当て考えるような仕草をして見せた。"
+    ],
+    "textEn": [
+      "Mion put a finger to her forehead and acted like she was thinking."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……冷やっこがあるのにお醤油がなかった。",
+      "そして流しの下にあるはずの醤油の大瓶も、瓶ごとなかった。」"
+    ],
+    "textEn": [
+      "\"...There was chilled tofu, but no soy sauce.",
+      "Plus, the big bottle of soy sauce that should have been under the sink was nowhere to be found.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………あははははは。",
+      "何それ。",
+      "それが私のとこへ来る理由になるわけ？」"
+    ],
+    "textEn": [
+      "\"......Ahahahahaha.",
+      "What?",
+      "Is that why she would have come here?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「魅音、いい加減にしろ。",
+      "……お前が自分で回覧板に書いたんじゃないか。",
+      "醤油をお裾分けするって。」"
+    ],
+    "textEn": [
+      "\"Mion, drop the act.",
+      "...You wrote it yourself on the notice, didn't you?",
+      "That you'd share your soy sauce?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…ガリガリと頭を掻く魅音。",
+      "小さく、ちっと舌打ちするのが聞こえた。",
+      "それは…まるでお使いのつり銭を誤魔化したのがバレた…。",
+      "それくらいにしか感じられなかった。"
+    ],
+    "textEn": [
+      "...Mion scratched her head.",
+      "I heard her ever-so-faintly click her tongue.",
+      "It was as though... we found out she'd purposely given too little change to a servant...",
+      "That's all I could feel from her."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……そして魅ぃちゃんは、",
+      "……梨花ちゃんを………、",
+      "……………消、",
+      "………………隠してしまった。」"
+    ],
+    "textEn": [
+      "\"...Then, Mii-chan, you...",
+      "Rika-chan......",
+      "You era............",
+      "you hid her.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは一度言いよどんだ。",
+      "…消すという言葉を嫌い、…言葉を探すのに苦労したのがよくわかった…。"
+    ],
+    "textEn": [
+      "Rena hesitated for a moment.",
+      "...I could tell that she didn't want to use the word 'erased'... and that she was struggling to find another word..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そして、………本当はそれで終わりのはずだったんだよね。",
+      "…魅ぃちゃんにとっては。」"
+    ],
+    "textEn": [
+      "\"......That was really supposed to be the end, wasn't it?",
+      "...For you, anyway.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………そりゃどういう意味かな。」"
+    ],
+    "textEn": [
+      "\"......What are you talking about?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……梨花ちゃんが、魅ぃちゃんの家に行くことを沙都子ちゃんに言い残していたのは誤算だったんじゃないかな。」"
+    ],
+    "textEn": [
+      "\"...You didn't foresee that Rika-chan would tell Satoko-chan that she was going to your house, did you, Mii-chan?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そして、…沙都子ちゃんは魅ぃちゃんの家に電話をした。",
+      "…うちの梨花がお邪魔してませんこと？",
+      "…うん。",
+      "きっとこんな感じ。」"
+    ],
+    "textEn": [
+      "\"Then... Satoko-chan called.",
+      "...'Might Rika be imposing on you?'",
+      "...Yeah.",
+      "Probably just like that.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………あははははは！",
+      "似てる似てる。」"
+    ],
+    "textEn": [
+      "\"............Ahahahaha!",
+      "You sound just like her.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………魅ぃちゃんは、…ちょっとまずいと思ったんだよね。",
+      "梨花ちゃんがここに来たことを知る人間がいたから。",
+      "…だから沙都子ちゃんも誘い出そうと思った。」"
+    ],
+    "textEn": [
+      "\"......Mii-chan... you were in a bit of a bind then,",
+      "because someone knew that Rika-chan had come here.",
+      "...So you decided to lure Satoko-chan here too.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……誘い出す？",
+      "……へぇ。",
+      "…どんな感じでかな。」"
+    ],
+    "textEn": [
+      "\"...Lure her out?",
+      "......Hmm.",
+      "...Like how, I wonder?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は、まるで面白い話の先を促すように、レナの話の先を促す。",
+      "……だが、魅音の変化をずっと見ている俺にはわかっていた。",
+      "世話しなく指先がくるくると遊び、…落ち着きがなくなっていくのがわかる。",
+      "…もちろんそれは本当に微細なもので、…ずっと見ている俺にしかわからないものだ。",
+      "魅音は、…狼狽している。",
+      "…レナの言うそれは、……間違いなく…図星なのだ。"
+    ],
+    "textEn": [
+      "Mion prodded Rena on, as if trying to get to the good part of an interesting story.",
+      "...I, however, knew. I had been watching Mion change the whole time.",
+      "She was restlessly twirling her fingers...  she had clearly lost her calm.",
+      "...Of course, it was really a slight thing... and only I, who had been watching her this whole time, would have known.",
+      "Mion was... panicking.",
+      "...What Rena was saying... must have been... a bullseye."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「きっとこんな感じだよ。",
+      "…沙都子。",
+      "実は今日、食事を作り過ぎちゃったんだけど、食べに来ない？",
+      "梨花ちゃんは先に来てもう食べてるよ。",
+      "………こんな感じ。」"
+    ],
+    "textEn": [
+      "\"It probably went like this.",
+      "...'Satoko.",
+      "I actually made too much dinner today, so why not come over and eat?",
+      "Rika-chan came earlier and already ate some.'",
+      "......Something like that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ガリ。",
+      "………魅音が膝に爪を立てる。"
+    ],
+    "textEn": [
+      "Scratch.",
+      "......Mion's nails dug into her knee."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………へぇぇ……。",
+      "………電話の内容の記録テープがあるわけでもないのに、どうしてそこまで……？」"
+    ],
+    "textEn": [
+      "\"......Hehh...",
+      "......There's no recordings of the phone conversations or anything, so how do you know that much...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……冷蔵庫に、沙都子ちゃんの作った２人分のお夕食が、丸々手付かずでサランラップに包まれて入ってたから。」"
+    ],
+    "textEn": [
+      "\"...I know it because the dinner that Satoko-chan made for the two of them was plastic wrapped in their refrigerator, and hadn't been touched.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………しばらくの間、魅音は唖然としたような顔で固まっていた。",
+      "……目の前のレナという人間の存在が、…信じられないような顔だった。"
+    ],
+    "textEn": [
+      "......For a few moments, Mion's face was frozen in utter amazement.",
+      "...She looked like she couldn't believe... that this person in front of her was Rena."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………………そんなことで、………どうやったら電話でしゃべった内容まで察しが付いちゃうわけ……？」"
+    ],
+    "textEn": [
+      "\"............With just that to go on...... How did you even guess what we said over the phone...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………長くなるから説明は省くけど、",
+      "……冷蔵庫の中身が、…魅ぃちゃんの呼び出した話の内容まで、如実に物語っちゃってるの。」"
+    ],
+    "textEn": [
+      "\"......It's a long explanation, so I'll get to the point.",
+      "...The contents of that refrigerator... provided a vivid account of what you said over the phone when you lured her out.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "開いた口が塞がらない…。",
+      "魅音の顔を一言で言い表すならそれだった…。"
+    ],
+    "textEn": [
+      "Mion's jaw remained on the floor...",
+      "That was the only way I could describe her face..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………………………………これは、",
+      "……あははははは。",
+      "…とんだ名探偵が身近にいたもんだよ。"
+    ],
+    "textEn": [
+      "\"............That's...",
+      "Ahahahahaha.",
+      "...I had no idea I had such an incredible detective right next to me the whole time."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…まさか、冷蔵庫の中身だけで……電話の内容まで見破るとは…。",
+      "………あははははははは。"
+    ],
+    "textEn": [
+      "...I can't believe you'd figure out everything, down to the phone conversation... just from what was inside the fridge...",
+      "......Ahahahahahahaha."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…参ったな。",
+      "……参った",
+      "参った、",
+      "あっははははははははははははは！！！」"
+    ],
+    "textEn": [
+      "...You've got me there.",
+      "...You've got me,",
+      "you've got me,",
+      "ah-hahahahahahahahahahaha!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…堰が切れたように、…魅音は笑い転げた。",
+      "…でもその笑いはつられて笑い出したくなるものでは、決してなかった。"
+    ],
+    "textEn": [
+      "...As if a dam had burst... Mion convulsed into laughter.",
+      "...Her laughter, though, definitely didn't make us want to laugh as well."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「はははははははははははははははは……はは、……は。",
+      "……はぁ。」"
+    ],
+    "textEn": [
+      "\"Hahahahahahahahahahaha... haha, ...ha.",
+      "...Hah.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は馬鹿笑いに飽きると、大きなため息を漏らし、バリバリと頭を掻き毟る。",
+      "……まるで、部活の推理ゲームか何かで、…魅音の罰ゲームが決まったような…、そんな錯覚すらした。",
+      "…そうだったらどんなに楽しかったことか…。"
+    ],
+    "textEn": [
+      "Mion grew tired of her dumb laughter, heaved a big sigh, and scratched her head.",
+      "...It almost seemed like... Mion had lost a detective punishment game for the club or something... and her punishment had been decided.",
+      "...Oh, how fun that would have been if it were true..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……とんだ名探偵、か。",
+      "…魅ぃちゃんこそ、大石さんがした会話の内容までよく察しが付くね。",
+      "大石さんも私のこと、とんだ名探偵って言ったもの。」"
+    ],
+    "textEn": [
+      "\"...An incredible detective...",
+      "...Mii-chan, you're the one who guessed what Ooishi-san told us.",
+      "He called me an incredible detective too.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石さんの名が出た途端、魅音が誰の眼にもわかる形で、狼狽の表情を見せた。"
+    ],
+    "textEn": [
+      "As soon as she heard Ooishi-san's name, Mion's eyes began to display panic more clearly, so that anyone would be able to tell."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……魅音。",
+      "………警察はもうとっくにお前を疑ってるんだ。",
+      "…この家も、大石さんの部下が踏み込もうと今も様子を伺ってる。」"
+    ],
+    "textEn": [
+      "\"...Mion.",
+      "......The police have suspected you for a long time now.",
+      "...Ooishi-san's officers have had the house under observation so that they could break in at any time.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は平静を装おうとしていたが…それは難しいようだった。",
+      "警察が囲んでいるという話が半ば信じられず、レナの表情を見る。",
+      "だが、レナの表情にも一片の曇りはない。",
+      "……ようやく魅音は、自分が警察に包囲されていることを信じたようだった…。"
+    ],
+    "textEn": [
+      "Mion attempted to feign calm... but it looked like she was having a hard time with that.",
+      "Part of her couldn't believe that the police had her surrounded, and she closely examined Rena's facial expression.",
+      "However, she couldn't detect a hint of falsehood.",
+      "...Finally, Mion seemed to accept the fact that the police were encircling the house..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「村長さんも……魅ぃちゃんが…？」"
+    ],
+    "textEn": [
+      "\"Was the mayor... Mii-chan too...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「富竹さんと鷹野さんも……魅音なのか…？」"
+    ],
+    "textEn": [
+      "\"Were Tomitake-san and Takano-san... you as well...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺たちの矢継ぎ早の質問に、魅音は答えない。",
+      "…平静を装う瞳に、焦りが浮かんでいるのがよくわかった。",
+      "やがて、…だらしない格好で座っていた魅音は、座布団を直すと、その上にきれいに姿勢を正して正座し直した…。",
+      "その途端、…部屋の空気が一変する。",
+      "………魅音の表情が、…変わる。",
+      "表情から焦りや戸惑いが消え、………まるで茶事に臨むような厳かさをたたえていた。",
+      "……直感する。",
+      "…今、この瞬間。",
+      "…魅音は魅音でなく、…園崎本家の当主跡継ぎとしての園崎魅音に変わったのだ。",
+      "その厳かな雰囲気は…明らかに異質なもので、",
+      "…俺がよく知る魅音の雰囲気とはまったく異なるものだった。",
+      "今なら……信じられる。",
+      "……今なら、…園崎一族を統率する若き当主である魅音を、",
+      "…信じられる。",
+      "…魅音は静々と畳みに両手を付くと……、",
+      "まるで茶道を彷彿させるような美しい仕草でお辞儀をし、",
+      "……名乗った。"
+    ],
+    "textEn": [
+      "Mion didn't answer our rapid-fire questions.",
+      "...I could clearly see impatience in her eyes, which were still feigning calm.",
+      "At last... Mion, who had been sitting there lazily, readjusted her cushion and sat herself upright...",
+      "At that moment... the atmosphere in the room changed completely.",
+      "......Mion's expression... also changed.",
+      "The impatience and wonderment in her expression disappeared...... and she became so solemn you would think she was about to conduct a tea ceremony.",
+      "...I could sense it.",
+      "...It was now, in this moment.",
+      "...Mion had ceased to be Mion... but had changed into Mion Sonozaki, the current heir to the Sonozaki house.",
+      "That solemn atmosphere about her... was clearly abnormal...",
+      "and was entirely different from that of the Mion that I knew.",
+      "Now... I could believe it.",
+      "...Now... I could believe...",
+      "that she was the young leader who commanded the entire Sonozaki clan.",
+      "...Mion quietly placed both her hands on the tatami mat...",
+      "and gave a beautifully elegant bow, as if this really were a tea ceremony...",
+      "and named herself."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……初めてご挨拶申し上げます。",
+      "…園崎本家当主跡継ぎ。",
+      "…魅音でございます。」"
+    ],
+    "textEn": [
+      "\"...We meet for the first time.",
+      "...I am the current heir to the Sonozaki house.",
+      "...My name is Mion.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…魅音の鋭利なまでに美しい仕草に、",
+      "…返事をすることもできない。",
+      "俺もレナも…、あまりに普段からは想像も付かない振る舞いに、呆然とするしかなかった…。"
+    ],
+    "textEn": [
+      "...Mion's movements were so elegant they could cut...",
+      "and we couldn't even answer her.",
+      "All Rena and I could do... was watch, baffled at her actions, which we could never imagine the normal her doing..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…本日はようこそ園崎本家においで下さいました。",
+      "当主、お魎に代わりまして、皆さまにご挨拶申し上げます…。"
+    ],
+    "textEn": [
+      "\"...I would like to welcome you to the Sonozaki main house today.",
+      "I will greet you all in place of our leader, Oryou..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…皆さまに置かれましては、いろいろお尋ねになりたいことがおありの様子…。",
+      "私にお話できることでしたら、包み隠さずお話したいと存じます…。」"
+    ],
+    "textEn": [
+      "...It seems as though you have various things you would like to ask...",
+      "If I can be of any assistance, then I would like to answer, without concealing anything...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "え？",
+      "……今、……魅音は何て言ったんだ…？",
+      "……魅音は聞けば何でも話すと言う。",
+      "……目には覚悟を決めた強い光があった。"
+    ],
+    "textEn": [
+      "What?",
+      "...What did... Mion just say...?",
+      "...Mion said she would answer anything we asked.",
+      "...There was a strong light of resolve in her eyes."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………本当に、",
+      "………何を尋ねてもいいんだな…。」"
+    ],
+    "textEn": [
+      "\"............It's really......",
+      "all right if we ask anything, then...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…知る限りをお話いたしましょう…。",
+      "皆さまもそれを望んでここにいらしたのでしょうから。」"
+    ],
+    "textEn": [
+      "\"...I shall tell you everything I know...",
+      "That is why you have come here, after all.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナと顔を見合わせる。",
+      "……魅音に聞きたいことは山ほどあった。",
+      "だが、どれを最初に尋ねるべきか…その順番にしばし迷った。",
+      "……そして、レナが発した最初の問いは、",
+      "…あまりに抽象的だけれども、",
+      "……誰もが真っ先にぶつけたい問いだった。"
+    ],
+    "textEn": [
+      "Rena and I exchanged glances.",
+      "...There was a mountain of things we wanted to ask Mion.",
+      "However, we hesitated for a moment... on what we should ask first.",
+      "...The first question Rena gave...",
+      "was extremely abstract......",
+      "but it was the question everyone wanted to know right now."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…どうして、",
+      "…………こんなことを…ッ？！？！」"
+    ],
+    "textEn": [
+      "\"...Why............",
+      "would you do this...?!?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……俺だって言いたかった一言だ。",
+      "…どうして…こんなことを？！",
+      "それは梨花ちゃんたちのことだけに限らない。",
+      "…村長も、鷹野さんたちも。",
+      "…いや、もっと遡って、毎年起こった全ての事件を指した。",
+      "……しばらくの間、魅音は答えられなかった。",
+      "…あまりに抽象的な質問だったことに気付き、質問をもっと具体的にし直そうとした時。",
+      "……魅音がようやく口を開いた。"
+    ],
+    "textEn": [
+      "...That was what I wanted to ask as well.",
+      "...Why... would you do this?!",
+      "That didn't only go for Rika-chan and Satoko.",
+      "...It went for the mayor, Takano-san, and Tomitake-san as well.",
+      "...No, even further back—for all the incidents that had been occurring every year.",
+      "...For a little while, Mion couldn't respond.",
+      "...Right when we realized that the question was too vague and tried to put it into more concrete terms...",
+      "she finally opened her mouth to speak."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「その問いに対する答えは…少し長いものになります…。",
+      "…それでもよろしければ、どうかご清聴をいただきたく存じます…。」"
+    ],
+    "textEn": [
+      "\"To answer that question... will take some time...",
+      "...If that is acceptable, however, then I would by all means like you to hear it...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…涼やかだった。",
+      "……まるで、親戚の叔母さんが昔語りでも聞かせてくれるような、……そんな涼やかさがあった。"
+    ],
+    "textEn": [
+      "...She spoke clearly.",
+      "...She spoke with a clarity... that a grandmother might use when telling a story from a long time ago."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……雛見沢村が、かつて鬼ヶ淵村と呼ばれていたことをご存知ですか？」"
+    ],
+    "textEn": [
+      "\"...Do you know that Hinamizawa Village used to be called Onigafuchi Village?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが軽く頷き、圭一くんは知ってる？といった感じで顔を向ける。",
+      "…俺はそれに頷き返す。",
+      "…雛見沢が、かつて鬼ヶ淵村と呼ばれていたことは、…そう。",
+      "あの夜、祭具殿の中で鷹野さんにたっぷりと聞かされた。",
+      "自分たちに鬼の血が混じっていると固く信じ、下界との交流を絶っていた。",
+      "…彼らは麓の村の人々に崇められ…仙人のような扱いを受けていたという。"
+    ],
+    "textEn": [
+      "Rena nodded lightly, then shot me a glance asking me if I did.",
+      "...I returned her nod.",
+      "...Hinamizawa was once called Onigafuchi Village... Yes.",
+      "I heard all about it that night from Takano-san in the ritual storehouse.",
+      "They firmly believed that demon blood ran through their veins, and cut off all contact with the outside world.",
+      "...They were worshipped by those in the villages at the foot of the mountains... and treated like 'transcendents,' those capable of magic."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……そうです。",
+      "鬼ヶ淵村のご先祖様たちは…鬼の血を引く誇り高き仙人たちでした。",
+      "……麓の村々の人たちは崇め、そして敬いました。"
+    ],
+    "textEn": [
+      "\"...That's right.",
+      "Our ancestors in Onigafuchi Village... were proud transcendents descended from the demons.",
+      "...Those in the villages at the foot of the mountains worshipped and honored them."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…ですが、そういう空気も、徳川の世が終わると共に廃れていきました。」"
+    ],
+    "textEn": [
+      "...Nevertheless, that all decayed with the end of the Tokugawa era.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "黒船が来航し、",
+      "武士の時代が終わり、",
+      "鎖国の時代が終わり、",
+      "…そして鬼ヶ淵村を崇める風潮も急になくなっていった。",
+      "……古くから残るものは全て忌々しい。",
+      "…そういう時代になったのだ…。"
+    ],
+    "textEn": [
+      "The black ships arrived,",
+      "the era of the samurai ended,",
+      "the era of national isolation ended...",
+      "and the tradition of worshipping Onigafuchi Village quickly disappeared.",
+      "...Those things that linger from the past were all to be detested.",
+      "...That was the kind of era it became..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「明治になり、古い歴史を持つ鬼ヶ淵村の名称は、一方的に雛見沢村に改められてしまいました。",
+      "……古い因習を一掃しようとする、明治政府の思惑が強く働いたのだと聞かされています…。」"
+    ],
+    "textEn": [
+      "\"The Meiji era began, and the name of Onigafuchi Village, with its long history, was forcibly changed to Hinamizawa Village.",
+      "...I have heard the Meiji government strongly wished to erase the old customs...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "廃藩置県。",
+      "…日本が世界の列強と肩を並べようと、分不相応な階段を駆け足で上り始める時代の幕開けだった。",
+      "西洋式のものが何でも持てはやされ、…古い伝統的なものが何でも蔑まされる。",
+      "…そんな時代になったのだ。"
+    ],
+    "textEn": [
+      "The abolition of feudal domains, and the establishment of prefectures.",
+      "...An era had begun, seeing Japan sprinting up the stairs that were beyond their means to try and reach the same level of the rest of the world.",
+      "All things in the Western style were to be extolled... while all old traditional things were to be scorned.",
+      "...That was the sort of era it was."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…そういう時代の激変の中で、…滝つぼに落ちていく花びらのように。",
+      "…あっという間に鬼ヶ淵村は消えてしまったのです…。」"
+    ],
+    "textEn": [
+      "\"Our ancestors in Onigafuchi Village... were proud transcendents descended from the demons.",
+      "Onigafuchi Village disappeared in a flash...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "やがて、アジアを次々植民地化する欧米列強に触発され、日本もまた列強に居並ぼうと富国強兵政策が始まる…。",
+      "兵役が始まり、日清、日露、と戦争と勝利を重ね、…太平洋戦争が勃発するまで、",
+      "…ただがむしゃらに近代化の階段を上り続けた……。",
+      "……鬼ヶ淵村の出身であるとわかるだけで、不当な差別を受ける過酷な日々の始まりだった。",
+      "麓の村の子供たちは、雛見沢には不潔なばい菌が蔓延しているから近付くなと教えられた。",
+      "…雛見沢の子供に触られたという子供は泣き叫び、親は子の触られた場所を塩でもんで清めた。",
+      "ある大人は子供に、…雛見沢に迷い込めば鬼隠しにされ、バラバラにされて肉を食われてしまう。",
+      "…恐ろしい人食い鬼の村に近付くな近付くな…。",
+      "そう教えた。",
+      "ある大人は、…雛見沢の村人は大昔の飢饉の時、",
+      "河原に捨てられていた死体を集め、焼いて食べて生き延びたなどという何の根拠もない話を、大真面目に教えた。",
+      "根も葉もない中傷が次々と重ねられ、それに歴史的事実である鬼ヶ淵村の刺激の強い歴史が信憑性を煽った。",
+      "不当な差別の連鎖は、そのまま先の見えない時代への不安感の表れだったのかもしれない。",
+      "……もちろん、これは子供の世界だけの話では終わらなかった。",
+      "鬼ヶ淵村の出身とわかれば、全ての就職先で断られた。",
+      "…結納を済ませた縁談ですら反故になった。",
+      "…出身を偽り果たした結婚も、出身がバレた時点で離縁させられた。"
+    ],
+    "textEn": [
+      "At last, Japan, provoked by the great European powers colonizing countries in Asia one by one, began a policy to increase its wealth and military power so that it could stand as a global power in its own right...",
+      "Conscription began, and they won war after war—the First Sino-Japanese War, and the Russo-Japanese War... and until the Pacific War broke out...",
+      "they recklessly climbed the staircase towards modernization...",
+      "...Thus began harsh days where one would suffer unreasonable discrimination just because people knew one was from Onigafuchi.",
+      "The children in the village at the foot of the mountain were taught not to go near Hinamizawa because filthy germs were rampant there.",
+      "...Children who had come into contact with children in Hinamizawa would cry and wail as their parents purified the spot they were touched by rubbing salt on it.",
+      "One of the adults said to the children... that if you got lost in Hinamizawa, you would be kidnapped by demons, cut up into pieces, and devoured.",
+      "...Never, ever go near the terrifying village of the man-eating demons...",
+      "That's what he taught them.",
+      "Another... said that during a famine long ago,",
+      "the people of Hinamizawa gathered up all the corpses they discarded into the dry riverbeds, then cooked and ate them in order to survive—groundless stories, but said in such seriousness.",
+      "Baseless slander added to baseless slander, making Onigafuchi Village's historically accurate, thrilling history all the more believable.",
+      "Perhaps the chain of undue discrimination was a manifestation of the people's anxiety towards the uncertain times.",
+      "...Of course, the story didn't end only with the perspective of children.",
+      "If anyone found out you were from Onigafuchi, you would be turned down from any job you applied for.",
+      "...People would even go back on engagements and marriage proposals.",
+      "...As for the marriages where one partner had lied about it—as soon as the truth got out, they were made to divorce."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………………ひどいね。",
+      "…そんなの。」"
+    ],
+    "textEn": [
+      "\"............That's...",
+      "terrible.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………公民の授業か何かで、部落差別というのを聞いたことがある。",
+      "…部落の出身であると知られるだけで、社会的にあらゆる不利益を被るという、現代のイジメだ。",
+      "…試験の出題範囲だからと、丸暗記はしたが。",
+      "…現代日本にそんな差別があるとは信じきれず、半信半疑だったことを思い出す…。"
+    ],
+    "textEn": [
+      "......I've heard about such discrimination towards those in small villages in civics class.",
+      "...Just because others knew you were from a tiny hamlet, you would be subjected to every societal disadvantage there was—a modern form of bullying.",
+      "...Though I only memorized that because it was going to be on a test one time.",
+      "...I recalled being suspicious about it, and unable to believe such discrimination occurred in modern Japan..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……まぁ…、…自業自得と言えないこともないのかもしれません…。"
+    ],
+    "textEn": [
+      "\"......Well... I suppose I can't say that they weren't asking for it..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…私たちのご先祖さまは、自分たちに鬼の血が流れていることを誇りに思い、自慢し、麓の人々を蔑んで暮らしてきたのですからね…。"
+    ],
+    "textEn": [
+      "...Our ancestors were proud of the demon blood flowing through them—they lived their lives boasting about it and scorning those at the foot of the mountain, after all..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "その神秘性で麓の村人たちを怖がらせ、畏怖と貢物の献上を要求してきたのですから…。」"
+    ],
+    "textEn": [
+      "They struck fear into the villagers down there with their mystique, and demanded gifts of dread and tribute...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そこで魅音は初めて、自嘲気味とは言え、笑みを浮かべた…。"
+    ],
+    "textEn": [
+      "With that, Mion smiled for the first time, albeit in self-mockery..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……夫や息子を戦場に送り出し、…銃後の女たちも心が荒んでいたのでしょうね…。"
+    ],
+    "textEn": [
+      "...They would send their husbands and sons to war... and the women on the home front would suffer greatly, too..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……当時をよく覚えている祖母は、……それは苦しい時代だったと回想しています…。」"
+    ],
+    "textEn": [
+      "...My grandmother remembers it well... She remembers it being a difficult time...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そんな辛く長い戦争の時代も…、昭和２０年。",
+      "…とうとう終戦する。"
+    ],
+    "textEn": [
+      "Even that bitterly long war, however...",
+      "finally ended in 1945."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…多数の男手を失った雛見沢にも、ようやく父や夫、息子たちが戻ってまいりました。",
+      "…もちろん、帰らぬ者も多かった。"
+    ],
+    "textEn": [
+      "\"...Hinamizawa had lost many male hands, but at last, their fathers and husbands and sons returned to them.",
+      "...Of course, there were also many who didn't come back."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "それでも、男手がなく、村を維持することにすら限界を来たしていた雛見沢にとって、それはとても喜ばしいことでした…。」"
+    ],
+    "textEn": [
+      "Nevertheless, for those in Hinamizawa, who were at their limits, barely able to maintain the village without the men, their return was a very happy thing...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "マッカーサーのＧＨＱは、抜本的な意識改造にも着手し、不当差別の撤廃にも尽力してくれた。",
+      "陰鬱な被差別の時代の夜明けを感じさせた…。"
+    ],
+    "textEn": [
+      "MacArthur's GHQ set to work on drastically improving mindsets, and strove for the abolition of unfair discrimination.",
+      "They could feel day breaking on the dismal night that was the previous era..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…廃村寸前だった雛見沢をもう一度建て直そう。",
+      "そういう気運が高まり、村人たちは村を少しでも豊かにするために働き始めました。」"
+    ],
+    "textEn": [
+      "\"...Hinamizawa was on the verge of turning into a ghost town.",
+      "Those in the village started to say that they should rebuild it once again, and got to work, trying to make the village even a little more plentiful.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…その中で、闇市で大きな活躍をして富を築き上げた者が現れた。",
+      "それが、魅音の祖父。",
+      "高齢の現当主の夫の園崎宗平だった。"
+    ],
+    "textEn": [
+      "...During that time, someone appeared who built up a fortune through a vast number of dealings in the black market.",
+      "That was Mion's grandfather.",
+      "The husband of the elderly current family leader—Sohei Sonozaki."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……それを瀬戸内海某所に隠し、闇市で高値で売りさばいて大きな富を得たのです。」"
+    ],
+    "textEn": [
+      "...He hid them somewhere in the Seto Inland Sea and sold them widely at a high price on the black market, thus earning a fortune.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "宗平はその富を自分の快楽のために消費したりはしなかった。",
+      "全額を園崎本家当主である妻に託したのだ。"
+    ],
+    "textEn": [
+      "Sohei didn't spend that fortune for his own pleasure, either.",
+      "He entrusted the entire amount to his wife, the head of the Sonozaki house."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…廃れた雛見沢を復興させよう。",
+      "村人全ては家族であり、この富は共有の財産である…。",
+      "現当主である祖母はそう宣言しました。"
+    ],
+    "textEn": [
+      "\"...Let's revive this ruined village.",
+      "All who live here are our family, and this fortune is our collective property...",
+      "So he proclaimed to my grandmother, the current head of the family."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…この大きな富は、その後の雛見沢の復興の大きな力となったのです。」"
+    ],
+    "textEn": [
+      "...That vast fortune was a huge reason why Hinamizawa was revitalized after the war.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………なるほどな。",
+      "それで、雛見沢は復興を遂げ、園崎家は今日の隆盛を確立するわけだ…。"
+    ],
+    "textEn": [
+      ".........I see.",
+      "With that, Hinamizawa came back to life, and that's how the Sonozaki family had established its current prosperity..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…もちろん、闇市で財を成したことを妬む人たちも大勢いましたが、もう村人は気にしなかった…。」"
+    ],
+    "textEn": [
+      "\"...Of course, there were many people who begrudged the money coming from the black market, but the villagers no longer minded it...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "次々と事業を成功させ。",
+      "成功した者は後を追う者を惜しみなく援助した。",
+      "雛見沢という固い結束で結ばれた巨大な家族が、次々と勢力を拡大していったのだ。",
+      "その中心となった園崎家は、雛見沢復興の名士として、長く讃えられることになる…。"
+    ],
+    "textEn": [
+      "They succeeded at one business venture after another.",
+      "Those who had succeeded freely supported those who followed them.",
+      "The giant family of Hinamizawa, tied together with strong bonds, kept on expanding its influence.",
+      "The Sonozaki family, the center of everything, would be extolled for a long time as the minds behind Hinamizawa's revitalization..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…その活躍の中心人物が、魅ぃちゃんのお婆ちゃんなんだね。",
+      "……すごいよね。",
+      "大活躍！」"
+    ],
+    "textEn": [
+      "\"...The person at the middle of all of it was your Nana, Mii-chan?",
+      "...That's amazing.",
+      "What a great success!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は素直に、褒められてうれしいような表情を浮かべた…。",
+      "…聞いただけでもおぞましくなる、…嫌な響きがあった。",
+      "人肉を食らう鬼の住む村、雛見沢。",
+      "……ようやく呪われた烙印が払拭されようとする矢先だった…。",
+      "ようやく見えた、平和な生活への光が……かすむように消えていった。",
+      "元上官が明かした…衝撃の事実…。",
+      "…雛見沢復興の大きな礎となった、旧日本軍からの略奪食料の缶詰…。",
+      "それは…人の肉の缶詰だった。",
+      "なぜそんな缶詰が？",
+      "宗平は食料倉庫のただの管理人だったのでは…？",
+      "上官が明かすには、園崎宗平は食料管理の仕事をしていたのではないという…。"
+    ],
+    "textEn": [
+      "Mion looked like she was honestly happy Rena had praised her...",
+      "...It sounded so hideous... that just hearing it made me nauseous.",
+      "Hinamizawa, a village in which demons lived and ate humans.",
+      "...They were just about to wipe away that cursed stigma...",
+      "The light they had finally started to see in their peaceful lives... grew hazy and disappeared.",
+      "The shocking truth... as revealed by his former superior...",
+      "...The stolen provisions from the old Japanese army that had been a huge cornerstone for Hinamizawa's revival...",
+      "had been... canned human flesh.",
+      "Why were there cans like that?",
+      "Wasn't Sohei just the manager of food warehouses...?",
+      "His superior revealed that Sohei Sonozaki did not have the job of managing the food..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…実は宗平は戦時中、ハルピンでペスト鼠の駆除や、伝染病患者の死体運搬の仕事をさせられていたのでした…。」"
+    ],
+    "textEn": [
+      "\"...In reality, Sohei's job during the war had been to exterminate pestilent mice and to transport the corpses of those with infectious diseases...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……出身の卑しさを理由にした不当な扱いだった。",
+      "…だが、結果として最前線には送られず、抑留されることもなく帰還できたことだけは幸運だったと言えるだろう…。",
+      "宗平はやがて、軍の医療機関の下働きとして召抱えられる。",
+      "…だがそこは、",
+      "…彼らが卑しいと蔑む鬼ヶ淵村の陰鬱な風習よりもさらに劣る、",
+      "…恐ろしい研究がなされていた………。"
+    ],
+    "textEn": [
+      "...It had been unfair treatment, and all because of the lowliness of his origins.",
+      "...As a result, though, he had returned safely without having been sent to the front lines or being detained—perhaps that was the only fortunate thing to happen to him...",
+      "Finally, Sohei was enlisted as an assistant at a military medical institution.",
+      "...There, however...",
+      "he found something even worse than the low, scorned, depressing customs of Onigafuchi Village...",
+      "in the research they were carrying out......"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………ひょっとして、",
+      "…それって、あれか？",
+      "旧日本軍の細菌部隊とか言う、」"
+    ],
+    "textEn": [
+      "\"............Could that have been...",
+      "...well, you know.",
+      "The bacteriological corps in the old Japanese army or whatever.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……圭一くん、知ってるの？",
+      "何かな…？」"
+    ],
+    "textEn": [
+      "\"...Keiichi-kun, you've heard of that?",
+      "What could it be...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "７３１部隊であってただろうか…。",
+      "…戦局を打開するため、恐ろしい細菌兵器の研究に明け暮れていた悪魔の部隊があったと言う。",
+      "彼らは罪もない人々を次々と恐ろしい人体実験の餌食にしていった。",
+      "…新型の細菌が何日で犠牲者を殺すかを克明に観察した。",
+      "注射では何日で。",
+      "経口では何日で。",
+      "…それを調べるためにいくらでも解剖した。",
+      "死ぬのなんか待たずに、時には生きたまま解剖したりもした…。",
+      "…生きたまま遠心分離機にかけたり、生きたまま減圧室で潰してみたり。",
+      "……人間を生きたまま減圧すると、…体の穴と言う穴から中身がブリブリと押し出されてきて、…肛門から腸が、まるで蛇がくねり出してくるように押し出されてきた…。",
+      "…なんて話を…俺もドキュメント番組で見たような気がする……。"
+    ],
+    "textEn": [
+      "I was pretty sure it was Unit 731...",
+      "...It was a nightmare unit that devoted itself to researching terrifying bacteriological weapons to break the deadlock in the war.",
+      "They used many innocent people as fodder for horrible human experiments.",
+      "...They methodically observed how many days a new strain would take to kill the victims.",
+      "How many days it would be when injected.",
+      "How many days it would be when swallowed.",
+      "...They dissected many people to find that out.",
+      "Sometimes, they wouldn't bother waiting until they were dead, and dissected them while they were still alive...",
+      "...They would strap them into centrifuges while still alive, and crush them in decompression chambers while still alive.",
+      "...When a live human decompresses... all the holes in their body get pushed outwards... and their intestines get pushed out of their anus like a snake winding out of it...",
+      "...I have a feeling... I saw something like that on a documentary one time..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………胸くそが悪くなるぜ。",
+      "……それでも、雛見沢の人間を蔑むのかよな…。」"
+    ],
+    "textEn": [
+      "\"......That makes me sick...",
+      "...and they still hate Hinamizawa, huh...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……本当に。」"
+    ],
+    "textEn": [
+      "\"......You said it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悲しげに薄っすらと笑いながら相槌を打ってくれた。",
+      "……それだけのコミュニケーションだったが、今はなぜかうれしかった…。",
+      "…開戦当初の軍部の目論見は大きく崩れ、戦線全域で慢性的な食糧不足が発生していた。",
+      "食糧不足は栄養失調を誘発し、抵抗力を失った体は次々と様々な病気に蝕まれていった。",
+      "士気もモラルも低下し、このままでは軍隊を維持できない。",
+      "そこで始められた研究だったと言う。",
+      "始めは戦場での食料調達の手法の研究だった。",
+      "…それは住人からの略奪と言った暴力的なものから、見慣れぬ昆虫動植物の料理方法と言ったサバイバル的なものまでとても広義だった。",
+      "研究は細部を詰めながら、迷走、暴走を繰り返し、",
+      "……やがて禁忌の扉を叩くに至る。"
+    ],
+    "textEn": [
+      "Mion agreed with me, giving a faint, sad smile.",
+      "...It wasn't much in the way of communication, but for some reason I was happy to have it right now...",
+      "...The military's designs at the start of the war completely fell apart, and a chronic food shortage broke out all over the battlefront.",
+      "The food shortage led to malnutrition, and as their natural resistances lowered, the soldiers fell to one disease after another.",
+      "Spirit and morale lowered as well—they wouldn't be able to maintain their forces at this rate.",
+      "Apparently that's where the research started.",
+      "At first, it was to find methods of delivering food to battlefields.",
+      "...It was very broad, and included things from violent methods like stealing it from citizens to survival methods like how to cook unfamiliar insects and plant life.",
+      "As they were working out the details, they kept straying off course and going out of control...",
+      "until finally they knocked down a door called 'taboo.'"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…戦場で一番入手しやすいタンパク源は何だと思います…？」"
+    ],
+    "textEn": [
+      "\"...What do you think the easiest source of protein on a battlefield is...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺もレナも。",
+      "……何となく答えがわかっていた。",
+      "…だから答えなかった。",
+      "…やがて、試作品がいくつも作られた。",
+      "…だが、人肉であることを知る彼らは誰も食さなかった。",
+      "……だからそれらは前線に振舞われたという。",
+      "それらの缶詰は代用肉と称され、間違って自分たちが口にすることがないよう、底にマル代と刻印した…。"
+    ],
+    "textEn": [
+      "Rena and I......",
+      "knew the answer without being told.",
+      "...So we didn't answer.",
+      "...At last, they had a handful of test prototypes.",
+      "...When the soldiers learned it was human flesh, however, the scientists couldn't make anyone eat it.",
+      "...So it was apparently sent to the front lines.",
+      "The cans were labeled meat substitutes, and so that they wouldn't accidentally eat it themselves, they stamped the bottoms with a circle..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……お腹を空かせた前線の兵隊さんにはどの試作品もとても好評だったそうです。",
+      "中でも醤油で煮たすき焼き風のものが一番好評だったそうで…。」"
+    ],
+    "textEn": [
+      "\"...The starved soldiers on the front lines apparently loved all the prototypes they were sent.",
+      "Among them, those who cooked it in soy sauce, like it was sukiyaki, loved it the most...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「も、…もうやめてよ魅ぃちゃん…。",
+      "………気分が悪くなってきた……。」"
+    ],
+    "textEn": [
+      "\"C-Come on, Mii-chan, stop...",
+      "......I'm getting sick to my stomach...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは本当に真っ青で、正座しているのも辛いようだった…。",
+      "魅音はまだまだしゃべり足りないようだったが、軽いため息と共に、話を打ち切った。"
+    ],
+    "textEn": [
+      "Rena really was pale-faced, and she looked like she was having difficulty continuing to sit on her knees...",
+      "Mion looked like she had more to say, but she sighed lightly and stopped there."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…じゃあ、……その、魅音の爺さんが持ち帰ったという缶詰は……、」"
+    ],
+    "textEn": [
+      "\"...Then... those canned goods your grandpa brought back...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………重苦しい沈黙が再び訪れる。",
+      "…本当にどこまでも救いようのない、",
+      "……悲しい物語だった。",
+      "……差別したりされたり、したりされたり。",
+      "どうして優劣や等級をつけたがるのか。",
+      "どうして人間は見下さないと生きていないのか。",
+      "どうして、………みんなで楽しく暮らせないのか。",
+      "……わからなかった。"
+    ],
+    "textEn": [
+      "............The stifling silence came back.",
+      "...What a seriously hopeless...",
+      "and sad story it was.",
+      "......They discriminated, were discriminated against, discriminated, and were discriminated against.",
+      "Why must they attach worth and rank to it?",
+      "Why can't they live without looking down on people?",
+      "Why...... can't everyone enjoy life together?",
+      "...I didn't know."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…当主である祖母は、ある時、村の子供たちにこう言いました…。」"
+    ],
+    "textEn": [
+      "\"...My grandmother, the family head, once told the children of the village this...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "一人に石を投げられたら、二人で石を投げ返しなさいと。",
+      "…子供が聞き返す。",
+      "二人に石を投げられたら、と。",
+      "もちろん答えは簡潔だった。"
+    ],
+    "textEn": [
+      "If they throw a stone at one of you... then two of you must throw stones back.",
+      "...The children asked her.",
+      "What if they threw stones at two of us?",
+      "Of course, the answer was simple."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…二人に石を投げられたら、四人で石を。",
+      "八人に棒で追われたら、十六人で追い返し。",
+      "三十人に中傷されたなら、六十人で怒鳴り返せと。」"
+    ],
+    "textEn": [
+      "\"...If they throw stones at two of you, throw them back with four.",
+      "If they chase eight of you with sticks, drive them off with sixteen.",
+      "If they slander thirty of you, yell back with sixty.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "子供が最後に聞く。",
+      "千人に襲われたら…？",
+      "その答えすらも簡潔だった。"
+    ],
+    "textEn": [
+      "Finally, the children asked...",
+      "What if we're attacked by a thousand people...?",
+      "Even that answer was simple."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…千人に襲われたなら、雛見沢の全員で立ち向かいなさいと。",
+      "…それは決起を促す檄のようですらありました。"
+    ],
+    "textEn": [
+      "\"...If a thousand people attack you, then everyone in Hinamizawa will stand up against them.",
+      "...It was a manifesto to spur people into action."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…祖母は園崎本家当主としてだけでなく、雛見沢の母たろうとして立ち上がったのです。」"
+    ],
+    "textEn": [
+      "...My grandmother rose up not only as the leader of the Sonozaki house, but as the mother of Hinamizawa.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "時代は昭和３０年の半ば。",
+      "日米安保条約を巡る騒動が世間をにぎわす、戦いと運動の時代だった。",
+      "雛見沢の人々は連帯し、一人が受けた不当な差別を全員が受けたものとして戦った。",
+      "子供も大人も関係なかった。",
+      "子供がなじられたと聞けば、一団になって相手宅へ詰め掛けた。",
+      "大人が不当な扱いを受けたと聞けば、老若男女の区別なく徒党を組んで立ち向かった。",
+      "……雛見沢の人間にちょっかいを出すと大変なことになる…。",
+      "そう思わせれば勝ちだ、ということだったのだろう。"
+    ],
+    "textEn": [
+      "It was halfway through 1955.",
+      "It was a time when riots over the treaty with the U.S. were rampant, a time of battle and action.",
+      "The people of Hinamizawa joined together and fought, treating unfair discrimination towards one as a crime against them all.",
+      "It didn't matter whether that one was a child or an adult.",
+      "If they heard that a child had been told off, then everyone would crowd the house of the perpetrator, acting as a whole.",
+      "If they heard an adult had been treated unfairly, men and women, young and old, would all band together and stand up against it.",
+      "...If you meddled with people from Hinamizawa, you would be in trouble...",
+      "They probably figured that if they could make others think that, they'd win."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………………圭ちゃんも、町で不良に絡まれた時、たくさんの人たちに助けられたのを思い出しませんか…？」"
+    ],
+    "textEn": [
+      "\"............Kei-chan, do you remember how many people came to help you when you got involved with those delinquents in town...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………………………………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺を助けるために果敢に集まってくれた雛見沢の人々と、",
+      "…巻き込まれまいと目をそむける興宮の人々の対比が印象的だったことを思い出す。"
+    ],
+    "textEn": [
+      "I recalled how much of an impression it had left on me...",
+      "that the people of Hinamizawa boldly came to my rescue, yet the people of Okinomiya averted their eyes so they wouldn't get involved."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…祖母が戦い、両親がそれを引き継ぎ。",
+      "…ようやく…雛見沢にも平和が戻った。",
+      "……もっとも、その平和もとても薄い皮の上に乗ったものです。"
+    ],
+    "textEn": [
+      "\"...My grandmother fought, and my parents carried on the fight.",
+      "...At last... peace returned to Hinamizawa.",
+      "...Of course, that peace had been placed on a razor's edge."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…この百年の歴史を見れば、今の平穏など、揺れ返す天秤のたまたまの狭間としか言えないでしょう。」"
+    ],
+    "textEn": [
+      "...When you consider the previous hundred years of history, the tranquility now can only be called a chance interval, standing on uneven scales.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………どうして、」"
+    ],
+    "textEn": [
+      "\".........Why...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "長く辛い歴史の前に、引っ越してきて１年にも満たない俺が何を意見できるのか。",
+      "…でも、…言ってしまった。"
+    ],
+    "textEn": [
+      "Could I really have an opinion on such a long and difficult history when I hadn't moved here more than a year ago?",
+      "...Yet... I said it anyway."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「どうして、…みんなで仲良く暮らしあえないんだよ…。",
+      "…鷹野さんに聞いたオヤシロさまの昔話は、どうなったんだよ。」"
+    ],
+    "textEn": [
+      "\"Why... can't everyone just live in peace...?",
+      "...What happened to those old stories of Oyashiro-sama that I heard from Takano-san?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "人と鬼は手を取り合って仲良く暮らしたって。",
+      "…それを見守るためにオヤシロさまは地上に留まったのではなかったか。"
+    ],
+    "textEn": [
+      "Man and demon joined hands and lived together in harmony.",
+      "...Didn't Oyashiro-sama remain in this world to watch over that?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……おとぎ話です。",
+      "…人と鬼は実在しても、それを調停するオヤシロさまは実在しなかった、…ということです。」"
+    ],
+    "textEn": [
+      "\"......It's a fairy tale.",
+      "...I mean... that even if those people and the demons were real, the Oyashiro-sama who mediated between them wasn't.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………………………それで、",
+      "……オヤシロさまの祟りを起こすことになったの…？」"
+    ],
+    "textEn": [
+      "\"............Is that...",
+      "why Oyashiro-sama's curse happens...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…外からすーっと、涼しい風が一陣入り込み、魅音の長く透き通るように美しい髪を揺らした。",
+      "魅音は涼やかに笑ったまま、何も答えず、表情すらかえなかったのに、…それが無言の答えとなってしまっていた。"
+    ],
+    "textEn": [
+      "...A cool gust of wind blows in from outside, fluttering Mion's long, beautifully clear hair.",
+      "Mion kept her refreshing smile, without answering, and didn't even change her expression... but even that became a silent answer."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……雛見沢村を、再び鬼ヶ淵村のように。",
+      "崇められるに足る神聖な存在に。",
+      "…それが我ら鬼ヶ淵村の末裔の悲願であり、"
+    ],
+    "textEn": [
+      "\"...So that Hinamizawa Village might once more be like Onigafuchi Village.",
+      "So that we may again be a sacred existence, worthy of worship.",
+      "...That was the earnest wish of our ancestors in Onigafuchi..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…園崎本家の「鬼」を継ぐ者の宿命なのです。」"
+    ],
+    "textEn": [
+      "and the mission of those who inherit the 'demon' in the Sonozaki main family.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………「鬼」を、…継ぐ者？」"
+    ],
+    "textEn": [
+      "\".........Those who inherit... the demon?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……我が園崎本家は代々、当主の名に「鬼」の一字を加える習慣があるのです。",
+      "……私の名前を手のひらにでも書いていただければ、一目瞭然かと…。」"
+    ],
+    "textEn": [
+      "\"......For generations, the Sonozaki family has had a custom of including the character for 'demon' in the leaders' names.",
+      "...If you write out my name on your hand, it should appear plain as day...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "手のひらに「魅音」となぞる。",
+      "…あ、…本当だ。",
+      "鬼という文字が含まれてる…。"
+    ],
+    "textEn": [
+      "I trace out the word 'Mion' on the palm of my hand.",
+      "...Oh... She's right.",
+      "The character for 'demon' is in there..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……名前だけではありませんよ。",
+      "…この体にも、鬼が刻まれているのです。」"
+    ],
+    "textEn": [
+      "\"......Not only in my name, either.",
+      "...The demon is engraved on my body as well.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そういい、静かに魅音が立ち上がる。",
+      "…そして着衣に手をかけ始めた。"
+    ],
+    "textEn": [
+      "When she said that, she quietly rose, and...",
+      "began to lay her hand on her clothing."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「いいよ魅ぃちゃん。",
+      "………見せる必要なんて全然ない。」"
+    ],
+    "textEn": [
+      "\"It's okay, Mii-chan.",
+      "......You don't need to show us, okay?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………ありがとう。」"
+    ],
+    "textEn": [
+      "\"......Thank you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…そのやり取りだけで、…何となく察してしまった。",
+      "……恐らく、",
+      "…魅音の体にも、",
+      "……鬼を継いだことを示す、刺青や刻印のような…消せない印があるのだ。",
+      "魅音は腰を下ろさず、縁側への障子をするすると開けた。",
+      "……部屋にこもった、じっとりとした湿気が、涼やかな風で清められていく。",
+      "魅音は広い庭に目をやりながら、いつまでも静かに……そうしていた。",
+      "…あの両肩には、……普段の魅音からは想像もつかないような…。",
+      "…重い、",
+      "重い、",
+      "…本当に重い",
+      "……雛見沢の、いや、鬼ヶ淵村の歴史が背負われているのだ。",
+      "……そんな魅音に、……一体どんな言葉がかけられるんだ…？",
+      "レナもまた、その背中に何も言葉をかけられずにいる。",
+      "セミの声だけが沈黙を埋めてくれていた…………。",
+      "やがて、……長い空白の時間を経て、魅音がぼそりと言った。"
+    ],
+    "textEn": [
+      "...With just that exchange... I guessed what she meant.",
+      "......Most likely...",
+      "somewhere on her body...",
+      "there was a permanent seal, such as a tattoo or marking... that proved that she inherited the demon.",
+      "Mion didn't sit back down—she smoothly opened the paper door onto the porch.",
+      "...A refreshing breeze began to cleanse the damp air filling the room.",
+      "Mion quietly gazed out at the wide yard... for quite a while.",
+      "...On her shoulders...... was something I could never imagine the normal Mion carrying...",
+      "...It was the heavy,",
+      "heavy,",
+      "...truly heavy...",
+      "history of Hinamizawa—no, of Onigafuchi—weighing down on them.",
+      "...What kind of words... could I possibly say to a Mion like that...?",
+      "Rena wasn't saying anything to her, either.",
+      "Only the voices of the cicadas drowned out the silence.........",
+      "At last... after a long period of nothing, Mion murmured."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……この５年間の連続事件ね。"
+    ],
+    "textEn": [
+      "\"...The serial incidents happening over the past five years."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…私が直接関わったものもあるし、間接的に関わったものもある。"
+    ],
+    "textEn": [
+      "...I was directly related to some of them, and indirectly to others."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "いくつかは園崎家だけでなく、他の御三家の、公由家や古手家が関わっているものもあるけど、",
+      "……その全ての中心に私がいたと思う。」"
+    ],
+    "textEn": [
+      "Some were not the Sonozaki family, but were rather related to the others, the Kimiyoshi family and the Furude family.",
+      "...I think I was at the center of all of them.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "振り返らずに、…背中を向けたままでそう言った。",
+      "…その口調はいつのまにか、……俺たちのよく知る魅音の声に戻っていた。"
+    ],
+    "textEn": [
+      "She said it all without turning around... with her back to us.",
+      "...At some point, her tone of voice... had gone back to being the Mion we knew."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……私は自分のしたことには信念を持ってるし、罪の意識などまるでない。"
+    ],
+    "textEn": [
+      "\"......I have faith in what I've done, and don't feel any guilt."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……あるとすれば、私の跡継ぎも決まらない内に舞台を退かなければならないこと……くらいかな。」"
+    ],
+    "textEn": [
+      "...If I did... perhaps it would be that I will have to leave the stage before the heir is decided.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………………………………………。"
+    ],
+    "textEn": [
+      "............"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……私を捕まえて、それで法治国家の体裁が整うなら。",
+      "……それも時代の流れかなぁって。"
+    ],
+    "textEn": [
+      "\"......If I am caught, and tried in a court of law......",
+      "then I suppose that's how it works nowadays."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……この百年で、一番平和な雛見沢を見ながら引退できるのは、",
+      "……ひょっとすると歴代の園崎家の当主で、一番の幸せなのかもしれないし。」"
+    ],
+    "textEn": [
+      "...Being able to retire with Hinamizawa at the most peaceful it's been in a hundred years...",
+      "could be the happiest thing that's ever happened to any of the Sonozaki leaders of past generations.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………障子に肩を寄りかからせた魅音が、ずるずると滑りながら、ぺたりとその場に座り込む。",
+      "……見ているだけで胸が痛くなる、そんな諦めの仕草だった。",
+      "………魅音が関わってきた恐ろしい罪の数々が、急に薄れだす…。",
+      "……なぁ魅音、",
+      "……あとのことはどうでもいい。",
+      "……足掻くだけ足掻いて…逃げてみるのもいいんじゃないか……？",
+      "……そんな風に考えかけた時、凛としたレナの声が響き渡った。"
+    ],
+    "textEn": [
+      ".........Mion leaned a shoulder against the paper door, then slid down it and flopped on the ground.",
+      "...It was an act of such resignation that just seeing it made me hurt inside.",
+      "......The numerous terrible crimes Mion had been a part of suddenly began to fade from my mind...",
+      "...Hey, Mion.",
+      "...I don't care what happens after this.",
+      "...Can't you just try to struggle as much as you can... try to run away...?",
+      "...As soon as I began to think that way, Rena's ringing voice filled the room."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でも、…魅ぃちゃんは梨花ちゃんと沙都子ちゃんを、",
+      "…………………………………",
+      "殺したんだよね。」"
+    ],
+    "textEn": [
+      "\"But... Rika-chan and Satoko-chan",
+      "...................................",
+      "You killed them, didn't you, Mii-chan?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……あまりに鋭さに、俺に向けられた言葉でないにもかかわらず、胸がえぐられた。"
+    ],
+    "textEn": [
+      "...The sharp points of her words stabbed into my chest despite not being directed at me."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「他の人のことは殺してもいいとも言わないよ。",
+      "……でも、とにかく魅ぃちゃんは。",
+      "……梨花ちゃんと沙都子ちゃんを、殺した。」"
+    ],
+    "textEn": [
+      "\"I'm not saying that it's okay if you killed other people.",
+      "...Regardless, Mii-chan...",
+      "You killed Rika-chan and Satoko-chan.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの言葉は…これ以上ないくらいに痛烈だった。",
+      "……魅音の肩に圧し掛かるあまりに重い歴史を全て知った上で、……仲間殺しを批判したのだ。"
+    ],
+    "textEn": [
+      "Rena's words... were more biting than any I had ever heard.",
+      "...Even now that we knew all the heavy history pressing down on Mion's shoulders... she had criticized her for killing our friends."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………私が園崎家の役目を負うように、梨花ちゃんだって古手家の役目を負っていた。",
+      "…その役目が、……祭具殿を守ることだった。」"
+    ],
+    "textEn": [
+      "\"............Just as I bear the duty of the Sonozaki family, Rika-chan bore the duty of the Furude family.",
+      "...That duty... was to protect the ritual storehouse.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……心臓がぎゅっと締め付けられる。"
+    ],
+    "textEn": [
+      "...My chest tightened."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……去年辺りから、…梨花ちゃんが言ってたのは知ってたんだよ。",
+      "…祭具殿のカンヌキが重くて辛い、…もっと簡単なカギに付け替えたいって。"
+    ],
+    "textEn": [
+      "\"......I learned around last year... that Rika-chan had said something about it.",
+      "...The bars on the storehouse door were too heavy for her... and she wanted to change them to a simpler lock and key."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……先代の神主さんでも重いと嘆いてた代物だからね。",
+      "…梨花ちゃんに辛いのは重々承知だった。」"
+    ],
+    "textEn": [
+      "...Even the priest before her had complained about it being heavy.",
+      "...He was very aware of how hard it was for Rika-chan.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "…ボクがちゃんと番をしますですから、もっと軽いカギに替えてほしいなのです。"
+    ],
+    "textEn": [
+      "\"...I will make sure to guard it, so I want to replace the lock with something lighter.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私は園崎家の当主代行として言った。",
+      "…連続怪死事件以降、オヤシロさまに不埒な関心を持つ者がいるようだから、カギを簡易にすべきではないと。",
+      "……でも、",
+      "…公由家の当主の、",
+      "……公由のおじいちゃんが……。",
+      "梨花ちゃんがそんなに大変なら、もっと軽いカギに替えてもいいんじゃないか、って。",
+      "カギが掛かっているということは、入ってはいけないという意思表示。",
+      "…それをわざわざ破って中に入ろうとする悪い人なんて、そうそういるもんか、…って。",
+      "……当主としての格は同じでも、…私にとっても大恩ある公由のおじいちゃんがそう言うのを、反対できるわけもない…。",
+      "結局、祭具殿のカギの付け替えを決め、……本当に安っぽくて軽い南京錠に付け替えた。"
+    ],
+    "textEn": [
+      "I replied on the behalf of the Sonozaki family leader...",
+      "...Ever since the string of freak death incidents, there seem to be people who are insolent towards Oyashiro-sama, so you shouldn't replace the lock with a simpler one.",
+      "...That said...",
+      "The leader of the Kimiyoshi family...",
+      "old man Kimiyoshi, he...",
+      "If it's that difficult for you, Rika-chan, then I think it's okay to replace the lock, he said.",
+      "The very fact that it was locked with a key was an indication of it being somewhere you mustn't enter.",
+      "...There's nobody bad enough to break through it and go inside... he said.",
+      "......Even if we were alike as leaders... I couldn't find it in me to argue with old man Kimiyoshi, since I owed him so much...",
+      "In the end, we decided to change out the lock on the storehouse... and switched it to a really cheap and light padlock."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…おじいちゃん。",
+      "本当に大丈夫なんですか？",
+      "婆っちゃも、できることならカギは前のままの方がよかったと言ってます。」"
+    ],
+    "textEn": [
+      "\"...Old man.",
+      "Is this really all right?",
+      "Nana says that if possible, we should keep the lock the same.\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「大丈夫だよ。",
+      "心配性だなぁ。",
+      "…何かあったらおじいちゃんがちゃんと責任を取ってあげるから。」"
+    ],
+    "textEn": [
+      "\"It'll be all right.",
+      "You're quite the worrywart.",
+      "...If something happens, this old man will take all the responsibility.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…本当ですね。",
+      "…公由家の当主として、責任を取られるという意味ですね。",
+      "…おじいちゃんも、…この中に納められている物がどれだけ神聖な物か、よくご存知のはず…。」"
+    ],
+    "textEn": [
+      "\"...Do you promise?",
+      "...You mean that you will take responsibility as the leader of the Kimiyoshi family, right?",
+      "...You should... be well aware of how sacred the things inside really are...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……大丈夫なのですよ。",
+      "この雛見沢に、カギを開けて勝手に入ってしまう悪い猫さんはいませんなのです。",
+      "……にゃーにゃー。」"
+    ],
+    "textEn": [
+      "\"......It's okay.",
+      "There aren't any bad cats in Hinamizawa who would open the lock and break in.",
+      "......Meow, meow.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ぅ、……ぅううぅ……ッ！！！」"
+    ],
+    "textEn": [
+      "\"Ooh... oouuh...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "嗚咽が…俺の口からあふれ出す。",
+      "…熱いものがぼろぼろとこぼれ出し、畳にぼたぼたと落ちた。"
+    ],
+    "textEn": [
+      "Sobs... escaped from my mouth.",
+      "...Something hot and wet dripped down in spades and fell onto the tatami mat."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……祭具殿に賊が忍び込んだという話は、綿流しの祭りの最中にもう私の耳に入っていました。",
+      "…賊は４人。",
+      "その日の内に、手が下されることになりました。"
+    ],
+    "textEn": [
+      "\"...I had already heard of the thieves entering the ritual storehouse during the Watanagashi festival.",
+      "...There were four of them.",
+      "We decided to act within the day."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……同時に、…祭具殿に賊を許した、古手家の梨花ちゃんと、公由家のおじいちゃんも責任を問わなければなくなってしまった…。」"
+    ],
+    "textEn": [
+      "...At the same time... we needed to demand that the ones who allowed the thieves to break in, Rika-chan of the Furude family and old man Kimiyoshi, take responsibility...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "涙が…ぼたぼた。",
+      "ぼたぼた…。",
+      "俺はさっきまで……梨花ちゃんたちを殺したのを…魅音のせいだと決め込んでいた。",
+      "…違うッ！！！",
+      "殺したのは魅音じゃない、",
+      "…俺だッ！！"
+    ],
+    "textEn": [
+      "My tears... dripped and dropped.",
+      "Dripped and dropped...",
+      "Until just now...... I had decided that it was Mion's fault... that she killed Rika-chan and the others.",
+      "...That was wrong!!!",
+      "The one who killed them wasn't Mion...",
+      "it was me!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……俺が……殺したも…同然なんだ……！！」"
+    ],
+    "textEn": [
+      "\"...I... I might as well have... killed them...!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「け、……圭一くん………。」"
+    ],
+    "textEn": [
+      "\"Ke... Keiichi-kun......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺には…この悲劇を止める機会があった。",
+      "なのに…止めなかった。",
+      "……安っぽい好奇心に負けて……それをしなかった。",
+      "あの時、…祭具殿に忍び込むことを踏みとどまっていれば………梨花ちゃんたちは死なずに済んだんだ…！",
+      "そうすれば…何も起こることはなかった。",
+      "楽しく…これまでのような日常を過ごしていたはず……！！"
+    ],
+    "textEn": [
+      "I had... a chance to stop this tragedy from happening, and yet...",
+      "I didn't.",
+      "...Cheap curiosity got the better of me...... and I didn't.",
+      "If, at the time... I had stopped us from sneaking into the ritual storehouse...... Rika-chan and the others wouldn't have had to die...!",
+      "If I had... then nothing would have happened.",
+      "We would be spending our days... having lots of fun... like we always did...!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…俺…が………馬鹿だった………ッ！！！」"
+    ],
+    "textEn": [
+      "\"...I... I was...... an idiot......!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "流す涙で、なかったことにできるなら。",
+      "……この部屋を涙で満たしてだってみせる。",
+      "…だが、……犯した罪は、…それしきのことでは贖えないのだ。"
+    ],
+    "textEn": [
+      "If by shedding tears I could take it all back...",
+      "then I would have filled up the room with them.",
+      "...However... such a meager act wouldn't be enough to redeem myself... for the crime I've committed."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんは、",
+      "……何も悪くないよ。」"
+    ],
+    "textEn": [
+      "\"Kei-chan...",
+      "You're not at fault.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が、まるで諭すように…やさしく語りかけてくれた。"
+    ],
+    "textEn": [
+      "Mion gently began to speak to me... as if trying to reason with me."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「私は園崎家の当主として、手を下さなければならなかったけど…。",
+      "園崎家の歴史なんか、…今にして思えば、大したものじゃない。"
+    ],
+    "textEn": [
+      "\"As the leader of the Sonozaki family, I needed to act...",
+      "But given the history of the Sonozaki family... Thinking about it now, it's no big deal."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……そんなもの全部投げ出しても、…私は仲間を救うべきだったのかもしれない。",
+      "……私がそんなものに屈したから、…あの２人を殺してしまった。",
+      "……それは他でもない、私、園崎魅音が殺したということ。"
+    ],
+    "textEn": [
+      "...Maybe I should have saved my friends... even if it meant casting all that aside.",
+      "...I yielded to it... and that's why I killed those two.",
+      "...I, Mion Sonozaki, and nobody else, killed them."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…私には踏みとどまる百億の瞬間があった。",
+      "……でも踏みとどまらなかった。",
+      "安易に自らの役割に屈し、…………仲間のために戦うことを放棄してしまった。",
+      "だからこれは私の罪。"
+    ],
+    "textEn": [
+      "...I had hundreds of chances to stop it, but...",
+      "...I didn't stop.",
+      "I gave in to the easy role that was handed to me............ and abandoned all thought of fighting for my friends.",
+      "So this is my crime."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "私が殺した。",
+      "園崎魅音が、…この手で。",
+      "殺してしまった。",
+      "それは何ら変わらない。",
+      "何も！",
+      "……あははははははははははははははは…。」"
+    ],
+    "textEn": [
+      "I killed them.",
+      "Mion Sonozaki... with these hands...",
+      "killed them,",
+      "and nothing whatsoever changed.",
+      "Nothing!",
+      "......Ahahahahahahahahahahahaha...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "自虐的な笑い声が、……悲しい。",
+      "…部活で、どんな苦境も跳ね返すと豪語した魅音だからこそ。",
+      "……痛々しい。"
+    ],
+    "textEn": [
+      "Her masochistic laughter... was sad.",
+      "Especially because Mion boasted in club that she would turn the tables on whatever predicaments presented themselves.",
+      "......It was so painful."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…でも、…魅ぃちゃんは自分の意思で、ひとりだけ救ったんだね。」"
+    ],
+    "textEn": [
+      "\"...Still... Mii-chan, you saved one person of your own volition.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「え…？」"
+    ],
+    "textEn": [
+      "\"Eh...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "驚いた顔を向ける俺の額を、レナはつんと突っついた。"
+    ],
+    "textEn": [
+      "As I looked at her surprised, Rena stuck her finger right at my forehead."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…圭一くんだけを、殺さなかった。",
+      "……こんなにも強い力を持つ魅ぃちゃんなら造作もなかったろうに。",
+      "…でも殺さなかったんだよね。」"
+    ],
+    "textEn": [
+      "\"...You left Keiichi-kun alive.",
+      "...As strong as you are, Mii-chan, it would have been no trouble for you, but...",
+      "...you didn't kill him.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そうだ。",
+      "……部活ですら歯が立たないくらいに狡猾な魅音が、本気で俺の命を狙ったなら、",
+      "……俺なんか最初の夜だって越せなかったはず。",
+      "これだけ多くの人が犠牲になったのに、……俺だけがいつも蚊帳の外だった。",
+      "…俺はそれを、いつから自覚していだんだろうか。",
+      "…次々と人が消えていくのに、…なぜか自分たけは犠牲にならないという、漠然とした確信を持っていたように思う。"
+    ],
+    "textEn": [
+      "That's right.",
+      "...Mion was so cunning that nobody could stand up to her, even in our club—if she had seriously tried to kill me...",
+      "I would have been dealt with on the very first night.",
+      "So many people had been sacrificed... but I was always left out in the cold.",
+      "...When did I first realize it?",
+      "...Even though people were disappearing one after the other... for some reason, I had this vague belief that only I would be left alive."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………………さぁて。",
+      "…どうして殺さなかったのかねぇ。",
+      "……鬼の私にゃ見当もつかないわ。",
+      "……魅音の方に、殺したくない都合でもあったんじゃないの。」"
+    ],
+    "textEn": [
+      "\"............Humm.",
+      "...Why didn't I kill him?",
+      "...As a demon, I can't even begin to guess.",
+      "...Maybe Mion had some reason she didn't want to kill you.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…そりゃ、どういう意味だよ、」"
+    ],
+    "textEn": [
+      "\"...What is that supposed to mean?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "しーー…と。",
+      "レナがしゃべらなくていいよと、口元に指を立てて見せた…。"
+    ],
+    "textEn": [
+      "Shhh.",
+      "Mion put a finger to her lips to say that Rena didn't need to talk..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……大石は外で待ってんの？」"
+    ],
+    "textEn": [
+      "\"...Is Ooishi waiting outside?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。」"
+    ],
+    "textEn": [
+      "\"Yes.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「逃げ場は？」"
+    ],
+    "textEn": [
+      "\"Any way out?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ない。",
+      "…ぐるっと囲んでるって言ってた。",
+      "無線でたくさんの車が来てるみたいだったよ。",
+      "魅ぃちゃん家の広い敷地を全部囲んでると思う。」"
+    ],
+    "textEn": [
+      "\"No.",
+      "...They said they have the place surrounded.",
+      "It seemed like they called a lot of cars over the radio.",
+      "I think they have your entire property surrounded.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は押し黙る。",
+      "……レナの容赦ない言葉が残酷に感じたが、",
+      "……それは残酷なんじゃなく、………親友の痛みを、少しでも小さなものにしようとする、介錯にも似た心遣いだったのかもしれない。"
+    ],
+    "textEn": [
+      "Mion fell silent.",
+      "...Rena's merciless words felt cruel...",
+      "but they weren't meant to be... maybe they were trying to lessen her good friend's pain, if only by a little—maybe they were considerate, like she was trying to help."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「自首、",
+      "…しよ。」"
+    ],
+    "textEn": [
+      "\"Please...",
+      "turn yourself in.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………………魅音は口を開かなかったが、…ちょっとだけ笑って見せてくれた。"
+    ],
+    "textEn": [
+      "............Mion didn't open her mouth... but she smiled, just a little."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「私たちも一緒に行くよ。",
+      "…親友をひとりきりになんか、絶対にしない。」"
+    ],
+    "textEn": [
+      "\"We'll go with you.",
+      "...We'll never leave a friend by herself.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………泣く子とレナにゃ勝てないわー。",
+      "あはははは…。」"
+    ],
+    "textEn": [
+      "\"............Crying children and Rena are the only things I can't beat!",
+      "Ahahahaha...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "頭を掻きながら、立ち上がる。",
+      "…もうすっかりいつもの魅音の顔に戻っていた。"
+    ],
+    "textEn": [
+      "She rose, scratching her head.",
+      "...Her face had returned entirely to that of the usual Mion."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「自分で自分の罪、…どのくらいになるかよくわかってる。",
+      "……例え自首が認められても、",
+      "……多分、もうここに帰ってくることもないと思う。」"
+    ],
+    "textEn": [
+      "\"I'm well aware... of how serious my own crimes are.",
+      "...Even if they accept me turning myself in...",
+      "I'll probably never be able to come back here.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………………………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………何も言えない。",
+      "……魅音が関わった死の数が、",
+      "……多過ぎた。",
+      "……それでも自首を勧めるのは、………ある意味、これ以上なく酷なのかもしれない。"
+    ],
+    "textEn": [
+      "......I couldn't say anything.",
+      "...The number of deaths Mion was involved in...",
+      "was just too large.",
+      "...So much so that maybe recommending that she turn herself in... was, in a way, extremely cruel."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「だから、最後にわがままを聞いて欲しいな。」"
+    ],
+    "textEn": [
+      "\"So, I'd like you to hear one last selfish request.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「何かな？」"
+    ],
+    "textEn": [
+      "\"What is it?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「３０分でいいから。",
+      "……圭ちゃんと二人きりにしてほしい。」"
+    ],
+    "textEn": [
+      "\"Thirty minutes is fine...",
+      "Just let me have some time alone with Kei-chan.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………え、",
+      "自分の名前が突然出て…、びっくりたのは俺だけのようだった…。"
+    ],
+    "textEn": [
+      ".........Huh?",
+      "My name suddenly came up... and it looked like I was the only one surprised about that."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……圭一くん。",
+      "…どうかな。",
+      "……圭一くんが嫌なら、無理にとは言えない。」"
+    ],
+    "textEn": [
+      "\"...Keiichi-kun...",
+      "is that okay with you?",
+      "...If you don't want to, then I won't make you.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………………………そうだね。",
+      "嫌なら、それでもいいよ。",
+      "……私は、鬼だもの。",
+      "…圭ちゃんはよそから引っ越してきた、正真正銘の人間。"
+    ],
+    "textEn": [
+      "\"............You're right.",
+      "It's okay if you don't want to.",
+      "...After all, I'm a demon...",
+      "and Kei-chan is a bona fide human who moved here from somewhere else."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……相容れることなんて、…オヤシロさまが実在して、仲介してくれない限り、",
+      "…絶対にない。」"
+    ],
+    "textEn": [
+      "...For us to be compatible... as long as Oyashiro-sama doesn't exist to mediate...",
+      "simply isn't possible.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………俺に、躊躇する理由なんかなかった。",
+      "魅音が、…重い、抗うことのできない因習に飲まれ、",
+      "…仲間をその手にかけなければならなくしてしまったのは………他でもない、俺自身なのだ。",
+      "むしろ魅音は、……追い込んだ俺を責めてもいいくらいなのだ。",
+      "…だが、",
+      "……魅音は俺を一言も責めなかった。",
+      "…それどころか、……同罪であるはずの俺を、",
+      "……見逃した。",
+      "抗えない宿命の中で、…俺ひとり、救ってくれた。",
+      "……それが俺にとって、感謝すべきものなのかはわからない。",
+      "今にして思えば、",
+      "……梨花ちゃんたちがそうされたように、",
+      "…俺にも同じ報いを与えてくれた方が…どれだけ気が楽かわからない。",
+      "ひとつだけ…わかることは、",
+      "………魅音の背負う罪は、",
+      "……俺にも等しく背負う義務があるということなのだ。",
+      "だから……そんな魅音の最後のわがままに、躊躇する理由なんて、",
+      "……どこにもない。"
+    ],
+    "textEn": [
+      ".........There was no reason for me to hesitate.",
+      "Mion had been engulfed... by heavy, unopposable tradition...",
+      "...Right now, the duty of handling this had fallen...... to me, and me alone.",
+      "In fact... with me cornered, it would have been okay for her to blame me.",
+      "...However...",
+      "Mion didn't say one word of blame.",
+      "...Far from it—I was guilty of the same crime...",
+      "and she let me go.",
+      "Amidst the fate she could not oppose... she saved me alone.",
+      "...I didn't know whether I should be thankful for that.",
+      "Thinking upon it now...",
+      "I didn't know how much easier it would be...",
+      "if I were to be granted the same punishment... as Rika-chan and the others.",
+      "The only thing... I knew for sure......",
+      "was that I had an equal duty to bear......",
+      "the sins that Mion shouldered.",
+      "So... when it came to Mion's last request...",
+      "there was no reason for me to hesitate."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ。",
+      "……いいぜ。」"
+    ],
+    "textEn": [
+      "\"Sure.",
+      "...It's fine.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………………ありがとう。」"
+    ],
+    "textEn": [
+      "\"............Thank you.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……私からもありがとうを言うよ。",
+      "圭一くん。」"
+    ],
+    "textEn": [
+      "\"......I'd like to thank you too,",
+      "Keiichi-kun.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが立ち上がる。",
+      "…魅音との約束どおり、この場を去るつもりらしい。"
+    ],
+    "textEn": [
+      "Rena stood up.",
+      "...It looked like she would keep her promise with Mion and leave."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あ、いいよレナ。",
+      "ここで待っててくれれば。",
+      "……圭ちゃんとは、庭をぐるりとまわりたいだけだから。",
+      "…退屈だったら私の部屋へ行けばいい。漫画とか好きに読んでていいよ。"
+    ],
+    "textEn": [
+      "\"Ah, it's fine, Rena.",
+      "You can wait right here.",
+      "...I just want to go around the yard with Kei-chan.",
+      "...If you're bored, you can go to my room. You can read any manga you like."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…………あぁ、何だったらお気に入りの単行本、丸ごと持ってってもいい。」"
+    ],
+    "textEn": [
+      ".........Ah, and if there are any volumes you like, you might as well take them.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「いやだよ。",
+      "魅ぃちゃんの本は魅ぃちゃんのものだもの。",
+      "勝手にレナの家に持って帰れない。」"
+    ],
+    "textEn": [
+      "\"I don't want to.",
+      "Mii-chan's books belong to Mii-chan.",
+      "Rena couldn't bring them back home with her so freely.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………あんたは、こんな時に限っていい子なんだから。」"
+    ],
+    "textEn": [
+      "\"............You're such a good kid, only at times like this.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がレナの頭を掴んで、まるで俺がするみたいにわしわしと乱暴に撫でた。"
+    ],
+    "textEn": [
+      "Mion took Rena's head and rubbed it violently like I always did."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「じゃ、…行こう。圭ちゃん。」"
+    ],
+    "textEn": [
+      "\"Okay... let's go, Kei-chan.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "廊下へ向かう魅音を追って歩き出す俺を、…レナが無言で引き止めた。"
+    ],
+    "textEn": [
+      "I began to walk after Mion, who headed for the hallway... when Rena silently stopped me."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………魅ぃちゃんを、",
+      "…よろしくね。」"
+    ],
+    "textEn": [
+      "\".........Take care...",
+      "of Mii-chan.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ。」"
+    ],
+    "textEn": [
+      "\"Yeah.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………魅ぃちゃん、…もう二度と帰ってこれないって、確信してる。」"
+    ],
+    "textEn": [
+      "\".........Mii-chan... really does believe she won't ever be able to come back.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……法律なんかよく知らないけれど、……これだけの死に関わって、重罪を免れるなんて…到底思えない。"
+    ],
+    "textEn": [
+      "...I didn't know much about laws... but with as many deaths as she'd been involved in, the chances of her escaping a heavy punishment... seemed non-existent."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………魅ぃちゃんが短気を起こさないように、…見張ってね。」"
+    ],
+    "textEn": [
+      "\".........Watch out... so that you don't make her lose her temper, okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は司法なんかに身を委ねずに、…自らの手で幕を下ろすかもしれない。",
+      "……レナは、すでにそこまで読んでいた。"
+    ],
+    "textEn": [
+      "Mion might not surrender herself to justice... so I might have to put an end to it myself.",
+      "......Rena had already thought that far ahead."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ。",
+      "……そんなこと、絶対にさせないから。」"
+    ],
+    "textEn": [
+      "\"Right.",
+      "...I won't let that happen.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナがいつの間にか溜めていた涙を、擦る。"
+    ],
+    "textEn": [
+      "Rena rubbed at her tears, which had fallen without me noticing them"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあ…行ってあげて。」"
+    ],
+    "textEn": [
+      "\"Okay... then go after her.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "頷き、玄関へ消えた魅音を追う。",
+      "……ふすまの向こうから聞こえるレナの嗚咽が、はっきりと聞こえた。"
+    ],
+    "textEn": [
+      "I nodded and followed Mion, who had disappeared out the front door.",
+      "...I could clearly hear Rena sobbing from the other side of the paper door."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………どうして魅ぃちゃんは、……鬼なんか継がされちゃったんだろうね。"
+    ],
+    "textEn": [
+      "\"......Why was Mii-chan... made a successor to demons?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "…それは仕方のないことだったんだろうね…。"
+    ],
+    "textEn": [
+      "...Maybe it just had to happen that way..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "………でも、",
+      "……あんまりにも",
+      "………可哀想だよね…………………。」"
+    ],
+    "textEn": [
+      "......But...",
+      "It's just so......",
+      "awful............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "頬を熱いものがぼろりと流れ落ちる。",
+      "………俺の涙だった。",
+      "俺はそれを乱暴に拭う。",
+      "……魅音に捧げられる最後の時間に、涙なんか絶対に見せたくなかったから。",
+      "もう魅音は玄関の外で待っていた…………。"
+    ],
+    "textEn": [
+      "Something hot burned down my cheeks.",
+      "......They were my tears.",
+      "I fiercely wiped them away.",
+      "...This was the last of my time I could offer to Mion, so I absolutely didn't want to let her see my tears during it.",
+      "Mion was already waiting outside the front door........."
+    ]
+  }
+]

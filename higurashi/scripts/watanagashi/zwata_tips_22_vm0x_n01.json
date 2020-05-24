@@ -1,0 +1,24 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「園崎家絡みの闇市場関係が有力候補ですなぁ。",
+      "拳銃とか、ご禁制の品とか。",
+      "園崎家の隠し資産ってのも捨てがたい辺りです。」"
+    ],
+    "textEn": [
+      "\"Anything pointing out the Sonozaki family's connections to the black market would be a major contender.",
+      "Like guns or contraband.",
+      "The secret Sonozaki family fortune would also be pretty difficult to discard.\""
+    ]
+  }
+]

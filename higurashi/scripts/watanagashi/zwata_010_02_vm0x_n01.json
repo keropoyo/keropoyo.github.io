@@ -1,0 +1,35 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「うちのお父さん、ヤクザの大物ですから。",
+      "…年少のお姉でも、若いガラの悪いのを何人も従えることができました。」"
+    ],
+    "textEn": [
+      "\"Well, our dad is a big-shot yakuza.",
+      "...Even when she was little, my sister managed to subjugate a bunch of young street rats.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "何度も補導されたんですよ…今は何だかのんびりした雰囲気だから想像も付かないでしょうが。",
+      "…子供ですから、すぐに釈放してもらえたみたいですけどね。"
+    ],
+    "textEn": [
+      "She was detained several times... although she's pretty laid-back now, so it might be hard to imagine.",
+      "...Though since she was a kid, they could get her released pretty easily."
+    ]
+  }
+]

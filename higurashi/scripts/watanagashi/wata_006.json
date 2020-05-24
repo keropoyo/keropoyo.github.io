@@ -1,0 +1,610 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あの日の翌日。",
+      "…魅音は平静を取り戻そうとやっきになっている変な一日だった。",
+      "俺と目が合うと、用事を思い出したとかトイレに行くとか言ってすぐに逃げて行ってしまうのだ。",
+      "見かねたレナが付きっ切りで魅音を介護していた。"
+    ],
+    "textEn": [
+      "The next day.",
+      "...It was a strange day, where Mion was desperate to regain her composure.",
+      "Every time our eyes met, she would say that she had something to do, or that she had to use the washroom, and run off.",
+      "Unable to just watch, Rena was taking care of her the entire time."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……今日の魅音さん、…徹底的にヘンですわね。」"
+    ],
+    "textEn": [
+      "\"...Mion-san... She's acting totally strange today.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「一部始終を知ってはいるんだが……何とも説明しづらい…。」"
+    ],
+    "textEn": [
+      "\"I know the whole story... but it's hard to explain...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……女の子には不安定になる時もあるのです。",
+      "放っておいてあげるのが一番なのですよ。」"
+    ],
+    "textEn": [
+      "\"...There are times when girls are emotionally unstable.",
+      "It's best to just leave her alone.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…ん？",
+      "ふと見ると、廊下からレナが呼んでいた。",
+      "…何だろう。"
+    ],
+    "textEn": [
+      "...Hm?",
+      "Turning around, I saw Rena calling me from the hallway.",
+      "...I wondered what it was."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん、こっちこっち。」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun, over here, over here.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何だよ、こんなとこに呼んで。",
+      "内緒話か？」"
+    ],
+    "textEn": [
+      "\"What is it, calling me over like this?",
+      "Is it a secret?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「えーっと",
+      "……その、",
+      "………災難だったみたいだね。",
+      "…あははははは。」"
+    ],
+    "textEn": [
+      "\"Ummm...",
+      "...That is...",
+      "...It looks like it was a disaster.",
+      "...Ahahahahaha.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「う、……う〜……ん…。」"
+    ],
+    "textEn": [
+      "\"Uh... Yea~h.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃん、かなり壊れてたけど、…何とか直しておいたから。」"
+    ],
+    "textEn": [
+      "\"Mii-chan seemed pretty broken, but I somehow got her working again.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よく直せたな…。",
+      "一体どうやって…。」"
+    ],
+    "textEn": [
+      "\"I'm surprised you managed it...",
+      "How did you exactly...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。テレビと同じ。",
+      "斜め４５度くらいの角度でえい！えい！って。」"
+    ],
+    "textEn": [
+      "\"Same way I do with the television.",
+      "Just come at it from a 45 degree angle and HIYAAAA!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう言い、チョップするような仕草をして見せた。",
+      "…ギャグなのか本当なのか区別が付かないぞ…。"
+    ],
+    "textEn": [
+      "Saying that, she made a chopping motion.",
+      "...You know I can't tell if you're joking or not, right?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「明日からは大丈夫だから。",
+      "だけど圭一くんにもお願いしたいことがあるの。」"
+    ],
+    "textEn": [
+      "\"She'll be fine by tomorrow.",
+      "Also, there's something I want you to do, Keiichi-kun.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……悪気はないんだが、なぜか罪の意識もある。",
+      "…何でも聞くぞ。」"
+    ],
+    "textEn": [
+      "\"...I didn't mean to do anything wrong, but I still feel guilty.",
+      "...I'm listening.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。助かる。",
+      "……魅ぃちゃんはね、昨日までの数日間のこと、なかったことにするから。」"
+    ],
+    "textEn": [
+      "\"Thanks.",
+      "...You see, Mii-chan is just going to pretend the last few days never happened.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "なかったこと、って…。",
+      "……なるほど、そういう逃げ方もあるなぁ…。"
+    ],
+    "textEn": [
+      "Never happened, huh...",
+      "...I see... well, that's one way to run from it..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「だからね！",
+      "圭一くんもなかったことにしてあげて。",
+      "それで魅ぃちゃん、いつも通りだから。」"
+    ],
+    "textEn": [
+      "\"So, you see...",
+      "Keiichi-kun, could you pretend too?",
+      "Then Mii-chan can go back to normal.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そ、そんな簡単なことで…本当に大丈夫なのか…？」"
+    ],
+    "textEn": [
+      "\"J-Just doing something as simple as that... is it really going to be okay...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「お願いだから魅ぃちゃんの心の整理が付くまでそっとしておいてあげてよ。」"
+    ],
+    "textEn": [
+      "\"Please, until Mii-chan gets her feelings in order, just go with it.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……うーん",
+      "……",
+      "わかったよ。」"
+    ],
+    "textEn": [
+      "\"...Okay...",
+      "...",
+      "I got it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺に落ち度はないはずなのに……なぜか俺が悪い気がする。",
+      "一番悪いのは事情を知りつつ丸一日魅音に成りすましてた詩音なんだが…！！！",
+      "うー…でも……あいつ一言も自分が魅音だとは言ってないもんな…。",
+      "…うー…。",
+      "このやり場のないゲンコツはどこへ向ければいいんだよー…！",
+      "俺がそんな、ヤキモキとした仕草で地団太を踏んでいるのを見て、レナはくすくすと笑っていた。"
+    ],
+    "textEn": [
+      "Even though I shouldn't have been at fault... for some reason I felt guilty.",
+      "The one at fault here was the one who knew about the entire situation and pretended to be Mion for an entire day: Shion...!!!",
+      "Ugh... but... she never once said that she was Mion...",
+      "...Ugh...",
+      "What am I supposed to be angry at!?",
+      "Seeing me stomping the ground impatiently, Rena giggled."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でも、圭一くんもわかったでしょ。",
+      "魅ぃちゃんにもかわいいところがあるんだ、って。」"
+    ],
+    "textEn": [
+      "\"But Keiichi-kun, you knew as well.",
+      "That Mii-chan has some cute things about her.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは風に髪をなびかせながら、落ち着きのある声で言った。"
+    ],
+    "textEn": [
+      "Rena talked in a calm voice as her hair rustled in the wind."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………あぁ。",
+      "退屈しないヤツだということがわかった。」"
+    ],
+    "textEn": [
+      "\"......Yeah.",
+      "I know that she'll never let it be boring.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…よかった。」"
+    ],
+    "textEn": [
+      "\"...Good.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは短くそう答えると大きく伸びをして空を仰いだ。"
+    ],
+    "textEn": [
+      "Following this curt reply, Rena looked up at the sky and stretched."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんがそれに気付いてくれれば、この数日間の出来事はすぐに笑い話になるんだよ。」"
+    ],
+    "textEn": [
+      "\"As long as you realize that, Keiichi-kun, these past few days will soon be nothing more than a story to laugh about.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺もレナがするように伸びをして空を仰いだ。",
+      "澄み渡る空はどこまでも高かった。"
+    ],
+    "textEn": [
+      "Copying Rena, I also began to stretch as I looked at the sky.",
+      "The clear sky towered into the distance."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「今日は部活も何にもなし。",
+      "今日だけは申し訳ないけど圭一くん、下校はひとりでいいかな。",
+      "明日からは元通りだから今日だけ。",
+      "…ね。」"
+    ],
+    "textEn": [
+      "\"There's no club activities or anything today.",
+      "I'm sorry, Keiichi-kun, but just for today, can you go home by yourself?",
+      "It'll all be back to normal by tomorrow, so just for today.",
+      "...Okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今日一日、そっとしておけば元に戻るなら、楽な注文だ。"
+    ],
+    "textEn": [
+      "If all it took for everything to go back to normal was to leave Mion alone for today, then it was an easy decision to make."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わかったよ。",
+      "………魅音に面と向かって言えないから、レナに言っとく。",
+      "……何だか、申し訳ないな。謝る…。」"
+    ],
+    "textEn": [
+      "\"Got it.",
+      "...I can't say it directly to Mion, so I'll say it to you.",
+      "...I still feel kind of guilty about it. So I want to apologize...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…う〜ん！",
+      "元はと言えば、圭一くんが無神経なことを言うからいけなかったんだよね。",
+      "これに懲りて、少しはデリカシーってものを身に付けるんだよ？」"
+    ],
+    "textEn": [
+      "\"...Ah, no!",
+      "The root of the problem was Keiichi-kun saying something insensitive, right?",
+      "So if you learned anything from this, you need to look a bit into gaining a sense of delicacy.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「へいへーい、努力しまーす。」"
+    ],
+    "textEn": [
+      "\"Right, right. I'll try.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その日は、これまでで一番短い一日だった。",
+      "レナが魅音に付きっ切りでずーっと話をして過ごしているようだった。",
+      "とても楽しそうな話なので、ついつい加わろうかと思ったが、それはしない約束だ。",
+      "魅音も、俺を意識しないように精一杯がんばってるようだった。",
+      "…だから俺も同じ様に、魅音を意識しないように精一杯がんばる。",
+      "お昼も久しぶりにひとりで食べた。",
+      "魅音もレナと二人きりで食べた。",
+      "灰色の感情でため息を漏らしていたら、梨花ちゃんがやって来て、俺の頭を撫でてくれた。"
+    ],
+    "textEn": [
+      "That day, was the shortest day of my life.",
+      "Rena was talking to Mion while accompanying her around the entire time.",
+      "It looked like a really fun conversation, so I reflexively thought about joining in, but I had made a promise not to.",
+      "It seemed that Mion was also trying her best to ignore me.",
+      "...So likewise, I did my best to ignore her.",
+      "For the first time in a while, I ate lunch alone.",
+      "Mion and Rena ate theirs by themselves.",
+      "As I let out a sigh in my ashen mood, Rika-chan came over and patted me on the head."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一も魅ぃもいっぱいいっぱいお勉強しましたですね。」"
+    ],
+    "textEn": [
+      "\"...Both Keiichi and Mii learned a whole lot.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "勉強って言い方をするとは思わなかったな。",
+      "…なんか恋愛のトラブルがあったみたいですごく嫌だぞ。",
+      "見かねた先生とかに、放課後に職員室に呼ばれたりはしないだろうな…。"
+    ],
+    "textEn": [
+      "I'd never say it like that.",
+      "...It made it sound like we were having romantic problems. I didn't like that one bit.",
+      "Hopefully the teacher wouldn't notice and call us to the staff room after school or something..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……きっと圭一は素敵な大人になれますですよ。」",
+      "…なでなで。"
+    ],
+    "textEn": [
+      "\"...I'm sure that Keiichi will grow up to be a wonderful adult.",
+      "...*pat pat*\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…ふーん。",
+      "…梨花ちゃんはお勉強家だからすごい素敵な大人になれそうだな？」"
+    ],
+    "textEn": [
+      "\"...Hmmm.",
+      "...Rika-chan is the studious type, so maybe you'll grow up to be an amazingly wonderful adult?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……もちろんなのですよ。",
+      "ボクは大人になったらスゴイスゴイのです。」"
+    ],
+    "textEn": [
+      "\"...Of course.",
+      "When I grow up I'll be super amazing.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あぁら、私も大人になったらすごいレディーになるんですのよ〜？」"
+    ],
+    "textEn": [
+      "\"My, when I grow up I'll be an amazing lady, you know?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「沙都子はいくつになってもお子様だと思うぞ。賭けてもいい。」"
+    ],
+    "textEn": [
+      "\"No matter how old you get, you'll still be a brat. You can put money on it.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「なななな、なんですってぇえぇええええぇ？！？！」"
+    ],
+    "textEn": [
+      "\"Wha-Wha-Wha-What did you saaaaaaaaaAAaaaaay!?!?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子が指を鳴らすと上からタライが落ちてきて、俺の頭に命中した。"
+    ],
+    "textEn": [
+      "As Satoko snapped her fingers a washbasin fell from above, hitting me squarely in the head."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いってぇええぇえぇ…。",
+      "何しやがんだ沙都子ぉおおぉおぉ！！！！」"
+    ],
+    "textEn": [
+      "\"Owwwwwww....",
+      "What do you think you're doing SatokooooooooOooo!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どったんばったん！！",
+      "つねったりひっかいたり…！！",
+      "仲間のありがたみを噛み締める一日だった。"
+    ],
+    "textEn": [
+      "*bang* *smash*",
+      "*pinch* *squeeze*",
+      "It was a day I could thoroughly appreciate the value of having friends."
+    ]
+  }
+]

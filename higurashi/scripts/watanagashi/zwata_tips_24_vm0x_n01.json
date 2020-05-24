@@ -1,0 +1,35 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いつもそうですが、事件と車のキーの閉じ込めはよく似てます。",
+      "開けるためのカギはいつもその中に閉じ込められているんです。",
+      "車なら修理業者を呼んで扉をこじ開ける。"
+    ],
+    "textEn": [
+      "\"This always happens, but incidents are a lot like locking your keys in the car.",
+      "The keys you need to unlock the door are always locked inside.",
+      "For cars, you call the repairman and they'll pry open your door."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "近日中に鷹野殺しはお隣の県警さんに譲り、村長たちの失踪は行方不明扱いで生活課に委ねるようです。」"
+    ],
+    "textEn": [
+      "In the coming days, we'll hand off Takano's murder to the neighbouring prefecture, and give the missing persons case of the disappearance of the mayor and the others to the community division.\""
+    ]
+  }
+]

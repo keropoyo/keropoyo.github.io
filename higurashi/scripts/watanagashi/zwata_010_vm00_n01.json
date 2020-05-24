@@ -1,0 +1,100 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [],
+    "textEn": []
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…お出掛け？",
+      "……うん。",
+      "…学校に。」"
+    ],
+    "textEn": [
+      "\"...Going somewhere?",
+      "...Yeah.",
+      "...To school.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…昨日、二日酔いで早退した魅音だが、今朝も具合は優れないのだろうか。"
+    ],
+    "textEn": [
+      "...Mion had gone home early yesterday with a hangover, but she didn't look too good this morning, either."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「さ、３時ぃ？！",
+      "おいおい、…夜更かしにも限度ってもんがあるぞ？！",
+      "大方、漫画の単行本が面白くなっちゃって、１巻から読破してしまったんだろう。"
+    ],
+    "textEn": [
+      "\"Th-Three?!",
+      "Hey, now... You can't keep staying up late!",
+      "You probably read the first volume of a manga, thought it was interesting, then read the entire series, didn't you?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ののののの、のどちん、ゆらゆら〜〜〜！　はぅ〜〜〜〜！！！！」"
+    ],
+    "textEn": [
+      "\"H-H-H-H-H-Her throat, the thing in her throat, all wobbly~~~! Hau~~~~!!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「りりり梨花ちゃんのだけじゃなく、沙都子ちゃんのもかぁいいと思うぉ〜！！",
+      "の〜ど〜ち〜んん〜〜！！！」"
+    ],
+    "textEn": [
+      "\"I-I-I-I think Satoko-chan is kyute, not only R-Rika-chan~!!",
+      "U~vu~la~~!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「は、はぅ〜〜！！",
+      "ちらっと見えた、かぁいいの見えた！！",
+      "沙都子ちゃんのもかぁいい、お持ち帰り〜〜！！！！」"
+    ],
+    "textEn": [
+      "\"H-Hau~~!!",
+      "I got a glimpse! It was so kyute!!",
+      "Satoko-chan's is kyute too! I'm gonna take you home~~!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…レナが沙都子の首根っこを締め上げて、喉の奥を覗き込もうとしている…。"
+    ],
+    "textEn": [
+      "...Rena was squeezing her hands around Satoko's neck and was trying to get a look into her throat..."
+    ]
+  }
+]
