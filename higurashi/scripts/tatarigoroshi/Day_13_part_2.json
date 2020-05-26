@@ -152,92 +152,11 @@
     "labelEn": "Doctor",
     "labelJp": "医師",
     "textJp": [
-      "「高熱と瞳孔の拡大に重度の意識障害も見られました。"
-    ],
-    "textEn": [
-      "\"His high temperature and dilated pupils indicated a severe disturbance of consciousness."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Komiyama",
-    "labelJp": "小宮山",
-    "textJp": [
-      "「普段から睡眠薬を常用していたとかは？」"
-    ],
-    "textEn": [
-      "\"Did he use sleeping medication regularly?\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…………………いつまでもこのままでいたくありませんわ。"
-    ],
-    "textEn": [
-      "\".........I do not want to be like this forever."
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "だから寝ぼけ気分でふらふらと、記憶になく祭りに出掛けた…なんてことはありえない。」",
-      "男の人に、いつまでもこんな姿を晒していたくないんですのよ…！"
-    ],
-    "textEn": [
-      "So it's not possible... that I walked to the festival half asleep and forgot about it afterwards.\"",
-      "I do not want to keep exposing myself to a man any more than this...!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Doctor",
-    "labelJp": "医師",
-    "textJp": [
-      "「高熱と失禁に重度の意識障害も見られました。"
-    ],
-    "textEn": [
-      "\"His high temperature and incontinence indicated a severe disturbance of consciousness."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Komiyama",
-    "labelJp": "小宮山",
-    "textJp": [
-      "「普段から睡眠薬を愛用していたとかは？」"
-    ],
-    "textEn": [
-      "\"Did he use sleeping medication regularly?\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…………………いつまでも裸でいたくありませんわ。"
-    ],
-    "textEn": [
-      "\".........I do not want to be naked forever."
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "だから夢遊病のようにふらふらと、記憶になく祭りに出掛けた…なんてことはありえない。」",
-      "男の人に、いつまでも裸を晒していたくないんですのよ…！",
+      "「高熱と瞳孔の拡大に重度の意識障害も見られました。",
       "睡眠薬中毒の典型的な重症例だと思いましたので、ただちに対応に入りました。」"
     ],
     "textEn": [
-      "So it's not possible... that I walked to the festival in my sleep and forgot about it afterwards.\"",
-      "I do not want to expose my naked self to a man any more than this...!",
+      "\"His high temperature and dilated pupils indicated a severe disturbance of consciousness.",
       "It seemed like a typical case of sleeping pill poisoning, so I immediately began to treat him.\""
     ]
   },
@@ -393,17 +312,6 @@
   },
   {
     "color": "#f5e6d3",
-    "labelEn": "Doctor",
-    "labelJp": "医師",
-    "textJp": [
-      "「高熱と瞳孔の拡大に重度の意識障害も見られました。"
-    ],
-    "textEn": [
-      "\"His high temperature and dilated pupils indicated a severe disturbance of consciousness."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
     "labelEn": "Komiyama",
     "labelJp": "小宮山",
     "textJp": [
@@ -411,76 +319,6 @@
     ],
     "textEn": [
       "\"Did he use sleeping medication regularly?\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…………………いつまでもこのままでいたくありませんわ。"
-    ],
-    "textEn": [
-      "\".........I do not want to be like this forever."
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "だから寝ぼけ気分でふらふらと、記憶になく祭りに出掛けた…なんてことはありえない。」",
-      "男の人に、いつまでもこんな姿を晒していたくないんですのよ…！"
-    ],
-    "textEn": [
-      "So it's not possible... that I walked to the festival half asleep and forgot about it afterwards.\"",
-      "I do not want to keep exposing myself to a man any more than this...!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Doctor",
-    "labelJp": "医師",
-    "textJp": [
-      "「高熱と失禁に重度の意識障害も見られました。"
-    ],
-    "textEn": [
-      "\"His high temperature and incontinence indicated a severe disturbance of consciousness."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Komiyama",
-    "labelJp": "小宮山",
-    "textJp": [
-      "「普段から睡眠薬を愛用していたとかは？」"
-    ],
-    "textEn": [
-      "\"Did he use sleeping medication regularly?\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…………………いつまでも裸でいたくありませんわ。"
-    ],
-    "textEn": [
-      "\".........I do not want to be naked forever."
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "だから夢遊病のようにふらふらと、記憶になく祭りに出掛けた…なんてことはありえない。」",
-      "男の人に、いつまでも裸を晒していたくないんですのよ…！"
-    ],
-    "textEn": [
-      "So it's not possible... that I walked to the festival in my sleep and forgot about it afterwards.\"",
-      "I do not want to expose my naked self to a man any more than this...!"
     ]
   },
   {
@@ -1008,96 +846,15 @@
     ]
   },
   {
-    "color": "#f5e6d3",
-    "labelEn": "Doctor",
-    "labelJp": "医師",
-    "textJp": [
-      "「高熱と瞳孔の拡大に重度の意識障害も見られました。"
-    ],
-    "textEn": [
-      "\"His high temperature and dilated pupils indicated a severe disturbance of consciousness."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Komiyama",
-    "labelJp": "小宮山",
-    "textJp": [
-      "「普段から睡眠薬を常用していたとかは？」"
-    ],
-    "textEn": [
-      "\"Did he use sleeping medication regularly?\""
-    ]
-  },
-  {
     "color": "#fcdb77",
     "labelEn": "Satoko",
     "labelJp": "沙都子",
     "textJp": [
-      "「…………………いつまでもこのままでいたくありませんわ。"
-    ],
-    "textEn": [
-      "\".........I do not want to be like this forever."
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "だから寝ぼけ気分でふらふらと、記憶になく祭りに出掛けた…なんてことはありえない。」",
-      "男の人に、いつまでもこんな姿を晒していたくないんですのよ…！"
-    ],
-    "textEn": [
-      "So it's not possible... that I walked to the festival half asleep and forgot about it afterwards.\"",
-      "I do not want to keep exposing myself to a man any more than this...!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Doctor",
-    "labelJp": "医師",
-    "textJp": [
-      "「高熱と失禁に重度の意識障害も見られました。"
-    ],
-    "textEn": [
-      "\"His high temperature and incontinence indicated a severe disturbance of consciousness."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Komiyama",
-    "labelJp": "小宮山",
-    "textJp": [
-      "「普段から睡眠薬を愛用していたとかは？」"
-    ],
-    "textEn": [
-      "\"Did he use sleeping medication regularly?\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…………………いつまでも裸でいたくありませんわ。"
-    ],
-    "textEn": [
-      "\".........I do not want to be naked forever."
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "だから夢遊病のようにふらふらと、記憶になく祭りに出掛けた…なんてことはありえない。」",
-      "男の人に、いつまでも裸を晒していたくないんですのよ…！",
+      "「…………………いつまでもこのままでいたくありませんわ。",
       "…服が、…欲しい。」"
     ],
     "textEn": [
-      "So it's not possible... that I walked to the festival in my sleep and forgot about it afterwards.\"",
-      "I do not want to expose my naked self to a man any more than this...!",
+      "\".........I do not want to be like this forever.",
       "...I want... some clothes.\""
     ]
   },
@@ -1435,95 +1192,14 @@
     ]
   },
   {
-    "color": "#f5e6d3",
-    "labelEn": "Doctor",
-    "labelJp": "医師",
-    "textJp": [
-      "「高熱と瞳孔の拡大に重度の意識障害も見られました。"
-    ],
-    "textEn": [
-      "\"His high temperature and dilated pupils indicated a severe disturbance of consciousness."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Komiyama",
-    "labelJp": "小宮山",
-    "textJp": [
-      "「普段から睡眠薬を常用していたとかは？」"
-    ],
-    "textEn": [
-      "\"Did he use sleeping medication regularly?\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…………………いつまでもこのままでいたくありませんわ。"
-    ],
-    "textEn": [
-      "\".........I do not want to be like this forever."
-    ]
-  },
-  {
     "color": "#956f6e",
     "labelEn": "Keiichi",
     "labelJp": "圭一",
     "textJp": [
-      "だから寝ぼけ気分でふらふらと、記憶になく祭りに出掛けた…なんてことはありえない。」",
-      "男の人に、いつまでもこんな姿を晒していたくないんですのよ…！"
+      "だから寝ぼけ気分でふらふらと、記憶になく祭りに出掛けた…なんてことはありえない。」"
     ],
     "textEn": [
-      "So it's not possible... that I walked to the festival half asleep and forgot about it afterwards.\"",
-      "I do not want to keep exposing myself to a man any more than this...!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Doctor",
-    "labelJp": "医師",
-    "textJp": [
-      "「高熱と失禁に重度の意識障害も見られました。"
-    ],
-    "textEn": [
-      "\"His high temperature and incontinence indicated a severe disturbance of consciousness."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Komiyama",
-    "labelJp": "小宮山",
-    "textJp": [
-      "「普段から睡眠薬を愛用していたとかは？」"
-    ],
-    "textEn": [
-      "\"Did he use sleeping medication regularly?\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…………………いつまでも裸でいたくありませんわ。"
-    ],
-    "textEn": [
-      "\".........I do not want to be naked forever."
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "だから夢遊病のようにふらふらと、記憶になく祭りに出掛けた…なんてことはありえない。」",
-      "男の人に、いつまでも裸を晒していたくないんですのよ…！"
-    ],
-    "textEn": [
-      "So it's not possible... that I walked to the festival in my sleep and forgot about it afterwards.\"",
-      "I do not want to expose my naked self to a man any more than this...!"
+      "So it's not possible... that I walked to the festival half asleep and forgot about it afterwards.\""
     ]
   },
   {
@@ -2035,106 +1711,16 @@
     "labelEn": "Satoko",
     "labelJp": "沙都子",
     "textJp": [
-      "「私はもう本当に大丈夫なんですのよ…！"
-    ],
-    "textEn": [
-      "\"Really, I am fine now...!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Doctor",
-    "labelJp": "医師",
-    "textJp": [
-      "「高熱と瞳孔の拡大に重度の意識障害も見られました。"
-    ],
-    "textEn": [
-      "\"His high temperature and dilated pupils indicated a severe disturbance of consciousness."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Komiyama",
-    "labelJp": "小宮山",
-    "textJp": [
-      "「普段から睡眠薬を常用していたとかは？」"
-    ],
-    "textEn": [
-      "\"Did he use sleeping medication regularly?\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…………………いつまでもこのままでいたくありませんわ。"
-    ],
-    "textEn": [
-      "\".........I do not want to be like this forever."
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "だから寝ぼけ気分でふらふらと、記憶になく祭りに出掛けた…なんてことはありえない。」",
-      "男の人に、いつまでもこんな姿を晒していたくないんですのよ…！"
-    ],
-    "textEn": [
-      "So it's not possible... that I walked to the festival half asleep and forgot about it afterwards.\"",
-      "I do not want to keep exposing myself to a man any more than this...!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Doctor",
-    "labelJp": "医師",
-    "textJp": [
-      "「高熱と失禁に重度の意識障害も見られました。"
-    ],
-    "textEn": [
-      "\"His high temperature and incontinence indicated a severe disturbance of consciousness."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Komiyama",
-    "labelJp": "小宮山",
-    "textJp": [
-      "「普段から睡眠薬を愛用していたとかは？」"
-    ],
-    "textEn": [
-      "\"Did he use sleeping medication regularly?\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…………………いつまでも裸でいたくありませんわ。"
-    ],
-    "textEn": [
-      "\".........I do not want to be naked forever."
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "だから夢遊病のようにふらふらと、記憶になく祭りに出掛けた…なんてことはありえない。」",
-      "男の人に、いつまでも裸を晒していたくないんですのよ…！",
+      "「私はもう本当に大丈夫なんですのよ…！",
+      "男の人に、いつまでもこんな姿を晒していたくないんですのよ…！",
       "…はぁ、",
       "……ぐ、",
       "……はぁ、",
       "……はぁ…！」"
     ],
     "textEn": [
-      "So it's not possible... that I walked to the festival in my sleep and forgot about it afterwards.\"",
-      "I do not want to expose my naked self to a man any more than this...!",
+      "\"Really, I am fine now...!",
+      "I do not want to keep exposing myself to a man any more than this...!",
       "...Hah...",
       "guh...",
       "hah...",

@@ -6,115 +6,12 @@
     "textJp": [
       "セブンスマートは市内にある、酒類食料品の安売量販店だ。",
       "早く選べ、と急き立てる両親に悪態をつきながら、色とりどりのカップめんをどっさりとカートに載せる。",
-      "案の定、何でこれだけの種類を選んできたんだ、とお袋はあきれた声を上げた。",
-      "あまりの量と種類に親父が渋って、",
-      "バラ売りじゃなく箱で選んでこい、と言う。",
-      "お袋と親父は早々にレジへ並んで、まだ売り場であれこれ迷う俺を呼んでいる。",
-      "列も長くないし、時間はない……。",
-      "俺は仕方なく、手早く目当てのラーメンの箱を探しに行く。",
-      "困ったときには、……そう！　豚骨ショウガ味の大盛カップ！！",
-      "だから豚骨の箱をどん、と買い物かごに積み込むと、「……これぇ？」と言いたげな顔で俺を見返した。",
-      "とはいえ、これだけは譲れないとばかりに俺は、チョイスしてきた持論を展開する。"
+      "案の定、何でこれだけの種類を選んできたんだ、とお袋はあきれた声を上げた。"
     ],
     "textEn": [
       "The Seventh Mart was a bargain supermarket with food and alcohol.",
       "I flopped the colorful collection of cup noodle bowls into the cart, muttering in irritation at being rushed by my parents.",
-      "As expected, Mom gave a disbelieving look and asked why I had to get so many flavors.",
-      "Looking displeased at the sheer amount and the number of different varieties,",
-      "Dad told me to go get a multipack instead of individual ones.",
-      "Mom and Dad were already waiting in line, calling for me as I struggled with the decision.",
-      "The line is short, and there isn't much time...!",
-      "Left with no choice, I quickly search the cases of noodles for what I want.",
-      "When in trouble... That's it! Pork-bone & Ginger, extra large!!",
-      "So, when I plonked a large box of pork-bone flavor in the shopping cart, Mom looked back at me with an expression as if to say \"...These ones?\"",
-      "To show her this was my last compromise, I began explaining the choice."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「なぁに、圭一。",
-      "こんなにたくさん！",
-      "全部違う種類にすることはないでしょ？！」"
-    ],
-    "textEn": [
-      "\"What's this, Keiichi?",
-      "So many!",
-      "There's no reason to get all the different kinds, is there!?\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "色とりどりのカップめんをどっさりとカートに載せたんだ。"
-    ],
-    "textEn": [
-      "I flopped all the different colored cup noodle bowls into the cart."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's dad",
-    "labelJp": "圭一の父",
-    "textJp": [
-      "「圭一。",
-      "箱売りしてるのにしなさい。安いから。」"
-    ],
-    "textEn": [
-      "\"Keiichi.",
-      "Buy them in the big case. It's cheaper.\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "親父が渋る。"
-    ],
-    "textEn": [
-      "Dad faltered."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「決められないならお母さんが決めちゃうわよ。」"
-    ],
-    "textEn": [
-      "\"If you can't pick, then Mommy will pick for you.\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "そう急かされても困る…！",
-      "手早く目当てのラーメンの箱を探しに行く。"
-    ],
-    "textEn": [
-      "You don't have to rush me...!",
-      "I quickly search the cases of noodles for what I want."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「豚骨ショウガ味、デカカップ？",
-      "ねぇ圭一、もう少し普通のにしない？」"
-    ],
-    "textEn": [
-      "\"Pork -bone & Ginger, large cup?",
-      "Hey, Keiichi, can't you get a more normal one?\""
+      "As expected, Mom gave a disbelieving look and asked why I had to get so many flavors."
     ]
   },
   {
@@ -136,127 +33,15 @@
     "labelJp": "",
     "textJp": [
       "半ばわがままだとはわかっていたが、一応はと思っての挑戦だった。",
-      "早く選べ、と急き立てる両親に悪態をつきながら、色とりどりのカップめんをどっさりとカートに載せる。",
-      "案の定、何でこれだけの種類を選んできたんだ、とお袋はあきれた声を上げた。",
       "あまりの量と種類に親父が渋って、",
       "バラ売りじゃなく箱で選んでこい、と言う。",
-      "お袋と親父は早々にレジへ並んで、まだ売り場であれこれ迷う俺を呼んでいる。",
-      "列も長くないし、時間はない……。",
-      "俺は仕方なく、手早く目当てのラーメンの箱を探しに行く。",
-      "困ったときには、……そう！　豚骨ショウガ味の大盛カップ！！",
-      "だから豚骨の箱をどん、と買い物かごに積み込むと、「……これぇ？」と言いたげな顔で俺を見返した。",
-      "とはいえ、これだけは譲れないとばかりに俺は、チョイスしてきた持論を展開する。"
-    ],
-    "textEn": [
-      "I knew it was pretty selfish of me, but I thought I'd at least give it a try.",
-      "I flopped the colorful collection of cup noodle bowls into the cart, muttering in irritation at being rushed by my parents.",
-      "As expected, Mom gave a disbelieving look and asked why I had to get so many flavors.",
-      "Looking displeased at the sheer amount and the number of different varieties,",
-      "Dad told me to go get a multipack instead of individual ones.",
-      "Mom and Dad were already waiting in line, calling for me as I struggled with the decision.",
-      "The line is short, and there isn't much time...!",
-      "Left with no choice, I quickly search the cases of noodles for what I want.",
-      "When in trouble... That's it! Pork-bone & Ginger, extra large!!",
-      "So, when I plonked a large box of pork-bone flavor in the shopping cart, Mom looked back at me with an expression as if to say \"...These ones?\"",
-      "To show her this was my last compromise, I began explaining the choice."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「なぁに、圭一。",
-      "こんなにたくさん！",
-      "全部違う種類にすることはないでしょ？！」"
-    ],
-    "textEn": [
-      "\"What's this, Keiichi?",
-      "So many!",
-      "There's no reason to get all the different kinds, is there!?\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "色とりどりのカップめんをどっさりとカートに載せたんだ。"
-    ],
-    "textEn": [
-      "I flopped all the different colored cup noodle bowls into the cart."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's dad",
-    "labelJp": "圭一の父",
-    "textJp": [
-      "「圭一。",
-      "箱売りしてるのにしなさい。安いから。」"
-    ],
-    "textEn": [
-      "\"Keiichi.",
-      "Buy them in the big case. It's cheaper.\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "親父が渋る。"
-    ],
-    "textEn": [
-      "Dad faltered."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「決められないならお母さんが決めちゃうわよ。」"
-    ],
-    "textEn": [
-      "\"If you can't pick, then Mommy will pick for you.\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "そう急かされても困る…！",
-      "手早く目当てのラーメンの箱を探しに行く。"
-    ],
-    "textEn": [
-      "You don't have to rush me...!",
-      "I quickly search the cases of noodles for what I want."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「豚骨ショウガ味、デカカップ？",
-      "ねぇ圭一、もう少し普通のにしない？」"
-    ],
-    "textEn": [
-      "\"Pork -bone & Ginger, large cup?",
-      "Hey, Keiichi, can't you get a more normal one?\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
       "まぁこういう展開は読めていた。",
       "親父が出てきたらどうしようもない。"
     ],
     "textEn": [
+      "I knew it was pretty selfish of me, but I thought I'd at least give it a try.",
+      "Looking displeased at the sheer amount and the number of different varieties,",
+      "Dad told me to go get a multipack instead of individual ones.",
       "Well, I had a feeling it'd end up like this.",
       "Now that Dad had thrown his hat into the ring, I'd have to compromise."
     ]
@@ -281,235 +66,24 @@
     "textJp": [
       "形式だけの抵抗だ。",
       "心の中では早々に諦め、どのラーメンの箱を買うか迷っていた。",
-      "早く選べ、と急き立てる両親に悪態をつきながら、色とりどりのカップめんをどっさりとカートに載せる。",
-      "案の定、何でこれだけの種類を選んできたんだ、とお袋はあきれた声を上げた。",
-      "あまりの量と種類に親父が渋って、",
-      "バラ売りじゃなく箱で選んでこい、と言う。",
       "お袋と親父は早々にレジへ並んで、まだ売り場であれこれ迷う俺を呼んでいる。",
       "列も長くないし、時間はない……。",
       "俺は仕方なく、手早く目当てのラーメンの箱を探しに行く。",
       "困ったときには、……そう！　豚骨ショウガ味の大盛カップ！！",
+      "お袋に選ばせると醤油味だと塩味だの、手堅いチョイスに固まる傾向がある。",
       "だから豚骨の箱をどん、と買い物かごに積み込むと、「……これぇ？」と言いたげな顔で俺を見返した。",
       "とはいえ、これだけは譲れないとばかりに俺は、チョイスしてきた持論を展開する。"
     ],
     "textEn": [
       "I was resisting as a formality.",
       "I had already given up inside and wasn't sure which case of noodles to get.",
-      "I flopped the colorful collection of cup noodle bowls into the cart, muttering in irritation at being rushed by my parents.",
-      "As expected, Mom gave a disbelieving look and asked why I had to get so many flavors.",
-      "Looking displeased at the sheer amount and the number of different varieties,",
-      "Dad told me to go get a multipack instead of individual ones.",
       "Mom and Dad were already waiting in line, calling for me as I struggled with the decision.",
       "The line is short, and there isn't much time...!",
       "Left with no choice, I quickly search the cases of noodles for what I want.",
       "When in trouble... That's it! Pork-bone & Ginger, extra large!!",
-      "So, when I plonked a large box of pork-bone flavor in the shopping cart, Mom looked back at me with an expression as if to say \"...These ones?\"",
-      "To show her this was my last compromise, I began explaining the choice."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「なぁに、圭一。",
-      "こんなにたくさん！",
-      "全部違う種類にすることはないでしょ？！」"
-    ],
-    "textEn": [
-      "\"What's this, Keiichi?",
-      "So many!",
-      "There's no reason to get all the different kinds, is there!?\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "色とりどりのカップめんをどっさりとカートに載せたんだ。"
-    ],
-    "textEn": [
-      "I flopped all the different colored cup noodle bowls into the cart."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's dad",
-    "labelJp": "圭一の父",
-    "textJp": [
-      "「圭一。",
-      "箱売りしてるのにしなさい。安いから。」"
-    ],
-    "textEn": [
-      "\"Keiichi.",
-      "Buy them in the big case. It's cheaper.\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "親父が渋る。"
-    ],
-    "textEn": [
-      "Dad faltered."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「決められないならお母さんが決めちゃうわよ。」"
-    ],
-    "textEn": [
-      "\"If you can't pick, then Mommy will pick for you.\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "そう急かされても困る…！",
-      "手早く目当てのラーメンの箱を探しに行く。"
-    ],
-    "textEn": [
-      "You don't have to rush me...!",
-      "I quickly search the cases of noodles for what I want."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「豚骨ショウガ味、デカカップ？",
-      "ねぇ圭一、もう少し普通のにしない？」"
-    ],
-    "textEn": [
-      "\"Pork -bone & Ginger, large cup?",
-      "Hey, Keiichi, can't you get a more normal one?\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "お袋に選ばせると醤油味だと塩味だの、手堅いチョイスに固まる傾向がある。",
-      "早く選べ、と急き立てる両親に悪態をつきながら、色とりどりのカップめんをどっさりとカートに載せる。",
-      "案の定、何でこれだけの種類を選んできたんだ、とお袋はあきれた声を上げた。",
-      "あまりの量と種類に親父が渋って、",
-      "バラ売りじゃなく箱で選んでこい、と言う。",
-      "お袋と親父は早々にレジへ並んで、まだ売り場であれこれ迷う俺を呼んでいる。",
-      "列も長くないし、時間はない……。",
-      "俺は仕方なく、手早く目当てのラーメンの箱を探しに行く。",
-      "困ったときには、……そう！　豚骨ショウガ味の大盛カップ！！",
-      "だから豚骨の箱をどん、と買い物かごに積み込むと、「……これぇ？」と言いたげな顔で俺を見返した。",
-      "とはいえ、これだけは譲れないとばかりに俺は、チョイスしてきた持論を展開する。"
-    ],
-    "textEn": [
       "If I let Mom pick, she'd err on the side of safety and get soy sauce or salt flavored.",
-      "I flopped the colorful collection of cup noodle bowls into the cart, muttering in irritation at being rushed by my parents.",
-      "As expected, Mom gave a disbelieving look and asked why I had to get so many flavors.",
-      "Looking displeased at the sheer amount and the number of different varieties,",
-      "Dad told me to go get a multipack instead of individual ones.",
-      "Mom and Dad were already waiting in line, calling for me as I struggled with the decision.",
-      "The line is short, and there isn't much time...!",
-      "Left with no choice, I quickly search the cases of noodles for what I want.",
-      "When in trouble... That's it! Pork-bone & Ginger, extra large!!",
       "So, when I plonked a large box of pork-bone flavor in the shopping cart, Mom looked back at me with an expression as if to say \"...These ones?\"",
       "To show her this was my last compromise, I began explaining the choice."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「なぁに、圭一。",
-      "こんなにたくさん！",
-      "全部違う種類にすることはないでしょ？！」"
-    ],
-    "textEn": [
-      "\"What's this, Keiichi?",
-      "So many!",
-      "There's no reason to get all the different kinds, is there!?\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "色とりどりのカップめんをどっさりとカートに載せたんだ。"
-    ],
-    "textEn": [
-      "I flopped all the different colored cup noodle bowls into the cart."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's dad",
-    "labelJp": "圭一の父",
-    "textJp": [
-      "「圭一。",
-      "箱売りしてるのにしなさい。安いから。」"
-    ],
-    "textEn": [
-      "\"Keiichi.",
-      "Buy them in the big case. It's cheaper.\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "親父が渋る。"
-    ],
-    "textEn": [
-      "Dad faltered."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「決められないならお母さんが決めちゃうわよ。」"
-    ],
-    "textEn": [
-      "\"If you can't pick, then Mommy will pick for you.\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "そう急かされても困る…！",
-      "手早く目当てのラーメンの箱を探しに行く。"
-    ],
-    "textEn": [
-      "You don't have to rush me...!",
-      "I quickly search the cases of noodles for what I want."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Keiichi's mom",
-    "labelJp": "圭一の母",
-    "textJp": [
-      "「豚骨ショウガ味、デカカップ？",
-      "ねぇ圭一、もう少し普通のにしない？」"
-    ],
-    "textEn": [
-      "\"Pork -bone & Ginger, large cup?",
-      "Hey, Keiichi, can't you get a more normal one?\""
     ]
   },
   {

@@ -306,97 +306,6 @@
     ]
   },
   {
-    "color": "#a17d6b",
-    "labelEn": "Tomita",
-    "labelJp": "富田",
-    "textJp": [
-      "「前原さんの弁当に致命的な欠点。",
-      "それは彩りなんです。",
-      "愉快で面白おかしいマンガが何十冊…！！"
-    ],
-    "textEn": [
-      "\"The fatal flaw in Maebara-san's bento.",
-      "It's the coloration.",
-      "Dozens of happy, humorous manga...!!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "All Boys",
-    "labelJp": "男子全員",
-    "textJp": [
-      "「「「何だと！！」」」"
-    ],
-    "textEn": [
-      "\"\"\"What was that?!\"\"\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「だ、…だってだって！",
-      "こんな、…出来の悪いお惣菜や缶詰ばっかりで…センスもなくて……それからそれから……！」"
-    ],
-    "textEn": [
-      "\"B... But!",
-      "It's all... poorly made side dishes and canned goods... and has no style... and, and...!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "ぶつかったら決着つけなきゃ！",
-      "手打ちして引き分けなんてヤクザの世界だけなんだからねー！」"
-    ],
-    "textEn": [
-      "Now that we've clashed, we must settle the score!",
-      "Reconciling with a draw only happens in the yakuza world!\""
-    ]
-  },
-  {
-    "color": "#a17d6b",
-    "labelEn": "Tomita",
-    "labelJp": "富田",
-    "textJp": [
-      "「前原さんの弁当に致命的な点。",
-      "それは彩りなんです。",
-      "愉快で面白おかしくてちょっとＨなマンガが何十冊…！！"
-    ],
-    "textEn": [
-      "\"The fatal flaw in Maebara-san's bento.",
-      "It's the coloration.",
-      "Dozens of happy, humorous, slightly perverted manga...!!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "All Boys",
-    "labelJp": "男子全員",
-    "textJp": [
-      "「「「何だとブス！！」」」"
-    ],
-    "textEn": [
-      "\"\"\"What was that, ugly?!\"\"\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「だ、…だってだって！",
-      "こんな、…出来合いのお惣菜や缶詰ばっかりで…センスもなくて……それからそれから……！」"
-    ],
-    "textEn": [
-      "\"B... But!",
-      "It's got... ready-made side dishes and canned goods... and has no style... and, and...!\""
-    ]
-  },
-  {
     "color": "#956f6e",
     "labelEn": "Keiichi",
     "labelJp": "圭一",
@@ -1390,108 +1299,17 @@
     ]
   },
   {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "ぶつかったら決着つけなきゃ！",
-      "手打ちして引き分けなんて、遊びでやってんじゃないんだよぉぉっ！」"
-    ],
-    "textEn": [
-      "Now that we've clashed, we must settle the score!",
-      "Reconciling with a draw? Do you think we're just kidding around!?\""
-    ]
-  },
-  {
     "color": "#a17d6b",
     "labelEn": "Tomita",
     "labelJp": "富田",
     "textJp": [
       "「前原さんの弁当に致命的な欠点。",
       "それは彩りなんです。",
-      "愉快で面白おかしいマンガが何十冊…！！"
-    ],
-    "textEn": [
-      "\"The fatal flaw in Maebara-san's bento.",
-      "It's the coloration.",
-      "Dozens of happy, humorous manga...!!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "All Boys",
-    "labelJp": "男子全員",
-    "textJp": [
-      "「「「何だと！！」」」"
-    ],
-    "textEn": [
-      "\"\"\"What was that?!\"\"\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「だ、…だってだって！",
-      "こんな、…出来の悪いお惣菜や缶詰ばっかりで…センスもなくて……それからそれから……！」"
-    ],
-    "textEn": [
-      "\"B... But!",
-      "It's all... poorly made side dishes and canned goods... and has no style... and, and...!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "ぶつかったら決着つけなきゃ！",
-      "手打ちして引き分けなんてヤクザの世界だけなんだからねー！」"
-    ],
-    "textEn": [
-      "Now that we've clashed, we must settle the score!",
-      "Reconciling with a draw only happens in the yakuza world!\""
-    ]
-  },
-  {
-    "color": "#a17d6b",
-    "labelEn": "Tomita",
-    "labelJp": "富田",
-    "textJp": [
-      "「前原さんの弁当に致命的な点。",
-      "それは彩りなんです。",
-      "愉快で面白おかしくてちょっとＨなマンガが何十冊…！！"
-    ],
-    "textEn": [
-      "\"The fatal flaw in Maebara-san's bento.",
-      "It's the coloration.",
-      "Dozens of happy, humorous, slightly perverted manga...!!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "All Boys",
-    "labelJp": "男子全員",
-    "textJp": [
-      "「「「何だとブス！！」」」"
-    ],
-    "textEn": [
-      "\"\"\"What was that, ugly?!\"\"\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「だ、…だってだって！",
-      "こんな、…出来合いのお惣菜や缶詰ばっかりで…センスもなくて……それからそれから……！」",
       "ご存知の通り、あらゆる色彩の根底には三原色と呼ばれる配色が存在します。"
     ],
     "textEn": [
-      "\"B... But!",
-      "It's got... ready-made side dishes and canned goods... and has no style... and, and...!\"",
+      "\"The fatal flaw in Maebara-san's bento.",
+      "It's the coloration.",
       "As you know, there are three primary colors forming the basis of all colors."
     ]
   },
@@ -2239,115 +2057,13 @@
     "labelEn": "Okamura",
     "labelJp": "岡村",
     "textJp": [
-      "１０数巻程度の単行本なら即座にフルコンプ可能です！！"
-    ],
-    "textEn": [
-      "You could instantly complete a full collection if it was around 10 volumes long!!"
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "ぶつかったら決着つけなきゃ！",
-      "手打ちして引き分けなんて、遊びでやってんじゃないんだよぉぉっ！」"
-    ],
-    "textEn": [
-      "Now that we've clashed, we must settle the score!",
-      "Reconciling with a draw? Do you think we're just kidding around!?\""
-    ]
-  },
-  {
-    "color": "#a17d6b",
-    "labelEn": "Tomita",
-    "labelJp": "富田",
-    "textJp": [
-      "「前原さんの弁当に致命的な欠点。",
-      "それは彩りなんです。",
-      "愉快で面白おかしいマンガが何十冊…！！"
-    ],
-    "textEn": [
-      "\"The fatal flaw in Maebara-san's bento.",
-      "It's the coloration.",
-      "Dozens of happy, humorous manga...!!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "All Boys",
-    "labelJp": "男子全員",
-    "textJp": [
-      "「「「何だと！！」」」"
-    ],
-    "textEn": [
-      "\"\"\"What was that?!\"\"\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「だ、…だってだって！",
-      "こんな、…出来の悪いお惣菜や缶詰ばっかりで…センスもなくて……それからそれから……！」"
-    ],
-    "textEn": [
-      "\"B... But!",
-      "It's all... poorly made side dishes and canned goods... and has no style... and, and...!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "ぶつかったら決着つけなきゃ！",
-      "手打ちして引き分けなんてヤクザの世界だけなんだからねー！」"
-    ],
-    "textEn": [
-      "Now that we've clashed, we must settle the score!",
-      "Reconciling with a draw only happens in the yakuza world!\""
-    ]
-  },
-  {
-    "color": "#a17d6b",
-    "labelEn": "Tomita",
-    "labelJp": "富田",
-    "textJp": [
-      "「前原さんの弁当に致命的な点。",
-      "それは彩りなんです。",
-      "愉快で面白おかしくてちょっとＨなマンガが何十冊…！！"
-    ],
-    "textEn": [
-      "\"The fatal flaw in Maebara-san's bento.",
-      "It's the coloration.",
-      "Dozens of happy, humorous, slightly perverted manga...!!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "All Boys",
-    "labelJp": "男子全員",
-    "textJp": [
-      "「「「何だとブス！！」」」"
-    ],
-    "textEn": [
-      "\"\"\"What was that, ugly?!\"\"\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「だ、…だってだって！",
-      "こんな、…出来合いのお惣菜や缶詰ばっかりで…センスもなくて……それからそれから……！」",
+      "１０数巻程度の単行本なら即座にフルコンプ可能です！！",
+      "愉快で面白おかしいマンガが何十冊…！！",
       "これによって癒される心の至福とセーターでは比べ物にならないのです！」"
     ],
     "textEn": [
-      "\"B... But!",
-      "It's got... ready-made side dishes and canned goods... and has no style... and, and...!\"",
+      "You could instantly complete a full collection if it was around 10 volumes long!!",
+      "Dozens of happy, humorous manga...!!",
       "The bliss of your soothed heart can't be compared to the sweater!\""
     ]
   },
@@ -2458,34 +2174,6 @@
     ]
   },
   {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "ぶつかったら決着つけなきゃ！",
-      "手打ちして引き分けなんて、遊びでやってんじゃないんだよぉぉっ！」"
-    ],
-    "textEn": [
-      "Now that we've clashed, we must settle the score!",
-      "Reconciling with a draw? Do you think we're just kidding around!?\""
-    ]
-  },
-  {
-    "color": "#a17d6b",
-    "labelEn": "Tomita",
-    "labelJp": "富田",
-    "textJp": [
-      "「前原さんの弁当に致命的な欠点。",
-      "それは彩りなんです。",
-      "愉快で面白おかしいマンガが何十冊…！！"
-    ],
-    "textEn": [
-      "\"The fatal flaw in Maebara-san's bento.",
-      "It's the coloration.",
-      "Dozens of happy, humorous manga...!!"
-    ]
-  },
-  {
     "color": "#f5e6d3",
     "labelEn": "All Boys",
     "labelJp": "男子全員",
@@ -2494,71 +2182,6 @@
     ],
     "textEn": [
       "\"\"\"What was that?!\"\"\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「だ、…だってだって！",
-      "こんな、…出来の悪いお惣菜や缶詰ばっかりで…センスもなくて……それからそれから……！」"
-    ],
-    "textEn": [
-      "\"B... But!",
-      "It's all... poorly made side dishes and canned goods... and has no style... and, and...!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "ぶつかったら決着つけなきゃ！",
-      "手打ちして引き分けなんてヤクザの世界だけなんだからねー！」"
-    ],
-    "textEn": [
-      "Now that we've clashed, we must settle the score!",
-      "Reconciling with a draw only happens in the yakuza world!\""
-    ]
-  },
-  {
-    "color": "#a17d6b",
-    "labelEn": "Tomita",
-    "labelJp": "富田",
-    "textJp": [
-      "「前原さんの弁当に致命的な点。",
-      "それは彩りなんです。",
-      "愉快で面白おかしくてちょっとＨなマンガが何十冊…！！"
-    ],
-    "textEn": [
-      "\"The fatal flaw in Maebara-san's bento.",
-      "It's the coloration.",
-      "Dozens of happy, humorous, slightly perverted manga...!!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "All Boys",
-    "labelJp": "男子全員",
-    "textJp": [
-      "「「「何だとブス！！」」」"
-    ],
-    "textEn": [
-      "\"\"\"What was that, ugly?!\"\"\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「だ、…だってだって！",
-      "こんな、…出来合いのお惣菜や缶詰ばっかりで…センスもなくて……それからそれから……！」"
-    ],
-    "textEn": [
-      "\"B... But!",
-      "It's got... ready-made side dishes and canned goods... and has no style... and, and...!\""
     ]
   },
   {
@@ -3422,45 +3045,6 @@
     ]
   },
   {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "ぶつかったら決着つけなきゃ！",
-      "手打ちして引き分けなんて、遊びでやってんじゃないんだよぉぉっ！」"
-    ],
-    "textEn": [
-      "Now that we've clashed, we must settle the score!",
-      "Reconciling with a draw? Do you think we're just kidding around!?\""
-    ]
-  },
-  {
-    "color": "#a17d6b",
-    "labelEn": "Tomita",
-    "labelJp": "富田",
-    "textJp": [
-      "「前原さんの弁当に致命的な欠点。",
-      "それは彩りなんです。",
-      "愉快で面白おかしいマンガが何十冊…！！"
-    ],
-    "textEn": [
-      "\"The fatal flaw in Maebara-san's bento.",
-      "It's the coloration.",
-      "Dozens of happy, humorous manga...!!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "All Boys",
-    "labelJp": "男子全員",
-    "textJp": [
-      "「「「何だと！！」」」"
-    ],
-    "textEn": [
-      "\"\"\"What was that?!\"\"\""
-    ]
-  },
-  {
     "color": "#fcdb77",
     "labelEn": "Satoko",
     "labelJp": "沙都子",
@@ -3471,58 +3055,6 @@
     "textEn": [
       "\"B... But!",
       "It's all... poorly made side dishes and canned goods... and has no style... and, and...!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "ぶつかったら決着つけなきゃ！",
-      "手打ちして引き分けなんてヤクザの世界だけなんだからねー！」"
-    ],
-    "textEn": [
-      "Now that we've clashed, we must settle the score!",
-      "Reconciling with a draw only happens in the yakuza world!\""
-    ]
-  },
-  {
-    "color": "#a17d6b",
-    "labelEn": "Tomita",
-    "labelJp": "富田",
-    "textJp": [
-      "「前原さんの弁当に致命的な点。",
-      "それは彩りなんです。",
-      "愉快で面白おかしくてちょっとＨなマンガが何十冊…！！"
-    ],
-    "textEn": [
-      "\"The fatal flaw in Maebara-san's bento.",
-      "It's the coloration.",
-      "Dozens of happy, humorous, slightly perverted manga...!!"
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "All Boys",
-    "labelJp": "男子全員",
-    "textJp": [
-      "「「「何だとブス！！」」」"
-    ],
-    "textEn": [
-      "\"\"\"What was that, ugly?!\"\"\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「だ、…だってだって！",
-      "こんな、…出来合いのお惣菜や缶詰ばっかりで…センスもなくて……それからそれから……！」"
-    ],
-    "textEn": [
-      "\"B... But!",
-      "It's got... ready-made side dishes and canned goods... and has no style... and, and...!\""
     ]
   },
   {

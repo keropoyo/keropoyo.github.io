@@ -1010,41 +1010,13 @@
     "labelJp": "魅音",
     "textJp": [
       "「ご、ごめんね。",
-      "…ちょっと私、寝ぼけてるみたい。"
-    ],
-    "textEn": [
-      "\"S-Sorry.",
-      "...I think I'm still a little tipsy."
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「確かに状況証拠は揃ってるけど、……多分、圭ちゃんの推理ははずれだと思う。",
-      "……県内のどっかで捕まったロクデナシが、犯行を自供したって言うし。」",
-      "…ちょっと私、お酒が残ってるみたい。"
-    ],
-    "textEn": [
-      "\"The circumstantial evidence is all there... but I think your deduction is wrong.",
-      "...They caught some lowlife somewhere in the prefecture and he apparently turned himself in for the crime.\"",
-      "...I think I'm still a little tipsy."
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「確かに状況証拠は揃ってるけど、……多分、圭ちゃんの推理ははずれだと思う。",
-      "……県内のどっかで捕まった覚醒剤でイカれたヤツが、犯行を自供したって言うし。」",
+      "…ちょっと私、寝ぼけてるみたい。",
       "…変なとこで感情的になっちゃった。",
       "…えへへへ、…ごめんね、焦ったでしょ。」"
     ],
     "textEn": [
-      "\"The circumstantial evidence is all there... but I think your deduction is wrong.",
-      "...They caught some crazy drug addict somewhere in the prefecture and he apparently turned himself in for the crime.\"",
+      "\"S-Sorry.",
+      "...I think I'm still a little tipsy.",
       "...I got all weirdly emotional.",
       "...Ehehehe... Sorry, I probably scared you.\""
     ]
@@ -1395,13 +1367,11 @@
     "labelJp": "",
     "textJp": [
       "大石…か。",
-      "……あの嫌らしい男に、ねちっこく付け狙われ…じわじわと追い詰められていったのだろうか…。",
-      "…ちょっと私、寝ぼけてるみたい。"
+      "……あの嫌らしい男に、ねちっこく付け狙われ…じわじわと追い詰められていったのだろうか…。"
     ],
     "textEn": [
       "Ooishi...",
-      "...Had he been slowly driven into a corner by that repulsive man's pigheaded pursuit...?",
-      "...I think I'm still a little tipsy."
+      "...Had he been slowly driven into a corner by that repulsive man's pigheaded pursuit...?"
     ]
   },
   {
@@ -1410,26 +1380,11 @@
     "labelJp": "魅音",
     "textJp": [
       "「確かに状況証拠は揃ってるけど、……多分、圭ちゃんの推理ははずれだと思う。",
-      "……県内のどっかで捕まったロクデナシが、犯行を自供したって言うし。」",
-      "…ちょっと私、お酒が残ってるみたい。"
+      "……県内のどっかで捕まったロクデナシが、犯行を自供したって言うし。」"
     ],
     "textEn": [
       "\"The circumstantial evidence is all there... but I think your deduction is wrong.",
-      "...They caught some lowlife somewhere in the prefecture and he apparently turned himself in for the crime.\"",
-      "...I think I'm still a little tipsy."
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「確かに状況証拠は揃ってるけど、……多分、圭ちゃんの推理ははずれだと思う。",
-      "……県内のどっかで捕まった覚醒剤でイカれたヤツが、犯行を自供したって言うし。」"
-    ],
-    "textEn": [
-      "\"The circumstantial evidence is all there... but I think your deduction is wrong.",
-      "...They caught some crazy drug addict somewhere in the prefecture and he apparently turned himself in for the crime.\""
+      "...They caught some lowlife somewhere in the prefecture and he apparently turned himself in for the crime.\""
     ]
   },
   {

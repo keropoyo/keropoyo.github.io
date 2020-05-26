@@ -4,7 +4,6 @@
     "labelEn": "Narrator",
     "labelJp": "",
     "textJp": [
-      "オープニング動画は多少のネタバレ要素を含んでいますが、再生を有効にしますか？",
       "目覚まし代りは小鳥のさえずりだった。",
       "……あれ。",
       "…今日は日曜日じゃなかったっけ…？",
@@ -13,7 +12,6 @@
       "…寝直し寝直し…。"
     ],
     "textEn": [
-      "Video opening might contain minor spoilers. Do you want to enable it anyway?",
       "The chirping of birds served as my alarm clock.",
       "...Huh?",
       "...Wasn't today Sunday?",
@@ -1025,127 +1023,6 @@
     ]
   },
   {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「みんないいかな〜？！",
-      "傾聴傾聴〜！！」"
-    ],
-    "textEn": [
-      "\"Is everybody ready~?!",
-      "Listen close now~!!\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "自分に素直になれッ！！！",
-      "夢を追え！！",
-      "そしてかなえろ！！！",
-      "俺がかなえてやるッ！！！"
-    ],
-    "textEn": [
-      "Be honest with yourselves!!!",
-      "Chase your dreams!!",
-      "Fulfill them!!!",
-      "I'll fulfill them for you!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「圭ちゃんが持ってたら、確実に明日からアレな趣味の人扱いだね。うん！」"
-    ],
-    "textEn": [
-      "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "百億兆者ゲーム。"
-    ],
-    "textEn": [
-      "It was a game called \"Billionaire.\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「圭々がいじめたぁあぁあ！！！",
-      "わぁああぁああぁあああぁあんッ！！！」"
-    ],
-    "textEn": [
-      "\"Kei-kei is bullying meeeeeEEeee!!!",
-      "WaaaaaaAAaaaAAAaaa!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「みんないいかな〜？！",
-      "傾注傾注〜！！」"
-    ],
-    "textEn": [
-      "\"Is everybody ready~?!",
-      "Listen close now~!!\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "自分に素直になれッ！！！",
-      "夢を追え！！",
-      "そしてかなえろ！！！",
-      "俺がかなえてやるッ！！！",
-      "俺がだぁああぁあぁあッ！！！！」"
-    ],
-    "textEn": [
-      "Be honest with yourselves!!!",
-      "Chase your dreams!!",
-      "Fulfill them!!!",
-      "I'll fulfill them for you!!!",
-      "I wiiiiilllllll!!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「圭ちゃんが持ってたら、確実に明日から変態扱いだね。うん！」"
-    ],
-    "textEn": [
-      "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "百万長者ゲーム。",
-      "美少女！！"
-    ],
-    "textEn": [
-      "It was a game called \"Billionaire.\"",
-      "Pretty girls!!"
-    ]
-  },
-  {
     "color": "#6972c1",
     "labelEn": "Rika",
     "labelJp": "梨花",
@@ -1922,19 +1799,6 @@
     ]
   },
   {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「圭一さんがぶったぁあぁあ！！！",
-      "わぁああぁああぁあああぁあんッ！！！」"
-    ],
-    "textEn": [
-      "\"Keiichi-san hit meeeeeEEeee!!!",
-      "WaaaaaaAAaaaAAAaaa!!!\""
-    ]
-  },
-  {
     "color": "#5ec69a",
     "labelEn": "Mion",
     "labelJp": "魅音",
@@ -1948,107 +1812,10 @@
     ]
   },
   {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "自分に素直になれッ！！！",
-      "夢を追え！！",
-      "そしてかなえろ！！！",
-      "俺がかなえてやるッ！！！"
-    ],
-    "textEn": [
-      "Be honest with yourselves!!!",
-      "Chase your dreams!!",
-      "Fulfill them!!!",
-      "I'll fulfill them for you!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「圭ちゃんが持ってたら、確実に明日からアレな趣味の人扱いだね。うん！」"
-    ],
-    "textEn": [
-      "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
-    ]
-  },
-  {
     "color": "#ffffff",
     "labelEn": "Narrator",
     "labelJp": "",
     "textJp": [
-      "百億兆者ゲーム。"
-    ],
-    "textEn": [
-      "It was a game called \"Billionaire.\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「圭々がいじめたぁあぁあ！！！",
-      "わぁああぁああぁあああぁあんッ！！！」"
-    ],
-    "textEn": [
-      "\"Kei-kei is bullying meeeeeEEeee!!!",
-      "WaaaaaaAAaaaAAAaaa!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「みんないいかな〜？！",
-      "傾注傾注〜！！」"
-    ],
-    "textEn": [
-      "\"Is everybody ready~?!",
-      "Listen close now~!!\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "自分に素直になれッ！！！",
-      "夢を追え！！",
-      "そしてかなえろ！！！",
-      "俺がかなえてやるッ！！！",
-      "俺がだぁああぁあぁあッ！！！！」"
-    ],
-    "textEn": [
-      "Be honest with yourselves!!!",
-      "Chase your dreams!!",
-      "Fulfill them!!!",
-      "I'll fulfill them for you!!!",
-      "I wiiiiilllllll!!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「圭ちゃんが持ってたら、確実に明日から変態扱いだね。うん！」"
-    ],
-    "textEn": [
-      "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "百万長者ゲーム。",
-      "美少女！！",
       "魅音がおもちゃ屋のおじさんに代わって開会の挨拶し、今日のゲーム大会のルールを説明し始める。",
       "争うのは優勝のみ！",
       "２位や３位はない。",
@@ -2058,8 +1825,6 @@
       "５卓それぞれの勝者はトーナメント式で決勝へ向けてコマを進めていく。"
     ],
     "textEn": [
-      "It was a game called \"Billionaire.\"",
-      "Pretty girls!!",
       "Mion began with the formalities, standing in for the owner, and explained the rules of today's tournament.",
       "You're only playing to win!",
       "There is no second or third place.",
@@ -2488,151 +2253,19 @@
       "思わず苦笑する。",
       "当然だが、その後５分経っても、この卓のゲームは決まらない。",
       "そこでルールに従い、店のマスターにお伺いを立てることにする。",
-      "マスターが埃を払いながら、奥からボードゲームを持ってきてくれた。"
+      "マスターが埃を払いながら、奥からボードゲームを持ってきてくれた。",
+      "百億兆者ゲーム。",
+      "…ずいぶんと懐かしいのが出てきたな。",
+      "そう言えば…負けたらこのゲーム、買わないといけないんだっけ。",
+      "…マスターめ、このイベントに乗じて売れ残りを全てはき出すつもりだな？"
     ],
     "textEn": [
       "Of course, they didn't agree to the games I suggested either.",
       "I could only smirk bitterly.",
       "Naturally, after 5 minutes, this table still couldn't agree on a game.",
       "Obeying the rules, we asked the store owner to decide on a game.",
-      "Clearing his throat, the shop owner brought over a board game from the back of the store."
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「圭一さんがぶったぁあぁあ！！！",
-      "わぁああぁああぁあああぁあんッ！！！」"
-    ],
-    "textEn": [
-      "\"Keiichi-san hit meeeeeEEeee!!!",
-      "WaaaaaaAAaaaAAAaaa!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「みんないいかな〜？！",
-      "傾聴傾聴〜！！」"
-    ],
-    "textEn": [
-      "\"Is everybody ready~?!",
-      "Listen close now~!!\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "自分に素直になれッ！！！",
-      "夢を追え！！",
-      "そしてかなえろ！！！",
-      "俺がかなえてやるッ！！！"
-    ],
-    "textEn": [
-      "Be honest with yourselves!!!",
-      "Chase your dreams!!",
-      "Fulfill them!!!",
-      "I'll fulfill them for you!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「圭ちゃんが持ってたら、確実に明日からアレな趣味の人扱いだね。うん！」"
-    ],
-    "textEn": [
-      "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "百億兆者ゲーム。"
-    ],
-    "textEn": [
-      "It was a game called \"Billionaire.\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「圭々がいじめたぁあぁあ！！！",
-      "わぁああぁああぁあああぁあんッ！！！」"
-    ],
-    "textEn": [
-      "\"Kei-kei is bullying meeeeeEEeee!!!",
-      "WaaaaaaAAaaaAAAaaa!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「みんないいかな〜？！",
-      "傾注傾注〜！！」"
-    ],
-    "textEn": [
-      "\"Is everybody ready~?!",
-      "Listen close now~!!\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "自分に素直になれッ！！！",
-      "夢を追え！！",
-      "そしてかなえろ！！！",
-      "俺がかなえてやるッ！！！",
-      "俺がだぁああぁあぁあッ！！！！」"
-    ],
-    "textEn": [
-      "Be honest with yourselves!!!",
-      "Chase your dreams!!",
-      "Fulfill them!!!",
-      "I'll fulfill them for you!!!",
-      "I wiiiiilllllll!!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「圭ちゃんが持ってたら、確実に明日から変態扱いだね。うん！」"
-    ],
-    "textEn": [
-      "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "百万長者ゲーム。",
-      "美少女！！",
-      "…ずいぶんと懐かしいのが出てきたな。",
-      "そう言えば…負けたらこのゲーム、買わないといけないんだっけ。",
-      "…マスターめ、このイベントに乗じて売れ残りを全てはき出すつもりだな？"
-    ],
-    "textEn": [
+      "Clearing his throat, the shop owner brought over a board game from the back of the store.",
       "It was a game called \"Billionaire.\"",
-      "Pretty girls!!",
       "...Quite the vintage we have here.",
       "Come to think of it... if you lose, you have to buy this game.",
       "...That damned shop owner, was he using this competition to get rid of all the games he couldn't sell?"
@@ -3883,148 +3516,14 @@
     "labelEn": "Narrator",
     "labelJp": "",
     "textJp": [
-      "萌え！"
-    ],
-    "textEn": [
-      "Moe!"
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「圭一さんがぶったぁあぁあ！！！",
-      "わぁああぁああぁあああぁあんッ！！！」"
-    ],
-    "textEn": [
-      "\"Keiichi-san hit meeeeeEEeee!!!",
-      "WaaaaaaAAaaaAAAaaa!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「みんないいかな〜？！",
-      "傾聴傾聴〜！！」"
-    ],
-    "textEn": [
-      "\"Is everybody ready~?!",
-      "Listen close now~!!\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "自分に素直になれッ！！！",
-      "夢を追え！！",
-      "そしてかなえろ！！！",
-      "俺がかなえてやるッ！！！"
-    ],
-    "textEn": [
-      "Be honest with yourselves!!!",
-      "Chase your dreams!!",
-      "Fulfill them!!!",
-      "I'll fulfill them for you!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「圭ちゃんが持ってたら、確実に明日からアレな趣味の人扱いだね。うん！」"
-    ],
-    "textEn": [
-      "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "百億兆者ゲーム。"
-    ],
-    "textEn": [
-      "It was a game called \"Billionaire.\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「圭々がいじめたぁあぁあ！！！",
-      "わぁああぁああぁあああぁあんッ！！！」"
-    ],
-    "textEn": [
-      "\"Kei-kei is bullying meeeeeEEeee!!!",
-      "WaaaaaaAAaaaAAAaaa!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「みんないいかな〜？！",
-      "傾注傾注〜！！」"
-    ],
-    "textEn": [
-      "\"Is everybody ready~?!",
-      "Listen close now~!!\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "自分に素直になれッ！！！",
-      "夢を追え！！",
-      "そしてかなえろ！！！",
-      "俺がかなえてやるッ！！！",
-      "俺がだぁああぁあぁあッ！！！！」"
-    ],
-    "textEn": [
-      "Be honest with yourselves!!!",
-      "Chase your dreams!!",
-      "Fulfill them!!!",
-      "I'll fulfill them for you!!!",
-      "I wiiiiilllllll!!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「圭ちゃんが持ってたら、確実に明日から変態扱いだね。うん！」"
-    ],
-    "textEn": [
-      "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "百万長者ゲーム。",
-      "美少女！！",
+      "萌え！",
       "男の垂涎、",
       "男の浪漫！！",
       "例えるなら永遠にたどり着けないエデンの園ッ！！",
       "だけど目指すんだろ？！"
     ],
     "textEn": [
-      "It was a game called \"Billionaire.\"",
-      "Pretty girls!!",
+      "Moe!",
       "What men covet,",
       "what men dream about!!",
       "It's like an unreachable Garden of Eden!!",
@@ -4180,32 +3679,6 @@
     ]
   },
   {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「圭一さんがぶったぁあぁあ！！！",
-      "わぁああぁああぁあああぁあんッ！！！」"
-    ],
-    "textEn": [
-      "\"Keiichi-san hit meeeeeEEeee!!!",
-      "WaaaaaaAAaaaAAAaaa!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「みんないいかな〜？！",
-      "傾聴傾聴〜！！」"
-    ],
-    "textEn": [
-      "\"Is everybody ready~?!",
-      "Listen close now~!!\""
-    ]
-  },
-  {
     "color": "#956f6e",
     "labelEn": "Keiichi",
     "labelJp": "圭一",
@@ -4223,95 +3696,13 @@
     ]
   },
   {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「圭ちゃんが持ってたら、確実に明日からアレな趣味の人扱いだね。うん！」"
-    ],
-    "textEn": [
-      "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
-    ]
-  },
-  {
     "color": "#ffffff",
     "labelEn": "Narrator",
     "labelJp": "",
     "textJp": [
-      "百億兆者ゲーム。"
-    ],
-    "textEn": [
-      "It was a game called \"Billionaire.\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「圭々がいじめたぁあぁあ！！！",
-      "わぁああぁああぁあああぁあんッ！！！」"
-    ],
-    "textEn": [
-      "\"Kei-kei is bullying meeeeeEEeee!!!",
-      "WaaaaaaAAaaaAAAaaa!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「みんないいかな〜？！",
-      "傾注傾注〜！！」"
-    ],
-    "textEn": [
-      "\"Is everybody ready~?!",
-      "Listen close now~!!\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "自分に素直になれッ！！！",
-      "夢を追え！！",
-      "そしてかなえろ！！！",
-      "俺がかなえてやるッ！！！",
-      "俺がだぁああぁあぁあッ！！！！」"
-    ],
-    "textEn": [
-      "Be honest with yourselves!!!",
-      "Chase your dreams!!",
-      "Fulfill them!!!",
-      "I'll fulfill them for you!!!",
-      "I wiiiiilllllll!!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「圭ちゃんが持ってたら、確実に明日から変態扱いだね。うん！」"
-    ],
-    "textEn": [
-      "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "百万長者ゲーム。",
-      "美少女！！",
       "……男たちが世代を超えて価値観を共有した…瞬間だった。"
     ],
     "textEn": [
-      "It was a game called \"Billionaire.\"",
-      "Pretty girls!!",
       "It was this moment that the values of men bridged generations."
     ]
   },
@@ -5264,49 +4655,6 @@
     ]
   },
   {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「圭一さんがぶったぁあぁあ！！！",
-      "わぁああぁああぁあああぁあんッ！！！」"
-    ],
-    "textEn": [
-      "\"Keiichi-san hit meeeeeEEeee!!!",
-      "WaaaaaaAAaaaAAAaaa!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「みんないいかな〜？！",
-      "傾聴傾聴〜！！」"
-    ],
-    "textEn": [
-      "\"Is everybody ready~?!",
-      "Listen close now~!!\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "自分に素直になれッ！！！",
-      "夢を追え！！",
-      "そしてかなえろ！！！",
-      "俺がかなえてやるッ！！！"
-    ],
-    "textEn": [
-      "Be honest with yourselves!!!",
-      "Chase your dreams!!",
-      "Fulfill them!!!",
-      "I'll fulfill them for you!!!\""
-    ]
-  },
-  {
     "color": "#5ec69a",
     "labelEn": "Mion",
     "labelJp": "魅音",
@@ -5322,82 +4670,11 @@
     "labelEn": "Narrator",
     "labelJp": "",
     "textJp": [
-      "百億兆者ゲーム。"
-    ],
-    "textEn": [
-      "It was a game called \"Billionaire.\""
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「圭々がいじめたぁあぁあ！！！",
-      "わぁああぁああぁあああぁあんッ！！！」"
-    ],
-    "textEn": [
-      "\"Kei-kei is bullying meeeeeEEeee!!!",
-      "WaaaaaaAAaaaAAAaaa!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「みんないいかな〜？！",
-      "傾注傾注〜！！」"
-    ],
-    "textEn": [
-      "\"Is everybody ready~?!",
-      "Listen close now~!!\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "自分に素直になれッ！！！",
-      "夢を追え！！",
-      "そしてかなえろ！！！",
-      "俺がかなえてやるッ！！！",
-      "俺がだぁああぁあぁあッ！！！！」"
-    ],
-    "textEn": [
-      "Be honest with yourselves!!!",
-      "Chase your dreams!!",
-      "Fulfill them!!!",
-      "I'll fulfill them for you!!!",
-      "I wiiiiilllllll!!!!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「圭ちゃんが持ってたら、確実に明日から変態扱いだね。うん！」"
-    ],
-    "textEn": [
-      "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "百万長者ゲーム。",
-      "美少女！！",
       "…魅音に嫌味を言われるまでもない。",
       "これは男の俺の持ち物ではない。",
       "魅音だけおみやげをもらってないので、魅音に渡そうかと思ったが、ちょっと考えてからレナに渡すことにした。"
     ],
     "textEn": [
-      "It was a game called \"Billionaire.\"",
-      "Pretty girls!!",
       "...Mion didn't have to go that far.",
       "This wasn't something a guy like me should be carrying around.",
       "Mion was the only one who hadn't received a present, so I thought about giving it to her. However, after briefly considering, I gave it to Rena instead."

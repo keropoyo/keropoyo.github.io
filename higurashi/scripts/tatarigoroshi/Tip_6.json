@@ -190,45 +190,6 @@
     ]
   },
   {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「そうそう…、大石さん。",
-      "女の同居人、生きてるみたいですよ。」"
-    ],
-    "textEn": [
-      "\"About that... Ooishi-san.",
-      "Her cohabitant's apparently alive.\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「噂じゃホトケさん、上納金とヤクに手を付けちゃったらしいっす。",
-      "話じゃ、かなりシャレにならない規模らしいっす。」"
-    ],
-    "textEn": [
-      "\"Rumors say the deceased had been dipping into the protection money and the drug supply.",
-      "And on a pretty significant scale, too, from what I've heard.\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「そうそう…、大石さん。",
-      "女のヒモ、生きてるみたいですよ。」"
-    ],
-    "textEn": [
-      "\"About that... Ooishi-san.",
-      "Her man's apparently alive.\""
-    ]
-  },
-  {
     "color": "#f5e6d3",
     "labelEn": "Forensic Investigator",
     "labelJp": "鑑識",
@@ -263,51 +224,12 @@
     "labelEn": "Kumagai",
     "labelJp": "熊谷",
     "textJp": [
-      "「噂じゃホトケさん、園崎の上納金に手を付けちゃったらしいっす。",
-      "話じゃ、かなりシャレにならない規模らしいっす。」"
-    ],
-    "textEn": [
-      "\"Rumors say the deceased had been dipping into the Sonozaki's protection money.",
-      "And on a pretty significant scale, too, from what I've heard.\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
       "「そうそう…、大石さん。",
       "女の同居人、生きてるみたいですよ。」"
     ],
     "textEn": [
       "\"About that... Ooishi-san.",
       "Her cohabitant's apparently alive.\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「噂じゃホトケさん、上納金とヤクに手を付けちゃったらしいっす。",
-      "話じゃ、かなりシャレにならない規模らしいっす。」"
-    ],
-    "textEn": [
-      "\"Rumors say the deceased had been dipping into the protection money and the drug supply.",
-      "And on a pretty significant scale, too, from what I've heard.\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「そうそう…、大石さん。",
-      "女のヒモ、生きてるみたいですよ。」"
-    ],
-    "textEn": [
-      "\"About that... Ooishi-san.",
-      "Her man's apparently alive.\""
     ]
   },
   {

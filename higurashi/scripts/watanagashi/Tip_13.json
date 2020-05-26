@@ -21,118 +21,14 @@
     "textJp": [
       "「大石さん、こっちは検死入りました！",
       "じい様もさっき到着です！！",
-      "俺もスタンバイＯＫしました！！"
+      "俺もスタンバイＯＫしました！！",
+      "このまま焼死の現場へ直行します！！」"
     ],
     "textEn": [
       "\"Ooishi-san, I've got the autopsy results!",
       "The court physician just got here!!",
-      "I'm ready to go, sir!!"
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「まさか、４年前のアレっすか…？！」"
-    ],
-    "textEn": [
-      "\"You don't mean... like 4 years ago...?!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「ばっちり黒焦げだそうで。",
-      "あっちの現場、可哀想だなぁ。」"
-    ],
-    "textEn": [
-      "\"Completely blackened, it seems.",
-      "I feel sorry for the guys on the scene.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "…ごめん！",
-      "誰かキツメのタバコ、２箱くらい買ってきてくれません？」"
-    ],
-    "textEn": [
-      "...Sorry!",
-      "Could someone go buy me two or so boxes of strong cigarettes?\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「……今年は見事、見つけましたね。",
-      "…ひょっとすると、過去の失踪者もこんな感じで県外で殺されてたんすかね。」",
-      "このまま焼死の現場へ直行します！！」"
-    ],
-    "textEn": [
-      "\"...We did an excellent job finding it this year.",
-      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\"",
+      "I'm ready to go, sir!!",
       "I'll head straight for the burned body's location!!\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「まさか、バラバラっすか…？！」"
-    ],
-    "textEn": [
-      "\"Could they have been... dismembered...?!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「ばっちり黒焦げだそうで。",
-      "あぁ言う臭いってこもるんですよねぇ。",
-      "岐阜さん、可哀想だなぁ。」"
-    ],
-    "textEn": [
-      "\"Completely blackened, it seems.",
-      "Probably smells terrible, too.",
-      "What a shame it is to be Gifu-san.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "…ごめん！",
-      "誰かウルトラマイルド、２箱くらい買ってきてくれません？」"
-    ],
-    "textEn": [
-      "...Sorry!",
-      "Could someone go buy me two or so boxes of ultra-mild?\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「……今年は見事、見つけましたね。",
-      "…ひょっとすると、過去の失踪者もこんな感じで県外でバラされてたんすかね。」",
-      "このまま岐阜へ直行します！！」"
-    ],
-    "textEn": [
-      "\"...We did an excellent job finding it this year.",
-      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\"",
-      "I'll head straight for Gifu!!\""
     ]
   },
   {
@@ -157,101 +53,6 @@
     ],
     "textEn": [
       "\"You don't mean... like 4 years ago...?!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「ばっちり黒焦げだそうで。",
-      "あっちの現場、可哀想だなぁ。」"
-    ],
-    "textEn": [
-      "\"Completely blackened, it seems.",
-      "I feel sorry for the guys on the scene.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "…ごめん！",
-      "誰かキツメのタバコ、２箱くらい買ってきてくれません？」"
-    ],
-    "textEn": [
-      "...Sorry!",
-      "Could someone go buy me two or so boxes of strong cigarettes?\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「……今年は見事、見つけましたね。",
-      "…ひょっとすると、過去の失踪者もこんな感じで県外で殺されてたんすかね。」",
-      "このまま焼死の現場へ直行します！！」"
-    ],
-    "textEn": [
-      "\"...We did an excellent job finding it this year.",
-      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\"",
-      "I'll head straight for the burned body's location!!\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「まさか、バラバラっすか…？！」"
-    ],
-    "textEn": [
-      "\"Could they have been... dismembered...?!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「ばっちり黒焦げだそうで。",
-      "あぁ言う臭いってこもるんですよねぇ。",
-      "岐阜さん、可哀想だなぁ。」"
-    ],
-    "textEn": [
-      "\"Completely blackened, it seems.",
-      "Probably smells terrible, too.",
-      "What a shame it is to be Gifu-san.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "…ごめん！",
-      "誰かウルトラマイルド、２箱くらい買ってきてくれません？」"
-    ],
-    "textEn": [
-      "...Sorry!",
-      "Could someone go buy me two or so boxes of ultra-mild?\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「……今年は見事、見つけましたね。",
-      "…ひょっとすると、過去の失踪者もこんな感じで県外でバラされてたんすかね。」",
-      "このまま岐阜へ直行します！！」"
-    ],
-    "textEn": [
-      "\"...We did an excellent job finding it this year.",
-      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\"",
-      "I'll head straight for Gifu!!\""
     ]
   },
   {
@@ -292,17 +93,6 @@
     ]
   },
   {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「まさか、４年前のアレっすか…？！」"
-    ],
-    "textEn": [
-      "\"You don't mean... like 4 years ago...?!\""
-    ]
-  },
-  {
     "color": "#a59da9",
     "labelEn": "Ooishi",
     "labelJp": "大石",
@@ -313,88 +103,6 @@
     "textEn": [
       "\"Completely blackened, it seems.",
       "I feel sorry for the guys on the scene.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "…ごめん！",
-      "誰かキツメのタバコ、２箱くらい買ってきてくれません？」"
-    ],
-    "textEn": [
-      "...Sorry!",
-      "Could someone go buy me two or so boxes of strong cigarettes?\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「……今年は見事、見つけましたね。",
-      "…ひょっとすると、過去の失踪者もこんな感じで県外で殺されてたんすかね。」",
-      "このまま焼死の現場へ直行します！！」"
-    ],
-    "textEn": [
-      "\"...We did an excellent job finding it this year.",
-      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\"",
-      "I'll head straight for the burned body's location!!\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「まさか、バラバラっすか…？！」"
-    ],
-    "textEn": [
-      "\"Could they have been... dismembered...?!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「ばっちり黒焦げだそうで。",
-      "あぁ言う臭いってこもるんですよねぇ。",
-      "岐阜さん、可哀想だなぁ。」"
-    ],
-    "textEn": [
-      "\"Completely blackened, it seems.",
-      "Probably smells terrible, too.",
-      "What a shame it is to be Gifu-san.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "…ごめん！",
-      "誰かウルトラマイルド、２箱くらい買ってきてくれません？」"
-    ],
-    "textEn": [
-      "...Sorry!",
-      "Could someone go buy me two or so boxes of ultra-mild?\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「……今年は見事、見つけましたね。",
-      "…ひょっとすると、過去の失踪者もこんな感じで県外でバラされてたんすかね。」",
-      "このまま岐阜へ直行します！！」"
-    ],
-    "textEn": [
-      "\"...We did an excellent job finding it this year.",
-      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\"",
-      "I'll head straight for Gifu!!\""
     ]
   },
   {
@@ -428,30 +136,6 @@
     ]
   },
   {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「まさか、４年前のアレっすか…？！」"
-    ],
-    "textEn": [
-      "\"You don't mean... like 4 years ago...?!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「ばっちり黒焦げだそうで。",
-      "あっちの現場、可哀想だなぁ。」"
-    ],
-    "textEn": [
-      "\"Completely blackened, it seems.",
-      "I feel sorry for the guys on the scene.\""
-    ]
-  },
-  {
     "color": "#a59da9",
     "labelEn": "Ooishi",
     "labelJp": "大石",
@@ -462,75 +146,6 @@
     "textEn": [
       "...Sorry!",
       "Could someone go buy me two or so boxes of strong cigarettes?\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「……今年は見事、見つけましたね。",
-      "…ひょっとすると、過去の失踪者もこんな感じで県外で殺されてたんすかね。」",
-      "このまま焼死の現場へ直行します！！」"
-    ],
-    "textEn": [
-      "\"...We did an excellent job finding it this year.",
-      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\"",
-      "I'll head straight for the burned body's location!!\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「まさか、バラバラっすか…？！」"
-    ],
-    "textEn": [
-      "\"Could they have been... dismembered...?!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「ばっちり黒焦げだそうで。",
-      "あぁ言う臭いってこもるんですよねぇ。",
-      "岐阜さん、可哀想だなぁ。」"
-    ],
-    "textEn": [
-      "\"Completely blackened, it seems.",
-      "Probably smells terrible, too.",
-      "What a shame it is to be Gifu-san.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "…ごめん！",
-      "誰かウルトラマイルド、２箱くらい買ってきてくれません？」"
-    ],
-    "textEn": [
-      "...Sorry!",
-      "Could someone go buy me two or so boxes of ultra-mild?\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「……今年は見事、見つけましたね。",
-      "…ひょっとすると、過去の失踪者もこんな感じで県外でバラされてたんすかね。」",
-      "このまま岐阜へ直行します！！」"
-    ],
-    "textEn": [
-      "\"...We did an excellent job finding it this year.",
-      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\"",
-      "I'll head straight for Gifu!!\""
     ]
   },
   {
@@ -549,105 +164,12 @@
     "labelEn": "Kumagai",
     "labelJp": "熊谷",
     "textJp": [
-      "「まさか、４年前のアレっすか…？！」"
-    ],
-    "textEn": [
-      "\"You don't mean... like 4 years ago...?!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「ばっちり黒焦げだそうで。",
-      "あっちの現場、可哀想だなぁ。」"
-    ],
-    "textEn": [
-      "\"Completely blackened, it seems.",
-      "I feel sorry for the guys on the scene.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "…ごめん！",
-      "誰かキツメのタバコ、２箱くらい買ってきてくれません？」"
-    ],
-    "textEn": [
-      "...Sorry!",
-      "Could someone go buy me two or so boxes of strong cigarettes?\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
       "「……今年は見事、見つけましたね。",
-      "…ひょっとすると、過去の失踪者もこんな感じで県外で殺されてたんすかね。」",
-      "このまま焼死の現場へ直行します！！」"
+      "…ひょっとすると、過去の失踪者もこんな感じで県外で殺されてたんすかね。」"
     ],
     "textEn": [
       "\"...We did an excellent job finding it this year.",
-      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\"",
-      "I'll head straight for the burned body's location!!\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「まさか、バラバラっすか…？！」"
-    ],
-    "textEn": [
-      "\"Could they have been... dismembered...?!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「ばっちり黒焦げだそうで。",
-      "あぁ言う臭いってこもるんですよねぇ。",
-      "岐阜さん、可哀想だなぁ。」"
-    ],
-    "textEn": [
-      "\"Completely blackened, it seems.",
-      "Probably smells terrible, too.",
-      "What a shame it is to be Gifu-san.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "…ごめん！",
-      "誰かウルトラマイルド、２箱くらい買ってきてくれません？」"
-    ],
-    "textEn": [
-      "...Sorry!",
-      "Could someone go buy me two or so boxes of ultra-mild?\""
-    ]
-  },
-  {
-    "color": "#8f6d8f",
-    "labelEn": "Kumagai",
-    "labelJp": "熊谷",
-    "textJp": [
-      "「……今年は見事、見つけましたね。",
-      "…ひょっとすると、過去の失踪者もこんな感じで県外でバラされてたんすかね。」",
-      "このまま岐阜へ直行します！！」"
-    ],
-    "textEn": [
-      "\"...We did an excellent job finding it this year.",
-      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\"",
-      "I'll head straight for Gifu!!\""
+      "...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\""
     ]
   },
   {

@@ -113,7 +113,6 @@
       "指が惨いよな。",
       "両手両指に五寸釘がびっしり打たれてる。",
       "どうゆう拷問だよ、コレ。」",
-      "オープニング動画は多少のネタバレ要素を含んでいますが、再生を有効にしますか？",
       "学校で一番ほっとできる時間と言ったら、やはりお昼だろう。",
       "いつものようにみんなの机を寄せ合い、みんなのお弁当を並べる。"
     ],
@@ -227,7 +226,6 @@
       "Her fingers are in a bad state, too.",
       "There are long nails stuck in all of them, on both hands.",
       "What kind of torture was this, anyway?\"",
-      "Video opening might contain minor spoilers. Do you want to enable it anyway?",
       "The most relaxing time during the school day? Lunch, for sure.",
       "Everyone brought their desks side-by-side like always, and we all ate together."
     ]
@@ -1633,49 +1631,12 @@
     "labelJp": "沙都子",
     "textJp": [
       "「…わぁああぁあぁあああぁんッ！！",
-      "圭一さんのばかぁー！！"
-    ],
-    "textEn": [
-      "\"...Waaaahhhhhhhhhhhh!!",
-      "Stupid Keiichi!!"
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "考えるより生むが易しだな〜。"
-    ],
-    "textEn": [
-      "It's easier to give it a shot than think about it, right~?"
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…わぁああぁあぁあああぁんッ！！",
-      "圭々のばかぁー！！"
-    ],
-    "textEn": [
-      "\"...Waaaahhhhhhhhhhhh!!",
-      "Stupid Kei-kei!!"
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「…なぁんだ。",
-      "考えるより生むが易しだな〜。",
+      "圭一さんのばかぁー！！",
       "わああぁああぁあん！！」"
     ],
     "textEn": [
-      "\"...Well.",
-      "It's easier to give it a shot than think about it, right~?",
+      "\"...Waaaahhhhhhhhhhhh!!",
+      "Stupid Keiichi!!",
       "Waaahhhhhh!!\""
     ]
   },
@@ -2639,54 +2600,15 @@
     ]
   },
   {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…わぁああぁあぁあああぁんッ！！",
-      "圭一さんのばかぁー！！"
-    ],
-    "textEn": [
-      "\"...Waaaahhhhhhhhhhhh!!",
-      "Stupid Keiichi!!"
-    ]
-  },
-  {
     "color": "#956f6e",
     "labelEn": "Keiichi",
     "labelJp": "圭一",
     "textJp": [
-      "考えるより生むが易しだな〜。"
-    ],
-    "textEn": [
-      "It's easier to give it a shot than think about it, right~?"
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「…わぁああぁあぁあああぁんッ！！",
-      "圭々のばかぁー！！"
-    ],
-    "textEn": [
-      "\"...Waaaahhhhhhhhhhhh!!",
-      "Stupid Kei-kei!!"
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「…なぁんだ。",
       "考えるより生むが易しだな〜。",
       "お料理の本さえあれば、誰だってシェフの味が出せるじゃんよ〜☆",
       "さすがはお料理の本〜……。」"
     ],
     "textEn": [
-      "\"...Well.",
       "It's easier to give it a shot than think about it, right~?",
       "Anyone can concoct the tastes of a gourmet chef as long as they have a cookbook~☆.",
       "Cookbooks are great~...\""

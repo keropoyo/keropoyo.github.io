@@ -412,79 +412,6 @@
     ]
   },
   {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "園崎家には、色々と黒い噂がまことしやかに囁かれていた。",
-      "……その中に、非合法の密売を行っている、などと根も葉もないデマもあった。",
-      "……だとしたら梨花ちゃんも、それに関わっている疑いがある、とでも言いたいのか……？！"
-    ],
-    "textEn": [
-      "There were various dark rumors relating to the Sonozaki family.",
-      "...Among them, there was even baseless speculation that they were selling illegal contraband.",
-      "...Did Ooishi mean to say that Rika-chan is also suspected in relation to such things?!"
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「前原さんの好みがわからなかったので、いろいろと持ってきましたよ〜。",
-      "ほぅら、洋物に劇画からかわいらしいのまで色々！",
-      "最近はこんな女の子向けみたいなＨマンガもあるんですねぇ〜。」"
-    ],
-    "textEn": [
-      "\"I didn't know what you were into, Maebara-san, so I brought all sorts of things~",
-      "See, all sorts of cute-looking ones, from Westerns to comic strips!",
-      "Lately they have this sort of H-manga aimed at girls, too~\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「エエエエ、エロ本なんか持ってこないで下さい〜！！！",
-      "持って帰って持って帰って！！",
-      "痛ててててて…！！」"
-    ],
-    "textEn": [
-      "\"D-D-D-D-D-D-D-Don't bring porn in here~!!!",
-      "Take them away, and go home!!",
-      "Ow, ow ow ow ow...!!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「園崎家は本業の方、",
-      "…あぁ、ヤクザ屋さんのことです。",
-      "…で、覚醒剤を扱ってるとの噂がありましてね。",
-      "…その可能性もあるかなんて思ってたのですが。」"
-    ],
-    "textEn": [
-      "\"The Sonozaki family corporates...",
-      "er, the yakuza people.",
-      "...Anyway, there's rumors that they deal in psychostimulants.",
-      "...I was thinking that might have something to do with it, too.\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「………梨花ちゃんが、…覚醒剤の常用者だって言うのか…？！」"
-    ],
-    "textEn": [
-      "\".........Are you trying to tell me... that Rika-chan is a drug addict...?!\""
-    ]
-  },
-  {
     "color": "#a59da9",
     "labelEn": "Ooishi",
     "labelJp": "大石",
@@ -1041,113 +968,16 @@
     "labelEn": "Narrator",
     "labelJp": "",
     "textJp": [
-      "……梨花ちゃんが注射器を持ち歩いていたなんて話は知らない。"
-    ],
-    "textEn": [
-      "......I didn't know anything about Rika-chan carrying syringes around with her."
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「前原さんの好みがわからなかったので、いろいろと持ってきましたよ〜。",
-      "ほぅら、より取り見取り野原は黄緑〜てなもんです。",
-      "さぁさ、好きなだけ持って行っちゃってくださいー！"
-    ],
-    "textEn": [
-      "\"I didn't know what you were into, Maebara-san, so I brought all sorts of things~",
-      "See, all sorts of cute-looking ones, from Westerns to comic strips!",
-      "Lately they have this sort of H-manga aimed at girls, too~\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「こここ、こんな本なんか持ってこないで下さい〜！！！",
-      "持って帰って持って帰って！！",
-      "痛ててててて…！！」"
-    ],
-    "textEn": [
-      "\"D-D-D-D-D-D-D-Don't bring porn in here~!!!",
-      "Take them away, and go home!!",
-      "Ow, ow ow ow ow...!!\""
-    ]
-  },
-  {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
+      "……梨花ちゃんが注射器を持ち歩いていたなんて話は知らない。",
       "園崎家には、色々と黒い噂がまことしやかに囁かれていた。",
       "……その中に、非合法の密売を行っている、などと根も葉もないデマもあった。",
       "……だとしたら梨花ちゃんも、それに関わっている疑いがある、とでも言いたいのか……？！"
     ],
     "textEn": [
+      "......I didn't know anything about Rika-chan carrying syringes around with her.",
       "There were various dark rumors relating to the Sonozaki family.",
       "...Among them, there was even baseless speculation that they were selling illegal contraband.",
       "...Did Ooishi mean to say that Rika-chan is also suspected in relation to such things?!"
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「前原さんの好みがわからなかったので、いろいろと持ってきましたよ〜。",
-      "ほぅら、洋物に劇画からかわいらしいのまで色々！",
-      "最近はこんな女の子向けみたいなＨマンガもあるんですねぇ〜。」"
-    ],
-    "textEn": [
-      "\"I didn't know what you were into, Maebara-san, so I brought all sorts of things~",
-      "See, all sorts of cute-looking ones, from Westerns to comic strips!",
-      "Lately they have this sort of H-manga aimed at girls, too~\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「エエエエ、エロ本なんか持ってこないで下さい〜！！！",
-      "持って帰って持って帰って！！",
-      "痛ててててて…！！」"
-    ],
-    "textEn": [
-      "\"D-D-D-D-D-D-D-Don't bring porn in here~!!!",
-      "Take them away, and go home!!",
-      "Ow, ow ow ow ow...!!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「園崎家は本業の方、",
-      "…あぁ、ヤクザ屋さんのことです。",
-      "…で、覚醒剤を扱ってるとの噂がありましてね。",
-      "…その可能性もあるかなんて思ってたのですが。」"
-    ],
-    "textEn": [
-      "\"The Sonozaki family corporates...",
-      "er, the yakuza people.",
-      "...Anyway, there's rumors that they deal in psychostimulants.",
-      "...I was thinking that might have something to do with it, too.\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「………梨花ちゃんが、…覚醒剤の常用者だって言うのか…？！」"
-    ],
-    "textEn": [
-      "\".........Are you trying to tell me... that Rika-chan is a drug addict...?!\""
     ]
   },
   {

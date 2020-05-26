@@ -26,41 +26,6 @@
     ]
   },
   {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「こ、ここはいつからゲリラの戦場になったんだぁあああぁあぁあッ！！」"
-    ],
-    "textEn": [
-      "\"W-When did this turn into some guerrilla battlefield?!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「私は知ってるよ。",
-      "沙都子はソ連の軍事顧問団に混じって、某国でトラップの訓練教官をやってたんだ。」"
-    ],
-    "textEn": [
-      "\"I know all about it!",
-      "Satoko was one of the Soviet military advisors that gave training on traps to that one country.\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「こ、ここはいつからベトナムになったんだぁあああぁあぁあッ！！」"
-    ],
-    "textEn": [
-      "\"W-When did this turn into freaking Vietnam?!\""
-    ]
-  },
-  {
     "color": "#f0953d",
     "labelEn": "Rena",
     "labelJp": "レナ",
@@ -396,19 +361,6 @@
     ]
   },
   {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「私は知ってるよ。",
-      "沙都子はとある国の特殊部隊に招へいされて、トラップの訓練教官をやってたんだ。」"
-    ],
-    "textEn": [
-      "\"I know all about it!",
-      "Satoko was appointed to the special forces of that one country, where she served as an instructor training on traps.\""
-    ]
-  },
-  {
     "color": "#956f6e",
     "labelEn": "Keiichi",
     "labelJp": "圭一",
@@ -417,30 +369,6 @@
     ],
     "textEn": [
       "\"W-When did this turn into some guerrilla battlefield?!\""
-    ]
-  },
-  {
-    "color": "#5ec69a",
-    "labelEn": "Mion",
-    "labelJp": "魅音",
-    "textJp": [
-      "「私は知ってるよ。",
-      "沙都子はソ連の軍事顧問団に混じって、某国でトラップの訓練教官をやってたんだ。」"
-    ],
-    "textEn": [
-      "\"I know all about it!",
-      "Satoko was one of the Soviet military advisors that gave training on traps to that one country.\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「こ、ここはいつからベトナムになったんだぁあああぁあぁあッ！！」"
-    ],
-    "textEn": [
-      "\"W-When did this turn into freaking Vietnam?!\""
     ]
   },
   {

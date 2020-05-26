@@ -405,22 +405,11 @@
     "labelEn": "Cram School Teacher",
     "labelJp": "塾",
     "textJp": [
-      "「いくつかの知能テストとも重ねましたが、その結果、興味深いことがわかりました。"
-    ],
-    "textEn": [
-      "\"We cross-checked with several tests as well, and we learned some very interesting things as a result."
-    ]
-  },
-  {
-    "color": "#f5e6d3",
-    "labelEn": "Cram School Teacher",
-    "labelJp": "塾",
-    "textJp": [
-      "「クレペリン検査とも重ねましたが、その結果、興味深いことがわかりました。",
+      "「いくつかの知能テストとも重ねましたが、その結果、興味深いことがわかりました。",
       "前原くんは意味を持たない問題に非常に弱いのです。"
     ],
     "textEn": [
-      "\"We gave him the Kraepelin test as well, and we learned some very interesting things as a result.",
+      "\"We cross-checked with several tests as well, and we learned some very interesting things as a result.",
       "Maebara-kun is extremely weak when faced with questions that don't have any meaning."
     ]
   },

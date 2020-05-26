@@ -528,25 +528,6 @@
     ]
   },
   {
-    "color": "#ffffff",
-    "labelEn": "Narrator",
-    "labelJp": "",
-    "textJp": [
-      "しかし、そんな強がりも二人がかり、しかも真っ白けの姿で無言のまま、……",
-      "というより、喋りたくても口の中にまで石灰が詰まって、モゴモゴと喋れない様子で迫りくるさまは、……確かにホラ、沙都子ながらに怖いかも。",
-      "「……北条〜！！",
-      "あんな罠を仕掛けるのは北条しかいないー！！！」",
-      "「「天誅〜〜！！！」」"
-    ],
-    "textEn": [
-      "That being said, these two pretending to be tough, not only that but standing still completely blank and silent...",
-      "But anyway, ignoring what happened before, having someone chase you with their mouth full of lime in such a way they can't even speak... Yeah, that would be scary even for Satoko.",
-      "\"...Houjou~!!",
-      "You're the only one who could have set up a trick like that!!!\"",
-      "\"\"Payback~~!!!\"\""
-    ]
-  },
-  {
     "color": "#fcdb77",
     "labelEn": "Satoko",
     "labelJp": "沙都子",
@@ -572,55 +553,16 @@
     ]
   },
   {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "「わぷっ？！"
-    ],
-    "textEn": [
-      "\"Wha-?!"
-    ]
-  },
-  {
-    "color": "#fcdb77",
-    "labelEn": "Satoko",
-    "labelJp": "沙都子",
-    "textJp": [
-      "い、いきなり何をなさいますのですか、お二人ともっ？！」"
-    ],
-    "textEn": [
-      "W-What are you suddenly trying to do, you two?!\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「…………どうやら、だれが罠をしかけたのかは問答無用、ってところだな」"
-    ],
-    "textEn": [
-      "\"...Looks like there's no use talking to the person who set this trap.\""
-    ]
-  },
-  {
     "color": "#ffffff",
     "labelEn": "Narrator",
     "labelJp": "",
     "textJp": [
       "しかし、そんな強がりも二人がかり、しかも真っ白けの姿で無言のまま、……",
-      "というより、喋りたくても口の中にまで石灰が詰まって、モゴモゴと喋れない様子で迫りくるさまは、……確かにホラ、沙都子ながらに怖いかも。",
-      "「……北条〜！！",
-      "あんな罠を仕掛けるのは北条しかいないー！！！」",
-      "「「天誅〜〜！！！」」"
+      "というより、喋りたくても口の中にまで石灰が詰まって、モゴモゴと喋れない様子で迫りくるさまは、……確かにホラ、沙都子ながらに怖いかも。"
     ],
     "textEn": [
       "That being said, these two pretending to be tough, not only that but standing still completely blank and silent...",
-      "But anyway, ignoring what happened before, having someone chase you with their mouth full of lime in such a way they can't even speak... Yeah, that would be scary even for Satoko.",
-      "\"...Houjou~!!",
-      "You're the only one who could have set up a trick like that!!!\"",
-      "\"\"Payback~~!!!\"\""
+      "But anyway, ignoring what happened before, having someone chase you with their mouth full of lime in such a way they can't even speak... Yeah, that would be scary even for Satoko."
     ]
   },
   {

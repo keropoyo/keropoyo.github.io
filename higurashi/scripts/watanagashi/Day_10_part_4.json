@@ -1131,93 +1131,6 @@
     ]
   },
   {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「御三家ってご存知ですかな？",
-      "綿流しのお祭りの開会式典で、各家の代表がそれぞれ挨拶をなさっているでしょう。」"
-    ],
-    "textEn": [
-      "\"Are you familiar with the Three Families?",
-      "Representatives from each of them gave short addresses at the Watanagashi festival's opening ceremony.\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「見ていません。",
-      "……祭りには…途中から来たから…よくは…。」"
-    ],
-    "textEn": [
-      "\"I didn't see them.",
-      "...I came... partway through the festival... so I don't really...\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「そんなの、俺にだってさっぱりです。」"
-    ],
-    "textEn": [
-      "\"I don't know anything about it either.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「私たちだって税金払ってるんですけどねぇ。",
-      "…自分のおしっこを自分で飲んでるみたいな気分ですよ。なっはっはっは…！」"
-    ],
-    "textEn": [
-      "\"We're taxpayers too, you know.",
-      "...It's like we're drinking our own piss. Na-ha-ha-ha-ha...!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「御三家ってご存知ですかな？",
-      "綿流しのお祭りの開会式典で、各家の代表がそれぞれ挨拶をなさっているでしょう。",
-      "見ていません？」"
-    ],
-    "textEn": [
-      "\"Are you familiar with the Three Families?",
-      "Representatives from each of them gave short addresses at the Watanagashi festival's opening ceremony.",
-      "Did you see them?\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「……祭りには…途中から来たから…よくは…。」"
-    ],
-    "textEn": [
-      "\"...I came... partway through the festival... so I don't really...\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「そんなの、俺にとってだってさっぱりです。」"
-    ],
-    "textEn": [
-      "\"I don't know anything about it either.\""
-    ]
-  },
-  {
     "color": "#ffffff",
     "labelEn": "Narrator",
     "labelJp": "",
@@ -2068,19 +1981,6 @@
     "labelEn": "Ooishi",
     "labelJp": "大石",
     "textJp": [
-      "「私たちだって税金払ってるんですけどねぇ。",
-      "…ソバ屋さんが自分のつくったソバ食ってるみたいな気分ですよ。なっはっはっは…！」"
-    ],
-    "textEn": [
-      "\"We're taxpayers too, you know.",
-      "...I feel like a soba noodle chef eating my own soba. Na-ha-ha-ha-ha...!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
       "「御三家ってご存知ですかな？",
       "綿流しのお祭りの開会式典で、各家の代表がそれぞれ挨拶をなさっているでしょう。」"
     ],
@@ -2100,67 +2000,6 @@
     "textEn": [
       "\"I didn't see them.",
       "...I came... partway through the festival... so I don't really...\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「そんなの、俺にだってさっぱりです。」"
-    ],
-    "textEn": [
-      "\"I don't know anything about it either.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「私たちだって税金払ってるんですけどねぇ。",
-      "…自分のおしっこを自分で飲んでるみたいな気分ですよ。なっはっはっは…！」"
-    ],
-    "textEn": [
-      "\"We're taxpayers too, you know.",
-      "...It's like we're drinking our own piss. Na-ha-ha-ha-ha...!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「御三家ってご存知ですかな？",
-      "綿流しのお祭りの開会式典で、各家の代表がそれぞれ挨拶をなさっているでしょう。",
-      "見ていません？」"
-    ],
-    "textEn": [
-      "\"Are you familiar with the Three Families?",
-      "Representatives from each of them gave short addresses at the Watanagashi festival's opening ceremony.",
-      "Did you see them?\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「……祭りには…途中から来たから…よくは…。」"
-    ],
-    "textEn": [
-      "\"...I came... partway through the festival... so I don't really...\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「そんなの、俺にとってだってさっぱりです。」"
-    ],
-    "textEn": [
-      "\"I don't know anything about it either.\""
     ]
   },
   {
@@ -2391,100 +2230,11 @@
     ]
   },
   {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「私たちだって税金払ってるんですけどねぇ。",
-      "…ソバ屋さんが自分のつくったソバ食ってるみたいな気分ですよ。なっはっはっは…！」"
-    ],
-    "textEn": [
-      "\"We're taxpayers too, you know.",
-      "...I feel like a soba noodle chef eating my own soba. Na-ha-ha-ha-ha...!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「御三家ってご存知ですかな？",
-      "綿流しのお祭りの開会式典で、各家の代表がそれぞれ挨拶をなさっているでしょう。」"
-    ],
-    "textEn": [
-      "\"Are you familiar with the Three Families?",
-      "Representatives from each of them gave short addresses at the Watanagashi festival's opening ceremony.\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「見ていません。",
-      "……祭りには…途中から来たから…よくは…。」"
-    ],
-    "textEn": [
-      "\"I didn't see them.",
-      "...I came... partway through the festival... so I don't really...\""
-    ]
-  },
-  {
     "color": "#956f6e",
     "labelEn": "Keiichi",
     "labelJp": "圭一",
     "textJp": [
       "「そんなの、俺にだってさっぱりです。」"
-    ],
-    "textEn": [
-      "\"I don't know anything about it either.\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「私たちだって税金払ってるんですけどねぇ。",
-      "…自分のおしっこを自分で飲んでるみたいな気分ですよ。なっはっはっは…！」"
-    ],
-    "textEn": [
-      "\"We're taxpayers too, you know.",
-      "...It's like we're drinking our own piss. Na-ha-ha-ha-ha...!\""
-    ]
-  },
-  {
-    "color": "#a59da9",
-    "labelEn": "Ooishi",
-    "labelJp": "大石",
-    "textJp": [
-      "「御三家ってご存知ですかな？",
-      "綿流しのお祭りの開会式典で、各家の代表がそれぞれ挨拶をなさっているでしょう。",
-      "見ていません？」"
-    ],
-    "textEn": [
-      "\"Are you familiar with the Three Families?",
-      "Representatives from each of them gave short addresses at the Watanagashi festival's opening ceremony.",
-      "Did you see them?\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「……祭りには…途中から来たから…よくは…。」"
-    ],
-    "textEn": [
-      "\"...I came... partway through the festival... so I don't really...\""
-    ]
-  },
-  {
-    "color": "#956f6e",
-    "labelEn": "Keiichi",
-    "labelJp": "圭一",
-    "textJp": [
-      "「そんなの、俺にとってだってさっぱりです。」"
     ],
     "textEn": [
       "\"I don't know anything about it either.\""
