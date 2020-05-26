@@ -1,0 +1,627 @@
+[
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「だいぶ血圧もよくなってきましたよ。",
+      "そのお年でこれだけの回復力があるのは…いやいや、感服するばかりです。"
+    ],
+    "textEn": [
+      "\"Your blood pressure has improved.",
+      "For you to recover this quickly at your age, I'm rather impressed."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "お魎さんなら、百でも二百でも元気にお過ごしになれますね。」"
+    ],
+    "textEn": [
+      "At this rate, you'll still be kicking after a couple hundred more years, Oryou-san.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "若い白衣の医者は、そう微笑みかけながら、布団に入った老婆の腕に付けていた血圧測定器具のマジックテープをベリリと剥がした。"
+    ],
+    "textEn": [
+      "The young doctor in his medical coat said that as he undid the blood pressure cuff from the arm of the old woman tucked away in her futon."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「入江の先生はほんにお上手でぇ…。",
+      "ワシんたいな死に損ないは早ぅ死なんと、若者の邪魔んなっていけんね…。",
+      "…ほっほっほっほ…。」"
+    ],
+    "textEn": [
+      "\"You're a very good physician, Dr. Irie...",
+      "If a persistent ol' fart like me doesn't hurry up and die, I'll just be in the way of you young folk...",
+      "...Ho ho ho ho...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "老婆は、…お魎はニヤリと笑うと、か細くそう笑って見せる。",
+      "そしてふすまの方を向くと、大きな声を張り上げた。"
+    ],
+    "textEn": [
+      "The old lady, Oryou, laughed faintly with a broad smile on her face.",
+      "Then, turning towards the sliding door, she called out in a strong voice."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「沁子さんか妙子さんはおらんね？",
+      "入江先生に麦茶でも入れてやりゃあなぁ！」"
+    ],
+    "textEn": [
+      "\"Is Shimiko-san or Taeko-san there?",
+      "Bring some tea for Dr. Irie!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "廊下をぱたぱたと足音が近付き、ふすまがソロリを開く。",
+      "そこには、若い少女の姿があった。",
+      "…老婆の孫のように見えた。"
+    ],
+    "textEn": [
+      "The sound of rushed footsteps from the hallway drew closer, until finally the door slid smoothly open.",
+      "What it revealed was a young girl.",
+      "...It looked like the old lady's granddaughter."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「沁子さんは今日はもうあがっちゃったよ。",
+      "…何か用？」"
+    ],
+    "textEn": [
+      "\"Shimiko-san already left for the day.",
+      "...Do you need something?\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「魅音、入江の先生に麦茶を入れたってんな。」"
+    ],
+    "textEn": [
+      "\"Mion, make some barley tea for Dr. Irie.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん、了解。",
+      "婆っちゃも飲む？",
+      "紅茶の方がいい？",
+      "砂糖もミルクもたっぷり？」"
+    ],
+    "textEn": [
+      "\"Okay, got it.",
+      "Did you want some too, Granny?",
+      "Or would black tea be better?",
+      "Want lots of milk and sugar?\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「ワシが加減するから、入れんでえんね。",
+      "砂糖壷とミルクも一緒に持って来てんな。」"
+    ],
+    "textEn": [
+      "\"I'll measure it out myself, so you don't have to put any in.",
+      "Just bring the sugar jar and some milk when you bring the tea.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「はいはい。」"
+    ],
+    "textEn": [
+      "\"Kay kay.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音と呼ばれた少女は、相変わらず人使いの荒い祖母に、適当な返事を返すと、廊下を戻っていった。"
+    ],
+    "textEn": [
+      "The girl named Mion, after giving a rather uninterested response to her taskmaster of a grandmother, returned to the hallway."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「先生の麦茶は来客用のガラス茶碗に入れるんよー！！",
+      "ちゃんとお座布団も付けてぇなぁ！",
+      "水滴もちゃんと拭き取っとくんねー？！」"
+    ],
+    "textEn": [
+      "\"Pour the doctor's tea in the cups for the guests!!",
+      "And make sure you bring a coaster too!",
+      "Also make sure to dry the outside of the glass, okay!?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「わーってるーって。",
+      "うっさいな〜〜〜。」"
+    ],
+    "textEn": [
+      "\"Yeah, yeah.",
+      "You're such a fussypants.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "廊下の向こうから、へこたれない声が帰ってくる。",
+      "真摯な態度の声でないのはいつものこと。",
+      "老婆は仕方ないヤツと漏らし、苦笑した。"
+    ],
+    "textEn": [
+      "A tired voice wafted a reply from down the hallway.",
+      "The apathetic tone of voice was far from unusual.",
+      "The old lady let a wry smile slip across her face as she chided the girl."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「かー、しょんがないやっちゃなぁ。",
+      "叱られる内が花んね、なったく。」"
+    ],
+    "textEn": [
+      "\"Geez, that girl just won't learn.",
+      "Nothing I ever scold her about sticks.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「お魎さん、お魎さん、ままままま…、そこまでは言わなくても。",
+      "魅音ちゃんも若いなりに頑張ってますから。」"
+    ],
+    "textEn": [
+      "\"Now now, Oryou-san... you don't have to say that.",
+      "Mion-chan is doing her best in her own way, even though she's so young.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「あれの母親もな、…しょんがないやっちゃったんね。",
+      "よう似とる！」"
+    ],
+    "textEn": [
+      "\"Her mother was the same way... couldn't teach her anything.",
+      "The apple doesn't fall far from the tree!\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「あっはっはっはっは。",
+      "で、その母親の母親もまた、そっくりなんじゃあないですか？」"
+    ],
+    "textEn": [
+      "\"Aha ha ha ha.",
+      "So her mother's mother must be exactly the same, no?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぷーーっと、老婆は吹き出し、げらげらと大笑いする。",
+      "まんざらでもない顔だった。"
+    ],
+    "textEn": [
+      "The old lady burst out laughing.",
+      "Her expression showed she hadn't taken the comment the wrong way."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「入江先生。",
+      "申し訳ない、障子を開っけてもらえんけんね。",
+      "風が涼しそうだわ。」"
+    ],
+    "textEn": [
+      "\"Dr. Irie.",
+      "I'm sorry, but could you open the doors for me?",
+      "It seems there's a nice cool breeze outside.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "気付けば、障子の隙間からは涼しそうなひぐらしの声が漏れ入っていた。",
+      "入江は腰を上げ、障子を少し開けた。",
+      "…清々した風が、室内のしけった空気を追い出していく。"
+    ],
+    "textEn": [
+      "The cool chirping of the higurashi had at some point started leaking through the gap in the doorway.",
+      "Irie stood up, and opened the door a bit.",
+      "...A refreshing breeze pushed out the stale air that had built up in the room."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「日中はだいぶ暑くなったように思うんですが、…まだ、朝夕は涼しいですね。",
+      "昨夜は少し肌寒いくらいでした。」"
+    ],
+    "textEn": [
+      "\"It's gotten fairly hot during the day, but the evenings are still rather cool, aren't they.",
+      "It was almost downright chilly last night.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「ん。",
+      "……そんな朝夕もまた、雛見沢のいいところんな。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "...Those types of mornings and evenings are another one of Hinamizawa's fine points.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入江はにっこりと微笑み返すと、再び老婆の脇の座布団に戻った。",
+      "そして二人して、しばらくの間、ひぐらしの声に身を浸すのだった…。"
+    ],
+    "textEn": [
+      "Irie replied with a smile as he returned to sit on the cushion beside the old lady.",
+      "And then the two of them, for a little while, soaked in the voices of the higurashi..."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「ワシゃあ、百まで生きんにせぇ、もうしばらくは死ねんよ。",
+      "……ダムの件、きっちりケリ付けるまでゃあ、棺の蓋かて収まらんわ。」"
+    ],
+    "textEn": [
+      "\"I'm going to try and live to a hundred.",
+      "...Until the business with the dam is proper finished, I ain't kicking the bucket just yet.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「………国が一度決めたことを撤回するのは、なかなか難しいでしょうねぇ…。」"
+    ],
+    "textEn": [
+      "\"...To get the government to withdraw a decision they've already made is a fairly difficult thing to do...\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「国のやることはな、いつの世も石臼回すみたいなもんね。",
+      "そんれもだいぶ重いやっちゃ。」"
+    ],
+    "textEn": [
+      "\"The way this country does things is like turning a millstone.",
+      "A heavy one at that.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…石臼、ですか？」"
+    ],
+    "textEn": [
+      "\"...A millstone?\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「知らんねか？",
+      "石臼。」"
+    ],
+    "textEn": [
+      "\"Don'tcha know??",
+      "A millstone.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "いえいえいえ、もちろん知ってますよと入江は取繕った。",
+      "こういう感じで話の腰を折られることをお魎が嫌うことを知っていたからだ。"
+    ],
+    "textEn": [
+      "Irie quickly affirmed that of course he knew what the old lady was talking about.",
+      "For he knew full well that Oryou didn't like having her stories interrupted."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「国の石臼はな、…なぁんでもゴリゴリ挽いちまうん。",
+      "大したもんよ。",
+      "でもな、簡単には回らない、重ぉい石臼なんねな。"
+    ],
+    "textEn": [
+      "\"This millstone, see, can grind anything to a pulp.",
+      "It's rather impressive.",
+      "But y'see, it doesn't turn that easy, because it's a rather heavy millstone."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "たっくさんの人間が、せーのってやって、ようやくじりじりと動き出す、そんな石臼なんよ。」"
+    ],
+    "textEn": [
+      "Lots of people have to work in unison to get it to even budge. It's that type of millstone.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入江は口を挟まず、その話に大人しく耳を傾けていた。",
+      "やがて魅音がお茶を乗せたお盆を持って帰ってきた。",
+      "お魎が上機嫌そうに話しているのにすぐに気付き、話の腰を折らないように静かに腰を下ろして、麦茶と紅茶の器を配った。"
+    ],
+    "textEn": [
+      "Irie pursed his lips, listening quietly to what she was saying.",
+      "Eventually Mion returned with some tea laid out on a tray.",
+      "Seeing that Oryou was talking and in a good mood, she quietly knelt down and laid out the sets for the barley and black tea, careful not to interrupt."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「だから一度回り始めたら、簡単には止められんね。",
+      "……回し始める一番初めが一番重い。",
+      "それが嫌だから、みんな手を休めんと、ごりごり回し続けるんね。」"
+    ],
+    "textEn": [
+      "\"That's why, when it gets going, it's not that easy to stop.",
+      "...It takes the most effort to move it right before it starts turning.",
+      "Everybody hates that, so everybody keeps pushing it along without rest.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「摩擦係数の話でしょ。",
+      "確かに婆っちゃの話、理屈はあるね。」"
+    ],
+    "textEn": [
+      "\"You're talking about friction, right?",
+      "I get what you're saying.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「ちゅーことはだ。",
+      "何かの間違いで、突然石臼が止まっちまったら、…まぁた回すにはどえらい力が掛かる、っちゅうこったな。」"
+    ],
+    "textEn": [
+      "\"So in other words.",
+      "If there's some sort of mistake, and the millstone suddenly stops turning... to get it turning again takes a great deal of power, more'r less.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…………確かに、一度中断した計画をもう一度動かすのに必要なエネルギーは、かなりのものでしょうね。」"
+    ],
+    "textEn": [
+      "\"...Certainly, to get a project that's been suspended going again takes quite a lot of work.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「簡単には止められん石臼だけんどな。",
+      "……一度止めれば二度とは回らん。",
+      "そういう石臼よ。」"
+    ],
+    "textEn": [
+      "\"It's a millstone that isn't easily stopped.",
+      "...But once it's stopped, it'll never turn again.",
+      "It's that kind of millstone.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「石臼を止める、いい手があればいいんですがね…。」"
+    ],
+    "textEn": [
+      "\"It'd be nice if there was some way to get that millstone to stop, wouldn't it?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入江がそう応えると、老婆と魅音は突然、沈黙する…。",
+      "直感的に入江は失言したと思い、少し慌てながら取繕いの言葉を捜そうとした。",
+      "だが、それは失言による沈黙ではなかった。",
+      "……なぜなら、老婆と魅音の表情に浮かんでいたのは、冷笑だったから。"
+    ],
+    "textEn": [
+      "When Irie responded with that, Mion and the old lady suddenly sunk into silence...",
+      "Irie, instinctively thinking he had said something rude, searched in a small panic for the words to correct himself.",
+      "But that silence wasn't the result of rude words.",
+      "...For what crept across Mion and the old lady's faces were contemptuous smiles."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「……………………………。"
+    ],
+    "textEn": [
+      "\"..."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "………………………。」"
+    ],
+    "textEn": [
+      "...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然、自分の身を包む空気が凍りつき、入江には何が何やらわからない。",
+      "…二人の浮かべる冷笑が、自分の落ち度による何らかの不快感の表れではないのか、それを恐れることしかできなかった。",
+      "「……………………。",
+      "…………………………………。」"
+    ],
+    "textEn": [
+      "The atmosphere surrounding Irie suddenly froze, leaving him flabbergasted.",
+      "...Thinking that the scornful smiles creeping across both of their faces was the result of some mistake of his, he could only grow afraid.",
+      "\"...",
+      "......\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……………………はは、ははははははは、」"
+    ],
+    "textEn": [
+      "\"...Haha, hahahahahahaha...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大して長い時間、沈黙に縛られていたわけでもない。",
+      "…でも、入江はその沈黙に耐えることができず、曖昧に笑って誤魔化すことしかできなかった。",
+      "…その入江の笑いは、やがて老婆と魅音にも移り、",
+      "…一座は何を対象にしたのかもわからない、",
+      "少し肌寒い笑い声に満たされるのだった。",
+      "………ひぐらしたちだけは笑わず、ただ淡々と同じ声で合唱を続けていた…。"
+    ],
+    "textEn": [
+      "It hadn't been that long at all since he was enveloped by silence.",
+      "However, unable to stand it, Irie could only let out a weak laugh.",
+      "Irie's laugh eventually spread to Mion and the old lady.",
+      "Not knowing exactly what they were laughing at,",
+      "their laughter left a lingering chill.",
+      "...The only ones not laughing were the higurashi, who continued their simple and unchanging chorus..."
+    ]
+  }
+]

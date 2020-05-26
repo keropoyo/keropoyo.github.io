@@ -1,0 +1,187 @@
+[
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Reporter",
+    "labelJp": "リポーター",
+    "textJp": [
+      "「よく映画などに登場しますが、簡単にいうとどのようなものでしょうか。」"
+    ],
+    "textEn": [
+      "\"I see it in movies quite often, but what is it, exactly?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Professor",
+    "labelJp": "教授",
+    "textJp": [
+      "「複数の人格を持つことによる逃避と考えられています。」"
+    ],
+    "textEn": [
+      "\"Multiple personalities are thought to be escapism.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Reporter",
+    "labelJp": "リポーター",
+    "textJp": [
+      "「多重人格は逃避のひとつなのですか？」"
+    ],
+    "textEn": [
+      "\"Multiple personality disorder is a form of escape?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Professor",
+    "labelJp": "教授",
+    "textJp": [
+      "「左様です。",
+      "そのメカニズムは完全には解明されていませんが、精神を守るために脳が行なう防御行動のひとつではないかと考えられています。」"
+    ],
+    "textEn": [
+      "\"Correct.",
+      "The exact mechanism is not fully understood, but it's believed to be a type of defense for the brain to retain mental stability.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Reporter",
+    "labelJp": "リポーター",
+    "textJp": [
+      "「例えば、貧乏な人がお金持ちになった自分を想像するという現実逃避ってありますよね？",
+      "これも多重人格なわけですか？」"
+    ],
+    "textEn": [
+      "\"Hypothetically, poor people imagining themselves as wealthy is a form of escapism, is it not?",
+      "Is this also a form of multiple personality disorder?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Professor",
+    "labelJp": "教授",
+    "textJp": [
+      "「極論はできませんが、広義的にはそう解釈できます。",
+      "つまり誰にでもありえる現象なのです。」"
+    ],
+    "textEn": [
+      "\"I wouldn't go that far, but broadly speaking, one could infer that.",
+      "It's something that occurs in us all.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Reporter",
+    "labelJp": "リポーター",
+    "textJp": [
+      "「その現実逃避の見境がなくなると二重人格になるのですか？」"
+    ],
+    "textEn": [
+      "\"Does a split personality occur when one cannot tell which is reality and which is the escape?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Professor",
+    "labelJp": "教授",
+    "textJp": [
+      "「…ちょっと難しいですね。",
+      "…そう提唱する説もありますし、否定する説もあります。",
+      "諸説紛々です。」"
+    ],
+    "textEn": [
+      "\"...That's difficult to say.",
+      "There are some who agree with that, and some who disagree.",
+      "There is no consensus.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Reporter",
+    "labelJp": "リポーター",
+    "textJp": [
+      "「では精神医学の世界ではまだ、多重人格というのは未知の解明されていない現象なんですか？」"
+    ],
+    "textEn": [
+      "\"Then is the occurrence of multiple personalities still an unknown phenomenon... something not fully comprehended in the psychiatric field?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Professor",
+    "labelJp": "教授",
+    "textJp": [
+      "「残念ながらそうなります。",
+      "今後の研究が期待されます。」"
+    ],
+    "textEn": [
+      "\"Unfortunately, that is the current state of things.",
+      "We can only put our hope in future research.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Reporter",
+    "labelJp": "リポーター",
+    "textJp": [
+      "「でもでも〜、二重人格なんて何だかカッコイイですよね〜！",
+      "どういう人が二重人格になれるんですかぁ？」"
+    ],
+    "textEn": [
+      "\"But, but~ It's sorta cool having a split personality~!",
+      "What kind of people get split personalities?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Professor",
+    "labelJp": "教授",
+    "textJp": [
+      "「なれるといいますか…、なりやすいといいますか…。",
+      "最近の研究では、遺伝と心因が複雑に絡み合い…。"
+    ],
+    "textEn": [
+      "\"Recent studies find that those who develop it... or rather, those who are more susceptible to developing it,",
+      "may be genetically predisposed or may have had abnormal mental development..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Professor",
+    "labelJp": "教授",
+    "textJp": [
+      "中でも幼少期の虐待が大きく作用するのではないかと言われています。」"
+    ],
+    "textEn": [
+      "Some say that childhood abuse increases the chances.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Reporter",
+    "labelJp": "リポーター",
+    "textJp": [
+      "「そう言えば、このＡ君も幼児虐待を受けてるんですよね〜。カワイソ〜…。」"
+    ],
+    "textEn": [
+      "\"Speaking of which, Person A here experienced abuse as a child, didn't he~ How sad~...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Reporter",
+    "labelJp": "リポーター",
+    "textJp": [
+      "「７つの人格を持つ青年Ａ。",
+      "ではＶＴＲの続きをどうぞ。",
+      "…ですがその前にコマーシャル！！」"
+    ],
+    "textEn": [
+      "\"Person A has seven different personalities.",
+      "Let's watch a video of him...",
+      "Right after these commercials!!\""
+    ]
+  }
+]

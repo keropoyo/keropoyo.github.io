@@ -1,0 +1,327 @@
+[
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…圭ちゃんってさ、すごいお金持ちってわけでもないの？」"
+    ],
+    "textEn": [
+      "\"...So Kei-chan, you're not stinking rich?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何だよ、突然。",
+      "…俺がいつリムジンで登校したよ？」"
+    ],
+    "textEn": [
+      "\"What is this all of a sudden?",
+      "Did I come to school in a limo before?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「月の小遣いはいくらもらってる？」"
+    ],
+    "textEn": [
+      "\"How much do you get for a monthly allowance?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「１０００円。」"
+    ],
+    "textEn": [
+      "\"About $10...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あら。結構、小市民的ですのねぇ。」"
+    ],
+    "textEn": [
+      "\"My, that's a rather plebeian amount.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……お弁当のおかずも普通ですよ。",
+      "お金持ちじゃないです。」"
+    ],
+    "textEn": [
+      "\"...His lunch is made up of normal stuff.",
+      "He isn't rich.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "一体の何の話だ？！",
+      "いきなり小遣いの額を聞かれ、それで小市民だの金持ちじゃないだの！"
+    ],
+    "textEn": [
+      "What are they talking about!?",
+      "To be asked out of nowhere how much I get and then told that's a plebeian amount!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはははは。ごめんねごめんね！」"
+    ],
+    "textEn": [
+      "\"Ahahahaha. Sorry, sorry!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の怪訝な表情を悟ったらしく、レナがカラカラと笑った。"
+    ],
+    "textEn": [
+      "Rena seemed to pick up on my dubious expression and started giggling."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃん家ってさ、すっごく大きいでしょ？",
+      "だから建築中から雛見沢中で前原屋敷って呼ばれて注目の的だったんだよ。」"
+    ],
+    "textEn": [
+      "\"Kei-chan... your house, you know... It's pretty big, yeah?",
+      "So the architecture has people all around Hinamizawa calling it the Maebara Manor, and it sorta stands out.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ま、前原屋敷ぃ〜？！"
+    ],
+    "textEn": [
+      "M-Maebara Manor~!?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あんなに大きいお家だから、どんなお金持ちなのかなって、みんなで噂し合ってたの。」"
+    ],
+    "textEn": [
+      "\"Since the house is so big, everybody is gossiping, wondering exactly how rich you are.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あぁなるほど。",
+      "納得。",
+      "……確かに家は図体だけはでかいからな。",
+      "そういう誤解もありえるな。"
+    ],
+    "textEn": [
+      "I see.",
+      "Now I get it.",
+      "...Well, the frame of it is huge.",
+      "I see how it could cause some misunderstandings."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「私の推理では、お家を建てるのにお金をかけ過ぎて、貧乏になってしまったと考えてますのよ〜！」"
+    ],
+    "textEn": [
+      "\"From my deduction, I wager they spent too much money on building the house, and that is why they are now broke~!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……貧乏でかわいそかわいそです。」"
+    ],
+    "textEn": [
+      "\"...Being broke, how very, very unfortunate.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…梨花ちゃんが哀れみながら俺の頭をなでなでしてくれる。",
+      "金持ち扱いから瞬時に貧乏人扱いかよ…。"
+    ],
+    "textEn": [
+      "...Rika-chan took pity on me as she patted my head.",
+      "I go from being treated like a millionaire to a beggar..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あー、諸君らの楽しい想像をぶち壊すようで悪いが、うちは金持ちでも貧乏でもないぞ。",
+      "極めて平均的な普通の家庭だ。」"
+    ],
+    "textEn": [
+      "\"Yeah, sorry for ruining your imagination, but we aren't millionaires or poor.",
+      "We're the image of a normal, average household.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あれだけ大きな家は普通とは言わないって！",
+      "しかも玄関は立派で、門は大型車も入れるようになってるし！！",
+      "絶対、普通じゃないって！」"
+    ],
+    "textEn": [
+      "\"You can't call it normal with that huge house!",
+      "The entranceway is all grand, and the gate is large enough for a large truck to get through!!",
+      "That's not normal at all!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "家のでかさが裕福さの尺度だとでも言わんばかりだな。",
+      "我が家がやたらとでかいのは、親父のアトリエを含むからだ。",
+      "作業場はいくつもあるし、過去の作品があちこちに飾られ…。",
+      "しかもサイズはどれもデカイ。",
+      "そんなこんなで、家族が生活する部分はせいぜい全体の三分の一ってところか。",
+      "将来、自宅で個展を開くことも考えての設計なので、人や車の出入りに気遣ったものになっているのだ。",
+      "……ちなみに魅音が立派な玄関と言ってるのはこのアトリエ側の玄関で、普段は締め切られている。",
+      "実際に前原家が使用している玄関はごくごく平均的な、ささやかなものなのだ。",
+      "見かけと中身は大違い、ってことだな。"
+    ],
+    "textEn": [
+      "They do say the bigger your house, the more prosperous you are.",
+      "The reason the house is so big is because Dad's studio is in it, too.",
+      "There are a bunch of different workshops, and lots of his works are hung up in different places.",
+      "All of them are huge, too.",
+      "For those reasons, the family actually uses only a third of the house for day-to-day living.",
+      "He planned it out so people and cars could come in to see the gallery he opens up in the house someday.",
+      "...By the way, the entranceway Mion is talking about is the one for the studio, and is normally sealed off.",
+      "The entranceway the Maebara family actually uses is a very plain and simple one.",
+      "The interior is much different from how it looks on the outside."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ぜひ今度、圭ちゃんの家を探検してみたいよなぁ。",
+      "…お金持ちじゃないと主張しながらもあの邸宅！！",
+      "一体何が隠されているのか！！」"
+    ],
+    "textEn": [
+      "\"I'd really like a chance to explore Kei-chan's house...",
+      "Claiming not to be rich, but having a home like that!!",
+      "What could be hidden there!?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「か、かぁいいものが隠されてるといいなぁ！　はぅ〜！」"
+    ],
+    "textEn": [
+      "\"M-Maybe there's something kyute hidden! Hau~!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「きっと家具を買うお金もなくなってて、殺風景な部屋がいっぱいなのですわ！」"
+    ],
+    "textEn": [
+      "\"They probably had no money to purchase furniture, so it's filled with spartan rooms!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……絨毯のお部屋なら、ぜひごろごろしてみたいですよ。」"
+    ],
+    "textEn": [
+      "\"...If there are carpeted rooms, I would love to try rolling around on the floor.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「わぁぁ〜！　それいいねそれいいね！　レナもごろごろしたい〜！」"
+    ],
+    "textEn": [
+      "\"Waa~! That'd be great, so great! I want to roll around, too~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…なんか楽しそうに想像が膨らんでいってるな…。",
+      "でもまぁ。…遠くない将来、みんなを自宅に招待してもいいかもな。",
+      "…親父は女の子には甘いから、アトリエの見学を許してくれるかもしれない。",
+      "セミの声はいよいよ賑やかで、空はどこまでも高い。",
+      "暑いけど澄んだ、初夏の匂いがした。"
+    ],
+    "textEn": [
+      "...Seems like their imaginations were just piling on...",
+      "Well... Sometime in the near future, it wouldn't be too bad to invite them all to my house.",
+      "...Dad is a sucker for the ladies, so he might even let them look around his studio.",
+      "The cry of the higurashi crescendoed, as the sky towered over everything.",
+      "It was hot but the air was clear. It smelled like the beginning of summer."
+    ]
+  }
+]

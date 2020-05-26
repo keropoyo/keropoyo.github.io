@@ -1,0 +1,1130 @@
+[
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "ごめん。",
+      "今日はさ、急に叔父さんの店のバイトが入っちゃってさ。」"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Sorry.",
+      "I suddenly got called in to my part-time job at my uncle's shop today.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なんだなんだ。",
+      "じゃあ今日の部活はお流れってわけか。」"
+    ],
+    "textEn": [
+      "\"What's that?",
+      "No club today then?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「いやぁ、あっはっは、申し訳ない…！」"
+    ],
+    "textEn": [
+      "\"Well, ah-ha-ha, I'm sorry...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は拝むように両手を合わせると、にやっと笑ってみせる。"
+    ],
+    "textEn": [
+      "Mion put her hands together in apology and grinned."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そんなに部活がやりたかったら、おじさん抜きでやってもいいけど？",
+      "部活ロッカーにゲームがいっぱい入ってるからさ。",
+      "どれか適当に選んで。」"
+    ],
+    "textEn": [
+      "\"If you really want to do club today, then you can always do it without this old man.",
+      "The club locker is stuffed full with games.",
+      "You can pick whatever.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "部活ロッカーってのは、いつも部活の時に魅音がゲームを引っ張り出してくるあの四次元ロッカーのことだ。",
+      "あの、清掃用具入れよりもさらに一回り小さいロッカーの中に、どうしてあれだけのたくさんのゲームが詰め込めるのだろう…。",
+      "のみならず、罰ゲーム用の怪しげなアイテム（衣装？）までたくさんたくさん…！",
+      "整理するために床に並べたら、きっと教室の床中が埋まるに違いない。"
+    ],
+    "textEn": [
+      "The club locker was the transdimensional space from which Mion pulled games whenever we met for club activities.",
+      "I wondered how so many freaking games could be stored in the locker—it was even smaller than the one with the cleaning supplies in it...",
+      "Besides those games, it was also a cornucopia of suspicious objects (costumes?) for punishment games...!",
+      "If we lined them all up on the floor in order to sort them, they would definitely fill the entire classroom."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……やめとく。",
+      "俺がいじったら、ロッカーの中身がドサドサーッて溢れてきそうな気がするよ。」"
+    ],
+    "textEn": [
+      "\"...Nah, we shouldn't.",
+      "I get the feeling that if I mess around in that locker, everything inside will come tumbling down on me.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あっはっはっは！",
+      "う〜ん、そうだねぇ。",
+      "素人は手を出さない方が無難かもしれない。くっくっく！」"
+    ],
+    "textEn": [
+      "\"Ah-ha-ha-ha!",
+      "Yeah, I guess you're right.",
+      "Maybe amateurs shouldn't meddle with this. He-he-he!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は、それが出来るのが部長の所以だとでも言わんばかりに大笑いした。"
+    ],
+    "textEn": [
+      "Mion gave a hearty laugh, implying that the only one who could do so was the club president."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃ。",
+      "先生が体育倉庫のカギを探してますですよ。",
+      "心当たりはありませんですか？」"
+    ],
+    "textEn": [
+      "\"......Mii.",
+      "The teacher is looking for the key to the gym storehouse.",
+      "Do you have any idea where it could be?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「はれ？",
+      "…私、職員室に返さなかったっけ？」"
+    ],
+    "textEn": [
+      "\"Eh?",
+      "...Did I not return it to the teachers' lounge?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう言いながらごそごそとポケットをまさぐる魅音。",
+      "……表情から察するに、職員室に返したつもりでいるものは、どうやらそこに納まっているらしい。"
+    ],
+    "textEn": [
+      "Mion said, feeling about in her pocket.",
+      "...Judging by her expression, she must have planned on returning it, but it was still in her pocket."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ほぅらやっぱり魅音さんですのよ〜！",
+      "私、絶対絶対ぜーったいそうだと確信してたでございますわー！」"
+    ],
+    "textEn": [
+      "\"I knew you had it, Mion-san~!",
+      "I knew beyond a shadow of a doubt that you simply must have been the one who had it!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクも大正解なのですよ。",
+      "沙都子と一緒に大正解なのです。」"
+    ],
+    "textEn": [
+      "\"......I was right, too.",
+      "Satoko and I were both right.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "きゃっきゃと手を打ち合わせて沙都子と梨花ちゃんが喜び合っている。"
+    ],
+    "textEn": [
+      "Giggling, Satoko and Rika-chan clapped their hands together in celebration."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「やかましい！」"
+    ],
+    "textEn": [
+      "\"You're annoying!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ガスン！　ゴスン！",
+      "沙都子と梨花ちゃんの頭に肘を叩き込むと、魅音は職員室へ向かっていった。"
+    ],
+    "textEn": [
+      "Slap! Clap!",
+      "Mion elbowed Satoko and Rika-chan in their heads, then headed for the teachers' lounge."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あ、そうだ。",
+      "二人とも聞いたか？",
+      "今日は魅音、バイトがあるから部活はお休みだとさ。」"
+    ],
+    "textEn": [
+      "\"Oh, right.",
+      "Have you two heard?",
+      "Mion has a part-time job, and that's why she's not coming to the club.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あら、そうなんですの？！",
+      "それはつまらないでございますわね。」"
+    ],
+    "textEn": [
+      "\"Oh, is that so?!",
+      "That's so very droll of her.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みぃ。」"
+    ],
+    "textEn": [
+      "\"......Meep.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "二人ともつまらなさそうな顔をする。",
+      "…何だかんだ言っても、魅音の部活は学校に来る一番の楽しみなんだよな。",
+      "それがお流れになるとわかったら、そりゃー憂鬱になるのも頷ける。"
+    ],
+    "textEn": [
+      "The two of them made disappointed faces.",
+      "...Whatever anyone said, Mion's club was always the number one thing I looked forward to when going to school.",
+      "It wasn't hard to agree with their melancholic expressions after hearing it wouldn't be happening today."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「魅音ってバイトをやってるんだよな。",
+      "…あいつ、一体何のバイトをしてるんだ？」"
+    ],
+    "textEn": [
+      "\"So Mion's got a part-time job.",
+      "...I wonder what she's doing, anyway?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が部活を中止する時は大抵、バイトが理由だ。",
+      "だが、毎日通っているにようには見えないよな。",
+      "２〜３日、連続で行く時もあれば、全然行かない時もある。",
+      "…そんないい加減なアルバイトなんてあるんだろうか？"
+    ],
+    "textEn": [
+      "Whenever Mion cancelled club, it was usually because of her job.",
+      "However, it also didn't seem like she went there every day.",
+      "She would go two or three days in a row, then not go at all for a while.",
+      "...It sounded like a pretty damn random part-time job."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……別に、決まったお店でお勤めをしてるわけではないのです。」"
+    ],
+    "textEn": [
+      "\"......She isn't working at any one shop or anything.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「決まってないってことは…、じゃあ日雇いってことなのか？」"
+    ],
+    "textEn": [
+      "\"She isn't? ...Then does that mean she's a day laborer?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が足袋にヘルメットで、工事現場で汗だくになって……。",
+      "…想像がつかん。"
+    ],
+    "textEn": [
+      "Mion, wearing socks and a helmet, sweating to death in a factory...",
+      "...I couldn't imagine such a thing."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「魅音さんは叔父さんの店にお休みが出たりすると応援に駆けつける、便利屋さんなんだそうですわ。」"
+    ],
+    "textEn": [
+      "\"Mion-san helps her uncles out whenever their employees go on vacations. She's like a handyman.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あー…、なるほどな。",
+      "そう言えば、叔父さんのとこでバイトなんて話。",
+      "前にも聞いたことがあるような気がする。」"
+    ],
+    "textEn": [
+      "\"Ah... I get it.",
+      "Now that you mention it, her having a job at her uncle's place...",
+      "I think I've heard about that before.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……お店を持ってる叔父さんがいっぱいいるので、魅ぃは引っ張り凧なのです。」"
+    ],
+    "textEn": [
+      "\"......She has a lot of uncles who run their own shops, so Mii is in very high demand.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お店を持ってる叔父さんがいっぱい？",
+      "いっぱいいるのか？"
+    ],
+    "textEn": [
+      "She has a lot of uncles who own shops?",
+      "A lot of them?"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あら、圭一さんはご存知ありませんの？",
+      "興宮には魅音さんの親戚の方がやってるお店って結構いっぱいありますのよ？」"
+    ],
+    "textEn": [
+      "\"Oh, you were unaware, Keiichi-san?",
+      "There are many relatives of Mion-san's in Okinomiya who run their own stores.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「へー…。",
+      "そりゃ知らなかった。",
+      "…そんなにいろいろあるのか？」"
+    ],
+    "textEn": [
+      "\"Huh...",
+      "I didn't know that.",
+      "...So, they're all different kinds?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「えぇ。",
+      "パン屋さんとか八百屋さんとかラーメン屋さんとか。",
+      "他にもまだまだ。",
+      "あの部活をやったおもちゃ屋さんもそうなんですのよ。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "There's a bakery, a produce market, a ramen shop,",
+      "and many others besides.",
+      "That toy store we went to for the club the other day is one of them.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ちょっと絶句。",
+      "……それは…すごいな！"
+    ],
+    "textEn": [
+      "I was dumbfounded.",
+      "...That's... amazing!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…魅音の一族って何気に商才があるんじゃないのか？",
+      "それだけいろいろあるってのも何だかすごいよな！」"
+    ],
+    "textEn": [
+      "\"...Is Mion's family blessed with some kind of crazy business sense?",
+      "They run so many different things, it's kind of amazing!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……他にも、金融業とか、不動産業とか、アパレル産業とか、アミューズメント産業とか。",
+      "いろいろやってると言ってますです。」"
+    ],
+    "textEn": [
+      "\"...There are others, like a financial business, a real estate agent, an apparel business, and in the amusement industry.",
+      "I heard they do lots of things.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あいつに物を借りると、妙に返却期限にうるさいのは、金融業者さんの血が流れてるからかー。",
+      "納得納得！」"
+    ],
+    "textEn": [
+      "\"So the reason she's so fussy about the return date of things she lends out is because the blood of a financier runs through her veins, huh?",
+      "That explains that!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃに百億兆者ゲームを借りたことをコロリと忘れてしまったら、",
+      "リアルで百億兆者ゲームをプレイさせたるどーと凄まれましたのです。」"
+    ],
+    "textEn": [
+      "\"......Once, I completely forgot to give Mii back the Billionaire game I borrowed from her,",
+      "and she threatened to force me to play a real-life Billionaire game.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………梨花ちゃんがリアル百億兆者ゲームをプレイ…。",
+      "……したたかにＩＴ長者にでもなっていそうな気がするけど……。"
+    ],
+    "textEn": [
+      "...Rika-chan playing a real-life Billionaire game...",
+      "...I get the feeling she'd claw her way up to a position as an IT billionaire..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「リアルに百億兆者ゲームをプレイなんて、なかなかに愉快そうですわね〜！」"
+    ],
+    "textEn": [
+      "\"Getting to play Billionaire for real does sound rather thrilling~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……もっとも。",
+      "…こいつの場合、人から恨みつらみを重ねてとんでもねー目にあいそうだけど。",
+      "まぁ、それはそれで沙都子らしくていいかもな。"
+    ],
+    "textEn": [
+      "...Satoko, huh?",
+      "...She'd probably end up amassing grudges and bitterness from people before meeting her demise.",
+      "Well, that would seem fitting for her."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……他にも、サラ金屋さんとか、地上げ屋さんとか、イメクラ屋さんとか、ソープランド屋さんとか。",
+      "いろいろやってると言ってますです。」"
+    ],
+    "textEn": [
+      "\"...There are others, like a loan shark, a land shark, a strip club, and a brothel.",
+      "What I'm saying is they do lots of things.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あいつに小銭を借りると、妙に返却期限にうるさいのは、サラ金屋の血が流れてるからかー。",
+      "納得納得！」"
+    ],
+    "textEn": [
+      "\"So the reason she's so fussy about returning money she lent you is because the blood of loan sharks runs through her veins, huh?",
+      "That explains that!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃにお買い物代を借りたことをコロリと忘れてしまったら、"
+    ],
+    "textEn": [
+      "\"......Once, I completely forgot to pay Mii back for money she gave me to go shopping,"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "耳を揃えて返さんと身売りして風呂に沈めたるどーと凄まれましたのです。」",
+      "………梨花ちゃんが借金のかたに特殊な風俗業界に身売り…。",
+      "……あ、やべ、…鼻血〜☆"
+    ],
+    "textEn": [
+      "and she threatened me, saying that if I didn't return it all, she'd throw me into the red-light district and that would be the end of me.\"",
+      "...Rika-chan being sold into the entertainment industry to pay off her debts...",
+      "...Ah, crap... my nosebleed~☆"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「お風呂に沈められて溺れ死ぬなんて、おマヌケにもほどがありますわね〜！」"
+    ],
+    "textEn": [
+      "\"Dying by being thrown on the ground must be the silliest form of death I've ever heard of~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……は？",
+      "…こいつ、よく意味がわかってないな…？",
+      "今どきなかなか初々しいヤツ。",
+      "何だか妙なのも飛び出してきたが、まぁとにかく！",
+      "手広いのはよくわかった。"
+    ],
+    "textEn": [
+      "...Huh?",
+      "...She doesn't really get it, does she...?",
+      "Recently, she's seemed so... unspoiled.",
+      "Okay, a couple of weird things came up that time, but still!",
+      "I could tell it was pretty extensive."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……他にも、金融業とか、不動産業とか、アパレル産業とか、アミューズメント産業とか。",
+      "いろいろやってると言ってますです。」"
+    ],
+    "textEn": [
+      "\"...There are others, like a financial business, a real estate agent, an apparel business, and in the amusement industry.",
+      "I heard they do lots of things.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あいつに物を借りると、妙に返却期限にうるさいのは、金融業者さんの血が流れてるからかー。",
+      "納得納得！」"
+    ],
+    "textEn": [
+      "\"So the reason she's so fussy about the return date of things she lends out is because the blood of a financier runs through her veins, huh?",
+      "That explains that!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃに百億兆者ゲームを借りたことをコロリと忘れてしまったら、",
+      "リアルで百億兆者ゲームをプレイさせたるどーと凄まれましたのです。」"
+    ],
+    "textEn": [
+      "\"......Once, I completely forgot to give Mii back the Billionaire game I borrowed from her,",
+      "and she threatened to force me to play a real-life Billionaire game.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………梨花ちゃんがリアル百億兆者ゲームをプレイ…。",
+      "……したたかにＩＴ長者にでもなっていそうな気がするけど……。"
+    ],
+    "textEn": [
+      "...Rika-chan playing a real-life Billionaire game...",
+      "...I get the feeling she'd claw her way up to a position as an IT billionaire..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「リアルに百億兆者ゲームをプレイなんて、なかなかに愉快そうですわね〜！」"
+    ],
+    "textEn": [
+      "\"Getting to play Billionaire for real does sound rather thrilling~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……もっとも。",
+      "…こいつの場合、人から恨みつらみを重ねてとんでもねー目にあいそうだけど。",
+      "まぁ、それはそれで沙都子らしくていいかもな。"
+    ],
+    "textEn": [
+      "...Satoko, huh?",
+      "...She'd probably end up amassing grudges and bitterness from people before meeting her demise.",
+      "Well, that would seem fitting for her."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……他にも、サラ金屋さんとか、地上げ屋さんとか、イメクラ屋さんとか、ソープランド屋さんとか。",
+      "いろいろやってると言ってますです。」"
+    ],
+    "textEn": [
+      "\"...There are others, like a loan shark, a land shark, a strip club, and a brothel.",
+      "What I'm saying is they do lots of things.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あいつに小銭を借りると、妙に返却期限にうるさいのは、サラ金屋の血が流れてるからかー。",
+      "納得納得！」"
+    ],
+    "textEn": [
+      "\"So the reason she's so fussy about returning money she lent you is because the blood of loan sharks runs through her veins, huh?",
+      "That explains that!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃにお買い物代を借りたことをコロリと忘れてしまったら、"
+    ],
+    "textEn": [
+      "\"......Once, I completely forgot to pay Mii back for money she gave me to go shopping,"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "耳を揃えて返さんと身売りして風呂に沈めたるどーと凄まれましたのです。」",
+      "………梨花ちゃんが借金のかたに特殊な風俗業界に身売り…。",
+      "……あ、やべ、…鼻血〜☆"
+    ],
+    "textEn": [
+      "and she threatened me, saying that if I didn't return it all, she'd throw me into the red-light district and that would be the end of me.\"",
+      "...Rika-chan being sold into the entertainment industry to pay off her debts...",
+      "...Ah, crap... my nosebleed~☆"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「お風呂に沈められて溺れ死ぬなんて、おマヌケにもほどがありますわね〜！」"
+    ],
+    "textEn": [
+      "\"Dying by being thrown on the ground must be the silliest form of death I've ever heard of~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……は？",
+      "…こいつ、よく意味がわかってないな…？",
+      "今どきなかなか初々しいヤツ。"
+    ],
+    "textEn": [
+      "...Huh?",
+      "...She doesn't really get it, does she...?",
+      "Recently, she's seemed so... unspoiled."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……他にも、金融業とか、不動産業とか、アパレル産業とか、アミューズメント産業とか。",
+      "いろいろやってると言ってますです。」"
+    ],
+    "textEn": [
+      "\"...There are others, like a financial business, a real estate agent, an apparel business, and in the amusement industry.",
+      "I heard they do lots of things.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あいつに物を借りると、妙に返却期限にうるさいのは、金融業者さんの血が流れてるからかー。",
+      "納得納得！」"
+    ],
+    "textEn": [
+      "\"So the reason she's so fussy about the return date of things she lends out is because the blood of a financier runs through her veins, huh?",
+      "That explains that!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃに百億兆者ゲームを借りたことをコロリと忘れてしまったら、",
+      "リアルで百億兆者ゲームをプレイさせたるどーと凄まれましたのです。」"
+    ],
+    "textEn": [
+      "\"......Once, I completely forgot to give Mii back the Billionaire game I borrowed from her,",
+      "and she threatened to force me to play a real-life Billionaire game.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………梨花ちゃんがリアル百億兆者ゲームをプレイ…。",
+      "……したたかにＩＴ長者にでもなっていそうな気がするけど……。"
+    ],
+    "textEn": [
+      "...Rika-chan playing a real-life Billionaire game...",
+      "...I get the feeling she'd claw her way up to a position as an IT billionaire..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「リアルに百億兆者ゲームをプレイなんて、なかなかに愉快そうですわね〜！」"
+    ],
+    "textEn": [
+      "\"Getting to play Billionaire for real does sound rather thrilling~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……もっとも。",
+      "…こいつの場合、人から恨みつらみを重ねてとんでもねー目にあいそうだけど。",
+      "まぁ、それはそれで沙都子らしくていいかもな。"
+    ],
+    "textEn": [
+      "...Satoko, huh?",
+      "...She'd probably end up amassing grudges and bitterness from people before meeting her demise.",
+      "Well, that would seem fitting for her."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……他にも、サラ金屋さんとか、地上げ屋さんとか、イメクラ屋さんとか、ソープランド屋さんとか。",
+      "いろいろやってると言ってますです。」"
+    ],
+    "textEn": [
+      "\"...There are others, like a loan shark, a land shark, a strip club, and a brothel.",
+      "What I'm saying is they do lots of things.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あいつに小銭を借りると、妙に返却期限にうるさいのは、サラ金屋の血が流れてるからかー。",
+      "納得納得！」"
+    ],
+    "textEn": [
+      "\"So the reason she's so fussy about returning money she lent you is because the blood of loan sharks runs through her veins, huh?",
+      "That explains that!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃにお買い物代を借りたことをコロリと忘れてしまったら、"
+    ],
+    "textEn": [
+      "\"......Once, I completely forgot to pay Mii back for money she gave me to go shopping,"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "耳を揃えて返さんと身売りして風呂に沈めたるどーと凄まれましたのです。」",
+      "………梨花ちゃんが借金のかたに特殊な風俗業界に身売り…。",
+      "……あ、やべ、…鼻血〜☆"
+    ],
+    "textEn": [
+      "and she threatened me, saying that if I didn't return it all, she'd throw me into the red-light district and that would be the end of me.\"",
+      "...Rika-chan being sold into the entertainment industry to pay off her debts...",
+      "...Ah, crap... my nosebleed~☆"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「お風呂に沈められて溺れ死ぬなんて、おマヌケにもほどがありますわね〜！」"
+    ],
+    "textEn": [
+      "\"Dying by being thrown on the ground must be the silliest form of death I've ever heard of~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……は？",
+      "…こいつ、よく意味がわかってないな…？",
+      "今どきなかなか初々しいヤツ。"
+    ],
+    "textEn": [
+      "...Huh?",
+      "...She doesn't really get it, does she...?",
+      "Recently, she's seemed so... unspoiled."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……他にも、金融業とか、不動産業とか、アパレル産業とか、アミューズメント産業とか。",
+      "いろいろやってると言ってますです。」"
+    ],
+    "textEn": [
+      "\"...There are others, like a financial business, a real estate agent, an apparel business, and in the amusement industry.",
+      "I heard they do lots of things.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あいつに物を借りると、妙に返却期限にうるさいのは、金融業者さんの血が流れてるからかー。",
+      "納得納得！」"
+    ],
+    "textEn": [
+      "\"So the reason she's so fussy about the return date of things she lends out is because the blood of a financier runs through her veins, huh?",
+      "That explains that!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃに百億兆者ゲームを借りたことをコロリと忘れてしまったら、",
+      "リアルで百億兆者ゲームをプレイさせたるどーと凄まれましたのです。」"
+    ],
+    "textEn": [
+      "\"......Once, I completely forgot to give Mii back the Billionaire game I borrowed from her,",
+      "and she threatened to force me to play a real-life Billionaire game.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………梨花ちゃんがリアル百億兆者ゲームをプレイ…。",
+      "……したたかにＩＴ長者にでもなっていそうな気がするけど……。"
+    ],
+    "textEn": [
+      "...Rika-chan playing a real-life Billionaire game...",
+      "...I get the feeling she'd claw her way up to a position as an IT billionaire..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「リアルに百億兆者ゲームをプレイなんて、なかなかに愉快そうですわね〜！」"
+    ],
+    "textEn": [
+      "\"Getting to play Billionaire for real does sound rather thrilling~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……もっとも。",
+      "…こいつの場合、人から恨みつらみを重ねてとんでもねー目にあいそうだけど。",
+      "まぁ、それはそれで沙都子らしくていいかもな。"
+    ],
+    "textEn": [
+      "...Satoko, huh?",
+      "...She'd probably end up amassing grudges and bitterness from people before meeting her demise.",
+      "Well, that would seem fitting for her."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……他にも、サラ金屋さんとか、地上げ屋さんとか、イメクラ屋さんとか、ソープランド屋さんとか。",
+      "いろいろやってると言ってますです。」"
+    ],
+    "textEn": [
+      "\"...There are others, like a loan shark, a land shark, a strip club, and a brothel.",
+      "What I'm saying is they do lots of things.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あいつに小銭を借りると、妙に返却期限にうるさいのは、サラ金屋の血が流れてるからかー。",
+      "納得納得！」"
+    ],
+    "textEn": [
+      "\"So the reason she's so fussy about returning money she lent you is because the blood of loan sharks runs through her veins, huh?",
+      "That explains that!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃにお買い物代を借りたことをコロリと忘れてしまったら、"
+    ],
+    "textEn": [
+      "\"......Once, I completely forgot to pay Mii back for money she gave me to go shopping,"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "耳を揃えて返さんと身売りして風呂に沈めたるどーと凄まれましたのです。」",
+      "………梨花ちゃんが借金のかたに特殊な風俗業界に身売り…。",
+      "……あ、やべ、…鼻血〜☆"
+    ],
+    "textEn": [
+      "and she threatened me, saying that if I didn't return it all, she'd throw me into the red-light district and that would be the end of me.\"",
+      "...Rika-chan being sold into the entertainment industry to pay off her debts...",
+      "...Ah, crap... my nosebleed~☆"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「お風呂に沈められて溺れ死ぬなんて、おマヌケにもほどがありますわね〜！」"
+    ],
+    "textEn": [
+      "\"Dying by being thrown on the ground must be the silliest form of death I've ever heard of~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……は？",
+      "…こいつ、よく意味がわかってないな…？",
+      "今どきなかなか初々しいヤツ。",
+      "俺と梨花ちゃんが沙都子の頭をなでなでしてやる。"
+    ],
+    "textEn": [
+      "...Huh?",
+      "...She doesn't really get it, does she...?",
+      "Recently, she's seemed so... unspoiled.",
+      "Rika-chan and I gave her a pat on the head."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…？！",
+      "…な、なぜ撫でられるんですの？！　…？！」"
+    ],
+    "textEn": [
+      "\"...!?",
+      "...W-Why are you petting me!? ...!?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子はいい子さんですから、なでなでなのです。」"
+    ],
+    "textEn": [
+      "\"......We're petting you because you're a good girl, Satoko.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子は意味がわからずうろたえていたが、馬鹿にされたことだけは理解しているようだった。"
+    ],
+    "textEn": [
+      "Satoko was lost in confusion, but she seemed to understand she was being made fun of."
+    ]
+  }
+]

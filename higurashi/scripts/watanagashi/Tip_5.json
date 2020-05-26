@@ -1,0 +1,726 @@
+[
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「ンで俺たちが逮捕されなきゃなんねぇんだらぁあぁッ！！！」"
+    ],
+    "textEn": [
+      "\"Just why ya arrestin' us?!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「すッとらってンじゃぇえよ！！",
+      "離さんかいごらあッ！！！」"
+    ],
+    "textEn": [
+      "\"Bullshit!!",
+      "Leggo a me!!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「熊ちゃん、腕を放してあげていいですよ。",
+      "さささ、どうぞおかけになって。」"
+    ],
+    "textEn": [
+      "\"Kuma-chan, you can let go of their arms now.",
+      "Here, please, sit down.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "熊谷くんたちがが相当キツく腕を締め上げていたらしく、３人は痛そうに腕をさすっている。"
+    ],
+    "textEn": [
+      "The three people rubbed their arms painfully - Kumatani-kun and the others must have been squeezing them pretty tightly."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっは…。",
+      "お兄さんたち、誤解しないで下さいよ？",
+      "別に逮捕したわけじゃないんだから。",
+      "熊ちゃん。",
+      "冷蔵庫から冷たいの出してあげて下さい。",
+      "お兄さんたちは泡の出る麦茶と出ない麦茶、どっちがいいです？",
+      "んん？」"
+    ],
+    "textEn": [
+      "\"Na-ha-ha-ha...",
+      "Don't get me wrong.",
+      "I haven't arrested you or anything.",
+      "Kuma-chan.",
+      "Go get me something cold from the fridge, please.",
+      "Would you like your barley with foam or without?",
+      "Hmm?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "応接用のソファーにどっかりと座り、怒鳴りこそしないものの、相変わらずの険しい表情だ。",
+      "…う〜ん、若さが羨ましい。"
+    ],
+    "textEn": [
+      "They plunked down onto the reception sofa, and despite not yelling anymore, they still had dangerous expressions.",
+      "...Mmm, what I'd give to be young again."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「飲まないなら私、勝手に飲んじゃいますよ？",
+      "失礼して、プシッと。",
+      "……ん〜〜〜！！！",
+      "勤務中に飲むビールが一番おいしいですねぇ〜！」"
+    ],
+    "textEn": [
+      "\"I'll drink even if you don't, you know.",
+      "Excuse me for helping myself.",
+      "......Mmmm~~~!!!",
+      "Beer is best when you drink it on the job~!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ビールをうまそうに飲んでみせると、顔を見合わせ、ようやく缶に手を伸ばしてくれた。",
+      "…警戒は解かないが、さしあたって断る理由も見当たらないという感じだ。",
+      "３人がそれぞれ缶を開け、中身を口にし始める。"
+    ],
+    "textEn": [
+      "As he downed the beer with glee, the three people exchanged glances, then finally reached out for their cans.",
+      "...They hadn't stopped being cautious—it was more like they didn't see a reason to refuse.",
+      "They each opened their cans and began to drink the contents."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「お兄さんたちはどっから来たんです？",
+      "ここいらの人じゃないでしょ。",
+      "んっふっふっふ！」"
+    ],
+    "textEn": [
+      "\"Where did you guys come from?",
+      "You're not from around here.",
+      "Nfu-fu-fu-fu!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "顔を見合わせ、言うべきかどうか訝しそうな顔をする。"
+    ],
+    "textEn": [
+      "They looked at each other again, suspicious of whether they should tell him."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「お兄さんたち、大学生？",
+      "お友達同士？",
+      "バイクか何かで旅行中だったんでしょうかねぇ。",
+      "羨ましいなぁ！」"
+    ],
+    "textEn": [
+      "\"Are you all college students?",
+      "Friends on a trip?",
+      "You were probably travelling on bikes or something.",
+      "Sounds like fun I wish I was having!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「家は近くってわけじゃないんでしょ。",
+      "どこから来たの。",
+      "大阪ですかな？」"
+    ],
+    "textEn": [
+      "\"You don't live close by, do you?",
+      "Where did you come from?",
+      "Osaka, perhaps?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「ンなの、どこでもいいだろ。」"
+    ],
+    "textEn": [
+      "\"Whassit matter to ya?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「まぁまぁ、そう凄まないで。",
+      "あのままいたら、お兄さん方だってヤバかったでしょ？」"
+    ],
+    "textEn": [
+      "\"Now, now, there's no use trying to intimidate me.",
+      "You would have all been in a lot of trouble if I'd left you there, right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "先ほどの、刺激の強かった出来事をめいめいに思い出しているようだ。",
+      "…学生とか不良グループとか、そういうのに囲まれるなら理解もできるだろうが。",
+      "…老若男女取り混ぜての、地域の人間たちに囲まれるって経験はなかなかないはず。",
+      "それはきっと、かなり怖かったことだろうと容易に想像がつく。"
+    ],
+    "textEn": [
+      "They seemed to recall the thrilling event from earlier.",
+      "...While they could understand getting surrounded by students, or a gang, or something along those lines...",
+      "...They would never have been surrounded by locals both young and old, both men and women before.",
+      "It was easy to imagine how scared they must have been."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ここいらの人間なら、どんな間違いがあっても雛見沢の人間には手出ししないですよ。",
+      "……あそこの連中は特殊なんです。"
+    ],
+    "textEn": [
+      "\"If you were from here, the people of Hinamizawa wouldn't have done anything to you, no matter what you had done wrong.",
+      "......They're all special."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "子供の喧嘩に親は出てくるな、なんてモンじゃない。",
+      "……１人をいじめたら、それこそ村中が総出でやってきますよ。",
+      "いやホント、脅しでもなんでもなく。」"
+    ],
+    "textEn": [
+      "Not in the sense of parents not wanting to get involved in their children's fights.",
+      "...If one person gets bullied, the village will come out in full force.",
+      "That's not just an idle threat, you know.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "反論はない。",
+      "…実際に目にし、囲まれたのだから疑いようはない。"
+    ],
+    "textEn": [
+      "They couldn't argue against that.",
+      "...They themselves had been surrounded. They'd seen it with their own eyes. There was no doubt about it."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ここいらじゃあね。",
+      "雛見沢の人間に睨まれたら、あっさり「鬼隠し」にあって消えちまうんです。",
+      "もう跡形もなく忽然と。"
+    ],
+    "textEn": [
+      "\"Around these parts...",
+      "If the people of Hinamizawa give you a glare like that, you'll simply get demoned away and no one will hear from you again.",
+      "You'll suddenly disappear without a trace."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…兄さん方、行方不明になったら誰か捜索願いを出してくれるご家族はいます？",
+      "いないならまずいな。",
+      "蒸発扱いですよ。",
+      "んっふっふっふ！」"
+    ],
+    "textEn": [
+      "...Do you all have families that would get the police to search for you if you went missing?",
+      "If not, then that's bad.",
+      "You'll vanish, and that'll be the end of it.",
+      "Nfu-fu-fu-fu!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "さっきだって、私たちがいいタイミングで来たから事無きを得たが、もうちょっと遅れてたらまずかったかもしれない。",
+      "路地裏なんかに引き込まれてたら、…今頃このお兄さんたちはソファーじゃなく、検死室にいたかもしれないですしね。",
+      "…んっふっふ！　なんちゃって…。",
+      "まぁ何しろ。",
+      "…死体が見つかる内は、まだかわいいかもしれないなぁ。"
+    ],
+    "textEn": [
+      "Even then, we got there soon enough that nothing happened. If we'd been late, things could have taken a turn for the worse.",
+      "If they'd been forced into an alleyway... these young men wouldn't be sitting on a couch right now, they might be lying on an autopsy table.",
+      "...Nfu-fu-fu! Well, probably not...",
+      "Anyway.",
+      "...Perhaps they'd be a little more cooperative if we'd found them as corpses."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…お兄さん方、興宮へは何で来たの？",
+      "電車？",
+      "バイク？」"
+    ],
+    "textEn": [
+      "\"...How did you all get to Okinomiya?",
+      "By train?",
+      "By bike?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「……バイク。」"
+    ],
+    "textEn": [
+      "\"...Bike.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「そりゃまずいな。",
+      "さっきのとこにまだ停めっぱなしなんでしょ？",
+      "あんたら、ノコノコとバイクを取りに戻ったら、今度こそ袋叩きにあいますよ。」"
+    ],
+    "textEn": [
+      "\"That's not good.",
+      "They're still parked there, aren't they?",
+      "If you go waltzing in to get them back, they really might gang up on you.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「な、……何だよそれ！！",
+      "上等じゃねぇかよぉおおぉッ！！！」"
+    ],
+    "textEn": [
+      "\"......Hellsat?",
+      "We'll take'em all!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "落ち着いて落ち着いて…。",
+      "何ですぐ叫ぶんですかね、最近の若者は…。"
+    ],
+    "textEn": [
+      "Calm down, calm down...",
+      "Why are young people these days so quick with the shouting...?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あんたらももう面倒ごとはごめんでしょ。",
+      "バイクのナンバー教えて下さい。",
+      "ここまで持ってきてあげますから。",
+      "…熊ちゃん、交通禍対策にゲート車を借りてきて下さい。」"
+    ],
+    "textEn": [
+      "\"You don't want any more trouble, right?",
+      "Tell me the bike license plate numbers.",
+      "I'll bring them here for you.",
+      "...Kuma-chan, please borrow the loading truck we use for traffic disasters.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「うっす！」"
+    ],
+    "textEn": [
+      "\"Got it!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「べ、別にいいよ…！",
+      "自分たちで取りに行くからいいって！」"
+    ],
+    "textEn": [
+      "\"Iss, iss fine...!",
+      "We'll get them ourselves!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あんたら、本気で囲まれたいんですか？",
+      "今度は警察、間に合わないかもしれませんよ？」"
+    ],
+    "textEn": [
+      "\"Do you really want to get surrounded again?",
+      "The police may not be fast enough to save you this time.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「大丈夫だッつってんだらぁ？！",
+      "囲み上等だよ！！」"
+    ],
+    "textEn": [
+      "\"It's fine, innit!?",
+      "If we's surrounded, they gonna get knocked down!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「おい。",
+      "お兄さん方。",
+      "あんたら、今、泡の出る麦茶飲んだろ。",
+      "…エンジン掛けてみろ。",
+      "その場で飲酒取るぞコラ。」"
+    ],
+    "textEn": [
+      "\"Hey.",
+      "You three...",
+      "You're drinking the barley with foam, right?",
+      "...Try turning your engines on.",
+      "I'll arrest you on the spot for drunk driving.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「…き、…汚ぇえぇえぇ…！！」"
+    ],
+    "textEn": [
+      "\"...You... that's fuckin' dirty...!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「警察が税金使って、兄さん方のバイクをお運びして進ぜようって言ってんだよ",
+      "。ごちゃごちゃ言わねぇで、ナンバー言えってんだこの糞馬鹿野郎。」"
+    ],
+    "textEn": [
+      "\"Your tax dollars will be put to good use in bringing all your bikes back here.",
+      "Quit complaining and tell me the god damn license plate numbers, you pieces of shit.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "３人はナンバーを伝えるのを渋る。",
+      "…買ったばかりだから、ナンバーをよく覚えてないとか何とか、ごちゃごちゃ言っている。",
+      "………まー、そんなことだろうと思った。は〜〜…。"
+    ],
+    "textEn": [
+      "The three were hesitant to tell him the numbers.",
+      "...They were mumbling something along the lines of not remembering them since they'd just bought the bikes.",
+      "......Well, that's what I thought. Hah~~..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「熊ちゃん。",
+      "ゲート車に同行してバイク持ってきてあげて。",
+      "ごつい赤いヤツと、テールランプの右側が割れたヤツ。",
+      "あとシートにガムテ貼ってあった白いヤツ。",
+      "それだろ？"
+    ],
+    "textEn": [
+      "\"Kuma-chan.",
+      "Go with the truck and bring the bikes back.",
+      "Get the tough-looking red one, the one with the broken right tail light,",
+      "and the white one that had the packing tape stuck to the seat.",
+      "It's those ones."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "兄さんたちのバイク。」"
+    ],
+    "textEn": [
+      "They belong to you, right?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「熊ちゃん。",
+      "ゲート車に同行してバイク持ってきてあげて。",
+      "ヤマハのごつい赤いヤツと、テールランプの右側が割れたヤツ。",
+      "あとシートにガムテ貼ってあった白いヤツ。",
+      "それだろ？"
+    ],
+    "textEn": [
+      "\"Kuma-chan.",
+      "Go with the truck and bring the bikes back.",
+      "Get the tough-looking red YAMAHA, the one with the broken right tail light,",
+      "and the white one that had the packing tape stuck to the seat.",
+      "It's those ones."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "兄さんたちのバイク。」"
+    ],
+    "textEn": [
+      "They belong to you, right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "返事なしだが、正解ってとこかな。"
+    ],
+    "textEn": [
+      "They didn't answer. Those must be the right ones."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「大石さん、ゲート車来ましたんで、行ってきます。」"
+    ],
+    "textEn": [
+      "\"Ooishi-san, the truck is here, so I'll get going.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ハイハイ、よろしくお願いします。",
+      "あと熊ちゃん、ちょっとちょっと。」"
+    ],
+    "textEn": [
+      "\"Yes, yes, please do.",
+      "Wait, Kuma-chan, hold on. One more thing.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「なんすか。」"
+    ],
+    "textEn": [
+      "\"What's up?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ナンバー照会しといて下さい。",
+      "間違ったバイクを持ってきちゃうと悪いから。」"
+    ],
+    "textEn": [
+      "\"Look up the numbers.",
+      "You don't want to bring the wrong ones back.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "３人の顔色が変わる。",
+      "…わかりやすい連中だなぁ本当に…。"
+    ],
+    "textEn": [
+      "The three people's faces changed color.",
+      "...They made themselves very easy to understand."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「バイク戻ってくるまでのんびりしてましょうよ。",
+      "ビールもっとありますよ？",
+      "乾き物だってありますし。",
+      "テレビ見ます？",
+      "ろくなのやってませんけどね。」"
+    ],
+    "textEn": [
+      "\"Let's take it easy here until your bikes get back.",
+      "There's more beer, you know.",
+      "We have some snacks, too.",
+      "Want to watch TV?",
+      "There's probably nothing on, though.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「いいよ、俺たちもう行くから。",
+      "こんなとこにいつまでもいたくねぇよ！」"
+    ],
+    "textEn": [
+      "\"Nah, thanks, we's leavin'.",
+      "Don't wanna hang here forever!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "いつの間にか、大柄な署員たちが５〜６人も集まってきている。",
+      "明らかに威圧の目で彼らをソファーに釘付けにする。"
+    ],
+    "textEn": [
+      "Suddenly, there were five or six huge officers surrounding them.",
+      "Their clearly overpowering stares nailed them to the sofa."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Delinquent",
+    "labelJp": "不良",
+    "textJp": [
+      "「…な、…なんだよ！！",
+      "俺たちが何かしたかよッ！！」"
+    ],
+    "textEn": [
+      "\"...Wha... What?!!",
+      "Whaddid we do?!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "盗難バイクで恐喝行脚か。",
+      "…暇な学生さんだ。"
+    ],
+    "textEn": [
+      "Going on a trip by stealing motorcycles, huh?",
+      "...Students these days have too much time on their hands."
+    ]
+  }
+]

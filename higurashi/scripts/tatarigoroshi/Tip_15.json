@@ -1,0 +1,174 @@
+[
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Emergency Center",
+    "labelJp": "救急情報センター",
+    "textJp": [
+      "「はいもしもし。",
+      "救急ですか、消防ですか。」"
+    ],
+    "textEn": [
+      "\"Hello?",
+      "Do you need the hospital or the fire department?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Watchman",
+    "labelJp": "通報者",
+    "textJp": [
+      "「え、っと…消防です！」"
+    ],
+    "textEn": [
+      "\"Err... the fire department!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Emergency Center",
+    "labelJp": "救急情報センター",
+    "textJp": [
+      "「火事ですか、事故ですか？",
+      "落ち着いて話してください。」"
+    ],
+    "textEn": [
+      "\"Is there a fire, or some other accident?",
+      "Please speak slowly and calmly.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Watchman",
+    "labelJp": "通報者",
+    "textJp": [
+      "「た、多分、火事だと思います…。",
+      "こちらはＸＸ高速のＸＸサービスエリアなんですけどね、…裏の山から何だかすっごい火と煙が上がってるのが見えるんですよ。"
+    ],
+    "textEn": [
+      "\"I-I think it's a fire...",
+      "This is the _____ rest area on the ____ Highway... I can see a ton of fire and smoke coming up from the mountains behind us."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Watchman",
+    "labelJp": "通報者",
+    "textJp": [
+      "あんなところ、誰も立ち入らないから、何で火がついてるのかよくわかんないですけど…。",
+      "とにかく、連絡した方がいいと思って…！",
+      "山火事にならないとも限らないし！」"
+    ],
+    "textEn": [
+      "Nobody goes back there, so I don't know why anything got lit on fire...",
+      "Anyway, I figured I should let you know...!",
+      "It could turn into a forest fire!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Emergency Center",
+    "labelJp": "救急情報センター",
+    "textJp": [
+      "「わかりました。",
+      "すぐに現場を確認しますので、そちら様のお名前とすぐに連絡のつく電話番号、それから火災現場の詳細な場所をお願いします。」"
+    ],
+    "textEn": [
+      "\"I understand.",
+      "I need to know exactly where you are, so please tell me your name, a phone number we can use to get in touch with you, and the exact location of the fire.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Fire Department Headquarters",
+    "labelJp": "消防司令部",
+    "textJp": [
+      "「消防司令部より通達。",
+      "ＸＸ山西側斜面にて不審火の通報あり。"
+    ],
+    "textEn": [
+      "\"Notice from the fire department headquarters.",
+      "We have a report of a suspicious fire on the western slopes of the _____ Mountain."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Fire Department Headquarters",
+    "labelJp": "消防司令部",
+    "textJp": [
+      "街道から離れてることから、カップルの焚き火か、不法投棄のゴミに放火したかの可能性があります。",
+      "現場は深い森林地帯。",
+      "周辺に民家はないが、延焼の可能性あり。",
+      "直ちに現場を確認されたし。」"
+    ],
+    "textEn": [
+      "Given its distance from the road, it could be a couple's bonfire or someone unlawfully burning trash.",
+      "The location is deep in the woods.",
+      "No homes in the area, but the fire could spread.",
+      "Immediately go to the site to verify.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Group Member",
+    "labelJp": "団員",
+    "textJp": [
+      "「消防署ですか。",
+      "こちらはＸＸ地区消防分団です。",
+      "通報の現場にさっき到着。"
+    ],
+    "textEn": [
+      "\"Is this the fire station?",
+      "This is the ____ District fire department branch.",
+      "We arrived moments ago at the reported area."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Group Member",
+    "labelJp": "団員",
+    "textJp": [
+      "ドラム缶がひとつ山中に放棄され、炎上しているのを確認しました。",
+      "火は鎮火しつつあり、延焼の可能性はなし。"
+    ],
+    "textEn": [
+      "Fire confirmed to be a burning oil drum left in the mountains.",
+      "The fire is calming, and there is no chance it will spread."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Group Member",
+    "labelJp": "団員",
+    "textJp": [
+      "………で、",
+      "……その、",
+      "………ドラム缶の中に、…多分、人じゃないかと思うんです。",
+      "人らしきものが灯油か何かで焼かれた…という感じで。",
+      "……その、……警察の人にも連絡した方がいいんじゃないかと思いまして…。」"
+    ],
+    "textEn": [
+      "......And...",
+      "well......",
+      "in the oil drum... I think it might be a person.",
+      "Like, a person burned with kerosene... or something.",
+      "...Well... I think maybe we should get the police over here...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Group Member",
+    "labelJp": "団員",
+    "textJp": [
+      "「わ、…わ！！",
+      "まま、間違いねぇよ！！",
+      "これ、人だよ！！",
+      "ひぇえぇええ……！！」"
+    ],
+    "textEn": [
+      "\"Ah... ah!!",
+      "T-T-There's no mistaking it!!",
+      "This is a person!!",
+      "Eeeeeeek...!!\""
+    ]
+  }
+]

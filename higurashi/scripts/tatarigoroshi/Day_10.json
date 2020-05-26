@@ -1,0 +1,2226 @@
+[
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「おっはよ、圭一くん。」"
+    ],
+    "textEn": [
+      "\"G'morning, Keiichi-kun!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おはよ。」"
+    ],
+    "textEn": [
+      "\"Morning.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「よかった。",
+      "今日もお寝坊かと思ったよ？",
+      "昨日は、おばさまには先に行ったって言われるし、学校には来ていないし。",
+      "途中で日射病で倒れちゃったのかなって心配してたんだから。」"
+    ],
+    "textEn": [
+      "\"Thank goodness.",
+      "I thought you overslept today too!",
+      "Your mom said you'd gone on ahead yesterday, and then you weren't at school.",
+      "I was worried that you had gotten heat stroke halfway there!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「へいへい、昨日は心配かけて申し訳ございませんでしたー。」"
+    ],
+    "textEn": [
+      "\"Yeah, yeah, I'm very sorry for all the worry I caused you yesterday.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ヘーイ、グッドモーニーン！」"
+    ],
+    "textEn": [
+      "\"Heeey, goood morning!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃん、おはよ〜！",
+      "…大丈夫？　なんかすっごく眠そう、だよ？」"
+    ],
+    "textEn": [
+      "\"Mii-chan, good morning~!",
+      "...Are you alright? You look really tired.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は遅くまで町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、興宮の生活相談所に電話してね。",
+      "担当の職員さんが昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the Okinomiya child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あのさ、沙都子。",
+      "家で……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"So, Satoko.",
+      "...Umm... How did it go at your house?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それに……、興宮の相談所もいろいろ検討した末にそういう判断を……。」",
+      "……実は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、…嘘の話を作って……、",
+      "自分で生活相談所に電話したって。」",
+      "ちゃんと昔の記録が残ってましたですから、",
+      "…わ、…それ絶対にバレるよ、お酒臭いー！」"
+    ],
+    "textEn": [
+      "\"...Well... After looking into it from many angles, that's what the Okinomiya child consultation center determined...\"",
+      "...This is actually the third time.",
+      "especially her stepfather, so she made up a false story...",
+      "And phoned the child consultation center herself.\"",
+      "......The center had all their past records...",
+      "...Wow... You really stink of liquor! You'll get found out for sure!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、県の児童相談所に電話してね。",
+      "児童福祉司が昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…保護司、来たんでしょ？",
+      "……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"...A probation officer came, right?",
+      "...Umm... How did it go?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それは……、児童相談所長がいろいろ検討した末に判断を……。」",
+      "……実は、沙都子の児童虐待の通報は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、自傷と作話で…嘘の虐待話を作って……、",
+      "自分で虐待ＳＯＳに電話したって。」",
+      "……………児童相談所に、ちゃんと昔の記録が残ってましたですから、"
+    ],
+    "textEn": [
+      "\"...Well... After the person in charge at the child consultation center looked into it from many angles, they determined...\"",
+      "...This is actually the third time someone has reported Satoko's child abuse.",
+      "especially her stepfather, so she inflicted wounds on herself so she could... make up a false story about abuse...",
+      "And that she sent out an SOS herself.\"",
+      "......The child consultation center had all their past records..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「打ち合わせ会なんて名ばかりの宴会だよ。",
+      "毎年やってるお祭りだもん。",
+      "今さら小難しい打ち合わせなんかないし。」"
+    ],
+    "textEn": [
+      "\"They only called it that—it was more like a party.",
+      "We have the festival every year, right?",
+      "We wouldn't have any annoying meetings at this point.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「今日の午後は、やっぱりお祭りのお手伝いに行くのかな？」"
+    ],
+    "textEn": [
+      "\"Are you going to help out with the festival this afternoon then?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "婆っちゃの代わりにいろいろ挨拶しなきゃなんないし。",
+      "それにね、祭りってのは準備からもう始まってるからねぇ！」"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "I have to do a meet-and-greet with all sorts of people in Grandma's place.",
+      "Besides, they already started setting up for the festival!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "いつもの朝の軽快な会話。",
+      "…昨日、俺が魅音の家に押しかけてした、あの物騒な話は…文字通り忘れてくれたようだった。",
+      "………思い出せば思い出すほど、俺はとんでもないことを魅音に言ってしまったと思う。",
+      "…怒鳴りつけられてもおかしくない、まさに暴言だった。",
+      "鷹野さんが話を誇張していた可能性は高い。",
+      "……この、俺たちの仲間で親友の魅音が、",
+      "雛見沢を実効支配する御三家、園崎家の若きリーダーで、連続怪死事件を裏で糸引く存在だとは……確かにちょっと思えない。",
+      "…………でも、……百万分の一の確率で…それが真実なら……。",
+      "……昨日、俺が魅音にした話は、……結実するかもしれない。",
+      "そう、まさに百万分の一。",
+      "…でも、沙都子を救うための確率をほんのわずかでも上げるための小さな努力。",
+      "…………少なくとも、俺はその努力をした。",
+      "………昨日までの時点で、俺にできる努力はそれで尽くしたはずだ。",
+      "……あとできる努力があるとすれば…沙都子の叔父が祟りで死ぬことを祈って、水ごりでもするくらいか…。"
+    ],
+    "textEn": [
+      "Our morning conversation was lighthearted as usual.",
+      "...It looked like Mion had thankfully forgotten... about how I'd barged into her house yesterday with that crazy talk.",
+      "...The more I think back on it, I felt like I'd really said something terrible to her.",
+      "...I was really thoughtless, and it wouldn't have been weird if she'd yelled at me.",
+      "It was highly possible Takano-san had exaggerated her story.",
+      "...To think that our comrade and friend, Mion,",
+      "the young leader of the Sonozakis, one of the Three Families effectively controlling Hinamizawa, was pulling the strings behind the serial death incidents... was a little unbelievable.",
+      "...But... if there was even a one percent chance... that it was true...",
+      "...Then what I said yesterday to Mion... might have been a success.",
+      "Yes, it was no more than one in a hundred.",
+      "...But that little bit of effort might have brought the chances of saving Satoko up by even a tiny bit.",
+      "......At least I'd made that effort.",
+      "...After yesterday ended, I was sure I'd done everything I possibly could.",
+      "...If there was something else I could do... it was probably just to clap my hands and pray that Satoko's uncle would be killed by the curse..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……沙都子、今日は来ているといいな。」"
+    ],
+    "textEn": [
+      "\"...I hope Satoko makes it today.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…そうだね。",
+      "……先生がいろいろと手配してくれたんでしょ？",
+      "うん。",
+      "…きっと大丈夫だよ。」"
+    ],
+    "textEn": [
+      "\"...Me too.",
+      "...Sensei is doing things for her, right?",
+      "Mm.",
+      "...I'm sure it'll be fine.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「雛見沢地区の民生委員が私の叔母さんなんだけどさ。",
+      "…昨夜、電話して聞いてみたよ。」"
+    ],
+    "textEn": [
+      "\"My aunt is a welfare agent in the Hinamizawa district...",
+      "I gave her a call last night.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「へー、魅ぃちゃんの叔母さんって民生委員さんなんだね。",
+      "…それで？",
+      "沙都子ちゃんのこと、なんて言ってたの？」",
+      "…大丈夫？　なんかすっごく眠そう、だよ？」"
+    ],
+    "textEn": [
+      "\"Huh, I didn't know your aunt was a welfare officer.",
+      "...What happened?",
+      "Did you tell her about Satoko-chan?\"",
+      "...Are you alright? You look really tired.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は遅くまで町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、興宮の生活相談所に電話してね。",
+      "担当の職員さんが昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the Okinomiya child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あのさ、沙都子。",
+      "家で……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"So, Satoko.",
+      "...Umm... How did it go at your house?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それに……、興宮の相談所もいろいろ検討した末にそういう判断を……。」",
+      "……実は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、…嘘の話を作って……、",
+      "自分で生活相談所に電話したって。」",
+      "ちゃんと昔の記録が残ってましたですから、",
+      "…わ、…それ絶対にバレるよ、お酒臭いー！」"
+    ],
+    "textEn": [
+      "\"...Well... After looking into it from many angles, that's what the Okinomiya child consultation center determined...\"",
+      "...This is actually the third time.",
+      "especially her stepfather, so she made up a false story...",
+      "And phoned the child consultation center herself.\"",
+      "......The center had all their past records...",
+      "...Wow... You really stink of liquor! You'll get found out for sure!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、県の児童相談所に電話してね。",
+      "児童福祉司が昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…保護司、来たんでしょ？",
+      "……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"...A probation officer came, right?",
+      "...Umm... How did it go?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それは……、児童相談所長がいろいろ検討した末に判断を……。」",
+      "……実は、沙都子の児童虐待の通報は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、自傷と作話で…嘘の虐待話を作って……、",
+      "自分で虐待ＳＯＳに電話したって。」",
+      "……………児童相談所に、ちゃんと昔の記録が残ってましたですから、"
+    ],
+    "textEn": [
+      "\"...Well... After the person in charge at the child consultation center looked into it from many angles, they determined...\"",
+      "...This is actually the third time someone has reported Satoko's child abuse.",
+      "especially her stepfather, so she inflicted wounds on herself so she could... make up a false story about abuse...",
+      "And that she sent out an SOS herself.\"",
+      "......The child consultation center had all their past records..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "私の叔母さんにも、今後定期的にアプローチするようにと連絡があったって。」"
+    ],
+    "textEn": [
+      "My aunt said that they were going to pay visits at regular intervals from now on.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……小難しい話はいいよ。",
+      "それより沙都子はどうなったんだよ。",
+      "保護されたのか？！」"
+    ],
+    "textEn": [
+      "\"...Enough with the dumb, little stuff.",
+      "I want to know what happened to Satoko.",
+      "Did they get her safe?!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うーん…。",
+      "叔母さんはそこまでは知らされてなかったみたい。",
+      "…本来はこういうのって、秘密だからね。",
+      "叔母さんが私に話してくれたのも、充分に倫理違反なんだしさ。」"
+    ],
+    "textEn": [
+      "\"Mm...",
+      "My aunt wasn't that informed about it.",
+      "...I was supposed to keep this a secret anyway.",
+      "Her telling me was a big breach of ethics in the first place.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………くそ、かえって不安になったぞ。」"
+    ],
+    "textEn": [
+      "\".........Damn, that makes me feel even worse.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……行こ、…学校に。」"
+    ],
+    "textEn": [
+      "\"...Let's... get to school.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そうだ。",
+      "いくら議論したって不安は募るばかり。",
+      "……学校に行って、沙都子が無事かどうかを確かめる方がはるかに手っ取り早い。",
+      "３人で頷きあうと、…俺たちは駆け出していた。",
+      "……沙都子は無事だろうか。",
+      "児童相談所とやらはどんな手を打ってくれたんだろう。",
+      "何でも、とにかく今日から沙都子が平穏に暮らせる、元の日々が返ってきてくれるなら何でもいい。",
+      "昇降口の下駄箱で、レナが沙都子の靴箱をのぞき込む。"
+    ],
+    "textEn": [
+      "Right.",
+      "Discussing this more would just make us feel worse.",
+      "...It was far quicker to go to school and see if Satoko was safe or not.",
+      "The three of us nodded... and ran off.",
+      "...Was Satoko safe?",
+      "What measures had the child consultation center taken?",
+      "I didn't care what—as long as we could go back to our peaceful life with Satoko today, it didn't matter to me.",
+      "At the shoe racks at the entrance, Rena took a peek in Satoko's shoe cubby."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あ、…沙都子ちゃんの靴、あるよ！　あるよ！"
+    ],
+    "textEn": [
+      "\"Ah... Satoko's shoes are here! They're here!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "圭ちゃん、沙都子ちゃんは来てるよ。",
+      "よかった…！」"
+    ],
+    "textEn": [
+      "Kei-chan, Satoko came.",
+      "Thank goodness...!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「来てるだけじゃわからないだろ。",
+      "沙都子の顔を見るまで…何もわかるものか！」"
+    ],
+    "textEn": [
+      "\"We don't know if anything happened just because she came to school.",
+      "We can't know anything... until we see her face!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ばたばたと教室へ駆け込む。",
+      "教室は…いつもの賑やかな朝だった。"
+    ],
+    "textEn": [
+      "We trotted towards the classroom.",
+      "The classroom... was lively, as it usually was in the morning."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…沙都子…！！",
+      "どこだ…？！」"
+    ],
+    "textEn": [
+      "\"...Satoko...!!",
+      "Where are you...?!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー。",
+      "ここにちゃんといますですよ。」"
+    ],
+    "textEn": [
+      "\"...Meep.",
+      "She's right here.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「朝っぱらから騒々しいですわね。",
+      "少しはお静かになさいませー。」"
+    ],
+    "textEn": [
+      "\"It's too early in the morning to be so loud.",
+      "Would you please keep it down a bit?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「沙都子ちゃん！",
+      "………その、……大丈夫だった？」"
+    ],
+    "textEn": [
+      "\"Satoko-chan!",
+      "...Umm... Are you okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "仲間で、わっと沙都子を取り囲む。",
+      "…大丈夫？　なんかすっごく眠そう、だよ？」"
+    ],
+    "textEn": [
+      "All of our friends crowded around Satoko excitedly.",
+      "...Are you alright? You look really tired.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は遅くまで町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、興宮の生活相談所に電話してね。",
+      "担当の職員さんが昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the Okinomiya child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あのさ、沙都子。",
+      "家で……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"So, Satoko.",
+      "...Umm... How did it go at your house?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それに……、興宮の相談所もいろいろ検討した末にそういう判断を……。」",
+      "……実は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、…嘘の話を作って……、",
+      "自分で生活相談所に電話したって。」",
+      "ちゃんと昔の記録が残ってましたですから、",
+      "…わ、…それ絶対にバレるよ、お酒臭いー！」"
+    ],
+    "textEn": [
+      "\"...Well... After looking into it from many angles, that's what the Okinomiya child consultation center determined...\"",
+      "...This is actually the third time.",
+      "especially her stepfather, so she made up a false story...",
+      "And phoned the child consultation center herself.\"",
+      "......The center had all their past records...",
+      "...Wow... You really stink of liquor! You'll get found out for sure!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、県の児童相談所に電話してね。",
+      "児童福祉司が昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…保護司、来たんでしょ？",
+      "……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"...A probation officer came, right?",
+      "...Umm... How did it go?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それは……、児童相談所長がいろいろ検討した末に判断を……。」",
+      "……実は、沙都子の児童虐待の通報は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、自傷と作話で…嘘の虐待話を作って……、",
+      "自分で虐待ＳＯＳに電話したって。」",
+      "……………児童相談所に、ちゃんと昔の記録が残ってましたですから、"
+    ],
+    "textEn": [
+      "\"...Well... After the person in charge at the child consultation center looked into it from many angles, they determined...\"",
+      "...This is actually the third time someone has reported Satoko's child abuse.",
+      "especially her stepfather, so she inflicted wounds on herself so she could... make up a false story about abuse...",
+      "And that she sent out an SOS herself.\"",
+      "......The child consultation center had all their past records..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……呼んだのはどなたですの？",
+      "まったく、…とんだ騒ぎでしたのよ？」"
+    ],
+    "textEn": [
+      "\"...Who was it that called them?",
+      "I swear... It was quite a mess, you know.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「先生だよ。",
+      "………あれだけ欠席すりゃ心配もする。」"
+    ],
+    "textEn": [
+      "\"It was the teacher.",
+      "......You were absent for so long, of course she was worried.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………沙都子は、あれだけ大丈夫だと言ったのに、と独り言を言う。",
+      "やっぱり、……沙都子は、この苦難をたったひとりで耐え忍ぼうとしているんだ。"
+    ],
+    "textEn": [
+      "...Satoko said \"I told you I'm fine\" under her breath.",
+      "She was still... trying to overcome all the suffering on her own."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…私も叔父様もとんだ迷惑でしたのよ。",
+      "急にあんな人に押しかけられて、もう…。」"
+    ],
+    "textEn": [
+      "\"...It was a big bother to both me and my uncle.",
+      "That person just barged on in on us suddenly, geez...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「みんな沙都子ちゃんのこと、心配してたんだよ。",
+      "迷惑だなんて言わないで…。」"
+    ],
+    "textEn": [
+      "\"Everyone was worried about you, Satoko.",
+      "Don't say it was a bother...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あーもう！！",
+      "とにかくそれで！",
+      "どうなったんだよ？！」"
+    ],
+    "textEn": [
+      "\"Ahh, geez!!",
+      "Anyway!",
+      "What happened?!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「どうもこうもしませんわ。",
+      "ほっほっほ、風邪が治ったから学校に来ただけのことですのよ？",
+      "これからは、あんまりお休みして心配をかけないようにしないといけませんわね。",
+      "…ほっほっほ。」"
+    ],
+    "textEn": [
+      "\"Nothing happened.",
+      "Ho-ho-ho—my cold got better, so I came back to school, that's all.",
+      "I can't take too much time off from now on because then you'll all worry about me.",
+      "...Ho-ho-ho.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……沙都子は、…何を言ってるんだ…？"
+    ],
+    "textEn": [
+      "...What... was Satoko saying...?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「叔父さんはその…どうなったの？」"
+    ],
+    "textEn": [
+      "\"What happened to, well... your uncle?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「えぇ、多少誤解があったことを認めて、二人でごめんなさいをしまして、」"
+    ],
+    "textEn": [
+      "\"Oh, he admitted there were some misunderstandings, and we both apologized.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぐい。",
+      "……梨花ちゃんに襟首を掴まれ、後ろに引かれる。"
+    ],
+    "textEn": [
+      "Tug.",
+      "...Rika-chan grabbed the back of my collar and pulled me away."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……な、…何だよ梨花ちゃん。」"
+    ],
+    "textEn": [
+      "\"...W-What is it, Rika-chan?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんは無言で俺を引っ張ったまま、廊下へ連れて行く。"
+    ],
+    "textEn": [
+      "Rika-chan silently dragged me all the way into the hallway."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………梨花ちゃん、…あれは…どういうことだよ？！」"
+    ],
+    "textEn": [
+      "\"......Rika-chan... What... did that mean?!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子は、………何でもないと言って、追い返してしまいました。」"
+    ],
+    "textEn": [
+      "\"...Satoko... said nothing was happening and chased them away.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………………ば、"
+    ],
+    "textEn": [
+      ".........Id—"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…馬鹿野郎…！！！",
+      "な、……なんで…！！」"
+    ],
+    "textEn": [
+      "\"...That idiot...!!!",
+      "But... but why...?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "いや……、心のどこかで、…そんなこともあるかもしれないと思ってた。",
+      "沙都子は…誰の助けも借りず、…誰の背中にも隠れず、…この苦難を乗り切ろうとしている。",
+      "……悟史が再び帰ってきても、自分はもう兄の背中に隠れなくても大丈夫だ、ということを立証して見せるために。"
+    ],
+    "textEn": [
+      "No... Somewhere in my mind... I thought it might turn out like this.",
+      "Satoko didn't... ask for anyone's help, she didn't hide behind anyone... She was trying to ride out this pain.",
+      "...She wanted to show Satoshi proof that if he came back to them, she wouldn't need to hide behind him anymore."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「だ、だけど…、監督に聞いた話じゃ、保護司ってのは本人の意思に関係なく緊急保護をすることができるんだろ？！",
+      "いくら沙都子が虐待を否定したって、虐待は事実…！！」"
+    ],
+    "textEn": [
+      "\"B-But... Coach said probation officers can bring her to safety in an emergency even if it's against her wishes!",
+      "However much Satoko denies the abuse, it's a fact...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…知恵先生が、やって来た。",
+      "……表情は決して明るくない。"
+    ],
+    "textEn": [
+      "...Chie-sensei finally came.",
+      "...Her expression was far from cheerful."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…………えぇ。前原くんの言うとおり。",
+      "児童福祉司は緊急性があると判断すれば、職権で緊急保護をすることができます。",
+      "当事者の意思に関係なく。」"
+    ],
+    "textEn": [
+      "\"......Yes. You're right, Maebara-kun.",
+      "If the child welfare officer determines that it's an emergency, they have the right to immediately take them to safety.",
+      "Regardless of the affected party's intent.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあどうして？！",
+      "どうして沙都子の意思が変に尊重されて…保護されないことに？！」",
+      "…大丈夫？　なんかすっごく眠そう、だよ？」"
+    ],
+    "textEn": [
+      "\"Then why?!",
+      "Why is Satoko's intent being respected so much—it's weird! Why don't they put her into safety?!\"",
+      "...Are you alright? You look really tired.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は遅くまで町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、興宮の生活相談所に電話してね。",
+      "担当の職員さんが昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the Okinomiya child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あのさ、沙都子。",
+      "家で……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"So, Satoko.",
+      "...Umm... How did it go at your house?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それに……、興宮の相談所もいろいろ検討した末にそういう判断を……。」",
+      "……実は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、…嘘の話を作って……、",
+      "自分で生活相談所に電話したって。」",
+      "ちゃんと昔の記録が残ってましたですから、",
+      "…わ、…それ絶対にバレるよ、お酒臭いー！」"
+    ],
+    "textEn": [
+      "\"...Well... After looking into it from many angles, that's what the Okinomiya child consultation center determined...\"",
+      "...This is actually the third time.",
+      "especially her stepfather, so she made up a false story...",
+      "And phoned the child consultation center herself.\"",
+      "......The center had all their past records...",
+      "...Wow... You really stink of liquor! You'll get found out for sure!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、県の児童相談所に電話してね。",
+      "児童福祉司が昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…保護司、来たんでしょ？",
+      "……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"...A probation officer came, right?",
+      "...Umm... How did it go?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それは……、児童相談所長がいろいろ検討した末に判断を……。」",
+      "……実は、沙都子の児童虐待の通報は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、自傷と作話で…嘘の虐待話を作って……、",
+      "自分で虐待ＳＯＳに電話したって。」",
+      "……………児童相談所に、ちゃんと昔の記録が残ってましたですから、"
+    ],
+    "textEn": [
+      "\"...Well... After the person in charge at the child consultation center looked into it from many angles, they determined...\"",
+      "...This is actually the third time someone has reported Satoko's child abuse.",
+      "especially her stepfather, so she inflicted wounds on herself so she could... make up a false story about abuse...",
+      "And that she sent out an SOS herself.\"",
+      "......The child consultation center had all their past records..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何だよそりゃああぁあぁあぁあッ！！！",
+      "先生、昨日あんた、絶対に助けるから大丈夫って言わなかったか？！",
+      "これはどういうことだよ？！",
+      "おかしいじゃねえかよ？！",
+      "ええッおい！！」"
+    ],
+    "textEn": [
+      "\"What the hell is that?!?",
+      "Sensei, didn't you say it was going to be all right, since you'd definitely save her?!",
+      "What's the meaning of this?!",
+      "This doesn't make any sense!!",
+      "Answer me, damn it!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………………圭一。",
+      "…大丈夫？　なんかすっごく眠そう、だよ？」"
+    ],
+    "textEn": [
+      "\".........Keiichi.",
+      "...Are you alright? You look really tired.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は遅くまで町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、興宮の生活相談所に電話してね。",
+      "担当の職員さんが昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the Okinomiya child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あのさ、沙都子。",
+      "家で……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"So, Satoko.",
+      "...Umm... How did it go at your house?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それに……、興宮の相談所もいろいろ検討した末にそういう判断を……。」",
+      "……実は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、…嘘の話を作って……、",
+      "自分で生活相談所に電話したって。」",
+      "ちゃんと昔の記録が残ってましたですから、",
+      "…わ、…それ絶対にバレるよ、お酒臭いー！」"
+    ],
+    "textEn": [
+      "\"...Well... After looking into it from many angles, that's what the Okinomiya child consultation center determined...\"",
+      "...This is actually the third time.",
+      "especially her stepfather, so she made up a false story...",
+      "And phoned the child consultation center herself.\"",
+      "......The center had all their past records...",
+      "...Wow... You really stink of liquor! You'll get found out for sure!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、県の児童相談所に電話してね。",
+      "児童福祉司が昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…保護司、来たんでしょ？",
+      "……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"...A probation officer came, right?",
+      "...Umm... How did it go?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それは……、児童相談所長がいろいろ検討した末に判断を……。」",
+      "……実は、沙都子の児童虐待の通報は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、自傷と作話で…嘘の虐待話を作って……、",
+      "自分で虐待ＳＯＳに電話したって。」",
+      "……………児童相談所に、ちゃんと昔の記録が残ってましたですから、",
+      "……過去にも、…二回あったのです。」"
+    ],
+    "textEn": [
+      "\"...Well... After the person in charge at the child consultation center looked into it from many angles, they determined...\"",
+      "...This is actually the third time someone has reported Satoko's child abuse.",
+      "especially her stepfather, so she inflicted wounds on herself so she could... make up a false story about abuse...",
+      "And that she sent out an SOS herself.\"",
+      "......The child consultation center had all their past records...",
+      "...It happened... twice in the past too.\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「古手さん…！」"
+    ],
+    "textEn": [
+      "\"Furude-san...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "先生が制止しようとするが、梨花ちゃんは構わずに先を続ける。"
+    ],
+    "textEn": [
+      "Sensei tried to stop her, but Rika-chan went on speaking anyway."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…過去に、二度？",
+      "……おととしの冬に通報して様子見になったって話は聞いてるが、……その前にもあったのか？」"
+    ],
+    "textEn": [
+      "\"...Twice before?",
+      "...I heard they decided to 'wait and see' after reporting it the winter before last... But it happened before then too?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………沙都子の死んでしまったお父さんは、沙都子の本当のお父さんではないのです。」"
+    ],
+    "textEn": [
+      "\"...Satoko's father, who died, wasn't her real father.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え…？",
+      "梨花ちゃん…、……それが、……え？」"
+    ],
+    "textEn": [
+      "\"What...?",
+      "Rika-chan... that's... what?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然の話に面食らう。",
+      "……梨花ちゃんが何を言いたいのかさっぱりわからず、",
+      "…だけれども、何か重要な話のようで、…口を挟むことも出来ない。"
+    ],
+    "textEn": [
+      "I'm stunned at the sudden revelation.",
+      "...I had no idea what Rika-chan wanted to tell me...",
+      "but it seemed really important... so I couldn't get a word in either."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子のお母さんは再婚なのです。",
+      "沙都子と悟史はお母さんの連れ子で、…お父さんとは血はつながっていなかったのです。」"
+    ],
+    "textEn": [
+      "\"...Satoko's mother remarried.",
+      "She brought Satoko and Satoshi with her... so they weren't related by blood to their father.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史は大人の言うことを素直に聞く、…いい子供だった。",
+      "……新しい父にもすぐに受け入れられ、可愛がられた。",
+      "でも、…沙都子は違った。",
+      "反抗的で嘘つきで悪戯ばかりで。",
+      "…義父には全然好かれなかった。"
+    ],
+    "textEn": [
+      "Satoshi was a good kid... one who listened politely to what adults told him.",
+      "...He was immediately welcomed by their new father, and was loved.",
+      "But... Satoko was different.",
+      "She was rebellious, she told lies, she played pranks.",
+      "...Her stepfather didn't like her at all."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………え、………。",
+      "……つまり、……どういうことだよ…。」"
+    ],
+    "textEn": [
+      "\"...What......",
+      "...So... what do you mean...?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子は、叔父夫婦に預けられる以前の家族の時も、……あまり良好な家族関係ではなかったのです。」"
+    ],
+    "textEn": [
+      "\"...Even before she was given to their uncle and his wife... Satoko didn't have a very good relationship with her family.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もちろん義父だって初めは悪意があったわけじゃない。",
+      "…新しい娘を受け入れようと、初めは努力しただろう。",
+      "でも、……幼い沙都子にはその努力はまったくなかった。",
+      "義父に対してよそよそしく、決して心を開こうとはしなかった。",
+      "…いつも取ってつけたような嘘や悪戯で、…困らせた。",
+      "義父の躾けや仕置きは、もちろん始めは愛のあるものだったかもしれないが、…すぐにそれも薄れた。"
+    ],
+    "textEn": [
+      "Of course, her stepfather didn't have any malicious intent at the start.",
+      "...At first, he must have worked hard to get his new daughter to accept him.",
+      "But... the young Satoko didn't make any effort at all towards that end.",
+      "She was distant towards her stepfather, and never opened her heart to him even a little.",
+      "...She just got on his nerves all the time... with seemingly-forced lies and pranks.",
+      "Her father's discipline and punishment must have been loving at first, of course... but that, too, faded quickly."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…………私はその時は雛見沢にいなかったからよく知らないけれど…。",
+      "……昨日、電話で初めて知りました。」"
+    ],
+    "textEn": [
+      "\"......I don't know because I wasn't in Hinamizawa at the time...",
+      "But I learned this on the phone yesterday.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…先生が聞いたのはどんな話ですか。」"
+    ],
+    "textEn": [
+      "\"...What story did you hear, Sensei?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「……沙都子ちゃんが、",
+      "両親、",
+      "…大丈夫？　なんかすっごく眠そう、だよ？」"
+    ],
+    "textEn": [
+      "\"...That Satoko-chan...",
+      "wanted to trick her parents...",
+      "...Are you alright? You look really tired.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は遅くまで町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、興宮の生活相談所に電話してね。",
+      "担当の職員さんが昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the Okinomiya child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あのさ、沙都子。",
+      "家で……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"So, Satoko.",
+      "...Umm... How did it go at your house?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それに……、興宮の相談所もいろいろ検討した末にそういう判断を……。」",
+      "……実は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、…嘘の話を作って……、",
+      "自分で生活相談所に電話したって。」",
+      "ちゃんと昔の記録が残ってましたですから、",
+      "…わ、…それ絶対にバレるよ、お酒臭いー！」"
+    ],
+    "textEn": [
+      "\"...Well... After looking into it from many angles, that's what the Okinomiya child consultation center determined...\"",
+      "...This is actually the third time.",
+      "especially her stepfather, so she made up a false story...",
+      "And phoned the child consultation center herself.\"",
+      "......The center had all their past records...",
+      "...Wow... You really stink of liquor! You'll get found out for sure!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、県の児童相談所に電話してね。",
+      "児童福祉司が昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…保護司、来たんでしょ？",
+      "……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"...A probation officer came, right?",
+      "...Umm... How did it go?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それは……、児童相談所長がいろいろ検討した末に判断を……。」",
+      "……実は、沙都子の児童虐待の通報は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、自傷と作話で…嘘の虐待話を作って……、",
+      "自分で虐待ＳＯＳに電話したって。」",
+      "……………児童相談所に、ちゃんと昔の記録が残ってましたですから、"
+    ],
+    "textEn": [
+      "\"...Well... After the person in charge at the child consultation center looked into it from many angles, they determined...\"",
+      "...This is actually the third time someone has reported Satoko's child abuse.",
+      "especially her stepfather, so she inflicted wounds on herself so she could... make up a false story about abuse...",
+      "And that she sent out an SOS herself.\"",
+      "......The child consultation center had all their past records..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「自傷と…作話……？」"
+    ],
+    "textEn": [
+      "\"She made up a story... about hurting herself...?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子は、…嫌いなお父さんを追い払うため、嘘の電話をしたのです。」"
+    ],
+    "textEn": [
+      "\"...Satoko made a fake phone call... to try and get rid of the father she hated.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "児童福祉士や民生委員がすぐに駆けつけ、事情を聞いた。",
+      "……義父は、行き過ぎた部分があったことを素直に謝罪し、以後、児童相談所の指導を受けることを承諾した。"
+    ],
+    "textEn": [
+      "Child welfare officers rushed there and heard the story.",
+      "...Her father genuinely apologized for a few times when he had gone too far, and agreed to let the child welfare center give him coaching."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…………いろいろと関係機関が調べた結果ね。",
+      "…………義父と沙都子ちゃんの心のすれ違いに原因があることはわかったんだけど…。"
+    ],
+    "textEn": [
+      "\"......Related agencies looked into it quite a bit.",
+      "......They determined that Satoko-chan and her stepfather's hearts not being quite matched up was the cause of the incident..."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "………それ以上に、沙都子ちゃん自身に問題があることがわかったの。」"
+    ],
+    "textEn": [
+      "But they found another problem, above that, with Satoko-chan.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「沙都子に問題って、……何です。」"
+    ],
+    "textEn": [
+      "\"A problem with Satoko... What was it?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……沙都子の母は、再婚までに至らずとも、…内縁の夫と同棲することが何度かあった。",
+      "……沙都子は幼少時から、少なくとも２〜３人はお父さんと呼ばなければならない男との生活を強要されてきた。",
+      "いつの頃から、…沙都子のいたずらがエスカレートするようになった。",
+      "…食事をわざとこぼしたり、ひっくり返したり、…投げつけるようになった。",
+      "近所の窓ガラスを割ったり、お菓子を万引きしたり。",
+      "画鋲やらをバラ蒔いたり、大怪我するようなワナを仕掛けたり。",
+      "……今のような、笑い事で済むようなものではなく。",
+      "そしてすぐバレるような嘘を平気で付き、……その度に怒られた。",
+      "…でも一向にそれらを改めようとはしなかった。"
+    ],
+    "textEn": [
+      "...Satoko's mother... there were a few times where she had lived with de facto husbands, though those relationships didn't result in remarriage.",
+      "...From a young age, Satoko had been forced to call at least two or three people her father.",
+      "At some point... Satoko's pranks escalated.",
+      "...She would spill food on purpose, turn over her plate... and even throw it.",
+      "She would break the windows in the neighborhood, and shoplift candy.",
+      "She would put thumb tacks everywhere, and set other traps to seriously hurt people.",
+      "...Not in the way she did now, just to get laughs.",
+      "She was also fond of telling lies that would be found out right away... and people got mad at her every time.",
+      "...But she never, ever changed her behavior."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…………沙都子ちゃんのことを問題児なんて、思わないでね。",
+      "…これは幼い沙都子ちゃんが、…母親を知らない男に取られまいとして取った、…自衛的な行為なの。」"
+    ],
+    "textEn": [
+      "\"......Please don't think Satoko-chan was a problem child.",
+      "...Satoko-chan was young... It was an act of self-defense... that she had to take against the unknown men her mother had chosen.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子の問題行為について、公的機関の児童心理学専門家は、……母親の興味を自分に引くための行為であると指摘した。",
+      "そして沙都子に心的外傷による一種の傷害を認め、…専門家によるカウンセリング治療が必要だと告げた。",
+      "その治療で、沙都子の心の傷が癒されたかは…わからない。"
+    ],
+    "textEn": [
+      "In regards to Satoko's problematic behavior, child psychology experts from public institutions... indicated her actions were to draw her mother's attention to herself.",
+      "They acknowledged that she had a form of harmful emotional trauma... and declared that she needed counseling and therapy from professionals.",
+      "They didn't know... whether that therapy had healed the wounds in her heart."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「……沙都子ちゃんは、わざと体に傷を作り、",
+      "…お義父さんに虐待を受けているとね、……自分で通報して、お義父さんを追い出そうとした。」"
+    ],
+    "textEn": [
+      "\"...Satoko-chan purposely hurt herself...",
+      "and told them that she was being abused by her stepfather... in an attempt to chase him out.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………でも、",
+      "……結局、",
+      "…沙都子を虐めてたわけだろ、その義父は。」"
+    ],
+    "textEn": [
+      "\"...But...",
+      "in the end...",
+      "her stepfather did abuse her, right?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「いいえ。",
+      "…虐待の話は全部、…沙都子ちゃんの作り話だった。",
+      "…義理のお父さんは、もちろん少し感情的な叱り方をしてしまったかもしれないけど…逸脱してるほどではなかったの。」"
+    ],
+    "textEn": [
+      "\"No.",
+      "...All of the abuse... had been made up by Satoko-chan.",
+      "...Her stepfather, of course, may have scolded her in a somewhat emotional way... but it was nothing out of the ordinary.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子は、……義父を追い出すために嘘をついた。",
+      "そして…すぐに看破され、",
+      "……沙都子に問題があることが、",
+      "…わかってしまったのだ。"
+    ],
+    "textEn": [
+      "Satoko... had lied to chase away her stepfather.",
+      "And... they saw through her right away...",
+      "and found out...",
+      "that Satoko had issues."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………あ、",
+      "…………ひょっとして、",
+      "……そのせいで、",
+      "……おととしの冬は…様子見に…？」"
+    ],
+    "textEn": [
+      "\"...Oh......",
+      "Could it be...",
+      "that's why...",
+      "the winter before last... they decided to wait and see...?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……はい。",
+      "…大丈夫？　なんかすっごく眠そう、だよ？」"
+    ],
+    "textEn": [
+      "\"...Yes.",
+      "...Are you alright? You look really tired.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は遅くまで町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、興宮の生活相談所に電話してね。",
+      "担当の職員さんが昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the Okinomiya child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あのさ、沙都子。",
+      "家で……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"So, Satoko.",
+      "...Umm... How did it go at your house?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それに……、興宮の相談所もいろいろ検討した末にそういう判断を……。」",
+      "……実は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、…嘘の話を作って……、",
+      "自分で生活相談所に電話したって。」",
+      "ちゃんと昔の記録が残ってましたですから、",
+      "…わ、…それ絶対にバレるよ、お酒臭いー！」"
+    ],
+    "textEn": [
+      "\"...Well... After looking into it from many angles, that's what the Okinomiya child consultation center determined...\"",
+      "...This is actually the third time.",
+      "especially her stepfather, so she made up a false story...",
+      "And phoned the child consultation center herself.\"",
+      "......The center had all their past records...",
+      "...Wow... You really stink of liquor! You'll get found out for sure!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そう言えば昨日は町会の人が集まっての打ち合わせ会だったんだろ？」"
+    ],
+    "textEn": [
+      "\"Oh, right, wasn't there a big business meeting with all the people on the town council yesterday?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "先生があの後、直接、県の児童相談所に電話してね。",
+      "児童福祉司が昨夜の内に訪問したらしいよ。"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "Chie-sensei called the child consultation center right after we talked to her.",
+      "A child welfare officer apparently visited before the night was over."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…保護司、来たんでしょ？",
+      "……その、…どういう話になったわけ？」"
+    ],
+    "textEn": [
+      "\"...A probation officer came, right?",
+      "...Umm... How did it go?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…それは……、児童相談所長がいろいろ検討した末に判断を……。」",
+      "……実は、沙都子の児童虐待の通報は、これが三回目なのです。",
+      "…特に義理のお父さんを陥れるのを目的に、自傷と作話で…嘘の虐待話を作って……、",
+      "自分で虐待ＳＯＳに電話したって。」",
+      "……………児童相談所に、ちゃんと昔の記録が残ってましたですから、",
+      "……沙都子の嘘の可能性もあるから慎重に、…ということになりましたのです。」"
+    ],
+    "textEn": [
+      "\"...Well... After the person in charge at the child consultation center looked into it from many angles, they determined...\"",
+      "...This is actually the third time someone has reported Satoko's child abuse.",
+      "especially her stepfather, so she inflicted wounds on herself so she could... make up a false story about abuse...",
+      "And that she sent out an SOS herself.\"",
+      "......The child consultation center had all their past records...",
+      "so they needed to act carefully... in case Satoko was lying.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………何だよそれ",
+      "。……つまり、…何だよ。",
+      "…沙都子は、……嘘をつくかも知れないから慎重に。",
+      "…だから、………様子を見ろ、ってことに、……なってるのかよ？！」"
+    ],
+    "textEn": [
+      "\"...What the hell...",
+      "So... so what?",
+      "...Satoko... might be telling a lie, so they needed to be careful.",
+      "...So... how does that mean... they'd just end up... waiting and seeing?!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………………狼と羊飼いさんなのです。」"
+    ],
+    "textEn": [
+      "\"......It was the girl who cried wolf.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…一度嘘を付いたら、…もう誰にも信じてもらえないっていうおとぎ話。"
+    ],
+    "textEn": [
+      "That fable... about telling a lie once... making others unwilling to believe you later."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ふ、ふざけんなよッ！！",
+      "昔のことなんか全然無関係だろ？！",
+      "今現在起こっている事実だけが重要なんだろうが！！",
+      "沙都子は叔父に虐待されている！！"
+    ],
+    "textEn": [
+      "\"T-That's bullshit!!",
+      "The past has nothing to do with this, does it?!",
+      "Only what's really happening right now is important!!",
+      "Satoko is being abused by her uncle!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "どうしてその事実が…昔の出来事で歪められなきゃならねえんだよ！！」"
+    ],
+    "textEn": [
+      "Why is... Why is something that happened in the past getting in the way of helping her now?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………先生も梨花ちゃんも、何も言い返せない。"
+    ],
+    "textEn": [
+      "...Neither Sensei nor Rika-chan had anything to say to that."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……とにかく、それを慎重に判断するために保護司さんが昨日、訪れましたのです。」"
+    ],
+    "textEn": [
+      "\"...Anyway, yesterday, a probation officer visited to carefully determine what was going on.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そして…応対した沙都子は、……精一杯の強がりの笑顔で、虐待を否定した。",
+      "もちろん、多少は叔父にも口止めの脅迫を受けたんだろうが。",
+      "……誰の助けも借りずに耐え抜こうとする沙都子は、",
+      "……家で悟史の帰りを待ちたい沙都子は…。",
+      "……虐待の事実をきっぱり否定した…………。",
+      "……沙都子の大馬鹿…。",
+      "…………お前、",
+      "……何を我慢してるんだよ…？",
+      "こんな我慢ごっこをして…、…本気で悟史が帰ってくると思ってるのかよ…？",
+      "もうやめろそんなこと。",
+      "…悟史はな、…お前を捨てたんだよ。",
+      "…今日まで助けに現れなかったのが、その証拠じゃないか。",
+      "……だからもうやめろ。",
+      "…変な我慢ごっこはやめてくれ…。"
+    ],
+    "textEn": [
+      "And... Satoko dealt with them... put on the best, strongest smile she could manage, and denied the abuse.",
+      "Of course, she was probably being threatened to keep quiet about it by her uncle.",
+      "...Satoko was trying to outlast everything without asking for help...",
+      "Satoko wanted to wait for Satoshi to come back home...",
+      "And she outright denied the truth of the abuse...",
+      "...What an idiot...",
+      "......What...",
+      "...You're not really enduring it...",
+      "Do you really think pretending like this... will actually bring Satoshi back...?",
+      "Just stop it already.",
+      "...Satoshi, he... he abandoned you.",
+      "...And the fact that he hasn't shown up to save you now is proof, isn't it?",
+      "...So just stop it.",
+      "...Please stop being weird and pretending to endure it..."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「…………………今した話は全部忘れるように。",
+      "いいですね。",
+      "他の子にしゃべったら先生、怒りますからね！」"
+    ],
+    "textEn": [
+      "\".........Forget everything we just said.",
+      "Understand?",
+      "If you tell anyone else, your teacher will be very mad with you!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "先生は一応の釘を刺すと、職員室に戻って行った…。"
+    ],
+    "textEn": [
+      "Chie-sensei gave me a warning then left to go back to the teacher's lounge..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………圭一。",
+      "沙都子のことを可哀想な子なんて思わないで下さいです。」"
+    ],
+    "textEn": [
+      "\"...Keiichi.",
+      "Please don't think Satoko is a pathetic, pitiful girl.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子は、しっかり生きていますです。",
+      "…沙都子は、」"
+    ],
+    "textEn": [
+      "\"...She's living life.",
+      "...She's—\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そんなのわかってる！！　俺たちのかけがえのない仲間だ！」"
+    ],
+    "textEn": [
+      "\"I know that!! She's our irreplaceable friend!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………沙都子は、まだ頑張っています。",
+      "…もう少し、…見守ってあげましょうです…。"
+    ],
+    "textEn": [
+      "\"......Satoko is still trying her best.",
+      "...Let's watch over her... a little longer..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "相談所の人が、今後も定期的に訪問すると言ってるのです。",
+      "……大変なことになったら、すぐに助けてくれますよ…。」"
+    ],
+    "textEn": [
+      "The person from the consultation center said they'd visit periodically from now on.",
+      "...If something terrible happens, they'll help her right away...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………………大変なことになった後、だろ。」"
+    ],
+    "textEn": [
+      "\".........Yeah, but only after it happens.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それ以上は喧嘩腰になってしまうので、…ぐっと言葉を呑み込み、教室へ戻った。",
+      "魅音とレナは相変わらず沙都子とおしゃべりをしていた。",
+      "…会話は他愛ないもの。",
+      "面白おかしい、まるで楽しかった頃の日常のようだった。",
+      "………もし、…沙都子が本当にまだ耐えられるというのなら、",
+      "……梨花ちゃんの言うとおり、見守るべきなのだろうか。",
+      "……俺が何をしても、余計なお世話なのだろうか。"
+    ],
+    "textEn": [
+      "Any more than that would have sounded like I was picking a fight... so I firmly swallowed my next words and went back to the classroom.",
+      "Mion and Rena were talking to Satoko like they always did.",
+      "...It was a silly conversation.",
+      "A humorous, even fun one, like it was any old day.",
+      "...If... If Satoko really said she could still endure it...",
+      "then maybe I should do as Rika-chan said and watch over her.",
+      "...Maybe whatever help I offer will just go unwanted."
+    ]
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「は？",
+      "魅音さんの家族？」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "Mion-san's family?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ。",
+      "もっと平たく言えば、あいつに兄弟とかいないのかなーって思ってさ。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "More broadly, I was just wondering if she had any brothers or anything.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "詩音という双子の妹は実在するのかなと思い、",
+      "…好奇心に負け、こっそり沙都子に聞いてみた。"
+    ],
+    "textEn": [
+      "I was actually wondering whether her younger twin sister named Shion really existed,",
+      "and my curiosity got the better of me, so I quietly asked Satoko about it."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…う〜ん。",
+      "…どうなんでございましょうねぇ…。",
+      "いるやらいないやら…。」"
+    ],
+    "textEn": [
+      "\"...Hmmm.",
+      "...I wonder...",
+      "She might, she might not...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何だか歯切れが悪い。",
+      "…沙都子は魅音の家に何度か遊びに行ったことはないのかな？"
+    ],
+    "textEn": [
+      "She wasn't being very clear about it.",
+      "...Had Satoko never gone over to Mion's house to play?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「その反応からすると、…会ったことがないみたいだな。」"
+    ],
+    "textEn": [
+      "\"From your reaction... I guess you've never met any.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「えぇ。",
+      "お婆さん以外にはありませんですわ。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "I've never seen any of her relatives except for her grandmother.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "この反応を見る限り、…詩音実在説には早くも暗雲だな。"
+    ],
+    "textEn": [
+      "As far as I could tell... there were already dark clouds over the \"Shion is real\" theory."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「そういうのは梨花が詳しいですわよ。",
+      "梨花に聞いて御覧なさいですわ。」"
+    ],
+    "textEn": [
+      "\"Rika would know more than I.",
+      "You would do well to ask her.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子が日向ぼっこをしている梨花ちゃんに手を振る。"
+    ],
+    "textEn": [
+      "Satoko waved to Rika-chan, who was basking in the sunlight."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「梨花ぁ。",
+      "魅音さんのご家族のことをご存知ですの？」"
+    ],
+    "textEn": [
+      "\"Rika!",
+      "Do you know anything about Mion-san's family?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然な質問に梨花ちゃんはきょとんとする。"
+    ],
+    "textEn": [
+      "Rika-chan was surprised at the sudden question."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃには家族や親戚がいっぱいいますですから、全部はなかなかわからないのですよ。」"
+    ],
+    "textEn": [
+      "\"......Mii has a big family, so I don't really know everything about them.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そんなにたくさんいるのか…。",
+      "例えばさ、",
+      "…うーん、",
+      "園崎詩音ってヤツはいるのか？",
+      "えーと、その、…聞き間違いかもしれないから、ひょっとすると実在しないかもしれないんだけど…。」"
+    ],
+    "textEn": [
+      "\"That many, huh...?",
+      "For example...",
+      "...Hmm.",
+      "Is there someone named Shion Sonozaki?",
+      "Umm, well... I might have heard wrong, so she might not actually exist, but...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……詩ぃですか？",
+      "詩音はいますですよ。」"
+    ],
+    "textEn": [
+      "\"......You mean Shii?",
+      "Shion exists.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "え？",
+      "これは意外だ。",
+      "実在したのか…！"
+    ],
+    "textEn": [
+      "Huh?",
+      "That was unexpected.",
+      "So she was real...!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ふ〜ん？",
+      "よく似た名前ですのね。",
+      "間違えて舌を噛んじゃいそうですわ。」"
+    ],
+    "textEn": [
+      "\"Hmm?",
+      "Their names are quite similar, you know.",
+      "I could get tongue-tied trying to tell the difference.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃの双子の妹さんだと聞いたことがありますですが、あまり会ったことはないのです。」"
+    ],
+    "textEn": [
+      "\"......I've heard she's Mii's younger twin sister, but I haven't met her too many times.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんも知ってはいるが、あまり会ったことはないという。"
+    ],
+    "textEn": [
+      "Rika-chan knew a bit about her as well, but hadn't seen her much."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……何年か前に、法事の集まりがあった時に会ったような気がしますですよ。」"
+    ],
+    "textEn": [
+      "\"......I think I met her once at a funeral a few years ago.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「このクラスにいないってことは、学校は興宮の方に通っているってわけかな。」"
+    ],
+    "textEn": [
+      "\"She's not in this class, so maybe she goes to school in Okinomiya.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「お家も興宮なのかもしれませんわよ。",
+      "だって、魅音さん自身、家族とは別でお婆さんと暮らしてるわけですから。」"
+    ],
+    "textEn": [
+      "\"She may live there, too.",
+      "Mion-san herself lives apart from her family with her grandmother, after all.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "両親と別居してるのか？",
+      "それは何だか変わってるな。",
+      "事情でもあるのかな？"
+    ],
+    "textEn": [
+      "She didn't live with her parents?",
+      "That was a bit odd.",
+      "Was there something between them?"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……とてもややこしいお家なのです。」"
+    ],
+    "textEn": [
+      "\"......It's a very complicated family.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「親類の数が多いらしいですから。",
+      "きっといろいろと都合があるに違いないのですわ。」"
+    ],
+    "textEn": [
+      "\"She seems to have many relatives.",
+      "There are doubtless many different circumstances.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "とりあえず詩音という双子の妹がいることだけはわかったが、その家族構成は、本人同様、なんともミステリアスなようだな…。"
+    ],
+    "textEn": [
+      "For now, I learned that she had a younger twin sister named Shion, but her family structure, including her own position, still seemed very mysterious..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「お、３人揃って何の話だい？",
+      "おじさんも混ぜてよー。」"
+    ],
+    "textEn": [
+      "\"Oh, what are the three of you talking about?",
+      "Let this old man in on it!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あら、魅音さん、いいところへ〜！",
+      "魅音さんに双子の妹さんがいるってのは本当でございますのー？」"
+    ],
+    "textEn": [
+      "\"Oh, Mion-san, you've come at a good time~!",
+      "Might it be true that you have a younger twin sister?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あ、…魅音、…まずい…。"
+    ],
+    "textEn": [
+      "Ah... Mion... crap..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…い、…妹…？！",
+      "え、と………、う、うん。",
+      "いるよ…。」"
+    ],
+    "textEn": [
+      "\"...A... a younger sister...!?",
+      "Um, well...... y-yeah.",
+      "I do...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が柄にもなく赤面しながらうろたえる。",
+      "…何となく俺の様子を伺っているような……。"
+    ],
+    "textEn": [
+      "Mion grew uncharacteristically red in the face, at a loss.",
+      "...I think she's looking at me..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あら〜！",
+      "それは知らなかったですわ〜！",
+      "どんな方なのかしら。",
+      "ぜひ一度お顔を見てみたいですわねー！！」"
+    ],
+    "textEn": [
+      "\"Oh, my~!",
+      "I had no idea~!",
+      "What kind of person might she be?",
+      "I would very much like to meet her sometime!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「会わない方がいいよ！",
+      "ぜ、全然可愛くないし！",
+      "生意気だし！",
+      "たまに電話で話すくらいで…私もしばらく会ってないし…！」"
+    ],
+    "textEn": [
+      "\"You shouldn't bother!",
+      "Sh-She's not cute at all!",
+      "She's really conceited!",
+      "Besides, other than talking to her on the phone once in a while... I haven't seen her for a long time, either...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……どうしてこんなに狼狽しながら話すんだか…。",
+      "こんな様子じゃ、昨日の詩音は実は偽者でしたーって公言してるようなもんだぞ…。",
+      "とりあえず面白いのでしばらく放って置くことにする。",
+      "…詩音という名のもうひとりの魅音。",
+      "…またあの店に行けば会えるのだろうか？",
+      "魅音と同一人物であると知りながら、まるで新しい友人と知り合ったような、そんな不思議な感覚があった。"
+    ],
+    "textEn": [
+      "...Why did it look like she was in such a panic...?",
+      "It's like she was declaring that the Shion from yesterday was actually a fake...",
+      "Anyway, this was pretty funny, so I let it go for a little while longer.",
+      "...Another Mion, under the name of Shion.",
+      "...Will I be able to see her if I go to that restaurant again?",
+      "I had a mysterious feeling, as if I'd made a new friend, despite knowing that she and Mion were the same person."
+    ]
+  }
+]

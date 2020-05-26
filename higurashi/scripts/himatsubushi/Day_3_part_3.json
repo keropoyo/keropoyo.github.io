@@ -1,0 +1,404 @@
+[
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「くそ！！",
+      "待てよ、待ってくれよ！！",
+      "死にたくないよッ！！！」"
+    ],
+    "textEn": [
+      "\"Dammit!!",
+      "Wait, just wait!!",
+      "I don't want to die!!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Kidnapper",
+    "labelJp": "誘拐犯",
+    "textJp": [
+      "「あぁん、こっちだって死なせとぅないん！！",
+      "わかればええん、わかれば！！」"
+    ],
+    "textEn": [
+      "\"Aah, and I don' wanna kill ya!!",
+      "'Slong as ya unnerstand!!\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「撃つなよ？！",
+      "撃つなよ？！？！",
+      "帰りを待ってる妻がいるんだ！！",
+      "死にたくないんだよッ！！！」"
+    ],
+    "textEn": [
+      "\"Don't shoot, okay!?",
+      "Don't shoot!!",
+      "I have a wife waiting for me at home!!",
+      "I don't want to die!!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Kidnapper",
+    "labelJp": "誘拐犯",
+    "textJp": [
+      "「叫ばんとでも撃たんね！！",
+      "大人しゅぅ頭抱えてうつ伏せになったら、撃たんだるね！！」"
+    ],
+    "textEn": [
+      "\"I won' shoot 'slong as ya don' yell or nuthin' !",
+      "Jes quietly put yer 'ands on yer 'ead and lie down!!\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「本当だろうな？！",
+      "本当だろうなッ？！？！",
+      "約束は守れよ、絶対だぞ？！",
+      "男と男の約束だぞッ？！？！」"
+    ],
+    "textEn": [
+      "\"Will you really!?",
+      "Will you really!?!?",
+      "You'll keep your promise, right!?",
+      "This is a promise between men!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Kidnapper",
+    "labelJp": "誘拐犯",
+    "textJp": [
+      "「守ったんね！！",
+      "男と男の約束しゃあよッ！！」"
+    ],
+    "textEn": [
+      "\"I will!!",
+      "'S a promise between men!!\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「守れよ！守れよ！！！",
+      "じゃあ、うつ伏せになるからな？！",
+      "なるからな？！",
+      "約束守るんだから銃を向けるのやめろよ！！",
+      "やっぱ撃つ気なんだろ？！"
+    ],
+    "textEn": [
+      "\"Keep your promise! Keep it!!!",
+      "I'm going to get down on the ground, okay?",
+      "I'm getting down!",
+      "I'll keep my promise, so stop pointing that gun at me!!",
+      "You're still thinking of shooting me, aren't you!?"
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "撃つ気なんだろ？！",
+      "俺がうつ伏せになったら後頭部を撃つ気なんだろ？！？！」"
+    ],
+    "textEn": [
+      "You want to shoot me, don't you!?",
+      "When I get down on the ground, you're just going to shoot me in the back of the head, aren't you!?!?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Kidnapper",
+    "labelJp": "誘拐犯",
+    "textJp": [
+      "「撃たんね撃たんね！！",
+      "わぁった！！",
+      "しまったる！",
+      "銃はしまったる！！",
+      "男と男の約束しゃあね！！",
+      "…どんね！！",
+      "これなら文句ないんてッ？！？！」"
+    ],
+    "textEn": [
+      "\"I won', I won'!!",
+      "Fine!!",
+      "I'll put it away!",
+      "I'll put tha gun away!!",
+      "'S a promise between men!!",
+      "...There!!",
+      "No problem now, righ'!?!?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「えぇ、極めて文句ないですよッ！！！」"
+    ],
+    "textEn": [
+      "\"Yeah, absolutely no complaints!!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Kidnapper",
+    "labelJp": "誘拐犯",
+    "textJp": [
+      "「をがッ！！",
+      "ががッ！！！」"
+    ],
+    "textEn": [
+      "\"Gah!",
+      "Ugghhhaaa!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "電光石火の早業だった。",
+      "銃を持った手が下がった一瞬のチャンスを、大石氏は見逃したりはしなかった！",
+      "大石氏は少し前から、背後で男たちの隙を伺っていたのだ。",
+      "だが、二人が拳銃を向けていて、なかなか飛び出すチャンスがなかったのだ。",
+      "私は大石氏の、何とかスキを作って欲しい…というアイコンタクトを受けて、見事、その大任を全うしたのだった。",
+      "大石氏は背後から銃を持った腕を掴み上げ、瞬時に間接を極めてしまう。",
+      "そしてその手から銃を奪うまではまさに一瞬だ！",
+      "もうひとりの男が、少し遅れて状況を飲み込み銃を向けたが、仲間ともみ合う大石氏に向かって引き金を引くことなどできない。",
+      "もし、この男がもうひとりの方の男だったなら、躊躇なく撃ったかもしれない。",
+      "だが、こっちの男は撃たない。",
+      "撃てないッ！！",
+      "大石氏は男を蹴って転ばせると、奪った銃を左手に、そして右手で自分の銃を抜いて構えた。",
+      "二丁拳銃のそれぞれの銃口が二人に向けられる！"
+    ],
+    "textEn": [
+      "It was over in a flash.",
+      "The moment he lowered his gun, Ooishi didn't let his chance slip by!",
+      "Ooishi had been assessing the situation for quite some time from behind the two men.",
+      "But since they had their guns trained on me, he didn't really have a chance to jump in.",
+      "Seeing the look on Ooishi's face indicating that he wanted me to create an opening, I took on that role completely.",
+      "Ooishi forcefully lifted the arm that was holding the gun.",
+      "He then took the gun from the man's hand in only an instant!",
+      "The other man, who was a bit slow in grasping what was happening, pointed his gun at them, but with his ally grappling with Ooishi, he couldn't pull the trigger.",
+      "If that man was the one that was wrestling with Ooishi at the moment, he might have shot without hesitation.",
+      "But this man wouldn't shoot.",
+      "He couldn't shoot!!",
+      "Ooishi kicked the other man away, and while aiming the stolen gun with his left hand, pulled out his own.",
+      "With guns akimbo, he was aiming at both men at the same time!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「王手飛車取りってとこですかねぇ！！」"
+    ],
+    "textEn": [
+      "\"I do believe that's checkmate!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "完璧な王手だと思った。",
+      "だが、銃口が向けられているにも関わらず、男たちは「ズラかれ！！」と叫ぶと、一目散に駆け出す。",
+      "あっと言う間のことだった。",
+      "あの二人が、反撃や抵抗もせず、これほどあっさり逃げ出すとは、正直意外だ。",
+      "大石氏は小さく舌打ちすると、二丁拳銃を左右のズボンのポケットにしまった。"
+    ],
+    "textEn": [
+      "It was perfectly played.",
+      "But, heedless of the guns pointed at them, the men shouted \"Scram!!\" as they scattered away at full speed.",
+      "It was over in an instant.",
+      "Those two running away without putting up a fight was honestly unexpected.",
+      "Ooishi, quietly clicking his tongue in admonishment, slipped both guns into his pants pockets."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ち。",
+      "あいつらもよく知ってるなぁ…。」"
+    ],
+    "textEn": [
+      "\"Tsk.",
+      "Those guys know their stuff...\""
+    ]
+  },
+  {
+    "color": "#797d8a",
+    "labelEn": "Akasaka",
+    "labelJp": "赤坂",
+    "textJp": [
+      "「…？",
+      "何をですか？」"
+    ],
+    "textEn": [
+      "\"...?",
+      "What do you mean?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「逃げてる背中を警官は撃てませんからねぇ。",
+      "私も退職金が惜しいもんで。」"
+    ],
+    "textEn": [
+      "\"An officer won't fire at somebody who's fleeing.",
+      "I want to keep my pension here.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石氏とニヤリと笑い合う。"
+    ],
+    "textEn": [
+      "Ooishi and I grinned at each other."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「君が、犬飼寿樹くん？",
+      "犬飼建設大臣のお孫さん？」"
+    ],
+    "textEn": [
+      "\"Are you Toshiki Inugai?",
+      "The grandson of the Minister of Construction, Inugai?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Toshiki",
+    "labelJp": "寿樹",
+    "textJp": [
+      "「は、………はい…！」"
+    ],
+    "textEn": [
+      "\"Y... Yes...!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「………こりゃあ、…デカイ事件になるかなぁ。",
+      "どうせトカゲの尻尾切りになるんでしょうけどねぇ。",
+      "…んっふっふっふ。」"
+    ],
+    "textEn": [
+      "\"...This is going to be a major incident.",
+      "We probably only cut the tail off the lizard though.",
+      "Nfu fu fu.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石氏はさも面白そうに笑う。",
+      "黒幕に鬼ヶ淵死守同盟（もしくはさらにその黒幕の園崎家）がいることは明白だが、わかってはいても、至ることは容易ではないだろう。",
+      "それに、大石氏には悪いが、今回の事件が表沙汰になるかどうかだって怪しい。",
+      "騒ぎ立てれば、大臣の失脚を招くことは明らかだ。",
+      "国益優先の本庁の判断で、恐らく穏便に片付けられることだろう。",
+      "乱暴な言い方で言うと、闇から闇へ、ということだ。",
+      "…その辺りの都合は、大石氏くらいになればすでに理解しているだろう。"
+    ],
+    "textEn": [
+      "Ooishi smiled amusedly.",
+      "The fact that the Onigafuchi Defense Alliance (or rather, the Sonozaki family behind them) was pulling the strings was apparent, but proving it wouldn't be easy.",
+      "And, with apologies to Ooishi, this incident was unlikely to go public.",
+      "If this caused an uproar, it would obviously lead to the Minister losing his office.",
+      "With HQ having decided that doing so was in the national interest, this would probably be cleaned up quietly.",
+      "It might be a rough way of saying it, but this was born in the shadows, and was going to die in the shadows.",
+      "...Ooishi probably already understood the implications behind this incident."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「とにかく、非常線を張らせましょう。",
+      "連中、まだ一丁は拳銃を持ってるようですからねぇ。",
+      "それから犬飼くんを保護して、赤坂さんはすぐに病院に行かないと。」"
+    ],
+    "textEn": [
+      "\"For the time being, let's cordon off the area,",
+      "since it seems that one of them still has a gun.",
+      "After that, let's get Inugai-kun to safety and get you to the hospital.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "緊張が解けるに従い、銃で撃たれた肩の痛みが一気に蘇る。",
+      "額もジンジンと痛み出し、火を吹くかのように熱くなりだす。",
+      "緊張が解けて汗が一気に噴出した…と思って、額を拭うと、それは汗でなく、べったりとした大量の血だった。",
+      "気付けば、自分のワイシャツは額から溢れる血で真っ赤だ。",
+      "後を振り返る。",
+      "……孫は健在だ。",
+      "間違いなく。",
+      "逃げた連中のことを、今後も調査することになるだろうが、それは後日の話だ。",
+      "今の時点では、孫の保護という最大のヤマを越えたと断言できる。",
+      "それを自身が認めた途端、頭の中が次々停電していくように、暗くなっていくのを感じた。",
+      "自分の膝がぐにゃりと曲がり、地面が羽根布団のように柔らかに感じた。",
+      "土砂降りの泥の中に身を浸しても、何の不快感も感じなかった。",
+      "大石氏が駆け寄って来て、大丈夫ですかと言うが、何だか自分のことのように感じられなくて、",
+      "………私は頭の中の最後の灯りのスイッチを、消した。",
+      "ふ〜〜〜っと、訪れる脱力。",
+      "まどろみ。",
+      "…それはどんな布団よりも柔らかく私を包み込んで行った…。"
+    ],
+    "textEn": [
+      "As the tension in the situation faded, the pain from the gunshot wound in my shoulder blossomed once again.",
+      "My forehead was also stinging painfully, and had grown hot enough to start a fire.",
+      "Thinking that the tension had caused me to sweat, I wiped my forehead, but what came off was a large amount of blood.",
+      "I realized that my shirt had been stained bright crimson from the blood flowing from my head.",
+      "I turned around.",
+      "...The boy was safe and sound.",
+      "Without a doubt.",
+      "There would probably be an investigation on the men who ran, but that was for another day.",
+      "At this point in time, I could safely say we had cleared the major hurdle of securing the boy's safety.",
+      "As soon as I recognized that, it felt like the lights in my head had been hit by a power failure.",
+      "My knees buckled from underneath me, the ground there feeling as soft as a cloud.",
+      "It didn't feel unpleasant even as I was covered in the rain-soaked mud.",
+      "Ooishi came closer, asking if I was okay, but somehow I couldn't tell.",
+      "...I turned off the switch to the last light in my head.",
+      "The exhaustion enveloped me.",
+      "Sleep.",
+      "...Something softer than any blanket wrapped around me..."
+    ]
+  }
+]

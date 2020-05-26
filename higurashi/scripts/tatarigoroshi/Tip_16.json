@@ -1,0 +1,210 @@
+[
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「………今年の祟り、ってことっすかね。」"
+    ],
+    "textEn": [
+      "\"...This year's curse, then?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…そういうことになるんですかねぇ。",
+      "……毎年いろんな殺し方を見せてくれますが、今年は特に際立っていますねぇ。」"
+    ],
+    "textEn": [
+      "\"...That's what it looks like.",
+      "...He kills them differently every year, but this is particularly conspicuous, isn't it?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「自分で自分の喉を掻き破るなんて…。",
+      "…普通じゃないっす…。」"
+    ],
+    "textEn": [
+      "\"Clawing out your own throat...",
+      "...That isn't normal...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あとは鑑識のじいさまに任せましょう。",
+      "…きっと何かの怪しげな薬物を検出してくれるに違いありません。」"
+    ],
+    "textEn": [
+      "\"Let's leave the rest to the old man in forensics.",
+      "...I'm sure he'll find some suspicious drugs.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「お疲れさまです！",
+      "お疲れさまでーす！！」"
+    ],
+    "textEn": [
+      "\"Thank you!",
+      "Thank you for your hard work!!\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「あ、大石さん！",
+      "小宮山さんたちが到着しました！」"
+    ],
+    "textEn": [
+      "\"Oh, Ooishi-san!",
+      "Komiyama-san and the others have arrived!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「大石さん、お疲れさまです！",
+      "今年は一等、キてるのが出たらしいじゃないですか。」"
+    ],
+    "textEn": [
+      "\"Ooishi-san, much appreciated!",
+      "Well, it would seem we have a pretty crazy one this year.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「えぇ。",
+      "裏をかかれました。",
+      "……私ゃてっきり、今夜死ぬのは北条鉄平だとばかり思ってたんですがね…。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "We've been outsmarted.",
+      "...I was absolutely under the impression Teppei Houjou would get killed tonight...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「ホトケは何者です？」"
+    ],
+    "textEn": [
+      "\"Who is the deceased?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「富竹ジロウ。",
+      "年に何回か雛見沢に来てる趣味の写真家さんです。",
+      "……ノーマークだったなぁ…。」"
+    ],
+    "textEn": [
+      "\"Jirou Tomitake.",
+      "A photographer with a hobby for coming to Hinamizawa a few times a year.",
+      "...We didn't even have him marked...\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「…どうなんでしょうね。",
+      "北条宅にずっと張り付いてたのがバレて、ターゲットを変更したとか。」"
+    ],
+    "textEn": [
+      "\"...I wonder what happened?",
+      "Did they realize we were watching the Houjou residence the whole time and decide to switch their target?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…………………かなぁ。………裏目ったなぁ……。」"
+    ],
+    "textEn": [
+      "\".........Maybe...... We sure flubbed this one...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「で、北条鉄平の方は何も問題なし？」"
+    ],
+    "textEn": [
+      "\"And there are no problems with Teppei Houjou?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「えぇ。",
+      "夕方頃に娘が祭りに出掛けて、その少し後にバイクで出掛けまして。"
+    ],
+    "textEn": [
+      "\"Correct.",
+      "His daughter left for the festival in the evening, and a little while later, he left on his motorbike."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…先に娘が帰ってきて、…あれ？",
+      "まだ帰ってないかな？",
+      "どこかで飲んだ暮れてるのかな…？」"
+    ],
+    "textEn": [
+      "...His daughter came back first... wait.",
+      "Has he not come back yet?",
+      "Is he still out drinking somewhere...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「大石さん、いらっしゃますかぁ？！",
+      "高杉課長からです。",
+      "１号車の無線にお願いします！！」"
+    ],
+    "textEn": [
+      "\"Ooishi-san, are you there?!",
+      "Call from Chief Takasugi.",
+      "He's on the line in Car 1!!\""
+    ]
+  }
+]
