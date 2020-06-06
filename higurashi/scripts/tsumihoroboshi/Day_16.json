@@ -1,0 +1,2682 @@
+[
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「すまなかったレナ。",
+      "……俺はどこかでレナの話を疑ってたよ。",
+      "本当にすまない。」"
+    ],
+    "textEn": [
+      "\"I should apologize, Rena.",
+      "...I don't think I believed you.",
+      "I'm really sorry about that.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うぅん、いいよ圭一くん。",
+      "…………そのお陰で、待ち伏せをやり過ごせたんだしね。」"
+    ],
+    "textEn": [
+      "\"It's okay, Keiichi-kun.",
+      ".........I'm just glad we didn't get caught.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あいつらは何者なんだ？！",
+      "………その、……オヤシロさま信仰を復活させようとする、狂信者の集団の手先？！」"
+    ],
+    "textEn": [
+      "\"Who are they?!",
+      "...Are they pawns of those religious fanatics who are trying to revive the cult of Oyashiro-sama?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…彼らにはそういう自覚はないと思う。",
+      "彼らを操っている黒幕はそうなんだと思うけどね。",
+      "……多分、ダム戦争の当時から、陰で様々な工作をしてきた連中なんだと思う。」"
+    ],
+    "textEn": [
+      "\"...I think they don't realize that they're pawns,",
+      "but I'm sure the masterminds are using them as such.",
+      "...They must be the ones who have been pulling strings behind the scenes, ever since the dam conflict.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………ダム戦争の最中に、園崎家が裏で色々と暗躍したーって話は、俺も少しは聞いたことがあるな。」"
+    ],
+    "textEn": [
+      "\"......I heard that people working for the Sonozaki family did something similar during the dam conflict itself.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "有名な話だよね。",
+      "……これは大石さんに聞いたんだけど。",
+      "ダム戦争の最中に、誘拐事件があったんだって。"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "Everyone knows that.",
+      "...Ooishi-san told me that",
+      "there was a kidnapping incident during the dam conflict."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "これも秘密の事件なんだけど、……なんでも、建設大臣の孫を誘拐して、ダム建設中止の約束を裏取引したんだって。」"
+    ],
+    "textEn": [
+      "The case hasn't been disclosed to the public... but anyway, someone kidnapped the grandson of the Minister of Construction and coerced the Minister into promising to put a halt to the dam construction.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「大臣の孫を誘拐？！",
+      "おいおいそんなの聞いたことないぞ！」"
+    ],
+    "textEn": [
+      "\"The grandson of the Minister was kidnapped?!",
+      "Hey, I've never heard about that before!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「大臣が犯人との取引に応じる姿勢を見せたため、事件を公にしないことになったんだって。",
+      "大石さんは当時、その事件に関わったから知ってるんだって。」"
+    ],
+    "textEn": [
+      "\"The Minister submitted to their demands and they made a deal behind the scenes. That's why the incident never went public.",
+      "Ooishi-san only knows about it because he was in charge of the case.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………うんうん。",
+      "……それで…？」"
+    ],
+    "textEn": [
+      "\"......Hm, okay...",
+      "...and...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「大石さんが言うには、孫の誘拐や大臣の脅迫などの手口は、恐ろしいほどに高度だったんだって。"
+    ],
+    "textEn": [
+      "\"According to Ooishi-san, between kidnapping the minister's grandson and blackmailing him, their tactics were frighteningly advanced."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "その事件は、園崎家が命令を下したことだけはわかっているけど、結局、未解決なんだって。"
+    ],
+    "textEn": [
+      "The police know that the Sonozaki family gave orders to the kidnappers, but the case still remains unsolved."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "",
+      "……当時、園崎家の頭首である園崎お魎は、武装闘争の方針を打ち出していて、配下である暴力団組織の中に特攻隊を組織したそうなの。"
+    ],
+    "textEn": [
+      "<size=-2>",
+      "...At that time, the head of the Sonozaki family, Oryou, had announced a plan to fight against the dam project by force. She even formed a special attack corps using the yakuza group that's under the Sonozaki family's command."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "ダム計画の撤回がどうしても望めない時は、建設省に突入して武力制圧しようなんて、そんな物騒な計画を本気で練っていたらしいの。」"
+    ],
+    "textEn": [
+      "She was very serious about this plan to put the Ministry of Construction down by brute force if she couldn't stop the construction.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ダム戦争の当時、園崎家が本当に戦争紛いの違法行為で抵抗したのは有名だ。",
+      "だから、そんな物騒な計画があったとしても不思議はなかった。",
+      "実際、どことなく魅音っぽいセンスも感じる。"
+    ],
+    "textEn": [
+      "Everybody knows that the Sonozaki family had tried to stop the dam project even if it meant breaking the law.",
+      "So I wasn't so surprised to hear that she had a dangerous plan like that.",
+      "Actually, I wouldn't be surprised if it was Mion who came up with the idea. The plan sounded just like her."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「結局、その計画は計画のままで終わったんだけど、それを実行するための特攻隊の訓練というのは行なわれていて、相当高度なものだったらしいよ。」"
+    ],
+    "textEn": [
+      "\"In the end, the plan ended up as nothing more than that. But the special attack corps actually did undergo training, and very high-level training at that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ダム戦争が終結した直後に大石が掴んだ情報だった。",
+      "当時、お魎は、仮に村がダムに沈むことになったなら、",
+      "同盟員全員は自宅に残ったまま湖底に沈むことを選ぶとまで言い、鬼ヶ淵死守同盟総自決とまで言い切っていた。",
+      "そんなお魎だからこそ、建設省武力突入作戦は笑い飛ばせる話では到底なかった。",
+      "大石が掴んだ情報によるならば、この計画はダム戦争の激化と同時に、抵抗が及ばなかった際の、最後の自決作戦として立案されたという。",
+      "そして、実際にその作戦を起こせるだけの武器の調達と人材の訓練を行なったらしい。",
+      "暴力団関係者から選抜された特攻隊は、お魎からの莫大な訓練費用を得て渡米。",
+      "南部の砂漠地帯で、退役軍人などから高度な軍事訓練を受けたという。",
+      "",
+      "計画こそ実施されなかったが、この特攻隊は、帰国して園崎お魎直轄の暗殺部隊となり、未解決の脅迫事件多数に関わり、大臣の孫の誘拐にも成功したのだという。"
+    ],
+    "textEn": [
+      "Ooishi had uncovered the information right after the dam conflict ended.",
+      "At the time, Oryou even said that if the village was going to be submerged,",
+      "all members of the Onigafuchi Guardians would choose to stay in their houses and drown.",
+      "So because Oryou was behind those things, I couldn't just laugh off the idea of an armed assault on the Ministry of Construction.",
+      "According to the information Ooishi seized, she planned a suicide mission as a last resort when the dam conflict started to heat up, in case their resistance wasn't successful.",
+      "She had actually obtained weapons and put people through training for the sake of that plan.",
+      "The special attack corps were flown to America, having received a huge amount of money from Oryou for the operation.",
+      "In the southern desert of the United States, some retired military soldiers gave them highly professional training.",
+      "<size=-2>",
+      "While the plan was never carried out, the special attack corps became a death squad under the direct control of Oryou after they came back from America. They were involved in many unsolved terrorist incidents, and they succeeded in kidnapping the grandson of the Minister as well."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……う、……嘘みたいな話だな…。」"
+    ],
+    "textEn": [
+      "\"...I-It sounds like it's from a movie or something...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃんがよく、ヘリの操縦から無線機まで何でも出来る…みたいなことを言うでしょ？",
+      "あれは本当。",
+      "魅ぃちゃんも当時、その訓練に参加してるらしいよ。」"
+    ],
+    "textEn": [
+      "\"Do you remember how Mii-chan said that she could do anything, from flying helicopters to using wireless radios?",
+      "It's actually all true.",
+      "It seems like Mii-chan joined in their training.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃああいつ、……ほ、本当に…！」"
+    ],
+    "textEn": [
+      "\"So that was all true?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…ま、魅ぃちゃんの話はともかく。",
+      "この雛見沢には、大臣の孫すらも誘拐できるだけの暗殺部隊が存在するってことだけは、疑っちゃだめ。」"
+    ],
+    "textEn": [
+      "\"...Well, let's put that aside for now.",
+      "Anyway, you have to at least believe that the death squad actually exists in Hinamizawa. And they're capable of kidnapping the grandson of a government minister.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……今日のワゴン車に乗っていた４人の顔をしげしげと見たわけじゃないが、……言われてみれば、どことなく、その手のプロっぽい雰囲気がした。",
+      "ただ休憩してるだけのはずなのに、常に緊張感みたいなものがあるのを感じた。"
+    ],
+    "textEn": [
+      "...I didn't take a close look at the four men in the white van today... but thinking about it, they did look professional in a way.",
+      "They were pretending to just be taking a break, but I could tell they were tense the whole time."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それで………あいつらはレナの命を狙っているのか…？！」"
+    ],
+    "textEn": [
+      "\"So... are they really trying to kill you...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……多分、狙ってはいないと思う。",
+      "殺すだけだったら、私、もう殺されてるよ。」"
+    ],
+    "textEn": [
+      "\"...I don't think so.",
+      "If they really wanted to kill me, I'd be dead already.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ…狙いは………、",
+      "……まさかあれか。",
+      "……鷹野さんのスクラップ帖…。」"
+    ],
+    "textEn": [
+      "\"So... what do they want...?",
+      "...Are they after...",
+      "Takano-san's scrapbooks...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんが見た通り、連中は相当、警戒心が強いみたいで、隙を見つけない限りは強引な手段に訴えてこないみたいなの。",
+      "…だって、強引な連中なら、私の自宅の寝込みを襲えばいいんだから。」"
+    ],
+    "textEn": [
+      "\"Like you saw yourself, the group is very cautious. Unless we show them an opening, they won't resort to force.",
+      "...If they were the type to use force outright, they could've attacked me in my sleep.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それをしないってことは、………結構、慎重だってことになるな。」"
+    ],
+    "textEn": [
+      "\"They haven't done that yet, so that must mean they're taking it cautiously.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「多分、私がスクラップ帖を持っているという確信がないからだと思うの。",
+      "彼らは三四さんを殺し、持っていたスクラップ帖を全て処分しようとした。",
+      "……ところが、一番重要な数冊が抜けていた。"
+    ],
+    "textEn": [
+      "\"They're probably not sure that I have the scrapbooks.",
+      "They killed Miyo-san and tried to dispose of them...",
+      "...But they found out that the most important ones were missing."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "それで、自分が狙われているのを察して、誰かに預けたんじゃないかと考えてるんだと思うの。",
+      "その有力候補が私なんだと思う。",
+      "………でも確証がないから、強引な手段に訴えられないんだろうね。」"
+    ],
+    "textEn": [
+      "They thought she gave them to someone because she knew her life was in danger.",
+      "Now they think I'm the one who has them.",
+      "...But they're not sure, so they can't resort to violence.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………レナ……、",
+      "…お前、",
+      "……かなりヤバい橋を渡ってるんじゃないのか…。」"
+    ],
+    "textEn": [
+      "\"...Rena...",
+      "it sounds like...",
+      "you're playing a dangerous game...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね。",
+      "…ちょっと怖いかな。",
+      "でも、…そう簡単には消されないよ。",
+      "私は大石さんと連携している。",
+      "有事の際に備えて常に連絡を取り合っているしね。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "...I'm a bit scared.",
+      "But... they won't be able to erase me so easily.",
+      "After all, I'm cooperating with Ooishi-san.",
+      "I've been frequently contacting him in case something happens.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうだ、大石さんはどう言ってるんだよ。」"
+    ],
+    "textEn": [
+      "\"What did he say about them?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「大石さんも園崎家が何らかの暗躍をしていないか監視してくれてるよ。」"
+    ],
+    "textEn": [
+      "\"He said he'd keep an eye on the Sonozaki family so that he could catch them right away, if they were working behind the scenes.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……鷹野さんのスクラップ帖の話はしたのか？」"
+    ],
+    "textEn": [
+      "\"...Did you tell him about the scrapbooks?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うぅん。",
+      "………話してない。」"
+    ],
+    "textEn": [
+      "\"No.",
+      "...I didn't.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「警察には話した方がいいだろ…。",
+      "それに警察なら、きっと力になってくれるぞ…！」"
+    ],
+    "textEn": [
+      "\"I think you should. He's an officer.",
+      "I'm sure the police will help you...!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………圭一くん。",
+      "私は君にだって、信じてもらえるか自信がなくて話せないでいるんだよ。",
+      "………大石さんに話したって、絶対に信じてもらえるわけがない。」"
+    ],
+    "textEn": [
+      "\".........Keiichi-kun.",
+      "I can't even tell you the secret of this village because I'm not sure you would believe me.",
+      "...I don't think Ooishi-san would believe me if I told him any of this.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なぁレナ。",
+      "もう煙に巻くのはなしだ。",
+      "話してくれ。",
+      "一体、何なんだ？",
+      "何がスクラップ帖に書いてあるんだ？",
+      "三四さんが消されるほどの何が書いてあるんだ？！」"
+    ],
+    "textEn": [
+      "\"Rena,",
+      "let's not make it more confusing than it already is.",
+      "Just tell me.",
+      "What is it?",
+      "What's written in the scrapbooks?",
+      "What's the secret that killed Miyo-san?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「簡単に言うと、……………このスクラップ帖に書いてあることが事実なら、彼らの神が貶められることになるの。」"
+    ],
+    "textEn": [
+      "\"Simply put............ if the things written in the scrapbooks are true, the god they worship will be dethroned.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「神を、……貶める……？」"
+    ],
+    "textEn": [
+      "\"Their god...? Dethroned...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そう。",
+      "オヤシロさまの、神聖性が失われてしまう。",
+      "だからオヤシロさま信仰を復活させようとする彼らは絶対に伏せたいと思っているの。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "The sanctity of Oyashiro-sama will be lost.",
+      "That's why they want to conceal the truth. They want to resurrect people's belief in Oyashiro-sama.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「すまんレナ、もう少しわかりやすく言ってくれ。",
+      "つまりどういうことなんだ…？」"
+    ],
+    "textEn": [
+      "\"Rena, can you explain it, uh, a little more simply than that?",
+      "I'm confused...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「つまり、オヤシロさまは神さまじゃないってことなの。」"
+    ],
+    "textEn": [
+      "\"In other words, Oyashiro-sama isn't a god.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………神さまじゃ、ない？」"
+    ],
+    "textEn": [
+      "\"...He isn't?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何を根拠にそうだと断じるのかはわからないが、どういう内容であれ、オヤシロさまを狂信的に信仰する連中にとっては、神を冒涜する内容でしかない。"
+    ],
+    "textEn": [
+      "I had no idea what she read that made her so certain, but whatever it was, it'd be sacrilegious for people who believed so strongly in Oyashiro-sama."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「オヤシロさまの教えって、いくつもあるけど、その原点はたったのひとつしかない。",
+      "それは『中から出るな』『外から入るな』というもの。"
+    ],
+    "textEn": [
+      "\"There are many teachings of Oyashiro-sama, but the essence is as follows:",
+      "'Don't leave the village' and 'don't let anybody into the village'."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "この大原則を守るために、その他の教義を発展させたと言ってもいいくらい。"
+    ],
+    "textEn": [
+      "One could even say the rest of his teachings were developed to maintain those two fundamentals."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "隣人を愛せとか、家内安全とか縁結びの神さまなんてのは、本当に後から取ってつけたものでしかないの。」"
+    ],
+    "textEn": [
+      "It really wasn't until later on that they added aspects like 'love your neighbor' or viewing him as a god of marriage and domestic prosperity.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "つまり、オヤシロさまは、村人を外へ逃がさないことだけを目的に存在していたのだ。",
+      "そこには、人々に恵みを与えたり、何らかの災厄から守ってくれたりというご利益は存在しない。",
+      "そんなものは、後世の人間が後付けにした装飾に過ぎない。",
+      "そもそもオヤシロさまはなぜ降臨したのか。",
+      "それは鬼ヶ淵の沼より鬼が湧き出し、人々を襲ったからだ。"
+    ],
+    "textEn": [
+      "In other words, Oyashiro-sama existed solely to stop the villagers from going outside the village.",
+      "Oyashiro-sama doesn't bless the villagers or protect them from disasters.",
+      "The people believe that Oyashiro-sama does all that for them, but the truth is that the people abused his name for that purpose, generation after generation, and nothing more than that.",
+      "Why did Oyashiro-sama descend in the first place?",
+      "Because demons came out of Onigafuchi Swamp and attacked people."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「実は、……この時点で解釈が違ってたの。",
+      "鬼が湧き出して襲ったんじゃない。",
+      "湧き出したものにやられると、人々を襲う鬼になるの。」"
+    ],
+    "textEn": [
+      "\"In fact... that was the wrong interpretation.",
+      "Demons didn't come out of the swamp and attack people.",
+      "People became demons and attacked others when they were possessed by whatever came out of the swamp.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………湧き出したもの…？",
+      "ど、どういう意味だよレナ…。」"
+    ],
+    "textEn": [
+      "\"...Whatever came out of the swamp...",
+      "What do you mean by that?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "湧き出したものは、人々に取り憑き、血の中に潜り込み人々を支配し、鬼と化したのだ。",
+      "人々はこの湧き出したものに抗えず、次々と鬼と化し、他の村人たちに襲い掛かり、鬼を移し、増やしていったのだ。",
+      "そう。",
+      "……それは、沼より発生した奇怪な伝染病。",
+      "感染者を凶暴化させる奇怪な寄生虫の大量発生だった。",
+      "村人たちは、その大惨事を見て思ったのだ。",
+      "沼の底より悪鬼が湧き出し、人々に取り憑いて鬼と化したのだと。",
+      "それこそが、鬼ヶ淵より鬼が湧き出した故事の真実なのだ。"
+    ],
+    "textEn": [
+      "Whatever came out of the swamp possessed people, crawled into their blood, controlled them, and turned them into demons.",
+      "People had no resistance against whatever it was that came out of the swamp. They became demons, attacked the other villagers, and turned them into demons as well.",
+      "That's right.",
+      "...It was a weird infectious disease that broke out from the swamp.",
+      "It made the infected people go out of control.",
+      "The villagers saw this disaster and explained it like so.",
+      "Evil demons came out from the bottom of the swamp, possessed people, and turned them into demons as well.",
+      "That is the truth of the story of the demons that came out of Onigafuchi Swamp."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………確かに、",
+      "………それだと、伝説をうまく説明できるな…。",
+      "……じゃあ、…オヤシロさまってのは……ひょっとして、",
+      "………異国から来た、",
+      "医者？」"
+    ],
+    "textEn": [
+      "\"...It actually...",
+      "explains the legend...",
+      "...So... was Oyashiro-sama...",
+      "a doctor",
+      "who came from a foreign country?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね。",
+      "正確には正しくないけど、…そう、医者と呼べる存在。",
+      "それが降臨して、伝染病を治療したの。",
+      "でも、それは治療ではなく、対症療法でしかなかった。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "That's not exactly correct, but... he was something like that.",
+      "He came to Onigafuchi, and he treated the infectious disease.",
+      "But he couldn't cure it for good.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "対症療法とは即ち、症状を軽減させるだけの根本的でない治療法を指す。",
+      "……つまり、村人たちは、症状を抑えることはできたが、自らの内に住まう寄生虫を駆逐することはできなかったのだ。",
+      "やがて、村は二つに分かれる。",
+      "すでに感染している人間と、まだ感染していない人間だ。",
+      "完全な治療方法はなく、対症療法によってその凶暴性を抑えられているだけの人々に対する差別の目は厳しかった。",
+      "彼らを全て沼に追い立てて殺してしまおうという意見も出た。",
+      "だが、感染者を皆殺しにしたところで、根本的な解決にはならない。",
+      "病原体である寄生虫は鬼ヶ淵沼を始めとした水源地から湧き出す。",
+      "全て埋めることはできないし、水源地を埋めれば、村の生活基盤は壊滅する。",
+      "それに、先祖代々の墓のあるこの地を捨てる選択もまた苦々しいものだった。",
+      "「オヤシロさま」の力があれば、感染者も異常な症状を出さずに生活できる。",
+      "そこで人々は、感染者も非感染者も分け隔てない生活を続けていくことを選び、寄生虫と共生する生活を受け入れた。",
+      "「オヤシロさま」は村人たちのその決断を喜び、この地に留まって彼らの治療を続けていくことにした…。"
+    ],
+    "textEn": [
+      "All his treatment could do was reduce the symptoms of the infection.",
+      "...Villagers could have their symptoms suppressed, but there was no way to kill the parasites that had infested them.",
+      "After a while, the village was divided into two groups.",
+      "One group was made up of the people who were already infected, and the other consisted of the people who weren't.",
+      "Without a cure for the disease, the uninfected looked down on the people who could only suppress their violent symptoms.",
+      "They even talked about drowning them in the swamp.",
+      "But they knew killing the infected people wouldn't solve the problem.",
+      "The parasites came out of their water sources, including Onigafuchi Swamp.",
+      "They couldn't fill them all in, for if they did that, they would lose their access to drinking water.",
+      "They could've chosen to leave the village, but that was hard for them, for that was the location of their ancestors' graves.",
+      "Under the power of \"Oyashiro-sama,\" infected people could live without showing symptoms.",
+      "So, both those who were infected and those who weren't decided to live together equally and to coexist with the parasite.",
+      "\"Oyashiro-sama\" was impressed by the villagers' decision. He decided to stay there and continue to treat them..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……それが、オヤシロさまがこの地に留まり、人と鬼の生活を見守った…、の真相か……。」"
+    ],
+    "textEn": [
+      "\"...That's the true identity of Oyashiro-sama, the benefactor who stayed in the village to protect the lives of both human and demon...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "そしてオヤシロさまは、感染者である村人たちに、症状を出さないために掟を作った。",
+      "その最大にして唯一のものが、村から出てはいけない、外から人を入れてはいけない、だったの。」"
+    ],
+    "textEn": [
+      "\"That's right.",
+      "And Oyashiro-sama made rules in order to ensure the symptoms of the infected people would remain suppressed.",
+      "The rules were to never leave the village and to never let anybody into the village.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「外から人を入れてはいけないってのはわかるぜ。",
+      "…感染者を増やさないためだろ。",
+      "でも出てはいけないってのはどういう意味なんだ？」"
+    ],
+    "textEn": [
+      "\"I understand why he didn't want to let anybody new into the village.",
+      "...It was to prevent the parasite from infecting anyone else.",
+      "But I don't understand why he didn't want people to leave.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「寄生虫たちは、気候や風土の関係で、この雛見沢の地でしか生きられないらしいの。",
+      "だから、宿主である感染者がこの地を離れようとすると、強い症状を出してそれを妨害するの。"
+    ],
+    "textEn": [
+      "\"It seems like the parasite can only live in Hinamizawa because of the climate here.",
+      "It causes an outbreak of the symptoms in order to prevent the hosts from leaving the village when they try."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……その妨害こそが、いわゆる『オヤシロさまの祟り』の正体。」"
+    ],
+    "textEn": [
+      "...That reaction is the truth behind 'the curse of Oyashiro-sama'.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "感染症の最大の特徴は、錯乱や凶暴性だった。",
+      "その様はまさに「鬼」であり、鬼ヶ淵村の人々を「鬼」と例えるのに充分なインパクトがあったという。",
+      "だから、不用意に村に立ち入り、感染した旅人を逃がすわけには行かなかった。",
+      "感染者は遠方の地でやがて錯乱し、凶暴な鬼と化して惨事を引き起こすに違いないからだ。",
+      "だから、感染者を村の外に出さなかった。",
+      "出たなら、是が非でも連れ戻した。",
+      "それこそが、「鬼隠し」の正体。"
+    ],
+    "textEn": [
+      "The strongest symptoms of the infectious disease were violence and delirium.",
+      "The infected people acted just like demons, and the impact of seeing them in the throes of the disease was strong enough to make others describe them as such.",
+      "They couldn't even let people leave who had just come to the village.",
+      "If they had left after being infected, they might go crazy in a faraway land, turn into a vicious demon, and cause a disaster.",
+      "Infected people were never allowed to leave.",
+      "When an infected person left the village, they brought him back by any means necessary.",
+      "That was what it really meant to be \"demoned away\"."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ちょっと待てよレナ。",
+      "……だとしたら、俺やレナも、村人はみんなその病気に感染してることになるよな？",
+      "でも俺たちは雛見沢を離れたって別に何の問題もないぞ？"
+    ],
+    "textEn": [
+      "\"Wait a second, Rena.",
+      "...That means everybody in this village, including you and I, are infected.",
+      "But nothing happens when we leave Hinamizawa."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "実際、村人にも結婚したりして遠方に住んでる人も少なくないらしいじゃないか。",
+      "雛見沢をちょっと離れたからって、錯乱して鬼と化したなんて聞いたことないぞ。」"
+    ],
+    "textEn": [
+      "In fact, many villagers move far away after getting married or something.",
+      "I've never heard of any villagers who went crazy and turned into demons after they left Hinamizawa.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そう。",
+      "それはまさに、オヤシロさまの目論見通りにことが進んだからなんだよ。",
+      "意味がわかるかな。",
+      "この村を長い間、封印してきたのは、寄生虫の害を弱めるためなの。」"
+    ],
+    "textEn": [
+      "\"You're right.",
+      "That's because things went as Oyashiro-sama thought they would.",
+      "Do you understand?",
+      "He isolated the village for a long time in order to weaken the power of the parasite.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "寄生虫にとって、宿主は大切な存在であり、宿主に何かあれば住まう彼らも運命を共にすることになる。",
+      "つまり、錯乱して他の人間を襲ったりなどすれば、その感染者は結局のところ召し捕られ、共に殺されてしまう。"
+    ],
+    "textEn": [
+      "Hosts are very important for parasites. If something happens to the host, the parasites that live in the host have to share the same fate.",
+      "In other words, if the host went crazy and attacked people, the host would be captured and killed, which means that the parasites would die with the host, too."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………そうか、",
+      "……自然淘汰か…！」"
+    ],
+    "textEn": [
+      "\"...I see.",
+      "...You're talking about natural selection...!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「さすが圭一くん。",
+      "……そう。",
+      "この地で長く生活を重ね、厳しい戒律で生活を続けた結果。",
+      "寄生虫に対し過敏な人間は錯乱して結局、殺された。"
+    ],
+    "textEn": [
+      "\"Good thinking, Keiichi-kun.",
+      "...That's exactly right.",
+      "As a result of living in this village under such strict rules for a long time,",
+      "people who were hypersensitive to the parasite went crazy and got killed."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "また、感染者を錯乱させてしまうような強過ぎる寄生虫は、これもまた錯乱した宿主と共に殺された。",
+      "その結果、寄生虫と人間は互いに相性がいい種だけが残っていった。"
+    ],
+    "textEn": [
+      "The strong parasites that made the infected people go crazy were also killed off due to the host's violent behaviors.",
+      "As a result, only the parasites that acted nice to people lived on."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……これこそが、オヤシロさまの伝説が伝える、鬼と人の血は混じり合ったことの真相。」"
+    ],
+    "textEn": [
+      "...And that's the explanation behind 'the mix of human and demon blood' that's written in the legend of Oyashiro-sama.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ……、",
+      "つまり、その寄生虫は…ほとんど無害なわけなのか。」"
+    ],
+    "textEn": [
+      "\"So...",
+      "that means the parasite... is almost harmless now.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "三四さんのスクラップ帖によると、そういった、無害な寄生虫に感染しているケースというのはかなり多いんだって。"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "According to Miyo-san's scrapbooks, there are actually many people who are infected by harmless parasites."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "食文化にもよるけど、例えば生肉を食べる国では国民の８割くらいが感染している例もあるんだって。"
+    ],
+    "textEn": [
+      "It depends on the local food culture. For example, about 80% of the people who live in a country where meat is a staple food are infected by parasites."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "でも、共生できてて人体にまったく無害だから、だれも治療しない、気付かない。",
+      "だから撲滅もされない。」"
+    ],
+    "textEn": [
+      "But because the parasites coexist with humans without doing any harm to them, nobody notices them, treats them,",
+      "or tries to get rid of them.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………な、……なるほどな…。」"
+    ],
+    "textEn": [
+      "\"............I see.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「太古の綿流しはね、実はハラワタ流しと書く、物騒なものでね。",
+      "錯乱した犠牲者の臓腑を食らうものだったの。"
+    ],
+    "textEn": [
+      "\"In olden times, Watanagashi was called Harawata-nagashi, harawata meaning 'guts'.",
+      "It's said the people back then used to eat the guts of infected people who went crazy."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "でもこれも、必要なことだった。」"
+    ],
+    "textEn": [
+      "It sounds awful, but it was something they had to do.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………感染して犠牲になった人を食らう…。",
+      "………まさか、………ワクチンとか？」"
+    ],
+    "textEn": [
+      "\"...Eating the infected people...",
+      "Are you talking about a vaccine?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはは、圭一くんはやっぱり頭がいいね。",
+      "うん、三四さんもそう読み解いてる。"
+    ],
+    "textEn": [
+      "\"Ahaha, you're very smart, Keiichi-kun.",
+      "Miyo-san also interpreted it just like you did."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "伝説では、犠牲者を生きたまま解体して食らったなんて物騒なことになっているけど、実際はそんな野蛮なものじゃなくて、もっともっと医学的に取り扱われていたらしいの。"
+    ],
+    "textEn": [
+      "In the legend, it says people cut open and ate the infected ones alive, but it actually wasn't anything gross like that. They did it in a scientific way."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "強過ぎる寄生虫のせいで死んだ犠牲者からワクチンを作り出し、同時に村人の抵抗力も高めていった。」"
+    ],
+    "textEn": [
+      "They created a vaccine from the infected people who died from the extremely strong parasites, and that helped the uninfected villagers boost their immune system.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………オヤシロさまってのは何者なんだよ一体。",
+      "……医学。",
+      "…医学先進国っていうと、",
+      "………ドイツか？",
+      "正体はひょっとして……難破して流れ着いた外国人医師？！」"
+    ],
+    "textEn": [
+      "\"...Who was Oyashiro-sama?",
+      "A scientist...?",
+      "...He must've been from a very advanced country...",
+      "Was he German?",
+      "Is the true identity of Oyashiro-sama a foreign doctor who survived a shipwreck?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「多分、圭一くんの答えが一番一般的だと思う。",
+      "……ドイツ人ではないんだけど、取り合えず医者的な存在であったのは正解。」"
+    ],
+    "textEn": [
+      "\"I think that'd be the most likely answer.",
+      "...He wasn't German, but he was a doctor of some sort.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「古代の伝説の秘密が明かされていくってのは……何だか面白いな。",
+      "…へへへ。」"
+    ],
+    "textEn": [
+      "\"It's kind of interesting to reveal the truth behind old legends...",
+      "Heh heh heh.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "この頃には、レナの話を突拍子もないとは思っていなかった。",
+      "確かに次元のぶっ飛んだ話だが、この村にまつわるあらゆる伝説をこれほど説明できる仮説はなかった。"
+    ],
+    "textEn": [
+      "I don't think that Rena's story is too crazy to be true anymore.",
+      "It still sounds crazy, of course, but I've never heard any theories that explained the legend of this village better than this one."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………その寄生虫、多分、俺も感染してるんだよな…？",
+      "何だか体中が痒くなってくるぜ…。」"
+    ],
+    "textEn": [
+      "\".........I'm infected by the parasite too, right...?",
+      "I feel itchy all over now...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「人間だってひとつの宇宙だよ。",
+      "体の中には無数の細菌たちが住んでいる。",
+      "その中には私たちの生活には欠かせない有用な細菌たちも少なくないんだよ。」"
+    ],
+    "textEn": [
+      "\"A person is like a universe.",
+      "We have countless numbers of bacteria in our bodies.",
+      "Some of those bacteria are essential to us staying alive.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ、よくヨーグルトとかのＣＭで言ってるよな。",
+      "……確かにそうだ。」"
+    ],
+    "textEn": [
+      "\"Oh, like bacteria in yogurt, right?",
+      "...I see.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「これも三四さんの受け売りだけど、…例えば、シロアリっているでしょ？",
+      "木材を食い荒らしてしまうアリ。",
+      "実はシロアリって、木材を消化できないんだって。"
+    ],
+    "textEn": [
+      "\"This is also what Miyo-san wrote in her scrapbooks. You know termites, right?",
+      "They eat wood.",
+      "But they actually can't digest it themselves."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "体内に寄生している特殊な細菌が、食べた木材の繊維を分解してくれて、その結果、シロアリは木材を吸収できるんだって。",
+      "これも寄生虫と共生している一例だね。」"
+    ],
+    "textEn": [
+      "They have unique bacteria that decomposes the wood fibers. As a result, termites can absorb what they eat.",
+      "That's just one example of a species coexisting with parasites.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは知らなかった。",
+      "……寄生虫という言葉を聞くと、生理的嫌悪感を感じてしまうが、必ずしも悪いものばかりではないわけだ。"
+    ],
+    "textEn": [
+      "I didn't know that.",
+      "...When I hear the word parasites, I feel creeped out almost instinctively. But now I know some of them aren't so bad to us."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「だから、太古の昔に鬼ヶ淵沼から突如発生した奇怪な伝染病は、今ではほぼ根絶されたと言っていい。",
+      "……根絶じゃないね。",
+      "無害になった、というべきだね。」"
+    ],
+    "textEn": [
+      "\"So, the weird infectious disease that broke out from Onigafuchi swamp has been exterminated by now.",
+      "Well... I shouldn't say exterminated.",
+      "I should say it's harmless now.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「最初はとんでもない話だと思ってたけどさ、",
+      "……こうして種明かしがされると、何だかサイエンスな感じがして、ちょっと面白い話だよな。」"
+    ],
+    "textEn": [
+      "\"I thought it was a crazy story at first...",
+      "but now I feel like I just saw the trick behind some crazy kind of magic. It's interesting.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「私たちには面白いよ。",
+      "…でも、オヤシロさまを神として崇める人たちにとっては、これはとても不愉快な説。」"
+    ],
+    "textEn": [
+      "\"It is to us.",
+      "...But for the cult of Oyashiro-sama, this must be a very annoying theory.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "当然だ。",
+      "……鷹野さんのこの説が正しいなら、オヤシロさまは神さまでも何でもない。",
+      "しかも、神罰として恐れてきた「オヤシロさまの祟り」は、神の業どころか、単なる伝染病の発症だったことになる。",
+      "なるほど、",
+      "…………これが、最初にレナの言った、「神を貶めることになる」という意味か……。"
+    ],
+    "textEn": [
+      "Of course.",
+      "...If Takano-san's theory is correct, Oyashiro-sama isn't a god.",
+      "And the punishment by that god, namely 'the curse of Oyashiro-sama' that people have been so afraid of, will turn out to have just been the symptoms of an infectious disease.",
+      "I see......",
+      "That's what 'dethroning god' would mean..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……だとすると、……もしこの伝染病の病原体を特定して世間に発表されるようなことがあれば、……信仰は破綻しちまうな。」"
+    ],
+    "textEn": [
+      "\"...So... if the pathogen of this infectious disease was identified and announced to the public... the power of Oyashiro-sama would be completely lost.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そう。",
+      "それこそが彼らの一番恐れることなの。",
+      "そして三四さんは、その病原体を特定しようとしていたらしい。",
+      "………その三四さんが消されたということは………、」"
+    ],
+    "textEn": [
+      "\"That's right.",
+      "That's what they're afraid of.",
+      "Miyo-san was going to identify the pathogen.",
+      "...And for that, she was killed...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「特定できたってことか…！」"
+    ],
+    "textEn": [
+      "\"So, that must mean she identified it...!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「かもしれないね。",
+      "……三四さんはもういないし、彼女のスクラップ帖にも特定できたとは書かれていない。",
+      "でも、消されるに値する理由が他に思いつかないの。」"
+    ],
+    "textEn": [
+      "\"Maybe she did.",
+      "...But she's gone, and she didn't say anything about that in her scrapbooks.",
+      "That's the only reason I can think of, though.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「でもよ、……二十世紀ももうすぐ終わろうっていう現代だぜ。",
+      "村人だっていろんな医療機関で検査を受けてきたはずだ。",
+      "なのに、そういう怪しげな寄生虫が摘出されたって話はないんだろ？」"
+    ],
+    "textEn": [
+      "\"But... it's the end of the 20th century.",
+      "I'm sure the villagers have been examined by a lot of different medical institutions by now, right?",
+      "I've never heard about anyone discovering a weird parasite like that.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "確かに病原体そのものは未だ発見されていない。",
+      "でも確かに何かの寄生を受けていることの信号だけは確認されているんだって。」"
+    ],
+    "textEn": [
+      "\"I know.",
+      "It's true that the pathogen hasn't been found yet.",
+      "But in fact, there is evidence that there is some kind of parasite involved.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「な、……なんだって……！",
+      "本当かよ…！！」"
+    ],
+    "textEn": [
+      "\"What?",
+      "Really...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "人体は寄生虫の侵入を受けると、EosinoやMacrophegeと言った免疫細胞でそれを駆逐しようとする。",
+      "そのための信号としてImmunoglobulin_E （以下IgE ）という抗体を分泌する。",
+      "この抗体の分泌量を見て、人体が病原体の寄生を受けているかどうかを調べるのが一般的だ。",
+      "鷹野の研究によるならば、この抗体は、雛見沢出身者の血中からは平均を超える高い量が検出されるという。",
+      "それだけではない。",
+      "雛見沢出身者はこの抗体が単に多いだけでない、さらに明白な寄生の証拠があった。",
+      "それはアレルギー反応がないことによる。",
+      "IgE はマスト細胞を刺激し、その結果、分泌されるHistamine 、Serotonin はアレルギー反応を起こすことでも知られている。",
+      "この反応は人間にとって不快なものだが、人体にとっては病原体を駆逐するために起こす、止むを得ない反応なのである。",
+      "だが寄生虫は、これによって駆逐されることを逃れるため、IgE を不活性化させる物質を分泌する。",
+      "この結果、不活性化したIgE はマスト細胞のIgE レセプターを刺激せず、刺激物質を分泌しない。",
+      "その結果、抗原抗体反応であるアレルギー反応が発生しない。",
+      "つまり、寄生虫の寄生を受けた人体は、IgE を多く分泌し、かつアレルギー反応を起こさないのだ。",
+      "余談だが、そのため、寄生虫の寄生を受けた人体は、花粉症にも無縁だ。",
+      "花粉症のメカニズムは、花粉を寄生虫の侵入だと誤解した人体がIgE を大量に分泌することで起こる。",
+      "その結果、Histamine 等の刺激物質が大量に分泌するのだが、元々やっつけるべき寄生虫が存在しない。",
+      "そのため、人体は延々とIgE を分泌し続ける。",
+      "その結果、延々と分泌される刺激物質が、延々とアレルギー反応を起こし続けるのである。",
+      "だが、寄生虫がいるならば、彼らがIgE を不活性化してくれるため、刺激物質の分泌が抑えられる。",
+      "その結果、アレルギー反応は起こらないわけだ。",
+      "つまり、この論法によるならば、雛見沢には花粉症はないし、花粉症に悩む人は雛見沢に引っ越してくれば治ることになる。"
+    ],
+    "textEn": [
+      "When a parasite enters a human body, that body's immune system cells (eosinophils and macrophages) try to kill the parasite.",
+      "They secrete an antibody called\\nimmunoglobulin E (IgE).",
+      "The most common way of checking if a person is infected by a pathogen is to look at the levels of this secretion.",
+      "According to Takano's research, people from Hinamizawa have a very high level of IgE in their blood.",
+      "That's not all.",
+      "They also have obvious symptoms of being infected by parasites.",
+      "They don't have any allergies.",
+      "IgE stimulates mast cells, and they secrete histamines and serotonin as a result. These cause an allergic reaction.",
+      "That allergic reaction isn't pleasant for humans, but it's necessary for the body to kill the pathogen.",
+      "But the parasites don't want to be killed, of course, so they secrete substances that counteract IgE.",
+      "As a result, IgE stops stimulating the receptors of the mast cells, which stop secreting the chemical compounds.",
+      "As a result, the antigen-antibody reaction, namely the allergic reaction, doesn't occur.",
+      "In other words, a human body that was infected by a parasite secretes a high level of IgE, but doesn't display allergic reactions.",
+      "For your information, a human body that's infected by a parasite doesn't suffer from hay fever.",
+      "You get hay fever due to your body secreting a large amount of IgE, because it's mistaken pollen for a parasitic invasion.",
+      "As a result, a large amount of stimulants like histamine will be secreted, but your body can't contain the parasite that it's attempting to kill.",
+      "That's why your body continues to secrete IgE.",
+      "As a result, the stimulants keep causing allergic reactions. That's how hay fever works.",
+      "If you have a parasite in your body, it'll deactivate your IgE and suppress the secretion of stimulants.",
+      "As a result, you don't have an allergic reaction.",
+      "In other words, there's no hay fever in Hinamizawa, and you can cure your hay fever by moving here."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……つまり、特定はできなくても、その存在だけは疑いようがないってわけだ。」"
+    ],
+    "textEn": [
+      "\"...So we haven't been able to identify the pathogen, but there's no question about its existence.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "そうなるね。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "That's right.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「だとすると、……そのスクラップ帖は、狂信的な連中にとっては充分危険な存在だな。",
+      "例え特定できなくても、存在を証明してる時点で充分に危険だと思うぞ。」"
+    ],
+    "textEn": [
+      "\"If that's true... the scrapbooks are a big threat to the believers in Oyashiro-sama.",
+      "They don't identify the pathogen, but they clearly prove its existence.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね。",
+      "例え証拠にはならなくても、……彼らにとっては三四さんを葬るに値する危険性があったと思う。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "...It poses a big enough danger to them to make them think it's worth killing Miyo-san.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「確かに………恐ろしい秘密だな。"
+    ],
+    "textEn": [
+      "\"This really is... a scary secret."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "ちゃんと説明してもらえば理解できることだが、……いきなり聞いたら刺激が強過ぎる話だぜ。」"
+    ],
+    "textEn": [
+      "I believe it because you took the time to explain it to me... But if you had skipped the details and told me only the conclusion, it really would've sounded too crazy to believe.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でしょ？！",
+      "だから私も最初は信じられなかったし、圭一くんに話しても信じてもらえないと思った。」"
+    ],
+    "textEn": [
+      "\"I told you!",
+      "I couldn't believe it at first, either. So, I thought you definitely wouldn't.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……で、大事なのはその事実を隠蔽しようと、暗躍してるヤバい連中がいるって方なんだよな。」"
+    ],
+    "textEn": [
+      "\"...So, what's important right now is that there's a dangerous organization acting in the shadows to try and cover up the truth, right?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そう。",
+      "今、大事なのはそっちの方。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "That's the most important thing.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "オヤシロさま信仰の狂信者たちにとって、彼らの信仰する神の神聖性の復活は大前提だ。",
+      "神の威光を復活させることは即ち、神の力を復活させることを意味する。",
+      "神の力とはつまり、……伝染病のことだ。",
+      "…伝染病って言っても、全国へ際限なく広がってるわけじゃないもんな。",
+      "ここらで言い方を風土病と改めよう。",
+      "この地域限定のものだし、この方がしっくり来る。",
+      "さて、現代の雛見沢の風土病は太古の昔のものとは異なる。",
+      "長い時間をかけて淘汰され、ほぼ沈静化し無害なものとなったからだ。",
+      "無害ということは人体に害がない。",
+      "害とはかつて「祟り」と読み解かれていたはずだ。",
+      "「祟り」こそは「神の力」なのだから、害のない風土病となった今、神の威光は地に落ちていると言っていい。",
+      "ということは、「祟り」を取り戻すことが即ち「神の威光」を取り戻す道ということになる。",
+      "それはつまり太古の風土病、害の極めて強い寄生虫を復活させるということだ。"
+    ],
+    "textEn": [
+      "The fanatics who want to revive the sanctity of the god they worship.",
+      "Reviving the majesty of their god means reviving the power of that god.",
+      "And the power of their god is... the infectious disease.",
+      "...This infectious disease can't spread nationwide, unlike other infectious diseases.",
+      "So from now on I'm going to start calling it an 'endemic disease'.",
+      "That fits better, since it only affects this region.",
+      "Anyway, the endemic disease of current-day Hinamizawa is different from the one of old times.",
+      "It's been through a process of natural selection, and it's harmless now.",
+      "In other words, it doesn't do any harm to human bodies.",
+      "That harm was once interpreted as a \"curse\".",
+      "A \"curse\" is \"the power of a god\". So, a harmless endemic disease means that the god is powerless.",
+      "That means the only way to regain the majesty of that god is to revive the curse.",
+      "In other words, they want to bring back the primitive endemic disease, namely the harmful, strong version of the parasite."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ちょっと待てよ！",
+      "狂信者たちは神が実は寄生虫だったなんてことは否定したいんだろ？",
+      "なのに寄生虫を研究するのかよ？",
+      "矛盾してないか？」"
+    ],
+    "textEn": [
+      "\"Wait a second!",
+      "These fanatics want to deny the fact that their god was actually a parasite.",
+      "But you're saying that they're researching the parasite.",
+      "That's contradictory, isn't it?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「矛盾しているよ。",
+      "だから、この研究は狂信者たちのトップだけが知る秘密の研究なんだと思う。"
+    ],
+    "textEn": [
+      "\"I know it is.",
+      "I think that this research is a secret that only the head of the fanatics is aware of."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "彼らは表向きは信仰を盛り上げているけど、その裏では信仰の正体について極めて冷静に理解していて、神の業を自らの手で復活させようとしている。」"
+    ],
+    "textEn": [
+      "From the outside, they look like they're praising their god, but they actually understand its true identity, and they're trying to revive its supernatural power with their own hands.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………なるほどな…。",
+      "……おいおい…、何だかとんでもない話になってきたぞ…。」"
+    ],
+    "textEn": [
+      "\"...I get it now.",
+      "...Oh my god, this is getting crazier and crazier...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「三四さんのスクラップ帖にはそうとは一言も書かれてないんだけど、……私、監督の診療所って怪しいと思うの。」"
+    ],
+    "textEn": [
+      "\"It didn't say in the scrapbooks, but... I'm suspicious of the clinic the manager owns.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「入江診療所が？",
+      "……どうして！」"
+    ],
+    "textEn": [
+      "\"The Irie Clinic?",
+      "...Why?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「雛見沢の規模から見て、施設が立派過ぎるのがその理由。",
+      "そして、三四さんはそこに勤めていた。",
+      "監督は、園崎家にスカウトされてきた細菌学者が正体とか……。」"
+    ],
+    "textEn": [
+      "\"The facility is too big and fancy for Hinamizawa.",
+      "Miyo-san was working there.",
+      "The manager might be a bacteriologist the Sonozaki family recruited...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……か、…監督がか…？！」"
+    ],
+    "textEn": [
+      "\"...It can't be...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「三四さんは余計なことを知りすぎたから消されたんだと思うの。",
+      "なのに監督が消されない理由は、監督は狂信者たちに依頼されている立場だから。」"
+    ],
+    "textEn": [
+      "\"I think Miyo-san was murdered because she knew too much.",
+      "The reason why the manager hasn't been murdered yet is because he's working for the fanatics in the first place.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そして……、太古の有害な風土病を研究してるってのか……？",
+      "あの…監督が。」"
+    ],
+    "textEn": [
+      "\"And... he's researching the primitive form of the endemic disease...",
+      "It's hard to believe that the Coach we know is capable of doing things like that.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…ごめん。",
+      "監督は無関係かもしれないね。",
+      "今のは私の思いつき。",
+      "でも、研究は間違いなくどこかで誰かにさせている。",
+      "そして、その研究には５年かかり、ついに完成を見た。」"
+    ],
+    "textEn": [
+      "\"...I'm sorry.",
+      "He might be totally irrelevant.",
+      "It's just a wild guess.",
+      "But someone is doing the research somewhere, that much is certain.",
+      "And after five years, the research has finally been completed.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "一番最初の事件は、現場作業員たちのバラバラ殺人。",
+      "口喧嘩から殺し合いに発展したその事件は、太古の危険な寄生虫の感染による症状、錯乱・凶暴化の発症なのではないか。",
+      "２年目の事件は沙都子の両親。",
+      "目撃者がいないから謎に包まれているが、転落した展望台の柵の強度から、誰かに柵ごと押されて突き落とされたのではないかという説もある。",
+      "もしそれが、太古の寄生虫の感染によって、どちらかが凶暴化して突き落としたものだとしたら？",
+      "３年目は神主の病死とその妻の入水自殺。",
+      "神主は過敏に反応し過ぎてのショック死だったのではないか。",
+      "妻の入水自殺は凶暴化ではなく、もうひとつの症状、錯乱で説明できるように思える。",
+      "４年目は、",
+      "…おそらくは北条悟史による叔母撲殺。",
+      "悟史くんの変わり様は当時を知っている人間なら誰だって覚えている。",
+      "それは、錯乱・凶暴化の両方の特徴を示すものだった。",
+      "そして５年目。",
+      "ついにこの５年目で初めて、犠牲者は古手神社に伝えられる不出の古文書に伝える、「うじ湧き病」までを再現できたのだ。",
+      "その理由は不明だが、太古の害の強い寄生虫には、感染者にうじが湧くように感じられる妄想を与えられたのかもしれない。",
+      "つまりそれは、５年目にしてついに、古文書に記されるほどの太古の症状、",
+      "「オヤシロさまの祟り」を再現できたということなのだ。",
+      "５年目の犠牲者である富竹さんの異常な死に方は、同じ体験をした私にだけはわかる。",
+      "傷口から湧き出すうじ虫を掻き毟り続け、その結果、死に至ったのだ。",
+      "ここまで説明がつけば、私が茨城の最後で体験した異常な「うじ湧き病」の体験も全て説明できた。",
+      "私は雛見沢を遠く離れ、害がほとんどなくなったとは言え、寄生虫たちに不快感を与えていた。",
+      "その結果、彼らは微弱な抵抗を示し、微弱なホームシックを私に与えていたはずだ。",
+      "だが、私は母の離婚を向かえ、精神的なショックを被り、心の抵抗力を一時的に完全に失ってしまった。",
+      "そのため、本来は害を成さないくらいに無害なはずの彼らが、私に劇症的な症状を発症させたのだ。",
+      "その結果が、私の錯乱と凶暴化だったのだ。",
+      "…あの浴室でのオヤシロさまの降臨の幻想は、多分、末期的な神秘体験なのだろう。",
+      "私は幼少時に刷り込まれたオヤシロさまという超常存在の幻を生み出し、雛見沢に帰れと自らを妄想で説得したのだ。",
+      "きっと、太古の鬼ヶ淵村の仙人たちにも同じような体験をしたものがいたのではないだろうか。",
+      "その神秘体験を神の奇跡として語り継いだに違いない。",
+      "確か、自然界の麻薬成分を呷って、自ら異常な状況に落ちることで神秘体験を得て、",
+      "それを神との交信と称する儀式が、南米の原住民に伝えられていたなんてのを、民放の特番で見たことがある気がする…。"
+    ],
+    "textEn": [
+      "The first case was the dismemberment murder by the dam construction workers.",
+      "Their quarrel had turned into a lynching. They might've had the primitive infectious disease, and the symptoms, the aggression and delirium, might've kicked in.",
+      "The victims of the second year were Satoko's parents.",
+      "There were no witnesses, so the whole event is veiled in mystery. But there's a theory that someone might've pushed them over the cliff, since the fence of the observation deck that they fell from was quite sturdy.",
+      "What if one of them was infected by the primitive parasite? He or she might've become violent and pushed the other over the cliff.",
+      "The Shinto priest died from a disease, and his wife drowned herself in the third year.",
+      "He might've died of shock because of a hypersensitive reaction to the infection.",
+      "His wife might've gone crazy and committed suicide when one of the symptoms, delirium, kicked in.",
+      "In the fourth year",
+      "... Satoshi Houjou's aunt was beaten to death, probably by Satoshi himself.",
+      "Everybody who knew Satoshi-kun remembers how he changed at that time.",
+      "He showed signs of being both aggressive and delirious.",
+      "And the fifth year.",
+      "For the first time in five years, the victim experienced the \"maggot disease\" described in the old scroll of the Furude shrine.",
+      "The reason behind that is unclear, but the stronger primitive parasite could've given its victims a delusion of maggots.",
+      "This means that they finally managed to duplicate \"the curse of Oyashiro-sama\"",
+      "after five years of research.",
+      "Tomitake-san is the victim of the fifth year. He died in an extremely abnormal way. And I'm the only one who understands his death, because I experienced the same thing.",
+      "He kept clawing at his throat to get rid of the maggots, and died as a result.",
+      "With all that explained, I finally understand the 'maggot disease' I experienced in Ibaraki.",
+      "I left Hinamizawa, and it made the parasite in me uncomfortable.",
+      "As a result, it tried to resist, even though it wasn't very strong, and it tried to make me homesick.",
+      "But with my parents' divorce, I grew mentally unbalanced, and I completely lost the power to resist for a period of time.",
+      "The parasite was weak and harmless, but my mental instability allowed it to worsen my symptoms dramatically.",
+      "As a result, I went crazy and became violent.",
+      "...The delusion of Oyashiro-sama appearing to me in the bathroom was probably the terminal phase of my delirium.",
+      "I created the supernatural existence, Oyashiro-sama, that I was instilled with when I was little. Then I persuaded myself to go back to Hinamizawa, based on that delusion.",
+      "Some of the transcendents of Onigafuchi must have had the same kind of experience.",
+      "They must've passed their experiences down as the acts of a god.",
+      "I remember I once saw on TV that the indigenous people in South America used some kind of natural drug in order to have a mystical experience,",
+      "and that they called it a ritual to communicate with their gods..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ、……狂信者どもの目的は…、その太古の寄生虫を雛見沢中にバラまくことなのか！」"
+    ],
+    "textEn": [
+      "\"So... what the fanatics are trying to do... is to spread the primitive parasites throughout Hinamizawa!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「多分、それが最終目的だと思う。",
+      "でも、人知れずにそれをやることはないと思うの。",
+      "宗教にはセレモニーが必要だから。",
+      "だからもし、彼らが望むものを生み出せて、それをバラまく日が訪れたなら。"
+    ],
+    "textEn": [
+      "\"I think that's their goal.",
+      "But I don't think they'll do that without letting people know about it.",
+      "Religions need ceremonies.",
+      "So if they created what they wanted to create and if they decided to spread it..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……彼らは多分それを『オヤシロさまの復活の日』とでも称して、宗教的なデモンストレーションをすると思うの。",
+      "何か特別な儀式とか、とにかく、オヤシロさまの復活を祝い、知らしめるような盛大な何か。」"
+    ],
+    "textEn": [
+      "I think they'd name it 'The Day of Oyashiro-sama's Revival' or something, and they'd perform some kind of ceremony.",
+      "It would be in celebration of the revival of Oyashiro-sama.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………なぁ、それってよ、",
+      "……悪いことなんだよな…？」"
+    ],
+    "textEn": [
+      "\"...That's...",
+      "a bad thing, isn't it...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「危険性の高い病原体をバラまこうというんだから、",
+      "多分、",
+      "悪いことに分類されるだろうね。」"
+    ],
+    "textEn": [
+      "\"I think you can say that",
+      "because",
+      "they're trying to spread a very dangerous pathogen.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それって、細菌テロって言わないか？！",
+      "……お、おい、滅茶苦茶ヤバいことだぞ、おい！！",
+      "富竹さんの死に方がオヤシロさまの祟りの再現に成功していた以上、Ｘデーは間近ってことなんじゃないのか？！」"
+    ],
+    "textEn": [
+      "\"Hey, isn't that bioterrorism?!",
+      "...Geez, this is very bad!!",
+      "They used it on Tomitake-san, confirming that they succeeded in duplicating the curse of Oyashiro-sama. So, that 'Day of Revival' might be really soon!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「わからない。",
+      "もう秒読みなのか、まだまだ時間のかかることなのか…。」"
+    ],
+    "textEn": [
+      "\"I don't know.",
+      "It could happen in a few days, or it might take a year...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「もうこれはレナひとりが抱えていい問題じゃないぞ…！",
+      "かなり笑えない大陰謀だぞ！！",
+      "俺たちにはどうしようもない！",
+      "警察に任すほかないぞ！！」"
+    ],
+    "textEn": [
+      "\"This is way out of your league, Rena...!",
+      "This is a very serious conspiracy!!",
+      "There's nothing we alone can do to stop them!",
+      "We have to report it to the police!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「私が話したこと、警察は信じてくれると思う？」"
+    ],
+    "textEn": [
+      "\"Do you think they will believe us?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「信じるかどうかは向こうが判断するだろ！",
+      "とにかく話した方がいい…！」"
+    ],
+    "textEn": [
+      "\"It's their choice whether to believe us or not!",
+      "No matter what, we have to tell them...!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん。",
+      "それを大石さんに私が打ち明けたら、…私がスクラップ帖を持っていることを告白するのと同じなんじゃないかな。」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun.",
+      "Telling Ooishi-san about all this means... telling him that I have the scrapbooks.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………それって、まずいのか…？」"
+    ],
+    "textEn": [
+      "\"...Do you think that'd be a problem...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「大石さんの接触は、三四さんが殺された後だった。",
+      "敵は三四さんを殺した時点でスクラップ帖の紛失と、その数日前に私が図書館で出会っていることを知っている。」"
+    ],
+    "textEn": [
+      "\"Ooishi-san came to me after Miyo-san was murdered.",
+      "When they killed Miyo-san, they found out that her scrapbooks were missing. They also know that she met me at the library a few days ago.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……馬鹿な…。",
+      "つ、つまり……、」"
+    ],
+    "textEn": [
+      "\"...No way...",
+      "You mean...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そう。",
+      "大石さん自体が、敵の手先である可能性がある。",
+      "大石さんは私がスクラップ帖を持っている可能性があると当たりを付けていて、探りを入れてきているのかもしれない。"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "Ooishi-san could be one of them.",
+      "It's possible that Ooishi-san thinks I have the scrapbooks, and he might be trying to find out."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "実際、彼は胡散臭くて腹を割らない。"
+    ],
+    "textEn": [
+      "In fact, he looked very suspicious, and it seemed to me that he didn't really tell me everything he knew."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "園崎家を疑わせるようなことを言って、自分は味方だと言ってくるけど、彼だってその園崎家の手先かもしれない。」"
+    ],
+    "textEn": [
+      "He only told me things to make me suspicious of the Sonozaki family. He could have just been trying to look like he was on my side, and that he's actually their minion.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「け、……警察を疑い出したらおしまいだぞ…。」"
+    ],
+    "textEn": [
+      "\"B-But... the police are our only hope...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん、４年目の撲殺事件を知ってるよね？",
+      "沙都子ちゃんの叔母さんが殺された事件。",
+      "あれは犯人は悟史くん以外に考えられないんだけど、……その後、犯人は麻薬中毒者だったということになった。"
+    ],
+    "textEn": [
+      "\"Keiichi-kun, you know about the case of the fourth year, don't you?",
+      "Satoko-chan's aunt was murdered.",
+      "I believe Satoshi-kun did it. But... the police fingered a drug addict as the murderer."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "これをどう思う？」"
+    ],
+    "textEn": [
+      "What do you think about that?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………警察内部に狂信的な連中の手先が混じっていて……、",
+      "犯人を捏造したってことか…？！」"
+    ],
+    "textEn": [
+      "\"...Some of the fanatics are with the police...",
+      "and they fabricated the murderer...?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「３年目の神主さんの病死の検死とか、２年目の北条夫妻の事故現場の検分とか。"
+    ],
+    "textEn": [
+      "\"It's the same with the autopsy of the Shinto priest, who they claim died from disease, and the inspection of the accident site where the Houjou couple died."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……警察がもしも彼らの片棒を担いでいるなら、数々の完全犯罪が可能になる。",
+      "雛見沢御三家はダム戦争時から今日に至るまでもずーっと、警察への圧力を維持しているんだよ。"
+    ],
+    "textEn": [
+      "...If the police are on their side, it opens the door to many perfect crimes.",
+      "The Three Families have been maintaining pressure on the police since the dam conflict."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "…それに興宮の町のいろんなところに一族が進出して実権を握っているというのは、魅ぃちゃんから聞かされたことがあるんじゃない？」"
+    ],
+    "textEn": [
+      "...You've heard from Mii-chan that they also have considerable power over many organizations in Okinomiya, right?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「た、…確かに。",
+      "それは魅音の口からだけじゃない。",
+      "色んなやつの口から聞かされた。",
+      "魅音の園崎家が、どれだけ市内全域に強力な影響力を持っているかってのをな…。」"
+    ],
+    "textEn": [
+      "\"Y-Yes, I have.",
+      "It's not only Mion who told me that.",
+      "Many people did.",
+      "They told me the Sonozaki family holds influence over the whole city...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……………そういうこと。",
+      "警察は、この土地では必ずしも信用できない。」"
+    ],
+    "textEn": [
+      "\"......That's right.",
+      "You can't necessarily trust the police around here.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なぁレナ、すまん！",
+      "先にはっきりさせたいんだが、……黒幕は園崎家なのか？！",
+      "魅音も関係があるってのか？！",
+      "それだけは先に聞かせてくれ！」"
+    ],
+    "textEn": [
+      "\"Rena, please!",
+      "I want to make one thing clear before we go on... Are the Sonozaki family the masterminds behind all this?!",
+      "Does that mean Mion is involved, too?!",
+      "Please tell me!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……御三家である魅ぃちゃんや梨花ちゃんが直接関係しているかはわからない。"
+    ],
+    "textEn": [
+      "\"...I don't know if Mii-chan or Rika-chan are directly involved or not."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "ただ、狂信的な勢力が、御三家や、一番の有力家である園崎家を自由に動かせる中枢部に根付いているのは間違いない。"
+    ],
+    "textEn": [
+      "All I can say for sure is that the fanatics have the power to control the nerve centers of all the Three Families, including the most powerful family of all, the Sonozakis."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……狂信的な勢力が根付いたのか、御三家の中枢が狂信的なのかはわかりかねるけどね。」"
+    ],
+    "textEn": [
+      "...I'm not sure if the fanatics are controlling the Three Families or if the Three Families are the fanatics themselves.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「関係あるかどうかわからない以上、…用心に越したことはないってわけだな…？」"
+    ],
+    "textEn": [
+      "\"As long as we're not sure about their involvement... it's better for us to be extra careful around them... Is that what you're saying?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "………魅ぃちゃんたちのことを疑うわけじゃないよ。",
+      "普段の魅ぃちゃんは頼もしいし、私も他の心配事なら、打ち明けて助力を求めることもあると思う。",
+      "ただ、今回のことはちょっと話の次元が違う。"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "...I'm not saying that I don't trust Mii-chan.",
+      "She's usually very reliable, and I'd ask her for help with any problem, but not this one.",
+      "This one is a little different."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……圭一くんは見たことあるかな。",
+      "魅ぃちゃんは普段はふざけているけど、園崎家の次期頭首として振舞う時は、ものすごく冷酷で別人みたいに振舞えるの。"
+    ],
+    "textEn": [
+      "...I don't know if you've seen it before, but...",
+      "Although Mii-chan jokes around when she's with us, she can be a very cold person when she's acting as the successor of the Sonozaki family."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……それに、もし無関係だったとしても、それならばやはり、耳に入れることで危険に巻き込むことにもなるんじゃないかな。」"
+    ],
+    "textEn": [
+      "...Plus, even if she wasn't involved, we would put her in danger if we told her about this.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「魅音たちが味方になってくれればかなり頼もしいぞ…！",
+      "俺は打ち明ける価値があると思うんだが……。」"
+    ],
+    "textEn": [
+      "\"If she was on our side, that'd be really encouraging...!",
+      "I think we should tell her...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「だからそれは駄目！",
+      "敵ではないと確認が取れるまでそれは避けるべきだよ。",
+      "味方にできれば確かに心強いけど、そうでなかった時はどうするつもり？！」"
+    ],
+    "textEn": [
+      "\"No, we shouldn't!",
+      "We shouldn't tell her until we confirm she's not one of them.",
+      "Sure, it'd be great if we could pull her to our side, but what if we couldn't?!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ…、俺とレナだけでどう戦うつもりなんだよ？！」"
+    ],
+    "textEn": [
+      "\"So... how are we going to fight against them?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "もともと最初から絶望的な戦いなんだよ。",
+      "……だから圭一くんを巻き込みたくなかった。」"
+    ],
+    "textEn": [
+      "\"Well,",
+      "this is a battle we don't stand a chance of winning to begin with.",
+      "...That's why I didn't want to get you involved.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……くそ！",
+      "……鷹野さんめ、とんでもない置き土産を残してくれたなぁ…！」"
+    ],
+    "textEn": [
+      "\"...Damn it!",
+      "...Takano-san left us a big parting gift, didn't she?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でも、そのお陰でとてつもない陰謀を知ることが出来たんだよ。",
+      "これは、三四さんの遺言なんだよ、きっと。」"
+    ],
+    "textEn": [
+      "\"But because of that, we know about the conspiracy.",
+      "I believe this is her will.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「村を陰から牛耳る何者かに、その村に住まうガキンチョ２人が挑むわけだ。…",
+      "…こいつぁ、最高にハードな話だぜ…。",
+      "一筋縄じゃいかねぇぞ。」"
+    ],
+    "textEn": [
+      "\"Two kids challenging the mastermind who controls the village.",
+      "...This is going to be tough...",
+      "Ordinary methods won't work.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……でも、……圭一くんが味方でよかったよ。",
+      "２人だから、話し合えて、相談できる。」"
+    ],
+    "textEn": [
+      "\"...But... Keiichi-kun, I'm glad to have you on my side.",
+      "We can talk about it and plan things together.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………当り前だろ。",
+      "俺は最初っからずっとレナの味方で仲間だぞ…！」"
+    ],
+    "textEn": [
+      "\".........Of course.",
+      "I've always been on your side, and I'm your friend...!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………うん。",
+      "……ありがとう。",
+      "２人なら心強いよ。」"
+    ],
+    "textEn": [
+      "\"......I know.",
+      "...Thank you.",
+      "You're very reassuring.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ひとりで悩むよりは建設的になれるだろうしな！」"
+    ],
+    "textEn": [
+      "\"Two heads are better than one!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね。",
+      "２人でどう戦えばいいか、これからじっくり相談していこう。"
+    ],
+    "textEn": [
+      "\"Yeah, I agree.",
+      "We can come up with a plan for how we're going to fight against them together."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "今日は私、スクラップ帖を読み直す時間が欲しかったから休んだけど、明日からは普段通りに生活するね。",
+      "おかしな行動をすれば、気取られてしまうかもしれないからね。"
+    ],
+    "textEn": [
+      "I skipped school today because I wanted some time to read the scrapbooks again, but I'm going to school again tomorrow, and I'm going to act normal.",
+      "They might sense something is wrong with me if I act different."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "圭一くんも、変に構えないで普段通りに生活してね。",
+      "魅いちゃんとか時折鋭いことがあるから、特に気をつけて。」"
+    ],
+    "textEn": [
+      "You should do the same, Keiichi-kun.",
+      "Please be careful with Mii-chan... she's sometimes very perceptive.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わかった。",
+      "何事もなかったかのように生活するよ。",
+      "………だが畜生、何だか怖いぜ…！",
+      "とんでもない陰謀が間近に迫ってて、それがもうカウントダウンに入ってるかもしれないってんだぜ。"
+    ],
+    "textEn": [
+      "\"Okay.",
+      "I'll act normal, as if I know nothing.",
+      "......But damn! I'm a bit scared...!",
+      "A huge conspiracy is right around the corner, and it might already be counting down to zero."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "…それを知りつつ普段通りに生活しろってのも、辛い話だよな。」"
+    ],
+    "textEn": [
+      "...It's hard to act normal knowing that.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「多分、そんなにすぐじゃないはずなの。",
+      "さっきも言ったとおり、彼らが狂信的であればあるほど、宗教的なセレモニーを必要とするはず。",
+      "そういうセレモニーは村を挙げて行なうものだもの。"
+    ],
+    "textEn": [
+      "\"I don't think it's going to happen very soon.",
+      "Like I said earlier, if they really are religious fanatics, they need a religious ceremony.",
+      "They need the help of the whole village to hold something like that."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "綿流し以上のイベントは今の雛見沢には存在しない。」"
+    ],
+    "textEn": [
+      "I can't think of any event other than Watanagashi.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……ということは、………少なくとも来年の綿流しまでは、大丈夫ということか？」"
+    ],
+    "textEn": [
+      "\"...So... you're saying that we have time at least until the next Watanagashi festival?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「根拠のない読みだけどね。",
+      "……他に、綿流し以上のイベントが思いつかない。」"
+    ],
+    "textEn": [
+      "\"I can't promise.",
+      "...But I just can't think of any event other than that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…あと１年は最低でも余裕があると思う。",
+      "でも、……三四さんを殺したことに、何らかの性急さを感じずにはいられなかった。",
+      "私が理解していないだけで………「綿流し」を超える、もっともっと絶大なインパクトのある「宗教的イベント」が何かあるんじゃないだろうか……？",
+      "実は、もう猶予はほとんどないのかもしれない。",
+      "恐ろしい寄生虫がバラまかれる「オヤシロさまの復活の日」が、すぐそこまで近付いているのかもしれない……。"
+    ],
+    "textEn": [
+      "...I think we have a year, at least.",
+      "But... I also feel like we don't, because of how they killed Miyo-san.",
+      "I might not know... but there might be a bigger \"religious event\" than Watanagashi...",
+      "It might not be long until that day.",
+      "On \"The Day of Oyashiro-sama's Revival\" they're going to spread a dangerous parasite, and that day might be just around the corner..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「……礼奈。",
+      "まだ電話してるのかー。",
+      "そろそろ終わりにしなさい。」"
+    ],
+    "textEn": [
+      "\"...Reina.",
+      "Are you still on the phone?",
+      "Wrap it up soon. It's getting late.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "居間から父が顔を出し、もう遅い時間だから電話は終わりにしなさいと注意した。",
+      "父に打ち明けたいとは何度も思った。",
+      "肉親がもっとも身近な味方に感じるのは当然のことだった。",
+      "だが、……父の弱い面も知ってしまっている私には、打ち明ける勇気は湧かなかった。",
+      "父に信じてもらえるとも思えないし、…結局、父だって、警察に相談する以上の何も思いつかないはずだ。",
+      "なら、むしろ話さない方がいい。",
+      "敵を欺くには味方からとも言う。",
+      "父がスクラップ帖の存在など始めから知らなければ、敵は父をどう籠絡しようとも、何の意味もないのだから。"
+    ],
+    "textEn": [
+      "My father stuck his head out from the living room, telling me I need to hang up soon.",
+      "I thought about telling him so many times.",
+      "It's natural to think that your parents will be on your side no matter what.",
+      "But... I know just how weak he can get. So, I couldn't tell him.",
+      "I don't think he'd believe me anyway. Even if I told him, he'd just tell me to call the police.",
+      "It's better that I don't tell him.",
+      "They might get close to my father to get me.",
+      "If he didn't know anything about anything, including the scrapbooks, there'd be nothing to squeeze out of him to begin with."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ごめんね圭一くん。",
+      "今夜はもう遅いからこれで切るね。",
+      "また明日、学校で。」"
+    ],
+    "textEn": [
+      "\"I'm sorry, Keiichi-kun.",
+      "I have to go now. It's getting late.",
+      "I'll see you at school.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おう、また明日、学校で。」"
+    ],
+    "textEn": [
+      "\"Okay. See you tomorrow.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……用心してね。",
+      "圭一くんも、もう部外者じゃないんだから。」"
+    ],
+    "textEn": [
+      "\"......Be careful, okay?",
+      "You're not an outsider anymore.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…お、おぅ。せいぜい気をつけるぜ。」"
+    ],
+    "textEn": [
+      "\"...Y-Yeah, I'll be careful.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あの不審なワゴン車の男たちを思い出し、再び背筋に冷たいものが登るのを感じる。",
+      "一見、村人のように見えたが、村人じゃなかった。",
+      "…村人のような訛りをしゃべったが、装っているだけで村人じゃなかった。",
+      "思い出せば思い出すほどに彼らは不審で、",
+      "……決して自分たちが安全な場所にいるわけではないことを教えていた。",
+      "レナの言うとおりなら、彼らはレナを怪しいと思っているだけで、まだ確証を得ているわけではない。",
+      "……だからといって、薄気味悪くないわけがない！",
+      "多分レナは、俺がワゴン車に遭って薄気味悪い思いをしたようなことを、もうすでに何度も繰り返して、その身の危険をより感じているのだ。",
+      "だが、……襲ってくるわけでなく、動向を監視されるというのは、とにかく気持ちが悪かった。",
+      "こういっては何だが、襲ってきたなら、警察に訴えるとかいくらでも方法がある。",
+      "だけど、身辺に張り付いて監視するだけなら、どうしようもないし、誰にも相談できない。",
+      "レナは学校になんか行かず、家に閉じ篭っていたい気分に違いあるまい。",
+      "……だが、普段と明らかに違う様子を見せたなら、スクラップ帖を持っていることを気取らせてしまうかもしれないのだ。",
+      "普段と変った素振りを見せず、……戦う方法を考えなくてはならない。",
+      "もう後戻りができないことを自分に言い聞かせると、俺はすでに切れている受話器を置いた。"
+    ],
+    "textEn": [
+      "I remembered the suspicious men in the white van, and felt a chill run through my spine.",
+      "They looked like villagers, but they weren't.",
+      "...They had the village accent, but they were just pretending.",
+      "The more I thought about it, the more suspicious they became.",
+      "...It let me know that Rena and I aren't safe.",
+      "If Rena is right, they're just suspicious of her, and they're not sure if she has the scrapbooks or not.",
+      "...But it's still creepy!",
+      "Rena had probably experienced the same creepiness I felt when I saw the van several times up until now. She must sense the danger more than I do.",
+      "However... the fact that they weren't attacking--that they were merely observing us--was disturbing.",
+      "If they attacked her, she could've done something, like going to the police.",
+      "But all they're doing is just watching her from a distance. She can't do anything about it. She can't talk to anybody about it.",
+      "She probably just wants to stay in her house all day.",
+      "...But if she acted different, they might take it as proof that she has the scrapbooks.",
+      "We have to think about how to fight against them... without making it obvious.",
+      "I told myself that there was no going back, and I put the phone down."
+    ]
+  }
+]

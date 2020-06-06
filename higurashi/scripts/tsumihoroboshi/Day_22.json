@@ -1,0 +1,3188 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "翌日のお昼の時間。",
+      "クラスでは、レナの消息についてみんなが好き勝手な噂話をしていた。",
+      "仲間たちもみな、レナの無事を案じていたが、………俺だけはひとり、距離を置いていた。"
+    ],
+    "textEn": [
+      "At lunchtime the next day,",
+      "everybody in class was talking about Rena's disappearance.",
+      "We were all worried about her safety... but I kept a safe distance from everybody else."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…レナはどこに行っちゃったんだろうね。",
+      "鬼隠しにあった、なんていい加減なことを言ってる連中もいるよ。",
+      "まったく！」"
+    ],
+    "textEn": [
+      "\"...I do wonder where she went.",
+      "Someone said that she was demoned away.",
+      "How can they say such things? I can't believe their nerve!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さん、今日は元気がありませんですのことよ…？」"
+    ],
+    "textEn": [
+      "\"Keiichi-san, you look down today...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー。」"
+    ],
+    "textEn": [
+      "\"...Meep.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子と梨花ちゃんが、俺の様子に気付いて話しかけてきた。"
+    ],
+    "textEn": [
+      "Satoko and Rika-chan noticed something odd about my attitude."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………俺は、………ん。」"
+    ],
+    "textEn": [
+      "\".........I... ummm...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…？？」"
+    ],
+    "textEn": [
+      "\"...??\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺は昨夜、レナに告げられてから、……ずっと眠れずに朝を迎えた。",
+      "隠し事なんてするのは仲間じゃない。",
+      "あの一言が突き刺さったまま、…その痛みで眠れなかったのだ。"
+    ],
+    "textEn": [
+      "I couldn't sleep at all last night because of what Rena told me.",
+      "Friends don't keep secrets from one another.",
+      "That sentence bit into my heart... and I couldn't sleep because of the pain."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「魅音。",
+      "…沙都子も梨花ちゃんも。",
+      "………話しておきたいことがある。」"
+    ],
+    "textEn": [
+      "\"Mion.",
+      "...Satoko, and Rika-chan too.",
+      "...I have something I need to talk to you about.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…レナに関すること？」"
+    ],
+    "textEn": [
+      "\"...Is it about Rena?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いや、…そうじゃない。",
+      "俺自身についてのことなんだ…。」"
+    ],
+    "textEn": [
+      "\"No... it's not.",
+      "It's about me...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "彼女らを仲間だと信じているから、話してしまおうと思った。",
+      "…でも、話すことで、何が変わるのか。",
+      "彼女たちが俺を蔑みこそすれ、…俺にとってどんな利することが？",
+      "……何もない。",
+      "ただ、…俺はレナの言葉の痛みを癒したいだけなんだ。"
+    ],
+    "textEn": [
+      "I decided to tell them about it, because they were my friends.",
+      "...But I didn't know what I was expecting to change by doing so.",
+      "They might despise me... Was there any benefit in telling them?",
+      "...No, there wasn't. I knew that for sure.",
+      "But I still wanted to tell them about it, just because I thought it'd help heal the pain I was feeling."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さんのこと、………ですの？」"
+    ],
+    "textEn": [
+      "\"What is this about, Keiichi-san...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…あぁ。…ちょっと真面目な話なんだ。",
+      "聞いて欲しい。」"
+    ],
+    "textEn": [
+      "\"...Well... It's the truth about myself.",
+      "I'd appreciate it if you listened to me.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺が、…引っ越してくる前のことなんだ。",
+      "当時の俺は、……勉強しか能のないやつだった。」"
+    ],
+    "textEn": [
+      "\"It's about what happened to me before I moved here.",
+      "I was a kind of guy who wasn't good at anything but studying.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "塾で、勉強というゲームのコツを学び、",
+      "成績の向上で優越感に浸れることを覚えた俺は、……クラス中を見下したいだけという、つまらない理由で勉強を続けていた。",
+      "成績が上がると親は喜んだし、先生はちやほやしてくれた。",
+      "いい気持ちだった。",
+      "５０ｍ走とかドッジボールとか水泳とか、そういうのを鼻にかけて威張っていた連中がちっぽけに見えるのが楽しくて、それだけの理由で勉強を重ねてきた。",
+      "成績はいつの間にかクラスどころか、校内でトップを争うほどになっていた。",
+      "だから、この学校で一番偉いのは俺だと思うようになった。",
+      "だから昼休みに校庭で遊んでいる連中を窓から見下ろして、そいつらより優位に立っていることを感じるのが好きなつまらない野郎だった。",
+      "……成績が上がれば、周りも俺に期待する。",
+      "周囲は急に高望みするようになり、合格偏差値の異様に高い、トップ校に進学することを当然の目標として掲げた。",
+      "もちろん俺も、そこへ入学することが自分に相応しいなんて思って自惚れた。",
+      "だが、………勉強の負担はまったく変わらないのに、見下す気持ちの良さだけはどんどんと薄れていった。",
+      "それは周りも同じだったようで、クラスメートは俺の成績を讃えなくなったし、先生はもっと高みを目指すように叱咤するばかり。",
+      "俺は急に、勉強する楽しみを失い始めていた。",
+      "元々、勉強なんて好きでも何でもない。",
+      "運動神経も並、喧嘩の強さも並の、平々凡々の目立たないガキンチョが、自分が人より優位に立てるものを見つけたので飛びついただけだ。",
+      "それが勉強でなく、例えば、一輪車やけん玉で人を見下せたなら、それを練習していたに違いない。",
+      "そういう感情に気付き始めると、もう勉強なんてつまらないだけだった。",
+      "そうさ、俺は人よりすごいことができたとき、それを誰かに褒めてもらいたいだけの甘えん坊野郎だったんだ。",
+      "…だから褒めてもらえるなら、夏休みの宿題だってきっちり終わらせたし、学校の掃除だって率先してやった。",
+      "だから、褒めてもらえなくなったとき、自分の人生がどうでもいいものに感じた。",
+      "俺は、一時期、成績の向上と小遣いの額が比例していたことがあったので、ガキには相応しくない小遣いを持っていた。",
+      "……元々好きだったのか、それともやり場のない感情が凶暴性を求めたのかはわからない。",
+      "俺はモデルガンに興味を持ち始めていた。",
+      "ダンボールを的にしているうちは可愛いものだった。",
+      "ダンボールに凶暴性をぶつけるだけなら、ストレスの発散の内だ。",
+      "そこまでなら誰も咎めない。",
+      "だが、すぐにやってはいけないことをしたくなった。",
+      "モデルガンの箱に書いてあった注意書き、",
+      "「人に向けて撃ってはいけません」を見た時、よし俺は人を撃ってやろうと思ったんだ。",
+      "どうして、やってはいけないことをわざわざ？",
+      "それこそが俺の幼稚さだったんだ。",
+      "俺はもう勉強なんかに関心はないのに、それを無理強いして、どんどん塾通いを強制する親に反感を持っていた。",
+      "なら、親にもう勉強は嫌だとぶつければいいものを。",
+      "……矮小な俺にはその勇気はなく。",
+      "…あろうことか、その攻撃性は、自分より年下の人間をモデルガンで闇討ちするという卑劣な行為に向いた。",
+      "ものすごいスリルだった。",
+      "自分はこんなにも悪いことをしているんだという刺激は、勉強漬けの自分にとってあまりに甘美だったのだ。",
+      "もちろん、狙った相手に個人的恨みは何もない。",
+      "ひと気のないところにいればそれで攻撃の条件は満たした。",
+      "別に怪我させるつもりは毛頭なかった。",
+      "狙撃するように遠くから１〜２発、当ててやればそれでいい気分だった。",
+      "だが、たまに服の生地の厚いところに当るのか、当っても無反応な子がいた。",
+      "……それが気に入らず、相手が撃たれていることに気付くまで撃つようになった。",
+      "それは必然的に、滅多撃ちにエスカレートしていったんだ。",
+      "自分は勉強というとてもいいことをしている。",
+      "だからそれに見合うくらいに悪いことをしてもいいんだ。",
+      "それでバランスがちょうどいいんだ、等と信じられないくらい自己中心的な主張をして自分を許した。",
+      "こんなにも辛い状況を我慢しているのだから、これは当然の権利なのだ。",
+      "だから、俺のように苦労していない人間は少しくらい撃たれて痛かったって当然なんだ。",
+      "…………なんて身勝手、なんて傲慢、なんて甘え！",
+      "今、こうして自分で並べているだけで虫唾が走る。",
+      "もし、その頃の俺の前に立ち塞がれるなら、奥歯が吹っ飛ぶくらいに殴り飛ばしてやりたかった。",
+      "児童連続襲撃事件とまで呼ばれるようになり、",
+      "全校朝礼で校長が、そういう事件が起こっているようなので、お外で遊ぶ際には気をつけましょうというのを聞いて、ひとりニヤニヤ笑っていた。",
+      "ＰＴＡ便りには、通学路の安全に気をつけるよう見出しがつき、やがて保護者の当番制による登下校時の見張り、集団での登下校などが次々決まっていく。",
+      "規模がどんどん膨らんでいくことに、俺がかつて、成績アップで校内順位が上がっていく頃のカタルシスを思い出すのだった。",
+      "俺は、この遊びにもはや夢中だった。",
+      "いつかはバレるだろうなんて思いもしなかったし、いつを境にやめるかも決めてなんかいなかった。",
+      "そんなある日。",
+      "………俺はひと気のない暗く細い道で、ひとりの少女を見つけた。",
+      "本当に小さな子だった。",
+      "どこかへ遊びに行く途中だったのか、おつかいに行く途中だったのか。",
+      "…どちらにせよ、構わない。",
+      "ひとりでの外出は避けましょうと学校で言われてるだろうに、無用心な。",
+      "被害に遭うのは自業自得だ。",
+      "そんな身勝手な理屈で、いつものように、",
+      "………襲った。",
+      "背中に弾が何発か当たり、少女は自分が何らかの悪意に晒されていることに気付く。",
+      "気付けば振り返るのは当然の反応だった。",
+      "俺はその頃は、雨あられのように弾をぶつけるのが習慣になっていたから。",
+      "だから彼女が振り向いたその瞬間にも、弾を浴びせかけていた。",
+      "普通の子だったら、痛い痛いと言いながら走って逃げていく。",
+      "……だが、その子の反応は初めて見るものだった。",
+      "片方の目を押さえて、苦痛の悲鳴を上げながら転げてのたうち回ったのだ。",
+      "それを見て、すぐに直感した。",
+      "目に直撃したんだ。",
+      "ダンボールをやすやすと打ち抜くような弾で眼球を直接撃たれたらどういうことになるかなんて、その瞬間まで考えたこともなかった。",
+      "とにかくとにかく、",
+      "その子の痛がり方が尋常じゃなくて、",
+      "俺はその時になって初めて、",
+      "自分が何て恐ろしいことをしていたんだろうと気付いた。",
+      "少女に姿を見られていた。",
+      "だから自分が病院に連れて行くことはできなかった。",
+      "だから結局どうすることもできなくて、……俺は転げ回る少女を取り残して、その場から走り去った。",
+      "あの子は大丈夫だろうか、失明しなかっただろうか。",
+      "それだけが頭をぐるぐると駆け巡り、食事をする気にもなれなかった。",
+      "居間の本棚にあった、家庭用の医学書をこっそり部屋に持ち帰り、目の構造について調べた。",
+      "どのくらいの怪我なら失明するのかしないのか、今さらのように調べた。",
+      "仮に失明しないとわかったとしたって、犯した罪に何も変りはないのに。",
+      "……その晩、俺は寝付けず、ひどい高熱にうなされた。",
+      "俺の罪を一番最初に罰してくれたのは結局、親でも学校でも警察でもなく、……結局、俺の体自身だったわけだ。",
+      "深夜と早朝の境目の頃。",
+      "………俺は熟睡中だった両親を起こし、自らの罪を打ち明けた。",
+      "親は始めは驚愕していたが、最近の俺の反抗的な態度と、モデルガン遊びへの傾倒から、何となく状況を察したようだった。",
+      "お袋はさめざめと泣き、親父には顔が腫れあがるほどぶん殴られた。",
+      "結局、夜明けを待たず、両親に付き添われて、……交番に出頭するのだった。",
+      "沙都子は呆然としたような顔で俺を見ていた。",
+      "その眼差しを向けるのは、当然の権利だろう。",
+      "そして俺にはそれに甘んじなくてはならない罪がある……。"
+    ],
+    "textEn": [
+      "I learned the tricks of the game called studying at my cram school.",
+      "I enjoyed the sense of superiority I felt by getting good grades. I kept studying just because I wanted to look down on the other students.",
+      "When my grades got better, my parents got happier, and my teachers praised me.",
+      "I felt good.",
+      "It was fun to look down on the students who were good at running, dodgeball, or swimming. That was the only reason I kept studying.",
+      "Before I knew it, not only was I the top of my class, I was the top of my school.",
+      "So, I started to think I was the most important student there.",
+      "I looked down on the kids who were playing in the schoolyard during lunch break. I enjoyed feeling a sense of superiority to them in my insignificance.",
+      "...The more I studied, the better everybody expected me to do.",
+      "They started to place high hopes on me. They expected me to go to the best school in Japan.",
+      "I flattered myself in thinking I deserved to go to that school as well.",
+      "But... The fun went out of looking down on people, while the burden of studying didn't change a bit.",
+      "My classmates stopped admiring my cleverness after a while, and my teachers started to push me to study more.",
+      "All of a sudden, the fun had gone out of it.",
+      "To begin with, I didn't even like to study.",
+      "I had average reflexes. I was average in a fight. I was an average boy with nothing that really drew attention. So when I found something that I could use to get that attention, I jumped on it.",
+      "It happened to be studying for me, but if it was riding a unicycle or juggling, I would've done that, too.",
+      "When I realized I didn't enjoy studying anymore, it got very boring.",
+      "I was just a little boy who wanted to be praised when I did something better than anybody else.",
+      "...I finished all of my summer homework because my parents praised me for it, and I took charge of cleaning duties at school because my teachers praised me for it.",
+      "So when they stopped praising me for what I did, I began to feel as though my life had no meaning.",
+      "My parents used to give me an allowance that was proportional to how good my grades were, so I used to get a substantial amount of money for my age.",
+      "...I don't know if I had a natural interest in violence, or if I was looking for it because of my frustration at the time.",
+      "I took an interest in BB guns.",
+      "At first, I shot at cardboard boxes. It was fun.",
+      "Being violent at pieces of cardboard relieved a lot of stress.",
+      "Nobody blamed me for doing that.",
+      "But soon, I started wanting to do something I should never have done.",
+      "On the box that my BB gun came in was a warning label that read \"do not shoot at people\".",
+      "That was when I thought about doing just that.",
+      "Why did I do something I shouldn't have?",
+      "I guess I was just immature.",
+      "I wasn't interested in studying anymore, but I forced myself to do so anyway. My parents forced me to go to several cram schools. I was mad at them for that.",
+      "I should've told them I didn't want to study anymore.",
+      "...But I didn't have the courage to do that.",
+      "...So, I used my frustration as an excuse to do something cowardly: I shot at kids who were younger than I was with my BB gun.",
+      "It gave me such a thrill.",
+      "It felt so good to do something bad when I was so overcome with studying.",
+      "Needless to say, I had no personal grudge against the kids I shot.",
+      "As long as the kids passed through a deserted street, they met the requirements to become my target.",
+      "I didn't mean to hurt them.",
+      "I shot at them once or twice from a distance. That was all I wanted to do.",
+      "But sometimes, they didn't react at all because the BBs hit a thicker part of their clothes or something.",
+      "...I didn't like that, so I started to shoot until they noticed they were being hit.",
+      "It inevitably escalated into a barrage of gunfire.",
+      "I study a lot. I'm doing something good.",
+      "So, I deserve to do something bad to balance out the good thing I'm doing.",
+      "That was the unbelievably selfish excuse I made.",
+      "I thought I had a right to do things like that, because I was suffering myself.",
+      "I thought people who weren't suffering like I was deserved to be shot at and to get hurt a little bit.",
+      "...I was so selfish, so arrogant, and so immature!",
+      "I was disgusted with myself.",
+      "If I could have met myself at that time, I would've given myself a punch in the face so hard that I'd knock out all of my teeth.",
+      "They started to call it \"a series of attacks on school children\".",
+      "The principal of my school held a morning assembly to inform everyone about the case and to warn them to be careful when playing outside. I was laughing sneakily.",
+      "The PTA issued a letter of warning and advice to take the safest way to and from school. Parents took turns watching kids when they walked between home and school in groups.",
+      "The more serious it got, the more it reminded me of the excitement I first felt when my grades started going up.",
+      "I was absorbed in that game I was playing.",
+      "I didn't think that I'd get caught someday. I didn't even think to stop doing it, either.",
+      "One day.",
+      "...I found a little girl who was walking down a narrow dark street, all alone.",
+      "She was a very small girl.",
+      "I don't know if she was on her way to her friend's house, or if she was running an errand.",
+      "I didn't care which.",
+      "It was careless of her to go out alone. The school had warned her not to.",
+      "So, it was her fault.",
+      "Just like always, I made a selfish excuse...",
+      "and attacked her.",
+      "Some of the shots hit her in the back. She noticed she was attacked by somebody.",
+      "She turned around. It was a natural reaction.",
+      "At that time, I didn't hesitate to rain hell upon her.",
+      "So when she turned around, I was still shooting at her.",
+      "Usually when I shot at a kid, she cried in pain and ran away.",
+      "...But this girl was different.",
+      "She thrashed around in excruciating pain, holding one of her eyes.",
+      "When I saw her doing that, I realized what had happened right away.",
+      "The BB had hit her in the eye.",
+      "Until that moment, I didn't think about what would happen when a pellet that could easily go through a cardboard box hit an eyeball.",
+      "Anyway,",
+      "the girl howled in pain,",
+      "and for the first time",
+      "I realized I had done something horrible.",
+      "She saw me.",
+      "So I couldn't take her to a hospital.",
+      "I couldn't do anything about it... so I left her there while she was still screaming in pain.",
+      "I wondered if she was okay, and I worried that she had lost her eye.",
+      "I kept thinking about her, and I didn't even feel like eating that day.",
+      "I went to the bookshelf in our living room, snuck a medical book to my room, and studied the structure of the human eye.",
+      "It was too late to make a difference, but I studied what kind of injuries would make a person lose their vision.",
+      "I knew it wouldn't make the sin I committed weigh any less even if I found out that she wouldn't lose her sight.",
+      "...I couldn't sleep that night, and I suffered from a high fever.",
+      "It wasn't my parents, my teachers, or the police who first punished me for what I did... It was my own body.",
+      "Before dawn.",
+      "...I woke my parents up and confessed to my sin.",
+      "They were shocked at first, but it seemed like they understood the situation quickly due to my recent disobedient behavior and my interest in BB guns.",
+      "My mom cried hysterically. My dad slapped me in the face 'til it swelled up.",
+      "Before the sun came up, I turned myself in to the police, accompanied by my parents.",
+      "Satoko stared at me with a stunned expression.",
+      "I deserved to receive that kind of look.",
+      "What I did was very wrong, and I needed to accept that..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……それ、……本当ですの……？」"
+    ],
+    "textEn": [
+      "\"......Is that all... true...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ…。",
+      "本当だ。",
+      "……今まで隠していて、……悪かった………。」"
+    ],
+    "textEn": [
+      "\"Yes...",
+      "It's all true.",
+      "...I'm sorry I didn't tell you until now...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………………何で、そんなことを今頃になってわざわざ言おうと思ったわけ？」"
+    ],
+    "textEn": [
+      "\".........What made you want to tell us?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がそう言うと、梨花ちゃんもうんうんと頷いた。"
+    ],
+    "textEn": [
+      "Mion asked me. Rika-chan nodded in agreement."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「本音から言うとさ。",
+      "……圭ちゃん、どうしたのーーって感じかね。」"
+    ],
+    "textEn": [
+      "\"To tell you the truth...",
+      "I don't understand why.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…まぁ、………そりゃそうだよな……。」"
+    ],
+    "textEn": [
+      "\"...Well... I know, but...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「違うよ。",
+      "…そんなことわざわざ言い出す必要、あったのかなーってね。」"
+    ],
+    "textEn": [
+      "\"No.",
+      "I'm just saying that I don't see any reason why you had to tell us about it.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いや、………。",
+      "……隠し事をするなんて、…仲間じゃないよな。",
+      "………俺は、みんなのことを仲間だと思ってる。",
+      "…だから、……もう隠してなんかいられなかったんだ。」"
+    ],
+    "textEn": [
+      "\"Well......",
+      "I didn't want to keep secrets from my friends.",
+      "...You're my friends,",
+      "so... I couldn't hide it from you anymore.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一は、それをボクたちに話して何を期待しているのですか？」"
+    ],
+    "textEn": [
+      "\"...What are you expecting us to do?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「き、……期待なんて別にないよ。",
+      "……俺はただ…。」"
+    ],
+    "textEn": [
+      "\"I'm not... expecting anything.",
+      "...I just...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……許しが欲しくても、ボクにはあげられないのです。",
+      "圭一が怪我をさせた人たちにしかそれは与えられませんのです。",
+      "だから、ボクたちにそれを話しても、何の期待にも応えられないのですよ。」"
+    ],
+    "textEn": [
+      "\"......If you're asking for forgiveness, I can't give it to you.",
+      "You have to ask the kids you attacked if you want that.",
+      "It won't help any to tell us about it.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「梨花の言うとおりですわね。",
+      "……潔いのは認めますけれど、…そんなことを私たちに打ち明けて、どうしたいって言うんですの？」"
+    ],
+    "textEn": [
+      "\"I agree with Rika.",
+      "...I think you're really brave to tell us, but... I don't understand what you want to do from here on out.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………どうしたいって、…ことはないよ。",
+      "……ただ、……仲間に隠し事は……、」"
+    ],
+    "textEn": [
+      "\"...I don't want to do anything...",
+      "...I just thought... it's not right to keep secrets from my friends...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "仲間たちは俺の突然の過去の告白に、不快そうな表情を浮かべるだけだった。",
+      "俺は、自らの罪に対する当然の報いだと思って、ただそれを受け容れていた。"
+    ],
+    "textEn": [
+      "My friends looked annoyed by the sudden confession of my past.",
+      "I took it as bitter medicine. I got what I deserved."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんさぁ。",
+      "ちょいとここで質問なんだけどさ。"
+    ],
+    "textEn": [
+      "\"Kei-chan,",
+      "I have a question."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……仲間に隠し事ってしたら、いけないわけ？」"
+    ],
+    "textEn": [
+      "...Why can't friends keep secrets from each other?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え？」"
+    ],
+    "textEn": [
+      "\"What?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんの論法だと、隠し事をしないのが仲間みたいな話だけどさ。",
+      "……おじさんはそんなの嫌だね。」"
+    ],
+    "textEn": [
+      "\"I mean, that's what you're saying, but...",
+      "I really don't agree.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクも嫌です。」"
+    ],
+    "textEn": [
+      "\"......I don't agree, either.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音と梨花ちゃんは、とてもはっきりと俺を否定した。",
+      "沙都子もそれに習い、頷く。"
+    ],
+    "textEn": [
+      "Mion and Rika-chan obviously disagreed with my statement.",
+      "Satoko nodded, following suit."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「言いたくないことを言わないで何が悪いわけ？",
+      "人には話したくないことや辛いこと、悲しいこと、失敗したことや思い出したくないことがたくさんある。"
+    ],
+    "textEn": [
+      "\"I don't think it's wrong to refuse to tell people things you'd rather not.",
+      "We all have lots of things we don't want to tell anyone else about, like tragedies, mistakes, and other things you don't want to remember."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "それを全部打ち明けないと仲間と呼べないんなら、私ゃそんな仲間はいらないね。」"
+    ],
+    "textEn": [
+      "If I'd have to tell someone everything to be true friends with them, I wouldn't want to have them as my friends at all.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………で、……でも、…それじゃ………。」"
+    ],
+    "textEn": [
+      "\"...B-But...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一。",
+      "打ち明けなくていいことと、打ち明けなくてはならないことは違いますのです。",
+      "罪は許しを得るために打ち明けなくてはならない。"
+    ],
+    "textEn": [
+      "\"...Keiichi,",
+      "there's a difference between things you don't need to confess and things you have to confess.",
+      "You have to confess what you did to receive forgiveness."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "でも、打ち明けて許された罪は、もう打ち明ける必要はないのですよ？」"
+    ],
+    "textEn": [
+      "But once you're forgiven, you don't need to keep confessing.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「そうですわね。",
+      "……だって圭一さんは、ちゃんとお巡りさんのところにいって、怒られてきたんでございましょう？"
+    ],
+    "textEn": [
+      "\"Quite.",
+      "...You turned yourself in to the police, and they scolded you good, did they not?"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "それで償いをして許してもらえたなら、それで圭一さんの罪はおしまいですわよ。」"
+    ],
+    "textEn": [
+      "You atoned for your sin, and you were forgiven. What more do you have to do?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「自首して、その結果を受け容れたなら、それで圭ちゃんのお勤めは終わりだよ。"
+    ],
+    "textEn": [
+      "\"You turned yourself in, and you accepted the result. You did what you had to do."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "もちろん、圭ちゃんが罪の十字架を背負い続けることはとても大切なこと。",
+      "二度と過ちを繰り返さないよう、常に胸に刻み続けるのは正しいことだよ。"
+    ],
+    "textEn": [
+      "It's very important that you keep reminding yourself of your sin",
+      "so that you won't make the same mistake again."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……でもね、それは圭ちゃんが自戒することであって、打ち明けなくちゃいけないことではない。」"
+    ],
+    "textEn": [
+      "...But you only have to take care of that on your own. It's not something you have to confess to everybody.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「そうですわよ。",
+      "過去の恥ずかしい話なんかは、私も内緒にしたいことがたくさんございましてよ。」"
+    ],
+    "textEn": [
+      "\"That's very true.",
+      "I have many embarrassing stories that I'd rather not tell anyone.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー。",
+      "沙都子は特にいっぱいいっぱいありますのです。」"
+    ],
+    "textEn": [
+      "\"......Meep.",
+      "Satoko does have quite a lot of them.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「わ、私だけじゃございませんのよー！！",
+      "梨花もですわよ梨花もですわよ！！」"
+    ],
+    "textEn": [
+      "\"I-It's not only me!!",
+      "Rika has a heap of them too!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「みーみーみー☆」"
+    ],
+    "textEn": [
+      "\"Meep☆ meep☆ meep☆!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子と梨花ちゃんがいつものようにじゃれ合った。",
+      "それを見て、魅音が俺に向き返る。"
+    ],
+    "textEn": [
+      "Satoko and Rika-chan fooled around with each other like they always did.",
+      "Mion looked at them and then looked back at me."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「今、沙都子はとてもいい事を言ったと思う。",
+      "…圭ちゃんにはどの部分かわかる？」"
+    ],
+    "textEn": [
+      "\"Satoko just said something very important.",
+      "...Did you get it?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……過去の話は、内緒にしたい…というところか？」"
+    ],
+    "textEn": [
+      "\"...You mean the part where she said she has a dark past that nobody needs to know about?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「違う違う！",
+      "その次の部分。"
+    ],
+    "textEn": [
+      "\"No, no!",
+      "The bit after that."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "誰にだってある、ってところだよ。",
+      "無菌室の試験管の中で育った人間でもない限り、人の人生は試行錯誤の繰り返しだと思う。"
+    ],
+    "textEn": [
+      "She's saying that everybody has something they'd rather hide.",
+      "Considering that nobody grows up in a sterilized room, we all learn by trial and error. That's called life, you know?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "良いことも悪いことも、色々なことを繰り返して成長して、それで最後の最後に素晴らしい人間になれればいいんじゃない？"
+    ],
+    "textEn": [
+      "You do both good things and bad things in order to grow up. Your goal is to become a wonderful person by the end."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "いいことも悪いことも、全てとても大切な経験なんだと思う。"
+    ],
+    "textEn": [
+      "Everything that happens is a very important experience, including both the good and the bad."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "それは誰でも同じで、圭ちゃんだけじゃない、私にも沙都子にも梨花ちゃんにも。",
+      "いやいや、クラスの全員にも当てはまることなんだよ。」"
+    ],
+    "textEn": [
+      "The same goes with everybody, with Satoko, Rika-chan, and me, too.",
+      "The same applies to everybody in this class.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……例えば、魅ぃはもっと昔は札付きの悪猫さんだったのですよ。",
+      "にゃーにゃー。」"
+    ],
+    "textEn": [
+      "\"...For example, Mii used to be a very bad girl.",
+      "Meow. Meow.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「くっくっく！",
+      "…まぁ本当はあんまり言いたかないんだけどね。",
+      "私から見れば、モデルガンで闇討ちなんて、あっはっは、かーわいいーもんだーって！"
+    ],
+    "textEn": [
+      "\"Heh heh heh!",
+      "...Well, I'm not proud of it or anything,",
+      "but shooting at people with a BB gun is like nothing compared to what I did!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "私なんかレンガとか投げつけてたよ、いやホント。"
+    ],
+    "textEn": [
+      "I used to throw bricks at people."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "警察に何度お世話になったことやら。",
+      "ダム戦争の最中は、ちょっとした留置場常連だったよ。",
+      "いやいやホントに。」"
+    ],
+    "textEn": [
+      "I can't even count how many times I ended up in a cell at the police station.",
+      "During the dam conflict, I was a regular there.",
+      "I'm not kidding. It's all true.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……でも、昔のことなのですよ。",
+      "そしてそれを圭一に言う必要はないのです。",
+      "仲間であってもなのです。」"
+    ],
+    "textEn": [
+      "\"...But it happened in the past.",
+      "And she doesn't have to tell you about it",
+      "even though she's your friend.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「仲間で………あっても………。」"
+    ],
+    "textEn": [
+      "\"Even though she's my friend...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…私だって、…とても言えないような苦い過ちや罪がいくつもありますわ。",
+      "でも言わないのは、言っても仕方ないからですわ。」"
+    ],
+    "textEn": [
+      "\"...I made... a lot of embarrassing mistakes and committed some crimes, too.",
+      "But I don't tell you about them, because telling you wouldn't help in any way.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「言って楽になるなら私たちは聞くよ。",
+      "でもね、仲間だから言わなければならないなんてルールはない！"
+    ],
+    "textEn": [
+      "\"If you feel better by telling us about your past, we'll listen.",
+      "But there's no rule that says you have to tell us about your past just because we're friends!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "むしろ仲間なら、言いたくない過去を察してあえて聞かないのが本当の仲間なんじゃない？」"
+    ],
+    "textEn": [
+      "I don't want to dig up a past that you don't want to talk about. That's what true friends are all about, I think.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……そ、……それはそうだけど……。」"
+    ],
+    "textEn": [
+      "\"...I... I agree with you, but...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんが打ち明けて楽になったならそれでいいよ。",
+      "私たちは今日の話をすぐにでも忘れる。",
+      "それに、今日の話を聞いたから、圭ちゃんとの接し方を変えるようなこともない。」"
+    ],
+    "textEn": [
+      "\"We're happy if you feel better now by telling us about your past.",
+      "We can forget about it if you want us to.",
+      "We'll never change the way we see you because of this.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一が前の町でしたことなんて、今の圭一と何の関係もないのです。"
+    ],
+    "textEn": [
+      "\"......What you did in the city has nothing to do with who you are right now."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "今の圭一がボクたちにとって掛け替えのない仲間であるのなら、前の町のことなんかボクは知りたくないのですよ。」"
+    ],
+    "textEn": [
+      "You're a precious friend to us. I actually don't want to know about your past, to be honest with you.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「梨花の言うとおりでございますわ。",
+      "逆に、前の町でどんなに善行を積もうとも、こちらに来て嫌な人だったなら、前の町の善行なんか知ったことじゃありませんわね。」"
+    ],
+    "textEn": [
+      "\"I agree with Rika.",
+      "The same thing goes the other way around. Even if you did something great in the city, but if you were a nasty person here, I wouldn't care what great things you did back then.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ってことはさ、圭ちゃん。",
+      "………前の町での十字架は圭ちゃんが密かに胸に秘めることであって、こっちでわざわざ口にする必要なんてないんじゃない？"
+    ],
+    "textEn": [
+      "\"In other words, Kei-chan,",
+      "the sin you committed in the city is something that you should keep secret in your heart. You don't need to dig it back up just to tell us."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "いや、仮に口にしてもだ。"
+    ],
+    "textEn": [
+      "I mean, you can if you want."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "それで圭ちゃんの見方を変える程度のヤツだったら、私はそいつの方を見下げるね！」"
+    ],
+    "textEn": [
+      "And if anybody changed the way they saw you because of that, I'd look down on them!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「過去が何だろうと、今が素晴らしい人間であるならば、どうして恥じることがございますの？"
+    ],
+    "textEn": [
+      "\"No matter what happened in the past, as long as you're a great person at present, you shouldn't be embarrassed of yourself. Am I wrong?"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "もし過去の過ちを一生取り戻せなかったら、……私たちは何のために生き続けますの。」"
+    ],
+    "textEn": [
+      "What's the purpose of living if we can never earn redemption?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子は、過去にとても甘えん坊さんでした。",
+      "それを後悔して、今はこんなにも元気でがんばっていますのです。"
+    ],
+    "textEn": [
+      "\"......Satoko used to be a big baby who couldn't do anything by herself.",
+      "She regretted it deeply, and now she's a strong independent girl."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "だから、ボクは今の沙都子はとても素晴らしいと思いますです。",
+      "昔どうだったかなんて、ボクは興味ないのです。」"
+    ],
+    "textEn": [
+      "That's why I admire Satoko today.",
+      "I don't care how weak she used to be.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…梨花……。」"
+    ],
+    "textEn": [
+      "\"...Rika...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんだってどうよ。"
+    ],
+    "textEn": [
+      "\"What about you, Kei-chan?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "例えば私が、留置場常連の札付きだと知ったら、私への見方を変えるー？"
+    ],
+    "textEn": [
+      "Are you going to change the way you see me because you now know I used to be a very bad girl who was a regular at the police station?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "変えないでしょ？",
+      "私は私。"
+    ],
+    "textEn": [
+      "You won't, will you?",
+      "I am who I am."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "いつものように楽しくふざけあえる関係は何も変らないでしょ？",
+      "それが仲間ってもんだもん。」"
+    ],
+    "textEn": [
+      "Our friendship won't change, and we'll keep playing and laughing like we always do, right?",
+      "That's what being friends is all about.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あれ……、",
+      "あれ……………あれ……。",
+      "…魅音の元気付けるような笑顔が、ぐにゃりと歪む…。",
+      "俺の目から…大粒の涙が、",
+      "……ぼたりと落ちて…。",
+      "………あれ、",
+      "………あれ、",
+      "……………なんで…………涙が……………。"
+    ],
+    "textEn": [
+      "What...?",
+      "What...? What's going on............?",
+      "...Mion is trying to cheer me up with an encouraging smile on her face, but her expression became distorted all of a sudden...",
+      "Big teardrops... fell",
+      "from my eyes...",
+      "...What?",
+      "............Why",
+      "am I crying...?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「先に言っとく。",
+      "俺は悟史のことは何も知らない。",
+      "…みんなが隠してたからな。」"
+    ],
+    "textEn": [
+      "\"Let me just say this.",
+      "I didn't know anything about Satoshi.",
+      "...Because you all hid it from me.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…か、隠してたってわけじゃ……。」"
+    ],
+    "textEn": [
+      "\"...W-We didn't mean to hide it...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「毎年起こる事件のこと、隠してたろ？」"
+    ],
+    "textEn": [
+      "\"You didn't tell me about the incidents that happen every year, right?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あ、それは…圭ちゃんを……、",
+      "ん……。」"
+    ],
+    "textEn": [
+      "\"Ah, that's because... we didn't want to...",
+      "ummm...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「怖がらせたくなかったってのか？！",
+      "それが理由で俺だけ除け者かよ？！」"
+    ],
+    "textEn": [
+      "\"You didn't want to scare me?!",
+      "Just because of that, you left me out?!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「いや、そんなつもりじゃ…、」"
+    ],
+    "textEn": [
+      "\"No, we didn't mean to...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "うろたえる魅音が目に涙を浮かべる。",
+      "……仲間である俺のために、気を利かせたつもりなのに、どうしてこんなことになってしまったのかわからないのだ。",
+      "引っ越してきたばかりの俺が、村のことを怖がらないように。",
+      "……それ以上の理由が他に必要なのかよッ？！"
+    ],
+    "textEn": [
+      "Mion didn't know what to say. She had tears in her eyes.",
+      "...She thought she did me a favor. She didn't know why it turned out like this.",
+      "She didn't want to make me scared of the village, since I'd just moved here.",
+      "...What more reason did she need?!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「魅音に直に、ダム現場で事件がなかったかって聞いたよな。",
+      "…魅音はないって言ったじゃないか！！！",
+      "バラバラ殺人があったのによ！！！",
+      "嘘つき野郎ッ！！！」"
+    ],
+    "textEn": [
+      "\"I asked you before, Mion, if there was a crime at the dam construction site.",
+      "...You told me there was none!!!",
+      "But there was a dismemberment lynch murder!!!",
+      "You lied!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ご、ごめん…！！",
+      "嘘ってわけじゃ…、」"
+    ],
+    "textEn": [
+      "\"I-I'm sorry...!!!",
+      "I didn't mean to lie to you...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「仲間ってのは隠し事なんかなしだろ？",
+      "そうだろ？！",
+      "じゃあお前らは仲間じゃない！！」"
+    ],
+    "textEn": [
+      "\"I thought friends didn't hide things from each other.",
+      "Right?!",
+      "So, that makes us not friends!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "うおおおあああぁあぁあぁあ！！！",
+      "仲間って何だよ、",
+      "仲間って何だよ、",
+      "俺にとっての仲間って何だったんだよッ！！",
+      "本当の仲間たちだった。",
+      "俺のことを心底案じてくれていたんだ。",
+      "俺がこの村で馴染めるように、あんなにも気を遣ってくれてたんだ！！",
+      "俺は何が不満だったんだ？！",
+      "何が気に入らなかったんだ？！"
+    ],
+    "textEn": [
+      "Ahhhhhhhhhhhh!!!",
+      "What are friends?",
+      "What are friends?",
+      "What were friends to me?!!",
+      "They were my true friends.",
+      "They really cared about me.",
+      "They were so nice to me, and helped me feel at home in this village!!",
+      "I couldn't have been happier!",
+      "Everything was great, wasn't it?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「け…圭ちゃん……そんなのって……、」"
+    ],
+    "textEn": [
+      "\"K-Kei-chan...... Please don't......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は頼りなさげにおろおろする。",
+      "心なしか涙まで溜めている。",
+      "…いつもの魅音からはとても想像できない。",
+      "どうしてこんな言葉をぶつけられるのかわからない魅音の痛みが、…こんなにも伝わってくる…。",
+      "こんなにも悲しい目を向けられて、……どうして俺はそんな痛みにも気付けないんだよ？！",
+      "そのくせ、何が仲間だ！！",
+      "仲間の気持ちもわからず、仲間の気持ちも信じず！",
+      "仲間という言葉を振りかざして…、俺は何をやっていたんだよッ！！！"
+    ],
+    "textEn": [
+      "Mion seemed like she didn't know what to say.",
+      "Her eyes looked moist.",
+      "...It was hard to believe she was really acting like this. It wasn't like Mion at all.",
+      "I could feel her pain. She was in pain because she didn't know what I was blaming her for...",
+      "She looked so sad... but I didn't notice her pain!",
+      "I thought I was her friend!!",
+      "I didn't understand her feelings. I didn't trust her!",
+      "I just used the word \"friends,\" but I didn't do anything like what friends were supposed to do!!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………そうだった、…俺は…屑だったんだ…！！",
+      "魅音は魅音だったんだ…、俺の最高の仲間だったんじゃないか！！",
+      "どうして魅音を疑っちまったんだ？！",
+      "どうして？！」"
+    ],
+    "textEn": [
+      "\"...That's right... I was such a fool...!!",
+      "Mion was Mion... She was my best friend!!",
+      "Why did I doubt her?!",
+      "Why?!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんさ、最近元気ないよね。」"
+    ],
+    "textEn": [
+      "\"Kei-chan looks down these days.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「都会から引っ越してきたんだもん。"
+    ],
+    "textEn": [
+      "\"He just moved here from the city."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "きっと、今頃になって疲れが出てきたんだよ。",
+      "それで風邪を引いたんじゃないかなぁ。」"
+    ],
+    "textEn": [
+      "I guess the fatigue must be setting in.",
+      "He probably caught a cold as a result.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そっかそっか。",
+      "じゃあ栄養を付けさせてあげないとねぇ！",
+      "婆っちゃが今日、おはぎを作ってるんだよ。",
+      "いくつか分けてもらって圭ちゃんへのお見舞いにでもしてあげるかー！」"
+    ],
+    "textEn": [
+      "\"I see.",
+      "Then, he needs to eat something nutritious!",
+      "My grandma is making ohagi today.",
+      "I'm going to ask her to give me some so we can bring them to Kei-chan!\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「こんら魅音、手を洗わんとねー！！！",
+      "おんやレナちゃん、ひとつやってるんかい？」"
+    ],
+    "textEn": [
+      "\"Oi, Mion! Wash your hands first!!!",
+      "Hello, Rena-chan, would you like to try making one, too?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「へー…、おはぎ作りって面白そうですね！"
+    ],
+    "textEn": [
+      "\"Wow... that looks like fun!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "レナも１つだけ作らせてもらおうかな。",
+      "よいしょよいしょ。」"
+    ],
+    "textEn": [
+      "Yes, I'd love to try.",
+      "Here we go!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「くっくっく！",
+      "そうだそうだ、いいこと思いついたよ。」"
+    ],
+    "textEn": [
+      "\"Heh heh heh!",
+      "I have a great idea.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「なぁに魅ぃちゃん。"
+    ],
+    "textEn": [
+      "\"What is it, Mii-chan?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……わ、その小瓶、何かな、…かな！」"
+    ],
+    "textEn": [
+      "...What's that little bottle? ...What is it?!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「甘いおはぎだけじゃあ退屈しちゃうだろうからねぇ！"
+    ],
+    "textEn": [
+      "\"It's not fun to only have sweet ohagi, you know?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "くっくっく、うちひとつにはクリティカルヒットでタバスコを混ぜておいてあげよう。」"
+    ],
+    "textEn": [
+      "Heh heh heh, let's put hot sauce in one of them. It'll wake him up for sure!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そうだよ、……そうなんだよ…！！！",
+      "お見舞いで…おはぎを持ってきてくれて、……俺を元気付けようとしてくれてたんじゃないかよッ！！",
+      "それを…何で俺は怯えてたんだ？！",
+      "エンジェルモートで食事をしてたことを魅音が知ってたってだけで、何であんなにも怯えていたんだッ？！"
+    ],
+    "textEn": [
+      "That's right. ...That's what happened!!!",
+      "They brought ohagi for me to help me get better... They only tried to cheer me up!!",
+      "Why did I get so scared of them?!",
+      "Just because Mion knew I had lunch at Angel Mort, I grew terrified of her!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…圭一くん、顔色悪いよ？",
+      "もう横になった方がいいと思うな。」"
+    ],
+    "textEn": [
+      "\"Hey, you don't look good.",
+      "Maybe you should go lie down.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そうだね。",
+      "私たちはもう帰ろ。」"
+    ],
+    "textEn": [
+      "\"That's right,",
+      "maybe we should leave.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "茶化して元気付けたいだけだったんだ。",
+      "でも、……俺があまりにも真に受けた顔をしてたもんだから…。"
+    ],
+    "textEn": [
+      "They just wanted to cheer me up with a joke.",
+      "But... because I looked so serious..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「じゃあね圭ちゃん。」"
+    ],
+    "textEn": [
+      "\"See you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "明日こそ元気になってね。",
+      "みんなで一緒に部活で遊ぼうね！",
+      "だから、別れの挨拶がこうなるんじゃないか……！！"
+    ],
+    "textEn": [
+      "Please get better soon.",
+      "I hope we can hang out in the club together tomorrow!",
+      "That was a normal way of saying goodbye...!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「明日、学校休んじゃ嫌だよ？」"
+    ],
+    "textEn": [
+      "\"I don't want you to be absent from school tomorrow, okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……だいたい俺、風邪で休んだクラスメートの見舞いになんか行ったことあるかよ？",
+      "ないだろ？！",
+      "そんな面倒くさいことわざわざやったことなんか一度もないじゃないか！",
+      "それを…してくれたんだぞ？！",
+      "入院ならともかく、ちょっと風邪を引いただけなんだぜ？！",
+      "それなのにお見舞いに来てくれて、おはぎまで差し入れてくれたんじゃないか…！！",
+      "俺は感謝して、明日こそ元気になって登校するよ！！",
+      "だから明日こそ、学校でなーー！！って、……そう応えなくちゃいけないんだよ！！",
+      "なのに俺がしたことは何だった？！",
+      "鍵を掛けたんだ！！",
+      "あの２人を拒絶するかのように、…扉を閉めて鍵を掛けたんだッ！！",
+      "俺は何を怯えていたんだよ、何が怖かったんだよ！！",
+      "どうして気遣ってくれる仲間への感謝の気持ちが出てこなかったんだよ！！",
+      "なのになのに、どうしてあんなにもおはぎが怖くってッ！！！",
+      "あるはずが、………ないんだよッ！！！",
+      "おはぎから針なんか……出てくるはずがなかったんだ！！！",
+      "何も出てなんか来なかったじゃなかいッ！！",
+      "ただ俺が、……昔見た漫画か何かで、…食べ物にカミソリの刃や裁縫針を混ぜるなんて恐ろしいシーンがあったことを思い出して、",
+      "………あんなのが混じっていたら嫌だと思っていたら、",
+      "………なぜか、",
+      "…なぜか、",
+      "!それがおはぎの中に混じっているような気になってしまって……！！！",
+      "馬鹿かよ圭一！！！",
+      "どうして仲間を見舞う時にそんな針なんか混ぜるんだよ？！？！",
+      "それことありえないだろ！！",
+      "仮に！",
+      "仮に本当に針が入っていたにしたって、何かの間違いで混じったんだと、彼女らの無実を信じるのが本当の仲間ってもんだろう！！！",
+      "それを俺は何だ？！",
+      "どしゃッ！",
+      "びたッ！！",
+      "べしゃッ！！！",
+      "力任せに次々と、……彼女たちが心を混めて作ってくれたはずのおはぎを投げつけて、穢して！！",
+      "何で？！",
+      "どうしてなんだ？！",
+      "俺はみんなのことを大好きだった。",
+      "雛見沢に引っ越してきて初めて、友人たちというものに出会えたんだ。",
+      "それは最高の仲間だった。",
+      "一生涯で出会えるか出会えないかわからないくらいに、最高の出会いだったんだ。",
+      "それがわかっていたのに、………どうして仲間たちに怯え、疑うようになっちまったんだよ？！",
+      "仲間たちは……、俺がおかしくなってるのに、だんだん気付いてくれて。",
+      "……そうさ、監督を呼んでくれたんだよな。",
+      "鎮静剤でも打ってもらって、しばらく休んでればきっと治るって思って、……俺を部屋まで運んでくれて。",
+      "魅音は、ちょっとふざけようと思った。",
+      "魅音は好意をふざけて表現する、ちょいとひねくれたやつなんだよ。",
+      "そんなのはよく知っていたじゃないか…！！",
+      "だから、……監督が来たら、俺に聴診器でも当てるためにお腹を捲ることを予想して、",
+      "……富竹さんと同じ罰ゲーム、……シャツに落書きをしようとしたんじゃないか？！",
+      "そうだよ、",
+      "……だから魅音は、",
+      "……マジックを取り出したんじゃないか。",
+      "マジックだよ。",
+      "……あいつ、そんな下らないことをやってやろうと思って、わざわざ家からマジックを持ってきたんだぜ？",
+      "看病なんてガラでもないと思って、罰ゲームなんかで元気付けようとして、……わざわざ持ってきてくれたんだぜ…？",
+      "俺を、元気付けたいがためだけにだぜ…？",
+      "レナが俺に羽交い絞めをして、……魅音が俺に近付いてきて、あいつ、……何て書こうとしたんだよ…。",
+      "あいつは、",
+      "……魅音は、",
+      "……俺のシャツに、",
+      "……書く言葉を…小さく口にしてたじゃないか！！",
+      "俺、…聞こえてる。",
+      "…聞いてるんだ。",
+      "魅音が俺に何て落書きをしようとしたか、……耳に…届いてたじゃないか…！！！",
+      "早く、",
+      "元気になぁれ☆",
+      "魅音",
+      "何で聞こえてるのに、……聞こえてるのに！！",
+      "聞こえてるなら、…魅音が…俺に物騒なことをしようとしてるなんて、絶対にありえないことがすぐにわかるのに！！！",
+      "どうして俺は、どうして俺は！！",
+      "あれが注射器に見えちまったんだよ？！",
+      "どうして魅音が、俺を殺そうとしているなんて思ってしまったんだよッ？！？！",
+      "ありえないんだよ、ありえないんだよ！！！",
+      "どうしてどうして、どうしてどうして！！",
+      "何で……魅音が、俺の命を狙ってるなんて、……とんでもない勘違いをしちまったんだよおおおぉおおぉおぉおぉぉ！！！",
+      "頭の中のジーンとした痺れが取れ、…ゆっくりと…全身に血の通いが戻ってくるのがわかる。",
+      "俺は…どの位の時間、ここにうずくまっていたのか…？",
+      "何分？",
+      "それとも何十分なのか…。",
+      "………見上げた時計の針は、まるで俺が目を閉じていた間分だけ、きっちりと止まっていたのではないかと思うくらい、進んでいなかった。",
+      "…本当に？",
+      "今、室内を覆う空気は、さっきまでの狂気に満ちたものでなく、……灰色の静寂だけになっている。",
+      "羽交い絞めにしていたはずのレナもいなかったし、今まさに注射しようと迫っていた魅音もいなかった。",
+      "……まさか…全部……何かの……幻？！",
+      "部屋には俺以外の気配はまったくなくなっているのだ…。",
+      "かつてない異常な体験。",
+      "…………俺は確かに……レナと魅音に………。",
+      "自分の正気を一瞬疑うが、同時にある種の安堵感も感じていた。",
+      "ははは、……やっぱり……あの恐ろしい出来事は…幻だったんだ。",
+      "レナも魅音も…あんな恐ろしいことをするわけが……ないんだ…。",
+      "目頭が…熱くなる。",
+      "感情がこみ上げてくるのがわかった…。",
+      "どうして…？",
+      "それは涙がこみ上げる理由にではない。",
+      "どうして…？",
+      "……それは………悲しみだった。",
+      "……どうして悲しくなるんだろう…？",
+      "わからない。",
+      "……わからない……。",
+      "わからない？",
+      "何がわからないんだよ！！",
+      "わかってるじゃないかよぉおおおぉおぉッ！！",
+      "馬鹿じゃないのか、何やってんだよ俺は！！",
+      "どうしてどうしてここまで、とことん救えないクズなんだよッ！！！",
+      "魅音は最後の最後まで俺を元気付けようとしてくれていたじゃないか。",
+      "大好きだった、親友だった、最高の仲間だった！",
+      "俺より年上だけど、そんなのを全然感じさせないで付き合ってくれた。",
+      "…誰よりも一番最初にクラスで話し掛けてくれた。",
+      "そんな魅音を、……魅音をどうしてッ！！！",
+      "その魅音が、窓際に不自然な格好で横たわっていて。",
+      "…頭から胸元が血でべっとりと赤黒くなっていて。",
+      "壁一面に飛び散った真っ赤なものは…、俺が何度も何度も打ち付けて叩き割った頭から溢れ出したもので。",
+      "何てことを……何てことを……！",
+      "俺は…何て取り返しのつかないことを…！！"
+    ],
+    "textEn": [
+      "...First of all, have I ever visited any of my classmates who were absent with a cold?",
+      "No, I haven't!",
+      "I've never done such a nice thing to anybody, because it's too much of a bother!",
+      "But they did that for me!!",
+      "I understand visiting a friend in a hospital, but I just caught a cold...!",
+      "But they came to visit me with ohagi so that I could get better soon...!!",
+      "I should've been thankful to them and said, \"I'll get better soon, and I'm sure I can come to school tomorrow!!",
+      "So, I'll see you then!!\" ...That was what I was supposed to say!!",
+      "But what did I do instead?!",
+      "I locked the door!!",
+      "I closed the door and locked it as if rejecting them!!",
+      "What was I so scared of? What was I so afraid of?!!",
+      "Why didn't I say any words of appreciation to my friends who cared about me?!!",
+      "I was just so scared of the ohagi they brought for me!!!",
+      "What was I thinking?!!",
+      "It was impossible that there was a needle in one of them!!!",
+      "There wasn't actually a needle at all!!",
+      "It was all in my head, because I had read some manga about someone putting needles or razor blades in people's food.",
+      "...It scared me so much that......",
+      "I believed",
+      "it could also happen to me",
+      "for some reason...... and I thought there was a needle in the ohagi...!!!",
+      "You were so stupid, Keiichi!!!",
+      "Why would your friends put a needle in food they only brought to make you get better?!?!",
+      "It was crazy to think like that!!",
+      "Even if",
+      "there was a needle in one of them, I should've thought that it was some kind of mistake, and I should've believed in my friends' innocence!!!",
+      "That's what a true friend would do!! But what did I do?!",
+      "Pound!",
+      "Splatter!",
+      "Smash!",
+      "I threw the ohagi that they spent so much effort making on the floor!!",
+      "Why?!",
+      "Why did I do that?!",
+      "I got along so well with them.",
+      "I moved to Hinamizawa, and I made friends for the first time in my life.",
+      "They were my best friends.",
+      "Meeting them was the most wonderful experience of my life. I'd probably never have another one like that for the rest of my days.",
+      "I knew that, but...... I got scared, and I doubted them!",
+      "They noticed that I was acting odd.",
+      "...That's why they called the manager, Irie.",
+      "They thought a sedative might help me relax, so I could rest and get better... That's why they carried me up to my room.",
+      "Mion just wanted to make it fun.",
+      "She's the kind of person who expresses her goodwill by making a joke out of it.",
+      "I knew that better than anybody...!!",
+      "She knew Irie would roll up my shirt to check my heartbeat with a stethoscope.",
+      "...So she was just trying to draw graffiti on my shirt just like she did to Tomitake-san as punishment for the game he lost!",
+      "Yes...",
+      "That's why Mion",
+      "took a felt marker out of her pocket.",
+      "A felt marker.",
+      "...She brought a marker from home because she just wanted to do something funny.",
+      "She tried to cheer me up by making me take a punishment for fun rather than nursing me, because that's just what Mion is like... She went to the trouble of bringing a felt marker to my house...",
+      "Just because she wanted to cheer me up...",
+      "Rena held me down tightly... and Mion came closer to me... to write something on my shirt...",
+      "Mion",
+      "whispered...",
+      "the words she was going to write...",
+      "on my shirt!!",
+      "I heard them.",
+      "...I heard them clearly.",
+      "I heard what she was going to write on my shirt...!!!",
+      "I hope",
+      "you get well soon!",
+      "Mion",
+      "I heard them... Then why?!!",
+      "I should've known she wasn't going to do anything to hurt me!!!",
+      "Then why? Why?!!",
+      "Why did the marker look like a syringe to me?!",
+      "Why did I think that Mion was going to kill me?!?!",
+      "It was impossible! It was impossible!!!",
+      "Why? Why? Why?!!",
+      "Why did I misunderstand that Mion was going to kill me?!!! Ahhhhhhhhhhhh!!",
+      "The numbness in my head receded... and slowly... I felt blood start to run through my entire body again.",
+      "How long... was I squatting down there...?",
+      "For a few minutes?",
+      "Or a lot longer than that...?",
+      "...As I looked up at the clock, the hands weren't moving at all, as if they had stopped while I had my eyes closed.",
+      "...Really?",
+      "The atmosphere in the room wasn't filled with insanity like it was earlier... but it was quiet and gray.",
+      "Rena wasn't holding me down, Mion wasn't about to give me an injection.",
+      "...Was all of that... just some kind of illusion?!",
+      "There was no sense of presence other than myself in that room...",
+      "It was an extraordinary experience, the kind I'd never had before.",
+      "...I was there... with Rena and Mion...",
+      "I doubted my sanity for a moment, but at the same time, I felt some kind of relief too.",
+      "Ha ha ha... The scary incident was just an... illusion after all.",
+      "Neither Rena nor Mion would've done such a terrible thing to me...",
+      "Tears started forming in my eyes.",
+      "My emotions were running high...",
+      "Why...?",
+      "It wasn't a question of why tears were forming in my eyes.",
+      "Why...?",
+      "...It was a question... of my sadness.",
+      "...Why did I feel so sad...?",
+      "I don't know.",
+      "...I don't know...",
+      "You don't know?",
+      "What do you mean, you don't know?!!",
+      "You do know!!",
+      "I was so stupid. What the hell was I doing?!!",
+      "I was so pathetic and helpless!!!",
+      "Mion just tried to cheer me up. That was all.",
+      "I liked her so much. She was my best friend!",
+      "She was older than me, but she hung out with me like we were the same age.",
+      "...She was the first one who came to talk to me in class.",
+      "She was so nice to me... but I... I...!!!",
+      "...Mion was lying down in an unnatural position near the window.",
+      "She was covered in dusky-red blood from her head to her chest.",
+      "The red fluid splattered on the wall... was Mion's.",
+      "What had I done...? What had I done...?!",
+      "I would never forgive myself...!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺、……みんなのこと……本当に友達だと思ってたんだぜ……。」"
+    ],
+    "textEn": [
+      "\"I...... truly did ...think of you all as my friends...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "なのに……どうしてこんなことになってしまったんだよ……？",
+      "前の学校では楽しいことなんか何もなかった。",
+      "…偏差値の上下に一喜一憂し、志望校が合格圏か安全圏かとか…そんな話しかしなかった。",
+      "…灰色の生活だった。",
+      "友達ってのはクラスの勉強のライバルのことで、内申書と校内偏差値を競い合う敵だった。",
+      "そんな生活がいかに不健全かを教えてくれたのが、みんなだったんだ。",
+      "この一ヶ月間、本当に楽しかった…。",
+      "弁当で大騒ぎをし、部活で大騒ぎをし、お祭りで大騒ぎをし……。",
+      "目から熱いものがボタボタとあふれ出る。",
+      "……不覚にも…涙だった。",
+      "こいつらのために涙を流す義理なんかないはずだ。",
+      "…でも止められない…！！",
+      "例え命を狙われたとしても。",
+      "殺されそうになったとしても。",
+      "…この一ヶ月間の思い出は……忘れられないのだ…。",
+      "それとも……あの楽しかった日々は…虚偽だったのだろうか…？",
+      "俺をはめるために…今日まで周到に続けられた……罠だったのだろうか？",
+      "俺だけが一方的に仲間だと思い込んでいただけなのでは………？",
+      "そんなはずは……ないッ！！！！",
+      "レナも魅音も……本当に俺の仲間だったッ！！",
+      "あの楽しかった日々に……わずかの曇りも虚偽もあるものか…！！！",
+      "きっとレナたちは……俺を殺すよう、何者かに強要されたに違いないのだ。",
+      "あるいは…オヤシロさまという超常存在が取り憑き、意識を乗っ取られていたに違いないのだ！",
+      "とにかく…レナも魅音も…最高の友人だった！！",
+      "馬鹿野郎おおおぉおぉおぉおおお！！！！",
+      "馬鹿野郎、",
+      "馬鹿野郎、",
+      "馬鹿野郎、",
+      "馬鹿野郎！",
+      "何をわけのわからないこと言ってんだ！！",
+      "自分でその最高の友人をこんなにも惨たらしく殺しておいて、…何を口走ってやがんだよ畜生おおおぉおぉ！！！！",
+      "最高の友人だったんだろ、仲間だったんだろ！！",
+      "だったらどうして信じられないんだよ！！",
+      "どうしてその言葉に耳を傾けられないんだよ！！",
+      "それを殴り殺しておいて、俺は何様のつもりなんだよ？！",
+      "まるで自分には何の非もないみたいじゃねぇかよ？！",
+      "自分以外の全てがおかしくなったような気持ち？",
+      "馬鹿が、逆だよ！！",
+      "逆に決まってるだろ！！",
+      "おかしかったのは、全部俺ひとりなんだよッ！！！"
+    ],
+    "textEn": [
+      "Why... Why did all this happen...?",
+      "There was nothing fun in my life at my old school.",
+      "...When I talked to anyone, it was only ever about my chances of passing the entrance exam of the schools we wanted to go to.",
+      "...My life was shaded in gray.",
+      "Friends to me were rivals and enemies to vie with for a school recommendation and test scores.",
+      "My friends here taught me just how unnatural that was.",
+      "This whole month was a blast...",
+      "We raised the roof over lunch, our club activities, and the festival...",
+      "A warm liquid flowed out from my eyes.",
+      "...To my surprise, it was... my tears.",
+      "I didn't have any obligation to cry for them.",
+      "...But I couldn't stop it...!!",
+      "Even though they attempted to kill me.",
+      "Even though they almost killed me.",
+      "...I couldn't forget the memories we made during the past month...",
+      "Or... were those fun days... fake...?",
+      "Was it an act... that they kept playing perfectly to set me up until today?",
+      "Was it only me who believed that they were my friends...?",
+      "It couldn't be...!!!!",
+      "Rena and Mion... they were my friends for real!",
+      "Those happy days... couldn't have been just a performance...!!!",
+      "Rena and Mion must have been forced by somebody to kill me.",
+      "Or... that an extraordinary existence called Oyashiro-sama possessed them and took over their consciousnesses!",
+      "No matter what it was... both Rena and Mion... were my best friends!!",
+      "I was stupid!!!",
+      "I was such a fool.",
+      "Such a fool.",
+      "Such a fool.",
+      "Such a fool.",
+      "I wasn't making any sense at all!!",
+      "I killed my best friends!!!",
+      "They were my best friends!!",
+      "Then, why didn't I trust them?!!",
+      "Why didn't I listen to them?!!",
+      "I beat them to death. Who did I think I was?!!",
+      "I made it sound like I didn't do anything wrong!",
+      "I felt like everybody went crazy except me.",
+      "I was such a fool! It was the other way around!",
+      "Of course it was!!",
+      "I was the only one who went crazy!!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…け、……圭ちゃん…？」"
+    ],
+    "textEn": [
+      "\"...K-Kei-chan...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺は……、",
+      "俺は……、",
+      "……何てことをしてしまったんだよ……。",
+      "…何てことを……うぁあぁあぁぁぁぁぁ…。」"
+    ],
+    "textEn": [
+      "\"I...",
+      "I...",
+      "did something terrible...",
+      "I'll never forgive myself... Ahhhhhhh...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は今、ここにちゃんと生きている。",
+      "…だから、俺が魅音を疑心暗鬼の果てに殴り殺したなんて記憶は、「ありえない別の世界」の記憶なのだけど。",
+      "でも、…俺は例え別の世界であろうとも、……魅音を、……殺してしまった…。",
+      "しかも、その罪深さを何も気付かずに。",
+      "それどころか、今の今まで、…魅音には殺されるだけの非があったなんて勝手に思い込んでいて！！"
+    ],
+    "textEn": [
+      "Mion was still alive.",
+      "...I have a memory of beating her to death because I couldn't trust her. But that's a memory from a nonexistent, different world.",
+      "But... even though it happened in a different world... I... killed Mion...",
+      "And I didn't realize how deep that sin was.",
+      "I even thought until now... that Mion was at fault for being killed!!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ど、…どしたんですの…圭一さん……。」"
+    ],
+    "textEn": [
+      "\"Wh-What is wrong with Keiichi-san...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「わかんない……。",
+      "圭ちゃん、落ち着いて落ち着いて…？",
+      "私は、生きてるよ。"
+    ],
+    "textEn": [
+      "\"I don't know...",
+      "Kei-chan, please calm down...",
+      "I'm not dead."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "圭ちゃんになんか殴り殺されてたまるかーっての。"
+    ],
+    "textEn": [
+      "You didn't beat me to death. I mean, I'd never let that happen."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "ねぇ？」"
+    ],
+    "textEn": [
+      "Okay?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「そうですわよ。",
+      "圭一さん如きに遅れを取るようなのは我が部にはおりませんでしてよー！」"
+    ],
+    "textEn": [
+      "\"Quite.",
+      "There's no one in our club whom you could beat to death, Keiichi-san!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「違うんだ………違うんだ………。」"
+    ],
+    "textEn": [
+      "\"No... No...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音も沙都子も、突然俺が泣き出したのがなぜかわからず、困惑していた。",
+      "だが、俺は…泣くしかなかった。",
+      "罪は打ち明けて許しを得るものだと、今知った。",
+      "……だけど、俺のこの罪は、…この魅音には許せない罪なんだ…。",
+      "だから、今俺が「この世界」でいくら泣いたところで、…誰にも許せない。",
+      "だからこの罪は、絶対に許されないのだ……。",
+      "その時、知恵先生がやって来て、俺が泣いているのに気付いた。",
+      "……いい年の男が泣き出すなんて、なかなかあることじゃない。",
+      "知恵先生が何事かと声を掛けるが、俺の耳には届かない。",
+      "魅音と沙都子が事情を聞かれ、困惑しているようだった。",
+      "涙の止まらない俺に、梨花ちゃんが顔を寄せる。"
+    ],
+    "textEn": [
+      "Mion and Satoko looked confused, having no idea why I was crying.",
+      "But I couldn't help myself.",
+      "I learned just now that I could earn redemption by confessing my sin.",
+      "...But I could never earn redemption for this... not from Mion...",
+      "No matter how much I cried in this world, nobody could give me forgiveness.",
+      "And so, I could never earn redemption for this sin...",
+      "Right then, Chie-sensei came in and noticed me crying.",
+      "...You wouldn't see a teenage boy crying like that very often.",
+      "Chie-sensei asked me what was going on, but at that moment I couldn't hear anything.",
+      "Mion and Satoko looked confused. They didn't know how to explain the situation.",
+      "Rika-chan approached me in the midst of my sobs."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一は、………覚えているのですか？",
+      "………レナと魅ぃを、",
+      "……殺したことを。」"
+    ],
+    "textEn": [
+      "\"......You remember... don't you, Keiichi...?",
+      "...You remember how you...",
+      "killed Rena and Mii...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうだ！！",
+      "俺が……殺したんだ！！",
+      "殺したんだ！！",
+      "なのに、俺は何の罪も認めずに、まるで自分は被害者のつもりで！！",
+      "死ぬ最期の瞬間まで……仲間を呪って、恨んで！！",
+      "血がいっぱい出て、……そして………そして………。"
+    ],
+    "textEn": [
+      "\"Yes!!",
+      "I... killed them!!",
+      "I killed them!!",
+      "But I didn't accept my sin. I pretended I was the victim!!",
+      "I cursed and blamed my friends until the moment I died!!",
+      "There was blood everywhere... and... and..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "結局、何の後悔もなく、……ひとりで……勝手に死んだ………………。」"
+    ],
+    "textEn": [
+      "In the end, I just died alone... without any regrets...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "電話ボックスの中で、痒くて痒くて仕方がない喉を掻き毟りながら、",
+      "……それでもなお自分の罪に気付かず、",
+      "……勝手にひとりで死んでいく。"
+    ],
+    "textEn": [
+      "I clawed at my itchy throat in a phone booth.",
+      "...I didn't notice my sin,",
+      "and I died alone..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一。",
+      "…………あなたの罪に、",
+      "…気付きましたのですか。」"
+    ],
+    "textEn": [
+      "\"...Keiichi.",
+      "...Did you notice...",
+      "your sin just now?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「気付いた。",
+      "こんなにも今頃になって、俺は気付いたよ、思い出したんだ！！",
+      "ここじゃない別のよく似た世界で！",
+      "俺はなぜか仲間たちに疑心暗鬼を持って……殺してしまったんだ！！"
+    ],
+    "textEn": [
+      "\"Yes, I did.",
+      "It took me so long, but I just noticed it!!",
+      "I remember what I did, not here, but in a different world that looks just like this one!",
+      "I... killed my friends because I couldn't trust them!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "仲間たちは俺に救いの言葉をかけていたはずなんだ！",
+      "なぜそれに耳を傾けられなかった？",
+      "どうしてだよ？！",
+      "うぉおおぉぉおぉおおぉぉ！！」"
+    ],
+    "textEn": [
+      "They were just trying to help me!",
+      "But I didn't listen to them.",
+      "I don't know why I didn't.",
+      "Ahhhhhhhhh!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺はもう人目なんかはばからなかった。",
+      "……ただただ泣いた。",
+      "罪を涙に変えて、目から思い切り搾り出してやりたかった。",
+      "でも出て来る涙は罪なんかじゃない。",
+      "…取り返しのつかない悲しいことをした悔悟の涙だけ。",
+      "その時。",
+      "……頭に、撫でる感触。",
+      "…目を開ければ、梨花ちゃんがその手の平で俺の頭を撫でているのだった。",
+      "…慰めなんかいらない。",
+      "梨花ちゃんに俺が慰められるはずなどないのだ。",
+      "だが梨花ちゃんは言った。",
+      "……これは、慰めではなかったのだ。"
+    ],
+    "textEn": [
+      "I didn't care if people were staring.",
+      "...I just kept crying.",
+      "I wanted to transmute my sin to tears in order to squeeze it out of me.",
+      "But the tears that were coming out from my eyes weren't my sin.",
+      "...They were just tears of regret for doing something irreversible.",
+      "At that time",
+      "...I felt something touching my head.",
+      "...I opened my eyes, and saw Rika-chan patting my head gently.",
+      "...I didn't need any comfort.",
+      "I didn't deserve any comfort from Rika-chan.",
+      "But the words she spoke to me...",
+      "weren't ones of comfort."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一を、",
+      "許しましょう。」"
+    ],
+    "textEn": [
+      "\"......I",
+      "forgive you, Keiichi.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………え………。」"
+    ],
+    "textEn": [
+      "\".........What......?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一は、自分で自分の罪に気付きましたのです。",
+      "それは…とても偉くて、……普通ではありえないことなのです。",
+      "だから、誰も圭一の偉さがわからなくて、それを許してあげることはできませんのです。",
+      "……でも、ボクにはそれを許すことができます。"
+    ],
+    "textEn": [
+      "\"......Keiichi, you noticed your sin.",
+      "It's a very difficult thing to do, and not something everybody can.",
+      "Not everyone can understand how great you are, and hence, they can't forgive you.",
+      "...But I can,"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "ボクには、圭一のすごさがわかるのです。」"
+    ],
+    "textEn": [
+      "because I know how great you are.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………梨花ちゃん……。」"
+    ],
+    "textEn": [
+      "\".........Rika-chan...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……私はこれが奇跡であることがわかる。",
+      "だってこれはありえないことなのだもの。",
+      "あなたが、……別の自分の罪に気付くなんて、絶対にありえないこと。",
+      "なのにあなたはそれに気付けた。",
+      "それは、きっとこの地上に具現するどんな奇跡すらも霞むほどのもので、………信じられないくらいに尊いもの。」"
+    ],
+    "textEn": [
+      "\"...This is a miracle.",
+      "You noticed the sin you committed in another world.",
+      "That's impossible to do.",
+      "But you did it.",
+      "That is the most unbelievable and precious of miracles that could exist in this world...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんが何を言っているのか、俺にはさっぱりわからない。",
+      "……なのに、…梨花ちゃんだけは、俺のこの、ありえない記憶を理解してくれる気がした。"
+    ],
+    "textEn": [
+      "I didn't understand anything Rika-chan was saying.",
+      "...But... I felt like she's the only one who understood that impossible memory I had."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……なら。",
+      "今のあなたにならわかるはず。",
+      "…竜宮レナが、どういうことになっているのか。」"
+    ],
+    "textEn": [
+      "\"...So,",
+      "you should be able to understand...",
+      "what Rena Ryuugu is going through right now.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ……、わかるぜ…。",
+      "あの時の俺と同じなんだ…！！",
+      "仲間のことを信じたくて信じたくてしょうがないのに！！",
+      "信じられないんだ！！"
+    ],
+    "textEn": [
+      "\"Yes... I understand.",
+      "She's going through exactly the same thing I went through...!!",
+      "She wants to trust her friends more than anything!!",
+      "But she can't!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "どんどん自分がおかしくなっていくのに、そいつがわからなくて世界の方がおかしくなったって信じてやがるんだ！！",
+      "どうすりゃ救えるかなんて、わからねぇよ！！",
+      "わからないんだ！！",
+      "だって、……俺は…駄目だった！！"
+    ],
+    "textEn": [
+      "She's the one who's losing her mind, but she doesn't understand that, and she thinks that the world is going crazy instead!!",
+      "I don't know how to save her!!",
+      "I have no idea!!",
+      "Because... I... failed!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "結局、死ぬまで…いや！",
+      "死んでも気付けなかったんだ！！",
+      "それを、レナに気付かせるなんてどうやって？！",
+      "救えないよ…救えない…！！"
+    ],
+    "textEn": [
+      "I didn't understand until I died...",
+      "No, I didn't understand even after I died!!",
+      "So how can I make Rena realize what I didn't, even after that?!!",
+      "I can't save her... I can't save her...!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "俺がそうだったからよくわかるんだ…。",
+      "どうやったってもう、救えないんだ…。」"
+    ],
+    "textEn": [
+      "I know, because I was just like her...",
+      "There's nothing I can do.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……落ち着けよ圭一…。",
+      "確かに俺は駄目だったさ。",
+      "……でも、だからと言ってレナも駄目ってのは早計じゃないのか…？",
+      "駄目だから救わなくていいなんてのはない。",
+      "……レナはどうだった？",
+      "俺があそこまで末期的におかしくなってたってのに……、全身で救おうとして体を張ってくれたじゃないかッ！！！",
+      "あの世界の俺の部屋で……、金属バットで何度も何度も打ち据えられて…！",
+      "でも、レナは微笑んでた。",
+      "俺が怯えていると知っていたから、…怖がらせないように、微笑んでくれていた。",
+      "そして、俺に何度も何度も打たれて、腕がひしゃげて額も割れているのに……。",
+      "そうだ、",
+      "………本当に最後の最後。",
+      "……レナは、頭を庇わなかった。",
+      "こう、",
+      "……両手を突き出して、",
+      "…抱きしめる相手を探すように、",
+      "…こう…。",
+      "それでもなおレナを信じられない俺は、",
+      "………金属バットを大きく振り上げた。",
+      "レナは言った。",
+      "大丈夫だよ、"
+    ],
+    "textEn": [
+      "...Calm down, Keiichi...",
+      "I did fail.",
+      "...But that didn't mean Rena would, too...",
+      "There was no excuse not to save her because I thought she'd fail.",
+      "...After all, what did Rena do back then?",
+      "I was totally going mad but... she risked her life to save me!!!",
+      "In my room, in that world... I had beaten her many times with a metal bat...!",
+      "But she was smiling.",
+      "She knew I was scared... and that's why she smiled for me.",
+      "I beat her so many times. Her arms were broken, and her forehead was cut open...",
+      "I remembered...",
+      "Rena didn't block her head...",
+      "even at the very last moment.",
+      "She...",
+      "opened her arms",
+      "towards me",
+      "like she was looking for a hug...",
+      "But I still doubted her...",
+      "and raised the metal bat up high.",
+      "Rena told me then.",
+      "That it was okay."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……私を、",
+      "信じて。」"
+    ],
+    "textEn": [
+      "\"...Please",
+      "trust me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "うおおおおおぉおおおぉおぉおお！！",
+      "仲間が信じろと言ったんだ！！",
+      "自分を信じろと言った！",
+      "何でそれを信じられないんだよ、おかしくなった俺が襲い掛かってきてるんだぞ！！",
+      "命の危険があった、現に殺された！！",
+      "なのに、頭を庇いもせず、身を守るはずの両手を……俺に差し出して……！",
+      "レナは、死んでしまうまでずっとその言葉を口にしていたんだ。",
+      "信じて。",
+      "お願い、",
+      "私を、",
+      "信じて。",
+      "命をかけて俺を救おうと、俺の目を覚まそうとしてくれてたんじゃないか！！",
+      "命を失うその瞬間まで、…信じてといい続けて…。",
+      "そして俺は、仲間のその言葉さえ耳に届かず、今日のこの瞬間まで、自分が悪くないなどと本気で信じていて！！！"
+    ],
+    "textEn": [
+      "Ahhhhhhhhhh!!",
+      "My friend still told me to believe in her!!",
+      "She told me to trust her!",
+      "But I still didn't. I lost it and attacked her!!",
+      "She was in danger. She was actually killed!!",
+      "But she didn't even block her head. Instead, she used her arms to reach out for me...!",
+      "Rena continued to say those words until the moment she died.",
+      "Trust me.",
+      "Please",
+      "trust",
+      "me.",
+      "She risked her life to save me!!",
+      "Until her very last moments... she kept telling me to believe in her...",
+      "But I didn't listen. For so long, I truly believed that I didn't do anything wrong!!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……梨花ちゃんに許してもらえて、少し心が軽くなった。",
+      "……でも、やっぱり、俺の罪は……同じ形で滅ぼさなきゃならないんだ。",
+      "………レナの目は…俺が覚ます…！」"
+    ],
+    "textEn": [
+      "\"...I feel a little bit better now that you've forgiven me, Rika-chan.",
+      "...But I still have to atone for my sin.",
+      "...I'm going to do that in the same way Rena did for me. I'm going to save her...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは命を賭けたんだぞ！！",
+      "死ぬその瞬間まで俺を気遣ってた！",
+      "信じてた！！",
+      "次の一言こそ心に届くと信じて、何度も口にしたんだ！！",
+      "頭蓋骨が叩き割られるその最期の瞬間までだッ！！",
+      "俺の命なんか、惜しいもんかよ…。",
+      "レナは死んで見せたんだぞ！！",
+      "俺だって命くらいくれてやる！！",
+      "俺は仲間の気持ちなんかわかってないクズ野郎だったからその気持ちが届かなかった。",
+      "……でも、…レナならあるいは…届くかもしれないんだ…！！"
+    ],
+    "textEn": [
+      "Rena risked her life to save me!!",
+      "She cared about me until her very last moments!",
+      "She trusted me!!",
+      "She believed that her words would reach my heart, so she kept saying them",
+      "until I cracked her skull!!",
+      "I don't care if I die...",
+      "Rena died for me!!",
+      "I can die for her, too!!",
+      "I was such a fool for failing to understand my friends' feelings. That's why I didn't understand what she was saying.",
+      "...But... Rena might be different...!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………この世界はもう狂っちまった。",
+      "でも、だからといって諦めていいなんてことはねえんだよな。",
+      "……諦めるってことは信じないってことだ。",
+      "俺はレナを、仲間の絆を信じるぜ。",
+      "……だから、まだ間に合うんだ。"
+    ],
+    "textEn": [
+      "\"...This world is messed up.",
+      "But it doesn't mean that I can just quit.",
+      "...Quitting is the same thing as not believing.",
+      "I believe in Rena, and in our friendship.",
+      "...That's why I can still make it."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "惨劇は回避できる。",
+      "運命には抗える。",
+      "俺たちは足掻く。",
+      "そして掴めるんだ、その先の未来ってやつをなッ！！」"
+    ],
+    "textEn": [
+      "I can still prevent a tragedy from happening.",
+      "I can change fate.",
+      "We will struggle together",
+      "to seize our future!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんは神妙そうに俯くと、スカートのポケットをいじるような仕草をしていた。"
+    ],
+    "textEn": [
+      "Rika-chan nodded with a serious look on her face, and she put her hand in the pocket of her skirt."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一。",
+      "…………私も、…諦めない。"
+    ],
+    "textEn": [
+      "\"......Keiichi.",
+      "...I won't give up, either."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "……この世界から希望を失ってたまるものか。",
+      "…私は数え切れない失敗に疲れ果ててた。",
+      "だから世界が狂い出すことに諦めを感じるようになってた。"
+    ],
+    "textEn": [
+      "...I'm not going to lose hope in this world.",
+      "...I was tired from meeting with countless failures.",
+      "I gave up on this world as it started to go wrong."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "だから、………もうレナがどうなろうと知ったことではないと、昨夜思った。",
+      "でも、……それは間違いだった。",
+      "……戦おうとする意思がこんなにも美しく神々しくて、……そして運命すら捻じ曲げかねない、奇跡が起こせることを知った。"
+    ],
+    "textEn": [
+      "That's why...... I kind of gave up on Rena last night.",
+      "But... I was wrong.",
+      "...I realized that the will to fight is such a beautiful and divine thing... and it can work miracles that can even alter the path of fate."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "だから私はあなたと共に戦おう。",
+      "もう一度戦おう、",
+      "何度でも戦おう。",
+      "その先の未来に至れるまで、何度でも。」"
+    ],
+    "textEn": [
+      "So, I'll fight with you.",
+      "I'll fight again.",
+      "I'll keep fighting...",
+      "until I reach the future.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「………り、…梨花と圭一さんが何の話をしているのか、さっぱりわかりませんでしてよ？」"
+    ],
+    "textEn": [
+      "\"...I have no idea what you two are talking about.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「くすくす…。",
+      "……覚えていないのは当然なのです。",
+      "…圭一が、すごいだけなのですよ。」"
+    ],
+    "textEn": [
+      "\"Hee hee...",
+      "It's normal that you don't remember.",
+      "...Keiichi is a special exception.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「？？？",
+      "私の高尚な脳みそではさっぱりでしてよ？？」"
+    ],
+    "textEn": [
+      "\"Huh???",
+      "I suppose I'm too brilliant to understand what's going on.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんが、沙都子にこつんと額をぶつける。"
+    ],
+    "textEn": [
+      "Rika-chan touched Satoko's forehead to hers."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……でも、いつかは思い出してあげてください。",
+      "あなたが抗えぬ不幸の袋小路に囚われた時、……圭一はあなたを救おうと全身全霊を賭けて戦ってくれたことを。」"
+    ],
+    "textEn": [
+      "\"...But please remember one day.",
+      "When you're desperately driven into a corner of misfortune, please remember that he risked his life to save you.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さんが、………ですの？",
+      "眉唾でございますわよ…。」"
+    ],
+    "textEn": [
+      "\"Keiichi-san fought for me...?",
+      "It's hard to believe...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「くすくす。",
+      "……ねぇ圭一？」"
+    ],
+    "textEn": [
+      "\"Hee hee.",
+      "...Isn't that right, Keiichi?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんが俺を見て、同意を求めるように微笑む。",
+      "…さすがに沙都子にまで命を賭けるかどうかはわからないが、…………。",
+      "………いや、…賭けるさ。",
+      "沙都子は俺の仲間だ。",
+      "沙都子を不幸のどん底に落とすような敵が現れたなら、俺は容赦なくその敵を叩き潰すだろう。",
+      "全身全霊を賭けて！",
+      "…………そんな、…世界もあったかもしれない…。",
+      "だから、梨花ちゃんに頷き返した。",
+      "梨花ちゃんもそれを見て、嬉しそうに頷き返してくれるのだった。"
+    ],
+    "textEn": [
+      "Rika-chan looked at me, smiling as if waiting for my agreement.",
+      "...I wasn't sure if I could risk my life for Satoko...",
+      "...No, I was sure. I'd risk my life for her.",
+      "Satoko is my friend.",
+      "If anybody tried to make her unhappy, I'd beat them up without hesitation.",
+      "I'd risk my life to save her!",
+      "...There might even have been a world like that...",
+      "I nodded to Rika-chan.",
+      "Rika-chan nodded back to me, looking happy."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「……前原くん、………何かありましたか…？」"
+    ],
+    "textEn": [
+      "\"...Maebara-kun...... Is everything okay...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺がようやく大人しくなったと思ったのか、先生が何事かと話し掛けてきた。"
+    ],
+    "textEn": [
+      "Chie-sensei realized that I'd finally calmed down, and she asked me that."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いえ、……何でもないんです。",
+      "騒がせてすみませんでした。",
+      "……………それより、…魅音。」"
+    ],
+    "textEn": [
+      "\"Yes... everything is fine now.",
+      "I'm sorry I worried you.",
+      "......Anyway... Mion.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…ん？",
+      "な、……何？」"
+    ],
+    "textEn": [
+      "\"...What?",
+      "What... is it?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺はつかつかと魅音に歩み寄る。",
+      "魅音は何事かわからなくて後退り、黒板にぶつかった。"
+    ],
+    "textEn": [
+      "I walked towards her.",
+      "Mion stepped back, not knowing what was going on. She bumped into the blackboard."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「な、……何、圭ちゃん…。",
+      "…マジな顔でどうしたの…？"
+    ],
+    "textEn": [
+      "\"What... What is it, Kei-chan...?",
+      "You look so serious..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "………ぁぅ…、」"
+    ],
+    "textEn": [
+      "......Ah...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音を、俺は抱きしめる。",
+      "魅音は何事かわからなくて、真っ赤になったまま閉口していた。",
+      "俺は……魅音の肩で、泣きながら言った。"
+    ],
+    "textEn": [
+      "I held Mion tightly.",
+      "She still didn't know what was going on, and her face turned red.",
+      "Crying on her shoulder, I told her the following."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……すまなかった、…本当にすまなかった……。」"
+    ],
+    "textEn": [
+      "\"...I'm sorry... I'm so sorry...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「なな、",
+      "……何がよ、圭ちゃん…、",
+      "あ、あのあの、おじさん、本当に何のことかわかんないよ……。」"
+    ],
+    "textEn": [
+      "\"What? What?",
+      "...What are you sorry for, Kei-chan...?",
+      "Th-This ol' man doesn't really get what's going on...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……わかんなくてもいい…、わかんなくてもいい…。",
+      "…わかんなくてもいいから……聞いてくれ……。"
+    ],
+    "textEn": [
+      "\"...It's okay. You don't need to get anything...",
+      "So just listen to me."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "……本当にすまなかった……、そして…おはぎ…。",
+      "……うまかったぜ、……本当にうまかった…。",
+      "元気が出た。"
+    ],
+    "textEn": [
+      "...I'm very sorry... And the ohagi you made...",
+      "They were really good... They were delicious...",
+      "They cheered me up."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "……だから、……俺、明日からちゃんと学校に通えるから……、また明日も、……学校で会おうなって……、……それが…言えなくて………。"
+    ],
+    "textEn": [
+      "...Well... I wanted to tell you that... I would go to school the next day... and the day after that, too. I wanted to tell you that I would see you tomorrow at school... But I couldn't..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "…今日まで…感謝の言葉が遅れて本当にすまなかった…！！",
+      "俺は魅音を、いや、仲間を誰だろうと！！",
+      "二度と疑わない！！",
+      "二度とだ、絶対にだッ！！"
+    ],
+    "textEn": [
+      "I'm very sorry that I didn't give you any words of appreciation until today...!!",
+      "I'll never doubt you, Mion.",
+      "I'll never doubt any of my friends!!",
+      "Never, ever again!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "だから魅音、……………あの日の俺を、…どうか許してくれ……………。」"
+    ],
+    "textEn": [
+      "So Mion... please forgive me for what I did that day...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音には何のことか、わからなかったに違いない。",
+      "もちろん、……言っている俺にも。",
+      "…自分で何を口走っているのかよくわからなくなっていた。",
+      "でも、俺には許されていない罪だった。",
+      "だからそれを打ち明け、許しを請わなければならなかった。"
+    ],
+    "textEn": [
+      "Mion must have had no idea what I was talking about.",
+      "Of course... I didn't, either.",
+      "...I didn't understand what I was talking about.",
+      "But my sin wasn't forgiven yet.",
+      "I needed to confess my sin in order to receive her forgiveness."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「魅音が命を賭けてくれたことを俺は知ってる…。",
+      "だから、…いつか魅音に何かの不幸が訪れたら、俺は絶対に命を賭けて助けるからな。",
+      "絶対だ、約束する……！！」"
+    ],
+    "textEn": [
+      "\"I know you risked your life to save me, Mion...",
+      "So... I'll risk my life to save you too, when you're in some kind of trouble.",
+      "I promise I will...!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……け、……………圭ちゃん…………？",
+      "あは、はは、照れるな……。」"
+    ],
+    "textEn": [
+      "\"...K-Kei-chan............?",
+      "Aha, haha, you're making me blush......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何事かわからず赤面する魅音。",
+      "同じく赤面し、表情からクエスチョンの抜けない沙都子。",
+      "だが、梨花ちゃんと俺だけは全てを理解していた。",
+      "惨劇なんて受け容れてたまるか…！！",
+      "世界が狂い出したらもうおしまいなんてことがあるもんか！",
+      "最期のその瞬間まで運命に抗ってやる！",
+      "魅音も抗ってくれた。",
+      "レナも抗ってくれた。",
+      "だから……レナを救う。",
+      "彼女がそうしてくれたように、…俺も命を賭けて。"
+    ],
+    "textEn": [
+      "Mion's face was bright red. She didn't know what was going on.",
+      "Satoko was blushing too, with a confused look on her face.",
+      "But Rika-chan and I understood everything.",
+      "We weren't going to accept a tragedy...!!",
+      "We couldn't give up just because the world was going out of order!",
+      "We were going to fight against fate to the very last moment!",
+      "Mion fought for me.",
+      "Rena fought for me.",
+      "That's why... I was going to fight for Rena.",
+      "Just like she did for me... I was going to risk my life to save her."
+    ]
+  }
+]

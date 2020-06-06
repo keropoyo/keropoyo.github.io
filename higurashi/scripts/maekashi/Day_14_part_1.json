@@ -1,0 +1,3222 @@
+[
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「え？",
+      "今、何て？」"
+    ],
+    "textEn": [
+      "\"Eh?",
+      "What did you just say?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「信頼できる筋の噂ですが、悟史くんの叔母殺しの犯人が見つかったらしいです。」"
+    ],
+    "textEn": [
+      "\"This is information from a reliable source. It appears that they found the murderer of Satoshi-kun's aunt.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "叔母殺しから、数週間が経過していた。",
+      "もちろん、悟史くんの行方はまったくわからない。",
+      "…何の新情報もなく、進展もない。",
+      "そんな中で急に葛西が言ったのだった。"
+    ],
+    "textEn": [
+      "It had been a few weeks since the murder.",
+      "Satoshi-kun still hadn't been found.",
+      "...I had no new information on his whereabouts.",
+      "Kasai's report came, as a result, completely out of the blue."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「それって、警察が逮捕したって意味？」"
+    ],
+    "textEn": [
+      "\"Does that mean the police arrested the culprit?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「聞いた話では、逮捕というより、別件で取調べを受けていた男が余罪として自供したんだとか。」"
+    ],
+    "textEn": [
+      "\"It seems that he confessed during his interrogation regarding another case.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…葛西の言葉には違和感があった。",
+      "つまり、その犯人が悟史くん本人であるならば、葛西の言い方はこうはならない。",
+      "まるで、悟史くんでない人間が犯人だったとでも言うように。"
+    ],
+    "textEn": [
+      "...That sounded strange.",
+      "If it was Satoshi-kun they arrested, he wouldn't have worded it that way.",
+      "It sounded as though Satoshi-kun wasn't the culprit."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……葛西。",
+      "結局、犯人って、誰だったの…？」"
+    ],
+    "textEn": [
+      "\"...Kasai,",
+      "who's the culprit...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんじゃなかったの…？",
+      "そう続けそうになるのを喉元で止める。",
+      "私は悟史くんに違いないと、そう思っていた。",
+      "いや、おそらく警察も、大石もそうだと思っていたに違いない。",
+      "大石が私にああいうカマをかけてきたということは、大石自身、悟史くんが犯人に違いないと確信していたからだ。"
+    ],
+    "textEn": [
+      "So it wasn't Satoshi-kun...?",
+      "I swallowed those final words.",
+      "I was convinced that it was Satoshi-kun.",
+      "The police and Ooishi must've thought the same way.",
+      "The reason Ooishi approached me is because he was convinced that Satoshi-kun did it."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「ご安心を。",
+      "悟史くんではないようですよ。",
+      "連続怪死事件を模倣した異常者の犯行…というような話みたいです。」"
+    ],
+    "textEn": [
+      "\"Don't worry.",
+      "It doesn't seem like it's Satoshi-kun.",
+      "I heard it was a lunatic who was aiming to continue the series of mysterious deaths.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「はい？？",
+      "………異常者？",
+      "なにそれ？」"
+    ],
+    "textEn": [
+      "\"What??",
+      "...A lunatic?",
+      "What do you mean?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "葛西は肩をすくめる。"
+    ],
+    "textEn": [
+      "Kasai shrugged."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「さぁ、…私もそれ以上は。",
+      "…何しろ、今回の事件は秘匿捜査指定というものがかかっているんだそうです。",
+      "なので、ほとんど情報が出回らないんです。」"
+    ],
+    "textEn": [
+      "\"I don't know...",
+      "Since the investigation is classified as a confidential case,",
+      "the information I can get is limited.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「秘匿捜査？",
+      "何それ。」"
+    ],
+    "textEn": [
+      "\"Confidential?",
+      "Why?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「連続怪死事件による、村への風評被害対策ということらしいです。",
+      "誘拐事件なんかでも犯人との交渉が行なわれている間は新聞に載らなかったりするでしょう。",
+      "あぁいう類のものらしいです。」"
+    ],
+    "textEn": [
+      "\"To prevent the village from developing a bad reputation.",
+      "You don't see articles about kidnapping while the police are negotiating with the culprit, do you?",
+      "It's something similar to that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう言えば、…テレビでも新聞でも、叔母殺しを見た覚えはなかった。"
+    ],
+    "textEn": [
+      "Come to think of it... I hadn't seen anything about the aunt's murder on TV or in the newspaper."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「何しろ、４年連続で綿流しの日に事件が起こっているわけですからね。",
+      "オヤシロさまの祟りだと騒いで面白がる輩も多いそうですし。"
+    ],
+    "textEn": [
+      "\"These strange deaths have happened four years in a row now, on the day of Watanagashi.",
+      "There are those who try to make light of it,"
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "そうそう、何でもその叔母殺しの異常者ですが、連続怪死事件を模倣したくて行なったと自供したんだとか。」"
+    ],
+    "textEn": [
+      "and now this lunatic who confessed the aunt's murder said he did it in imitation of the series of mysterious deaths.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\"........................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "葛西はそれ以上を知らないというので、私はしつこく問い掛けず自問する。",
+      "……正直なところ、意外だった。",
+      "悟史くんが犯人だと思っていた。",
+      "…だからこそ、悟史くんが失踪しなければならなかったのだと思ってきた。",
+      "でも、…信じられないことに、叔母殺しの犯人はどこの馬の骨とも知れぬ輩だったのだ。",
+      "じゃあ………悟史くんは、叔母殺しとは関係ない？",
+      "なら、関係ないなら。",
+      "どうして、失踪しなければならないの…？",
+      "正直なところ…突然、ひょっこりと現われた真犯人を、私は受け入れきれずにいた。",
+      "それから、葛西が言った「４年目の連続怪死事件」という言葉にも違和感を感じた。",
+      "今年の事件は、悟史くんが追い詰められ、止むに止まれぬ思いで至った悲しい単独の事件であって、",
+      "……昨年までの連続怪死事件とは何の関係もないと思っていたからだ。",
+      "悟史くんの事件が、…悟史くんの事件でなくなっているような、違和感。",
+      "雛見沢村連続怪死事件は、通称「オヤシロさまの祟り」と呼ばれる。",
+      "悟史くんの事件が、連続怪死事件に組み込まれた。",
+      "…つまり、悟史くんの事件が、「オヤシロさまの祟り」に組み込まれた。",
+      "嫌な言い方だ。",
+      "さらに縮めると、“悟史くんが「オヤシロさまの祟り」に飲み込まれた”なんて風に読めたから。"
+    ],
+    "textEn": [
+      "Kasai didn't know anything else, so instead of probing him further, I reviewed the information myself.",
+      "...I was really shocked to learn all this.",
+      "I was convinced that Satoshi-kun killed her.",
+      "...I thought that was the reason he had to disappear.",
+      "But... it was actually some lunatic who killed her, and he had no relation to the aunt whatsoever.",
+      "So... Satoshi-kun had nothing to do with the murder?",
+      "If so...",
+      "Why did he disappear...?",
+      "I couldn't accept that this lunatic had killed the aunt.",
+      "And what's really strange is the phrase Kasai used, \"four years in a row now.\"",
+      "After all, I'd been thinking that this murder happened because Satoshi-kun had been in a dire situation,",
+      "and had nothing to do with the series of mysterious deaths.",
+      "I felt as though Satoshi-kun's case had become somebody else's.",
+      "The series of mysterious deaths in Hinamizawa is also known as the curse of Oyashiro-sama.",
+      "Satoshi-kun's case had become one of those mysterious deaths.",
+      "...In other words, Satoshi-kun's case has become a part of Oyashiro-sama's curse.",
+      "I didn't like the way that sounded...",
+      "Because it was as though the curse had swallowed Satoshi-kun."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「えぇ、残念ながら。",
+      "例の、東京行きの新幹線に乗ったらしいという情報も確認が取れないままです。",
+      "正直なところ、県の中にいるのか外にいるのか、それすらもわかっちゃいません。」"
+    ],
+    "textEn": [
+      "\"Unfortunately,",
+      "we haven't been able to confirm the tip that Satoshi-kun took a train to Tokyo.",
+      "We don't even know whether or not he's in this prefecture, to be honest.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は新しいインスタントコーヒーの瓶の内蓋を剥がしながら言った。"
+    ],
+    "textEn": [
+      "Ooishi broke the seal on a new can of instant coffee."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あれだけ胸を張って、悟史くんが犯人だと息巻いていたから、もう行方を掴んでるとばかり思ってました。」"
+    ],
+    "textEn": [
+      "\"I thought you knew his whereabouts already, since you seemed very convinced he was the culprit.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっはっは。",
+      "いやいや、情けない限りです。」"
+    ],
+    "textEn": [
+      "\"Na ha ha ha ha.",
+      "You got me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "からからと笑いながら、大石は熱すぎるお湯で作ったコーヒーを私の前に置いた。"
+    ],
+    "textEn": [
+      "Ooishi chuckled and poured a cup of coffee which looked far too hot."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……しかし、耳が早いなぁ。」"
+    ],
+    "textEn": [
+      "\"...You have some good sources.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「はい？」"
+    ],
+    "textEn": [
+      "\"Huh?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「秘匿捜査指定だってのに、どこの誰が漏らしてるやら。",
+      "…やれやれ。",
+      "ウチの防諜も問題があるなぁ。」"
+    ],
+    "textEn": [
+      "\"It's a highly classified case, but you already have this information.",
+      "I wonder who leaked it.",
+      "Looks like we need to review our security precautions.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石はにやりと意味ありげに笑う。",
+      "どうやら、私がここへ来た目的は察しているようだった。"
+    ],
+    "textEn": [
+      "Ooishi smirked.",
+      "Seemed he knew why I was here today."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「まぁ、腐っても園崎の端くれですので。",
+      "多少の噂は耳に出来ますということで。」"
+    ],
+    "textEn": [
+      "\"I'm one of the Sonozakis, after all.",
+      "And my ears are open.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私も意味ありげに笑ってみせる。",
+      "…こういうのははったりを利かした方の勝ちだ。"
+    ],
+    "textEn": [
+      "I smirked back at him...",
+      "It's all about bluffing."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「まぁいいか。",
+      "腹を割りあった仲ですしねぇ。",
+      "いいですよ、おしゃべりしましょう？",
+      "んっふっふ。」"
+    ],
+    "textEn": [
+      "\"Anyway.",
+      "Since we're friends now,",
+      "why don't we have a chat?",
+      "Nfufu.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「まず聞かせて下さい。",
+      "真犯人って、一体何者です？",
+      "異常者とか聞きましたけど、それってどーゆうことですか？」"
+    ],
+    "textEn": [
+      "\"Let me ask you first.",
+      "Who's this real culprit?",
+      "I heard he was a lunatic, but what does that mean?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっは！",
+      "どーゆうことって言われたってねぇ…。",
+      "そりゃ私だって言いたいですよ。",
+      "……私は悟史くんが犯人の一点読みでしたからねぇ。",
+      "とんだ万馬券が飛び出したもんです。」"
+    ],
+    "textEn": [
+      "\"Na ha ha ha!",
+      "I don't know how to answer that question.",
+      "I want to know the answer myself...",
+      "Really, I was convinced Satoshi-kun was the real culprit.",
+      "It was rather surprising for me, too.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石はソファーにドカっと腰を下ろして両腕を頭の後ろで組むと、天井を仰いで、苦笑いしながら続ける。"
+    ],
+    "textEn": [
+      "Ooishi threw himself on the sofa and crossed his hands behind his head. He looked up at the ceiling and smiled wryly."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「………先日ですね、県警の方から急に連絡が来たんですよ。",
+      "すでに逮捕して取調べをしている男が、主婦殺しを自供したって。」"
+    ],
+    "textEn": [
+      "\"...I suddenly received a call from the prefectural police the other day.",
+      "They said that one of the guys in detention confessed to the murder of the housewife.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「それは何者？」"
+    ],
+    "textEn": [
+      "\"Who is it?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「クスリに手を出したとんでもない野郎でしてね。",
+      "出所しては捕まるの繰り返しだそうです。",
+      "雛見沢村連続怪事件が面白そうだったんで、４年目の祟りは自分が下してみたくなった…とか何とか。」"
+    ],
+    "textEn": [
+      "\"He's a real piece of work who fell into a drug habit.",
+      "He's been in and out of prison for drug abuse.",
+      "His statement says that he was interested in the series of mysterious deaths and wanted to imitate them.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……間違いなくそいつが犯人？」"
+    ],
+    "textEn": [
+      "\"...Are you sure he's the real culprit?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「私が直接話を聞いたわけじゃないんですがね。",
+      "…先方が取った供述調書には、いわゆる「犯人しか知り得ない情報」ってヤツががっつりと含まれていたんですよ。",
+      "凶器を王子川のどこかで捨てたって言ってましてね。"
+    ],
+    "textEn": [
+      "\"I didn't interrogate him myself,",
+      "but... the prefectural police tells me that he has information that only the real culprit would know.",
+      "He seems to have thrown the murder weapon into the Ouji River."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "今はドブさらいの最中ですよ。",
+      "これで供述どうりに凶器が発見されれば完璧でしょうなぁ。」"
+    ],
+    "textEn": [
+      "They're searching for it right now.",
+      "If it's found, his statement will be solid.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…たとえ凶器が見つからなくても、概ね確定？」"
+    ],
+    "textEn": [
+      "\"...Even if the weapon wasn't found, would the case be closed?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「確定でしょうなぁ。",
+      "現場の状況とホトケの状況を正確に供述しています。",
+      "襲った本人にしか分からないような、細かい辺りまでね。」"
+    ],
+    "textEn": [
+      "\"Probably.",
+      "His statement clearly outlines the state of the crime scene and the body.",
+      "This information, like I said, covers details that only the actual murderer would know.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………納得は、…いってないみたいですね？」"
+    ],
+    "textEn": [
+      "\"......You don't seem quite convinced.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……………………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は天井を見上げたまま、足を組み、しばらく沈黙していた。"
+    ],
+    "textEn": [
+      "Ooishi, still looking up at the ceiling, went quiet."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「実はね、その大バカタレ。",
+      "とっくに亡くなってるんですよ。",
+      "うちに連絡があった時にはすでに。」"
+    ],
+    "textEn": [
+      "\"As a matter of fact,",
+      "the moron was already dead",
+      "by the time I got their call.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「亡くなってる？」"
+    ],
+    "textEn": [
+      "\"Dead?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……給食とかに出てくるでしょ、先割れスプーン。",
+      "留置所の食事にもあれが出てくるんですよ。",
+      "そいつを飲み込んで窒息したんだとか。"
+    ],
+    "textEn": [
+      "\"...You know those spoons that are forked at the tip?",
+      "They use those at the detention facility.",
+      "I was told that he swallowed one and choked on it..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…自殺なのか錯乱なのか、ちょっと区別がつかないですがね。」"
+    ],
+    "textEn": [
+      "They couldn't tell if it was a suicide or if it was caused by some mental disorder.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "スプーンを飲み込んだところを想像し、自分の喉が苦しくなり、私はほんの少し咽た。"
+    ],
+    "textEn": [
+      "I imagined somebody swallowing that spoon... and gagged."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「だから充分に納得するまで調べられたわけじゃありません。",
+      "……私は納得できないんですがね、…上の方は充分に納得しちゃったようでした。",
+      "どうもその愉快犯が主婦殺しの犯人ってことで決着しそうな流れです。」"
+    ],
+    "textEn": [
+      "\"So, the investigation hadn't been done that thoroughly...",
+      "But although I'm not convinced, my superiors are.",
+      "I think with that, the case will be closed.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は視線を天井から私に戻した。",
+      "その顔は、ほんの少し真剣だった。"
+    ],
+    "textEn": [
+      "Ooishi turned his eyes from the ceiling to me.",
+      "He looked serious."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…こりゃあ個人的な意見ですよ？",
+      "他の誰にも内緒ということで。"
+    ],
+    "textEn": [
+      "\"...This is just what I personally feel, okay?",
+      "So please keep it between the two of us."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…………私ゃ、この大バカタレは何かの間違いだと思ってます。」"
+    ],
+    "textEn": [
+      "...I believe that this moron is some kind of mistake.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………………。」"
+    ],
+    "textEn": [
+      "\"...............\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「何かの偶然による壮大な勘違いか、もしくは、",
+      "…………………ねぇ？"
+    ],
+    "textEn": [
+      "\"It might be either a big misunderstanding caused by a chain of coincidences, or...",
+      "...you know?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "なっはっはっは。」"
+    ],
+    "textEn": [
+      "Na ha ha ha ha.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「全然意味わかんないですよ、大石のおじさま。」"
+    ],
+    "textEn": [
+      "\"I have no idea what you're talking about.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「私は今でも、犯人は北条悟史くんだと思っています。」"
+    ],
+    "textEn": [
+      "\"I still believe that the real culprit is Satoshi Houjou-kun.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………きっぱり言い切りますね。」"
+    ],
+    "textEn": [
+      "\"......You sound confident.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「残念ながら、現場検証では犯人を特定できるような痕跡は何一つ発見できませんでした。",
+      "悟史くんが失踪した後、家宅捜索の許可が下りましてね。",
+      "家を改めさせてももらいましたが、それでも手掛りはゼロ。」"
+    ],
+    "textEn": [
+      "\"Unfortunately, we couldn't find anything to prove he was at the crime scene.",
+      "We obtained a warrant to search his house after he disappeared,",
+      "but we still found nothing.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……それでも、悟史くんが犯人だと疑ってる？」"
+    ],
+    "textEn": [
+      "\"......But you still believe he did it?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「えぇ。」"
+    ],
+    "textEn": [
+      "\"Yes.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…証拠もないのに、どうやったらそこまで人を殺人犯呼ばわりできるのやら。",
+      "大したもんです。",
+      "永年の勘ってやつですか？」"
+    ],
+    "textEn": [
+      "\"...I wonder how you can be so sure even though you don't have any evidence.",
+      "It's incredible.",
+      "Is that supposed to be like the hunch of an experienced detective?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「えぇ。",
+      "この道で何十年もメシを食ってきた男の直感です。」"
+    ],
+    "textEn": [
+      "\"Yep.",
+      "It's the hunch of a guy who's been in this business for several decades.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は得意げに笑って見せたが、私は別にそれに頼もしさを感じることはなかった。"
+    ],
+    "textEn": [
+      "Ooishi smiled in satisfaction, but I didn't feel relieved."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………悟史くんは…どこへ。」"
+    ],
+    "textEn": [
+      "\"......Where did Satoshi-kun go...?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「悟史くんが失踪した理由のひとつこそが、彼が犯人であるからだと固く信じていたんです。",
+      "悟史くんが犯人でないなら、…その辺りがかなり薄れちゃいますからねぇ。」"
+    ],
+    "textEn": [
+      "\"His disappearance convinced me that he was the culprit.",
+      "If he wasn't the culprit... there'd be no real reason for him to disappear.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………叔母殺しの犯人はその愉快犯で、悟史くんの失踪とは無関係。"
+    ],
+    "textEn": [
+      "\"...What if the murder actually was done by that copycat and Satoshi-kun's disappearance has nothing to do with it...?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "……悟史くん失踪は、私と悟史くんの仲を裂くために、園崎本家がやったもの。",
+      "叔母殺しとは無関係、という考え方は…？」"
+    ],
+    "textEn": [
+      "In other words, what if Satoshi-kun disappeared because the Sonozaki family didn't like my relationship with him,",
+      "and he has nothing to do with the murder...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんは加害者なのか。",
+      "被害者なのか。",
+      "…悟史くんが失踪した理由がどんどん曖昧になり、霞んでいく…。"
+    ],
+    "textEn": [
+      "Was Satoshi-kun a culprit",
+      "or a victim?",
+      "...The reason for his disappearance had become unclear..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「んーーーーーーーー………………。",
+      "……私は仇敵との恋仲程度で、人ひとりを失踪させるなんてリスクを冒すとは思わないんですがねぇ。"
+    ],
+    "textEn": [
+      "\"Hmmmmmm.........",
+      "I don't think they'd bother to make one person disappear just because of an undesirable relationship."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "………実際、園崎家の内部としてはどうなんです？",
+      "……詩音さんはその辺り、何かご存じ？」"
+    ],
+    "textEn": [
+      "...What do you hear from inside the Sonozaki family?",
+      "Do you know anything?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「知っていたら、こんなとこに来ません。」"
+    ],
+    "textEn": [
+      "\"I wouldn't be here if I did.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっは。ごもっともごもっとも。」"
+    ],
+    "textEn": [
+      "\"Na ha ha ha. You're right.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は頭を掻きながら大きく笑った。",
+      "…その笑いが収まると、身を乗り出しながら言った。"
+    ],
+    "textEn": [
+      "Ooishi laughed out loud while scratching his head...",
+      "and after he stopped laughing, he leaned over."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「よぅし、ならひとつどうですかねぇ。",
+      "協定を結びませんか？",
+      "紳士協定。」"
+    ],
+    "textEn": [
+      "\"All right, how about this?",
+      "Why don't we make a deal?",
+      "A gentlemen's deal.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「協定？",
+      "何のです？」"
+    ],
+    "textEn": [
+      "\"A deal?",
+      "On what?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「悟史くん失踪事件、捜査情報共有協定。",
+      "…裏の界隈で悟史くんの失踪に関する情報を得られたら、私にも教えて下さい。",
+      "もちろん私も、悟史くんについての情報が入ったら、あなたに提供します。",
+      "……いかがです？」"
+    ],
+    "textEn": [
+      "\"On information about Satoshi-kun's disappearance...",
+      "If you find any information like that, you tell me,",
+      "and I'll also provide you with information if I find any.",
+      "...Do we have a deal?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「何だか一方的な、虫のいい話に思えますけど。」"
+    ],
+    "textEn": [
+      "\"That sounds too convenient for you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "なっはっはと大石は苦笑いをした。"
+    ],
+    "textEn": [
+      "Ooishi chuckled."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……詩音さん。",
+      "………このまま行くと、主婦殺しの犯人はすでに死んでるその大バカタレってことで確定すると思います。",
+      "そうなると、悟史くんの扱いは単なる家出人になります。"
+    ],
+    "textEn": [
+      "\"...Shion-san...",
+      "I think if we leave things as they are, they'll conclude that the moron committed the murder.",
+      "If that happens, Satoshi-kun's disappearance will be treated as just another runaway minor."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "つまり、積極的な捜査は打ち切られるということです。」"
+    ],
+    "textEn": [
+      "They won't search for him as actively as before.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ですが、私だけは続けます。",
+      "私だけは悟史くんの行方を引き続き捜します。"
+    ],
+    "textEn": [
+      "\"But I will continue searching for him.",
+      "Only I will do it."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…詩音さんも私も、悟史くんの行方を捜しているという点では一致していると思うんですがねぇ？」"
+    ],
+    "textEn": [
+      "...I believe you're intending to do the same.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「目的が全然違いますがね。",
+      "私は単に無事を確認したいだけですが、大石のおじさまにとっては逮捕が目的でしょうから。」"
+    ],
+    "textEn": [
+      "\"Our motives are different, though.",
+      "I just want to know if he's safe, but you'd like to arrest him, wouldn't you?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「んっふっふっふ…。",
+      "主婦殺しが決着すれば、悟史くんは無実ってことになりますよ？",
+      "真実はどうかは別にしてもね。」"
+    ],
+    "textEn": [
+      "\"Nfu fu fu...",
+      "If the murder case was considered solved, Satoshi-kun would be free.",
+      "Regardless of his innocence.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…あやしいもんです。」"
+    ],
+    "textEn": [
+      "\"...I doubt that.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっはっは…。」"
+    ],
+    "textEn": [
+      "\"Na ha ha ha ha...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は再び下品に笑った。",
+      "だが眼光だけはふざけていなかった。"
+    ],
+    "textEn": [
+      "Ooishi chuckled again,",
+      "but his smile didn't reach his eyes."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…………ま、今後も仲良くやりましょう。",
+      "敵の敵は味方とも言いますしねぇ。」"
+    ],
+    "textEn": [
+      "\"......Well, let's be friends from now on.",
+      "The enemy of your enemy is your friend, no?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「別に私、園崎本家と敵対しているわけじゃありませんよ？」"
+    ],
+    "textEn": [
+      "\"I'm not opposed to the Sonozaki family, though.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あ、ホントに？",
+      "なら、そりゃ失礼。",
+      "んっふっふ…。」"
+    ],
+    "textEn": [
+      "\"Oh, really?",
+      "I apologize then.",
+      "Nfu fu...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石蔵人か……。",
+      "…なるほど、お姉や葛西も言っていたが、敵には回したくないし、かと言って味方にするのも油断できない。",
+      "一筋縄では行かないなかなかのタヌキのようだ…。",
+      "喉なんか渇いていないけど、…間を取るためにひとくち、コーヒーに口を付ける。",
+      "…窓の外には、私が普段過している当り前の世界の光景が広がっている。",
+      "でも、……その当り前の世界に、悟史くんだけがいない。",
+      "当り前の世界に、当り前のようにいない。",
+      "…そしていつか、悟史くんがいないのが当り前になるのが、怖い。",
+      "…………悟史くんは、……どこにいるんだろう。"
+    ],
+    "textEn": [
+      "This is the way of Kuraudo Ooishi, huh...?",
+      "...As Sis and Kasai said, I wouldn't want him as my enemy or my ally, because both would be too risky.",
+      "I probably shouldn't let my guard down in front of this big fat weasel......",
+      "I sipped on the coffee to fill up the silence, though I wasn't thirsty.",
+      "...Outside the window, I could see normal life taking its course.",
+      "But...... Satoshi-kun wasn't there.",
+      "He should have been there, but he wasn't.",
+      "...I was scared that I might grow used to his absence someday.",
+      "...Where was he...?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………………………悟史くんは……どうしてるんだろ。」"
+    ],
+    "textEn": [
+      "\".........I wonder how Satoshi-kun is doing...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……………無事だといいんですがね。」"
+    ],
+    "textEn": [
+      "\".........I hope he's all right.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ちぇ。",
+      "………生きてる可能性は薄いとか思っているくせに。",
+      "気休め言わないで欲しいです…。」"
+    ],
+    "textEn": [
+      "\"Tch...",
+      "I know you think he might be dead.",
+      "Don't patronize me...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「悟史くんの失踪、雛見沢じゃなんて言われてるか知ってます？」"
+    ],
+    "textEn": [
+      "\"Do you know what people are calling his disappearance in Hinamizawa?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「え？」"
+    ],
+    "textEn": [
+      "\"Huh?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…「鬼隠し」にあった、なんて言われてるんだとか。」"
+    ],
+    "textEn": [
+      "\"...They say that he was demoned away...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鬼隠しというのは、神隠しと同じ意味だ。",
+      "この辺りならではの方言と言っていい。"
+    ],
+    "textEn": [
+      "To be demoned away means the same thing as being spirited away.",
+      "It's part of the local dialect."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………鬼ヶ淵沼の底の、鬼の国にさらわれたって？",
+      "………馬鹿馬鹿しい…。」"
+    ],
+    "textEn": [
+      "\".........He was kidnapped and taken to Hell through the bottom of the Onigafuchi Swamp...?",
+      "That's ridiculous...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「兎にも角にも、連続怪死事件もこれで４年目です。"
+    ],
+    "textEn": [
+      "\"Anyway, the series of mysterious deaths has struck for the fourth time."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…気の早い話ですがね、来年もまた起こるんじゃないかなんて、もう囁かれてるんだとか。」"
+    ],
+    "textEn": [
+      "...It's too soon, but people are already talking about next year.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「叔母殺しが、オヤシロさまの祟りのせいだって言うんですか？」"
+    ],
+    "textEn": [
+      "\"Are you saying that the murder was the result of Oyashiro-sama's curse?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…全体的に見てみれば、ホトケも北条家のひとり。",
+      "ダム戦争の戦犯と縁がないわけじゃないですからね。"
+    ],
+    "textEn": [
+      "\"...The victim was one of the Houjous, after all.",
+      "She was involved in the dam conflict, though indirectly."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "しかもまたしても綿流しの日にとなれば、面白がる連中が現われるのも、無理もないことです。」"
+    ],
+    "textEn": [
+      "Really, it's not surprising that some people take an interest in the incidents, because they do always happen on the day of Watanagashi.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………………馬鹿馬鹿しい。何がオヤシロさまの祟りだ。」"
+    ],
+    "textEn": [
+      "\".........That's ridiculous too. Oyashiro-sama's curse?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう口にしておきながら、…私は不吉な気持ちを払拭できずにいた。",
+      "悟史くんが消えたのは、……どうしてなのか。",
+      "私との恋仲を咎めた園崎本家の仕業？",
+      "警察に追い詰められてどこかへ逃亡した？",
+      "そもそも、悟史くんは叔母殺しの犯人なのか？",
+      "だからそもそも、悟史くんはどうして失踪したのか？",
+      "悟史くんは悟史くんだ。",
+      "オヤシロさまの祟りなんて関係あるもんか。",
+      "でも、",
+      "……………あれ？",
+      "不快な違和感。",
+      "悟史くんとオヤシロさまの祟り。",
+      "………この２つを口にした人がいた気がする。",
+      "…えぇと、…私はいつそんな話を聞いたんだっけ…。",
+      "そうだ。",
+      "……あの雨の日だ。",
+      "バスの停留所の小屋で雨宿りしながら、",
+      "…竜宮レナが口にしたんだ。"
+    ],
+    "textEn": [
+      "Though I said that, I couldn't quite wipe away the fear from my mind.",
+      "Why did Satoshi-kun disappear...?",
+      "Was it the Sonozaki family?",
+      "Did he run away from the police?",
+      "Did he really kill his aunt in the first place?",
+      "Why did he even disappear?",
+      "He's on his own.",
+      "Oyashiro-sama's curse has nothing to do with it.",
+      "But...",
+      "......Hmm?",
+      "That's strange.",
+      "Satoshi-kun and Oyashiro-sama's curse...",
+      "......Somebody once mentioned those two together before.",
+      "...Hmm... when did I hear that...?",
+      "Ah, that's right...",
+      "That rainy day.",
+      "It was Rena Ryuugu who told me that",
+      "when we were taking shelter in that shack."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あ、」"
+    ],
+    "textEn": [
+      "\"Ah.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あの時、……竜宮レナがした薄気味悪い話が脳裏に蘇る。"
+    ],
+    "textEn": [
+      "I remembered the creepy story that she told me at that time."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「悟史くんは心のどこかで。",
+      "……雛見沢を捨てて、どこかへ逃げ出したいと思ってるから。」"
+    ],
+    "textEn": [
+      "\"Satoshi-kun wants to leave Hinamizawa and run far away...",
+      "even if only unconsciously...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "竜宮レナは、そう言った。",
+      "そう、レナは、悟史くんが雛見沢を捨てて逃げたがっていると、はっきりあの時点で口にしていた。",
+      "そして、…そうだ、こうも言った。"
+    ],
+    "textEn": [
+      "That's what Rena Ryuugu said.",
+      "Rena had definitely pointed out that Satoshi-kun wanted to leave Hinamizawa at that time.",
+      "She also said..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「悟史くんが体験していることは全て、…オヤシロさまの祟りの前触れなの。」"
+    ],
+    "textEn": [
+      "\"Everything he's going through is... a sign of Oyashiro-sama's curse.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "言った。",
+      "確かに言った。",
+      "オヤシロさまの祟りと、はっきり言った。",
+      "４年連続した、雛見沢村連続怪死事件。",
+      "……悟史くんは、…オヤシロさまの祟りに操られるようにして…叔母を殺し、「鬼隠し」にあって消えてしまったのだろうか……？",
+      "……………………馬鹿な。",
+      "祟りなんてあるものか。",
+      "私の心の中の悟史くんの笑顔が、どんどん歪んで霞みながら…消えていく………。",
+      "…冷房の風がきつく感じるようになったので、私は他の席に移った。",
+      "大学ノートとキーホルダーのじゃらじゃらついた筆箱、ミルクが浮いて薄い膜になってしまったミルクティーの紙コップ。",
+      "それらをまとめて、席を移動する。",
+      "私は腰を下ろすと再びノートを広げ、自分の考えを書き出しながら、沈思黙考の世界に戻った。",
+      "雛見沢村連続怪死事件。",
+      "通称、「オヤシロさまの祟り」",
+      "１年ずつの事件を個別に見てきた私を含むほとんどの人にとって、それは「連続事件」であっても、あくまでも個別の事件の連続であって、「ひとつの大きな事件」という認識は不思議と薄かった。",
+      "だが、こうして過去の事件を書き出せば、これらの連続した事件が全てあるひとつの思惑で起こされていることは明白だった。",
+      "犠牲者を書き出す。",
+      "１年目の現場監督。",
+      "２年目の悟史くんの両親。",
+      "３年目の神主さん。",
+      "４年目の悟史くんの叔母。",
+      "……４年目に関してだけは、悟史くんの叔母より、悟史くん本人が犠牲者と言えるかもしれない。",
+      "ダム戦争時の遺恨というラインからこれらをなぞると、それらは簡単にまとめられた。",
+      "まず１年目。",
+      "現場監督が殺されたのは、彼の存在自体が、ダム戦争の目に見える形での敵のシンボルだったからだ。",
+      "ダム戦争時の真の敵は、もちろん建設省や政府なのだが、それらは言葉上のもので、具体的に敵をイメージするには曖昧だった。",
+      "そこへ行くと、敵対心を剥き出しにして村人たちに口汚く怒鳴り散らすあの現場監督は、村の敵として一番イメージしやすい存在だったのだ。",
+      "…本当の意味で、オヤシロさまが祟りを下すなら、それは建設省や政府のトップに対してだと思う。",
+      "「村人」が一番イメージしやすい「敵」に祟りが下されたこと自体が、村の意思がターゲット選定に反映している証拠みたいなものだった。",
+      "次に２年目。",
+      "悟史くんの両親の事故。",
+      "…公園の柵から転落したことになっているが、真の意味で事故かどうかは怪しいものだ。",
+      "悟史くんの両親は、現場監督が「敵」なのだとしたら、村人でありながらダムに賛成した「裏切り者」に位置付けられた。",
+      "実際、ダム戦争中は北条家を徹底的に叩き、ある種の見せしめにすることで、ダム賛成派が現われるのを抑止していた。",
+      "ゆえにダム戦争中は、「裏切り者」という重要なポストゆえに、プロパガンダのための「必要」な存在だったのだ。",
+      "だからこそ。",
+      "…ダム戦争が終わり、彼らは用済みになった。",
+      "外の敵の象徴である現場監督。",
+      "内の敵の象徴である北条夫妻。",
+      "この２つが２年かけて祟りに遭い、ダム戦争の怨念は清算されたかに見えた。",
+      "だが、実際にはもう１年清算が続いた。",
+      "そして３年目。",
+      "御三家の一角を担う古手家の頭首でもある、神主さんが突然病死した。",
+      "妻はその夜の内に入水自殺したという。",
+      "自分の命でオヤシロさまの怒りを鎮める、そんな旨の遺書が残されたと言う。",
+      "もっとも、病死にしても、自殺にしても、不審さは拭えないが。",
+      "神主さんを園崎家が快く思っていなかったのは、以前、魅音が自分で認めた。",
+      "反ダムで村中が結束すべき時期に、神主さんは日和見的な立場を取ったことが、タカ派の人間たちには不愉快だったのだ。",
+      "裏切り者とまでは行かないまでにも、非協力者には違いない。",
+      "こう考えると、１年目から順に、「敵」",
+      "「裏切り者」",
+      "「非協力者」",
+      "と、その敵対度に応じて順番に「祟り」が執行されていることに気付く。",
+      "そう、「祟り」とはつまり、「けじめ」なのだ。",
+      "ダム戦争時の戦犯への制裁に他ならないのだ。",
+      "…そして、４年目。",
+      "４年目の事件は、……正直なところ、よくわからない。",
+      "私は初め、この事件は４年目に連なりはしても、単独のものだと信じてきた。",
+      "過去３年の連続事件とは無縁の、まったく別の事件だと思ってきた。",
+      "だが、叔母殺しを、こうして客観的に書き出してみると。",
+      "……犠牲者の叔母は「裏切り者の縁者」だ。",
+      "「敵」「裏切り者」「非協力者」に続く、犠牲者の系譜に「裏切り者の縁者」と付け加えても、そう違和感はない。",
+      "４番目の序列として、妥当に思える。",
+      "村の守り神であるオヤシロさまを祀る祭りの当日に、ダム戦争の戦犯たちを年々「祟殺し」ていく。",
+      "そう、私が園崎本家で「けじめ」を取らされたみたいに、彼らの罪を清算していく。",
+      "…こうして書き出してみると、４年目のこの事件すらも、連続怪死事件の一部なのではないかと思えてくる。",
+      "犯人が悟史くんであれ、自供したという麻薬常習者であれ。",
+      "…この４年間連続したシナリオに組み込まれた「実行犯」でしかないのではないか。",
+      "仮に悟史くんが犯人で、…家庭環境に起因する同情の余地のある動機だったとしても。",
+      "…その結果は、ダム戦争の遺恨の清算を司る「雛見沢村連続怪死事件」に充分に組み込まれている。",
+      "……悟史くんが悲壮な決意を持って起こした事件。",
+      "だが、それらが全てシナリオに組み込まれていたとしたら…？",
+      "悟史くんに、あの日、あの晩に、あの場所で。",
+      "……叔母を撲殺することを入れ知恵した何者かがいる、ということだ………？",
+      "……悟史くんが妹思いで、沙都子を守るために、悲壮な決意をしたことは疑わない。",
+      "だけれども、…本当に「自分だけの意思で」、叔母殺しを思いついたかは謎だ。",
+      "私のよく知る悟史くんは、…あのどこか楽天的で、ちょっと抜けた感じの悟史くんは、",
+      "……いくら妹の為とは言え、…自分だけの思いつきで、",
+      "叔母殺シヲ計画デキタノカ…？",
+      "例えば、…殺人計画リストのようなものがあって、予め叔母は４年目に殺すことが決まっていたとする。",
+      "そして、悟史くんたちの特殊な事情を何者かが巧みに利用したのではないのか。",
+      "そして、その何者かと接点を持つ悟史くんは……消された？",
+      "そうやって考えると、殺人事件という意味では性格の似る１年目の現場監督殺しにも共通する。",
+      "主犯格の男は、警察の徹底的な捜索にもかかわらず、今日まで何も行方は掴めていないからだ。",
+      "生死すらわからないという点においても一致する。",
+      "犯人である作業員たちは、ちょっとした喧嘩から殺し合いになったと証言しているらしいが、",
+      "…それが主犯格による「扇動」だとしたら？",
+      "その日、その時間、その場所で、殺しを実行するよう何者かに入れ知恵されていたとしたら………？",
+      "そう。",
+      "１年目の事件は、…４年目の悟史くんの事件とあまりに似ているのだ。",
+      "なら…………悟史くんは…誰かの手の平の上で踊らされたのだろうか…？",
+      "大石はあの時、悟史くんの失踪は、殺人犯と私の仲を清算するためのものだと仮説を立てて見せた。",
+      "…だが、今、こうして箇条書きにしたノートを読み返すと。",
+      "悟史くんの失踪は、そんな突発的なものでなく、ずっと前から組み込まれた「予定」だったように思えるのだ。",
+      "その「予定」に、私という予定外が絡んだので、私に対して引き離しが行なわれた。",
+      "そして、間髪入れずに…悟史くんは「予定通り」に、「鬼隠し」にあった…。",
+      "私も最初、悟史くんが失踪した理由を、園崎家次期頭首の双子である私と、裏切り者北条家の悟史くんが恋仲であることを対外的に許せなかったため…と思っていた。",
+      "……でも、何かが違う。",
+      "何か違和感があるのだ。",
+      "悟史くんの失踪に、…私は関係ない。",
+      "私と悟史くんの出会いがたとえ、なかったとしても。",
+      "…悟史くんは昭和５７年の６月に叔母を殺し、…失踪したに違いないのだ。",
+      "私は、一時期、鬼婆に復讐しようと考えていた。",
+      "鬼婆が、私と悟史くんの仲を引き裂くためにやったものだと信じていたからだ。",
+      "だが、私たちの仲が関係ないとしたなら。",
+      "……………これは一体、どういうことなのだろう。",
+      "……悟史くんを失踪させたのは、一体、何者なんだ…？",
+      "それを知ろうとするには、…私はこの「雛見沢村連続怪死事件」に挑まなければならないのだ。",
+      "この事件は何なのか？",
+      "何者たちが何のために、いつまで起こし続けるのか…？",
+      "その意図は、目的は。",
+      "そして犯人は。",
+      "そして、……誰が悟史くんを。",
+      "その中で、悟史くんの生死に迫れたなら。",
+      "……………………。",
+      "…「雛見沢村連続怪死事件」とはすなわち「オヤシロさまの祟り」のこと。",
+      "…オヤシロさまの祟りとは何なのか…？",
+      "オヤシロさまというのはそもそも…。",
+      "どういう神さまだったっけ…？",
+      "どんなご利益があって、どんな祟りがあるんだっけ…？",
+      "私の考えが、口を突く代わりにシャーペンの先に、文字となって紡がれていく。",
+      "オヤシロさまとはオヤシロさまとは。",
+      "私の迷走する思考を、そのままに字に書き出していく…。",
+      "だから。",
+      "自分の後ろに、さっきからずっと人の気配があって、しかもその人が覗き込んでいる、",
+      "それもさっきからずっと、というのに気付いた時。",
+      "私は悲鳴にも似た声を出して驚かざるを得なかった。"
+    ],
+    "textEn": [
+      "She said that",
+      "for sure.",
+      "She had definitely mentioned Oyashiro-sama's curse.",
+      "The series of mysterious deaths has struck four times.",
+      "......Was Satoshi-kun being controlled by the curse? Is that why he killed his aunt and was 'demoned away'...?",
+      ".........No way.",
+      "That can't be true.",
+      "Satoshi-kun's smile faded away in my mind......",
+      "...I moved from one chair to another because the air conditioning was too cold.",
+      "I moved with my notebook, my pen case with a bunch of keychains, and my cup of milk tea.",
+      "I did it all in one go.",
+      "I sat down in a new chair, then opened my notebook again. I scribbled my thoughts and sank into silence.",
+      "The series of mysterious deaths.",
+      "Dubbed \"the curse of Oyashiro-sama.\"",
+      "I've been viewing each incident as a separate case, even though it was followed by another one. I've never looked at all the cases as part of one big scheme.",
+      "After I wrote down all the incidents on paper, it became clear to me that all of them served the same agenda.",
+      "I wrote down the victims.",
+      "The first year: the construction site manager.",
+      "The second year: Satoshi-kun's parents.",
+      "The third year: the priest.",
+      "The fourth year: Satoshi-kun's aunt.",
+      "......For the fourth year, one could consider Satoshi-kun himself to be the victim, rather than his aunt.",
+      "If I considered that each case arose from the grudge over the dam conflict, it's quite simple.",
+      "In the first year.",
+      "The construction manager was killed because he was a symbol of the dam construction itself.",
+      "Of course, the real enemy was the Ministry of Construction, but it wasn't as clear a target.",
+      "That manager, on the other hand, had been aggressively shouting back at the villagers, so he was a more appropriate enemy to attack.",
+      "...If Oyashiro-sama had really cursed someone, it would have been the officials from the Ministry.",
+      "It's apparent that the target was selected based on the villagers' preference.",
+      "The second year.",
+      "The accidental death of Satoshi-kun's parents.",
+      "...It's said that they fell from a cliff in some park, but it's doubtful that it was really an accident.",
+      "His parents were labeled as 'traitors' to the village because they sided with the dam construction, even though they were also from Hinamizawa.",
+      "The Houjou family was ostracized during the dam conflict in order to prevent further pro-dam activists from rising up.",
+      "That means that the Houjous were 'necessary' during the conflict to play the role of the 'traitor.'",
+      "So, when the conflict was over...",
+      "...They no longer served any purpose.",
+      "The construction site manager was a symbol of the external enemy.",
+      "The Houjous were a symbol of the internal enemy.",
+      "Those people fell victim to the curse, and it seemed that the grudge over the dam conflict had ended.",
+      "Yet those incidents were followed by another one.",
+      "The third year.",
+      "The leader of one of the Three Families, the priest Furude, suddenly died of an illness with an unknown cause.",
+      "His wife drowned herself on the same night.",
+      "She seemed to have left a note that said she was sacrificing herself to pacify Oyashiro-sama's anger.",
+      "Whether it was a fatal disease or suicide, their deaths looked suspicious.",
+      "Mion admitted that the Sonozaki family didn't like the priest's attitude.",
+      "They didn't like how the priest had been generous toward the pro-dam activists.",
+      "The priest wasn't quite a traitor, but he was certainly uncooperative.",
+      "Looking at these incidents, I realized that the 'curse' was performed based on the degree of hostility:",
+      "enemy,",
+      "traitor,",
+      "and dissident.",
+      "This meant that the curse was actually 'payment.'",
+      "It was a punishment for the criminals of war.",
+      "...And the fourth year.",
+      "I didn't understand this case at first, to be honest.",
+      "At first, I believed that this case was separate from the other ones, even though it occurred on the same day.",
+      "I never thought that there would be any relation to the other three.",
+      "But when I wrote it down and looked at it objectively...",
+      "......The victim is a 'relative of a traitor.'",
+      "After 'enemy,' 'traitor,' and 'dissident,' 'relative of a traitor' doesn't sound too odd.",
+      "It comes naturally as a fourth target.",
+      "On the day the villagers worship Oyashiro-sama, their guardian deity, the criminals of the dam conflict have been 'punished by the curse.'",
+      "Just like how I was forced to pay at the Sonozaki house, the criminals were made to pay as well.",
+      "...After writing these things out, I started thinking that the fourth incident might be in line with the series of mysterious deaths after all.",
+      "Whether it was Satoshi-kun or the dopehead,",
+      "it seemed that they were forced to play the role of a murderer, as a part of a bigger scenario.",
+      "Even if Satoshi-kun was the real culprit, even if he killed his aunt because of an ordinary grudge,",
+      "the murder seems synchronized with the grand scheme of 'the series of mysterious deaths in Hinamizawa,' which is a payment plan for the war criminals.",
+      "...That murder was the result of his pain.",
+      "But... what if somebody planned that as part of a scenario...?",
+      "For instance...",
+      "Somebody might have suggested to him to kill his aunt on that day, that night, at that place......?",
+      "...I had no doubts that Satoshi-kun decided to kill her in order to protect Satoko.",
+      "But did he really reach that conclusion on his own?",
+      "Satoshi-kun was optimistic and somewhat detached, as far as I know. Would he really",
+      "have considered murdering his aunt",
+      "even if it was to protect his sister...?",
+      "Couldn't it be possible for somebody to have chosen the aunt as the fourth year's murder beforehand...?",
+      "...And they used Satoshi-kun?",
+      "And Satoshi-kun was eliminated because of his connection with them...?",
+      "Looking at it that way, the murder of the first year resembles this case.",
+      "The main culprit behind that case hasn't been found yet,",
+      "dead or alive.",
+      "The other culprits testified that their fight had turned into a slaughter...",
+      "but wouldn't it be possible that the main culprit had manipulated the situation?",
+      "What if he had been told to kill someone on that day, at that time, and in that place......?",
+      "I'm certain.",
+      "The first murder resembles Satoshi-kun's case very much.",
+      "So... did that mean Satoshi-kun was being controlled by somebody else...?",
+      "Ooishi had presented me with a hypothesis that the Sonozaki family made Satoshi-kun disappear, in order to end my relationship with a murderer.",
+      "...But when I read the notes I wrote down,",
+      "his disappearance didn't seem too spontaneous. It seemed like part of a bigger plan.",
+      "Since I'd unexpectedly gotten involved in that plan, I had to be separated from him.",
+      "Then Satoshi-kun was demoned away, as planned.",
+      "At first, I also believed that the Sonozaki family made him disappear because they didn't like that I was in love with a member of a family of traitors.",
+      "...But something didn't add up.",
+      "Something felt strange.",
+      "I wasn't the reason for his disappearance after all.",
+      "Even if I never met him in the first place...",
+      "Satoshi-kun was supposed to kill his aunt in June 1982, and then disappear.",
+      "At one point I had been thinking of taking revenge on the hag.",
+      "I'd believed that she separated us.",
+      "But what if my relationship with Satoshi-kun had nothing to do with his disappearance?",
+      ".........What would that mean?",
+      "...Who made Satoshi-kun disappear...?",
+      "I need to understand the series of mysterious deaths in order to solve this mystery.",
+      "What did all these deaths mean?",
+      "Who was behind them, and what purpose did they serve...?",
+      "I wanted to know the purpose, the motive,",
+      "and who was responsible...",
+      "Who took Satoshi-kun......?",
+      "I wanted to know if he was still alive.",
+      "...............",
+      "...The series of mysterious deaths in Hinamizawa is also called \"Oyashiro-sama's curse\"...",
+      "What is that curse...?",
+      "Specifically,",
+      "what kind of god is Oyashiro-sama...?",
+      "What blessings does he bring and what punishments does he dole out...?",
+      "I wrote down my thoughts in the notebook.",
+      "What's Oyashiro-sama...? What is he...?",
+      "I scribbled these things down...",
+      "I was so absorbed by it...",
+      "That I didn't realize somebody had been standing behind me, watching me",
+      "the whole time.",
+      "I couldn't stop myself from gasping when I realized that."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Woman",
+    "labelJp": "女性",
+    "textJp": [
+      "「…………ごめんなさい。",
+      "驚かせちゃったかしら？",
+      "…くすくす。」"
+    ],
+    "textEn": [
+      "\"......I'm sorry.",
+      "Did I startle you...?",
+      "Hee hee.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "知的な女性がいたずらっぽく笑った。"
+    ],
+    "textEn": [
+      "The intelligent-looking woman giggled."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「い、いえ。",
+      "びっくりしただけです。",
+      "…こちらこそ場違いな大声を出してすみませんでした。」"
+    ],
+    "textEn": [
+      "\"N-No,",
+      "I was just a bit surprised...",
+      "Sorry about that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私は軽く謝るが、私を後から覗き込んでいた彼女だって謝ってくれてもいい。",
+      "そう思ったが、彼女は謝るどころか、私の顔をまじまじと見つめる…。"
+    ],
+    "textEn": [
+      "She could have apologized a little better, too, since she'd been watching me from behind...",
+      "But she just stared at my face instead..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Woman",
+    "labelJp": "女性",
+    "textJp": [
+      "「……………………………あなたが、園崎詩音さん？」"
+    ],
+    "textEn": [
+      "\".........Are you Shion Sonozaki-san?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………私の名前を知ってて、私が初対面ということは、…お姉の知り合いか何かですか？」"
+    ],
+    "textEn": [
+      "\".........You must know Sis since you know my name, but I don't know who you are.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こういう時、双子というのは不愉快だ。",
+      "向こうは勝手に私のことがわかるくせに、私は向こうのことがわからない。"
+    ],
+    "textEn": [
+      "Being twins is a pain sometimes.",
+      "People you've never met before can tell exactly who you are."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Woman",
+    "labelJp": "女性",
+    "textJp": [
+      "「くすくす、ごめんなさいね。",
+      "私の知っている園崎さんは、図書館なんかに来るような人じゃないから。",
+      "噂に聞いた、双子の詩音さんかなと思って。」"
+    ],
+    "textEn": [
+      "\"Hee hee. I'm sorry.",
+      "The Sonozaki-san I know would never be seen in a library,",
+      "so I assumed that you were her twin sister.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "女性は愉快そうにくすくすと笑った。"
+    ],
+    "textEn": [
+      "The woman giggled again."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「お察しのとおり、私は園崎詩音です。",
+      "どうも初めましてこんにちは。",
+      "失礼ですが、どちら様ですか？」"
+    ],
+    "textEn": [
+      "\"Well, you were right. I'm Shion Sonozaki.",
+      "Nice to meet you.",
+      "May I ask your name?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Woman",
+    "labelJp": "女性",
+    "textJp": [
+      "「あら、ごめんなさいね、自己紹介がまだだったわね。」"
+    ],
+    "textEn": [
+      "\"Oh, I'm sorry. I should've introduced myself first.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "髪が自慢らしく、彼女は髪を掻きながら言った。"
+    ],
+    "textEn": [
+      "She seemed to love her own hair, because she kept running her fingers through it boastfully."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「鷹野三四。",
+      "三四って呼んでくれていいわよ、詩音ちゃん。」"
+    ],
+    "textEn": [
+      "\"I'm Miyo Takano.",
+      "You can call me Miyo, Shion-chan.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「お気遣いありがとうございます、鷹野さん。」"
+    ],
+    "textEn": [
+      "\"Nice to meet you, Takano-san.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私は先ほどから、何か小馬鹿にされているような感じがして不愉快でしょうがなかった。",
+      "私は初対面の人に見下されることほど嫌いなことはない。",
+      "だから、拒絶を示すと、ノートを閉じて席を立とうとした。"
+    ],
+    "textEn": [
+      "Her condescending attitude bugged me.",
+      "I hate meeting people like that.",
+      "I closed my notebook and got ready to leave the desk."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あら、…………怒ってる？」"
+    ],
+    "textEn": [
+      "\"Oh... Are you upset?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ご賢察、痛み入ります。",
+      "私はひとりで考え事をするのが好きなんで、他所へ行かせていただきます。",
+      "失礼します、御機嫌よう。」"
+    ],
+    "textEn": [
+      "\"Thank you for your concern.",
+      "I like to be alone when thinking, so I'm moving to another spot.",
+      "Excuse me.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…残念ね。",
+      "私たち、話が合うと思ったのに。」"
+    ],
+    "textEn": [
+      "\"...That's a shame.",
+      "I thought we'd be good friends.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「そうですか？",
+      "私は合うとは思いかねますが？」"
+    ],
+    "textEn": [
+      "\"Did you?",
+      "I don't think so.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「だって、オヤシロさまの祟りについて研究する同志に出会えたんですもの。",
+      "貴重な出会いだと思うんだけど…？」"
+    ],
+    "textEn": [
+      "\"I finally met someone with the same passion. A fellow researcher of Oyashiro-sama's curse.",
+      "I think it's quite unusual to meet someone like that...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私の顔が、かーっと赤面する。",
+      "…ノートの中身をしっかり見られた。"
+    ],
+    "textEn": [
+      "She saw my notes...!",
+      "My face reddened."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「こ、…これは、私の、そう妄想みたいなもの！",
+      "でたらめです。",
+      "子どもの落書きなんか放っといて下さい！」"
+    ],
+    "textEn": [
+      "\"Th-These are just theories!",
+      "It's all nonsense.",
+      "Just childish scribbles.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「オヤシロさまの祟りと呼ばれる一連の連続怪死事件。",
+      "何れの事件も個別に見えながら、確実にひとつの意思に基づいて行なわれている。"
+    ],
+    "textEn": [
+      "\"The series of mysterious deaths is also known as Oyashiro-sama's curse.",
+      "Though each death is an independent incident, all of them clearly share the same purpose."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "毎年、１人がオヤシロさまの祟りに遭って死に、１人が生贄に捧げられて失踪する。」"
+    ],
+    "textEn": [
+      "Each year, someone dies of the curse, and someone else is sacrificed and disappears...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「は、…はぁ？",
+      "な、何を急に言い出すんですか？",
+      "１人が祟りで死んで…１人が……何ですって…？」"
+    ],
+    "textEn": [
+      "\"Wh-What?",
+      "What are you saying all of a sudden?",
+      "Someone dies and... someone else... what...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "唐突に奇怪なことをまくし立てられ、私は面くらってどもる。",
+      "…だがすぐに、何かとんでもないことを言われたことに気が付いた。"
+    ],
+    "textEn": [
+      "I was taken aback by her weird spiel.",
+      "...But I realized right away that she'd said something extraordinary."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「雛見沢村連続怪死事件の犠牲者が常に偶数人数だってことは、あなたも気付いてたんじゃない？",
+      "……それとも、まだそこまでには至ってなかったかしら？」"
+    ],
+    "textEn": [
+      "\"Didn't you notice that the number of victims is always even...?",
+      "Haven't you realized that yet...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "犠牲者が常に偶数人…？？",
+      "私は混乱する頭を整理しながら、これまでの事件を思い返した。",
+      "１年目は現場監督が死んだ。",
+      "１人のはず。",
+      "２年目は悟史くんの両親だから…２人。",
+      "３年目は…神主さん１人。",
+      "…いや、妻の自殺も陰謀なら、２人と言えなくもない…。",
+      "そして４年目は、叔母が死に、…悟史くんが失踪した。",
+      "悟史くんの失踪も陰謀なのだとしたら、…確かに犠牲は２人。",
+      "…本当だ。",
+      "１年目の事件を除けば犠牲者は常に偶数人数、つまり２人だ。",
+      "いや待てよ。",
+      "…１年目の事件は４年目の悟史くんの事件に酷似するとさっき自分で結論付けたじゃないか。",
+      "主犯格が未だ行方不明であることは、悟史くんと同様に、「鬼隠し」で消された可能性も否定できないと。"
+    ],
+    "textEn": [
+      "The number of victims is always even...??",
+      "I was confused, but I tried to figure out what that meant.",
+      "The dam construction site manager died in the first year.",
+      "There was only one victim.",
+      "In the second year, the victims were the parents of Satoshi-kun, so it was two people.",
+      "In the third year, it was the priest...",
+      "and if her death was also planned, his wife... two again...",
+      "And in this year, the fourth year, Satoshi-kun's aunt died and Satoshi-kun went missing...",
+      "If Satoshi-kun's disappearance was planned... the number of the victims was two.",
+      "...It's true.",
+      "Except for the first one, the victims always came in an even number--two.",
+      "Wait.",
+      "...I had just concluded myself that the first case resembled the fourth one.",
+      "The main culprit was still missing. He might have been demoned away, just like Satoshi-kun."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「ね？",
+      "そうでしょ？」"
+    ],
+    "textEn": [
+      "\"See?",
+      "Doesn't it make sense now?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "まるで、難解な数学の問題を、黒板の前で解き明かしていくように、鷹野さんは私を諭した。",
+      "………私は頷けなかったが、かといって否定の言葉も口にできなかった。"
+    ],
+    "textEn": [
+      "Takano-san sounded like a teacher who had showed me how to solve a difficult math problem...",
+      "I wasn't quite convinced, but I couldn't deny what she'd said, either."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「ヒントはこのくらいでいいかしら…？",
+      "二人で存分に語り明かしたかったんだけど、あなたが孤独を好むなら仕方がないしね。"
+    ],
+    "textEn": [
+      "\"Did I give you enough hints...?",
+      "I really would have enjoyed a conversation with you, but I think you prefer being alone."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "…くすくすくす。」"
+    ],
+    "textEn": [
+      "...Hee hee hee.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……失礼な口の利き方をしてすみませんでした、三四さん。",
+      "私のことは詩音と呼んでください。」"
+    ],
+    "textEn": [
+      "\"......I'm sorry that I wasn't respectful, Miyo-san.",
+      "Please call me Shion.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…ぷ、……くすくすくすくす…！」"
+    ],
+    "textEn": [
+      "\"...Pff...... Hee hee hee...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私があっさりと口の利き方を翻したのが、彼女には小気味良く感じたのか、しばらくの間、満足そうに笑っていた。",
+      "どことなく、胡散臭い雰囲気を醸し出す女性、鷹野三四。",
+      "本当なら、こんな怪しい人間とは関わりたくはない。",
+      "だが、…人との出会いが著しく限定されている私には、数少ない貴重な出会いではあったし、",
+      "…彼女がしようとしている話に興味は隠せなかった。"
+    ],
+    "textEn": [
+      "She seemed content that I changed my attitude. She kept giggling for a while.",
+      "She didn't seem that reliable.",
+      "I didn't want to be acquainted with her for too long.",
+      "But... I don't get to talk to people very much...",
+      "and what she said interested me."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「改めて自己紹介するわね。",
+      "鷹野三四よ。",
+      "三四って呼んでくれると嬉しいわ。」"
+    ],
+    "textEn": [
+      "\"Let me introduce myself again.",
+      "I'm Miyo Takano.",
+      "Call me Miyo.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「よろしくです三四さん。",
+      "私は園崎詩音。",
+      "魅音の双子の妹にあたります。",
+      "詩音と呼んでください。」"
+    ],
+    "textEn": [
+      "\"Pleased to meet you, Miyo-san.",
+      "I'm Shion Sonozaki.",
+      "Mion's twin sister.",
+      "Please call me Shion.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "三四さんが握手の真似事を求めて来たので、私はそれに応えて、ささやかな仲直りとした。"
+    ],
+    "textEn": [
+      "I took the hand that Miyo-san held out as a sign of reconciliation."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「さっきの話を聞かせて下さい。",
+      "２人犠牲者が出るといいましたね？",
+      "１人が祟りで、もう１人が…えっと、生贄とか言いましたか？」"
+    ],
+    "textEn": [
+      "\"Please tell me more.",
+      "You said that there are always two victims?",
+      "One dies due to the curse and the other one is... a sacrifice?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「………ねぇ詩音ちゃん。",
+      "このお話で盛り上がる前に、どうしてこの話に興味があるか聞かせてもらってもいいかしら？」"
+    ],
+    "textEn": [
+      "\"...Shion-chan.",
+      "Before we get into that, could you tell me why you became interested in this?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "彼女は、少し背を屈めて私の目を覗き込んだ。",
+      "…あまり気持ちよくはない。"
+    ],
+    "textEn": [
+      "She leaned over and looked into my eyes...",
+      "It was kind of uncomfortable."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………三四さんこそ、私のことをどこまでご存じです？",
+      "ご存じなら、おおよその見当はつくんじゃないかと。」"
+    ],
+    "textEn": [
+      "\"...Miyo-san, how much do you know about me?",
+      "I guess you have an idea if you know my name...\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「さぁ…。",
+      "何年か遠くの全寮制の学校にいて、最近、興宮に戻ってきたとしか知らないわよ…？」"
+    ],
+    "textEn": [
+      "\"I don't know much...",
+      "Just that you recently returned from a boarding school...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「そうですか。",
+      "じゃあ想像つきますよね。",
+      "私がいない間に起こった連続怪死事件。",
+      "私はよくわからないので調べてるんです。",
+      "ちょっとした興味本位で。」"
+    ],
+    "textEn": [
+      "\"I see.",
+      "So, I think you can imagine",
+      "that I want to know about the series of mysterious deaths",
+      "that happened while I was away.",
+      "I'm just curious.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「……………なるほどね。",
+      "興味本位で、ね。」"
+    ],
+    "textEn": [
+      "\"...I see.",
+      "You're curious, eh?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私のことを、魅音だと思わず、詩音だと即答したこの人だからこそ。",
+      "…何となく、悟史くんと私のことも知っているような気がした。",
+      "……大石のような強力な情報網があるならいざ知れず、どうして彼女がそこまでのことを知っていると思えるのか、自分でもわからない。",
+      "ただその、……彼女の瞳に浮かぶ、全てお見通しのような色合いがそう思わせるのだ…。"
+    ],
+    "textEn": [
+      "I got the impression that she knew about what happened to Satoshi-kun and me,",
+      "because she instantly recognized me as Shion, not Mion.",
+      "...I didn't know why I thought that way, as she shouldn't have access to the sources that, for instance, Ooishi does.",
+      "It was just the look in her eyes that made me think that way..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「三四さんにも聞きます。",
+      "さっき私のことを、オヤシロさまの祟りについて調べる同志と言いましたね。",
+      "なぜ祟りなんか研究してるんですか？"
+    ],
+    "textEn": [
+      "\"Let me ask you a question this time.",
+      "You called me a fellow researcher of Oyashiro-sama's curse, didn't you?",
+      "So why are you researching the curse?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "そして、連続怪死事件の犠牲者は偶数人であるとも言い切りましたね。",
+      "雛見沢村連続怪死事件は、確かに通称でオヤシロさまの祟りと呼ばれています。"
+    ],
+    "textEn": [
+      "You also stated that there's always an even number of victims in the mysterious deaths.",
+      "It's true that Hinamizawa's mysterious deaths are often called Oyashiro-sama's curse,"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "なぜ、祟りを研究すると、連続怪死事件にまで踏み込むことになるのですか？」"
+    ],
+    "textEn": [
+      "but why would you delve into the mysterious deaths if you're researching the curse itself?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「詩音ちゃん、質問が一度に多過ぎるわね。",
+      "それに何が聞きたいのか、ややこしくて分かりにくいわ。」"
+    ],
+    "textEn": [
+      "\"Shion-chan, you're asking too many questions at once.",
+      "I can't tell what you really want to know.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "う…。",
+      "思わず黙り込んでしまう。",
+      "聞きたいことが多過ぎてこんがらかったかも知れない。"
+    ],
+    "textEn": [
+      "Ooh...",
+      "I couldn't say anything in return.",
+      "Maybe I'd been too inquisitive."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「順に答えるわね。",
+      "……私が研究しているのは祟りじゃなく、もっと広義。"
+    ],
+    "textEn": [
+      "\"I'll answer your questions one by one......",
+      "I'm not just researching the curse, as my subject is much broader than that."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "鬼ヶ淵村の風俗史よ。",
+      "平たく言えば、古代雛見沢村の知られざる歴史、暗黒史について研究しているの。」"
+    ],
+    "textEn": [
+      "I'm researching the history of Onigafuchi Village.",
+      "In plain terms, I'm researching the dark and ancient history of Hinamizawa.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「おにがふち村？？",
+      "鬼ヶ淵って、あの鬼の国につながってるって言う、村の奥にある底無し沼のことですか？",
+      "あと知られざる歴史、暗黒史って…何です？」"
+    ],
+    "textEn": [
+      "\"Onigafuchi Village??",
+      "Isn't Onigafuchi the bottomless swamp some people believe is connected to Hell?",
+      "And what dark history...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私は疑問に思ったことを矢継ぎ早に聞き返していく。",
+      "その内容は三四さんにとって、どれも聞かれたい内容らしく、とても嬉しそうに笑っていた。"
+    ],
+    "textEn": [
+      "I kept asking questions.",
+      "Miyo-san,  however, looked pleased to hear them."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「鬼ヶ淵村というのは雛見沢村の明治以前の名前よ。",
+      "暗黒史というのは、……薄々は知っているでしょう？",
+      "人食い鬼の歴史は。」"
+    ],
+    "textEn": [
+      "\"Onigafuchi Village is the old name for Hinamizawa, as it was known back before the Meiji Era.",
+      "About the dark history...",
+      "you know a little bit about the man-eating demons, I assume?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………あぁ……、",
+      "人食い鬼の話か。",
+      "雛見沢村に伝わるおとぎ話だ。",
+      "大昔、沼の底の鬼の国から鬼たちがやって来て、村人と戦ったけど、",
+      "結局、仲良く住むことになって。",
+      "それで、村人は人と鬼の血を半分ずつ受け継ぐ、半人半鬼の仙人になった…というヤツ。",
+      "私の頭の中に、昔どこかで聞かされたおとぎ話が、どんどんと蘇ってくる。"
+    ],
+    "textEn": [
+      "...Ah...",
+      "the man-eating demons, huh?",
+      "That was a fairytale told in Hinamizawa.",
+      "A long time ago, demons came out of the swamp, and while the villagers battled with them,",
+      "they ended up living peacefully together.",
+      "The villagers transcended and became a sacred people, having demon blood in their veins.",
+      "That long-forgotten fairy tale came back to my mind vividly."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「雛見沢に縁のある人なら、誰もが知ってる当り前の昔話よね。",
+      "では、その半人半鬼の仙人たちが、…時に山を下り、人をさらって食らった宴の話は知っている？」"
+    ],
+    "textEn": [
+      "\"You know this story because you're a villager, of course.",
+      "But what about the story of the cannibal banquet?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「え？",
+      "……な、何の話ですか？」"
+    ],
+    "textEn": [
+      "\"Eh...?",
+      "What's that?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「村人たちの体に半分流れる鬼の血は、…鬼は鬼でも人食い鬼の血だったって話は、聞いたことない？」"
+    ],
+    "textEn": [
+      "\"You know that the villagers have the blood of man-eating demons in their veins, don't you?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………あぁ、……………まぁ、そんな話もありますねぇ。」"
+    ],
+    "textEn": [
+      "\"...Yeah... I think I've heard of it...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私は曖昧に笑ってはぐらかした。",
+      "雛見沢は元々は閉鎖的な寒村だったが、戦後にじわじわと勢力を伸ばし、今や興宮の町を含め、広域にその勢力を広げている。",
+      "そんな雛見沢出身者を快く思わない人たちや、差別して毛嫌いする人たちが少しいて、そんな人たちが私たちを罵るとき、よく「人食い鬼」と呼ぶのは何となく知っていた。",
+      "私たち若者は、そんなに気にしない中傷なのだが、…年寄り連中はこの手のものに、過剰に反応して目くじらを立てるのだ。",
+      "笑い事では到底済まないくらいに。",
+      "だから私たちは、人食い鬼という言葉は禁句として、気安く口にしない。",
+      "反抗期真っ盛りの私であってもだ。",
+      "そんな私でさえ避ける禁句をあっさりと口にする三四さんは、そんなことはまるで気にしない風だった。"
+    ],
+    "textEn": [
+      "I dodged the question.",
+      "Hinamizawa used to be a desolate village, but it grew in prominence after the Second World War, and expanded its influence to Okinomiya and other areas.",
+      "The people who disliked and discriminated against the villagers called us 'man-eating demons.' I remember that.",
+      "The young villagers don't take it seriously, but the older people can get seriously upset about it.",
+      "They certainly can't take it as a joke.",
+      "So the term 'man-eating demons' is forbidden. We normally never use it.",
+      "Even during my rebellious phase, I never spoke those words.",
+      "Miyo-san, however, seemed to have no qualms with saying it out loud."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…気に障った？」"
+    ],
+    "textEn": [
+      "\"...Are you upset?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「何がですか？」"
+    ],
+    "textEn": [
+      "\"About what?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「……人食い鬼って単語を忌み嫌う村人は多いからね。",
+      "気に障ったなら謝るけれど。」"
+    ],
+    "textEn": [
+      "\"...I know people hate that phrase in Hinamizawa.",
+      "I apologize if I made you feel uncomfortable.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「年寄り連中は気にするらしいですけど、まぁ、私はそんなには気にしてませんので。",
+      "…それより続けて下さい。」"
+    ],
+    "textEn": [
+      "\"The old people wouldn't like it, but I'm fine...",
+      "Would you continue?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「ありがとう。",
+      "じゃ、続けるわね。",
+      "……古代の村人たちにはね、人を食らう食人の習慣があったらしいの。",
+      "そして、その食人の儀式を様式化し、様々なセレモニーや文化、風習を生み出したと言われている。",
+      "私たちが６月のお祭りだと思っている綿流しだって、本来はちょっと早い夏祭りなんかでは断じてない。"
+    ],
+    "textEn": [
+      "\"Thanks.",
+      "Okay, so...",
+      "The ancient villagers had a custom of cannibalism.",
+      "They ritualized this custom and held various ceremonies based around it.",
+      "The festival we hold in June isn't just an early summer festival."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "本来は犠牲者をさらい、食べるために行なう食人の宴だった。",
+      "…彼らはね、犠牲者を拘束台に縛りつけ、お魚をおろす時みたいに、ハラワタを引きずり出してそれを川に投げ捨てたとされている。"
+    ],
+    "textEn": [
+      "It used to be a banquet in which the villagers chased after a sacrifice and ate them...",
+      "They bound the sacrifice to a table, gutted them, and dumped the organs into a river."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "ほら、魚のハラワタって、ワタって言うじゃない？",
+      "それが語源よ、綿流しの。」"
+    ],
+    "textEn": [
+      "'Wata' can mean 'cotton,' but it also means 'organs.'",
+      "That's the root of the word 'Watanagashi.'\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ワタ、流し…。」"
+    ],
+    "textEn": [
+      "\"Organ drifting... Watanagashi...\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「そうよ。",
+      "お布団の綿なんかで誤魔化すようになったのは、私の研究では明治の頃からじゃないかと思うわね。",
+      "まさかこの昭和の時代に、そんな恐ろしいことが堂々とできるわけもないのだし。」"
+    ],
+    "textEn": [
+      "\"Indeed.",
+      "I believe they started using futon mats to cover it all up around the Meiji Era, according to my research.",
+      "They wouldn't be able to do that openly nowadays.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………………。」"
+    ],
+    "textEn": [
+      "\".........\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…三四さんの話は……あまりに突拍子もなかった。",
+      "苦笑いの域を超え、唖然とさえなる。",
+      "私が、にわかには信じられないと思っていることは、その表情で一目瞭然なようだった。"
+    ],
+    "textEn": [
+      "...Everything Miyo-san was talking about sounded... startling.",
+      "I was just taken aback.",
+      "I couldn't wholly believe it right away. She sensed that from my expression."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「もちろん、思いつきなでっち上げなんかでは断じてない。",
+      "誰にも見せないって誓うなら、綿流しの辺りの研究ノートを見せてあげてもいいけれど…？」"
+    ],
+    "textEn": [
+      "\"It's not a hoax. I didn't make any of this up.",
+      "If you promise not to tell anyone, I can show you my notes on Watanagashi...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "三四さんは足元に置いていたペーパーバッグから、かなり使いこまれたスクラップ帳を取り出すと、バラバラっとめくって見せた。",
+      "ちらっと見ただけでも、かなり真面目に研究されたものであることがうかがえた。"
+    ],
+    "textEn": [
+      "Miyo-san took out a notebook from her bag and flipped through it.",
+      "She appeared to be doing her research thoroughly."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……あ、ありがとうございます。",
+      "お借りできるものなら、後でゆっくり読んでみたいと思います。」"
+    ],
+    "textEn": [
+      "\"...Thank you.",
+      "I'd love to read it.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「えぇ、いいわよ。",
+      "本当は閲覧厳禁の秘密ノートだけれどね。"
+    ],
+    "textEn": [
+      "\"Sure.",
+      "I'd like to keep it confidential..."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "……くすくす、研究の同志になら、特別に見せてあげてもいいわね。」"
+    ],
+    "textEn": [
+      "......Hee hee, but I guess I should share it with my fellow researcher.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "三四さんはもったいぶりながらも、私にスクラップ帳を預けてくれた。",
+      "これを読むだけでも、今夜まるまるとかかりそうだ。",
+      "軽く見ただけでも、中身の濃さはうかがえる。",
+      "様々な文献のコピーや引用が書かれてあって、単なる妄想ノートの域を超えていることは明白だ。"
+    ],
+    "textEn": [
+      "Miyo-san handed me the notebook a bit hesitantly.",
+      "It looked like it'd take a whole night to finish reading.",
+      "It was densely packed with information.",
+      "I saw copies of various documents and quotes in there too. It wasn't just some delusion of hers."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………一番最初に三四さんは言いましたよね。",
+      "毎年の事件で１人が祟りで死に、１人が生贄にされて失踪すると。」"
+    ],
+    "textEn": [
+      "\"...You told me",
+      "that one person dies because of the curse and another person is sacrificed and disappears, right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "生贄にされて、失踪する。",
+      "……悟史くんは、失踪している。",
+      "……生贄にされて…？",
+      "生贄って……何……？",
+      "三四さんはその問いもまた嬉しいものらしく、また別のスクラップ帳を取り出すと、私の胸に押し付けた。"
+    ],
+    "textEn": [
+      "A person is sacrificed and disappears.",
+      "...Satoshi-kun had gone missing.",
+      "......Did he become a sacrifice...?",
+      "What is a sacrifice anyway...?",
+      "Miyo-san looked pleased to hear my questions again. She took out another notebook and handed it to me."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「読めば分かるけど、掻い摘んで話すわね。",
+      "…オヤシロさまの祟りとは、簡単に言えばオヤシロさまの怒りのこと。"
+    ],
+    "textEn": [
+      "\"I think you'll understand once you read it, but I'll give you a digest version...",
+      "Oyashiro-sama's curse is simply Oyashiro-sama's anger."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "オヤシロさまが怒ったら、バチとして祟りが起こる。",
+      "それはわかるわよね？」"
+    ],
+    "textEn": [
+      "In other words, the curse is caused by Oyashiro-sama's anger,",
+      "do you follow?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「一応わかります。",
+      "……ダム戦争で、村に敵対した人間たちにオヤシロさまが怒り、祟りが起こったと、そう言いたいわけですよね。」"
+    ],
+    "textEn": [
+      "\"Yes......",
+      "You're saying that Oyashiro-sama was mad at the people who opposed the village during the dam conflict, and that's why the curse occurred.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「そうね。",
+      "でね、オヤシロさまの祟りというのは、放置してはいけないの。",
+      "“もっともっと大きな祟りを招く”からね。"
+    ],
+    "textEn": [
+      "\"That's right.",
+      "Oyashiro-sama's anger has to be pacified.",
+      "If not, something even worse will occur."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "だから、神職である古手家の歴代頭首たちは、オヤシロさまの祟りがある度に、そのお怒りを鎮めるために、生贄を捧げる必要があったの。",
+      "それを生贄の儀と呼ぶみたいなんだけどね…。」"
+    ],
+    "textEn": [
+      "So, all the successive priests at the Furude Shrine had to perform a sacrifice every time the curse struck, in order to pacify Oyashiro-sama.",
+      "It's called a sacrificial ritual.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「じゃあつまり………、毎年、綿流しの日にオヤシロさまの祟りで１人死んで。",
+      "その祟りを鎮めるために、さらにもう１人を生贄にして殺してると、そう言うんですか？！",
+      "でも、１人しか死んでませんよ現実に。"
+    ],
+    "textEn": [
+      "\"So...... each year on the day of Watanagashi, one person dies because of the curse,",
+      "and another one is sacrificed to pacify Oyashiro-sama's anger?!",
+      "But only one person is actually murdered each time."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "生贄に捧げられたなんて聞いたこともない…！」"
+    ],
+    "textEn": [
+      "I've never heard of human sacrifices being made!\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「死体が出ないのは当然よ。",
+      "だって、生贄の儀式は、犠牲者を鬼ヶ淵の沼に沈めることなんだもの。",
+      "あの沼は、一度沈めば二度と浮き上がることはないと言われる底無しの沼。"
+    ],
+    "textEn": [
+      "\"Naturally, there's no body.",
+      "The ritual of sacrifice requires the offering be sunk into Onigafuchi Swamp.",
+      "That swamp is bottomless, and no one would ever surface once they were thrown in there."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "……死体なんて、出ようはずもない。」"
+    ],
+    "textEn": [
+      "...No body would never be found, of course.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「じゃあ…毎年のもう１人の犠牲者は、みんな沼の底に沈んでると…？」"
+    ],
+    "textEn": [
+      "\"So... one of the victims is always thrown into the swamp every year...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんも、あの暗緑色の沼の底に…沈められていると…？"
+    ],
+    "textEn": [
+      "Does that mean Satoshi-kun is also at the bottom of that dark green swamp...?"
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「さぁ……。",
+      "本当に沼の底に沈められているかはわからないわ。",
+      "でも、連続事件を起こしている人たちが、それを意識して１人を消していることは間違いないと思うわね。」"
+    ],
+    "textEn": [
+      "\"I don't know...",
+      "I'm not sure that they really throw them into the swamp.",
+      "But those who make these incidents happen must be eliminating one person based on that legend.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ダム戦争に加担した村の敵たちが、毎年の綿流しの日に、オヤシロさまの祟りによって１人ずつ死んで行く。",
+      "そして、そのオヤシロさまの祟りを鎮めるために、毎年１人ずつ、生贄に捧げられて行く。",
+      "……二度と浮かばぬ沼の底に沈めてることになっているから、死体は絶対に出ない。"
+    ],
+    "textEn": [
+      "Each year a traitor to the village dies on the day of Watanagashi because of Oyashiro-sama's curse.",
+      "And another person is sacrificed in order to pacify Oyashiro-sama's anger.",
+      "...That person's body will never be found, because he or she is supposedly thrown into the bottomless swamp."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「そう、つまり。",
+      "……雛見沢村連続怪事件というのは、祟りとそれを鎮めるための生贄の２つでセットになったもの。",
+      "そして、それを毎年繰り返すことによって、ダム戦争時の仇敵を、毎年２人ずつ殺していけるシステムのことを指しているの。」"
+    ],
+    "textEn": [
+      "\"Yes, you get it...",
+      "The series of mysterious deaths always involves both the curse and the sacrifice.",
+      "It's a system that allows two traitors to die every year.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「私の話は省略し過ぎてるからね。",
+      "多分、ちょっと信じ難いとは思う。",
+      "だからこそ、あなたに預けた研究ノートをね、時間をかけてゆっくり読んで欲しいの。",
+      "内容を理解できたなら、私の話がそういい加減なものでもないことが分かるはず…。」"
+    ],
+    "textEn": [
+      "\"What I'm telling you now probably isn't sufficient,",
+      "so it might be hard to grasp.",
+      "Instead, I want you to take the time to read my notes.",
+      "You'll see that what I'm telling you isn't far from the truth at all...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然、そこで男の人の声が聞こえた。",
+      "鷹野さ〜んと、向こうの入口のところで、帽子を被った中年の男性が手を振って呼んでいる。"
+    ],
+    "textEn": [
+      "I heard a man's voice just then.",
+      "A middle-aged man with a hat was waving at Miyo-san from the entrance."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…ごめんなさい、待ち人が来たみたい。",
+      "もっとゆっくり話がしたかったのに残念。",
+      "…でも機会はまだこれからもあるでしょうしね。",
+      "そのノートはそれまで預けておくわね。"
+    ],
+    "textEn": [
+      "\"...Sorry, I think I have to go.",
+      "I wanted to talk to you more,",
+      "but... I guess we'll have another chance to chat.",
+      "I'll leave those notes to you."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "中身をよく読んで理解できたなら、私のいい話し相手になってくれるのを楽しみにしているわね。」"
+    ],
+    "textEn": [
+      "I'm looking forward to hearing your opinions.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "三四さんは一方的に話を切り上げると、足早に中年男性のところへ向かって行った。",
+      "私の手元には、彼女に押し付けられた、年季の入った２冊のスクラップ帳が残っている。",
+      "男性と合流した三四さんは、こちらに手を振ると、そのまま図書館を出て行った。",
+      "…私は、再び着席し、三四さんの秘蔵の研究ノートをぱらりと開く。",
+      "雛見沢村連続怪死事件。",
+      "…通称、オヤシロさまの祟り。",
+      "このノートを深く知ることで、何かの真相に近づけるかもしれない…。",
+      "事件の根底や意味を知れば、…やがて、村の何者がどこまで関わっているかを知る、強力な手掛りになるかもしれない。",
+      "悟史くんは…何に巻き込まれ、どのような顛末を経て、……消えたのか。",
+      "それを知るための答えが、この２冊のノートのどちらかに書かれているに違いない。",
+      "………考察ノート、鷹野三四。",
+      "私は今度こそ、誰にも覗きこまれないようにしながら、慎重にノートのページをめくり始めるのだった…………。"
+    ],
+    "textEn": [
+      "Miyo-san wrapped up the conversation and headed to where the man was waiting for her.",
+      "She left her old notebooks in my hands.",
+      "Miyo-san waved at me as she left the library with her companion.",
+      "...I took a seat again and opened what she'd given me...",
+      "What bugged me was the series of mysterious deaths,",
+      "also known as the curse of Oyashiro-sama.",
+      "Maybe I'd be able to get closer to the truth by reading these notebooks...",
+      "If I studied them carefully, I might be able to find out who was really behind the incidents.",
+      "Why did Satoshi-kun have to disappear...? What was he involved in? How did that happen...?",
+      "Maybe Takano's notes would bring me the answer.",
+      "......Research notes - Miyo Takano",
+      "I started flipping the pages, this time making sure that no one was watching over my shoulder......"
+    ]
+  }
+]

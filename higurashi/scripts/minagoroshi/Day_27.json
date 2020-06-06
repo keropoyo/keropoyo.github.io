@@ -1,0 +1,2370 @@
+[
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「腹減りましたね。",
+      "途中で食事に寄った方がよかったんじゃないっすか。」"
+    ],
+    "textEn": [
+      "\"I'm getting hungry.",
+      "Want to grab something on the way?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「そうですねぇ。",
+      "もうすぐ８時か。",
+      "お昼が遅かったから忘れてました。",
+      "取り敢えず話を聞いたらお多福にお茶漬けでも食べに行きましょう。」"
+    ],
+    "textEn": [
+      "\"Ah, that's right.",
+      "It's almost 8 PM.",
+      "We had a late lunch today, so I didn't realize.",
+      "We can go get something after we finish hearing her story.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「警官を４人行かせてましたよね。",
+      "交代を送らないと堪える頃ですね。"
+    ],
+    "textEn": [
+      "\"You've sent four officers there...",
+      "They're probably pretty worn out by now."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "古手さんが気を利かせて出前でも取っててくれればいいんですがねぇ。」"
+    ],
+    "textEn": [
+      "Hopefully Furude-san ordered them something to eat.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石と熊谷の車は興宮の市街地を抜け、ようやく雛見沢へ至る道に入ったところだった。",
+      "ほとんど灯りのない真っ暗な道を雛見沢に急ぐ。"
+    ],
+    "textEn": [
+      "Ooishi and Kumagai had passed through Okinomiya and were getting closer and closer to Hinamizawa.",
+      "They hurried on their way, driving through the dark streets."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「…古手梨花の、全てを話そうって言うのはとても気になるっすよね。」"
+    ],
+    "textEn": [
+      "\"I wonder what Rika Furude wants to talk to you about...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「多分、相当とんでもない話が飛び出しますよ。",
+      "…あの村はね、本当の名前は鬼ヶ淵村。",
+      "鬼ヶ淵ってのは沼ですからね、沼の名を冠した村な訳です。」"
+    ],
+    "textEn": [
+      "\"Probably something outrageous.",
+      "...That village, you know, used to be called Onigafuchi Village.",
+      "They took the name Onigafuchi, the 'Demon's Abyss', from the local swamp.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「沼なだけに底が知れませんね。",
+      "……古手梨花の護衛ですけど、どうします？」"
+    ],
+    "textEn": [
+      "\"And like an abyss, it's hard to know its depth, huh?",
+      "...What are you planning to do about her protection?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「彼女の話次第では、秘密の場所に匿った方がいいでしょうねぇ。",
+      "……雛見沢ってのは村が丸ごと魔物の腹中と同じなんです。",
+      "あの村の中では何が起こるかわからない。"
+    ],
+    "textEn": [
+      "\"Depending on what she tells us, we might have to move her to a safer location.",
+      "The whole of Hinamizawa is like a lion's den.",
+      "You never know what can happen in that village."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "とにかく聞いてみないことにはわかりません。」"
+    ],
+    "textEn": [
+      "For now, we just need to hear what she has to say.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「古手家の頭首が命を狙われていて、園崎家次期頭首はそれを守ろうと思っている。",
+      "……そんな状況下で誰が古手梨花を？"
+    ],
+    "textEn": [
+      "\"The head of the Furude family is in danger, and the successor of the Sonozaki family is trying to protect her.",
+      "...Who would even be capable of killing Rika Furude under those circumstances?"
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "あとは公由家くらいしか勢力が思いつかないです。」"
+    ],
+    "textEn": [
+      "The only people I can think of are the Kimiyoshi family.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「公由家には臭い話は聞いてないんだけどなぁ…。",
+      "やっぱり、村には信仰を軸にした狂信的な勢力が隠れてるってのかなぁ…。",
+      "沼の底がどうなってるのか楽しみです。」"
+    ],
+    "textEn": [
+      "\"I've never heard of them getting up to anything fishy...",
+      "I guess there must be a fanatical religious sect lurking in the village...",
+      "I wonder what secret lies at the bottom of that swamp.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "田んぼの風景の中を車が通り抜けていく。",
+      "……富竹ジロウの死亡場所があっという間にバックミラーに消えていった。"
+    ],
+    "textEn": [
+      "The road they were on was cutting through the rice fields.",
+      "...Leading them to pass by the scene of Jirou Tomitake's murder."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「鷹野が富竹を放置した。",
+      "そこまでは間違いないと思いますが、富竹のあの異常な死に方は一体なんだってんでしょう。",
+      "鑑識の爺さま、覚醒剤は出なかったって言ったんですよね？」"
+    ],
+    "textEn": [
+      "\"Takano left Tomitake there.",
+      "I'm sure of that, but I wonder what he actually died of.",
+      "Forensics didn't find any drugs in his system, did they?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……確かに薬物反応は出なかったそうですが、だからって絶対なかったって保証はありません。",
+      "この世にはおかしな薬なんてきっと無数にある。",
+      "それら全部が間違いなく使われていないなんて保証は誰にも出せませんよ。",
+      "自分が知らない薬だから実在しないなんて、そんな傲慢は刑事が口にしちゃいけない。"
+    ],
+    "textEn": [
+      "\"They didn't find anything, but that doesn't prove it either way.",
+      "There are hundreds of strange chemicals in this world.",
+      "There's no proof that a drug wasn't used.",
+      "It must just be one that we're not aware of."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "あったからにはあるんです。"
+    ],
+    "textEn": [
+      "I'm sure of that."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "だからきっと富竹に首を掻き破らせる薬は実在する。",
+      "そいつは犯人逮捕の折に、たっぷりしゃべってもらいますよ。"
+    ],
+    "textEn": [
+      "There must be some kind of drug out there that can make someone claw out their throat and die.",
+      "I'm going to grill the culprit about it once I make the arrest."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "あるいは、古手梨花が話してくれると一番うれしいんですがね、なっはっは。",
+      "……熊ちゃんも今回の岐阜の件で、決め付ける捜査がどれだけ冤罪を生み出してきたか、よくわかったでしょう。」"
+    ],
+    "textEn": [
+      "Of course, it would be easier if that's what Rika Furude is going to tell me.",
+      "...Kuma-chan, you must have learned exactly how false charges are made, seeing what happened in Gifu today.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「はははは、ありゃあ酷かったっすね。",
+      "あいつ、うちの署に居やがったら俺でも許さないところです。」"
+    ],
+    "textEn": [
+      "\"Hahahaha. That was horrible.",
+      "If that guy was at our station, I'd never forgive him.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「結局、最後まで間違いは認めてませんからねぇ。",
+      "岐阜県警はあくまでもあの死体は鷹野三四だったで通すつもりのようです。",
+      "でもうちは鷹野三四生存で行きますよ。"
+    ],
+    "textEn": [
+      "\"He flat out refused to admit he made a mistake.",
+      "The Gifu police department as a whole is still convinced that the body belongs to Miyo Takano.",
+      "But we'll operate under the assumption that she lives."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "あとは県警同士のトップ会談で決着するでしょう。",
+      "向こうの凡ミスは確定してるんですから。",
+      "認めると怒られると思って、躍起になって上塗りしてるんですよねぇ。"
+    ],
+    "textEn": [
+      "The top of the department will make the final decision.",
+      "It's obvious that they made a simple mistake.",
+      "They're just desperately covering it up because they'll be in trouble if they admit it."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "いやはや、…そういう体質は改めないといけません。」"
+    ],
+    "textEn": [
+      "They really need to rethink their attitude.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ガクンと道が揺れる。",
+      "舗装道路がここで終わり砂利道になった。",
+      "砂利になると雛見沢に入ったんだなという気持ちになる。",
+      "そのまま林道をしばらく車は走り抜けた。"
+    ],
+    "textEn": [
+      "The car suddenly shook.",
+      "The concrete road had ended, leaving only gravel.",
+      "At the point where the gravel road begins, you're officially in Hinamizawa.",
+      "They continued to drive through the woods for a while."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「………熊ちゃん。",
+      "ちょいと停めて！」"
+    ],
+    "textEn": [
+      "\"......Kuma-chan.",
+      "Stop the car!\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「は？」"
+    ],
+    "textEn": [
+      "\"What?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石が停めろと言うからには、まさかおしっこということでもないだろう。",
+      "熊谷は急ぎブレーキを踏んだ。",
+      "二人の体がシートベルトに締め付けられる。"
+    ],
+    "textEn": [
+      "Ooishi had told him to stop immediately.",
+      "Kumagai quickly slammed on the brakes.",
+      "Their seatbelts tightened up, keeping them in their seats."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「どうしたんですか？」"
+    ],
+    "textEn": [
+      "\"What's wrong?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……あの車、…なぁにやってんだろうな、こんなところで。」"
+    ],
+    "textEn": [
+      "\"...That car over there... I wonder what it's doing.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石がバックミラーをコツコツと叩く。",
+      "そこにはワゴン車が１台路肩に停車していた。",
+      "ワゴン車は煤けていて、村人の誰かの、仕事兼自家用という感じだった。",
+      "ここに停めるような理由はまったく思い当たらない。",
+      "…熊谷もようやく不審さに気付く。",
+      "車にはひと気がなく、代わりに車の陰の林の中で明かりがちらちらと動いているのが見えた。",
+      "…懐中電灯かもしれない。"
+    ],
+    "textEn": [
+      "Ooishi tapped on the rearview mirror.",
+      "There was a van parked just off the road.",
+      "Rather beat up, it looked like it was used for a private company.",
+      "There was no reason for someone to park their car here, especially at this time of night.",
+      "...Kumagai also thought it looked suspicious.",
+      "The car seemed empty, but there was a light flashing in the woods nearby.",
+      "...Probably a flashlight."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「不審ですね、こんな時間に。",
+      "それにしても、よく気付きましたね。」"
+    ],
+    "textEn": [
+      "\"Strange that a van is out here at this hour.",
+      "I'm surprised you even saw it.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いつも言ってます。",
+      "刑事は四六時中、目を皿にしてろってことです。",
+      "……何やってんだろうな。",
+      "不法投棄かな。",
+      "まさか死体埋めてるんじゃないだろうな。"
+    ],
+    "textEn": [
+      "\"It's like I keep telling you.",
+      "A detective always has to pay attention to his surroundings.",
+      "...I wonder what he's doing there.",
+      "Is he dumping something illegally?",
+      "Is he dumping someone's body?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "あるいは刺激不足のアベックかなぁ？",
+      "車のセンスからしてそれはないか。",
+      "……あー、興宮ＳＰどうぞー、聞こえてるかな？",
+      "なっはっは、こんばんはさようなら。」"
+    ],
+    "textEn": [
+      "Maybe it's a pair of lovebirds on a secret date?",
+      "Well, that can't be it, judging by the van.",
+      "...Hello, Okinomiya Security? Do you read me?",
+      "Na ha ha, good evening, and good night.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「こちら興宮ＳＰ、感度良好でーす。」"
+    ],
+    "textEn": [
+      "\"This is Okinomiya Security. Reading you loud and clear.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あー、車両ナンバー照会をお願いします。",
+      "ＸＸ、ＸのＸＸＸＸ。」"
+    ],
+    "textEn": [
+      "\"I need a license number scanned.",
+      "XX XX-XXXX.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「復唱、ＸＸ、ＸのＸＸＸＸ。",
+      "少々お時間もらいますがよろしいですかー？」"
+    ],
+    "textEn": [
+      "\"That's XX XX-XXXX?",
+      "It might take a while.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「お願いします。」"
+    ],
+    "textEn": [
+      "\"We'll wait.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「……大石さん、地図で見るとここ、電電公社の施設がありますね。」"
+    ],
+    "textEn": [
+      "\"Ooishi-san, according to this map, there's a facility of the Nippon Telegraph and Telephone Corporation here.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「電電公社の施設って、何ですかいそりゃ。」"
+    ],
+    "textEn": [
+      "\"What in the world is a 'facility' of the NTT?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "施設といっても人がいるところではなく、機械などが設置してあるところのようだった。",
+      "電話の仕組みはよくわからないが、多分、町と村を結ぶ中継機とか何かそういうものだろう。"
+    ],
+    "textEn": [
+      "It was listed as a facility, but it wasn't staffed; it was just a place where machines were installed.",
+      "Kumagai wasn't sure how telephone lines actually work, but either way it seemed like some kind of connecting device was located there."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「普通のワゴンだよなぁ。",
+      "電電公社にゃ見えませんねぇ。」"
+    ],
+    "textEn": [
+      "\"But that's just an ordinary van.",
+      "It doesn't look like it belongs to the NTT.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「電電公社なら、そう書いた車で来るはずっすよね…？」"
+    ],
+    "textEn": [
+      "\"If it is them, shouldn't their name should be on the van...?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…委託の電設業者か何かの可能性もあります。",
+      "直接聞いた方が早そうですねぇ。」"
+    ],
+    "textEn": [
+      "\"...Maybe some other company is contracted to do it.",
+      "Anyway, we should just go and ask.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "でも大石はその可能性もどうかと思っていた。",
+      "電電公社であろうとなかろうと、こんな時間に工事とは考えられなかった。"
+    ],
+    "textEn": [
+      "Ooishi wasn't sure if that was the case.",
+      "After all, why would any phone company go to do maintenance so late at night?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ちょいと行ってみましょうか。",
+      "古手さんたちを待たせてますからね、ぱっぱと行きましょう。」"
+    ],
+    "textEn": [
+      "\"Let's go and check what's going on.",
+      "Furude-san is waiting for us, so we need to be fast.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「そうっすね。」"
+    ],
+    "textEn": [
+      "\"Yes sir.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは、大石が過ごした長い刑事生活の中で研ぎ澄まされた野生の嗅覚だった。",
+      "嗅覚には理屈はない。",
+      "臭いものには理屈抜きで敏感に反応する。",
+      "…このセンスだけは、人を選ぶと大石は信じていた…。"
+    ],
+    "textEn": [
+      "His well-honed detective instinct was trying to tell him something.",
+      "This feeling wasn't one that Ooishi could easily explain.",
+      "He has a strong sense that something was suspicious, without any real reasoning behind it.",
+      "...Ooishi trusted that he could judge others' character with that sense."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 2",
+    "labelJp": "鶯２",
+    "textJp": [
+      "「…ザザ、……鶯２より鶯１。",
+      "車両が１台停車。",
+      "２人降りました。",
+      "………恐らく刑事です。",
+      "そちらへ接近中、１分未満で接触します。」"
+    ],
+    "textEn": [
+      "\"Kshh...h... ...Nightingale 2 to Nightingale 1.",
+      "A vehicle has stopped nearby.",
+      "Two people got out.",
+      "......They're probably police officers.",
+      "They're approaching and will make contact in less than a minute.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "この暗闇の中にもかかわらず、二人の姿は鮮明に捕捉されていた。",
+      "夜間でも視界を得られる、暗視スコープに違いなかった。"
+    ],
+    "textEn": [
+      "It was pitch-black, yet they could see the two newcomers clearly.",
+      "They were probably using a night vision scope."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 1",
+    "labelJp": "鶯１",
+    "textJp": [
+      "「了解。",
+      "全隊員注意せよ",
+      "。鶯２〜５はグリーンライトを待て。",
+      "鶯７〜８は前後１００ｍのクリアを確認せよ。」"
+    ],
+    "textEn": [
+      "\"Roger.",
+      "Attention, all units.",
+      "Nightingales 2 through 5, wait for the green light.",
+      "Nightingales 7 and 8, make sure the surrounding 100m are clear.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 3",
+    "labelJp": "鶯３",
+    "textJp": [
+      "「待機了解。",
+      "鶯４、５、聞こえたな。」"
+    ],
+    "textEn": [
+      "\"Roger.",
+      "Nightingale 4 and 5, do you copy?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 4",
+    "labelJp": "鶯４",
+    "textJp": [
+      "「鶯４了解。」"
+    ],
+    "textEn": [
+      "\"Nightingale 4, roger.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 5",
+    "labelJp": "鶯５",
+    "textJp": [
+      "「鶯５了解。」"
+    ],
+    "textEn": [
+      "\"Nightingale 5, roger.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 7",
+    "labelJp": "鶯７",
+    "textJp": [
+      "「鶯７了解。」"
+    ],
+    "textEn": [
+      "\"Nightingale 7, roger.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 8",
+    "labelJp": "鶯８",
+    "textJp": [
+      "「鶯８了解。」"
+    ],
+    "textEn": [
+      "\"Nightingale 8, roger.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 1",
+    "labelJp": "鶯１",
+    "textJp": [
+      "「……鶯より本部、鶯より本部。",
+      "電話設備工作中にトラブル。",
+      "私服警官２名の職質と思われる。",
+      "発砲許可を申請。」"
+    ],
+    "textEn": [
+      "\"This is Nightingale from HQ, Nightingale from HQ...",
+      "There's been some trouble during the modification of the phone facility.",
+      "They're two police detectives.",
+      "We request clearance to open fire.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Headquarters",
+    "labelJp": "本部",
+    "textJp": [
+      "「本部了解、許可を待て。」"
+    ],
+    "textEn": [
+      "\"Roger. Wait for the order.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "電話施設に近付く大石と熊谷の２人は、様々な角度から監視されていた。",
+      "２つは双眼鏡。",
+      "２つは照準の付いた狙撃スコープ。",
+      "山狗の工作の退路を確保する狙撃手と観測手の２組のペアだった。",
+      "それぞれが異なる角度に配置され、例え大石がどこの遮蔽物に隠れても撃ち抜けるよう、死角を補い合う配置となっていた。",
+      "しかもその彼らの姿は、迷彩服に身を包み、この闇の中、林に数十ｍも奥まって潜伏して息を潜めていたのだ。",
+      "大石たちに気配がわからないのは無理もないことだった。",
+      "狙撃銃の照準は二人の頭部をずっと追い続けていた。",
+      "……大石たちは夢にも思わないだろう。",
+      "自分たちがたった今、命を失う瀬戸際にいるなんてことは。",
+      "狙撃手たちの持つ狙撃銃の安全装置は掛かっていたが、親指のちょっとした動作で外せる。",
+      "つまり、いつでも発砲できる状態にあったのである…。",
+      "見れば、ワゴン車の影にはツタが絡まって自然に溶け込みつつある金網に囲まれた機械施設みたいなものがあった。",
+      "電電公社のマーク入りの錆びた看板が掲げてあり、関係者以外立入禁止と書かれているようだった。"
+    ],
+    "textEn": [
+      "By the time Ooishi and Kumagai reached the phone facility, they were being watched from all directions.",
+      "There were two pairs of binoculars",
+      "and two sniper rifles pointing at them.",
+      "The Mountain Dog operatives worked in two-man units, a sniper and spotter, to secure the means of retreat.",
+      "They had all taken different positions, so that they could shoot Ooishi no matter where he tried to run.",
+      "They were all in camouflage suits, hiding deep in the woods.",
+      "Ooishi, of course, had no chance of spotting them.",
+      "The snipers had their rifles trained on the detectives' heads.",
+      "...Ooishi and Kumagai had no idea...",
+      "that they were on the verge of losing their very lives.",
+      "The snipers' rifles had their safeties on, but a flick of their thumbs would release them.",
+      "In other words, they were ready to shoot if given the order...",
+      "The detectives found the fenced-in machinery right behind the parked van.",
+      "There was a sign there saying that it was the property of the Nippon Telegraph and Telephone Corporation, and another sign warning people to keep away."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「どうも〜、こんにちはー。」"
+    ],
+    "textEn": [
+      "\"Hello~ Good evening~\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「……すみませーん、作業中ですんで入らないでもらえますかね…。」"
+    ],
+    "textEn": [
+      "\"...Sorry, but could you step back? We're in middle of a maintenance operation.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石たちを青い作業服の男たちが４人ほど迎える。",
+      "工具箱を広げ、配電盤のようなところで何か作業をしているところだった。"
+    ],
+    "textEn": [
+      "There were four men working there, wearing blue overalls.",
+      "They had a toolbox open, and were working on some wires."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「どうもお仕事中お邪魔してすみません。"
+    ],
+    "textEn": [
+      "\"Sorry to interrupt."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "警察の者でございます。",
+      "いえね、不思議なところに不思議な時間に車が止まっていたものでどうしちゃったのかなぁと思いまして。」"
+    ],
+    "textEn": [
+      "We're from the police.",
+      "We were wondering what you guys were doing, since it's pretty strange to see a van parked out here.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「そうですかー、お仕事ご苦労さまです。",
+      "うちらももうちょっとで終わりますんで。」"
+    ],
+    "textEn": [
+      "\"Good evening, officers.",
+      "We're almost finished here.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「お宅らどちらさんです？",
+      "電電の人じゃないでしょ。」"
+    ],
+    "textEn": [
+      "\"Who are you guys?",
+      "You're not from the NTT, are you?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「あー、失礼しました。",
+      "小此木電気設備工事と申します。",
+      "…あれ？",
+      "あー、すみません、名刺を切らしちゃってるみたいです。」"
+    ],
+    "textEn": [
+      "\"Oh, we're not, no.",
+      "We're from Okonogi Electrics.",
+      "...Huh?",
+      "Oh, sorry, I'm out of business cards.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「小此木電気設備工事さんって、会社どちらです？」"
+    ],
+    "textEn": [
+      "\"Okonogi Electrics... Where's your office located?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「…はい？",
+      "えぇぇと…、興宮になりますけど…。」"
+    ],
+    "textEn": [
+      "\"...Er?",
+      "Well, it's in Okinomiya...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「会社の電話番号と住所を教えてください。」"
+    ],
+    "textEn": [
+      "\"Could you give me the phone number and address of your office?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「……な、…何でそんなこと聞きますか。」"
+    ],
+    "textEn": [
+      "\"...W... Why do you want to know?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……………………",
+      "電話番号、",
+      "忘れちゃいました？」"
+    ],
+    "textEn": [
+      "\"...........",
+      "You forgot",
+      "the telephone number?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石の目がぐっと鋭くなる。",
+      "違和感のある返答が戻ってきたからだ。",
+      "その手の工事業者のワゴン車というのは大抵、商売道具の工具や何やらがぎっしり満載されているものだ。",
+      "だがそこに停まっているワゴン車はまったく普通でそういう際立った特徴はなかった。",
+      "それに会社の車だったら大抵は社名が入っている。",
+      "でもこのワゴン車にはそれがない。",
+      "だが、何よりも大石が嗅ぎ取った違和感はそういうものではない。",
+      "彼らの雰囲気だった。",
+      "……外で働くことを生業とする男たちとは肌の焼け方も振る舞いも全然違う。",
+      "彼らは明らかに、電気工事の専門家ではなかった。",
+      "時間もおかしい、人数もおかしい。",
+      "大石から見て彼らはあからさまに不審だった。",
+      "でも大石が嗅ぎ取れるのはそこまでだった。",
+      "彼らが怪しいとわかるだけで、彼らが何者でここで何をしているのかまでは考えが至ろうはずもなかった。",
+      "男は予め決められた電話番号を大石に伝える。",
+      "大石はそれを熊谷に書かせると、署を経由して電電公社に確認を取るように言った。"
+    ],
+    "textEn": [
+      "Ooishi looked at them with a piercing glare.",
+      "Their response was very suspicious.",
+      "Usually, the vehicle of an electric company is full of various types of electrical equipment and repair tools.",
+      "However, the van parked there had nothing inside, and it looked just like an ordinary car.",
+      "Also, a company vehicle usually has the name of the company painted on it.",
+      "...But this one was just a plain van with no markings on it.",
+      "None of that was the reason that Ooishi found them suspicious, though.",
+      "It was their attitude that bothered him.",
+      "They didn't sound nor look like typical contractors.",
+      "They were obviously not electricians.",
+      "It was far too late in the day, and there were far too many of them.",
+      "They were also clearly suspicious of Ooishi.",
+      "However, that was all he could tell just by looking around.",
+      "He found them suspicious, but had no idea what they were up to.",
+      "One of the men told Ooishi the phone number.",
+      "Kumagai wrote down the number so he could ask the station to call and confirm it was real."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「私ら、そんな怪しい者じゃありませんって…。」"
+    ],
+    "textEn": [
+      "\"We're not doing anything suspicious...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっは！",
+      "あんたら怪しすぎですって。",
+      "一体、何者です…？"
+    ],
+    "textEn": [
+      "\"Na ha ha ha!",
+      "You guys are very suspicious!",
+      "Who are you?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "委託業者なら作業写真用に、作業前作業後とか書かれた黒板とかあったりするでしょ。",
+      "そういうのもないですし。",
+      "大体あんたたちの雰囲気が違いすぎます。」"
+    ],
+    "textEn": [
+      "If you're really a contractor, you should have proof of that.",
+      "But you don't have anything.",
+      "Besides, everything about you seems off.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「…お巡りさん、…そんな意地悪言われちゃかなわないです…。",
+      "勘弁してください、私ら早く作業を終えて帰らなきゃならないんです。」"
+    ],
+    "textEn": [
+      "\"...Officer... please don't cause us any trouble...",
+      "Just leave us alone. We need to finish up our job here...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "彼らの作業状況を見る限り、とてもすぐに片付けられるようには見えなかった。",
+      "むしろ今から作業を始めようとしているようにすら見えた。"
+    ],
+    "textEn": [
+      "Judging from their progress, it didn't look like they'd be cleaning up any time soon.",
+      "In fact, it almost seemed like they were just getting started."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「んっふっふっふ！",
+      "もうバケの皮は剥がれてんだよ兄ちゃん。",
+      "電気屋に化ける時はまずバイトして勉強してからにしな。」"
+    ],
+    "textEn": [
+      "\"Nfu fu fu!",
+      "It's pretty obvious that you're lying, son.",
+      "You should have studied the role a little better if you wanted to pretend to be an electrician.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石が凄む。",
+      "山狗たちは自分たちの正体が看破されたことを知り、次第に目に冷酷さをたたえていく…。",
+      "大石もそれに気付いていた。",
+      "だからしてやったりとニヤリと笑う。",
+      "だが、大石は知らなかったのだ。",
+      "化けの皮を剥いだ相手は常に手に負えるものだと信じてきたのだ。",
+      "自分の手に負えない、恐ろしい魔物が化けているなんて、思いもしなかった……！",
+      "熊谷はその間に自分の車へ戻っていた。",
+      "無線で確かめるためだ。",
+      "無線で署に連絡する。",
+      "署が電電公社に直接聞く。",
+      "……そうすれば、化けの皮は剥がれる。"
+    ],
+    "textEn": [
+      "Ooishi raised his voice threateningly.",
+      "The members of the Mountain Dogs gradually started to look more and more annoyed...",
+      "Ooishi looked over their expressions",
+      "and gave them a big wide grin.",
+      "However, Ooishi had no idea.",
+      "He thought he could handle these suspicious people with no issues.",
+      "Of course, in reality, they were horrific demons that he had no chance against.",
+      "Meanwhile, Kumagai was heading back to the car.",
+      "He was intending to contact the police department.",
+      "He was going to call the station using the radio.",
+      "Then, in turn, the police department would contact the NTT.",
+      "......That way, it would become clear who they were really dealing with."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Headquarters",
+    "labelJp": "本部",
+    "textJp": [
+      "「本部より鶯１。",
+      "発砲許可。」"
+    ],
+    "textEn": [
+      "\"HQ to Nightingale 1.",
+      "You have permission to fire.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 7",
+    "labelJp": "鶯７",
+    "textJp": [
+      "「鶯７、クリア。」"
+    ],
+    "textEn": [
+      "\"Nightingale 7, clear.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 8",
+    "labelJp": "鶯８",
+    "textJp": [
+      "「鶯８、クリア。」"
+    ],
+    "textEn": [
+      "\"Nightingale 8, clear.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "車のドアに手をかけた熊谷の頭部を狙撃銃はずっと照準し続けていた。",
+      "熊谷の命を守る最後の一線である安全装置はいつの間にか外れていた。",
+      "人差し指が引き金に掛かる。",
+      "その手は手袋をつけていたが、人差し指だけが覗くようにカットされていた。",
+      "そこから覗く指はとても無骨で無慈悲。",
+      "その指はほんのわずかを絞るだけで人の命を奪えるとは信じられなかった。"
+    ],
+    "textEn": [
+      "The sniper was still aiming at Kumagai's head as he headed back toward their car.",
+      "The safety, that last line protecting Kumagai's life, was disengaged.",
+      "The sniper put his finger on the trigger.",
+      "He was wearing a glove with the fingertips cut out.",
+      "The finger poking through the hole was very rough and merciless.",
+      "For as soon as he slightly moved that finger, he would take someone's life."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 1",
+    "labelJp": "鶯１",
+    "textJp": [
+      "「鶯１より狙撃班、オールグリーン。」"
+    ],
+    "textEn": [
+      "\"Nightingale 1 to sniper team, all green.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ヒュカッ、という音を熊谷は聞いた気がした。",
+      "それは子どもの頃、ナイロンの縄跳びを鞭のようにして遊んだ時に聞いた風を切る音によく似ていたと思った。",
+      "…それが熊谷がこの世で最後にした思考だった。",
+      "熊谷は信じられないくらいにあっさりと砂利道の上に転んだ。",
+      "それっきりだった。",
+      "痙攣すらしなかった。"
+    ],
+    "textEn": [
+      "Kumagai heard a quiet noise.",
+      "It was similar to the sound of the jump rope that he used to use as a whip when he was little.",
+      "...And that was the last thought Kumagai had in this world.",
+      "Kumagai collapsed onto the gravel.",
+      "That was it.",
+      "He didn't even twitch."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…………ぐほッ、…げほ………ぉおおぉ…、」"
+    ],
+    "textEn": [
+      "\".........Ugh... Agh! ...Ooooooh...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は胸を撃ち抜かれてて、コンクリートの上に仰向けになって倒れていた。",
+      "肺の中が血でいっぱいになり口から血を吐いてむせる。",
+      "…大石は水平軸のずれた斜めの世界の中で、自分が撃たれたことだけを悟っていた…。",
+      "そんな斜めの視界に作業服の男が立ち、拳銃を構えているのが見えたが、自分の血で肺を溺れさせる大石にはもうどうでもいいことだった………。"
+    ],
+    "textEn": [
+      "Ooishi was laying on his back on the concrete after getting shot in the chest.",
+      "His lungs were filled with blood, which began to pour out of his mouth.",
+      "...Ooishi only realized that he'd been shot when the world began to blur before his eyes...",
+      "As his world keeled over, he saw a man in a work uniform leveling a gun at him, but it didn't matter anymore as he started drowning on his own blood..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「興宮ＳＰより大石車どうぞー。",
+      "先ほどのナンバーが判明しましたー。",
+      "……………………大石車どうぞー？",
+      "……………………………大石車、応答願います。",
+      "………………あれ？"
+    ],
+    "textEn": [
+      "\"This is Okinomiya Security.",
+      "We've scanned the license plate number.",
+      "...............Detective Ooishi?",
+      "...............Detective Ooishi, please come in.",
+      "...............Huh?"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "…………電波、悪いのかな…………………。",
+      "……大石車応答ねが………………。」"
+    ],
+    "textEn": [
+      ".........Did we lose the signal or something............?",
+      "...Detective Ooishi, come in............\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「出ませんね。」"
+    ],
+    "textEn": [
+      "\"He's not answering.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「大石さんが車両照会？",
+      "誰の車だよ。」"
+    ],
+    "textEn": [
+      "\"Ooishi-san wanted a plate number scanned?",
+      "Whose car is it?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「村人の車ですね。",
+      "……至って平凡な。」"
+    ],
+    "textEn": [
+      "\"It's just a villager's car.",
+      "...No one special.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「…何者だよ。",
+      "大石さんが聞いてくるからには、只者じゃないんだろ？」"
+    ],
+    "textEn": [
+      "\"...Who is it?",
+      "It must be someone suspicious if Ooishi-san is asking about them.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「特記事項欄は完全に空欄ですね。",
+      "Ｓ号指定もなし。",
+      "減点もなしだし。」"
+    ],
+    "textEn": [
+      "\"It really seems like nobody out of the ordinary.",
+      "No accidents...",
+      "No tickets...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「…ははは、パッシングでもされて腹が立ったんじゃないの？",
+      "あの人、根に持つとなかなか忘れないタイプなんだよ。」"
+    ],
+    "textEn": [
+      "\"Ha ha ha... He probably got pissed off after that car passed him or something.",
+      "He can be a pretty stubborn guy sometimes.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Nightingale 1",
+    "labelJp": "鶯１",
+    "textJp": [
+      "「……鶯より本部。",
+      "２名を射殺。",
+      "作業を再開。」"
+    ],
+    "textEn": [
+      "\"This is Nightingale...",
+      "Both targets eliminated.",
+      "Resuming the mission.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Headquarters",
+    "labelJp": "本部",
+    "textJp": [
+      "「本部了解。",
+      "警官の車両処理は慎重に行なわれたし。",
+      "…三佐、鶯は警官２名を排除、作業を再開。」"
+    ],
+    "textEn": [
+      "\"Roger.",
+      "Be sure to dispose of their vehicle.",
+      "Major, Nightingale just terminated two officers. They're resuming their mission.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…おやすみなさい大石さん。",
+      "私の尻尾を掴めてもう一息だと思ったでしょうに残念ね。",
+      "くすくすくすくす。",
+      "……コーヒーをもらえるかしら？」"
+    ],
+    "textEn": [
+      "\"...Sweet dreams, Ooishi-san.",
+      "Too bad, he was getting so close to catching me.",
+      "Hee hee hee hee...",
+      "......Can I get a cup of coffee?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Feng 4",
+    "labelJp": "鳳４",
+    "textJp": [
+      "「どうぞ。",
+      "しかし、厄介な展開になってきましたね。",
+      "Ｒ宅には依然、私服警官数名とそれから友人数名がいるそうです。",
+      "……Ｒは自分が今夜殺されることに勘付いているとしか思えません。",
+      "作戦が漏れています。"
+    ],
+    "textEn": [
+      "\"Absolutely.",
+      "This is getting complicated.",
+      "There are still several officers at R's house, and her friends are there as well.",
+      "R must know that she's getting murdered tonight.",
+      "Someone is leaking information."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Feng 4",
+    "labelJp": "鳳４",
+    "textJp": [
+      "やはり決行は延期すべきでは。」"
+    ],
+    "textEn": [
+      "I think we should postpone the plan.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「明日の朝には死体が見付かっていないといけないのよ。",
+      "お偉いさんたちの日程上、その日が一番都合がいいって話なんだから。",
+      "作戦は決行します。」"
+    ],
+    "textEn": [
+      "\"We have to have her corpse by tomorrow.",
+      "That's what's most convenient for the people in charge.",
+      "We have to execute this mission tonight.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "終末作戦は梨花の死とその死後がもっとも肝心となる。",
+      "梨花はいつ殺してもいいわけではない。",
+      "そのタイミングは高度に計られているのだ。"
+    ],
+    "textEn": [
+      "The crucial part of this final mission was the death of Rika and what came after that.",
+      "They couldn't just kill her whenever they wanted.",
+      "Doing it at the right time was vital."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Feng 4",
+    "labelJp": "鳳４",
+    "textJp": [
+      "「山狗による過剰な警備にかえって過敏に反応したのでしょうか。」"
+    ],
+    "textEn": [
+      "\"Maybe she's panicking at the Dogs' excessive security?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「………違うわね。",
+      "……漏洩じゃない。",
+      "予言よ、あれは。",
+      "……富竹の死と、そして私ですら知り得なかった偽装死体の状態まで知っていた。",
+      "…あの子は女王なのよ。"
+    ],
+    "textEn": [
+      "\"......No.",
+      "...It's not that information is being leaked.",
+      "She's predicting it.",
+      "She knew that Tomitake was going to die, and she even knew how my body was going to be found...",
+      "She's the queen."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "雛見沢の超常存在の頂点に立つ女王で巫女で降臨したるオヤシロさまの血脈に連なる正当な末裔。",
+      "神を欺くことなどできない、知られるのは宿命だったのよ。"
+    ],
+    "textEn": [
+      "She's the genuine heir to the blood of Oyashiro-sama, her priestess, and the queen positioned at the top of Hinamizawa's supernatural phenomena.",
+      "It's impossible to hide things from God."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "古手梨花をあっさり暗殺などできるわけがなかった。　…くすくす、いいわよ梨花ちゃん。"
+    ],
+    "textEn": [
+      "Assassinating Rika Furude won't be so easy. ...Hee hee. All right, Rika-chan."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "あなたと私、どちらがオヤシロさまの伝説を受け継ぐに相応しいか勝負しようじゃない。",
+      "あなたの死はオヤシロさまの祟りの最後を飾り、この村の伝説のフィナーレを飾る。"
+    ],
+    "textEn": [
+      "Let's see which of us deserves to inherit the legend of Oyashiro-sama.",
+      "Your death will be the final curse of Oyashiro-sama, and it will mark the finale of this legendary village."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "私の作り上げた物語はその時こそ本当の祟りになるの。",
+      "くすくすくすくす！」"
+    ],
+    "textEn": [
+      "When that happens, my plan will become the real curse.",
+      "Hee hee hee hee!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もう８時も過ぎた。",
+      "結局、魅音が園崎家のツケということで、おそば屋さんから出前を取ってくれた。",
+      "来てくれている４人の警官の分も取り、うどんやらそばやらどんぶりをみんなで食べた。",
+      "大石と話したら解散する予定だったが、まだ大石はやって来ない。",
+      "まさか、来ないなんて誰も思わないから、きっともうすぐ来るだろうとみんな悠長だった。",
+      "何しろこの時間だ。",
+      "雛見沢に来てしまうと、食事ができるところも限定されてしまう。",
+      "途中で食事をしているかもしれない。",
+      "ただ、４人の警官たちはそう気楽でもないようだった。",
+      "彼らも家がある身であり、何時までここにいなければならないのか大石に聞かされていなかった。",
+      "おそらく大石が交代を連れて来て、それで引き上げることができるのだろうと思っているようだった。",
+      "警官が電話を借りて署に電話すると、岐阜からそちらへ直行するとの連絡があった、",
+      "もうすぐ到着すると思うのでそれまで待機するようにと言われるのみだった。"
+    ],
+    "textEn": [
+      "It was now past 8 PM.",
+      "Mion ordered some noodles for us. Her treat.",
+      "We also ordered some food for the four officers, and we all ate together.",
+      "We were supposed to call it a night as soon as we talked to Ooishi, but he's still not here.",
+      "However, we all took it easy, assuming that they'd get here sooner or later.",
+      "It's getting late.",
+      "Once you get to Hinamizawa, there aren't many places to get something to eat.",
+      "I'm sure they're having a quick dinner before coming here.",
+      "However, the four officers seem anxious.",
+      "They all had families, but Ooishi didn't tell them how late they'd have to be out here.",
+      "They're hoping that Ooishi will bring other officers to relieve them so they can go home.",
+      "They called the station, but all they said was that Ooishi was on his way,",
+      "and we should wait, because he'll be here soon."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………遅いね、大石さん。」"
+    ],
+    "textEn": [
+      "\"......That Ooishi sure is late.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「渋滞にでも巻き込まれたんだよ。",
+      "ちょうど帰宅ラッシュの時間帯にぶつかっただろうからね。」"
+    ],
+    "textEn": [
+      "\"I'm sure he's stuck in traffic.",
+      "It's still rush hour...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「お巡りさんも、お昼からずっと居てくれてるんですのよね。",
+      "交代が来てあげないと可哀想ですわね。」"
+    ],
+    "textEn": [
+      "\"Those officers have been here since this afternoon, right?",
+      "They must be tired by now...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうだな。",
+      "何時に終わるのかもわからない仕事って疲れるもんなぁ。」"
+    ],
+    "textEn": [
+      "\"I know.",
+      "It sucks that they don't even know when they can go home.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「警察の人には休んでもらって、私たちが夜警にでも立ちます？",
+      "沙都子のトラップワークで不審者の接近を阻むとか。」"
+    ],
+    "textEn": [
+      "\"Should we patrol outside so they can get some rest?",
+      "We can have Satoko set up some traps to prevent strangers from coming in here.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「をっほっほ！",
+      "甘いですわね詩音さん。",
+      "ここは私と梨花の家なんでしてよ？",
+      "常に二重三重のトラップが張り巡らせてありますわ！」"
+    ],
+    "textEn": [
+      "\"Oh ho ho!",
+      "Good thinking, Shion-san!",
+      "However, just think... this is our house.",
+      "We already have several traps set up around this place!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そ、そうなんだ。",
+      "神社で遊ぶ時は注意しないとね…。」"
+    ],
+    "textEn": [
+      "\"R-Really?",
+      "We should be careful when we're around here...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "食事でお腹が膨らむと、みんなは再び談笑気分に戻っていた。",
+      "もちろん、本当はそんな油断した状態ではいけないのだが、大石がもうすぐ来てくれるというのが、心の余裕を生むようだった。",
+      "…でも、遅い。",
+      "大石が１時間と言ったら１時間だ。",
+      "魅音は渋滞に巻き込まれたのだろうと言ったが、私はそうは思わなかった。",
+      "大石なら渋滞の分も見込めるはず。",
+      "それも含めて１時間と言ったはずなのだ。",
+      "だから、もう大石が予告した到着時刻から１時間も余計に経過していた。",
+      "……途中で食事を取っているのかもしれないという考えは気休めにしかならなかった。",
+      "だが、いくら待てども大石は来なかった。",
+      "もう時計も１１時を指そうとしている。",
+      "下の警官たちも、昼間からずっと警備ではさすがに集中力が続かない。",
+      "境内で何人か集まって煙草を吸っているようだった。",
+      "それは仲間たちも同じだ。",
+      "沙都子が大きなあくびをする。",
+      "普段ならもう消灯している時間だった。",
+      "みんなも疲れたり眠くなったりで、次第に口数が減っていき、テレビを見たり漫画を読んだりして静かに過ごすようになっていた。",
+      "私も緊張感にさすがに疲れ、殺されるかもしれない感情が眠さに覆われようとしているのを感じていた。",
+      "もうすぐ、今日が終わる。",
+      "私の死ぬはずの日を越える。",
+      "たった一夜を越すだけで、私は運命に打ち勝てたことになるのだろうか。",
+      "いや、…明日の夜、明後日の夜を延々と戦っていかなくてはならない。",
+      "…その戦うための道筋を大石と共に探るはずだった。",
+      "その大石が現れないのでは、これからどうしていいのか見当もつかなかった…。",
+      "そんな沈黙を電話が切り裂いた。"
+    ],
+    "textEn": [
+      "With our stomachs full, the mood in the house had returned to a lighthearted one.",
+      "True, we shouldn't be so relaxed, but knowing that Ooishi would be here shortly made us feel relieved.",
+      "...But he's so late.",
+      "He said he'd be here in an hour.",
+      "Mion mentioned he might have gotten stuck in traffic.",
+      "But I'm sure Ooishi was considering that.",
+      "That's why he told me it'd take him about an hour.",
+      "And it had now been one hour since the time Ooishi was supposed to get here.",
+      "......I want to believe that he's getting something to eat on the way, but I'm starting to get concerned.",
+      "Ooishi still hasn't shown up.",
+      "It's almost eleven o'clock.",
+      "The officers are completely exhausted.",
+      "They had even started to smoke cigarettes outside.",
+      "My friends are becoming tired, too.",
+      "Satoko is yawning.",
+      "It's way past our bedtime.",
+      "Everyone else is getting tired and sleepy. We've been spending our time watching TV and reading manga.",
+      "I can feel my fear succumbing to sleepiness.",
+      "Today is almost over.",
+      "I'm going to survive the day I'm supposed to die.",
+      "Does that mean that I escaped my deadly fate?",
+      "No... I'll have to fight endlessly from tomorrow on.",
+      "...I was going to discuss that with Ooishi.",
+      "Since he's not here, I don't know what to do from this point on...",
+      "Suddenly, the phone rang, breaking the silence."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「大石さんか？！」"
+    ],
+    "textEn": [
+      "\"Is that Ooishi-san?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……もしもし、古手なのです。」"
+    ],
+    "textEn": [
+      "\"......Hello... This is the Furude residence...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「夜分遅くに申し訳ありません、興宮署の小宮山と申します。",
+      "すみません、うちの大石ですがそちらにおりますか？」"
+    ],
+    "textEn": [
+      "\"I'm sorry to call you this late. This is Komiyama calling from the Okinomiya police department.",
+      "By any chance, is Detective Ooishi there with you?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……いいえ。",
+      "ボクたちもずっと待っているところなのです。」"
+    ],
+    "textEn": [
+      "\"...No.",
+      "We've been waiting for him for a long time.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「そうですか…。",
+      "わかりました。申し訳ございませんが、そちらに行っている警官に、今から応援が行くので、引き継いだら帰投するようお伝えいただけますか。」"
+    ],
+    "textEn": [
+      "\"I see...",
+      "We'll send out more officers, so will you tell the ones there to leave once their relief comes?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……わかりましたです。",
+      "……それで、大石はどこに…？」"
+    ],
+    "textEn": [
+      "\"...Okay, I'll do that.",
+      "....So, where is Ooishi...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「夕方頃に直接そっちへ行くと連絡があったっきりだったので、てっきりそちらへお邪魔してるものと思っていました。"
+    ],
+    "textEn": [
+      "\"We got a call from him this evening saying he was heading there directly, so we thought he'd be with you already."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "大石と交代で警官たちが戻って来ることになってたのですが、いつまでも戻らないのでどうなっているのかと思いまして。」"
+    ],
+    "textEn": [
+      "The officers were supposed to return after Ooishi arrived, but they haven't come back, so we were wondering what was going on.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それを聞きたいのはこっちだと思ったが、電話の相手と喧嘩しても仕方がない。",
+      "私は伝言を下の警官に伝えると言い、受話器を置いた。",
+      "そのやり取りはみんなも聞いていたようだった。"
+    ],
+    "textEn": [
+      "That's what I'd like to know, but arguing with the man on the phone wouldn't accomplish anything.",
+      "I hung up and gave the message to the officers downstairs.",
+      "It looked like everyone already heard our exchange on the phone."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「どうしたんでございましょうね…。",
+      "遅いにもほどがありましてよ…？」"
+    ],
+    "textEn": [
+      "\"I wonder what's going on...",
+      "He's way too late...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「何か重要な仕事があったりして道草でも食ってるとか。」"
+    ],
+    "textEn": [
+      "\"Maybe he ran into some important case that he had to take care of.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「それなら電話すると思うな。",
+      "これから行くって電話したんだよ。",
+      "これだけ遅くなったら、絶対に電話してくれると思うな。」"
+    ],
+    "textEn": [
+      "\"He would have called us if so.",
+      "He told us that he was on his way.",
+      "I think he'd call us if something was going on...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…まさか、東京って連中に襲われたとかか？」"
+    ],
+    "textEn": [
+      "\"Was he attacked by Tokyo...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「まさかー、あははははは！"
+    ],
+    "textEn": [
+      "\"No way... ahahahahaha!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "…と、言いたいところですが、梨花ちゃまの言うような連中が相手なら、絶対そんなわけないとも言い切れないのが怖いところです。」"
+    ],
+    "textEn": [
+      "But... If they're really as scary as Rika-chama told us... that might be possible.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……多分、急用が入ったんだよ。",
+      "それで電話をするのを忘れてるんだと思う。",
+      "向こうも大の大人、それも天下の大石だよ。",
+      "そうそう簡単には消されないって！」"
+    ],
+    "textEn": [
+      "\"...He probably had something to take care of.",
+      "I bet he forgot to call us.",
+      "Remember, he's a tough guy!",
+      "No one can take him down that easily!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「来るなら早く来てほしいですわね…。",
+      "ふわああぁぁぁぁぁ……。」"
+    ],
+    "textEn": [
+      "\"I do hope he gets here soon...",
+      "Haaaaaaaw.......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子が大きなあくびをする。",
+      "みんなは笑うが、あくびを噛み殺している人も何人かいた。",
+      "いつまでも起きていることなどできない。",
+      "……交代の警官が来たら、解散しようという話が自然に出た。",
+      "私は多分、殺されるはずの時間をすでに超過して生きていると思う。",
+      "…多分それは警官が見張りをしてくれていたからに違いない。",
+      "あるいは鷹野が味方で山狗も味方で、彼らが未然に刺客を防いでくれていたのか…。",
+      "どちらが作用して運命が変わったのかはわからなかった。",
+      "あるいは運命など何も変わっておらず、今から私は殺されるのか。",
+      "警察のお陰なのか山狗のお陰なのかはわからないが、とりあえず今この瞬間、私が生きていることだけが結果だった。",
+      "やがて、境内の砂利を踏む足音が聞こえてきた。",
+      "きっと大石だと誰かが言ったが、多分、違うだろうと思った。",
+      "変に期待して大石でないと疲れる…。",
+      "考えが羽入的だったか。"
+    ],
+    "textEn": [
+      "Satoko yawned.",
+      "Everyone laughs, but some of them are trying not to yawn themselves.",
+      "We can't stay up forever.",
+      "We decided that we'd call it a night once the replacement officers arrived.",
+      "I'm sure I've survived past the time I was supposed to die.",
+      "That's probably because the police were protecting me.",
+      "Perhaps both Takano and the Mountain Dogs are also on my side, and they took care of the murderer...",
+      "I don't know who is changing my fate...",
+      "Maybe my fate hasn't been changed, and I'm going to get killed soon anyway.",
+      "I don't know if it's because of the police or because of the Mountain Dogs, but the only thing I know for sure is that I'm still alive.",
+      "Soon, I heard the noise of someone walking on the gravel on the shrine grounds.",
+      "One of my friends suggested that it might be Ooishi, but I doubt it.",
+      "I don't want to expect him and be disappointed when it's not...",
+      "I'm starting to think like Hanyuu."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「こんばんは、興宮署から参りました。",
+      "小宮山と申します。」"
+    ],
+    "textEn": [
+      "\"Good evening. I'm Komiyama,",
+      "I'm from the Okinomiya police department.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "結局、来たのは大石ではなくその同僚の刑事２人だった。",
+      "彼らが１階に詰めてくれることになり、４人の警官はこれで帰ってもらうことになった。",
+      "そしてそれはみんなにも言われた。"
+    ],
+    "textEn": [
+      "It wasn't Ooishi. Two of his fellow detectives had arrived instead.",
+      "They were going to stay downstairs and have the four officers return home.",
+      "They also told my friends to leave."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Komiyama",
+    "labelJp": "小宮山",
+    "textJp": [
+      "「あとは私たち警察が居ますので、どうぞ皆さんは家に帰ってください。",
+      "ご家族の方が心配しますよ。」"
+    ],
+    "textEn": [
+      "\"We'll stay here to protect her, so please go home.",
+      "Your families must be worried about you.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みんなありがとうです。",
+      "刑事さんたちが来てくれましたし、もう大丈夫なのです。」"
+    ],
+    "textEn": [
+      "\"......Thank you so much, everyone.",
+      "The detectives are here, so I'm okay now.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「本当に大丈夫？",
+      "邪魔でなければ私たちも泊まるよ？」"
+    ],
+    "textEn": [
+      "\"Are you sure?",
+      "We'll stay here tonight if you like.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……大丈夫なのです。",
+      "第一、お布団も寝巻きもないのです。」"
+    ],
+    "textEn": [
+      "\"......I'm fine.",
+      "Besides, I don't have any extra pajamas and blankets for you guys.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあ、明日。",
+      "これからはなるべく梨花ちゃんと一緒にいるようにしよう。",
+      "部活は梨花ちゃんの家でやるっていうのでどうかな。」"
+    ],
+    "textEn": [
+      "\"See you tomorrow, then.",
+      "We'll try and stay with you as much as we can from now on.",
+      "How about we do club activities here, after school?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あら、それなら素敵でございますわよ！」"
+    ],
+    "textEn": [
+      "\"That would be wonderful!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー。",
+      "ボクたちの家の床が抜けてしまうかもしれませんです。」"
+    ],
+    "textEn": [
+      "\"......Meep.",
+      "My floor might break with all these people here.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わっはっは、違いねぇなー！」"
+    ],
+    "textEn": [
+      "\"Wa ha ha ha! It might really break!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「じゃ、梨花ちゃま。",
+      "私たちこれで帰りますけど、…用心してください。",
+      "暗闇で一人になるなんてことは絶対しないように。」"
+    ],
+    "textEn": [
+      "\"Well Rika-chama.",
+      "We're going home now, but be careful.",
+      "Do not go out alone in the dark under any circumstances.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……気をつけますです。」"
+    ],
+    "textEn": [
+      "\"......I'll be careful.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあね。",
+      "また明日。」"
+    ],
+    "textEn": [
+      "\"All right.",
+      "See you tomorrow.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……はいです。",
+      "また、明日。」"
+    ],
+    "textEn": [
+      "\"...Yes.",
+      "See you tomorrow.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "また明日。",
+      "…その言葉は果たして現実になるのか否か。",
+      "……今の私にわかるはずもなかった。",
+      "百年間、ほとんどのことを試してきた。",
+      "なので大抵のことが起こってもすでに経験があるから知っていることばかりだ。",
+      "……だからこそ、記憶に残らない自分の命日は、まったく予想も想像もつかないとても不安なものだった。",
+      "今が運命から脱しているのか飲まれているのかもわからない。",
+      "わかるのは、何かの解決策を見つけるまで、この押し潰されそうなくらいに不安な夜はずっと続いていくということなのだ…。",
+      "寝る支度を始めようとしたら、沙都子が今夜は寝巻きではなく普段着で寝たほうがいいなんて言い出す。",
+      "もし就寝中に襲われることを想定して、いつもの普段着の方がいいだろうと言うのだ。",
+      "大袈裟だが、沙都子なりの心遣いだ。",
+      "私は逆らわず従うことにした。",
+      "沙都子はさっきまであんなにも眠そうだったのに、この神社の周りにはいろいろなトラップが仕掛けてあり、",
+      "境内を堂々と通ってこない怪しげな侵入者は必ず気取れるようになっていると力説してくれた。",
+      "トラップ自慢がほとんどだが、多分、本人は私を安心させたくて言っているのだろう。",
+      "……みんなが帰った後、私が不安そうな表情を浮かべたことに気付いたのかもしれない。",
+      "沙都子の心遣い、仲間みんなの心遣い。",
+      "……そういうのに触れているだけで、打ち明けて正解だったように思えるのだった。",
+      "たとえ、私の運命に何の影響も及ぼさないとしても。"
+    ],
+    "textEn": [
+      "See you tomorrow.",
+      "...Am I really going to see them tomorrow...?",
+      "...I have no clue.",
+      "I've tried so many things over the past one hundred years.",
+      "I've done many things, and I have memories of most of them.",
+      "That's why I feel so scared on the day I die... it's the only day that I have no memory of.",
+      "I don't even know if I'm approaching or escaping my death right now.",
+      "All I know is that this fear is going to continue until I find some kind of solution...",
+      "As I started getting ready to go to bed, Satoko suggested that I should sleep in my regular clothes, rather than in my pajamas.",
+      "She was thinking that I should remain dressed, just in case someone tries to attack me in my sleep.",
+      "It sounded ridiculous, but she was just trying to be considerate.",
+      "I decided to do what she told me to.",
+      "Satoko seemed so sleepy until a few minutes ago, but she suddenly started passionately explaining to me all the traps she set on the shrine grounds.",
+      "She assured me that strangers will end up trapped if they tried to sneak inside this building.",
+      "To someone else, it might sound like she was just trying to brag, but Satoko was trying to make me feel better.",
+      "......After everyone else left, she noticed how scared I looked.",
+      "Satoko's kindness, and everyone else's kindness.",
+      "I feel it was the right decision for me to talk to my friends.",
+      "Even if that won't end up changing my fate."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……………………梨花。」"
+    ],
+    "textEn": [
+      "\"............Rika.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "羽入が再び現れた。",
+      "その表情は相変わらず暗く、いつ私が殺されてもおかしくないと思っているのが見て取れた。",
+      "でも、私は実は少し安心し始めていた。",
+      "今日の代わりに明日殺されるかもしれないが、今夜は少なくともこのまま無事に過ごせそうな気がしていたからだ。",
+      "確かに、大石が来てくれなかったという不安要素はある。",
+      "でも、代わりに同僚の刑事が来てくれていて１階で不寝番をしてくれているのだ。",
+      "彼らがいてくれる限り、少なくとも今夜は安心だと思えた。"
+    ],
+    "textEn": [
+      "Hanyuu showed up again.",
+      "She looked upset, so she was probably still thinking that I could get killed at any minute.",
+      "But I'm actually starting to feel a little better...",
+      "I might get killed tomorrow, but I feel like I can rest safely at least tonight.",
+      "I'm more concerned about the fact that Ooishi didn't show up.",
+      "Still, even if he didn't, the other detectives are here, and will stay on guard downstairs without sleeping.",
+      "As long as they're here, I think I'll be safe tonight."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……どうしたの？",
+      "お腹でも空いたの？",
+      "出前じゃ甘いのはないからね。",
+      "冷蔵庫のジュースでも飲む？」"
+    ],
+    "textEn": [
+      "\"...What's wrong?",
+      "Are you hungry?",
+      "I didn't eat anything sweet today.",
+      "Do you want me to drink some juice?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "冷蔵庫のジュースの話をされたら、普段の羽入なら躍り上がって喜ぶ。",
+      "……でも、羽入はそうはしなかった。",
+      "羽入の顔は白く、",
+      "…深刻というよりは淡白な、",
+      "そんな感じ。",
+      "…普段と明らかに違う様子だった。"
+    ],
+    "textEn": [
+      "Hanyuu would usually cheer right up when I suggested drinking some juice...",
+      "but not this time.",
+      "Her face looked pale...",
+      "as if she wasn't",
+      "even alive.",
+      "Something out of the ordinary had clearly happened."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「どうしたの…。」"
+    ],
+    "textEn": [
+      "\"What's wrong?\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……………もうすぐ時間が、やって来ますのです。」"
+    ],
+    "textEn": [
+      "\".........It's almost time.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは、言ったというよりは、宣告した、というべきだった。",
+      "羽入とて死の直前の記憶は遡って破かれる。",
+      "だから死の直前などわかるはずがない。",
+      "……にもかかわらず、羽入はそうだと言うのだ。",
+      "きっと、……私たちの体の細胞が覚えているのだ。",
+      "自分というものの命運を、自分以上によく知っているのだ…。",
+      "さっきまでの頼もしい気持ち、みんなと一緒ならきっと何とかなるという気持ちが、",
+      "まるで浮き輪に穴が開いたように漏れていって、……それに掴まっていた私は絶望の海に頭だけを覗かせて沈むまいともがく。",
+      "駄目だ、この感情に飲まれるな…！！",
+      "信じろ、信じろ信じろ…。"
+    ],
+    "textEn": [
+      "That sounded far more like a declaration than a prediction.",
+      "Even Hanyuu doesn't have any memories of my death.",
+      "There's no way she can tell when I will be killed.",
+      "......However, she sounded so certain just now.",
+      "Perhaps... we can feel it in the very cells of our body.",
+      "Our bodies understand fate far better than we do.",
+      "Up until now I felt reassured, that we could get through it somehow if we're all together.",
+      "But as I clung to that life preserver with a hole leaking air... I was starting to drown in a sea of despair, and struggling to keep my head above water.",
+      "No, I can't let myself feel that way...!!",
+      "I have to believe!"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……大丈夫よ、羽入。",
+      "……私は抗う。",
+      "例え明日殺されるとしても、今夜殺されるという運命にだけは抗う…！」"
+    ],
+    "textEn": [
+      "\"...It's okay, Hanyuu.",
+      "...I'm going to fight.",
+      "Even if I get killed tomorrow, I'm not going to die tonight...!\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\".............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "羽入は薄い悲しみの表情を浮かべるだけだった…。",
+      "私の無駄な意気込みが、そのまま絶望の落差になるとでも言わんばかりに。",
+      "トラップ自慢を続ける沙都子を見る。",
+      "…今から私が殺されるということは、一緒にいる沙都子もきっと無事では済まない。",
+      "私はトラップ自慢を遮った。"
+    ],
+    "textEn": [
+      "Hanyuu just gave me a look of faint sadness.",
+      "That silence told me that my pitiful hope was going to push me down into a futile reality.",
+      "I stared at Satoko as she continued to brag about her traps.",
+      "...If I'm getting killed shortly, Satoko won't be safe either.",
+      "I quickly interrupted her talk about traps."
+    ]
+  }
+]

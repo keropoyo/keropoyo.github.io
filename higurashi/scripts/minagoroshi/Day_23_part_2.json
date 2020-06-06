@@ -1,0 +1,647 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹たちの死については、もちろん入江の耳にも入っていた。",
+      "そして、入江が電話している様子を見る限り、東京も診療所も混乱しているように見えた。",
+      "……自分たちの研究のためには人の命などどうとも思わないくせに、内部の人間の死には大騒ぎするのが何だか皮肉だった。",
+      "そして部屋には、鷹野の部下の小此木の姿もあった。",
+      "小此木は山狗の隊長だ。",
+      "……この男が今も私の警護をしてくれているのかの確認が最大の目的だった。",
+      "過去の場合、上司の鷹野が死ぬと、彼らは私に構わなくなってしまうことがほとんどだ。"
+    ],
+    "textEn": [
+      "Irie had already heard about the deaths of Tomitake and Takano.",
+      "It seemed like both the clinic and the office in Tokyo had flown into a panic over it.",
+      "...It's funny how they make such a big fuss about their own people when they don't care about what happens to other people's lives if it would get in the way of their research.",
+      "Takano's subordinate, Okonogi, was in the room.",
+      "Okonogi is the leader of the Mountain Dogs.",
+      "I came here to make sure he's still willing to protect me.",
+      "Based on past experience, they tend to lose interest in protecting me after Takano dies."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……小此木。",
+      "鷹野が死んでしまいましたが、ボクは大丈夫なのですか…？」"
+    ],
+    "textEn": [
+      "\"......Okonogi.",
+      "Takano is dead, but am I still safe...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「大丈夫ですよ梨花さん。",
+      "我々が今後も厳重に警護してますんね。",
+      "…ですから、警察に頼ろうとしなくても問題ないです。」"
+    ],
+    "textEn": [
+      "\"Don't worry Rika-san.",
+      "We'll still keep up the tight security around you.",
+      "You don't have to call the police.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…厳重に警護というのはこういう意味か。",
+      "私が大石と話していたことは彼らに聞かれていたようだった。"
+    ],
+    "textEn": [
+      "...I guess this is part of that tight security?",
+      "They must have been listening to my conversation with Ooishi."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……大石に聞きました。",
+      "鷹野が実は死んでいないというのは本当ですか？」"
+    ],
+    "textEn": [
+      "\"......Ooishi told me something.",
+      "Is it true that Takano isn't really dead?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「まさか。",
+      "岐阜県警の正式な発表ですんね。",
+      "大石という刑事は今年で定年、オヤシロさまの祟りを何とか解決したい一心で、何でも話をおかしくしようとするクセがありよります。"
+    ],
+    "textEn": [
+      "\"That can't be true.",
+      "The Gifu police department made an official announcement.",
+      "That Ooishi is retiring this year, isn't he? Sometimes he makes up stories because he's desperate to solve the curse of Oyashiro-sama."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "あいつの言うことに耳を貸さん方がいいでしょう。」"
+    ],
+    "textEn": [
+      "You shouldn't pay attention to anything he says.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…確かにそれは言うとおりだった。",
+      "昭和５８年の大石は定年前のラストチャンス。",
+      "溺れる者は藁をも掴むの故事どおり、どんなデマにも飛びつく悪癖があった。"
+    ],
+    "textEn": [
+      "...Well, he's not wrong.",
+      "This year is Ooishi's last chance.",
+      "Because he's so desperate, he's developed a bad habit of listening to every rumor he hears."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……では、小此木はこの事件をどう見ていますですか…？」"
+    ],
+    "textEn": [
+      "\"......What's your opinion about this, Okonogi?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「現在、上が調査してますんね、いい加減なことは言えません。",
+      "殺された二人の関係を知る以上、内部犯行の可能性が極めて高いちゅうんは、間違いないんじゃないかと。」"
+    ],
+    "textEn": [
+      "\"Right now, they're still investigating, so I can't say anything.",
+      "Knowing the relationship between those two... I think it's clear that this was done by someone within the organization.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その話を聞きながら入江の様子を見る。",
+      "……どうやら、富竹たちを殺した嫌疑は入江に掛けられているようで、入江は濡れ衣を晴らそうと必死だった。",
+      "やがて電話が終わった。",
+      "献身的に働いてきたのに、真っ先に自分が疑われるとは思わず、入江は少し憤慨していた。"
+    ],
+    "textEn": [
+      "I glanced over at Irie as I listened to Okonogi speak.",
+      "...It seemed that whoever he was talking to over the phone was accusing him of killing them. Irie was frantically trying to prove his innocence.",
+      "Soon enough, he hung up the phone.",
+      "Irie looked upset that he was under suspicion after working so hard for the organization."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「あぁ梨花ちゃん。",
+      "すみませんね、だいぶお待たせして。」"
+    ],
+    "textEn": [
+      "\"Oh, Rika-chan.",
+      "I'm sorry for making you wait.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……入江も大変なことになったようなのです。」"
+    ],
+    "textEn": [
+      "\"......It seems like you're in big trouble.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「お聞きになったとおりです。",
+      "……富竹さんたちの死は何かの陰謀による可能性が非常に高いです。",
+      "そして、東京はその黒幕が私であると思っているようです。"
+    ],
+    "textEn": [
+      "\"Just as you heard.",
+      "...It sounds like there's some big conspiracy behind their deaths.",
+      "People in Tokyo think that I'm the one who's pulling the strings."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "……まったく、どうしてそういう方向になるのか大いに疑問です！」"
+    ],
+    "textEn": [
+      "...Good grief, I have a lot of questions as to how they figure that!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入江は珍しく感情を露にしていた。",
+      "自分の功績が認められず、恩を仇で返されたような気持ちなのだろう。",
+      "だが、入江は研究の縮小に伴う予算の削減に頑強に抵抗していた経緯があった。",
+      "研究者である入江にとっては当然の主張でも、東京はそうは思っていなかったということなのかもしれない。",
+      "……どの道、みんなみんな胡散臭い連中だ。"
+    ],
+    "textEn": [
+      "I rarely ever saw Irie get so emotional.",
+      "He must be feeling as though all his effort is being repaid with injustice.",
+      "However, it's a fact that Irie was trying to fight against the budget cuts and downsizing of his research team.",
+      "Tokyo is thinking that could be his motive for killing them.",
+      "...In any case, everyone in the organization is suspicious."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「梨花ちゃんの心配はわかってます。",
+      "鷹野さんたちを殺した何者かが次にあなたを狙わないとは限らないですからね。",
+      "東京もそこは特に気にしていました。」"
+    ],
+    "textEn": [
+      "\"I understand how scared you must feel.",
+      "The people who attacked Takano-san and Tomitake-san could be after you, too...",
+      "The people in Tokyo are also concerned about that.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「山狗にも、あなたの警護体制を最高にするよう命令が来ています。",
+      "ご安心してくださいんね。」"
+    ],
+    "textEn": [
+      "\"We got the order to tighten up your security.",
+      "Don't worry.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……それが聞ければ、ボクは少し安心なのです。」"
+    ],
+    "textEn": [
+      "\"...I'm very relieved to hear that,\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "山狗たちにそういう命令が来ていると直接聞けたのは初めての経験だった。",
+      "今までは、疑惑の目を向けられた入江の監視に体制が移り、私は無視されることがほとんどだった。",
+      "だから、富竹たちの死は防げなくても、今回の世界はかなり有利な条件であることを確認できた。"
+    ],
+    "textEn": [
+      "This was the first time the Mountain Dogs had ever tightened up my security.",
+      "They usually become so busy keeping tabs on Irie after Tomitake and Takano's deaths that they end up ignoring me.",
+      "Even though they're dead, I'm still in a pretty favorable situation."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……鷹野たちを殺した犯人に、心当たりはないのですか？」"
+    ],
+    "textEn": [
+      "\"...So do you have any idea who killed them?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「東京の皆さんも調べられています。",
+      "状況を見る限り、内部事情に精通した人間の仕業です。",
+      "……はははは、どうやら真っ先に疑われたのは私のようです。」"
+    ],
+    "textEn": [
+      "\"People in Tokyo are investigating that now.",
+      "Based on the situation, it's clear that this was done by someone within the organization.",
+      "...Ha ha ha ha, I guess I'm their prime suspect.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……富竹にああいう死に方をさせられるのは入江だけなのです。」"
+    ],
+    "textEn": [
+      "\"...You're the only one who could kill Tomitake like that.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「そ、そんなことはありません。",
+      "恐らく東京の方もH173の話をしているのでしょうが。",
+      "あれは危険な目的での研究が中止された時、全て破棄されたはずです。",
+      "あんなことは不可能だ…！」"
+    ],
+    "textEn": [
+      "\"Th-That's not true.",
+      "The people in Tokyo are discussing the possible use of H173.",
+      "But that drug was destroyed when the research was cancelled.",
+      "It's impossible...!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「ですんが所長。",
+      "こういうことが起こってしまった以上、東京は疑わざるを得ません。",
+      "それに富竹氏には予防薬が予め与えられていたはず。",
+      "にもかかわらず発症したんです。」"
+    ],
+    "textEn": [
+      "\"However...",
+      "They have no choice but to suspect you in this case.",
+      "Mr. Tomitake even took a vaccine before he came here.",
+      "But he still got infected.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「天文学的低確率で起こった偶然だとしか言えません…。",
+      "とにかく、絶対そんなことはありえないんです…！」"
+    ],
+    "textEn": [
+      "\"It must just be an extremely unlikely coincidence...",
+      "Anyway, it's just impossible...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…入江は普段は落ち着きのある人間なのだが。",
+      "…東京から疑いの目を向けられる綿流し以降は、落ち着きを失ってしまうことがほとんどだった。"
+    ],
+    "textEn": [
+      "...Irie is usually a very calm person...",
+      "but once the people in Tokyo start suspecting him, he often loses his mind."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……鷹野が犯人、ということはありませんですか？",
+      "鷹野なら内部の人間です。」"
+    ],
+    "textEn": [
+      "\"......Do you think Takano might be the culprit?",
+      "She's someone within the organization.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「鷹野さんが…？",
+      "ま、まさか……。」"
+    ],
+    "textEn": [
+      "\"Takano-san....?",
+      "N-No way...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "とは言いつつも、鷹野が犯人だったら全ての理由は説明できることに入江は気付きつつあった。",
+      "……ただ、その仮説に自信を持たせる動機がまったく思いつかなかった。",
+      "人は動機を求める生き物だ。",
+      "誰がやったかよりも、どうしてやったかを知りたがる。",
+      "……よくよく考えればそれはとても取るに足らないことかもしれない。",
+      "動機なんて、犯人が打ち明けるまでわからない。",
+      "それを他人が想像して至ろうという時点で無意味だ。",
+      "だから、動機がわからないから鷹野が犯人ではありえないという入江の考え方はきっと間違っていた。"
+    ],
+    "textEn": [
+      "But as he spoke, Irie also started to realize that everything could be explained if Takano was the culprit.",
+      "......But I don't know how to persuade him that it's the truth.",
+      "More than anything, people want to hear a motive.",
+      "Not who did something, but why.",
+      "...Knowing that probably isn't as important as it sounds.",
+      "After all, you never know the motive unless the suspect talks.",
+      "Guessing about the motive is just a waste of time.",
+      "In other words, it's stupid to assume that Takano isn't the culprit just because I don't know what her motive is."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「梨花さん、確証もないことを言っちゃあいけませんね…。",
+      "あれだけ親切にしてくれたんじゃあないんですか。",
+      "それを疑っちゃあ悪いですんね。」"
+    ],
+    "textEn": [
+      "\"Rika-san, you can't say something like that without any proof...",
+      "She was very nice to you.",
+      "How can you suspect her after that?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "小此木が、まるで恩知らずだとでも言いたそうな嫌味っぽい目で笑いながら私に言った。"
+    ],
+    "textEn": [
+      "Upon hearing me be ungrateful towards his boss, Okonogi flashed me an unpleasant smile."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………………。」"
+    ],
+    "textEn": [
+      "\"...........\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "確かに私は鷹野にたくさん世話になった。",
+      "それを思えば疑うのは恩知らずかもしれない。",
+      "でも、……だからといって、疑いから外すことはまだできない。",
+      "それとも、私も大石と同じ悪い癖に取り憑かれているのか？",
+      "何とか自分の運命から逃れたいと足掻くあまり、異説奇説に飛び付きたがっているのか…？"
+    ],
+    "textEn": [
+      "It's true that Takano was very nice to me.",
+      "It might be disrespectful of me to suspect her.",
+      "However... I still can't trust her completely yet.",
+      "Perhaps I've developed the same bad habit as Ooishi.",
+      "Am I believing every crazy theory I hear just because I'm desperate to escape from my fate...?"
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「とにかく、私たちの身近で、何かよくないことが起こりつつあるのは間違いありません。",
+      "用心するに越したことはないでしょう。」"
+    ],
+    "textEn": [
+      "\"In any case, something bad is going on around here.",
+      "We all need to be careful.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「ご心配なく。",
+      "所長に対する警護体制も最高にするよう命令を受けておりますんね。」"
+    ],
+    "textEn": [
+      "\"Don't worry.",
+      "We've received an order to tighten up your security too...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入江が苦笑いする。",
+      "…きっと、警護でなく監視の間違いだと胸の中で苦笑しているだろう。"
+    ],
+    "textEn": [
+      "Irie smiled bitterly.",
+      "...For him, their protection wouldn't be too different from stalking."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「梨花さんも警察には不用意なことをしゃべらないようにお願いしますん。",
+      "……わかってると思いますが、場合によっては機密保持のため、厄介なことになるかもしれませんので。」"
+    ],
+    "textEn": [
+      "\"Rika-san, make sure that you don't give up too much information to the police.",
+      "I think you understand, but you could create a problem if you talked to them about our secrets.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは私が不用意なことをしゃべった相手を消すという意味だ。",
+      "……そんなのは今この場で改めて言われることでもない。",
+      "ただ、",
+      "………もし本当に鷹野が犯人なら。",
+      "鷹野の部下である小此木もその一味に違いなかった。",
+      "…そう考えれば、小此木が鷹野が犯人かもしれないというとすぐに否定したがるのも納得がいった。",
+      "でも、もしもそうならば恐ろしい。",
+      "鷹野が敵で、",
+      "山狗も敵なら、",
+      "…つまりこの診療所は丸ごと敵の巣だということになる。",
+      "入江は所詮、所長という名を冠した単なる研究者に過ぎないから、何があっても知りはしないだろう。",
+      "でも考えれば考えるほどにわからない。",
+      "……鷹野がどうしてそんなことをしなくてはいけないのか？",
+      "…あぁもう、動機なんか何の意味もないとわかっているのに考えてしまう人としての身が憎い。",
+      "鷹野は本当に犯人なのか。",
+      "それとも、私も大石に感化されて妙な妄想に取り憑かれているのか。",
+      "こう考えると、",
+      "……山狗の警護はむしろ、",
+      "羊の番を狼にさせるようなものなのかもしれない。",
+      "私は今日までの百年間。",
+      "…自分を殺す何者かの正体を掴めず、自分の守りを固めるために入江機関に媚を売ってきた。",
+      "…それがそもそもの間違いなのだとしたら…？",
+      "………いや、",
+      "……入江に悪意も下心もないのは間違いない。",
+      "数多の世界で彼の真摯な姿を見てきた。",
+      "だから入江だけは信用できる。",
+      "……問題は頼りにならないことだけだ。",
+      "小此木と目が合う。",
+      "大船に乗った気でいてくださいんね、と胸を叩き余裕をアピールする笑みは、今の私には悪意が篭っているように見えてならない。",
+      "………私も、いつの間にか雛見沢症候群を発症させてしまい、疑心暗鬼に取り憑かれてしまったか……？",
+      "何が何やらわからない。",
+      "誰が味方で誰が敵かわからなくなる。",
+      "……いや、そんな情けないことを言うな。",
+      "数多の世界で知ってきた、信頼を寄せるべき相手を信じるんだ。",
+      "確実に私の敵じゃないのは、",
+      "…",
+      "…",
+      "入江、",
+      "大石。",
+      "……そして、私の仲間たち。",
+      "だが、小此木が鷹野の手先なら、鷹野を疑い始めている私を厳重に監視してくるだろう。",
+      "下手な接触を悟られれば、彼らの本来任務に従い、あっさり消されてしまうかもしれない。",
+      "……………私はこの世界が再び始まった時、何て残り少ない時間の世界だろうと嘆いたが。",
+      "…そんなことはない。",
+      "……なんて長く濃密な２週間なのか。",
+      "そして多分、私が迎える命日までもう何日もないだろう。",
+      "私に何ができる？",
+      "何が足掻ける？",
+      "……羽入が諦めるようにやはり今回も駄目なのか？"
+    ],
+    "textEn": [
+      "He was implying that he'd have to kill anyone I talked to.",
+      "...This isn't the first time they've warned me about this.",
+      "It's just......",
+      "what if Takano really is the culprit...?",
+      "If she is, then Okonogi is almost certainly involved too.",
+      "...Then it'd make sense that he wouldn't want me to suspect Takano.",
+      "But that would be horrifying.",
+      "If Takano was my enemy,",
+      "then the Mountain Dogs were too.",
+      "...This whole clinic is a lion's den.",
+      "Irie is just a researcher, so he probably wouldn't know what's really going on.",
+      "The more I thought about it, the more confused I got.",
+      "Why would Takano do something like this?",
+      "I thought I'd just convinced myself that the motive shouldn't even matter, but I can't stop thinking about it...",
+      "Is Takano really behind it all?",
+      "Am I going as crazy as Ooishi just because of how badly I want to solve this mystery?",
+      "Perhaps...",
+      "the Mountain Dogs are more like",
+      "wolves looking after a flock of sheep.",
+      "I've lived for over a hundred years.",
+      "I never once found out who killed me, and I stayed close to the Irie Institute so that they'd protect me.",
+      "...What if that was my big mistake...?",
+      "......Well...",
+      "I'm sure that Irie has no bad intentions.",
+      "In many lives, I got to see just how genuine his feelings are.",
+      "I can trust him.",
+      "...However, he's not really reliable.",
+      "Okonogi glanced over at me.",
+      "He smiled and told me not to worry, but I noticed an evil glint in his eyes.",
+      "......It's possible that I have Hinamizawa Syndrome, and that was just a hallucination.",
+      "I don't understand anything.",
+      "I don't even know who my enemies are anymore.",
+      "...There's no point in thinking about this any longer.",
+      "I have to only trust who I know I can trust for sure.",
+      "There are only a few of those people, though.",
+      "...",
+      "...",
+      "Irie,",
+      "Ooishi...",
+      "and my friends.",
+      "If Okonogi is on Takano's side, he will be watching me very closely.",
+      "If I started accusing Takano of anything, who knows what they'd do to me.",
+      ".........When this world first began, I thought I had no time left.",
+      "...But that wasn't true.",
+      "...The number of things that happened in just two weeks was immense.",
+      "I probably only have a few more days left until the day of my death.",
+      "What can I do?",
+      "How can I change this?",
+      "Am I supposed to just take Hanyuu's advice and resign this time?"
+    ]
+  }
+]

@@ -1,0 +1,1040 @@
+[
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……圭ちゃん、本気で言ってんの？",
+      "もし冗談だったら、かなり怒るよ？」"
+    ],
+    "textEn": [
+      "\"...Kei-chan, are you serious?",
+      "I'm going to get really mad if this is a joke.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花失踪を疑う圭一に、私は不謹慎なことをたとえ思いつきでも喋るなと怒った。"
+    ],
+    "textEn": [
+      "I scolded Keiichi for suspecting that Rika had disappeared."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃん。",
+      "本当に冗談だったなら、怒るんじゃなく、笑おうよ。",
+      "だって冗談なんだから。"
+    ],
+    "textEn": [
+      "\"Mii-chan.",
+      "If it really is a joke, don't get mad, smile.",
+      "It would be a joke, after all."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……私たちはそれが冗談であることを確かめなくちゃいけない。」"
+    ],
+    "textEn": [
+      "...We need to go make sure whether it's a joke or not.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………そうだね。",
+      "…機嫌の悪そうなことを言ってごめん。」"
+    ],
+    "textEn": [
+      "\"......You're right.",
+      "...Sorry for getting upset.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナにたしなめられた。",
+      "…こいつは、一見穏やかそうな顔をしているくせに、…その薄皮の一枚下には、とてつもなく恐ろしいものを潜ませている。",
+      "…根拠なんかないけど、そう思う。",
+      "どうもこいつには、あの雨の日の停留所以来、苦手意識があった。",
+      "嫌いとか馬が合わないとか、そういうのじゃない。",
+      "………なんて言うのか、",
+      "……妥当な言葉が思いつかない。",
+      "……あぁ、",
+      "…そうだ。",
+      "この感覚はあれだ、思い出した。",
+      "昔、小さい頃、テニスに憧れてた。",
+      "それで、親戚にテニスコートに連れて行ってもらって、真似事をして、うまいうまい才能があると煽てられていい気分になった。",
+      "実際にはうまいも何も、ラケットで戯れただけで、子供のボール遊びと何も変わらないのだが、",
+      "それでも私は才能があると褒められたのがすごい嬉しかったんだ。",
+      "それで、連休明けに登校して、自分はテニスができる、才能があると褒められたといい気になって自慢した。",
+      "………そしたらだ。",
+      "普段取り立てて目立たない、何の特徴もなく、居ても居なくても大差のない子が、私もやってるよ…と名乗り出たのだ。",
+      "しかも、やってるよどころか、その子はちゃんとコーチがついて練習している本格派で、",
+      "サーブはほとんど決まるようになったなんて威張ってる私なんかとは比べ物にならなかった。",
+      "その時の、周りの興味を瞬時に他人に奪われた寂しさと、自分の権威が辱められたあの気持ちに、……そっくりなのだ。",
+      "普段、存在の価値がないくせに、",
+      "……実は、自分よりもよっぽど経験豊富な先輩だったと分かった時の居心地の悪さ。",
+      "そう、あの停留所のレナにはそれを感じるのだ。",
+      "今、私は自分を鬼だと思っている。",
+      "鬼ヶ淵村に住まった、半人半鬼の仙人たちの血を呼び覚ましたと信じている。",
+      "実際、真っ当な人間が踏み込めない世界に足を踏み入れている。",
+      "そして人間に考えられる限界の枠をすでに超えていることを知っている。",
+      "そんな自分を、一種の超越者だと思い、ある種の優越感を持っていたのは否めない。",
+      "なのに、…この竜宮レナという娘と目が合うと、",
+      "………あのテニスの時のような感情を味わうのだ。",
+      "どうして……？",
+      "なんでこんな小娘に、私は屈服しそうになるのか…？",
+      "…そう言えば、動物の喧嘩って、睨み合ったり強さを誇示したりで決着することが多いって聞いたことがある。",
+      "優劣を殴り合わなくちゃ確かめられないのは人間ばかりで、",
+      "ほとんどの動物は、睨み合うだけで互いの優劣を知るのだと言う。",
+      "じゃあつまり、",
+      "………そういうことなのかッ……？！"
+    ],
+    "textEn": [
+      "Rena rebuked me.",
+      "While she looked quiet, I felt that she could be very terrifying under her skin.",
+      "I had no basis for that impression, but I still felt that way...",
+      "I just didn't like her. I had disliked her ever since that rainy day at the bus stop.",
+      "It wasn't that we didn't get along, though.",
+      "How should I put it?",
+      "...I was at a loss for how to explain.",
+      "Ah...",
+      "that was it.",
+      "I found a good example.",
+      "When I was little, I always wanted to play tennis.",
+      "I had my relatives take me to a tennis court, and they all praised my skill.",
+      "I was doing nothing more than hitting a ball with a racket.",
+      "But they told me I was talented, and that made me happy.",
+      "When I went to school, I told my classmates I played tennis, and they told me that I was talented too.",
+      "Then...",
+      "one of my classmates, who was usually very quiet, said she also played tennis.",
+      "Not only did she play, but she took lessons.",
+      "Although I'd bragged about my serve, I was no match for her.",
+      "I felt lonely and insulted that everyone was paying attention to her and not me.",
+      "She was usually very quiet",
+      "but suddenly, I realized that she knew more and had a lot more experience than me.",
+      "Rena at the bus stop was just like that.",
+      "I thought of myself as a demon now.",
+      "I'd awakened a part of me that was half human and half demon, the part that lived in Onigafuchi Village.",
+      "In fact, I'd already stepped into a world where normal humans couldn't go.",
+      "I'd already surpassed my human limits.",
+      "I genuinely thought of myself as a superior being, having transcended the realm of mortals.",
+      "But... when my eyes met with Rena Ryuugu's,",
+      "I felt what I did long ago, with tennis.",
+      "...Why?",
+      "Why did I feel that way with Rena?",
+      "I'd heard that in the animal world, during battle, animals glare at each other to display their strength.",
+      "Only humans have to punch or kick each other to feel superiority or inferiority.",
+      "Most animals can tell just by glaring at each other.",
+      "In that case...",
+      "Could it be the same with Rena...?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…魅ぃちゃん、大丈夫？」"
+    ],
+    "textEn": [
+      "\"Mii-chan, are you okay?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ん？",
+      "あぁあぁ、ごめん…！",
+      "ほらさ、昨日から寝不足で…、ごめん…。」"
+    ],
+    "textEn": [
+      "\"Hmm?",
+      "Ah, ah, yeah, sorry!",
+      "I haven't slept since yesterday, y'know... Sorry...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "圭一はハシゴを立てかけ、あの二人の住居でもある倉庫小屋の二階の窓をうかがっていた。",
+      "私はそのハシゴを押さえている役。",
+      "…ぼーっとしていたことをレナに注意され、はっと我に返った。"
+    ],
+    "textEn": [
+      "Keiichi climbed up a ladder and tried to peek into the window on the second floor where Rika and Satoko lived.",
+      "It was my job to hold down the ladder.",
+      "Rena cautioned me to hold onto it tightly."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃん、私、念のため、本宅の方も見てくるね！"
+    ],
+    "textEn": [
+      "\"Mii-chan, I'm going to go check the main house just to be sure, okay?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "すぐ戻るから！」"
+    ],
+    "textEn": [
+      "I'll be right back!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ぁ、…あぁ、ごめん。",
+      "よろしく！」"
+    ],
+    "textEn": [
+      "\"A-Ah, okay.",
+      "Be careful!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは駆け出して行った。",
+      "見上げると、ハシゴの上で窓が開かないか試していた圭一は、どの窓にも施錠がされていることを確認し、途方に暮れているのが見えた。"
+    ],
+    "textEn": [
+      "Rena ran off after that.",
+      "When I looked up, I saw Keiichi trying to open a window, but all of them were locked."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……本宅って何だ？」"
+    ],
+    "textEn": [
+      "\"...What did Rena mean by 'main house'?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "圭一がハシゴの上から尋ねてくる。"
+    ],
+    "textEn": [
+      "Keiichi asked me from the top of the ladder."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「古手家の本当の家だよ。",
+      "両親が亡くなって以来、ずっと放置してあるそうだけど。」"
+    ],
+    "textEn": [
+      "\"It's the Furude family's actual house.",
+      "After her parents passed away, I think it's been left like that.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………あ、…そうか。",
+      "……梨花ちゃんのご両親って、…亡くなってるんだよな。」"
+    ],
+    "textEn": [
+      "\"....Ah... right.",
+      "...Rika-chan's parents... they passed away, huh?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「沙都子も親なしだよ。",
+      "………オヤシロさまの祟りってことで、両親が崖から落っこちてね。",
+      "……お兄さんだった悟史くんも……いなくなっちゃって…。」"
+    ],
+    "textEn": [
+      "\"Satoko's also an orphan.",
+      "...Her parents fell from a cliff because of Oyashiro-sama's curse.",
+      "...Then her older brother, Satoshi-kun... he disappeared...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…悟史って、……前に聞いた名前だな。」"
+    ],
+    "textEn": [
+      "\"...Satoshi... I've heard that name before.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "聞いた名前、だと…？",
+      "憤怒の感情が込み上げそうになる。",
+      "お前が学校で、好き放題に使い、",
+      "弁当を食べ散らかして汚し、",
+      "昼寝をしてよだれをこぼしているあの机が、本当は誰の席か知らないのか…？！",
+      "……何を熱くなるのか魅音。",
+      "…悟史くんは、その存在すらも消されてるじゃないか。",
+      "…祟りの連中のせいで。圭一が知らないのは無理もないこと。",
+      "…別に圭一が悪いわけじゃない…。"
+    ],
+    "textEn": [
+      "He'd heard the name before?",
+      "I felt anger growing inside of me.",
+      "Don't you know whose desk you're using every day? You act as if it belongs to you.",
+      "You drop food on it while eating lunch.",
+      "You drool on it while taking a nap... Don't you know who it really belongs to?",
+      "....Why am I acting this way? I'm Mion.",
+      "Satoshi-kun doesn't even exist anymore.",
+      "...He was demoned away. It's hardly Keiichi's fault that he didn't know.",
+      "It really isn't his fault..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「沙都子は梨花ちゃんと一緒にこの小屋で暮らしてるんだよ。",
+      "互いに身寄りのないひとりぼっち同士。",
+      "…助け合ってね。」"
+    ],
+    "textEn": [
+      "\"Satoko and Rika-chan have been living in this shack ever since.",
+      "Neither of them has any family, but at least they're together.",
+      "...They help each other out.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……本宅って言ったか？",
+      "そっちで暮らした方が楽だろうに…。」"
+    ],
+    "textEn": [
+      "\"...Didn't Rena say there was a main house?",
+      "Wouldn't it be easier to live there...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「初めはそうしてたみたい。",
+      "……でも、両親を思い出すから辛いって言って。」"
+    ],
+    "textEn": [
+      "\"I think she tried that at first.",
+      "...She said it was hard, though, because it reminded her of her parents.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子はひとり残された後、…親友である梨花と暮らしている。",
+      "そうだ。",
+      "…沙都子と梨花は親友同士なのだ。",
+      "北条家とか古手家とか関係なしに、もっと幼い頃から、ダム戦争の前からの親友だったという。",
+      "沙都子だけが祟りに遭わない理由。",
+      "それは、…古手梨花の力があったせいではないのか。",
+      "そうだ、そう考えるのが一番自然だ。",
+      "沙都子だけは、呪われた北条家の中で唯一免罪された存在だったのだ。",
+      "古手梨花の取り計らいによって！",
+      "実際、沙都子は綿流しの夜に犠牲になっていない。",
+      "私が解明した祟りのシステムで考えると、",
+      "北条家の最後の生き残りで、しかも御三家の腹中である雛見沢に住む沙都子は、今年の祟りのターゲットとしてこれ以上ない存在のはず。",
+      "だから、御三家に気を利かす人間たち「祟りの執行者たち」は、今年の綿流しの夜にその命を狙ったに違いないのだ。",
+      "だが、現に沙都子には何の祟りも訪れなかった。",
+      "これは、沙都子だけが祟りの手から逃れていることを示唆するものに他ならない。",
+      "…………本当に悔しかった。",
+      "古手家頭首とは言え、あんな小娘に過ぎない梨花に、親友を庇うだけの力があったのだ。",
+      "……代行とは言え、魅音…いや詩音か、詩音にだって、同じだけの力があったはずなんだ！！",
+      "梨花が沙都子を庇えたように、悟史だって庇えたはずなんだ！！",
+      "……くそくそくそ…………。"
+    ],
+    "textEn": [
+      "After everyone in Satoko's family died, she started living with Rika.",
+      "It only made sense.",
+      "Satoko and Rika were best friends.",
+      "They didn't care about the Houjou family or the Furude family. They had been best friends since before the dam conflict.",
+      "The reason why the curse never fell upon Satoko...",
+      "Rika Furude probably had a lot to do with it.",
+      "That made more sense than anything else, at least.",
+      "Satoko was pardoned from the curse of the Houjou family.",
+      "All thanks to Rika Furude's arrangements!",
+      "Satoko had never been a victim on the night of Watanagashi.",
+      "According to the curse system I'd uncovered,",
+      "the last survivor of the Houjou family still living in Hinamizawa would be the perfect target for this year's curse.",
+      "Therefore, whoever was responsible for executing the curse must have tried to take her life.",
+      "However, nothing happened to her...",
+      "Proving that Satoko had escaped from the curse.",
+      "......That was really and truly infuriating.",
+      "She might have been the head of the Furude family, but I still couldn't accept that such a little girl had enough power to protect her best friend.",
+      "Mion, no, actually Shion... Shion must have had the same power, then!!",
+      "Just like Rika protected Satoko, Shion could have protected Satoshi!!",
+      "Damn it, damn it..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…梨花ちゃんも",
+      "…………",
+      "沙都子も、",
+      "……大変なんだな。」"
+    ],
+    "textEn": [
+      "\"...Rika-chan",
+      "......",
+      "and Satoko-chan...",
+      "they have it hard, huh.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「呪われてるんだよ。」"
+    ],
+    "textEn": [
+      "\"She's cursed.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……え？」"
+    ],
+    "textEn": [
+      "\"...Huh?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…魅音、",
+      "…お前、",
+      "今、",
+      "…何て言った？」"
+    ],
+    "textEn": [
+      "\"...Mion...",
+      "what...",
+      "did you",
+      "just say?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「呪われてるって言ったの。」"
+    ],
+    "textEn": [
+      "\"I said, she's cursed.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……み、…魅音、お前………何てカオしてんだよ…？」"
+    ],
+    "textEn": [
+      "\"...Mi... Mion, you... Why are you making that face...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「北条沙都子はね。",
+      "……オヤシロさまの祟りを一身に受けた、呪われた子なの。」"
+    ],
+    "textEn": [
+      "\"Satoko Houjou...",
+      "...She's been cursed by Oyashiro-sama.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "死の運命に飲み込まれた北条家の一人なのに、沙都子だけが免れていたなんて許せない…。",
+      "呪われた北条家の一員のくせに…！！",
+      "悟史くんは許してもらえなかったのに、…沙都子だけ許してもらえたなんて！！",
+      "呪われた身のくせに！！",
+      "悟史くんを差し置いてなんて…許せない許せない許せない…！！",
+      "そうだ、一番呪われるべきは沙都子なんだ！！",
+      "あいつが悟史くんを心身ともに追い詰めた！",
+      "追い詰めたからどんどん話がおかしくなって、それで全部が狂ってしまったんだ。",
+      "そう、全ての因果関係を辿れば、沙都子が一番許せないんだ！！",
+      "あいつが悟史くんを追い詰めたから、",
+      "＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊",
+      "、その結果、",
+      "悟史くんが消えてしまったんだ…！！",
+      "あいつが発端、",
+      "あいつが元凶！！",
+      "あいつさえいなかったなら！！",
+      "古手梨花と沙都子が二人で仲良く住んでいたように、……あり得なかった私の幸福な未来があったかもしれない。",
+      "私と悟史くんが、興宮でつつましやかに生活を再スタートさせる未来があったかもしれない！！",
+      "そうさ、始まりと終わりを結びつければ火を見るより明らか！",
+      "あいつの存在がいけないんだ。",
+      "あいつがいたから、悟史くんは叔母を殺さなくてはならなくなって、それで、そこを御三家にうまく利用されて、祟りの片棒を担がされた挙句、消されてしまった…ッ！！！",
+      "警察は家出したんだって決め付けたけど、悟史くんは逃げ出すような人じゃなかった。",
+      "いつも一生懸命。",
+      "誰の力も借りずにこつこつと、一人懸命に努力する人だった。",
+      "たった１人の妹のために身を粉にして頑張ってたのに、消されてしまった。",
+      "沙都子のために、あんなにもがんばってたのに！",
+      "あの子のためにだけに生きていたのに消されてしまった。",
+      "可哀想な悟史くん。",
+      "なんて報われない悟史くん。",
+      "なんて恩知らずなあの子なの。",
+      "……あの子は呪われた子。",
+      "あの子に近付けば、それが誰でも末路は同じ。",
+      "祟りで死ぬか、",
+      "祟りで消えるか。",
+      "そうさ、あいつこそが運命の元凶。",
+      "あいつが古手梨花に取り入ったから、悟史くんに祟りが及んだんだ。",
+      "あいつが先に祟りで死ねばよかったんだ。",
+      "そうすれば悟史くんはまだ生きてた。",
+      "生きててさえくれれば、私はどんな助けでもできたのに！！",
+      "許せない許せない、",
+      "沙都子が許せない、",
+      "あの子が許せない、",
+      "あの子に安らぎなんてあるものか、",
+      "あの子に安らぎなんてあるものか……。",
+      "アイツコソ、コノ昭和５８年ノ祟リニ、一番相応シインジャナイカ。",
+      "オヤシロさまの祟り。",
+      "…オヤシロさまの生まれ変わり、古手梨花。",
+      "そう、梨花は死んだ。",
+      "オヤシロさまの生まれ変わりは死んだのだ。",
+      "この雛見沢には今や、祟りを下す神はいないのだ。",
+      "それを決める資格は、……今や私にある！",
+      "我こそは鬼ヶ淵村御三家のひとつ、園崎家の頭首、園崎魅音！！",
+      "旧き御三家頭首たちが全て消えた今、私を超える正統な後継者はひとりもいない。",
+      "そう、オヤシロさまの祟りを下す資格は、今や私を差し置いて誰にもないのだッ！",
+      "私が祟りを下す。",
+      "私が祟りになる。",
+      "私こそが、今やオヤシロさまそのものなのだ！！",
+      "体の奥底から、ごぼごぼと熱い泡がたぎって来る。",
+      "私の中の鬼が吠えたがっているのがわかった。",
+      "……気付けば圭一が、私を見下ろしていた。",
+      "落ち着け魅音。",
+      "…私の胸中など、あんな鈍感男にわかるものか。",
+      "…落ち着け落ち着け。",
+      "その時、大勢の足音が近付いてくるのが聞こえる。",
+      "レナを先頭に、４〜５人の大人たちが懐中電灯を手に駆けつけてくるのだった…。",
+      "その後、倉庫小屋の鍵が開けられ、みんなで中に踏み込む。",
+      "もちろん、何の気配もあろうはずがない。",
+      "沙都子と梨花は二人で住んでいた。",
+      "だから、梨花を訪ねる沙都子が、園崎家へ行ってきますなんてメモを残すとは思えない。",
+      "だが、そういう痕跡があったら面白くない。",
+      "私は先に飛び込んだレナを押しのけ、室内にそういう痕跡がないか探した。",
+      "梨花たちが失踪した噂が近隣を飛び交っているらしく、村人たちがどんどん神社に集まってきているようだった。",
+      "私は園崎家頭首代行として振る舞い、手分けして行方を捜すように指示を出した。",
+      "村人たちは私のてきぱきした指示にそれぞれ頷き、散っていく。",
+      "…久々に取り戻した魅音の感覚。",
+      "…私はじんわりと痺れるような愉悦を味わっていた……。",
+      "神社の境内には今や大勢の村人たちが慌しく出入りし、",
+      "どこそこを捜したがいなかった、",
+      "残るはどこそこだ、",
+      "あそこは捜してないか、",
+      "行こう行こうと、騒がしくしていた。",
+      "婦人部のご婦人方は、集会所の裏倉庫から大鍋やガスコンロ、ガスボンベなどを引っ張り出して炊出しの用意をしている。",
+      "そんな中、事態の重さに眩暈でも起こしたのか、圭一がふらふらと松林の暗がりの方へ行ってしまうのを、私は見ていた。",
+      "こんな夜に、ひとりになろうとするとは無用心なやつ。",
+      "……もしお前を狙う「祟りの執行者」が身近にいるなら、きっとただでは済まないぞ……。"
+    ],
+    "textEn": [
+      "I can't accept that Satoko was pardoned from the curse although she was a member of the cursed Houjou family.",
+      "She was one of the cursed Houjous!!",
+      "Satoshi-kun wasn't pardoned, but Satoko was!!",
+      "She was cursed, but she got away!!",
+      "She escaped the curse, but Satoshi-kun didn't... I can't accept that!!",
+      "In fact, Satoko should have been the one to be cursed the most!!",
+      "She cornered Satoshi-kun physically and emotionally!",
+      "That was why things got weirder and weirder, and in the end, everything went crazy.",
+      "When I think back on it, it was Satoko who I hated most of all!!",
+      "She cornered Satoshi-kun,",
+      "*****************************",
+      "and as a result,",
+      "Satoshi-kun disappeared!!",
+      "She started it.",
+      "She caused it!!",
+      "If only she hadn't been there!!",
+      "Just as Rika Furude and Satoko had lived happily... maybe there had been a happy future for me too.",
+      "Maybe Satoshi-kun and I could have started our lives together in Okinomiya!!",
+      "Yes, if I look at both the beginning and the end, it's so obvious!",
+      "Satoko's existence caused everything.",
+      "Satoshi-kun had to kill his aunt because of Satoko, the Three Families used that need to create the curse, and then they killed him!!!",
+      "...The police were convinced he just ran away, but he'd never do that.",
+      "He was the type of person who always did his best at everything...",
+      "All by himself.",
+      "He was doing the very best he could for his only sister, yet he was forced to vanish.",
+      "He worked so hard for Satoko!",
+      "And though he was living just for her, he was erased.",
+      "Poor Satoshi-kun.",
+      "He was so underappreciated.",
+      "That girl knew no gratitude.",
+      "...She was cursed.",
+      "If you got near her, you'd meet the same fate.",
+      "You'd be cursed to die",
+      "or disappear.",
+      "That really was it: she was the main cause behind it all.",
+      "She wormed her way into Rika Furude's good graces, and that was why the curse fell upon Satoshi-kun.",
+      "She should have died first.",
+      "Then Satoshi-kun would be still alive.",
+      "If he was alive, I could have done something for him!!",
+      "I can't forgive her.",
+      "I can't forgive Satoko.",
+      "I can't forgive that girl.",
+      "There can be no peace with her,",
+      "there can be no peace...",
+      "<i>She</i> was the perfect target for the curse of 1983.",
+      "The curse of Oyashiro-sama.",
+      "...Rika Furude, the reincarnation of Oyashiro-sama.",
+      "Rika was dead.",
+      "The reincarnation of Oyashiro-sama had died.",
+      "There was no more god in Hinamizawa to deliver the curse.",
+      "I'm the one who has to deliver it now!",
+      "I am Mion Sonozaki, the head of the Sonozaki family, one of the Three Families of Onigafuchi!!",
+      "Now that all the heads of the three families are gone, there is nobody to surpass me.",
+      "I will deliver the curse of Oyashiro-sama, and nobody else!",
+      "I'll deliver it.",
+      "I am the curse.",
+      "I have become Oyashiro-sama!!",
+      "I felt hot bubbles boiling over deep inside of me.",
+      "I could tell the demon inside of me wanted to roar.",
+      "...I noticed Keiichi was looking down at me.",
+      "Calm down, Mion.",
+      "He can't tell what you're thinking.",
+      "Calm down, calm down.",
+      "At that point, I heard footsteps coming closer.",
+      "I saw four or five adults, accompanied by Rena, running toward us with flashlights in their hands.",
+      "One of them opened the lock on the cabin door, and we all went inside.",
+      "Of course, there was nobody there.",
+      "Satoko and Rika lived alone.",
+      "I doubted Satoko would have left a note saying she was going over to the Sonozaki house when Rika was there already.",
+      "But it wouldn't be fun if she had.",
+      "Because of that, I hurried into the room ahead of Rena to make sure there was nothing left behind.",
+      "The rumor of Rika and Satoko's disappearance spread around the village quickly. More and more villagers gathered at the Furude Shrine.",
+      "Acting in place of the head of the Sonozaki family, I commanded them to search the village.",
+      "The villagers nodded and scattered.",
+      "How long had it been since the last time I was truly Mion?",
+      "I felt so pleased that my body almost went numb...",
+      "Lots of villagers went in and out of the shrine.",
+      "They yelled at each other that she was nowhere to be found.",
+      "Some suggested other places to look",
+      "and they all left.",
+      "They made a lot of noise with their comings and goings.",
+      "Members of the women's association brought out huge pots and gas cookers from the storage and got ready to cook for the men.",
+      "That was when I noticed Keiichi unsteadily walking toward a copse of dark pine trees.",
+      "What was he thinking? How stupid of him to be alone on a night like this.",
+      "If a person responsible for executing the curse was nearby, he wouldn't come back safely..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「魅音ちゃん、御蛇ヶ池の方もぐるっと捜したけど全然だめだね。",
+      "池の中も照らしたけど、明るくなんないとわかんないよ。」"
+    ],
+    "textEn": [
+      "\"Mion-chan, we went all around Ojaga Lake, but didn't find anything.",
+      "We tried to light up the pond, but we're going to have to wait until the sun is up.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「うん、ありがとうございます。",
+      "婦人部の皆さんがお味噌汁を作ってくれてますので、召し上がって休んでください。」"
+    ],
+    "textEn": [
+      "\"Okay, thanks for your hard work.",
+      "The women are making some miso soup, so please rest up and have some.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「…魅音ちゃん、あの二人って自転車はどこに停めてたんか知ってるかい？」"
+    ],
+    "textEn": [
+      "\"Mion-chan, do you know where they usually park their bicycles?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「さぁ。",
+      "多分、境内の階段の下じゃないかな。",
+      "まさかあの階段を担いで上がったりはしないでしょ。」"
+    ],
+    "textEn": [
+      "\"No...",
+      "They probably parked them at the bottom of the stairs leading up here.",
+      "I don't think they'd come up while carrying them.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「ないんだよね二人の自転車がさ。",
+      "どこかに行っちゃったんだろうかねぇ…。」"
+    ],
+    "textEn": [
+      "\"We can't find their bicycles.",
+      "Where did they go...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「自転車で遊びに行ったなら、",
+      "…遠くかも知れんなぁ…。",
+      "町か…？」"
+    ],
+    "textEn": [
+      "\"If they left on their bikes,",
+      "they could have gone pretty far...",
+      "Maybe even as far as the town...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「だとすると、雛見沢の中にはいないんかも知れんなぁ…？」"
+    ],
+    "textEn": [
+      "\"In that case, we'll have to look outside of Hinamizawa...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「そう言えば、梨花ちゃまがいなくなったってのは、誰が最初に気付いたんだ？」"
+    ],
+    "textEn": [
+      "\"By the way, who first noticed that Rika-chama was gone?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ん？",
+      "あー、圭ちゃんだけど？",
+      "急に虫が報せたんだとか。」"
+    ],
+    "textEn": [
+      "\"Hmm?",
+      "Ah, it was Kei-chan.",
+      "He suddenly had a hunch....\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「……前原屋敷のせがれさんか。",
+      "んんん、なんやん怪しいなぁ。」"
+    ],
+    "textEn": [
+      "\"Oh, that Maebara kid, huh?",
+      "Mmmm, he's a little suspicious.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「そう言えば、前原家は来てないのか、この一大事の時に。」"
+    ],
+    "textEn": [
+      "\"Speaking of which, why hasn't the Maebara family shown up when we're in a crisis like this?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「前原家は町会未加入だから、青年団の連絡網に入ってないんよ。」"
+    ],
+    "textEn": [
+      "\"The Maebaras still haven't joined the town council, so they're not in the youth group's phone directory.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「んなーー、すったらんしょおがなぁー。」"
+    ],
+    "textEn": [
+      "\"Really? Well, ain't no helping it then.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「あれ？",
+      "入ったろ町会。",
+      "あー、あれさね、連絡網に名前が載ってないだけんと違う？",
+      "連絡網、新年に作ったきりやんね。",
+      "途中から越して来たから載ってないん。」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "They joined, didn't they?",
+      "I think it's just that their name isn't in the directory yet...",
+      "The last time we updated it was at the beginning of the year.",
+      "They just moved here, so that's why they aren't on it.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「前原のせがれさんの、虫の報せってのがどうもなぁ。」"
+    ],
+    "textEn": [
+      "\"That Maebara kid's hunch is still suspicious.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「第一発見者が一等怪しい言うやんね。」"
+    ],
+    "textEn": [
+      "\"They do they say the first on the scene is the most suspicious.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「そのせがれはどこ行ったんかいね？」"
+    ],
+    "textEn": [
+      "\"Where did he go?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「さっき松林の方にふらふら行くのを見たよ。",
+      "誰か呼んでくる？」"
+    ],
+    "textEn": [
+      "\"I saw him walking toward the pine trees.",
+      "Can someone go get him?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そんなやり取りをしていると、松林の方から圭一とレナが戻ってくるのが見えた。"
+    ],
+    "textEn": [
+      "Conveniently, I saw Keiichi and Rena walking back toward us."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…圭ちゃん、どこ行ってたんだよ。",
+      "圭ちゃんまでいなくなったのかと心配したよ？」"
+    ],
+    "textEn": [
+      "\"...Kei-chan, where did you go?",
+      "I was worried you'd disappeared too!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………すまん…。」"
+    ],
+    "textEn": [
+      "\".........Sorry...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "圭一の身には、何も無しか。",
+      "無事ならそれでいい。",
+      "…私の復讐が全ての敵に下された証なのだから。"
+    ],
+    "textEn": [
+      "It looked like nothing had happened to Keiichi.",
+      "If so, that's fine.",
+      "That means I took care of all of my enemies."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…おんやおやおや…！",
+      "おいしい匂いが漂ってくると思ったら。",
+      "これはぜひご相伴に与かりたいですねぇ。」"
+    ],
+    "textEn": [
+      "\"...Oh, my, my, my...!",
+      "I knew I smelled something good coming from over here.",
+      "I'd be much obliged if you'd allow me to have some.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "野太い親父の、いやらしい声が聞こえてきた。",
+      "大石か。",
+      "…大石め、さすがに今年の事件は困惑しているに違いない。",
+      "これまでの慎ましやかな祟りとは格段に規模が違うのだから。",
+      "大石の情報網は、役員会の老人たちに準ずるくらいはある。",
+      "つまり、この村の暗部でまかり通ってる噂くらいならすでに耳にしているということだ。",
+      "だとしたら、公由失踪と梨花失踪を、祭具殿の鍵付け替えに伴うけじめ絡み…と読んできている頃だ。",
+      "……警察が私に至るのはそう遠くないだろう。",
+      "私は園崎魅音。",
+      "仇である御三家頭首たちを葬ることによって、奇しくも自らが頭首となってしまった。",
+      "私は、園崎魅音という存在を許してはいけない。",
+      "園崎家頭首などという存在を破壊しなくてはならない。",
+      "…自らの立場を破壊して初めて、私の復讐は全て終わる。",
+      "大石には、その最期を看取る大任を与えることになるだろう…。",
+      "大石と目が合う。",
+      "…大石め、とっくに私がホシだと当たりを付けているらしいな。",
+      "そうさ大正解。",
+      "私が犯人だ。",
+      "園崎家頭首、園崎魅音が犯人だ。",
+      "……くっくっく！！"
+    ],
+    "textEn": [
+      "I heard the loud, sticky voice of a middle-aged man.",
+      "It was Ooishi.",
+      "He must be confused about this year's incident.",
+      "The scale of the curse this time is nothing like the previous ones.",
+      "Ooishi's information network is about equal to or better than that of the elders on the town council.",
+      "In other words, he could easily uncover a rumor that was circulating through the underside of the village.",
+      "He must've came here to see if the disappearances of Kimiyoshi and Rika had something to do with the changing of the lock on the ritual storehouse's door.",
+      "The police will come for me sooner or later.",
+      "I am Mion Sonozaki.",
+      "By removing all of the heads of the Three Families, my enemies, I have become the head in their place.",
+      "I can't allow Mion Sonozaki to continue existing.",
+      "I'll have to destroy the existence of the head of the Sonozaki family.",
+      "When I destroy my own position, that is when my revenge will come to an end.",
+      "More than likely, I'll have Ooishi witness my final moments.",
+      "My eyes and Ooishi's met.",
+      "...Damn it, he thinks I'm suspicious already.",
+      "You're right, Ooishi.",
+      "I did it.",
+      "Mion Sonozaki, the head of the Sonozaki family, is the culprit.",
+      "...Heh, heh, heh!!"
+    ]
+  }
+]

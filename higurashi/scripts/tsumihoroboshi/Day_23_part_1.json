@@ -1,0 +1,2048 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鹿骨市内のある割烹にて、その席は設けられた。",
+      "黒塗りの車が停まると、大石を筆頭に大柄な刑事たちが４人降りてきた。",
+      "出迎えるのは園崎組の黒服たち。",
+      "それはとても異様な光景だった。"
+    ],
+    "textEn": [
+      "The summit was being held at a traditional Japanese restaurant in Shishibone City.",
+      "When a black car stopped in front of it, three burly cops got out of it, followed by Ooishi.",
+      "They were welcomed by Sonozaki Corps members in equally black suits.",
+      "It was something you didn't see every day."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「今日はお招きいただきまして光栄です。",
+      "遅刻しちゃって申し訳ないですねぇ。」"
+    ],
+    "textEn": [
+      "\"Thank you for having us.",
+      "We apologize for being late.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「……お客人、ご案内いたします。",
+      "どうぞこちらへ。」"
+    ],
+    "textEn": [
+      "\"...I'll take you to the room.",
+      "Please follow me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入り口には本日貸切の札が出ていた。",
+      "その中へ大石たちは招かれていく。",
+      "もったいぶった作りの庭を抜け、和風の上品な雰囲気のする玄関へ至る。",
+      "玄関には和服の女性と葛西がいた。",
+      "大石たちに気付くと談笑をやめ、深々とお辞儀する。",
+      "……和服の女性は、魅音の母、茜であった。"
+    ],
+    "textEn": [
+      "There was a sign saying \"reserved\" at the entrance.",
+      "Ooishi and his subordinates were taken inside.",
+      "They walked through the restaurant's pretentious landscaped garden, and they came to the gorgeous Japanese-style entrance.",
+      "A woman in a kimono was waiting at the entrance, as was Kasai.",
+      "Upon seeing the police officers, they stopped chatting and bowed deeply.",
+      "...The woman in the kimono was Mion's mother, Akane."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「やぁどうもどうも園崎社長さん。",
+      "本日はお招きをいただきありがとうございます。」"
+    ],
+    "textEn": [
+      "\"Nice to meet you, Mrs. Sonozaki.",
+      "Thank you for having us today.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「…ようこそいらっしゃいました。",
+      "ご多忙中のはるばるのお越し、心より感謝いたします。」"
+    ],
+    "textEn": [
+      "\"It's a pleasure to meet you.",
+      "Thank you for coming all the way here, despite your busy schedule.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いえいえ。今日はご馳走になりますよぅ。",
+      "清水亭と言えば湯葉が有名ですからねぇ。",
+      "なっはっはっは！",
+      "どんなご馳走か楽しみです。」"
+    ],
+    "textEn": [
+      "\"Not at all. I've been looking forward to the feast I'm going to have today.",
+      "Kiyomizutei is famous for its dried beancurd, right?",
+      "Na ha ha ha!",
+      "I can't wait.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「…………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「それから葛西さんもお久しぶり。",
+      "直接会うのはだいぶ久しぶりになりますねぇ。」"
+    ],
+    "textEn": [
+      "\"Long time no see, Kasai-san.",
+      "It's been forever since we last met in person.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「ご無沙汰をいたしております…。」"
+    ],
+    "textEn": [
+      "\"Yes, it has been a while...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「まぁなんかこの度はお互い戦争状態に突入しちゃってるようですが、白黒を穏便〜に、大人のルールに従って決着できたらと思ってます。"
+    ],
+    "textEn": [
+      "\"Well, we seem to be at war, but I'm hoping we can settle this like adults."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "こっちゃ全面戦争はいつでも大丈夫ですんで。」"
+    ],
+    "textEn": [
+      "Although, we're ready for an all-out war whenever you are.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「いえ、……そのようなつもりは毛頭。」"
+    ],
+    "textEn": [
+      "\"No... we have no desire to fight.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっは！",
+      "そりゃこちらもやりたかないです。"
+    ],
+    "textEn": [
+      "\"Na ha ha ha!",
+      "Neither do we."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "あんたが出張ると血の雨が降るって評判ですからねぇ。",
+      "私もいい年なんで、もう流血沙汰はごめんしたいところです。」"
+    ],
+    "textEn": [
+      "Everybody knows how messy things get when you get involved.",
+      "But I'd like to avoid that as much as possible, since I'm not that young anymore.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "これは明らかに敵対するもの同士の会合だった。",
+      "言葉の節々がぎすぎすとし、とても和気藹々とした会合になるとは思えなかった。"
+    ],
+    "textEn": [
+      "Obviously, this was a meeting between people who hated each other.",
+      "The tension in their words indicated that it wasn't likely to be a friendly meeting."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「それではご案内いたします。",
+      "どうぞこちらへ。」"
+    ],
+    "textEn": [
+      "\"I'll take you to the room.",
+      "Please follow me.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「主宰自らのご案内、痛み入りますよ。」"
+    ],
+    "textEn": [
+      "\"I feel bad that our host is taking us to the table.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「……そうそう。",
+      "招待状の名前は私で出させていただきましたが、今日の主宰は、本家でございます。",
+      "訳あって、招待状の名前を変えさせていただいたことをお詫びいたします。」"
+    ],
+    "textEn": [
+      "\"...Well.",
+      "I know we sent you the invitation under my name, but actually, today's host is the Sonozaki main family.",
+      "I'm sorry for the confusion.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…本家、ですか。",
+      "………防弾チョッキを着に戻ってもいいですかねぇ？"
+    ],
+    "textEn": [
+      "\"...I see.",
+      "...Can I go back and get my bulletproof jacket?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "なっはっはっは。」"
+    ],
+    "textEn": [
+      "Na ha ha ha.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "客室の襖があくと、お膳が並び、………魅音が座っていた。",
+      "未成年の魅音にとっては、学校制服が公の衣装に当る。",
+      "そうではあっても、刑事たちと、園崎組の黒服たちの服装と比べると不思議な違和感があった。"
+    ],
+    "textEn": [
+      "On the other side of the door, there were several tables... and Mion was sitting at one of them.",
+      "Since Mion was still young, her school uniform functioned as her formal dress.",
+      "Still, it looked strange with both the police and the Corps members in black suits."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「これはどうも、園崎家の次期頭首のお嬢さん。",
+      "今日はお招き下さり、光栄です。」"
+    ],
+    "textEn": [
+      "\"Hello. You must be the successor to the head of the Sonozaki family.",
+      "Thank you for having us today.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「本日はようこそお越しくださいました。",
+      "まずはお掛けになってください。」"
+    ],
+    "textEn": [
+      "\"Thank you very much for coming.",
+      "Please take a seat.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は自分の親よりも年上の刑事を相手に、わずかほども臆すことなく、丁重に出迎えるのだった。",
+      "魅音が目配せをすると、葛西が襖を叩く。",
+      "すると襖の向こうに待機していた仲居たちが入ってきて、乾杯の準備をし始めた。"
+    ],
+    "textEn": [
+      "Mion politely welcomed the police, undaunted even though they were older than her parents.",
+      "Mion gave Kasai a look, and he tapped on the door.",
+      "The waitresses, who had been waiting behind the door, started bringing out drinks."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「………大石さん、……一体こりゃ、何のつもりっすかね……。」"
+    ],
+    "textEn": [
+      "\"...Ooishi-san... what's going on here...?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「さぁてねぇ…。",
+      "まぁここは舌鼓を打たせてもらいましょう。",
+      "ここの湯葉は有名ですよぅ？」"
+    ],
+    "textEn": [
+      "\"I'm not sure...",
+      "Well, let's enjoy the meal first.",
+      "Their dried beancurd is really famous, you know?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "しばらくの間、この火薬の匂いすら漂いかねない、緊張感のある酒席が繰り広げられるのだった。",
+      "やがて、仲居たちを完全に下がらせると、園崎組の組員たちにも下がらせ、室内は大石たち刑事４人と魅音、茜、葛西の３人だけになっていた。"
+    ],
+    "textEn": [
+      "They started drinking, but the tension continued for a while.",
+      "Mion made the waitresses and the other members of the Sonozaki Corps leave the room, and soon only Ooishi and his subordinates, Mion, Akane, and Kasai were left in the room."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「さて。",
+      "………今日はどういうお話ですかな。」"
+    ],
+    "textEn": [
+      "\"Well.",
+      "...Let's start talking about why we're here today.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "茜が頷いて応えた。"
+    ],
+    "textEn": [
+      "Akane nodded and began speaking."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「本日は皆さんとの間に生じている誤解について、解かせていただきたくこのような場を設けさせていただきました。」"
+    ],
+    "textEn": [
+      "\"We're having this meeting today so we can resolve our misunderstandings.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……ほぅ、誤解と申しますと？」"
+    ],
+    "textEn": [
+      "\"...Such as?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「発端はとても瑣末でございます。ここにいる葛西が、竜宮レナとの個人的事情により会見を求めたのです。",
+      "よって、この度の件は葛西辰由と竜宮レナ、個人間のこと。"
+    ],
+    "textEn": [
+      "\"Kasai wanted to talk to you about Rena Ryuugu for personal reasons.",
+      "Therefore, this meeting is about the private circumstances between Tatsuyoshi Kasai and Rena Ryuugu."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "園崎組は関与しておりません。」"
+    ],
+    "textEn": [
+      "The Sonozaki family has nothing to do with this.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっは…。",
+      "個人的事情って何ですかね。",
+      "堅気の竜宮さんと極道の葛西さんに、どういう個人的な接点が生じるっていうんです。」"
+    ],
+    "textEn": [
+      "\"Na ha ha ha...",
+      "What are these private circumstances?",
+      "Ryuugu-san lives an honest life. How can she have any kind of private connection with Kasai-san from the yakuza?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「葛西。」"
+    ],
+    "textEn": [
+      "\"Kasai.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「はい。",
+      "僭越ながら、ご説明させていただきます。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "Allow me to explain.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "葛西は、レナとは偶然、興宮のとある喫茶店ですれ違っていたことを話した。",
+      "その先にレナが彼の落し物を拾い、届けたいと申し出たことを説明する。"
+    ],
+    "textEn": [
+      "Kasai told the police officers that he happened to meet Rena at a coffee house in Okinomiya.",
+      "He explained that Rena found something he lost there, and that she offered to bring it back to him."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…ちょいと無理がございませんかねぇ？",
+      "まぁ百歩譲って、落し物の話を信じてもいいですよぅ？",
+      "その後がちょいとおかしくないですかね？",
+      "竜宮レナを探して、組の若い連中が動員されてるって聞いてますよ。」"
+    ],
+    "textEn": [
+      "\"...That doesn't sound right.",
+      "But for argument's sake, why don't we assume what you're telling us is true?",
+      "What happened after that doesn't make any sense.",
+      "I heard that you told your members to find Rena Ryuugu.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「それに関しましては、この私めの手落ちでございます。",
+      "…竜宮レナさんが遅くになっても帰宅されないのを家人が心配されていたので、繁華街で見かけていることがないかどうか若い者に聞かせたのですが、その際に手違いがありましたようで…。」"
+    ],
+    "textEn": [
+      "\"That is actually my fault.",
+      "...Rena-san's father was worried about her because she didn't come home after dark. So, I sent my men to ask if anyone had seen her downtown, but I made a small mistake...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「おうおうおう、ちょいと待ってくださいよぅ。",
+      "こんな割烹まで呼び出してその与太話を信じろっての？",
+      "あんた、うちらの商売を舐めてんの？",
+      "ん〜？！」"
+    ],
+    "textEn": [
+      "\"Wait a second.",
+      "You made us come all the way here, and now you're telling us to believe this bullshit?",
+      "Could it be that you're making fun of us?",
+      "Hmmm?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "本職の暴力団よりも大石の方がよっぽど暴力団らしく見える。",
+      "…大石が歪んだ笑いで凄むと場は一気に緊迫した。"
+    ],
+    "textEn": [
+      "Ooishi looked a lot more like a member of the yakuza than the real yakuza did.",
+      "...Ooishi threatened them with a nasty smile, and it piled all the more tension onto the atmosphere in the room."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「お、…大石さん…、まぁまぁ…。」"
+    ],
+    "textEn": [
+      "\"Ooishi-san... please don't...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "熊谷が大石をなだめる。",
+      "警察も暴力団と同じで、凄む役となだめる役がペアになっているということだろう。",
+      "大石はにやりと笑ってそれで引き下がった。",
+      "代わって熊谷が先を促した。"
+    ],
+    "textEn": [
+      "Kumagai tried to make him stand down.",
+      "Officers with hot tempers pair with others who are good at calming them down, just like how yakuza do.",
+      "Ooishi backed off with a grin.",
+      "Kumagai took over, continuing from there."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「それで、園崎家さんはどうおっしゃりたいわけですか。",
+      "竜宮レナと葛西辰由の個人的問題だから、民事に介入するなとおっしゃるわけで？",
+      "そういうわけにはいきません。",
+      "竜宮レナは警察で保護させていただきます。」"
+    ],
+    "textEn": [
+      "\"So, what're you trying to say?",
+      "Do you not want us to intervene, because this is a civil matter between Rena Ryuugu and Tatsuyoshi Kasai?",
+      "That's not going to happen.",
+      "We're going to give her protection.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そこで初めて魅音が口を開いた。"
+    ],
+    "textEn": [
+      "Mion opened her mouth for the first time in a while."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……警察は竜宮レナを保護なさる理由をお聞かせください。」"
+    ],
+    "textEn": [
+      "\"...You need to explain to me why the police have to protect Rena Ryuugu to begin with.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「そりゃ決まってるじゃないかよ。",
+      "あんたらが狙ってるからだよ。」"
+    ],
+    "textEn": [
+      "\"Why?",
+      "Because you guys are after her.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石がぶっきらぼうに答える。",
+      "だが魅音は至って涼しい顔だった。",
+      "…それが一層、大石を不愉快にさせるのだろう。"
+    ],
+    "textEn": [
+      "Ooishi answered bluntly,",
+      "but Mion remained nonchalant.",
+      "...That must have made him all the more annoyed."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「どうして、当方が竜宮レナを狙っているとお思いで？」"
+    ],
+    "textEn": [
+      "\"What makes you think we're after her?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「そりゃあんたの胸に聞きゃいいだろ。",
+      "ご自分のその胸に。」"
+    ],
+    "textEn": [
+      "\"Why don't you ask what's in your chest?",
+      "It might know something.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……大石さん。",
+      "本日は皆さんの誤解を解くための会合です。",
+      "もちろん耳を貸されないのもまたご自由かとは存じますが、聞いた方がさぞかしよろしいかと思いますよ。」"
+    ],
+    "textEn": [
+      "\"...Ooishi-san.",
+      "We're here to resolve our misunderstandings.",
+      "It's your choice not to listen to us, but I think it's better that you do.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ほぅ、我々が何の誤解をしていると？」"
+    ],
+    "textEn": [
+      "\"Oh, and what are we misunderstanding, exactly?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「竜宮レナの持っている、鷹野三四のスクラップ帖について、ある重大な誤解をされております。」"
+    ],
+    "textEn": [
+      "\"Your misunderstanding concerns the scrapbooks of Miyo Takano that Rena Ryuugu is in possession of.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "刑事たちの目が一気に鋭くなる。",
+      "……いきなり核心を突いて来たからだ。"
+    ],
+    "textEn": [
+      "The officers' expressions grew stern all at once.",
+      "...All of a sudden, she had gotten straight to the point."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「竜宮レナの保護は、彼女が鷹野三四のスクラップ帖を持っているから……なのではございませんか？」"
+    ],
+    "textEn": [
+      "\"You want to protect Rena Ryuugu because she has the scrapbooks... Isn't that right?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\"..................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石たちはぎょろつく目で睨み返すが、無言であっても図星であることは明白だった。"
+    ],
+    "textEn": [
+      "Ooishi and his subordinates glared back at her without saying a word, making it obvious that her guess was right."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「葛西。」"
+    ],
+    "textEn": [
+      "\"Kasai.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "茜が促すと葛西が席を外して廊下に出る。",
+      "そしてすぐに戻ってきた。",
+      "手には黒いアタッシュケースを持って。",
+      "刑事たちの誰もが、この中に現金が唸るほど詰まっていて、それで自分たちを何らかに利用しようと買収してくるに違いないと思った。",
+      "葛西はそのアタッシュケースをバチンと開き、その中身を刑事たちの前に示した。"
+    ],
+    "textEn": [
+      "Akane gave him a look, and he left the room.",
+      "However, he shortly returned...",
+      "carrying a black suitcase.",
+      "Every one of the officers assumed that there was a tremendous amount of money in the suitcase, and that the Sonozaki family was trying to buy them off.",
+      "Kasai opened the suitcase and showed the contents to the police."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…………こ、…これは…。」"
+    ],
+    "textEn": [
+      "\".........A-Are these...?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「鷹野三四のスクラップ帖です。",
+      "残念ならが竜宮レナに手渡したと思われるものは含まれておりません。",
+      "これを本日の肴にいたそうかと思います。」"
+    ],
+    "textEn": [
+      "\"These are Miyo Takano's scrapbooks.",
+      "I'm afraid we don't have the ones she gave to Rena Ryuugu.",
+      "This is going to be our main course for today.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……中身を拝見させていただいても構いませんか。」"
+    ],
+    "textEn": [
+      "\"...Do you mind if I take a look?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「えぇ、どうぞ。",
+      "お話はそれを読んでいただいた後で構いません。",
+      "必要でしたら人払いもさせましょう。」"
+    ],
+    "textEn": [
+      "\"No, feel free.",
+      "We can talk after you read them.",
+      "I'll make my people leave if you like.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「い、いえいえ、それには及びません。」"
+    ],
+    "textEn": [
+      "\"Oh, no. You don't have to do that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "刑事たちはそれぞれ懐から薄いゴム手袋を取り出すと、それを着用して、十数冊にも及ぶスクラップ帖を手に取った。"
+    ],
+    "textEn": [
+      "The cops produced latex gloves from their pockets, put them on, and took one of the scrapbooks out of the suitcase. There were more than ten of them in there."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「それらは鷹野三四の死亡の際に、興宮の自宅から発見したものです。」"
+    ],
+    "textEn": [
+      "\"We found them in Miyo Takano's house in Okinomiya after she passed away.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石たちは、徹底的に使い込まれたそのスクラップ帖のページを次々と捲るのに必死なようだった。"
+    ],
+    "textEn": [
+      "Ooishi and the others desperately turned the pages of the well-thumbed scrapbooks."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……………これ、…間違いなく、鷹野三四のなんでしょうねぇ？」"
+    ],
+    "textEn": [
+      "\"...Are you sure... these are real?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「間違いありません。」"
+    ],
+    "textEn": [
+      "\"Without a doubt.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「…お、………大石さん、……もしこれらに類するものを竜宮レナが持っているとするなら……。」"
+    ],
+    "textEn": [
+      "\"...Ooishi-san... if Rena Ryuugu has the other scrapbooks... that means...\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「おそらくは竜宮レナが持つスクラップ帖も、それらに類する内容でしょう。」"
+    ],
+    "textEn": [
+      "\"Maybe the ones she has have the same kind of stuff in them.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\"..................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は目を皿のように見開き、その内容を驚いているようだった。",
+      "……ページを捲る指がどんどんと早くなり、荒々しくスクラップ帖を閉じた。"
+    ],
+    "textEn": [
+      "Ooishi looked stunned by the contents of the scrapbooks.",
+      "...He started turning the pages faster, then closed the scrapbook roughly."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「………ここにあるスクラップ帖、全部がこんな中身なんですか。」"
+    ],
+    "textEn": [
+      "\"...Do all of these have the same kind of contents as this one?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「えぇ、そうですよ。",
+      "納得行くまでご覧ください。」"
+    ],
+    "textEn": [
+      "\"Yes, they do.",
+      "Feel free to take the time to look at them until you're fully satisfied.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "刑事たちのページを捲る指は早く、もうそれは１ページずつを確認するような丁寧さはなくなっていた。",
+      "アタッシュケース内のスクラップ帖が、次々に荒々しく中身を改められていく。"
+    ],
+    "textEn": [
+      "The other officers also rapidly turned through pages. They weren't reading them, just flipping through.",
+      "They took one scrapbook from the suitcase after another, and flipped through the pages roughly."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「……………大石さん、",
+      "…こんなの滅茶苦茶です。",
+      "性質の悪いオカルト小説ですよ！",
+      "冥界と現世が激突して霊魂が流入したぁ？？"
+    ],
+    "textEn": [
+      "\"......Ooishi-san...",
+      "this is absurd.",
+      "These are just crappy occult novels!",
+      "This one says that the netherworld collided with this world, and that dead souls flowed across the gap..."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "…こ、これを証拠として採用しろって言うんすか…。」"
+    ],
+    "textEn": [
+      "How are we going to use this as proof?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…………………あぁ、",
+      "…そっちは冥界の仕業なんだ？",
+      "俺のは地底人の仕業って書いてあるよ…。」"
+    ],
+    "textEn": [
+      "\"......Well,",
+      "yours says something about the netherworld?",
+      "Mine is about creatures from the bottom of the ocean...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こっちのはナチスの秘密兵器説、",
+      "こっちのはムー大陸の遺産、",
+      "そっちのは鬼ヶ淵の珍獣、オッシーの仕業……。"
+    ],
+    "textEn": [
+      "This one is about classified weapons of the Nazis.",
+      "This one is about the legacy of the Mu continent.",
+      "That one is about Ossie, the mysterious creature in Onigafuchi Swamp..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「おそらく、竜宮レナが持つスクラップ帖には、皆さんもよくご存知の『寄生虫説』が記されてるのだろうと察します。」"
+    ],
+    "textEn": [
+      "\"We can surmise that Rena Ryuugu most likely has the scrapbook about the 'parasite theory' we've all heard of.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…………………………く…。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "刑事たちは信じられない面持ちで呆然とするしかなかった。",
+      "皆が大石をジロリと見ている。",
+      "……実は誰もが心の中で、寄生虫なんているわけない、細菌テロなんて大袈裟なと思っていた。",
+      "でもそれを、大石が証拠があるから間違いないと独走したのだ。",
+      "…確かにここにある中には『寄生虫説』はないが、書いてある内容のレベルはまったく変わらないだろう。",
+      "……つまり、",
+      "…性質の悪いオカルト小説レベル…。"
+    ],
+    "textEn": [
+      "The police were dumbfounded. They couldn't believe what they were seeing.",
+      "The other officers were shooting glances at Ooishi.",
+      "...They hadn't said anything to him, but they never really believed in the story of the parasite, let alone the bioterrorism.",
+      "But Ooishi had believed it and told them he had proof.",
+      "...None of the scrapbooks in front of them said anything about parasites, but it was easy to assume the contents of one scrapbook were no different in nature from another.",
+      "In other words...",
+      "all of them were just crappy occult novels..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…………………うぅ……………。」"
+    ],
+    "textEn": [
+      "\"............Well...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は突きつけられた現実がにわかには受け容れられないようだった。",
+      "……だが、こうして実際に見てみれば火を見るより明らかだ。",
+      "鷹野三四は単なるオカルトマニアで、……鬼ヶ淵の伝説を元に、面白おかしく妄想を膨らませてるだけ！",
+      "それを竜宮レナが真に受けて、……大石まで真に受けたということだ。",
+      "末席の刑事に至っては、スクラップ帖のあまりの馬鹿馬鹿しさに、もう笑いを隠せずにいるようだった。",
+      "……大石がじろりと睨んだので、慌てて笑うのをやめる。",
+      "大石がこの中身を真に受けた最大の理由は、竜宮レナが園崎組に、このスクラップ帖の所持を理由に追われている点だった。",
+      "しかもスクラップ帖の主である鷹野が殺されている！",
+      "……この２点だけで、このとんでもないＢ級オカルトを信じてしまった。",
+      "……大石には間違いなく焦りがあった。",
+      "それを今や認めざるを得ない。",
+      "定年前に何とか雛見沢村連続怪死事件を決着させたくて、新情報を焦っていたのだ。",
+      "…そこに、いくつかの微妙な要因が重なり合い、とんでもない説が信憑性を持ってしまったのだ。"
+    ],
+    "textEn": [
+      "Ooishi appeared unable to accept the fact that was facing him.",
+      "...But now that he was actually looking at it, it was too difficult to ignore.",
+      "Miyo Takano was an occult geek who had laughable ideas about the legend of Onigafuchi!",
+      "But Rena took them seriously... and so had Ooishi.",
+      "The other officers could no longer stop themselves from laughing at the ridiculous scrapbooks.",
+      "...Ooishi glared at them, and they stopped laughing.",
+      "The main reason Ooishi took the story of the parasite seriously was because the Sonozaki family was apparently after Rena Ryuugu for the scrapbooks she had.",
+      "Plus, Takano, the owner of the scrapbooks, was killed!",
+      "...Because of these two reasons, he believed in that occult b-novel.",
+      "...Ooishi was frustrated without a doubt.",
+      "He has to accept that he was wrong.",
+      "Ooishi was eager for any information that could help him solve the series of mysterious deaths of Hinamizawa before he retired.",
+      "...A combination of a number of factors made Takano's ridiculous theory become highly creditable to him."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いくつかお聞きしたい。",
+      "鷹野三四はどうして？！」"
+    ],
+    "textEn": [
+      "\"Let me ask you something.",
+      "Why was Miyo Takano killed?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「鷹野三四についても富竹ジロウについても、当家では一切関知しておりません。」"
+    ],
+    "textEn": [
+      "\"We have no idea what happened to Miyo Takano and Jirou Tomitake.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「そりゃあ、そういうだろうなぁ。",
+      "自分のことを嘘吐きという嘘吐きがこの世にいるわきゃない。」"
+    ],
+    "textEn": [
+      "\"Of course you don't.",
+      "...A liar doesn't call himself a liar.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………あらあら、大石さん。",
+      "……………当家で始末したなら、……死体が出るとお思いで…？」"
+    ],
+    "textEn": [
+      "\"...Come on, Ooishi-san.",
+      "...Do you think we'd do such a lousy job as to let the police find the bodies...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がにたりと陰のある笑いをする。",
+      "…それは言い過ぎの発言だったのだろう。",
+      "咎める意味でなのか、茜がコホンと咳払いをすると、魅音はすぐに口をつぐんだ。",
+      "大石は憎々しげに魅音を睨み返す。",
+      "………だが、筋は魅音の方が通っていた。"
+    ],
+    "textEn": [
+      "Mion wore a cold smile.",
+      "...She had said too much.",
+      "Akane cleared her throat as if to condemn the statement, and that made Mion shut her mouth.",
+      "Ooishi glared at the young successor.",
+      "...But he knew she was right."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「………………じゃあ、竜宮レナを何で追ってるんだよ。」"
+    ],
+    "textEn": [
+      "\"...Then, why are you after Rena Ryuugu?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「初めから追っていないと申し上げております。",
+      "確かにそう見えてしまう誤解が生じたことはこちらのミスです。",
+      "その点につきましては、私よりお詫びさせていただきます。」"
+    ],
+    "textEn": [
+      "\"We're not.",
+      "I admit, it's our fault that we made it look like we were after her.",
+      "For that, we apologize.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「………………………………。」"
+    ],
+    "textEn": [
+      "\"........................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石がレナの妄想を真に受けることになった原因が、ひとつひとつ潰えていく…。",
+      "魅音と茜が目配せをし合う。",
+      "……茜が代表で告げることになったらしい。茜が凛とした声でそれを告げた。"
+    ],
+    "textEn": [
+      "The reasons which made Ooishi take Rena's delusion seriously collapsed one by one...",
+      "Mion and Akane looked at each other.",
+      "...They must have decided to let Akane speak. She did so firmly."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「当家からのお願いを申し上げさせていただきます。",
+      "…当家ではこのような世迷言の内容に踊らされて警察と事を交えるのは望むところではありません。",
+      "……伝え聞くところでは、県警暴対本部の山海氏が、公安部と調整をされていると聞いております。"
+    ],
+    "textEn": [
+      "\"We'd like to ask you a favor.",
+      "We don't want to be involved with the police because of nonsense like this.",
+      "We heard that Sankai from the police headquarters started work with the Public Safety Division."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "何かの瑣末な口実を切っ掛けに、当家に関連する全てに対し一斉捜査を入れられるおつもりとか。」"
+    ],
+    "textEn": [
+      "They're going to do simultaneous raids on our family using this case as their excuse, aren't they?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは大石が依頼したことだった。",
+      "大石はレナの話を真に受け、「寄生虫」を開発している研究施設を発見し、それをテロの証拠として抑えたかった。",
+      "",
+      "…でもその場所の見当がまったくつかないので、県警の暴力団対策本部と公安部と連携して、県内の一斉捜査大作戦を展開しようとしていたのだ。",
+      "本来なら、暴対も公安部もこんな状況証拠だけでは動かない。",
+      "公安部に至っては自分たちの情報網では一切そのようなテロは察知していないと、大石の情報源を疑ったくらいだ。",
+      "それを大石が旧知の縁などを利用し、強引に調整したのだ。",
+      "大石の顔は脂汗が浮き、……自分がとんでもない勘違いをしていたことを認めていることが、言わずともうかがえた。"
+    ],
+    "textEn": [
+      "That had been at Ooishi's request.",
+      "Ooishi took Rena's story seriously, and he wanted to find the research facility that was developing the \"parasite\". He was intending to use it as a proof of the potential bioterrorist attack.",
+      "<size=-2>",
+      "...But as he had no idea where to start looking, he tried to conduct simultaneous raids on all the facilities the Sonozaki family owned in the entire prefecture, in cooperation with the task force for gang groups and Public Safety.",
+      "Normally, the circumstantial evidence he had wouldn't be enough to get their cooperation.",
+      "In fact, Public Safety doubted Ooishi's source, because they hadn't heard of any potential terrorist attacks. They trusted their information network.",
+      "But Ooishi took advantage of his long career and his old friends, and he managed to get them to cooperate.",
+      "Ooishi's face broke out in a nervous sweat... Needless to say, he realized he was completely wrong."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「当家もダム戦争の当時はいろいろとご迷惑をお掛けいたしましたが、すでに昭和も６０年代を前にし、時代の移り変わりを感じております。"
+    ],
+    "textEn": [
+      "\"We caused you some trouble during the dam conflict, but the era is reaching its end, and things have changed."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "そんな中、当家もまた、弱きを助け強きを挫く任侠団体でありながらも、時代に則した平和的な路線を模索しているところです。",
+      "そんな中、警察の一斉捜査を頂戴しては、手前どもの面目が丸潰れでございます。」"
+    ],
+    "textEn": [
+      "We're a yakuza group that sides with the weak and crushes the strong, but we're also trying to achieve peace and stability, in line with these changing times.",
+      "If we get raided now, we're going to lose face.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あんたのとこの面目なんて知ったことじゃないよ。",
+      "叩きゃ埃は出るんだ。",
+      "一斉捜査は決行しますよ。」"
+    ],
+    "textEn": [
+      "\"Who cares about your face?",
+      "I know we'll find something with those raids.",
+      "We're going to go through with them.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「埃が出れば結構ではございますが、",
+      "………出なかった場合、いくら大石さんと言えど、決して軽んじれない責任問題に発展するかと存じますが？」"
+    ],
+    "textEn": [
+      "\"If you find something, good for you.",
+      "...But if you don't, you know it'll cause a big liability issue that even you won't escape lightly, Ooishi-san.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「………上等だよ、うちと全面戦争するかぁ？！",
+      "ああッ？！」"
+    ],
+    "textEn": [
+      "\"All right, it sounds like you really do want an all-out war!",
+      "Huh?!\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「それをお望みでしたらそれもまたよろしいかと。",
+      "……どうかお気が済むようお仕事をなされて下さいませ。",
+      "当家はいつでも受けて立ちますので。」"
+    ],
+    "textEn": [
+      "\"If that's what you want.",
+      "...Please carry out your job to your own satisfaction.",
+      "We'll take on the challenge anytime.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……くッ………………………。」"
+    ],
+    "textEn": [
+      "\"...Wha...............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……さすがは園崎茜だった。",
+      "…次期頭首の資格が剥奪されただけで、踏んで来た場数が魅音とは比べ物になろうはずもない。",
+      "こう言われてしまっては大石は引っ込みがつかない。",
+      "でも内心は自分に相当不利な喧嘩であることを理解していた。",
+      "…それを熊谷が汲み、大石をなだめながら発言した。"
+    ],
+    "textEn": [
+      "...Akane Sonozaki didn't betray Ooishi's expectations.",
+      "...Although her right to become the successor was taken away, Akane had been through a lot more than Mion.",
+      "Ooishi couldn't back out now.",
+      "But he knew it was a fight he probably couldn't win.",
+      "...Kumagai butted in, and tried to calm him down."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「………一斉捜査を控えることに対する見返りは…？」"
+    ],
+    "textEn": [
+      "\"If we put a stop to the raids, what would we get in return...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今度は魅音が応えた。"
+    ],
+    "textEn": [
+      "Mion answered this time."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「双方の友好の証として、そのスクラップ帖を皆さんに献上いたします。",
+      "そのスクラップ帖があれば、まだ鷹野三四をダシに、矛先を引っ込めることもできましょう。」"
+    ],
+    "textEn": [
+      "\"We'll give you these scrapbooks as proof of our friendship.",
+      "I'm sure you can use them to cancel the raid attempts.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "このスクラップ帖は、鷹野三四の説がいかに滑稽であるかを証明する。",
+      "どうせ鷹野は死んでるんだ。",
+      "死人の妄言に振り回されたことにして、今ならまだ引っ込みがつく。",
+      "……それでも大石の責任はゼロにはならないだろうが、このまま突き進めば待ち受けるのは泥沼のみ。",
+      "……常に今のこの瞬間が、最善の撤回タイミングだった。",
+      "大石は管理職に受けが悪い。",
+      "……定年を間近にしてこれほどのデカいミスを犯せば、一矢報いたいと思っている連中は喜んで彼の退職金を削りにくるだろう。",
+      "退職金は基本給からの倍率で決まる。",
+      "……その根源である基本給の上乗せ分を削られたら、相当の減額は免れない……。"
+    ],
+    "textEn": [
+      "These scrapbooks proved how ridiculous Miyo Takano's theory was.",
+      "Takano was dead anyway.",
+      "Ooishi could show people these scrapbooks and say he was fooled. He could still pretend the whole raid thing never happened.",
+      "...He might have to take responsibility for it, but if he didn't back off now, there'd be no doubt that he'd face a hopeless mess.",
+      "If he was going to back off, it was now or never.",
+      "The administrative staff at his station weren't exactly fond of him.",
+      "...If he made such a huge mistake right before his retirement, people who'd been looking for a chance for revenge would cut his pension with glee.",
+      "His pension was decided by multiplying his base salary by a certain number.",
+      "...If they cut his base salary, there was no way he could avoid a big reduction..."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「……………大石さん。」"
+    ],
+    "textEn": [
+      "\"......Ooishi-san.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は引き際の覚悟を決めた。",
+      "……自分のミスを、まさかこの年で認めることになるとは思わず、…苦々しく表情を歪めるのだった。"
+    ],
+    "textEn": [
+      "He decided to back off.",
+      "...It was hard for him to admit mistakes at his age. He grimaced with anger."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……あとは熊ちゃんに任すわ。",
+      "……ちょっと飲み過ぎちゃったみたいです。",
+      "私ゃちょいと縁側で夜風に当ってきます。"
+    ],
+    "textEn": [
+      "\"...Kuma-chan, can you take over from here?",
+      "...I think I had too much to drink.",
+      "I'm going to get some fresh air on the porch."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "………失礼。」"
+    ],
+    "textEn": [
+      "...Excuse me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石はさっさと立ち上がり、踵をドスドスと鳴らしながら廊下へ出て行った。",
+      "開けっ放しにされた襖を葛西が閉めると、室内は再び静寂で満たされた。",
+      "その中、再び熊谷が発言する。"
+    ],
+    "textEn": [
+      "Ooishi stood up quickly and left the room, making a lot of noise as he walked.",
+      "Kasai closed the door Ooishi left open. The room was filled with silence again.",
+      "At that point, Kumagai opened his mouth."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「園崎家さんの言い分は了解いたしました。",
+      "警察としても、一斉捜査が及ぼす各業界への影響は本意ではなく、それによって小競り合いを誘致することもまた本意ではありません。"
+    ],
+    "textEn": [
+      "\"We understand your point.",
+      "Our intention isn't to cause trouble to all the organizations you own."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "よって、市内の平穏を維持するため、今後とも警察と園崎家で連携していくことを確認したいと思います。",
+      "……よって、この度の一斉捜査は見送らせていただきます。」"
+    ],
+    "textEn": [
+      "So, I want to confirm that the police and the Sonozaki family will help each other to maintain the peace of this city.",
+      "...Therefore, we're going to put off doing the simultaneous raids.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ありがとうございます。",
+      "園崎家頭首お魎に代わりまして、深く御礼申し上げます。」"
+    ],
+    "textEn": [
+      "\"Thank you very much.",
+      "I'm sure our leader, Oryou, appreciates your concern as well.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「約束に従い、このスクラップ帖は警察でお預かりします。",
+      "それから条件が２つ。」"
+    ],
+    "textEn": [
+      "\"As you promised, we'll take the scrapbooks.",
+      "And there are two more conditions.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「賜ります。」"
+    ],
+    "textEn": [
+      "\"Go ahead.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「一点目は、この場にないスクラップ帖を園崎家が入手した場合、速やかに警察に提出すること。",
+      "二点目は、竜宮レナの身柄を確保した場合、速やかにその身柄を警察に引き渡すこと。」"
+    ],
+    "textEn": [
+      "\"First, if you find the other missing scrapbooks, you must bring them to us immediately.",
+      "Second, if you find Rena Ryuugu, you must turn her over to us immediately as well.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「二点目は認められません。",
+      "竜宮レナは妄想に取り付かれた一少女に過ぎません。",
+      "当家で速やかに身柄を確保した上で、然るべき治療を受けられる医療機関を手配します。"
+    ],
+    "textEn": [
+      "\"I'm afraid the second one is unacceptable.",
+      "Rena Ryuugu is in a state of delusion.",
+      "We'll make sure of her safety, and we'll find the best medical facility we can take her to."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "これは当人の権利でもあります。」"
+    ],
+    "textEn": [
+      "She has the right to receive treatment.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「その点につきましては当方も主張を引けません。",
+      "当方には鷹野殺しを含めて、竜宮レナに尋問する権利があります。",
+      "重要参考人としてです。",
+      "容疑者としてではありません。」"
+    ],
+    "textEn": [
+      "\"We can't accept that, either.",
+      "We have the right to question her about the murder of Takano",
+      "as a material witness,",
+      "not as a suspect.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "茜が魅音に小声で何か入れ知恵する。",
+      "魅音は小さく頷いてからそれを口にした。"
+    ],
+    "textEn": [
+      "Akane whispered to Mion.",
+      "Mion, in turn, nodded and began to speak."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「わかりました。",
+      "二点目の条件を了承します。",
+      "ただし当方からも条件を追加します。",
+      "竜宮レナの権利保全のため、当家から弁護士を派遣します。",
+      "竜宮レナへの尋問は全て弁護士立会いのもとで行なうこと。」"
+    ],
+    "textEn": [
+      "\"Very well,",
+      "we'll accept the second condition.",
+      "But let us add another condition on top of that.",
+      "We're going to send her a lawyer.",
+      "You will only question her in the lawyer's presence.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「了解しました。",
+      "ただし一点確認を。",
+      "園崎家からの弁護士が意図的に派遣されないことによる妨害は認めません。",
+      "警察は竜宮レナの身柄を確保した後、ただちに尋問を開始します。」"
+    ],
+    "textEn": [
+      "\"Understood.",
+      "One more thing.",
+      "You aren't allowed to delay us by not sending the lawyer on purpose.",
+      "We'll start questioning right after we find her.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「当家も問題ありません。",
+      "ただし、竜宮レナの身柄確保時にはただちに当家へ連絡をすること。」"
+    ],
+    "textEn": [
+      "\"We have no problem with that.",
+      "But you must contact us immediately after she's found.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「可能な限り早く連絡するようにいたします。」"
+    ],
+    "textEn": [
+      "\"We will as soon as we can.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そこで茜が口を挟む。"
+    ],
+    "textEn": [
+      "Akane cut in."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「尋問をあらかた終えてから電話されても困ります。",
+      "身柄を確保した時点でご連絡をお願いします。",
+      "…………ここいらは互いを信頼した上での善意の取り決めでございます。"
+    ],
+    "textEn": [
+      "\"You have to call us before you question her.",
+      "You must call us the very moment she's found.",
+      "...This agreement is made in good faith, founded on our mutual trust."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "どうかゆめゆめ、反故にされることがないよう、よろしくお願い申し上げます。」"
+    ],
+    "textEn": [
+      "So please do be careful not to do anything that might waste it.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「……わかりました。",
+      "双方による善意の取り決めです。",
+      "遵守に、誠心誠意努力いたします。」"
+    ],
+    "textEn": [
+      "\"...Understood.",
+      "You have my word on that.",
+      "We'll try to keep our promise with the best of intentions.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "茜と熊谷が一瞬だけわずかに火花を散らしあった。",
+      "…熊谷もなかなかどうして落ち着いたものだった。",
+      "……派手な大石の影にいてなかなか目立たないが、刑事としての度胸は決して負けていない。",
+      "脅迫的な喧嘩っぽいやり方は大石の得意とすることだが、…こういう交渉的なことは熊谷の本領だった。",
+      "全てが終了し、刑事たちが立ち上がり、ようやく緊張した時間が終わりを告げた。",
+      "葛西がスクラップ帖をアタッシュケースにしまい、熊谷に手渡した。",
+      "熊谷は葛西の目を見てから小さく頷き、アタッシュケースを受け取る。"
+    ],
+    "textEn": [
+      "Akane and Kumagai glared at each other for a moment.",
+      "...Surprisingly, Kumagai was very calm.",
+      "...He was always in the shadow of Ooishi, who was loud and noisy, but he had as much guts as his superior did.",
+      "Ooishi was good at taking care of matters in a rough and threatening kind of way... but Kumagai was good at negotiations like this.",
+      "The meeting ended, and the police stood up from their seats. The tension in the room had finally ceased.",
+      "Kasai put the scrapbooks back in the suitcase and handed it to Kumagai.",
+      "Kumagai looked at Kasai, nodded lightly, and took what was offered him."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「イタリー製の最高級鞄です。",
+      "今日のお土産に含まれますので、どうかお持ちになってくださいませ。」"
+    ],
+    "textEn": [
+      "\"This is a very expensive case made in Italy.",
+      "Please take it as a souvenir from us.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「いえ、お約束ではスクラップ帖のみをお預かりすることになっております。",
+      "鞄は後日、園崎組事務所へお返しにうかがわせていただきます。",
+      "…それでは失礼します。",
+      "………園崎家頭首、お魎さんにもどうかよろしくお伝えください。」"
+    ],
+    "textEn": [
+      "\"No, we're only supposed to take the scrapbooks.",
+      "We'll return it to your office later.",
+      "...Thank you for your time.",
+      "...Please give my regards to the family head, Oryou-san.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "最後に魅音に対して一礼し、刑事たちは退出していった……。",
+      "刑事たちの足音が廊下の向こうに消えたのを確認すると、魅音が、ぷはーーっと緊張の糸が切れたようなため息を吐き出した。",
+      "足を投げ出し、スカートの裾をばたばたと扇ぐ。"
+    ],
+    "textEn": [
+      "The officers left after bowing to Mion...",
+      "After making sure that the police had left the hallway, Mion sighed heavily and finally let go of her tension.",
+      "She spread her feet on the floor, flapping the rim of her skirt."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「いやぁ、…肩がこっちゃったよ…。"
+    ],
+    "textEn": [
+      "\"Oh, man... My shoulders hurt..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "お母さんがやってくれればよかったのにぃ…。」"
+    ],
+    "textEn": [
+      "Why didn't you take care of this, Mom...?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「馬鹿だね、あんたの方が肩書きが上なんだよ。",
+      "こういうのは年じゃなくて肩書きなの。",
+      "葛西、仲居に言ってビールでも持ってこさせて。",
+      "あと外の若いのも呼び入れて何か冷たいのを振舞ってやりな。」"
+    ],
+    "textEn": [
+      "\"Don't be silly. Your rank is higher than mine.",
+      "Rank is everything, not age.",
+      "Hey, Kasai, have a waitress bring me a beer.",
+      "Oh, and you can let the grunts in and give them something cold to drink, too.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「ビールだけで、よろしいですか？」"
+    ],
+    "textEn": [
+      "\"You want me to bring only beer?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「あぁ、この子は駄目駄目。",
+      "オレンジジュースでも頼みな。」"
+    ],
+    "textEn": [
+      "\"Oh, she can't drink.",
+      "Bring some orange juice for her.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ちぇーー、子ども扱いしてー。",
+      "肩書きが上でも全然大人扱いしてもらってないよー。」"
+    ],
+    "textEn": [
+      "\"Don't treat me like I'm a little kid.",
+      "I guess my rank doesn't matter to you, huh?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「いくつになってもでっかい子どもだよあんたは。",
+      "それはそうと。",
+      "今回の一件、お父さんがだいぶ手回ししてくれてるんだよ。",
+      "よーく感謝しときな。",
+      "葛西もね。",
+      "あんたも堅気と会うときはもうちょい気を利かせな！」"
+    ],
+    "textEn": [
+      "\"You'll always be a big baby to me.",
+      "Anyway,",
+      "your father pulled many strings for you this time.",
+      "You should thank him.",
+      "And you too, Kasai.",
+      "You have to play it smarter when meeting with the common man.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「…見っとも無い限りです。」"
+    ],
+    "textEn": [
+      "\"I'm a little embarrassed...\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「しかしさぁ、あの大石をコケにするとは、レナちゃんもやるじゃない？",
+      "あんたの友達はつくづく大物が多いねぇ！",
+      "今度ぜひ母さんにも紹介してよ。",
+      "お芝居でも一緒に見に行きたいねぇ！"
+    ],
+    "textEn": [
+      "\"By the way, I'm very impressed with Rena-chan for making a fool out of Ooishi.",
+      "You have many friends with good potential!",
+      "I'd like to meet her.",
+      "We can go to see a play together or something."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "葛西、今度レナちゃんに会ったらぜひそう伝えておいてよー。"
+    ],
+    "textEn": [
+      "Kasai, whenever you see her next time, let her know I said that."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "その時、まぁた物騒な話を吹き込むんじゃないよ？！」"
+    ],
+    "textEn": [
+      "And don't tell her any more creepy stories, alright?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「も、もちろんわかってます、姐さん。」"
+    ],
+    "textEn": [
+      "\"O-Of course, I'm well aware of that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "これで、……レナを中心にした鷹野さんのスクラップ帖の魔力は封殺できたはずだ。",
+      "もう騒ぎが大きくなることはあるまい。",
+      "あとは……レナだけの問題だ。",
+      "レナ、……一体あんた、……今、どこに隠れてるの……？",
+      "寝る前にカーテンを閉めようと窓に近付いた。",
+      "ふと門灯のところに人影のようなものが見えるような気がした。",
+      "……こんな時間に？",
+      "一体誰がという疑問は起きなかった。",
+      "……こんな時間に訪問するかもしれない人間を、俺は今の状況下ではひとりしか知らなかったからだ。",
+      "窓を開けてもう一度目を凝らす。",
+      "………間違いなかった。"
+    ],
+    "textEn": [
+      "With that, they successfully dispelled the magical power of Takano's scrapbooks.",
+      "The whole mess shouldn't grow any larger.",
+      "The only remaining problem... was Rena.",
+      "Where could she be hiding...?",
+      "Before I went to bed, I headed to my window to close the curtain.",
+      "I saw the shadow of a person near the porch.",
+      "...Who could it be so late?",
+      "Well, I didn't have to guess who it was.",
+      "...There was only one person I knew who might come see me so late.",
+      "I opened the window and looked more carefully this time.",
+      "......I was right."
+    ]
+  }
+]

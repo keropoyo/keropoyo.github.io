@@ -1,0 +1,1744 @@
+[
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……………うん。",
+      "…もういいよ。",
+      "ごめんね。」"
+    ],
+    "textEn": [
+      "\"............Good.",
+      "...It's okay now.",
+      "I'm sorry.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その声で、ようやく俺の緊張が解かれる。"
+    ],
+    "textEn": [
+      "The tone of her voice made me relax a little."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…ふぅ…。",
+      "………どうしたってんだよ一体。」"
+    ],
+    "textEn": [
+      "\"...Whew.",
+      "......What's going on?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「多分、私。",
+      "……誰かに最近、あとをつけられているの。」"
+    ],
+    "textEn": [
+      "\"I think...",
+      "someone has been following me.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何だって…。」"
+    ],
+    "textEn": [
+      "\"What...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どうしてレナが……、誰に？！",
+      "そう思った瞬間に、なんて愚問だと思った。"
+    ],
+    "textEn": [
+      "Who would follow her...?",
+      "When I thought about it, I realized how stupid the question was."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……まさか、……警察かよ？！」"
+    ],
+    "textEn": [
+      "\"...Is it... the police?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "間宮リナに北条鉄平。",
+      "人間が二人も蒸発しているのだ。",
+      "いくらゴロツキみたいなやつらとは言え、警察沙汰にだってなるだろう。",
+      "リナって女がレナの家に出入りしていたことは、多分、そう苦労せずに突き止められるに違いない。",
+      "でも……、大丈夫だ。",
+      "あの死体の袋さえ見付からなければ、絶対に大丈夫だ。"
+    ],
+    "textEn": [
+      "Rina Mamiya and Teppei Houjou.",
+      "Two people disappeared.",
+      "Even though they were awful human beings, the police had to investigate if they found out that they'd gone missing.",
+      "It probably wouldn't be difficult to find out that Rina had often been to Rena's house.",
+      "But... it should be okay.",
+      "As long as they don't find those bags, it should be okay."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「警察なのか、……警察じゃないのかは、わからないけれど。",
+      "……綿流しの夜以降、………誰かにずっと見られている気がするの。」"
+    ],
+    "textEn": [
+      "\"I don't know if it's the police or not.",
+      "...But I feel like someone has been watching me since the night of Watanagashi.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……どういう事だよ！」"
+    ],
+    "textEn": [
+      "\"...What do you mean?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺がそう問い掛けた時、レナは無感情な目で俺を真正面からじっと見据えた。",
+      "……それは、まるで値踏みするかのような目。",
+      "俺に、…何か大切なことを、打ち明けるべきかどうか、その価値があるかどうか測っている目だった。",
+      "レナは自分の手首を、もう片方の手でぎゅっと握ると、小声で言った。"
+    ],
+    "textEn": [
+      "Once I asked that question, Rena stared directly at me with a blank expression.",
+      "...Her eyes looked as though they were evaluating me.",
+      "She stared at me as if she was assessing whether I was worth talking to about something very important.",
+      "Rena squeezed her own wrist tightly, then started talking in a whisper."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………話してもいいけど、……誰にも内緒にできる…？」"
+    ],
+    "textEn": [
+      "\"......I can tell you what's going on... but can you keep it a secret...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ、もちろんだぜ。",
+      "レナがそうしろってんなら、誰にもしゃべらない。」"
+    ],
+    "textEn": [
+      "\"Yeah, of course I can.",
+      "If you want me to keep it secret, I won't tell anybody.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…うん。",
+      "……圭一くんなら信用できるよ。」"
+    ],
+    "textEn": [
+      "\"...Okay.",
+      "...I trust you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "少しだけ微笑むとレナはもう一度辺りをうかがい、小声で言った。"
+    ],
+    "textEn": [
+      "She smiled and looked around one more time."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………連中はひょっとすると、…三四さんのスクラップ帖を探しているのかもしれないの。」"
+    ],
+    "textEn": [
+      "\"......They might be looking for Miyo-san's scrapbooks.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「三四さん？",
+      "って……、あぁ、看護婦の鷹野さんのことか？",
+      "あとスクラップ帖って何のことだ？」"
+    ],
+    "textEn": [
+      "\"Miyo-san?",
+      "Oh... the nurse, Takano-san?",
+      "What about her scrapbooks?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………秘密の捜査になっているって言ってたから、多分、圭一くんは知らないよね。",
+      "……鷹野三四さん、",
+      "…殺されたんだって。」"
+    ],
+    "textEn": [
+      "\"......The police are keeping the investigation under wraps, so I'm sure you don't know.",
+      "...Miyo Takano-san was",
+      "murdered.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え、……ええ？！",
+      "いつ！」"
+    ],
+    "textEn": [
+      "\"What? ......What?!",
+      "When?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "声が大きいと叱られる。",
+      "俺は声を小さくし、レナに先を促した。"
+    ],
+    "textEn": [
+      "She told me to be quiet again.",
+      "I lowered my voice and let her continue."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「綿流しの夜、私たちは三四さんと、あと富竹さんに会ったよね？",
+      "あの直後に、２人が襲われたんだって。"
+    ],
+    "textEn": [
+      "\"On the night of Watanagashi, we met Miyo-san and Tomitake-san, didn't we?",
+      "They were attacked right after that."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……富竹さんは……、「オヤシロさまの祟り」に遭って、喉を掻き毟って死んだ。"
+    ],
+    "textEn": [
+      "...Tomitake-san... was cursed by Oyashiro-sama. He clawed out his throat and died."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "三四さんは、岐阜の山中で焼き殺されていたと言ってたの。」"
+    ],
+    "textEn": [
+      "Miyo-san was burned to death in the mountains of the Gifu Prefecture.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……そ、……それ、本当かよ……。",
+      "そんなの誰も知らないぞ？！」"
+    ],
+    "textEn": [
+      "\"...Is that... true...?",
+      "I mean, nobody told me about that!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "それは警察が伏せて捜査をしてるからなの。",
+      "雛見沢村連続怪死事件は今年で５年目になっちゃうでしょ？",
+      "だから、変に騒がれたくないんで事件を公にしていないんだって。」"
+    ],
+    "textEn": [
+      "\"I know.",
+      "That's because the police haven't disclosed their investigation.",
+      "These cases make the fifth of the series of mysterious deaths.",
+      "So the police have decided not to go public yet.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「な、なるほど…。",
+      "秘密捜査なのはわかったが…、レナはそんな話、どこで聞いたんだよ…？」"
+    ],
+    "textEn": [
+      "\"I-I see...",
+      "I understand why the police are keeping quiet about it... but then, where did you hear this...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………………内緒だよ？",
+      "私、…実は大石っていう興宮署の刑事さんと連絡を取り合っているの。",
+      "その人に教えてもらった。」"
+    ],
+    "textEn": [
+      "\"............Can you keep it a secret?",
+      "I... I've been in contact with Ooishi-san. He's a detective from the Okinomiya police department.",
+      "He told me about the case.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「どうして…、大石って人がレナに…？」"
+    ],
+    "textEn": [
+      "\"Why... did he tell you...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………さぁ、…ちょっとそこはわからない。",
+      "彼が言うには、私なら信用できそうだからって言うんだけどね。」"
+    ],
+    "textEn": [
+      "\"......I don't know.",
+      "He said he told me because he could trust me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然の突拍子もない話に、俺が呆然としていた。",
+      "……だが、レナが嘘を言うはずなどない。",
+      "これが魅音だったなら、今にもペロっと舌を出しそうだが、レナに限ってだけはありえない。"
+    ],
+    "textEn": [
+      "I was dumbfounded to hear all this.",
+      "...But I knew she wasn't lying.",
+      "If it was Mion, she'd be sticking her tongue out by now. But Rena wouldn't make a joke out of something like this."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「三四さんが殺された理由は、……多分、彼女の研究のせいだと思うの。",
+      "三四さんがこの村の歴史とか民俗学とか、そういうのを熱心に調べてたってのは知っている？」"
+    ],
+    "textEn": [
+      "\"I think the reason why Miyo-san was murdered is because of her research.",
+      "Do you know she was doing ethnological research by studying the history of this village?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何となくは聞いたことある。」"
+    ],
+    "textEn": [
+      "\"I've heard something along those lines.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんって人は、オカルトとかミステリーとかそういう類のものが好きだったらしい。",
+      "この村には、人食い鬼の伝説があるそうで、そういうのを面白がって研究している…",
+      "というのを魅音に教えてもらったことがあるような気がする。"
+    ],
+    "textEn": [
+      "Takano-san was interested in the occult and in mysterious things.",
+      "I remember Mion once told me",
+      "that she was studying the village's legends of man-eating demons, out of curiosity."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……彼女は多分、その研究の中で、この村に関するある重要な秘密を知ってしまったの。",
+      "…あるいは彼女は、そんなにも核心には踏み入ってなかったのかもしれないけど、……そうは思われなかったんだろうね。」"
+    ],
+    "textEn": [
+      "\"...I think she discovered a very important secret about this village through her studies.",
+      "...Or maybe she wasn't even close to the truth... but they thought she was.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ちょっと待て。",
+      "…この村の秘密って何だよ？」"
+    ],
+    "textEn": [
+      "\"Wait a second.",
+      "...What's the secret of this village you're talking about?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………………私は、……三四さんのスクラップ帖をほんの数冊借りて読んだだけ。",
+      "でも、彼女が特に大事にしていた秘蔵の数冊だから、かなり重要なことが記してあったと思う。"
+    ],
+    "textEn": [
+      "\"......I just read a few of her scrapbooks.",
+      "But those were the ones that she was handling with extra caution. So, I think there are pretty important things written in them."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "………だから、多分、三四さんが至ろうとしていたことに、８割方くらいは近付いていると思うの。",
+      "でも、…………あまりに突拍子もなくて、…私にはまだ信じられない。",
+      "…三四さんの想像が正しいかどうか、検証してる段階なの。」"
+    ],
+    "textEn": [
+      "......I think I know about 80% of what Miyo-san was trying to uncover.",
+      "But...... if it's true, it's almost too crazy to believe.",
+      "...Right now, I'm trying to find out whether Miyo-san's theory is right or not.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……で、……何なんだ一体。",
+      "…秘密を知ると殺されるっていう、……この村の秘密ってのは…。」"
+    ],
+    "textEn": [
+      "\"...So, what is it?",
+      "...What is the secret of this village? What could be so important that you might get killed just by knowing about it...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そこまで口に出してぎょっとする。",
+      "……ということは、それをレナの口から知れば、俺もまた殺されるかもしれないからだ。"
+    ],
+    "textEn": [
+      "I gasped the moment those words left my mouth.",
+      "...If Rena told me, I might get killed, too."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんには、……まだ全部話したくない。",
+      "確証が持てたら話すね。",
+      "…だって、それくらいに途方もない、…とんでもない話だから。」"
+    ],
+    "textEn": [
+      "\"I don't want to tell you yet...",
+      "But I promise I will once I verify things.",
+      "...Because it's really crazy... too crazy to be true...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「確証って何だよ…？」"
+    ],
+    "textEn": [
+      "\"What do you mean, you have to verify things?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「例えば、予備知識のないうじ湧きについては私自らがその存在を検証できているけど、…他にもたくさん、未検証のことがあるの。"
+    ],
+    "textEn": [
+      "\"For example, I myself serve as verification that the maggot disease can occur without any background knowledge, but... there are a lot of things I still need to verify."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "それらを埋めていかないと、…私ですらにわかには信じられない。」"
+    ],
+    "textEn": [
+      "They sound too crazy to be true, and I can hardly believe them if I don't verify that they are.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……うじ？",
+      "ちょっとわかりにくい単語が出たので聞き直そうかと思ったが、取り合えず話の腰を折らないことにする。",
+      "こんなにも蒸し暑いのに。",
+      "……レナはまるで寒さでも感じるかのように、自分の両肘を抱く仕草をした。"
+    ],
+    "textEn": [
+      "...Maggots?",
+      "I was totally lost now, and I wanted to ask her some questions, but I decided not to cut in.",
+      "It was so hot outside.",
+      "...But Rena held her arms as if she was cold."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナ。",
+      "俺はいつだってお前の味方なんだからな。",
+      "………俺だけは信用してくれて構わない。」"
+    ],
+    "textEn": [
+      "\"Rena.",
+      "I'm always on your side.",
+      "...You can trust me.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………ありがとう。",
+      "…その一言がすごいうれしい。」"
+    ],
+    "textEn": [
+      "\".........Thank you.",
+      "...I really appreciate it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは、本当にうれしそうな顔だった。",
+      "……とてつもない何かに巻き込まれて、……誰にも打ち明けられず、心細い思いをしていたことが見て取れる。",
+      "…そうだ、こんな時だから、俺がレナの味方にならなくちゃいけないんじゃないか。"
+    ],
+    "textEn": [
+      "From her expression alone, I could tell that she really meant it.",
+      "...I could also tell that she was involved in something very big... and that she felt lonely, because she couldn't tell anybody else about it.",
+      "...I had to be on her side while she was going through a difficult time."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「私とね、今日ここで出会ったことは内緒にした方がいいと思うの。",
+      "私と接触があったことが知られたら、圭一くんにも危害が及ぶかもしれないから。」"
+    ],
+    "textEn": [
+      "\"You shouldn't tell anybody that you met me here today.",
+      "They might try to hurt you if they found out.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…わ、わかった。",
+      "………俺に、何か協力できることはないのかよ？！」"
+    ],
+    "textEn": [
+      "\"...O-Okay.",
+      "...Isn't there anything I can do to help?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「今はない。",
+      "でも、協力をお願いできることがわかっただけで、今の私には心強いよ。"
+    ],
+    "textEn": [
+      "\"Not right now.",
+      "But it's very reassuring that I can ask you for help when I need it."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……最後には頼らせて、ね！」"
+    ],
+    "textEn": [
+      "...I'll depend on you someday!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おう。",
+      "任せとけ。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "Anytime.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「シ！",
+      "車が来る！」"
+    ],
+    "textEn": [
+      "\"Shh!",
+      "A car is coming!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが俺の頭を茂みに押し込む。",
+      "俺は逆らわず、茂みの中に身を縮めた。",
+      "……………………。",
+      "しばらく息を殺していると、車の音が聞こえてきて、白いワゴン車が通り過ぎていった。",
+      "…レナの耳の良さに驚く。",
+      "よくこんなにも早い内から車の接近を察知できたものだ。"
+    ],
+    "textEn": [
+      "Rena pushed my head into the bush.",
+      "I went along with it and crouched down even lower in the bushes.",
+      "....................",
+      "We stayed quiet for a while. I could hear a car coming closer, and after a while a white van passed by.",
+      "...I was surprised at her hearing.",
+      "She heard the car coming when it was still far off in the distance."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「今の車、ナンバー、見えた？」"
+    ],
+    "textEn": [
+      "\"Did you see its license plate number?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え？",
+      "…いやごめん。",
+      "見えなかった。」"
+    ],
+    "textEn": [
+      "\"What?",
+      "...No, I'm sorry.",
+      "I didn't.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「私もちょっと見えなかったけど、…多分、さっきと同じナンバーの車だと思うの。」"
+    ],
+    "textEn": [
+      "\"I couldn't either, but I think it's the same car I saw earlier.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……その、レナを尾行しているとかいう連中か？」"
+    ],
+    "textEn": [
+      "\"...Are they the ones following you?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「多分。",
+      "………普段、車なんか通らない道で、今日は何度も追い上げられるの。",
+      "その度に私は隠れてやり過ごしているからいいんだけど、……どうもおかしい。」"
+    ],
+    "textEn": [
+      "\"I think so.",
+      "...It passed by me many times today on the street, where nobody usually drives.",
+      "I hid every time. But... it's strange.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そいつらなのか？",
+      "鷹野さんたちを殺して、レナが持ってるスクラップ帖を狙っているという連中は。」"
+    ],
+    "textEn": [
+      "\"Are they the ones?",
+      "Are they the ones who killed Takano-san and Tomitake-san? Are they looking for the scrapbooks you have?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「多分。」"
+    ],
+    "textEn": [
+      "\"Most likely, yes.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……もう本当に突拍子もない話で、…当事者であるレナ自身がにわかには信じ難いというのも無理はなかった。",
+      "鷹野さんがこの村の研究で、何かとてつもないことを突き止めた。",
+      "そして、それを隠したいと思っている連中に嗅ぎ付けられ、……綿流しの晩に、「オヤシロさまの祟り」を模して殺された。",
+      "そして、その物騒な連中は、鷹野さんの研究成果であるスクラップ帖を探していて、そのスクラップ帖をレナが持っているらしい。",
+      "それで……レナが命を狙われているって……？"
+    ],
+    "textEn": [
+      "...I don't blame her for not being able to believe what's going on, because this is really crazy.",
+      "Takano-san uncovered something really significant through her studies.",
+      "The people who want that information hidden found out about it and... they killed her on the night of Watanagashi, copying the curse of Oyashiro-sama.",
+      "They're looking for the scrapbooks, the fruits of her research. And Rena has them.",
+      "That's why... they're trying to kill Rena...?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ、レナの家が危ないってことはないのか！？」"
+    ],
+    "textEn": [
+      "\"What about your house?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「大丈夫。",
+      "スクラップ帖はゴミ山の私の隠れ家に隠してある。"
+    ],
+    "textEn": [
+      "\"It's safe there.",
+      "I hid the scrapbooks in my secret hideout at the garbage dump."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "………お父さんが不安だけど、……何も知らないからこそ、何も危害が及ばないかもしれない。」"
+    ],
+    "textEn": [
+      "...I'm worried about my father... but he'll be fine because he really doesn't know anything.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\"..................\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…あははは。",
+      "圭一くんが言わなくても顔に書いてあるよ。",
+      "突拍子もない話でとても信じられない、でしょ…？」"
+    ],
+    "textEn": [
+      "\"...Ahahaha.",
+      "It's written on your face, Keiichi-kun.",
+      "It says 'I can't believe it, because it sounds too crazy to be true.' Am I right?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………。」"
+    ],
+    "textEn": [
+      "\"..................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そんなことないさと否定しようと思ったが、下手なことを言うほうがかえって悪いと思い、俺は肯定を意味する沈黙を返した。"
+    ],
+    "textEn": [
+      "I wanted to deny it, but I felt bad to lie. I remained silent in the affirmative."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…それが当然の反応。",
+      "私だって三四さんのスクラップ帖を読み始めた最初は、何だこりゃって思って、全然信じられなかったもの。",
+      "……全てに目を通して、ようやく何かの筋が見えてきたんだもん。」"
+    ],
+    "textEn": [
+      "\"...Well, that's a normal reaction.",
+      "I couldn't believe any of it when I read the first scrapbook.",
+      "...I finally started seeing the connections after reading all of them.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………すまん。",
+      "もちろん、レナの味方になりたいのは本心だ。",
+      "でも、…話が全然見えないんで、どう助けてやればいいかわかんないんだ。」"
+    ],
+    "textEn": [
+      "\"...I'm sorry.",
+      "I do want to help you.",
+      "But I just don't know how, if I don't see the whole picture of what's going on.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「話せば、圭一くんの身にも危険が降りかかるよ？」"
+    ],
+    "textEn": [
+      "\"If I tell you, it might put you in danger.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナにはすでに降りかかってるんだろ？",
+      "ならお相子だぜ、気にするな！」"
+    ],
+    "textEn": [
+      "\"You're already in danger, right?",
+      "I don't mind. Don't worry about me!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………わかった。",
+      "話す。",
+      "……多分、三四さんたちを殺したのは、雛見沢御三家。",
+      "…もっとはっきり言ってしまえば、魅ぃちゃんの家である園崎本家。」"
+    ],
+    "textEn": [
+      "\"......Okay.",
+      "I'll tell you, then.",
+      "...It's probably the Three Families who killed Miyo-san and Tomitake-san.",
+      "...To be more specific, it's the Sonozaki family--Mii-chan's family.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「どうして…！」"
+    ],
+    "textEn": [
+      "\"Why...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんも、過去の連続怪死事件は知ってるよね？」"
+    ],
+    "textEn": [
+      "\"You know about the series of mysterious deaths, right?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ。",
+      "ダム戦争の時の村の仇敵ばかりが、毎年犠牲になっていくっていうあれだろ。」"
+    ],
+    "textEn": [
+      "\"Of course.",
+      "The traitors of the dam conflict die every year, right?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「この連続怪死事件は、ダム戦争の清算のようなものなの。",
+      "村の裏切り者を片付けることによって、本当の意味でダム戦争を終わらせようとする…。」"
+    ],
+    "textEn": [
+      "\"The series of mysterious deaths is like a... resolution of the dam conflict.",
+      "They're trying to end the dam conflict in the true sense of the term by erasing people who betrayed the village...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……確かに、……そう見えないことはないよな。",
+      "誰もがはっきりと口にはしないが、薄々と園崎家の仕業だと疑ってる…みたいな話は聞いたことあるぜ。」"
+    ],
+    "textEn": [
+      "\"...It does... look like that in a way.",
+      "Nobody really says it out loud, but everybody is suspicious that the Sonozaki family is behind it... That's what I've heard.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でも、裏切り者を制裁するなら、別に綿流しの晩にこだわらなくてもいいんじゃない？"
+    ],
+    "textEn": [
+      "\"But if they really wanted to erase the traitors, they wouldn't have to do it on the night of Watanagashi."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "毎年、祟りで１人、鬼隠しで１人なんてスローペースで殺す必要はない。",
+      "そうでしょ？」"
+    ],
+    "textEn": [
+      "Why don't they kill them all at once instead of killing them one by one, using the curse and demoning them away every year?",
+      "Wouldn't that make more sense?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鬼隠しなんて言葉は初耳だったが、物騒な意味で使ったことは文脈から理解できたので、俺は余計な口を挟まず、黙って頷く。"
+    ],
+    "textEn": [
+      "I've never heard the words 'demoning away' before, but Rena clearly thought they have some kind of creepy, significant meaning, so I decided not to cut in."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「つまりこれらの連続怪死事件は、綿流しの祭りに神聖性を取り戻そうとする意思があるの。"
+    ],
+    "textEn": [
+      "\"That means that they're using the series of mysterious deaths in order to resurrect the sacredness of the Watanagashi festival."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……もっと踏み込んで言うと、明治以降に失われた鬼ヶ淵村の神聖性を取り戻すための、段階的イベント。",
+      "彼らは最終的には、太古の昔にそうだったような、原理的なオヤシロさま信仰を復活させることを目的としている。」"
+    ],
+    "textEn": [
+      "...Step by step, they're reviving the sacred nature of Onigafuchi that was lost in the Meiji era.",
+      "Their goal is to revive the level of belief in Oyashiro-sama that used to exist in primitive times.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……オヤシロさま信仰…。",
+      "…古手神社のことか？」"
+    ],
+    "textEn": [
+      "\"Belief in Oyashiro-sama...",
+      "...Are you talking about the Furude Shrine?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そう。",
+      "古手神社って、崇められていると思う？",
+      "お年寄りの人は敬っているけど、それだけだよね？"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "Do you think people revere the Furude Shrine now?",
+      "Elder people respect the shrine, but that's it."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "子どもたちは境内を遊び場くらいにしか思ってないし、ほとんどの村人たちも地域の集会所くらいにしか思っていない。",
+      "その神聖性は失われている。",
+      "それが、ダム戦争を切っ掛けに蘇ったの。"
+    ],
+    "textEn": [
+      "Kids think of it as a place to play, and most of the villagers think of it as a place to gather for local events.",
+      "Its sacredness has been lost.",
+      "But with the dam conflict, it started to revive..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "彼らはそれを、オヤシロさま信仰を復活させるいい機会だと捉えた。」"
+    ],
+    "textEn": [
+      "and they took it as a good opportunity to bring back the cult of Oyashiro-sama.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…ってことはつまり、………オヤシロさま信仰の狂信者たちが、…裏で暗躍しているってことか？」"
+    ],
+    "textEn": [
+      "\"...So... you're saying that... some fanatical Oyashiro-sama worshippers are... behind all this?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そういうこと。",
+      "そもそもオヤシロさま信仰は御三家によって管理されていた。"
+    ],
+    "textEn": [
+      "\"That's what I'm saying.",
+      "The cult of Oyashiro-sama was managed by the Three Families to begin with."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "だから、御三家には現代にも脈々と、オヤシロさま信仰を復活させなければならないという至上目的が受け継がれているの。"
+    ],
+    "textEn": [
+      "The Three Families passed down their ultimate goal of reviving the cult of Oyashiro-sama down to the present generation."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "",
+      "それを思えば、御三家がダム戦争中に村を一丸にまとめたり、廃れかけていたオヤシロさまを引き合いに出し、古手神社にわざわざ同盟事務所を設けた理由も透けて見えてくる。」"
+    ],
+    "textEn": [
+      "<size=-2>",
+      "When you think about it, you'll understand why the Three Families took the initiative in uniting the villagers during the dam conflict, and why they set up the Onigafuchi Guardians office in the Furude Shrine, citing Oyashiro-sama, who was almost forgotten at the time.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…じゃあ、雛見沢村連続怪死事件ってのは、雛見沢御三家、",
+      "…いや、オヤシロさまを信仰する狂信的な集団の仕業…。",
+      "……なら待てよ、どうして鷹野さんが殺されなきゃならないんだ？」"
+    ],
+    "textEn": [
+      "\"...So, the Three Families...",
+      "I mean, the fanatical Oyashiro-sama worshippers orchestrated the series of the mysterious deaths of Hinamizawa...",
+      "...but wait. Why would they kill Takano-san?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「それは御三家が、鬼ヶ淵村と呼ばれた太古からずっと隠してきた、この村のある重大な秘密に関係があるの。",
+      "それを暴かれると、オヤシロさまという神の神聖性が失われる。"
+    ],
+    "textEn": [
+      "\"Because she discovered the important secret of this village. The Three Families have been hiding it since the era of Onigafuchi.",
+      "If that secret is revealed, the sacredness of Oyashiro-sama will be lost."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "だから彼らは三四さんの研究が核心に近付いたことを知り、",
+      "消したの。」"
+    ],
+    "textEn": [
+      "They found out that Miyo-san was getting close to the secret, and that's why they",
+      "killed her.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「その、重大な秘密ってのは……何なんだ？！",
+      "それを知ると俺も狙われるってんだろうけど、上等だぜ！」"
+    ],
+    "textEn": [
+      "\"What's this 'important secret'...?!",
+      "I don't care if I put myself in danger. I need to know!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……………だから、それはまだ言いたくない。",
+      "私自身が１０割の確証を得るまで言いたくない。",
+      "…多分、今ここで話しても、圭一くんは堪えきれなくなって、笑い出してしまうに違いないもの。」"
+    ],
+    "textEn": [
+      "\".........I don't want to tell you yet.",
+      "I don't want to tell you until I'm 100% sure about it.",
+      "...I'm pretty sure that right now, you'd just laugh.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おいおい、俺がそんなヤツに見えるかよ？！」"
+    ],
+    "textEn": [
+      "\"Hey, do you think I'm that kind of guy?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………もう少し、時間がほしいの。",
+      "……あまりの事実に、私ですら受け入れきれていないの。",
+      "だからもう少し時間をほしいの。",
+      "………お願い。」"
+    ],
+    "textEn": [
+      "\"......I just need a little more time.",
+      "...I can't accept the truth myself, because it sounds so impossible.",
+      "So, I need some time.",
+      "...Please.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………わかった。」"
+    ],
+    "textEn": [
+      "\"............I understand.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「今日ここで話したことは、誰にもしゃべっちゃだめだよ。",
+      "魅ぃちゃんと梨花ちゃん、もちろん沙都子ちゃんにもだめ。」"
+    ],
+    "textEn": [
+      "\"Don't tell anybody about what we talked about today.",
+      "Not even Mii-chan, Rika-chan, or Satoko-chan.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わ、わかったよ…。」"
+    ],
+    "textEn": [
+      "\"O-Okay...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃ、圭一くんはもう行って。",
+      "私はもう少し辺りをうかがってから行く。",
+      "用心に過ぎるということはないからね。」"
+    ],
+    "textEn": [
+      "\"Well, you should go now.",
+      "I'll take a look around for a while before I go home.",
+      "I can't be too careful anymore.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは茂みに身を潜め、姿を消した。",
+      "俺だけが取り残される。",
+      "セミの合唱があっという間に辺りを埋め、…まるで最初からここには俺しかいなかったかのように見せるのだった。",
+      "……………俺は仕方なく歩き始めるが、……呆然としたままだった。",
+      "俺に知らせてしまうと危害が及ぶかもしれないからと、結局、レナは何も核心を話してはくれなかった。",
+      "ただ、はっきりと明言したのは、……この村にはオヤシロさま信仰を復活させようとするある邪悪な意思があって、",
+      "そいつらは村の中枢を支配する御三家に根付いている。",
+      "そして、そいつらはそのために連続怪死事件を起こし、…彼らが守りたいとする秘密に迫った鷹野さんを、殺した。",
+      "レナは鷹野さんに出会い、彼女の研究をまとめたスクラップ帖を偶然、受け取ってしまった。",
+      "……そして、その中には、読んだレナ自身でさえ、にわかには信じられないとてつもない秘密が書かれていた…。",
+      "おいおい……。",
+      "…悪いけどレナ、",
+      "………それ、冗談だろ…？",
+      "週刊誌の漫画じゃあるまいし…。",
+      "ナゾの宗教結社が暗躍して、何か陰謀を巡らしているなんて…。",
+      "何というかその……、冗談でも笑えない。",
+      "……だが、なるほど、レナの言うとおりだな。",
+      "仮にこれが真実だとしても、…にわかにはとても信じられない。",
+      "レナが真相を明かすのを時期尚早と渋ったのも納得だった。",
+      "鷹野さんにいいようにからかわれただけじゃないのか…？",
+      "でも、…鷹野さんが殺されたのは紛れもない事実らしい。",
+      "……そして、そのスクラップ帖を探して、レナの身辺を何者かがうかがっているのも……事実なのか？",
+      "そう言えばレナ、……白いワゴン車の監視を受けているというようなことを言っていたな。",
+      "白いワゴン車なんて、割と見かけるぜ…。",
+      "業務用の車なら、結構あちこちにあるんじゃないのか。",
+      "……何となく、レナが神経過敏になっているだけのようにも感じる。",
+      "レナは、あの日以来、心にショックを受けたまま癒しきれずにいる。",
+      "……だから、自分の身辺に警察か何かが迫っているように、思い込んでしまっているんじゃないのか？",
+      "取り合えず、レナが言うのには余計な口を挟まずに聞きに徹した。",
+      "……対応は正しかったと思う。",
+      "あそこで、そんな馬鹿ななんて言ってたら、レナは二度と俺を信用しなかったろう。",
+      "その時、ぎょっとした。",
+      "白いワゴン車が路肩に止まっていたからだ。",
+      "さっき通り過ぎたワゴン車のナンバーは見ていないから、同じ車だという保証はない。",
+      "でも、……中に乗っている人の数とか雰囲気とかは、…確かに似ていた。",
+      "それに、ちょっと不審な点もあった。",
+      "……ここに停車する必然性がなかったからだ。",
+      "ここは林の中の小道だ。",
+      "辺りには何にもない。",
+      "信号機だってないし、自動販売機も公衆電話もない。",
+      "それは、普通なら気がつかないような違和感だった。",
+      "…だが、こうして一度気付いてしまうと、確かにそれは異様だった。",
+      "ワゴン車の中には、作業服姿のような男たちが４人ほどいた。",
+      "……運転席の男は煙草を吸っているが、それ以外の男たちは基本的にぼーっとしているだけ。",
+      "休憩とか一服とかなら、もう少しマシなところがあるはずだ。",
+      "もちろん、トイレがどうしても我慢できなくなって、ここで急停車をしたという可能性もあるのだが、……その気配ともまた違った。",
+      "彼らには休憩時に発する独特の弛緩したムードがない。",
+      "来るべき何かにずっと備えているような、緊張感が感じられた。",
+      "……まさか、レナがここにやってくるのを待ち受けているのか…？！",
+      "まさかまさか、…そんなことはあるものか。",
+      "……確かにここはひと気もない。",
+      "この道は裏道みたいなものなので、人通りは滅多にないし、車などさらに滅多に通るものじゃない。",
+      "でもでも……そんな馬鹿な………。",
+      "……レナには悪いが、………多分、これはレナの被害妄想か何かだ。",
+      "リナたちを殺したことを仲間に知られたショックで、ナーバスになっているレナが感じている妄想だ。"
+    ],
+    "textEn": [
+      "Rena ducked low in the bushes and moved away.",
+      "I was left alone there.",
+      "The cries of the cicadas surrounded around me, making it seem as if I was alone there the whole time.",
+      "...I started walking... still dumbfounded.",
+      "In the end, Rena didn't tell me the secret because she was afraid of putting me in danger.",
+      "But she told me clearly that... there are people who want to resurrect the cult of Oyashiro-sama,",
+      "and that they're among the Three Families that control the entire village.",
+      "They orchestrated the series of mysterious deaths for that purpose... and they killed Takano-san because she got too close to the secret they wanted to hide.",
+      "Rena met Takano-san and happened to obtain the scrapbooks in which Takano-san wrote about her research.",
+      "...Rena still can't believe the secret written in the scrapbooks because it's just too crazy...",
+      "Hey...",
+      "Come on, Rena...",
+      "You're kidding me, right...?",
+      "It's like one of those comic book stories...",
+      "A mysterious occult group is plotting a conspiracy...?",
+      "I mean... it's not funny even if it's a joke.",
+      "...But Rena is right about one thing.",
+      "Even if this is true... it's really hard to believe.",
+      "I understand why Rena wanted to wait to tell me the secret.",
+      "Maybe she was just fooled by Takano-san...",
+      "But... Takano-san was murdered for real.",
+      "...So is it also true that someone is following Rena, looking for the scrapbooks?",
+      "I remember... Rena said that a white van was following her.",
+      "You can see white vans anywhere...",
+      "I bet there are a lot in this village alone.",
+      "...She might just be oversensitive to everything right now.",
+      "Rena hasn't recovered from the shock since that day.",
+      "...That's probably why she got the idea into her head that the police or someone else is coming after her...",
+      "I didn't cut in while she was talking.",
+      "...I think I did the right thing.",
+      "If I had said that it was ridiculous or something to her face, Rena wouldn't have trusted me ever again.",
+      "At that point, however, I gasped.",
+      "A white van was parked on the side of the street.",
+      "I wasn't sure if this was the same car that passed by earlier, since I didn't see the plate number.",
+      "But... the number of people in the car and the ambience of it was similar to the one earlier.",
+      "And there's one other thing that looked suspicious about it.",
+      "...There was no reason to park here.",
+      "It was on a small road in the middle of the woods.",
+      "There's nothing around here.",
+      "No traffic lights, no vending machines, and no public phones.",
+      "I probably wouldn't notice it under ordinary circumstances, but I felt something was wrong.",
+      "...And once I noticed how odd it was, it was definitely suspicious.",
+      "There were four men in work uniforms in the white van.",
+      "...The driver was smoking a cigarette, but the other men were just sitting there doing nothing.",
+      "If they wanted to take a break or have a smoke, they could've chosen a better place than here.",
+      "It was possible that they stopped because they had to go to the bathroom really badly... But it didn't seem that way, either.",
+      "They didn't look as comfortable or relaxed like they would if they were taking a break.",
+      "They looked like they were waiting for something to happen. There was a deep tension in that car.",
+      "...Could they possibly be waiting for Rena...?!",
+      "No way.",
+      "...I didn't see anybody walking around here.",
+      "This road is a back road. Nobody really uses this road, let alone by car.",
+      "...But... But... it's impossible...",
+      "...I felt bad for Rena to even think about it, but... this must be something that she got into her head, because she's feeling victimized or something.",
+      "She must be imagining things because she's still nervous from when her friends caught her in the act of killing Rina and Teppei."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「兄ちゃん。」"
+    ],
+    "textEn": [
+      "\"Hey, young man.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ワゴン車の脇を通った時、突然その声が聞こえた。",
+      "面識のない自分に話しかけるわけもない。",
+      "だからその声は、きっと車内の誰かに話しかけたものに違いないと思った。",
+      "だから聞こえなかったふりをして、そのまま通り過ぎようとした時、もう一度、声をかけられた。",
+      "クラクション付きで。"
+    ],
+    "textEn": [
+      "I heard someone say that when I passed by the van.",
+      "He couldn't mean me. He didn't even know who I was.",
+      "So I assumed he was talking to one of the other people in the car.",
+      "I pretended I didn't hear him, and I kept walking by. And then, he said it again",
+      "and honked the horn as well."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「兄ちゃん、すまんね。",
+      "学校の帰りかいね？」"
+    ],
+    "textEn": [
+      "\"Hey young man, excuse me.",
+      "Are you on your way home from school?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "村人の年配者特有の強い訛りがあった。村人だろうとは思うが、面識はなかった。",
+      "向こうも、自分のことを名前で呼ばないことから面識がないことをうかがえた。"
+    ],
+    "textEn": [
+      "He had a strong accent similar to that of the older villagers. He must live here, but I didn't know him.",
+      "I could tell he didn't know me either, because he didn't call me by name."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……はい、…そうですけど。」"
+    ],
+    "textEn": [
+      "\"...Yes... I am.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「兄ちゃん、学校からこの道をずっと歩いてきたんね？",
+      "ちょうど文房具屋の角を曲がってぇ、」"
+    ],
+    "textEn": [
+      "\"You've been walking on this road all the way from school, right?",
+      "You turned the corner where the stationery store is, right?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうですけど。",
+      "…何か？」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "...So?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "彼らは道に迷ったんだと思った。",
+      "…この村って、変に近道をしようと思って、慣れない道を入ると、結構、変なところに迷い込むからな。",
+      "だから、誰か村人が通りかかったら道を聞こうと思っていたに違いない。",
+      "……そう思おうとした矢先だった。"
+    ],
+    "textEn": [
+      "They were probably lost, I thought.",
+      "...This village has many small turns, and you can easily get lost when you try to take a shortcut.",
+      "So they must've been waiting for someone to ask for directions.",
+      "...But then, he said something disturbing."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「兄ちゃんさ、この道の途中で女の子に会わんかったかいね。」"
+    ],
+    "textEn": [
+      "\"Young man, didn't you see a girl on the way here?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え、………あの、………え…？」"
+    ],
+    "textEn": [
+      "\"Huh? ......Umm... What...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「白い帽子に白い服を着た女の子なんよ。",
+      "紫のリボンも付いとん。",
+      "会わんかったかいね。」"
+    ],
+    "textEn": [
+      "\"A girl with a white hat in white clothes",
+      "with a purple ribbon on it.",
+      "Did you see her?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは紛れもなくレナを示したものに違いない。"
+    ],
+    "textEn": [
+      "They were definitely talking about Rena."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……い、…いいえ…！",
+      "会ってないです……。」"
+    ],
+    "textEn": [
+      "\"...N-No...!",
+      "I didn't...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "心の準備がまったくなかった。",
+      "…いや、むしろ俺は怯えていたのかもしれない。",
+      "だから、信じられないくらいに上擦った声を出してしまった。",
+      "たった今まで、レナの話を疑っていた。",
+      "馬鹿にしていた。",
+      "実は笑い捨てていた。",
+      "だからこそ、これ以上なく心の虚を突かれたのだった。",
+      "……心臓がバクバクと高鳴り、全身に脂汗が浮く。",
+      "とっさに「いいえ」とは答えたものの…。",
+      "………いかにも嘘をついたように聞こえたかもしれない。",
+      "運転席の作業服の男が、じぃっと俺の目を覗きこんでいた。",
+      "俺の答えが、嘘か真実か測っているように見えて足がすくむ…。",
+      "しばらくの間、俺は、蛇に睨まれたカエルのように身動きすることができずにいた…。",
+      "だが、それは男にとっても同じだったかもしれない。",
+      "明らかに不審である自分たちが、村人に対し、女の子がいなかったかと突然問い掛けたのだ。",
+      "怪しまれないわけはない……。",
+      "そしてその想像は当ったと思う。",
+      "先に口を開いたのは男の方で、聞いてもないのに言い訳的なことを口にしたからだ。"
+    ],
+    "textEn": [
+      "I wasn't ready to hear them ask that.",
+      "...Rather, I was scared.",
+      "That's why my voice got all shaky.",
+      "Up until that point, I couldn't believe Rena's story.",
+      "I thought it was ridiculous.",
+      "I actually laughed, if only to myself.",
+      "That's why I wasn't ready at all.",
+      "...My heart was beating fast, and I was sweating all over.",
+      "I immediately answered, \"no, I didn't\" but...",
+      "...It might've sounded like an obvious lie.",
+      "The driver stared into my eyes.",
+      "He looked like he was trying to figure out if I was lying or not, and my legs started to shake...",
+      "I felt like a frog under the glare of a snake, and I couldn't move a muscle for a while...",
+      "but I think the same went for those men too.",
+      "They were clearly a suspicious group, and they had just asked a villager about a girl out of the blue.",
+      "Anybody would get suspicious...",
+      "And I was right.",
+      "The man broke the ice and started making excuses before I even asked him why he wanted to know about the girl."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「……あぁん、そんな深い意味はないんね。",
+      "さっき、女の子を追い抜いたのによ、来たのが男の子だったから、あんれぇ…と思っただけなんね。」"
+    ],
+    "textEn": [
+      "\"...Well, I was asking for no particular reason.",
+      "We just passed by a girl earlier, but you're a boy. So, we were just wondering...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そ、…………そうですか…。」"
+    ],
+    "textEn": [
+      "\"Oh... okay...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「忘れてぇな。",
+      "ごめんな兄ちゃん。",
+      "………うちら、もう行くんて。」"
+    ],
+    "textEn": [
+      "\"Please forget it.",
+      "Sorry for the trouble, young man.",
+      "......We're off.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "男はそう言いながらエンジンをかけると、そのまま走り去っていった。",
+      "走り去った後には何も残らない。",
+      "そう、何もない。",
+      "……ここに彼らが止まっていた理由は、何もなかった。",
+      "……じゃあ、……………さっきのあいつら、…………ほ、…本当にレナを………？！"
+    ],
+    "textEn": [
+      "The man started the engine and drove away.",
+      "After they left, I saw nothing.",
+      "That's right. Nothing.",
+      "...There was no reason why they had to park here.",
+      "...So......... were they really... waiting for... Rena......?!"
+    ]
+  }
+]

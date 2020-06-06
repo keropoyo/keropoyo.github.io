@@ -1,0 +1,624 @@
+[
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「今でもさ、ちょっとでも怪しいシチュエーションがあると、針が混じってるかもしれないなって考えちゃうんだよ。",
+      "もちろん、ちょっと考えるだけだぜ？"
+    ],
+    "textEn": [
+      "\"I'm still a little worried about sewing needles every once in a while.",
+      "I don't think about it all the time, of course."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "みんなの弁当を突っつく時、いちいち中身を改めてたら失礼だもんな。",
+      "針を混ぜるなんて危ない悪戯なんて絶対するわけがないって思うから、そんな下らないトラウマなんか気にしないで食べてるんだよ。」"
+    ],
+    "textEn": [
+      "It'd be pretty rude if I poked at my food while eating lunch with you guys, wouldn't it?",
+      "Of course I know that no one would actually put a sewing needle inside of my food.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……でも、今でもちょっと怖いのですね？」"
+    ],
+    "textEn": [
+      "\"......But you're still a little scared?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「んーーー…、",
+      "未だに忘れられないってことは、今でも心の中にはちょっと残ってるのかもなぁ。」"
+    ],
+    "textEn": [
+      "\"Well...",
+      "Maybe I am somewhere inside my heart.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……では、",
+      "……その魅ぃのおはぎからは、",
+      "…出てきたのですね？」"
+    ],
+    "textEn": [
+      "\"......So.",
+      "...You saw a sewing needle...",
+      "...inside the ohagi that Mii gave you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………………。"
+    ],
+    "textEn": [
+      "........."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……裁縫針が。」"
+    ],
+    "textEn": [
+      "\"......You saw a sewing needle inside of one?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ。",
+      "…………出てきた。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "...I did.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そのおはぎの中からは……、",
+      "針を恐れる俺の期待通りに、針が出てくるのだ……。",
+      "…………どうして俺は、妄想とも白昼夢ともつかない滅裂な話を大真面目にしているんだろう。",
+      "…風邪かなんかで休んでいる俺のところに魅音とレナが来て、お見舞いにおはぎを置いていった。",
+      "……そんな経験はないのだから、これは確実に記憶のエラーなのだが。",
+      "でも、……梨花ちゃんは笑わないから話せといった。",
+      "だから話した。"
+    ],
+    "textEn": [
+      "Inside that ohagi...",
+      "there was a needle, just as I feared...",
+      ".........Why was I telling her about something that was just my imagination?",
+      "Mion and Rena came to see me when I took a day off from school while I was sick.",
+      "...That never happened, so obviously my brain was just making it up...",
+      "But I spoke to Rika-chan",
+      "because she said she wouldn't make fun of me."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一は、目の前にあるこのおはぎにも、針が混じっているように感じて怖いですか？",
+      "だから、さっきから手を付けられない？」"
+    ],
+    "textEn": [
+      "\"......Are you afraid of this ohagi now? Do you feel like there might be a needle inside?",
+      "Is that why you're not eating it?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "気付くと、魅音やレナも俺の方を見ていた。",
+      "…俺がおはぎを神妙な顔をしながらじっと見ているのを、不思議に思っているようだった。"
+    ],
+    "textEn": [
+      "I realized that Mion and Rena were also looking at me.",
+      "They were wondering why I was staring at the ohagi without eating it."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…あ、…圭ちゃん、おはぎ嫌いだった？",
+      "嫌いだったなら無理しなくても…。」"
+    ],
+    "textEn": [
+      "\"Oh... you don't like ohagi, Kei-chan...?",
+      "If you don't, you don't have to eat it...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は俺がおはぎが嫌いだと思ったらしい。",
+      "…苦手な物を無理に食べさせようとしてしまって申し訳ないことをした……、そう、魅音の顔に文字が浮かび上がる。",
+      "その、少しだけ気の毒な表情の魅音を見た瞬間に、心を掻き毟られる。"
+    ],
+    "textEn": [
+      "Mion was assuming that I didn't like ohagi.",
+      "...She felt bad for forcing me to eat something I didn't like.",
+      "In turn, I felt guilty seeing the sad expression on her face."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「お姉のおはぎなんで、中に何か妙なものが仕込まれてるって疑ってるんですよー。」"
+    ],
+    "textEn": [
+      "\"Sis, he must be convinced that you put something in it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "詩音がそう言った時、反射的に俺は言い返す。",
+      "……それは誰にも伝わらないはずの妄言だ。",
+      "だって、自分でも何を言っているのかわからない。"
+    ],
+    "textEn": [
+      "I immediately denied Shion's remark.",
+      "...No one else would understand what I'm saying.",
+      "Even I didn't know."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いや、はっきり断言できるぜ、ここにある魅音のおはぎには針なんて絶対に入っていねえ。」"
+    ],
+    "textEn": [
+      "\"No, I know for sure that there's no sewing needle inside this ohagi.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「は、針ぃ？！",
+      "そんなの何でおじさんが入れるわけぇ！」"
+    ],
+    "textEn": [
+      "\"A-A sewing needle?",
+      "Why would this ol' man put something like that in there?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あははは…、当り前だよな。",
+      "魅音は確かに、大人しくお見舞いを持ってくるようなヤツじゃない。",
+      "タバスコを入れるとか、そういう冗談はやるかもしれないが、間違っても針なんて混ぜない。"
+    ],
+    "textEn": [
+      "\"Aha ha ha... of course you wouldn't.",
+      "You're not the type to visit and bring something with you out of pure generosity.",
+      "You might play a trick with tabasco sauce or something, but you'd never put needles inside."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "…シャレになることとならないことのけじめははっきり付けてる。",
+      "だからそんなことは絶対にありえない。」"
+    ],
+    "textEn": [
+      "You'd never do something as dangerous as that...",
+      "I know you would never do such thing.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺はおはぎをむんずと掴む。",
+      "それを口の前に持ってきた時、今さらのように小学生時代の怖い漫画の記憶が蘇り、頬張る前に中身を改めさせたい衝動を掻き立てさせた。",
+      "…そんな臆病な、心の中の自分に俺ははっきりと言ってやる。",
+      "おい、クソ臆病な俺！！",
+      "いつまでガキの頃の漫画の話でビビってやがるんだよ。",
+      "このおはぎは、魅音がみんなにご馳走したくてわざわざ持って来てくれた。",
+      "だから、針なんて絶対に混ざってねぇんだよ！！",
+      "俺は自分の小さくて下らない過去の妄執と決別し、がぶりとおはぎをかじった。"
+    ],
+    "textEn": [
+      "I grabbed the ohagi with my hand.",
+      "As I brought it in front of my mouth, I felt the need to check it, just in case...",
+      "...But I told myself clearly.",
+      "Hey, you wimp!",
+      "When are you going to stop being scared of that stupid comic book?",
+      "Mion brought these ohagi to treat everyone in the class.",
+      "There's no way she'd put needles inside of these!",
+      "I forced that stupid memory out of my brain and munched on the ohagi."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………ぉ、……うめえじゃねぇかよ！！」"
+    ],
+    "textEn": [
+      "\"Mmmm... It's delicious!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うまくて当然！",
+      "針なんか入ってなかったでしょー？！」"
+    ],
+    "textEn": [
+      "\"Of course it is!",
+      "There wasn't a needle inside, was there?!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そりゃそうだよな。",
+      "本当にスマン。",
+      "自分でも下らないトラウマにずっと縛られてたって呆れるぜ。」"
+    ],
+    "textEn": [
+      "\"No way.",
+      "I'm really sorry.",
+      "I was just caught up in a traumatic experience I once had...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "胸からしこりが取れて、何だかすーっとした気がした。",
+      "すると、なぜか言わなければならない一言が胸の奥から込み上げてきた。",
+      "……状況としてはちょっと妥当な言葉ではないが、今それを口にしなくてはいけない気がした。"
+    ],
+    "textEn": [
+      "My heart had stopped pounding, and I felt relieved.",
+      "The next moment, I got the urge to say something to Mion.",
+      "It wasn't the right thing to say, but I just felt like I had to say it."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おい、魅音。」"
+    ],
+    "textEn": [
+      "\"Hey, Mion.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん？　何〜？」"
+    ],
+    "textEn": [
+      "\"Huh? What is it?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おはぎ、うまかったぜ。」"
+    ],
+    "textEn": [
+      "\"The ohagi was delicious.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「？"
+    ],
+    "textEn": [
+      "\"Huh?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "あははははは、大きなカバンを担いできた甲斐があったよ！」"
+    ],
+    "textEn": [
+      "Ahahahahaha. I'm glad I brought them then, even though they were really heavy!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何で改めておはぎがうまかったと言わなければならないのか、自分でもよくわからなかったが。",
+      "でも、魅音にそれはちゃんと伝えられた。",
+      "……そして、俺はようやく、さっきからずっと感じ続けていた緩い焦燥感のようなものから解放されるのだった。"
+    ],
+    "textEn": [
+      "I didn't know why I wanted to tell her again that the ohagi was delicious.",
+      "But I was glad I said that to her.",
+      "...I was finally released from that odd feeling."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「さぁさぁ！",
+      "沙都子も圭ちゃんを見習ってカボチャをガブリといきましょう！",
+      "よく煮込んでありますから、やわらかいですよ〜！」"
+    ],
+    "textEn": [
+      "\"Well then!",
+      "Since Kei-chan overcame his fears and ate the ohagi, you should eat this squash, Satoko-chan!",
+      "Mm, it's so soft and sweet~!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「詩音さんのお弁当は、何を食べてもカボチャが出て来るんですものー！！",
+      "私がトラウマになりましてよー！」"
+    ],
+    "textEn": [
+      "\"How can that lunch box always be so full of squash!?",
+      "You're going to give me a traumatic experience!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはははは！",
+      "詩ぃちゃんは沙都子ちゃんのカボチャ嫌いを直すのにがんばってるんだね！」"
+    ],
+    "textEn": [
+      "\"Ahahahaha!",
+      "Shii-chan is trying so hard to stop Satoko-chan from hating squash!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「詩音も熱心だよね、まったく。",
+      "将来の妹のつもりなのかねぇ、くっくっく！」"
+    ],
+    "textEn": [
+      "\"She's so passionate about it.",
+      "Maybe she sees her as her future little sister. Heh heh heh!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺がおはぎを食べ終える頃には、いつもののんびりとした食後の団欒になっていた。"
+    ],
+    "textEn": [
+      "By the time I finished eating my ohagi, we had returned to our usual, fun lunch time."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一。",
+      "もしもですよ？」"
+    ],
+    "textEn": [
+      "\"......Keiichi.",
+      "What if?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「うん？",
+      "もしも何だよ？」"
+    ],
+    "textEn": [
+      "\"Hm?",
+      "What if what?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……本当に食べ物から裁縫針が出てきたら、",
+      "……どうしますか？」"
+    ],
+    "textEn": [
+      "\"......What if you really do see a needle inside your food?",
+      "...What would you do...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そんなことあるわけないね。",
+      "梨花ちゃん、脅そうったって無駄だぜ〜？」"
+    ],
+    "textEn": [
+      "\"That's not going to happen.",
+      "Don't you threaten me, Rika-chan.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一。",
+      "…それでも、出て来ることがもしもあったなら。」"
+    ],
+    "textEn": [
+      "\"......Keiichi.",
+      "What if it really happens...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "笑いながら茶化そうとする俺に、梨花ちゃんは再び真剣な様子だった。",
+      "…今日の梨花ちゃんは一体どうしたというんだろう。"
+    ],
+    "textEn": [
+      "Rika-chan looked at me with a serious face as I joked around.",
+      "What's gotten into her lately...?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「しつこいぜ。",
+      "そんなことは絶対ありえないし、信じない。」"
+    ],
+    "textEn": [
+      "\"Stop it.",
+      "It's not going to happen, and I don't believe it will.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺はもう、このちっぽけなトラウマは克服した。",
+      "だから梨花ちゃんに力強くそう言ってやる。"
+    ],
+    "textEn": [
+      "I had just overcome my stupid trauma after all that.",
+      "That's why I made that firm statement."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「わかりましたです。",
+      "……圭一。",
+      "しつこくてごめんなさいなのです。",
+      "……もしも針が出てきたら、それはきっと圭一の勘違いなのですよ……。",
+      "魅ぃが混ぜたなんて、絶対に思わないであげてくださいなのです。」"
+    ],
+    "textEn": [
+      "\"I understand.",
+      "......Keiichi.",
+      "I'm sorry I'm asking you so much...",
+      "...If you see a needle inside your food, it's definitely some kind of mistake...",
+      "Please don't ever believe that it's Mii's fault.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「魅音を疑うな、ってことなんだろ？",
+      "あぁ、当然だぜ！",
+      "俺は絶対に仲間を疑わないぞ！」"
+    ],
+    "textEn": [
+      "\"You're just trying to tell me not to be suspicious of Mion, right?",
+      "Of course I won't!",
+      "I would never be suspicious of my friends!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう言いながら、力強い握りこぶしを作って見せる。",
+      "それでようやく梨花ちゃんは納得してくれたらしい。",
+      "安堵するような微笑を浮かべてくれた。"
+    ],
+    "textEn": [
+      "I raised my fist in the air.",
+      "Rika-chan finally looked happy.",
+      "She smiled as if she was relieved by my words."
+    ]
+  }
+]

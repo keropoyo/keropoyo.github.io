@@ -1,0 +1,1141 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "図書館が閉館の時間になったので、私は閉め出された。",
+      "途中、お惣菜屋さんでご飯とおかずを簡単に買い、我が家に戻ってきた。",
+      "扉をバタンと閉め、防犯のためにすぐに鍵をする。",
+      "すると、隣の家の扉が開く音が聞こえた。",
+      "隣の家は葛西だ。",
+      "…というか、元々このマンションはがらがらで、この階に限れば他に誰も住んでいないのだが。",
+      "扉の開け閉めの音は結構聞こえる。",
+      "ということは葛西が、私が帰ってきたことに気付き、何か用があってやって来るということだ。",
+      "私は一度閉めた鍵を開け、扉越しに大声で言った。"
+    ],
+    "textEn": [
+      "It was time for the library to close. I had to leave.",
+      "I bought some food on my way home.",
+      "I shut my door and locked it right away.",
+      "Then, I heard the door of the neighboring apartment open.",
+      "Kasai lived next door.",
+      "...Nobody else lived on this floor of the nearly empty apartment building anyway.",
+      "I clearly heard the door open and close.",
+      "Kasai must've noticed that I came home, and was coming over because he wanted to talk to me.",
+      "I unlocked the door and shouted out to him."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「葛西なの？",
+      "鍵は開いてますよー。」"
+    ],
+    "textEn": [
+      "\"Is that you, Kasai?",
+      "I'll leave the door unlocked for you.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「葛西さんじゃないよ、詩音。」"
+    ],
+    "textEn": [
+      "\"I'm not Kasai-san, Shion.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "この声は。",
+      "私の背筋がびくっと跳ねる。"
+    ],
+    "textEn": [
+      "That voice...",
+      "I twitched."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「入るよ…？」"
+    ],
+    "textEn": [
+      "\"Can I come in...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………どうぞ。",
+      "お姉。」"
+    ],
+    "textEn": [
+      "\"......Sure,",
+      "Sis.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "扉がゆっくりと開き。",
+      "……私の双子のもう一人、園崎魅音が姿を現した。",
+      "手には、どこかのお菓子屋で買ってきたようなケーキの箱。",
+      "顔には、おずおずとした愛想笑いが浮かんでいた。"
+    ],
+    "textEn": [
+      "The door slowly opened.",
+      "......My alter ego Mion Sonozaki appeared.",
+      "She was holding a box of cake...",
+      "While smiling timidly."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……どうぞ上がってって言うまで玄関に突っ立ってるつもりですか？",
+      "どうぞ上がって。",
+      "全然可愛くない部屋で申し訳ないけどね。」"
+    ],
+    "textEn": [
+      "\"......Are you going to keep standing there until I escort you?",
+      "Come in.",
+      "Sorry this room doesn't look very cute.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…落ち着いた雰囲気のとこだね。」"
+    ],
+    "textEn": [
+      "\"...It looks comfortable.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お姉は初めて上がる私の部屋に、ほんの少し緊張をしているようだった。"
+    ],
+    "textEn": [
+      "Sis looked a bit tense when entering my room. It was her first time here."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「生活は……どう？」"
+    ],
+    "textEn": [
+      "\"How's life...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「新しいガッコはやっぱりつまらないです。",
+      "一応通ってはいますけど、気分が乗らない時はサボらせてもらってます。",
+      "全寮制だとなかなかそうは行かないですからね。」"
+    ],
+    "textEn": [
+      "\"My new school is as boring as I thought it would be.",
+      "I usually go, but I skip classes when I don't feel up to it.",
+      "I couldn't do that when I was going to St. Lucia's.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あはははははは。",
+      "聖ルチはやっぱり辛かったか。」"
+    ],
+    "textEn": [
+      "\"Ahahahahaha.",
+      "So St. Lucia's was really tough, huh?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ちぇー、お姉も一度閉じ込められてみろってんです。」"
+    ],
+    "textEn": [
+      "\"Hah, you should go there sometime.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あはは、ごめんごめん。",
+      "ケーキ買ってきたからさ、食べよ？」"
+    ],
+    "textEn": [
+      "\"Ahaha, sorry.",
+      "I brought cake. Let's eat.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がケーキの箱を開けると、チーズケーキが２つ覗く。",
+      "私たちは食べ物の好みは異ならない。",
+      "だから同じものを揃えるのが一番だ。",
+      "私とお姉はチーズケーキを食べながら、しばらくの間、歓談した。",
+      "学園での生活とか、そういうことを色々と。"
+    ],
+    "textEn": [
+      "Mion opened the box. I saw two cheesecakes there.",
+      "We have the same taste in food,",
+      "so we don't have to fight if we get two of the same thing.",
+      "I chatted with her over the cheesecake.",
+      "I talked to her about school and whatnot."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「必要な家具とかがあったら言ってね。",
+      "融通できるかもしれないから。」"
+    ],
+    "textEn": [
+      "\"If you need furniture, tell me.",
+      "I might be able to get some for you.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「んーー。",
+      "この部屋にもようやく馴染んできたとこだけど、近い内に引き払うかもしれないから家具はノーサンキューです。",
+      "うちのお父さんが興宮に住むつもりなら戻って来いってうるさいんですよ。",
+      "…お父さんにゃ会いたくないんだけど、かと言って逆らうのも怖いしなーー。」"
+    ],
+    "textEn": [
+      "\"Hmm.",
+      "I finally got used to this room, but I might move out soon. So furniture won't be necessary. Thanks, though.",
+      "Dad wants me to come back home...",
+      "I don't want to live with him, but he sounds desperate.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あははははは。",
+      "お父さんも、詩音がいなくなって寂しそうだったから、何だかんだ言っても、帰って来たら喜ぶと思うよ。」"
+    ],
+    "textEn": [
+      "\"Ahahahaha.",
+      "He'd be pleased if you came home. He looked lonely while you were gone.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ちぇー、他人事だと思ってー。」"
+    ],
+    "textEn": [
+      "\"Hah, you can only say that because you don't have to live with him.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あははははははは。」"
+    ],
+    "textEn": [
+      "\"Ahahahahaha.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "思えば、園崎詩音として生活することを許されてから、お姉とこうして落ち着いて話をするのは初めてだった。",
+      "こうして魅音と話していると、……あの園崎本家での冷酷な次期頭首の顔は重ならない。",
+      "次期頭首の魅音と、私の双子の魅音は別物だ。",
+      "人の身に鬼を宿すのが園崎家の頭首。",
+      "今でもまったく変わらない私たちの体は、背中に鬼の刺青があるかないかにおいてだけ、致命的な違いを持つ。",
+      "背中に鬼の刺青を入れられた時、魅音には次期頭首としての運命が与えられたのだ。",
+      "…………そう。",
+      "だからあの魅音は、…この魅音とは違う魅音なのだ。",
+      "爪を剥がされた時、…魅音を呪いもした。",
+      "だが、もし私が次期頭首で、目の前の魅音が爪を剥がされる立場にいたならば。",
+      "………やはり同じになったに違いない。"
+    ],
+    "textEn": [
+      "Come to think of it, this was the first time I'd talked to Sis since I was allowed to live as Shion Sonozaki.",
+      "She didn't look like how she was at the Sonozaki house that day.",
+      "The successor of the Sonozaki family and my twin sister are two different people.",
+      "The demon lives inside the leader of the Sonozakis.",
+      "Our bodies are exactly the same, except for the tattoo of a demon on her back.",
+      "Mion's destiny as the successor was set in stone when she got that tattoo.",
+      ".........It's pretty simple.",
+      "The Mion from that night was different from the Mion before me.",
+      "When I was forced to tear off my fingernails, I'd momentarily despised her.",
+      "But if I were the next leader of the family...",
+      "I'd have done the same."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………詩音。",
+      "……爪は、……治った？」"
+    ],
+    "textEn": [
+      "\"......Shion...",
+      "how are... your fingernails?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「もうすっかり傷口は塞がったからね。",
+      "最近は目立つのがかえって嫌なんで、包帯みたいなのもしてないです。",
+      "でも、まだだいぶ歪でね、あまり人には見せられないかな。」"
+    ],
+    "textEn": [
+      "\"The wounds have closed.",
+      "I don't bandage them anymore because it looks too conspicuous...",
+      "but my nails still look ugly, so I don't really like showing them to people...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私は意地悪に笑いながら、爪が生えかかっている三本の指を見せる。",
+      "魅音が言葉を失い、少し俯く。"
+    ],
+    "textEn": [
+      "I sneered at her, displaying my incomplete fingernails.",
+      "Mion grew quiet and looked down."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………謝らなくていいよ。",
+      "魅音だってあそこは仕方なかったんだからさ。",
+      "次期頭首の役割を演じただけ。",
+      "恨んじゃいないから。」"
+    ],
+    "textEn": [
+      "\"......You don't have to apologize.",
+      "You did what you had to do.",
+      "You just played the role of the successor.",
+      "I'm not holding any grudges.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………………ごめんね……。」"
+    ],
+    "textEn": [
+      "\".........I'm sorry...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ＯＫ！",
+      "その謝罪で私は全部チャラにした。",
+      "でも！",
+      "もう一度謝ったらそれは取り消し！",
+      "一生許さないよ！」"
+    ],
+    "textEn": [
+      "\"Okay!",
+      "Apology accepted.",
+      "But!",
+      "If you apologize one more time, that'll be canceled!",
+      "I won't forgive you for the rest of my life!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「え！？",
+      "何それ…？！」"
+    ],
+    "textEn": [
+      "\"Huh?!",
+      "What do you mean...?!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「お姉は一度謝りモードに入るとなかなか抜けられない悪い癖がありますからね。",
+      "私の方で区切らないときりがないんです。」"
+    ],
+    "textEn": [
+      "\"Once you start apologizing, you never stop,",
+      "so I'm cutting you off.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……本当に…許してくれるの…？",
+      "悟史とのことも……？」"
+    ],
+    "textEn": [
+      "\"...Will you really forgive me...?",
+      "About Satoshi-kun, as well...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんの名前を魅音の口から出されると、…胸が疼く。",
+      "…まるでずいぶん昔の傷痕が疼くみたいに。"
+    ],
+    "textEn": [
+      "My heart ached when she mentioned his name.",
+      "...It felt just like the ache of an old wound."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………詩音が悟史のこと、好きなのは…もちろん知ってたんだよ。」"
+    ],
+    "textEn": [
+      "\"...I figured you loved him.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あれだけの大勢の前で熱愛宣言しちゃいましたからねー。",
+      "何だか今さら恥ずかしくもなんともないや。",
+      "あはははは。」"
+    ],
+    "textEn": [
+      "\"No wonder. I shouted it out loud in front of all of you.",
+      "I'm not embarrassed anymore.",
+      "Ahahahaha.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「でも、…婆っちゃはあれで本当にけじめがついたと思ってるんだよ。",
+      "詩音がちゃんと自分でけじめをつけて見せたから。",
+      "それで全部終わり、って。」"
+    ],
+    "textEn": [
+      "\"Granny truly believes you've atoned.",
+      "She thinks you've done all you needed to do,",
+      "so the matter is finished.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……そうでなきゃ困ります。",
+      "あれだけ痛い思いしたんですから。」"
+    ],
+    "textEn": [
+      "\"......That's good.",
+      "My pain won't go to waste, then.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「悟史、………どこに行ったんだろうね。」"
+    ],
+    "textEn": [
+      "\"I wonder where... Satoshi-kun disappeared to, though...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その一言で、私の心臓がぐっと押し付けられ、…喉元が苦しくなる。",
+      "つい先ほど、私は自分の口で言った。",
+      "全部許す、チャラにする、と。",
+      "その舌の根も乾かないのに、……その口約束が歪んでいく。",
+      "魅音のその一言で、まるで私が私でなくなったみたいに。",
+      "……魅音、あんた今、なんて言った…？",
+      "悟史くん、どこに行ったんだろうね、……だって…？",
+      "他でもない、…あんたが知っているんだろうが。",
+      "それを何だって…？",
+      "どこに行ったんだろうね、…だって………？",
+      "自分の眼球が飛び出るかと思うほどに両の目がキリキリと痛み出す。",
+      "喉の奥がヒリヒリと絞り上げるように苦しくなる。"
+    ],
+    "textEn": [
+      "I started choking when I heard her say that.",
+      "I'd just said it to her myself...",
+      "I said that I'd forgiven her completely...",
+      "but that promise instantly evaporated...",
+      "Just because of what she said, I felt like I'd turned into a completely different person...",
+      "...What did you just say, Mion...?",
+      "Did you say 'I wonder where Satoshi-kun disappeared to'...?",
+      "Who else could know other than you and your folks?",
+      "What did you say...?",
+      "Where did he go......?",
+      "I felt my eyeballs reddening in anger. It felt as though they were about to pop.",
+      "I choked on a burning sensation in my throat."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………………………！」"
+    ],
+    "textEn": [
+      "\".....................!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の顔色がさっと変わる。",
+      "私の般若のような形相に、気付いたらしかった。",
+      "私たちは同じ人間だ。",
+      "…相手の考えてることは、口に出さなくても分かる。",
+      "だから、表情までも見せるなら、胸の内を全て吐き出していることにすら等しい。"
+    ],
+    "textEn": [
+      "Mion's expression rapidly changed.",
+      "It looked like she noticed the devil's mask on my face.",
+      "We were one and the same.",
+      "...We could understand each other's thoughts without voicing them.",
+      "So showing our expressions was like unveiling everything in our hearts to the other."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………ぁ、…………ご、………ごめん………、」"
+    ],
+    "textEn": [
+      "\"......Uh...... s-sorry......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もう謝らなくていいと釘を刺したはずなのに、魅音は再び謝罪を口にした。",
+      "……こいつの首根っこを締め上げてやる…。",
+      "悟史くんをどうしたのか、どこへ隠してしまったのか、白状させてやる…。",
+      "もしも…生贄にして鬼ヶ淵の底に沈めたなんて言いやがるなら……今この場で絞め殺してやる………ッ！！！"
+    ],
+    "textEn": [
+      "Even though I'd told her not to apologize anymore, Mion apologized.",
+      "...I felt like strangling her...",
+      "I was going to make her confess where she'd hid Satoshi-kun...",
+      "If she told me she threw him into the Onigafuchi Swamp, I'd strangle her to death right then and there......!!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「悟史のことは…………本当に知らないの……。」"
+    ],
+    "textEn": [
+      "\"I really don't know... what happened to Satoshi-kun...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "嘘だ。"
+    ],
+    "textEn": [
+      "That's a lie."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…本当……。",
+      "婆っちゃだって何も知らない。",
+      "…本当なの…！」"
+    ],
+    "textEn": [
+      "\"...It's true...",
+      "Granny doesn't know anything either...",
+      "Please believe me...!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「嘘だ嘘だ嘘だ。",
+      "……じゃあ本当にオヤシロさまの祟りで「鬼隠し」にあったとでも言うつもりなのか。",
+      "祟りなんてあるもんか、祟りなんてあるもんか。」"
+    ],
+    "textEn": [
+      "\"That's a lie...",
+      "Are you saying that Oyashiro-sama's curse demoned him away?",
+      "There can't be a curse... There can't be...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "呪いの言葉が次々と喉の奥から吐き出される。",
+      "…だが、それはもはや私の意思で吐き出されているものではなかった。",
+      "そう、………鬼だ。",
+      "半人半鬼の私の中に眠る鬼が、………目覚めて、私の喉を通して、呪いの言葉を吐き出しているのだ。",
+      "そして、私の腕が、…いや、鬼の両腕が、…魅音の喉に掛かる。"
+    ],
+    "textEn": [
+      "Words kept coming out of my mouth, like I was chanting a spell.",
+      "...I wasn't speaking by my own will anymore.",
+      "It was the demon...... who was controlling me.",
+      "The demon that'd been sleeping deep inside me woke up and was speaking through my mouth.",
+      "My hands... I mean, the demon's hands grabbed Mion by the neck."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「お前たちが悟史くんを「鬼隠し」にしたんだ…。",
+      "お前たち園崎本家が、お前たちがお前たちが！！",
+      "返して、私の悟史くんを返して！！",
+      "返してええッ！！！」"
+    ],
+    "textEn": [
+      "\"You guys demoned Satoshi-kun away...!",
+      "You and the Sonozaki family!!",
+      "Give him back to me!!",
+      "Give him back!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私の両腕がゆっくりとだけど、万力のように容赦なく、魅音のか細い首を絞り上げていく………。",
+      "その時、魅音の手が私の手に添えられた。",
+      "…その魅音の手の指。",
+      "私と同じように、左手の小指から中指の三本の爪が、私と同じように歪な形をしていた。"
+    ],
+    "textEn": [
+      "My hands slowly but surely squeezed Mion's neck...",
+      "Mion put her hands onto mine.",
+      "...I looked at her fingers.",
+      "Three of the fingernails on her left hand looked as ugly as mine."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………魅音？",
+      "これは………どうしたの……。」"
+    ],
+    "textEn": [
+      "\"......Mion?",
+      "What's this...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の両目から、涙が零れ落ちた。",
+      "聞かなくてもわかる。",
+      "私と同じ傷。",
+      "…私と同じ、けじめ。",
+      "傷の治り方も、私とそっくりだった。",
+      "……じゃあ、私と同じ頃に、同じ傷を…？"
+    ],
+    "textEn": [
+      "Tears rolled down her cheeks.",
+      "She didn't have to answer...",
+      "She had the same scars as I did...",
+      "She atoned as well.",
+      "The way those wounds were healing looked the same as mine.",
+      "...So, did she get these wounds around the same time as I did...?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………………詩音だけが…爪を剥がされるなんて……っく、……可哀想過ぎるんだもん……、……えっく…！」"
+    ],
+    "textEn": [
+      "\".........It was unfair that only you had to go through that... hic... I felt so bad... hic...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が嗚咽を漏らす。",
+      "……私は魅音の首を締めたまま、立ちすくんでいた。"
+    ],
+    "textEn": [
+      "Mion started sobbing......",
+      "...I stood there, petrified, still wringing Mion's neck."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……詩音がね、悟史のこと好きだってわかって。",
+      "……私、詩音と悟史に幸せになって欲しかったんだよ……。",
+      "……っく…だって、…だって…。",
+      "詩音ばっかり…いつも可哀想で……、私たちは同じ双子なのに、…なんで詩音ばっかり…いつも差別されて………ひっく…！」"
+    ],
+    "textEn": [
+      "\"...Since I found out you loved Satoshi-kun...",
+      "I really wanted you to be happy...",
+      "hic... because...",
+      "it's always only you who has to suffer, even though we're twins... hic...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私が悟史くんを好きになったように、…魅音が悟史くんを好きだったとしても、何の不思議もない。",
+      "…私たちは同じものを好み、同じものを愛すのだから。",
+      "それを、…この馬鹿魅音は、…私に下らない義理立てをして。",
+      "……本当に馬鹿。"
+    ],
+    "textEn": [
+      "It didn't come as a surprise to me that Mion might also have loved Satoshi-kun as I did.",
+      "...We've always liked the same stuff, and even the same people.",
+      "She was stupid enough to feel obligated...",
+      "toward someone like me."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「私ね、……私ね…。",
+      "婆っちゃにね、怒鳴って言ったんだよ…。",
+      "詩音と悟史をそっとしてあげて欲しいって！！",
+      "ひっく！",
+      "……そしたら…けじめをつけたら見逃そうという話になって……ぅっく！",
+      "だからね、だからね！"
+    ],
+    "textEn": [
+      "\"I...",
+      "I told Granny to leave you and Satoshi-kun alone...",
+      "I shouted at her...!!",
+      "Hic...!",
+      "Then she said she'd let you be if you atoned with sincerity... hic!",
+      "And you did!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "ちゃんと詩音ががんばったから……、もうね、二人は普通に過しても良かったんだよ…。",
+      "なのに、…なのに…、悟史いなくなっちゃった……。",
+      "こんなのひどいよね……ひど過ぎるよね…？",
+      "うっく……ひっく…！」"
+    ],
+    "textEn": [
+      "So... you were supposed to live happily with him...",
+      "but... Satoshi-kun has gone away......",
+      "That's terrible...",
+      "That's... hic...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "この馬鹿は、…人を騙すために自在に涙腺を緩められるほど器用じゃない。",
+      "そんな、不器用な涙だから。",
+      "……私の中に宿った乱暴な感情は、まるで水に溶けるように…消えていく。"
+    ],
+    "textEn": [
+      "Mion isn't smart enough to shed crocodile tears.",
+      "Those tears were real.",
+      "......Her tears dissolved my demon's anger like how the sun melts ice..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……信じて、…詩音。",
+      "………本当に悟史がどうしていなくなってしまったのか……わからないの。",
+      "……園崎家とか婆っちゃとか、本当にそういうのは何も関わってないの！",
+      "婆っちゃは詩音のけじめで全てを許した。",
+      "だから…悟史に何かするなんて絶対にないの…………！」"
+    ],
+    "textEn": [
+      "\"Believe me, Shion......",
+      "I really don't know why Satoshi-kun disappeared......",
+      "Neither Granny nor the Sonozaki family have anything to do with it!",
+      "Granny forgave you,",
+      "so she would never do anything to him......!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………………………魅音、…ごめん。",
+      "……苦しかった…？」"
+    ],
+    "textEn": [
+      "\".....................Mion, I'm so sorry...",
+      "did I hurt you...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私は首に掛けた手を解き、……そのまま魅音を抱きしめる。"
+    ],
+    "textEn": [
+      "I took my hands off her neck and held her instead."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…ひっく…………、……苦しくなんかないよ…。",
+      "詩音はもっともっと、…苦しかったんだよね…？",
+      "ひっく……。」"
+    ],
+    "textEn": [
+      "\"...Hic... I'm not hurt...",
+      "You've been hurt a lot more than me, haven't you...?",
+      "Hic...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………私は、私の中に潜む鬼の形相を持ったもうひとりに怒鳴りつける。",
+      "この魅音の涙を私は信じる、と。",
+      "確かについさっきまで、私は悟史くんを失踪させたのは園崎本家だと信じてきた。",
+      "だが、魅音は絶対に違うと言った。",
+      "涙を流しながら。",
+      "その涙は、私たち姉妹にとっては、これより上のない絶対の信頼の置ける言葉。",
+      "だから信じる。",
+      "悟史くんを園崎本家が失踪させたなんてことは絶対にない。",
+      "ジャア、…悟史クンハ、オヤシロサマノ祟リデ消エタト、本気デ思ウノカイ？",
+      "……祟りなんて信じない！！",
+      "でも、魅音は違う、やってない！",
+      "祟リデモナク、園崎本家デモナイナラ、ジャア誰ガ悟史クンヲ「鬼隠シ」ニシタッテ言ウンダイ？",
+      "知らないよそんなことは！",
+      "とにかく魅音じゃない！",
+      "魅音が違うと言っているんだから、園崎家じゃない！！",
+      "馬鹿詩音。",
+      "……悟史クンノ無念ノ声ヲ、聞コエナイフリヲスルト言ウンダネ…？",
+      "わかってるよわかってる！！",
+      "鬼のあんたに言われなくたってわかってるよ、聞こえてるよ！！",
+      "笑ったような困ったような顔をしながら……誰の助けもないことを知ってるのに……「むぅ…」なんて、曖昧な声を出しながら…困ってるのが聞こえてくるよ……！！",
+      "悟史くんはきっと私が何とかする！！",
+      "生きているなら助け出す！！",
+      "殺されているなら復讐する！！！",
+      "だけど、それは魅音じゃない！",
+      "あんたがしたいのは復讐じゃない、ただ誰かのせいにして腹いせがしたいだけ！！",
+      "私は私だ、鬼じゃない！",
+      "お前なんか、私の中の一部でしかないくせに！！",
+      "私を乗っ取ろうなんておこがましい！！",
+      "消えろ、鬼め！！",
+      "そして二度と現われるな…！！",
+      "私の奥底の、鬼の感情が薄れて消えていく………。",
+      "全身の力が抜け、…私は魅音を抱いたまま、床にへたり込んだ。"
+    ],
+    "textEn": [
+      "......I shouted at the demon in my mind.",
+      "I believed in Mion.",
+      "I had been convinced it was the Sonozaki family that made Satoshi-kun disappear.",
+      "But Mion denied it",
+      "while shedding tears.",
+      "Between her and me, her tears are more convincing than any words.",
+      "So, I'd believe in her.",
+      "It absolutely wasn't the Sonozaki family that made him disappear.",
+      "<i>So... do you really think that Satoshi-kun disappeared because of Oyashiro-sama's curse?</i>",
+      "...I don't believe in curses!!",
+      "And Mion didn't do it!",
+      "<i>If it wasn't the curse or the Sonozaki family, who demoned him away...?</i>",
+      "I don't know!",
+      "I just know it's not Mion!",
+      "It's not the Sonozaki family because Mion says so!!",
+      "<i>That's stupid, Shion......</i>",
+      "<i>Are you going to ignore Satoshi-kun's voice...?</i>",
+      "I know, I know!!",
+      "You don't have to remind me, demon! I can hear his voice!!",
+      "I know he's mumbling with an ambivalent expression, like he always used to do...... even though he knows help won't come...!!",
+      "I'll help him no matter what!!",
+      "I'll save him if he's alive!!",
+      "I'll avenge him if he's dead!!",
+      "But Mion didn't do it!",
+      "You just want to take it out on somebody. It doesn't matter who!!",
+      "But I'm Shion, not a demon!",
+      "You're only a part of me!!",
+      "Don't try to take control!!",
+      "Fuck off!!",
+      "Don't ever show up again...!!",
+      "The demon faded away...",
+      "My body went limp... and I fell to the floor while holding Mion."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………詩音………大丈夫………？」"
+    ],
+    "textEn": [
+      "\"...Shion... are you all right...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…もう、………大丈夫だよ、……魅音。」"
+    ],
+    "textEn": [
+      "\"...I'm all right now... Mion.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………私たちは、…どうして魅音と詩音なんだろうね…。",
+      "どうして、同じひとりであってはいけないんだろうね…。」"
+    ],
+    "textEn": [
+      "\"...Why are we two different individuals...?",
+      "Why can't we just be one...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「やめなよ。",
+      "…私たちはもう何度もそれを自問してきたよ。",
+      "…でも、答えなんか出ない。",
+      "…現実に私とあなたは魅音と詩音。",
+      "…それが現実。」"
+    ],
+    "textEn": [
+      "\"Stop it...",
+      "we've asked ourselves that so many times...",
+      "but there's no answer...",
+      "I'm Shion and you're Mion...",
+      "that's just how it is.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「私ね…自分が魅音でも詩音でも…どっちでもいいんだよ。",
+      "私たちは私たち、公平な関係でいたいのに…。」"
+    ],
+    "textEn": [
+      "\"I don't care if I'm Mion or Shion...",
+      "I just want to be one and equal with you...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………仕方がないよ。",
+      "…魅音の背中には鬼が宿ってる。",
+      "…頭首を継ぐ定めが宿ってる。",
+      "……それは仕方がない。」"
+    ],
+    "textEn": [
+      "\"......There's nothing we can do...",
+      "You have the demon on your back...",
+      "You're destined to become the successor...",
+      "and we can't change that.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「私、いやだ。",
+      "……鬼なんかいらない、鬼なんかいらない……。",
+      "私は鬼じゃない、鬼じゃない…。",
+      "同じ人間なのがいい……。」"
+    ],
+    "textEn": [
+      "\"I don't want that...",
+      "I don't need a demon. I don't want it......",
+      "I'm not a demon, I'm not...",
+      "I want to be a human like you......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は鬼で、…詩音は人間。",
+      "……同じ双子のはずなのに、…私たちは隔てられている。",
+      "人と鬼が一緒に暮らすことなんて、…やっぱりできないのだろうか。",
+      "……できたはずだ。",
+      "人と鬼は、…仲良く暮らしたんだ。",
+      "それこそが、雛見沢村の伝説じゃないか。",
+      "……人と鬼は仲良く暮らしたって。",
+      "それを末永く、オヤシロさまが見守ったって。",
+      "…………魅音。",
+      "詩音。",
+      "…悟史くん。",
+      "……鬼とか、…人間とか。",
+      "オヤシロさまの祟りとか、…雛見沢村連続怪死事件とか。",
+      "…悟史くんの失踪とか。",
+      "私たちは互いを抱きしめたまま……、まどろみに落ちていく。",
+      "全てを、抱きしめたまま。"
+    ],
+    "textEn": [
+      "Mion is a demon, and Shion is a human.",
+      "...Even though we're twins, there's a difference between us.",
+      "Was it impossible for humans to live with demons after all...?",
+      "......It should be possible...",
+      "because they did it before.",
+      "That's the legend of Hinamizawa...",
+      "Humans and demons lived in harmony together,",
+      "as Oyashiro-sama watched over them.",
+      "......Mion.",
+      "Shion...",
+      "Satoshi-kun...",
+      "Demons... Humans...",
+      "Oyashiro-sama's curse... The series of mysterious deaths...",
+      "Satoshi-kun's disappearance...",
+      "We fell asleep while holding each other...",
+      "While holding everything..."
+    ]
+  }
+]

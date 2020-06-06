@@ -1,0 +1,755 @@
+[
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「みんな起立起立〜。",
+      "教室の真ん中に集まってー。」"
+    ],
+    "textEn": [
+      "\"Everybody, stand up.",
+      "Move to the center of the room.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "全員がぎょっとして、息を呑んだ。",
+      "知恵先生が入ってきたって、ここまでぴたっと静かになることはなかった。",
+      "レナはお手洗いに行ってた子の肩を掴み、……もう片手には、あの晩も持っていた肉厚の物騒な鉈を弄んでいた。",
+      "誰もが、レナが人質を取っていることを理解した。"
+    ],
+    "textEn": [
+      "Everyone gasped in surprise.",
+      "Even Chie-sensei couldn't make everybody go so quiet all of a sudden.",
+      "Rena was gripping the shoulder of the student who came back from the bathroom... In her other hand, she had a big, scary-looking hatchet. It was the same one she had the other night.",
+      "Everyone immediately understood that Rena had taken a hostage."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…みんな聞こえてない？",
+      "教室の真ん中に集まってー。",
+      "机は周りにどけちゃってねー。」"
+    ],
+    "textEn": [
+      "\"...Are you all deaf?",
+      "Move to the center of the room.",
+      "Push the desks to the sides.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが何を言っているのかよくわからず、みんなはただ凍りついているだけだった。",
+      "そんな中、ひとりだけやさしそうに笑っているレナが、……とても恐ろしい。"
+    ],
+    "textEn": [
+      "Nobody grasped what she was asking us to do. We all froze.",
+      "Rena was the only one who was smiling... It was terrifying."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃん。",
+      "委員長でしょ？",
+      "みんなに指示して。」"
+    ],
+    "textEn": [
+      "\"Mii-chan,",
+      "you're the class president.",
+      "Tell everyone to move to the center.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………レ、…レレ、レナ…、あんた、……何をやってんの………！」"
+    ],
+    "textEn": [
+      "\"...R-R-Rena... what are you doing...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "バッギャッ！！！",
+      "魅音の言葉は暴力的な音に掻き消された。",
+      "…それはレナが思い切り力任せに鉈で教壇を叩いた音だった。",
+      "…バリバリと不気味な音を立てながら、レナは天板に食い込む鉈を抜く。",
+      "…そこには一文字の乱暴な跡がくっきりと刻まれているのだった。",
+      "………あ〜あ……、",
+      "壊しちゃった…、",
+      "…知恵先生、帰ってきたら怒るぞ……。",
+      "……じゃなくてじゃなくて、",
+      "………な、",
+      "…………な、",
+      "…な、"
+    ],
+    "textEn": [
+      "Bam!!!",
+      "A loud noise washed out Mion's voice.",
+      "...Rena hit the teacher's desk really hard with her hatchet.",
+      "...She pulled out the hatchet, making an ominous ripping noise.",
+      "...There was now a line of violence carved plainly into the desk.",
+      "...Uh-oh...",
+      "She broke it...",
+      "Chie-sensei is going to get mad when she comes back......",
+      "No, that wasn't it.",
+      "......What...",
+      "......the",
+      "hell..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃんはやっぱり駄目だね。",
+      "じゃあ圭一くんに頼むよ。",
+      "……圭一くんだけは最後まで私の仲間なんだよね？",
+      "だから、信じていいんだよね…？」"
+    ],
+    "textEn": [
+      "\"I knew I couldn't trust you, Mii-chan.",
+      "I'm going to ask Keiichi-kun, then.",
+      "...You're my only friend, right, Keiichi-kun?",
+      "So, I can trust you, can't I...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……レ、レナ、……お前、……なんて恐ろしい目をしてんだよ……。",
+      "俺は生まれて初めて見たのだ。",
+      "……狂気に澱む目を！",
+      "狂気をどうして人は恐れるんだろう？",
+      "狂気ってのはつまり、その人間と自分たちが価値観や社会常識を共有できていないってことだ。",
+      "例えば…、泥棒に踏み込まれてぐるぐるに縛られたとするじゃないか。",
+      "…ひょっとすると帰りがけに刺されるかもしれないと怯えはするよな。",
+      "……でも、泥棒も人間、むやみに人の命は奪わないはずだ、って…祈るじゃないか。",
+      "つまり、どんな悪人が相手でも、俺たちは価値観や社会常識、道徳が共有できている限り、相手の善意を信じる。",
+      "でも、……それがない相手には善意など期待できるわけがない。",
+      "善意が期待できない相手というのは、コミュニケーションが取れない相手ということだ。",
+      "……ナイフを振り下ろす強盗相手に、やめるよう懇願するのは、ひょっとすると聞き入れてくれるかもしれないことを期待して、相手の善意に訴えるものだ。",
+      "つまり、コミュニケーションが取れるということ。",
+      "でも、……コミュニケーションが取れない相手というのは、",
+      "……例えるなら襲い掛かる猛獣であるとか、……いや、上から落ちてくるギロチンの刃のようなものだ。",
+      "意思疎通の余地のない、人間でない存在に感じる恐怖。",
+      "それが狂気だ。",
+      "だから、……俺たちが今、レナに感じている恐怖の正体は、…それ。",
+      "一見、俺たちと同じ人間に見えるのに、……でも、同じ人間としてのコミュニケーションの余地がない。",
+      "………そういう恐ろしさを、みんな理屈抜きに理解しているのだ。"
+    ],
+    "textEn": [
+      "...R-Rena... Your eyes... You look so scary...",
+      "I've never seen eyes like that in my life.",
+      "...Your eyes are full of insanity!",
+      "Why are people afraid of insanity?",
+      "Insanity means that a person doesn't share the same values and the same common sense as us.",
+      "For example, say a thief breaks into your house, and he ties you up.",
+      "...You'll get scared and wonder if he's going to stab you before he leaves.",
+      "...But you hope that the thief has feelings too, and that he's not going to kill you for no reason...",
+      "No matter how bad the person is, we tend to believe in his goodwill as long as we share the same values, the same common sense, and the same morals as him.",
+      "But... we can't expect goodwill from somebody who doesn't have those things.",
+      "We can't expect goodwill from a person who can't communicate with us.",
+      "...When a burglar has a knife and you beg him not to hurt you, you expect him to listen to you and to show you mercy.",
+      "In other words, you can still communicate with him.",
+      "But... if he doesn't have the ability to communicate",
+      "...he's just like a monster that's trying to attack you... or like the blade of a guillotine that's falling down on you.",
+      "You fear him, because you can't communicate with him.",
+      "That's insanity.",
+      "It was the same fear we were feeling towards Rena at that very moment.",
+      "She looked like a human just like us... but there was no room for her to communicate with us like a normal person could do.",
+      "......Everybody understood that fear instinctively."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くん。",
+      "机をどけさせて、教室の真ん中に広場を作って？」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun,",
+      "make them move the desks to make room in the middle.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わ、……わかった。",
+      "……み、みんな……レナが言うのに従おう…！」"
+    ],
+    "textEn": [
+      "\"O-Okay.",
+      "...E-Everybody... let's do as Rena says...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの感情は今や火薬のようなもの。",
+      "……一見大人しそうな表情は、わずかの切っ掛けで爆発するのだ。",
+      "そしてその爆発はわずかの容赦も伴わないだろう。",
+      "…今のレナは、間違いなくあの鉈を人間に振り下ろすことを躊躇わない。",
+      "………そうさ、俺がレナと魅音を殴り殺すのに、何の罪も躊躇いも感じなかったように…！！",
+      "クラス中が、お通夜のように静まり返りながら、机を壁際に寄せて、レナの希望する広場を作った。",
+      "時折、レナが遅い遅いと言いながら恐ろしい音を立てて、黒板を鉈で打ちつけた。",
+      "その度に、俺たちが学校でもっとも長い時間眺めいているはずのそこは、見るも無残な跡が刻まれていくのだった。"
+    ],
+    "textEn": [
+      "Rena was like a barrel of gunpowder at that moment.",
+      "...She seemed really calm and quiet, but she could explode any minute.",
+      "When she did, I doubt she'd show us any mercy.",
+      "...She probably wouldn't hesitate to use that hatchet on us.",
+      "...That's right. Just like how I didn't feel guilty or hesitate to kill Rena and Mion...!!",
+      "Everybody went all quiet while pushing the desks against the wall to make a space where Rena wanted it.",
+      "Rena, saying that we're moving too slow, hit the blackboard with the hatchet, making a horrible noise.",
+      "Every time she did that, she left an equally horrible scar on the blackboard, the thing that we looked at most in the school."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあ圭一くん。",
+      "みんなのロッカーから、縄跳びを出してもらえるかな。",
+      "それを使って、みんなを後ろ手で縛ってね。」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun,",
+      "can you get the jump ropes out from the lockers?",
+      "Use them to tie our classmates up.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……お、……俺、縛るのとか下手くそなんだよ…。",
+      "多分、上手に縛れないぞ…。」"
+    ],
+    "textEn": [
+      "\"......I... I'm not good at tying knots...",
+      "I probably can't tie them up very well...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あとでちゃんと縛れているか、全員のを調べる。",
+      "緩い人はその場で『殺しちゃう』から、しっかり縛ってあげてね。」"
+    ],
+    "textEn": [
+      "\"I'll check one by one if you tied them up well enough.",
+      "If I find the ropes loose, I'll <i>kill</i> the person, so you better tie them up really well.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………く………………。」"
+    ],
+    "textEn": [
+      "\".........Ah.........\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺たちもガキンチョだ。",
+      "殺すなんて言葉は日常でもスラング感覚でぽんぽん使う。",
+      "アニメや漫画にだっていくらでも出て来る。",
+      "…だから「殺す」なんて言葉は散々聞き飽きてるはずだ。",
+      "……なのに、……レナの『殺す』は、……俺が今まで一度も聞いたことがないような、恐ろしい響きを含んでいるのだった。",
+      "レナにとって今やこのクラス内の命は、…交渉に使えるカードの枚数と同じだ。",
+      "誰かが難問を断る度に、１枚カードを切ればいい。",
+      "……切れば？",
+      "くそ、何でカードは「切る」なんて物騒な言い方なんだよ……！！",
+      "とにかく、……このクラスには…２０何人かいる。",
+      "…レナにとっては、ちょっと手に余る数だ。",
+      "……見せしめに１人や２人、間引いたって何の問題もない…。",
+      "俺はレナを不機嫌にさせないため、…とりあえず指示に従い、みんなのロッカーから縄跳びを集めた。"
+    ],
+    "textEn": [
+      "We were still kids.",
+      "We saw the word \"kill\" all the time.",
+      "It was used a lot in comic books and cartoons, after all.",
+      "...So, normally you'd assume we'd be used to hearing the word \"kill\".",
+      "...But... when Rena said she'd <i>kill</i> us... it sounded so frightening. I'd never heard something like that before in my life.",
+      "To Rena, our lives were... like cards she could use for negotiation.",
+      "She'd get rid of one card every time somebody refused her request.",
+      "...Get rid of?",
+      "Damn it! Why did we use such scary words like \"get rid of\" for simple things like playing cards...?!",
+      "Anyway... there were about twenty students... in the class.",
+      "That was a little bit too many for Rena to handle.",
+      "...She might get rid of one or two just to set an example...",
+      "I decided to do what Rena said because I didn't want her to lose her temper... I got out everybody's jump ropes from their lockers."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあみんな、床にうつ伏せになってね。",
+      "圭一くんは後ろ手にどんどん縛っていって。",
+      "……きっちり縛るんだよ。",
+      "圭一くんは私の味方だもん。",
+      "だからわざと緩くなんか縛ったりしない。",
+      "ね？」"
+    ],
+    "textEn": [
+      "\"All of you, get on the floor.",
+      "Keiichi-kun, you can start tying their hands behind their backs.",
+      "...Tie them really tightly.",
+      "You're on my side, aren't you?",
+      "You wouldn't tie them loosely on purpose,",
+      "would you?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………………ぅ…。」"
+    ],
+    "textEn": [
+      "\"........................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が目配せをしてくる。",
+      "……ここで全員が縛られたら、もうレナの教室占拠を止められないだろう。",
+      "今なら、クラス全員２０人以上がいる。",
+      "……男子はその半分で、ほとんどがレナよりも体格も劣る小さな子たちばかり。",
+      "でも、…レナひとりを取り押さえられるだけの人数がいる。",
+      "……だが、そうなれば必ずレナは、今、人質に取っている子の頭に鉈を打ち込むだろう。",
+      "そして襲い来る俺たちに怯みもせず、その鉈で戦い、……俺たちは血みどろの肉弾戦になるだろう。",
+      "…取り押さえる時に怪我をする者が出るのは当然だし、",
+      "……人質の子は…、",
+      "よくて重症、",
+      "悪ければ……………死ぬ。",
+      "そんなことになれば、……もうレナは破滅だ。",
+      "どう取り繕おうとも、元の平穏な生活になんか戻れなくなってしまう…。",
+      "……それは魅音もわかっているようだった。",
+      "……レナの目を見れば、彼女に手加減などあろうはずもないことがわかる。",
+      "…反抗的な態度を見せれば、人質はその場で頭を叩き割られる。",
+      "…………しかも皮肉にも、…レナにはその経験があるわけだから、さらに容赦なく慣れた手つきで、だ…。",
+      "だが、……レナの要求に応じている内は、少なくとも流血の惨事が起きない。",
+      "……何とか、誰の血も流さずに解決できれば、……まだまだ魅音の力でなかったことに出来るかもしれない。",
+      "………少なくとも、死人が出ているよりは。"
+    ],
+    "textEn": [
+      "Mion tried to make eye contact with me.",
+      "...If everybody was tied down, we wouldn't be able to stop her from occupying the school.",
+      "There were more than twenty students in this class.",
+      "...Half of them were boys, but most of them were smaller than Rena.",
+      "But... there were enough people here to overpower her.",
+      "...But if we did that, Rena would probably hit her hostage with the hatchet.",
+      "And she'd use the hatchet to attack the rest of us without hesitation... It'd be a bloody battle.",
+      "...I'm sure somebody would get hurt if we tried to overpower her.",
+      "...The hostage...",
+      "would be seriously injured,",
+      "or... maybe even... die.",
+      "If that happened... it was over.",
+      "No matter how hard we tried to cover up, she'd never be able to live peacefully like before...",
+      "...Mion seemed to understand that, too.",
+      "...I could tell from Rena's eyes that she wasn't going to go easy on us.",
+      "...If somebody showed defiance, she'd break the hostage's head open immediately.",
+      "...Of course... Rena had done that before. She'd probably do it again with no hesitation...",
+      "But... as long as we did what she said, we could prevent that bloody tragedy.",
+      "...If we could somehow solve this situation without shedding any blood... with Mion's influence, we might still be able to pretend that this never happened.",
+      "...At the least, we had to make sure she didn't kill anyone."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………………従おう。」"
+    ],
+    "textEn": [
+      "\"...Let's do as Rena says.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃん……。」"
+    ],
+    "textEn": [
+      "\"Kei-chan...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナを取り押さえるあらゆる手を数手先まで読んでいた魅音だったが、",
+      "……どう考えても、人質を救える結果が導き出せなかった。",
+      "それくらいにレナは容赦なく、人質を殺してしまえるのだ…！",
+      "……レナを刺激しないようにしながら、チャンスを待つのが、多分、今この瞬間の選択肢としては一番妥当だと思った。",
+      "魅音がうつ伏せになると、みんなも恐る恐る従う…。",
+      "そして俺だけが取り残され、…クラス中の縄跳びを持ったまま、立ちすくんでいた。",
+      "…俺はクラスの全員が床にうつ伏せになって、……教壇の後ではレナが人質に鉈を突きつけながら俺たち全体を凝視するその異常な光景に、……ただただ呆然とする他なかった…。"
+    ],
+    "textEn": [
+      "Mion tried to think of ways to overpower Rena.",
+      "...But she couldn't come up with any good ideas to save the hostage.",
+      "That's how easy it would be for Rena to kill them...!",
+      "...The best thing to do at that time was to wait for a chance without agitating her further.",
+      "Mion lay down on the floor, and everyone else followed suit, sluggish with terror...",
+      "And I was left alone... standing rooted to the spot with jump ropes in my hands.",
+      "...All my classmates were lying face-down on the floor... while Rena was pointing the hatchet at the hostage, watching our every move from behind the teacher's desk... I just stood frozen in the middle of it all..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんにはまだまだ手伝ってもらうことがたくさんあるの。",
+      "だから早くして。",
+      "………あんまり時間が掛かると、何人かが死んでしまうかもしれない。」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun, there are many things I want you to help me with.",
+      "So hurry up.",
+      "...If you take too long, some of them might have to die.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが口にする「死」という言葉の凄みに、小さい子たちが何人か泣き出す…。"
+    ],
+    "textEn": [
+      "Some of the little kids started crying when they heard the word \"die\"..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「大丈夫だよみんな。",
+      "圭一くんがきっと助けてくれるから。",
+      "だからきっと誰も殺されないよ。",
+      "……あははははははははははははははははははははは。」"
+    ],
+    "textEn": [
+      "\"It's all right, everyone.",
+      "Keiichi-kun will save you.",
+      "So nobody is going to die.",
+      "...Ahahahahahahahahahahahahahahahahahahahaha!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……くそ……。",
+      "……なんて露骨な脅迫だよ……。",
+      "俺のことを仲間なんて言葉で弄んでるだけだ…。",
+      "確かに、この状況下では俺だけがレナに対抗できる最後の１人だ。",
+      "…でも、だからこそ、鉈を持ったレナを容易には取り押さえられない。",
+      "……それどころか、取り押さえられるかどうかも、もはや怪しい。",
+      "俺が粋がったところで、教室中に寝転がる誰かの首筋に刃を突きつけられたら、それで結局は「詰み」だ。",
+      "とにかく、………今は逆らわない方がいい。",
+      "…チャンスを待とう。",
+      "レナが１人である以上、必ず隙が生まれる。",
+      "……自ら縛れず、俺に縛らせているのがその証拠みたいなもんだ。",
+      "…レナが単独であるがゆえに、様々な限界があるはずなんだ…。",
+      "先生が戻る前にうまく誤魔化せれば、……クラスみんなで芋虫ごっこをしてましたと誤魔化せるかもしれないのだから。",
+      "………そこで俺はようやく気付く。",
+      "…知恵先生が呼び出された電話の意味が。",
+      "……レナが教室を占拠する上で、一番邪魔な存在が知恵先生だったのだ。",
+      "正義感の強い人だもんな。",
+      "例えレナが拳銃を持っていたって、知恵先生は怯まないだろう。",
+      "生徒のためなら体を張れる、…そんな先生をいかに摘出するかが、この教室占拠の最初の鍵だったんだ。",
+      "背後から襲い掛かるという手も、もちろん一番最初に考えただろうが、",
+      "やはり大人を敵に回すリスクを考えた結果、直接襲うのは適当ではないと考えたに違いない。",
+      "……なら、どこかへ誘き出してしまえばいいんだ…！",
+      "レナは知恵先生に電話をかけ、誰にも内緒で相談したいことがある…と言って、どこか遠くへ呼んだに違いない。",
+      "先生も含め、ほとんどの人たちはレナが家出しただけだとしか思っていない。",
+      "……だから知恵先生は、レナに何か悩み事があって、それを打ち明けたがっているのだろう、そう解釈するに違いない。",
+      "…………騙すのはあまりに簡単だ。",
+      "じゃあ……レナは、電話をどこから…？",
+      "そう、学校の中からだ。",
+      "いや、厳密には違う。",
+      "多分、学校の２階、……営林署の事務室からだ。",
+      "この学校の入っている営林署は出張所みたいなもので、いつも職員が常駐しているわけではない。",
+      "日によってはいないこともある。",
+      "レナはそれを知っていて、ずっと２階に隠れていたのだ。",
+      "そして、２階から１階に電話して、……知恵先生を遠方に遠ざけたのだ。",
+      "今日が校長の出張の日だというのも偶然ではないだろう。",
+      "……多分、レナはこの学校に昨日から忍び込んでいた。",
+      "それで、校長の日程も内線電話のことも全て把握した上で実行に及んでいるのだ。",
+      "……なんて狡猾な……。",
+      "……いや、…わかる。",
+      "……あの状態のレナは、狂気に心を奪われながらも、…実はひどく冷静なのだ。",
+      "……自分が取り憑かれている妄想に対して、信じられないくらい冷静なのだ。",
+      "…だから、……信じられないくらいに頭が回る。",
+      "……それは自分にも身に覚えがあったからよくわかった。",
+      "あと、……さらについてないのは、魅音の護衛のために校門前にいた園崎家のボディーガードまでもいなくなってしまってることだ。",
+      "……知恵先生がレナに会いに行くと思って、魅音が尾行するように言ってしまったから。",
+      "……畜生、……何から何まで……、……やってくれるぜ………。"
+    ],
+    "textEn": [
+      "...Damn it...",
+      "What a bold threat...",
+      "She said I was her friend, but she was just playing with the meaning of the word...",
+      "I was the last person who could still fight against Rena under these circumstances.",
+      "...But it wasn't going to be easy to overpower her by myself.",
+      "...I wasn't sure if I could do that.",
+      "Even if I tried to act tough, once Rena pointed the hatchet at somebody's neck, it was over.",
+      "I shouldn't fight against her for now.",
+      "...I should just wait for a chance.",
+      "As long as Rena was alone, there would be a chance.",
+      "...She made me tie them up because she couldn't do that by herself.",
+      "...There was a limit to what she could do, because she was by herself...",
+      "If we could cover this up somehow before Chie-sensei came back... we'd still be able to pretend like we were kidding around.",
+      "...I finally realized something.",
+      "...I realized why Rena called Chie-sensei to meet with her.",
+      "...In order for Rena to take over the classroom, she needed to get rid of Chie-sensei.",
+      "Chie-sensei had a very strong sense of justice.",
+      "Even if Rena had a gun, she wouldn't hesitate to overpower her.",
+      "She was the kind of teacher who would risk her life for her students... Rena needed to figure out how to get rid of Chie-sensei. That was the key to her plan.",
+      "Rena probably thought about attacking her from behind at first,",
+      "but there was risk there, as Chie-sensei was a grown-up woman. So, she probably thought that attacking her directly wasn't a wise choice.",
+      "...So, naturally, the next option was to lure her out somewhere...!",
+      "Rena called Chie-sensei and told her she wanted to talk to her in private... in order to lure her out to some place far from here.",
+      "Most people, including Chie-sensei, thought Rena was just running away from home.",
+      "...So, Chie-sensei must've thought Rena had some problems she wanted to talk to her about.",
+      ".........It was too easy to deceive her.",
+      "Where did she make the phone call from...?",
+      "She probably used the phone in the school.",
+      "Well, not in school, to be exact.",
+      "She probably used the phone on the second floor of the school... the one belonging to the forestry service.",
+      "This school was using part of the forestry service building, but this particular location was more of a branch office,",
+      "so it's not like somebody was here all the time.",
+      "Rena knew that, and she had probably been hiding there for a while.",
+      "She called the phone on the first floor from the second floor... and she made Chie-sensei leave the school.",
+      "I didn't think it was a coincidence that the principal was on a business trip today.",
+      "...She probably snuck into the school yesterday.",
+      "She saw the principal's schedule, learned how to call the phone on the first floor from the second, and carried out her plan.",
+      "...She planned it perfectly...",
+      "...Yeah, I knew it.",
+      "...Rena was insane... but I knew she was also actually really calm.",
+      "...She was possessed by her delusion, but she was also unbelievably calm about it.",
+      "...So... she could still think fast.",
+      "...I knew that very well, because I'd been through the same thing before.",
+      "What was worse is that Mion's bodyguards were gone.",
+      "...Mion told them to follow Chie-sensei because she thought Chie-sensei was going to meet with Rena.",
+      "...Damn it... Everything seemed to be working out in her favor..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………縛ったぞ………。」"
+    ],
+    "textEn": [
+      "\"...I'm done...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺は最後のひとりの腕を縄跳びで縛り、レナの方に振り返る。",
+      "きつく縛らなければレナは本当にその子を殺すだろう。",
+      "…かと言って、きつく絞めるとそれは苦痛となり、クラスメートたちは痛さに呻く。",
+      "……その声が、何もできない俺を苛んだ。"
+    ],
+    "textEn": [
+      "I tied up the last person, and I looked in Rena's direction.",
+      "If I didn't tie them up really tightly, Rena would kill them.",
+      "...But when I tied them too tightly, they suffered in pain.",
+      "...Their pained cries made me feel useless."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ありがとう、圭一くん。",
+      "……圭一くんを疑りはしないけど、一応、全員を調べるね？",
+      "圭一くんは頭の上で手を組んで、うつ伏せに寝ててね。",
+      "……これは全員に言うけど、"
+    ],
+    "textEn": [
+      "\"Thank you, Keiichi-kun.",
+      "...I don't mean to doubt you, Keiichi-kun, but I'll make sure just in case.",
+      "Please put your hands on your head and lie face-down on the floor.",
+      "......And I'm saying this to everybody."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "私の断りなく立ち上がったら殺すッ！！",
+      "本人も殺すし、見せしめでランダムにもう１人殺す！！"
+    ],
+    "textEn": [
+      "If you stand up without my permission, I'll kill you!!",
+      "I'll kill whoever stood up, and one more person randomly, to set an example!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……ランダムじゃよくないね。",
+      "じゃあこうしよう。",
+      "言うことを聞かなかった子と、出席番号に１０を加えた子を殺す、にしようかな？"
+    ],
+    "textEn": [
+      "...It's not nice to be chosen randomly, huh?",
+      "Oh, there's a good idea.",
+      "I'll kill the person who didn't listen to me, add 10 to his or her student number, and kill that person too."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "例えば……岡村くんが言うことを聞かなかったとする。",
+      "そうすると、……出席番号１１番。",
+      "渡辺くんが一緒に殺されちゃう。",
+      "わかる？！"
+    ],
+    "textEn": [
+      "For example... let's say Okamura-kun didn't listen to me.",
+      "I'd kill him and Watanabe-kun",
+      "because his student number is 11.",
+      "Get it?!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "常に２人死ぬのッ！！",
+      "刃向かっても自分の命１つじゃ責任が取れないってこと、よく胸に刻んでおくんだよッ！！！」"
+    ],
+    "textEn": [
+      "I'll always be killing two of you at the same time!!",
+      "You'd better remember that you involve another person's life besides your own when you attempt to stand against me!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……なんてやつだ…。",
+      "脅迫ってやつを心底理解してやがる……。",
+      "抵抗ってのは、失敗しても死ぬのは自分だけという、ある種の自己責任の上で行なうものだ。",
+      "……それを連帯責任にされたら、抵抗なんてできなくなってしまう。",
+      "人の命を自分の一存で危険になんか晒せない…！"
+    ],
+    "textEn": [
+      "...How awful...",
+      "She totally understood how to threaten people...",
+      "Normally, you stand against an attacker at your own risk. If you fail, you're going to die.",
+      "...But if you were responsible for someone else, then you couldn't try to resist.",
+      "You can't risk somebody's life with your own decisions...!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……うん、全員ちゃんと縛れてるね。",
+      "…圭一くん、縛るの下手くそって言ってたけど、結構うまいよ。",
+      "自信持っていいよ。",
+      "じゃあ、圭一くんは立って。」"
+    ],
+    "textEn": [
+      "\"...Okay. Everybody is tied up nice and tight.",
+      "...You said you aren't good at tying knots, but you did very well, Keiichi-kun.",
+      "You should be proud of yourself.",
+      "Well, you can stand up now.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………今さら逆らうことはできない。",
+      "俺は大人しく指示に従う。",
+      "とにかく、……何かのチャンスを待つんだ。",
+      "まだ洒落で済む段階なんだ…。",
+      "何とか……何とか、しなくちゃ……！",
+      "……それより、……レナは何を企んでやがるんだ…？！",
+      "まさか、…こんなことがレナの言ってた、起死回生の逆転の一手だって言うんじゃないだろうな？！"
+    ],
+    "textEn": [
+      "...It was too late to fight back.",
+      "I followed her orders.",
+      "I just had to wait for a chance.",
+      "We could still turn this into some kind of a bad joke...",
+      "I had to... I had to do something...!",
+      "...Anyway... What were you planning to do, Rena...?",
+      "Don't tell me this is the come-from-behind victory you were talking about!"
+    ]
+  }
+]

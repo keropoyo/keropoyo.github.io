@@ -1,0 +1,1388 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入江はプロジェクターでの説明が終わると、部屋の明かりをつけた。",
+      "ロの字型に机が並べられた会議室には、入江も含めて８人ほどの白衣の男たちが着席していた。",
+      "だが、一番正面に座っている男だけは白衣を着ていなかった。",
+      "その人物が軽く手を何度か叩く。",
+      "それが拍手だと気付き、他の白衣たちも拍手した。"
+    ],
+    "textEn": [
+      "Irie turned the light on as soon as he finished his presentation.",
+      "There were about eight men wearing lab coats inside the meeting room.",
+      "The man sitting at the far end was the only person without one.",
+      "Upon seeing Irie finish his speech, he clapped his hands several times.",
+      "Having noticed his applause, the other men in the room soon followed suit."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「それは良かった。",
+      "本当に良かった。",
+      "この度の成果は個人的にもとても満足できるところです。」"
+    ],
+    "textEn": [
+      "\"Excellent.",
+      "Very, very excellent.",
+      "I'm quite satisfied with your progress.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「入江先生の献身的努力の賜物ですわ。」"
+    ],
+    "textEn": [
+      "\"Your hard work has paid off, Dr. Irie.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「いえいえ、優秀なスタッフの協力があればこそです。",
+      "全てのスタッフに感謝します。」"
+    ],
+    "textEn": [
+      "\"No, I would say it's because of my incredible staff.",
+      "I really do owe them my gratitude.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「これで、完全治療の目処が立ったと言えるでしょう。",
+      "まだいくつかの詰めは残っておりますが、それは時間と予算が解決する問題です。」"
+    ],
+    "textEn": [
+      "\"We really are getting close to finding a perfect cure.",
+      "There are a few more sticking points left, but they can all be resolved with time and financing.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「それにつきましてはよろしくお願いいたします。",
+      "然るべき人員と予算があれば、おそらく３年以内。",
+      "６１年度までには完全な医療体制を確立できると思います。"
+    ],
+    "textEn": [
+      "\"We're counting on your support on that front.",
+      "With sufficient funding and labor, I estimate we'll be done within three years.",
+      "By 1986 we should be able to establish a complete treatment for it."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "今後の課題は、専門知識のない医療機関でも容易に対応できるパッケージ的な治療方法の確立と、より安価で簡易な検査法の確立です。」"
+    ],
+    "textEn": [
+      "From here on out, our challenges are establishing a treatment package that other, unspecialized medical facilities can easily administer, and developing an easier, cheaper test for it.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「検査法に関しては、現在、入江先生が血液採取から潜在患者を発見する方法を研究中です。"
+    ],
+    "textEn": [
+      "\"With regards to testing, Dr. Irie is currently researching ways to detect potential patients through blood samples."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "この方法が確立すれば、一般的な健康診断と併用できますので、相当の低コスト化を実現できると思われます。」"
+    ],
+    "textEn": [
+      "Once that process is established, the test can be administered alongside regular physical exams, and we believe that will drive costs down significantly.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「それは素晴らしい。",
+      "現在の検査法はだいぶ大掛かりで高コストですからね。",
+      "…いや、コストにまでお気遣いいただき本当に感謝します。"
+    ],
+    "textEn": [
+      "\"That's wonderful to hear.",
+      "The current tests are pretty involved and expensive, after all.",
+      "...Sorry, I'm truly grateful to hear you're considering the costs too."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "国民の健康は即ち国益のはず、それに予算問題を出すのは本当に情けないことなのですが…。",
+      "削れるなら一円でも安くというのが当方の立場なのです。」"
+    ],
+    "textEn": [
+      "Healthy citizens are supposed to be our nation's assets, so it really is shameful to bring up the budget, but...",
+      "But from our position, we'd like to shave every yen we can off the costs.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「もちろん理解しています。",
+      "治療法は確立したがコスト的に不可能では絵に描いた餅ですから。",
+      "机上の空論でなく、実行可能な方法で考えるのも我々の仕事です。」"
+    ],
+    "textEn": [
+      "\"Of course. We understand.",
+      "If we established a treatment that was impossible due to the cost, it'd just be a pie in the sky.",
+      "It's our job to develop a practical treatment, not a theoretical one.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹が拍手すると、今度は皆、遅れずに拍手した。"
+    ],
+    "textEn": [
+      "Tomitake started clapping again, and everyone followed him."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「あなたは医師として優秀なだけでなく、本当に尊敬できる人格者です。",
+      "あなたとお会いできたことを誇りに思います。」"
+    ],
+    "textEn": [
+      "\"You're truly a respectable man, as well as a talented doctor.",
+      "I'm honored to have met you.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「いえ、本当に拍手をいただくのは、全ての方を治療できて、いわゆる『オヤシロさまの祟り』を完全に撲滅できた時です。",
+      "それまで、どうか連帯してがんばっていけたらと思っております。」"
+    ],
+    "textEn": [
+      "\"No, I can't sincerely accept your applause until every person has been treated, and this so-called 'curse of Oyashiro-sama' has been exterminated.",
+      "We hope for your continued cooperation until that time.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「こちらこそ！",
+      "私も入江所長の要求する予算が、限りなく額面通りになるよう努力します。",
+      "どうか引き続きよろしくお願いいたします！」"
+    ],
+    "textEn": [
+      "\"Likewise!",
+      "I'll do everything I can to make sure you receive almost every yen in the budget you've outlined.",
+      "Please keep up the good work!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹が握手を求めて手を伸ばすと、入江はそれに応える。",
+      "再び会議室いっぱいに拍手が広がるのだった。"
+    ],
+    "textEn": [
+      "Tomitake and Irie shook hands,",
+      "and the meeting room was filled with applause yet again."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「では、今夜のミーティングはこれまでといたしましょう。",
+      "明日は皆さんも御待ちかねのメインイベント、予算ヒアリングです。",
+      "各自奮闘しましょう。」"
+    ],
+    "textEn": [
+      "\"That's it for tonight's meeting.",
+      "Tomorrow's the main event we're all waiting for... the budget hearing.",
+      "Let's all push hard.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もちろんこれは嫌味だ。",
+      "白衣のスタッフたちは皆、苦笑いする。"
+    ],
+    "textEn": [
+      "Takano was being sarcastic, of course.",
+      "The staff members in lab coats were smiling bitterly."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「……あはははは。",
+      "いや、必要な予算なら私も最大限配慮します。"
+    ],
+    "textEn": [
+      "\"...Ahahahaha.",
+      "Well, I'll give my greatest efforts for the budget you all need too."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "私は本当は皆さんの味方になってあげたいくらいなんですよ…。"
+    ],
+    "textEn": [
+      "To be honest, I want to be on your side myself..."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "ですが、上に説明するのも直接怒られるのも僕ですのでね…。"
+    ],
+    "textEn": [
+      "But I'm the one who has to explain things to the brass, and the one they come down on directly..."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "申し訳ございませんが、渋々、厳格に審査させていただきます。"
+    ],
+    "textEn": [
+      "You have my deepest apologies, but regretfully, I'll be rigorously examining the budget."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "どうかご協力をよろしくお願いいたします。」"
+    ],
+    "textEn": [
+      "Please continue lending me your cooperation.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「はっはっは、それが富竹さんのお仕事ですから止むを得ません。",
+      "どうか明日はよろしくお願いいたします。",
+      "では、本日はこれで解散といたします。」"
+    ],
+    "textEn": [
+      "\"Ha ha ha. That's your job, so we can't blame you.",
+      "We'll see you tomorrow.",
+      "In any case, that's it for today.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入江が閉会を宣言すると、白衣のスタッフたちは資料をまとめ時計を見上げてから退席した。",
+      "…時計はもう２４時を指そうとしている。",
+      "明日が非番のスタッフはともかく、勤務のあるスタッフはすぐに寝ないと明日に差し支えるだろう。",
+      "鷹野は、灰皿の吸殻をまとめ、缶コーヒーの空き缶を集める。"
+    ],
+    "textEn": [
+      "Once Irie declared the meeting over, his white-coated staff gathered up their documents and left after glancing at the clock.",
+      "...It was almost midnight.",
+      "The staff who were off tomorrow might be alright, but those scheduled to work needed to sleep soon, or it would hinder them the next day.",
+      "Takano gathered up the butts from the ashtrays as well as the empty coffee cans."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あら、コーヒーを飲まない人もいるのね。"
+    ],
+    "textEn": [
+      "\"My, some people didn't drink their coffee."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "せっかく会議用に認めさせたコーヒー代なんだから、ちゃんと飲んでくれないとこの分まで予算が切られちゃうのかしら…？",
+      "くすくす。」"
+    ],
+    "textEn": [
+      "We managed to get a coffee budget for meetings approved, but I wonder if they'll cut that budget if people don't drink it.",
+      "Hee hee...\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「あははは……、ひどいなぁ。",
+      "僕も仕事で嫌々やってるんだよ？」"
+    ],
+    "textEn": [
+      "\"Ahahaha... Don't be so mean.",
+      "I'm not doing this because I enjoy it, you know?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「あ、鷹野さん。",
+      "そのコーヒー１本もらいます。」"
+    ],
+    "textEn": [
+      "\"Oh, Takano-san...",
+      "I'll take that leftover coffee.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「じゃあ僕ももらいます。",
+      "全て飲みきった方が、予算請求には都合がいいでしょうから。」"
+    ],
+    "textEn": [
+      "\"I'll take one too.",
+      "That way the budget won't go to waste.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「「はっはっはっは。」」"
+    ],
+    "textEn": [
+      "\"Ha ha ha ha ha!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "他のスタッフが皆いなくなると、ようやく弛緩したムードとなった。",
+      "富竹も入江も襟元を緩め、少しリラックスした表情を浮かべた。"
+    ],
+    "textEn": [
+      "The two of them seemed more relaxed with the other staff members gone.",
+      "Tomitake and Irie loosened their collars in a sign of relief."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「梨花ちゃんと沙都子ちゃんたちはお元気ですか？"
+    ],
+    "textEn": [
+      "\"How are Rika-chan and Satoko-chan? Are they doing fine?"
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "先週聞いた話では、沙都子ちゃんの検査結果が一時期、よくなかったように聞きましたが。」"
+    ],
+    "textEn": [
+      "I heard last week that Satoko-chan's test results weren't that good recently...\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「あれは取り越し苦労のようでした。",
+      "急に暑くなりましたからね、体がびっくりしてしまったのでしょう。",
+      "最新の検査結果では非常に安定した状態に戻っています。」"
+    ],
+    "textEn": [
+      "\"No, but it actually wasn't that big of a deal.",
+      "She was a bit out of sorts because of the heat wave.",
+      "Her new results came out very stable.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「くすくす、入江先生は沙都子ちゃんには特に熱心ですからねぇ？」"
+    ],
+    "textEn": [
+      "\"Hee hee, Dr. Irie is very passionate about Satoko-chan...\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「そそ、そんなことはありませんよ。",
+      "医師たるもの、全ての病める者には公平に全力を尽くします！"
+    ],
+    "textEn": [
+      "\"Th-Th-That's not true.",
+      "As a physician, I treat all of my patients equally, to the best of my ability!"
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "そして私に感謝してメイドさんになってくれればなお素晴らしいのですが！"
+    ],
+    "textEn": [
+      "But if she feels grateful and decides to become my maid, that would be wonderful!"
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "……いやはや、なかなかそうはなりませんねぇ。」"
+    ],
+    "textEn": [
+      "...Though that's proving quite difficult.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「沙都子ちゃんを完全に治療できる方法があれば、本当に素晴らしいのですが。",
+      "…それはやはり難しそうですか？」"
+    ],
+    "textEn": [
+      "\"It would be wonderful if there was a way to completely cure Satoko-chan.",
+      "...But I guess that's what's difficult?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……沙都子ちゃんのように、一度でもＬ５に至った場合、幻覚症状の再現、いわゆるフラッシュバックに近い現象が起こりやすくなります。"
+    ],
+    "textEn": [
+      "\"...Once a patient reaches the L5 state like Satoko-chan has, it's easy for them to re-experience hallucinations, similar to a patient suffering from flashbacks."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "これは厳密には病気によるものではなく、精神の中に育まれる正常な防衛反応なのです。"
+    ],
+    "textEn": [
+      "Those technically aren't caused by the disease, but by the normal defense mechanisms cultivated in the brain."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "熱物に懲りてナマスを拭くという諺にもあるように、過去の経験を積極的に生かそうとする正常な反応なのです。」"
+    ],
+    "textEn": [
+      "Like the idiom, 'a scalded dog fears cold water' suggests, the brain naturally uses past experiences proactively for our survival.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「つまり一言で言えば心的外傷のことよ。",
+      "しかも、前頭葉に直接ダメージを受けていることが考えられるので、一般的な心的外傷よりもずっと繊細なカウンセリングと長期の投薬が必要でしょう。」"
+    ],
+    "textEn": [
+      "\"In simpler terms, emotional trauma.",
+      "Worse yet, we suspect she may have suffered damage directly to her frontal lobe, so she needs more delicate counseling and long-term medication than the usual trauma patient.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「病気は治療できても、心の傷は治せない、",
+      "…ということかい。」"
+    ],
+    "textEn": [
+      "\"You may be able to treat her illness, but you can't treat her mental health...",
+      "is that what you are saying?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「………心的外傷に苦しむ人は社会にも大勢いる。",
+      "その中の一人に混じれるだけでも、かつての沙都子ちゃんの症状を思えば、奇跡的な回復なんだしね…。」"
+    ],
+    "textEn": [
+      "\"...There are plenty of people functioning in society with emotional trauma.",
+      "Even if she's just one more to the mix, that's still a miraculous recovery considering the state she used to be in...\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「糖尿病などと同じに考えてください。",
+      "不治の病ではあっても、症状を抑えて元気に生活されている方も大勢います。」"
+    ],
+    "textEn": [
+      "\"Think about diabetic patients.",
+      "There's no cure, but many of them live happily by managing their condition.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「沙都子ちゃんは今でも日に三度の注射を？」"
+    ],
+    "textEn": [
+      "\"She still needs three shots a day...?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「いえ、だいぶ調子が落ち着いてきましたので、今は日に二度です。",
+      "三度に比べればだいぶ負担は軽くなったと思います。」"
+    ],
+    "textEn": [
+      "\"No, she's recovered quite a bit, so she's down to twice a day now.",
+      "I think that puts a lot less strain on her too.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「最初はだいぶ嫌がったんだけどね。",
+      "梨花ちゃんがうまく誤魔化してくれてるみたいよ。」"
+    ],
+    "textEn": [
+      "\"She was so afraid in the beginning...",
+      "But Rika-chan talked her into it.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「…誤魔化して？」"
+    ],
+    "textEn": [
+      "\"Into getting the shots, you mean?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「沙都子ちゃんは、生活資金の援助を受ける代償として、私の研究に協力してもらっている、ということになっています。」"
+    ],
+    "textEn": [
+      "\"Satoko-chan was told that she's receiving financial support from us by supporting our research.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「では、日に二度の注射は、自分の病気のためでなく、",
+      "入江先生の研究の協力のためにやっているつもりなんですか？」"
+    ],
+    "textEn": [
+      "\"So she thinks that she's getting two shots a day not because she's sick...",
+      "but as a test subject for your research?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「ジロウさん。",
+      "…………沙都子ちゃんに、自分がどういう病気に掛かっているのかを説明することは、……とても残酷な意味を持つのよ。",
+      "前に話さなかったかしら？」"
+    ],
+    "textEn": [
+      "\"Jirou-san.",
+      "......It would be a horrible thing for us to explain to her what kind of illness she's suffering from...",
+      "Didn't I tell you this before?\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「…あ、いや。",
+      "思い出したよ。",
+      "無神経なことを言って申し訳ない…。」"
+    ],
+    "textEn": [
+      "\"...Ah, well.",
+      "I remember.",
+      "Sorry for being insensitive...\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……富竹さんも、どこかで沙都子ちゃんに会ったら、やさしくしてあげてください。」"
+    ],
+    "textEn": [
+      "\"...If you happen to see Satoko-chan somewhere, please be kind to her.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「そうですね。",
+      "……わかりました。」"
+    ],
+    "textEn": [
+      "\"All right.",
+      "...I will.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「………梨花ちゃんは本当に強い人ですね。"
+    ],
+    "textEn": [
+      "\"Rika-chan is such a strong girl..."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "沙都子ちゃんと同じような境遇のはずなのに、あれだけしっかりと生活できるのですから。」"
+    ],
+    "textEn": [
+      "Her background is similar to Satoko-chan's, yet she's leading such a steady life.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「全て梨花ちゃんと、お亡くなりになられたご両親のお陰ですね。",
+      "多大なる理解と協力がなければ、これだけの短期間では治療の糸口は見つけられなかったでしょう。」"
+    ],
+    "textEn": [
+      "\"We have Rika-chan and her deceased parents to thank for all of this.",
+      "Without their understanding and support, we would've never discovered even a hint at a cure so soon.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…………人道的でない実験にもよく耐えてくれました。",
+      "ご両親の死をも乗り越えてくれた彼女の協力なくして、今日の成果はありえません。"
+    ],
+    "textEn": [
+      "\"......She even endured our inhumane experiments very well.",
+      "We wouldn't have the results we do today without her support after overcoming her parents' death."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "…何とか、その恩に報いてあげたいものです。」"
+    ],
+    "textEn": [
+      "...I'd like to repay the debt we owe her somehow.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「そうですね。",
+      "東京も、梨花ちゃんと沙都子ちゃんが最大の功労者であることは理解しています。",
+      "必ずや、二人の協力に見合う感謝を示すでしょう。」"
+    ],
+    "textEn": [
+      "\"I agree.",
+      "Tokyo also recognizes that Rika-chan and Satoko-chan have rendered us a distinguished service.",
+      "They will be compensated for their work someday.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あらあら、私たちにはコーヒーフィルター代まで渋るのに、気前がいいのねぇ。",
+      "くすくす。」"
+    ],
+    "textEn": [
+      "\"Hey, you guys don't even want to pay for our coffee filters!",
+      "Hee hee.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「だからそれを苛めないでほしいなぁ。",
+      "昨年の話は鷹野さんに根を持たれっぱなしだよ…。」"
+    ],
+    "textEn": [
+      "\"Again, don't be mean.",
+      "You keep bringing that story up...\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「「はっはっはっはっは。」」"
+    ],
+    "textEn": [
+      "\"Ha ha ha ha ha.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「でも、……私たち大人は彼女たちの協力に、結局、お金でしか報いられないのね。",
+      "……心で報いる方法があればいいのに…。」"
+    ],
+    "textEn": [
+      "\"But even though all we can do is to compensate them with money...",
+      "I wish there was a way to pay them back from our hearts...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野は独り言のように囁いたつもりだったが、静かな室内でのそれは、他の二人に訴えかけているかのようだった。"
+    ],
+    "textEn": [
+      "Takano muttered like she's talking to herself, but it almost sounded as if she was talking to them."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……きっと、心で報いる方法は日常の中にたくさんあります。",
+      "それらを、ひとつひとつ積み重ねていくことで、色々な形でお返しができると思います。」"
+    ],
+    "textEn": [
+      "\"...I'm sure there are many ways for us to show our appreciation.",
+      "There are many ways we can pay them back.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「入江先生は、",
+      "……いえ、監督は日々、そうしておられるようですわね。",
+      "私も、あの子たちに何か親切でもするようにしてあげないと。」"
+    ],
+    "textEn": [
+      "\"Dr. Irie...",
+      "I mean, Coach. I guess you're already doing that for them all the time.",
+      "I suppose I should be nice to those girls too.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「そうだよ、鷹野さんはそれでなくとも、今日、大きな恩を梨花ちゃんに受けたじゃないか。」"
+    ],
+    "textEn": [
+      "\"Indeed. Plus, Rika-chan was very nice to you today.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あぁいけない！",
+      "明日の朝一でフィルムを現像に出さないと！",
+      "あぁ…本当に貴重な体験だったわ……。",
+      "歴史、",
+      "文化、",
+      "その息吹…。",
+      "本当に素晴らしい時間だったわ。」"
+    ],
+    "textEn": [
+      "\"Aaah, I nearly forgot!",
+      "I have to take that film to get developed first thing in the morning!",
+      "It was such a wonderful experience...",
+      "History,",
+      "culture,",
+      "the smell of it...",
+      "Everything about it was wonderful!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入江は、鷹野がこれだけうっとりするようなどんな貴重な経験があったのか、不思議がっていたが、",
+      "それがどんな経験なのかよく知る富竹は、複雑そうに笑って誤魔化す他なかった。"
+    ],
+    "textEn": [
+      "Irie wondered what she could have experienced during the day.",
+      "Tomitake could only smile and act like he didn't know anything."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「…そうだ、",
+      "…鷹野さん。",
+      "今日の最後にされた梨花ちゃんのあのお願いだけど、",
+      "……どう思う？」"
+    ],
+    "textEn": [
+      "\"By the way...",
+      "Takano-san...",
+      "What do you think of what Rika-chan told us near the end today...?",
+      "What are your thoughts?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「………被害妄想だと思いたいけれど。",
+      "…本人だって明確な証拠は示せないって言ったわけだし。」"
+    ],
+    "textEn": [
+      "\"......I want to believe that it's only paranoia.",
+      "...She did say that there's no absolute proof, either.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「何かあったんですか？",
+      "話だけを聞いていると、梨花ちゃんによくない兆候が出たように聞こえますが。」"
+    ],
+    "textEn": [
+      "\"What's going on?",
+      "From what you've said, it sounds like Rika-chan is showing some bad symptoms?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「先週の梨花ちゃんの検査結果。",
+      "……私は極めて安定した良好な結果だったと思っているのですが、入江先生から見て何か変った初見は見受けられましたか？」"
+    ],
+    "textEn": [
+      "\"Her test results from last week...",
+      "I thought they came out pretty good, but did you see anything different, Dr. Irie...?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…いいえ？",
+      "今回もとても安定した結果でしたよ。",
+      "沙都子ちゃんの検査結果が日本海の荒波だと例えるなら、梨花ちゃんは琵琶湖の水面のような感じです。"
+    ],
+    "textEn": [
+      "\"No...",
+      "They were as stable as always.",
+      "If Satoko-chan's results are a wave during high tide, Rika-chan's are the quiet surface of a lake."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "はっはっは、二人の気性そのものですねー。」"
+    ],
+    "textEn": [
+      "Ha ha ha, just like their personalities.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「………急性発症の可能性は？」"
+    ],
+    "textEn": [
+      "\"......What's the possibility of a sudden outbreak?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「一体何事ですか。",
+      "まさか梨花ちゃんに、症状の進行が見られるというのですか？！」"
+    ],
+    "textEn": [
+      "\"What are you talking about?",
+      "Don't tell me Rika-chan is showing symptoms of the disease progressing?!\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…実は今日、彼女から私たちに依頼があったんですわ。",
+      "………自分の命が狙われているように思うので身辺警護の強化を依頼したいと。」"
+    ],
+    "textEn": [
+      "\"...Rika-chan asked us for something today.",
+      "......She wanted our protection, because she feels like someone is going to murder her.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「そんな馬鹿な。",
+      "…ははは、一体誰が彼女の命を狙おうなどというのですか。",
+      "考えられない。」"
+    ],
+    "textEn": [
+      "\"No way.",
+      "...Hahaha, who would try to kill her?",
+      "That's impossible.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「梨花ちゃんは村中から愛されてるマスコットで、殺したいほど憎む人がいるなんて聞いたこともない。",
+      "……僕も正直、眉唾だとは思っています。」"
+    ],
+    "textEn": [
+      "\"Rika-chan is a beloved mascot here in the village, and I don't think she has any enemies.",
+      "...I think it was just her imagination, too.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「梨花ちゃんは、自分の命が脅かされている根拠を何だと言っていますか？",
+      "追跡妄想や被害妄想の類だとしたら、確かにＬ５の初期症状と言えなくもありませんね。」"
+    ],
+    "textEn": [
+      "\"Why does she think that someone is trying to kill her?",
+      "If she's experiencing paranoia, she may be in the early L5 stage...\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…………夢で見たと。",
+      "そういう悪夢にうなされてとても怖い思いをしたので、落ち着くまで身辺護衛を頼みたいと言うんです。」"
+    ],
+    "textEn": [
+      "\"......She said she saw it in her dreams.",
+      "She wants us to reinforce security around her, because she feels threatened.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「あのくらいの歳の子なら、夢見が悪くて怖くなってしまうこともたまにはあるかもしれない。",
+      "…でも、僕たちの立場上、それが単なる悪夢なのか、初期症状なのかは慎重に判断する必要があるだろうね。」"
+    ],
+    "textEn": [
+      "\"For a young girl like that, it's not uncommon to get scared after having a nightmare.",
+      "But we need to determine if it was really just a dream, or if she's showing early symptoms of the disease...\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「わかりました。",
+      "明日、彼女には緊急検査を実施しましょう。",
+      "問題がないことを祈ります。",
+      "今のこの村で、彼女より大切な人間は存在しないのですから。」"
+    ],
+    "textEn": [
+      "\"Okay.",
+      "Let's give her an urgent checkup tomorrow.",
+      "I really hope nothing is wrong.",
+      "She's the most valuable person in this village.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「何も問題がなければいいんだけどね。",
+      "…でも、もしそうだったとしたら、どうしようね。」"
+    ],
+    "textEn": [
+      "\"I hope she's okay.",
+      "...But what should we do if she is?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「………ジロウさん。",
+      "梨花ちゃんはあれだけの物を私たちに見せてくれて、その見返りがあのお願いなのだとしたら、とてもささやかなものだとは思わない？"
+    ],
+    "textEn": [
+      "\"...Jirou-san.",
+      "If that's what she wants in return for what she showed us today, it's not even a big deal."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "身辺に不安を感じるという訴えをしてくれたんだから、私たちはそれに応えてこそ信頼関係だと思うの。"
+    ],
+    "textEn": [
+      "If she's worried about her safety and wants to rely on us, I think we should support her."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "……これが、お金でなく、心で報いるということじゃないのかしら。」"
+    ],
+    "textEn": [
+      "That's what paying her back with our hearts is all about...\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「そうですね。",
+      "仮に訴えが彼女の言うように夢見のせいだったとしても、それに応えなければ、私たちは彼女の信頼を失うでしょう。",
+      "ある意味、幸運ではありませんか。",
+      "彼女に恩返しをする方法がひとつ、見付かったわけですからね。」"
+    ],
+    "textEn": [
+      "\"You're right.",
+      "Even if she was just dreaming, we'll lose her trust if we don't support her.",
+      "This is our chance.",
+      "We've found a way to show her our appreciation.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「……確かに仰るとおりです。",
+      "それに、彼女の訴えは、私たちが当初から保証しているはずの権利でもあります。」"
+    ],
+    "textEn": [
+      "\"...Yeah, I agree.",
+      "Besides, she has a right to seek that support from us.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「それでなくても、私たちは彼女の安全を徹底的に守らなければならない。」"
+    ],
+    "textEn": [
+      "\"Yes. We have to make sure to protect her at all times.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「そのとおりです。",
+      "……それについては、私ではなく皆さんの仕事ですね。",
+      "どうかよろしくお願いいたします。」"
+    ],
+    "textEn": [
+      "\"That's true.",
+      "...Though that's your job, not mine.",
+      "So please, give her your best.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「わかりました。",
+      "では、鷹野さんの権限内でお願いします。",
+      "東京から番犬を派遣するレベルでもないでしょう。」"
+    ],
+    "textEn": [
+      "\"Understood.",
+      "Takano-san, please do what you can to keep her safe.",
+      "It's probably not so serious that we need to bring in the Bloodhounds from Tokyo.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「くすくす、古手梨花が夢にうなされたので派遣をお願いします、なんて言えませんものねぇ。"
+    ],
+    "textEn": [
+      "\"Hee hee... True, you can't ask them to come over just because Rika Furude had a nightmare."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "了解しました。",
+      "山狗に最低４名の２４時間警護を命じます。」"
+    ],
+    "textEn": [
+      "All right.",
+      "I'll order at least four members of the Mountain Dogs to watch her 24 hours a day.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…それはすごいな。",
+      "私が上京する時の警護より厳重です。」"
+    ],
+    "textEn": [
+      "\"...That's impressive.",
+      "That's tighter security than when I went to Tokyo.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「くすくすくす。",
+      "だって、梨花ちゃんにはそれだけの恩を受けちゃったんですもの。"
+    ],
+    "textEn": [
+      "\"Hee hee hee...",
+      "She deserves special treatment."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "そりゃもうすごい警護をつけるわよ！！",
+      "梨花ちゃんの暗殺を企むようなヤツらは絶対阻止！！",
+      "山狗の最精鋭を護衛につけるわ、ケネディは撃てても梨花ちゃんは撃てると思うなよぉ！！"
+    ],
+    "textEn": [
+      "I'll make sure she gets the best security in the country!!",
+      "No one would dare plot an assassination on her!!",
+      "I'll get the best bodyguards out there!!"
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "たとえ相手がゴルゴでも守りきって見せるわよッ！！",
+      "にゃーにゃー！",
+      "鬼ヶ淵村の神秘万歳！」"
+    ],
+    "textEn": [
+      "Not even a super spy could lay a finger on her!!",
+      "Meow meow!",
+      "Onigafuchi banzai!\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「…",
+      "…",
+      "…",
+      "…",
+      "鷹野さん、",
+      "何かいいことでもあったんですか…？」"
+    ],
+    "textEn": [
+      "\"...",
+      "...",
+      "...",
+      "...",
+      "Takano-san,",
+      "did something good happen...?\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「いや、",
+      "…その…。",
+      "あははははは……。」"
+    ],
+    "textEn": [
+      "\"Well,",
+      "I mean...",
+      "Ahahahahaha......\""
+    ]
+  }
+]

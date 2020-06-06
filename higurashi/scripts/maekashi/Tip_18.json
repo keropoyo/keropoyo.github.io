@@ -1,0 +1,93 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その後、私は公由村長の行方を捜す青年団に合流した。",
+      "町会の連絡網にそって、訪ねていないか電話し、回覧板区分ごとに手分けして捜した。",
+      "誰もが、いくら捜しても見つからないだろうと、薄々気付いているようだった。",
+      "だが、薄々どころか、絶対見つからないと知っている私にはとにかく辛いものだった。",
+      "午前０時を回っても、まだあそこは見てない、一応あそこも行ってみようと皆、精力的だ。",
+      "私は大あくびをしながら耐えるしかなかった。",
+      "その内、誰かが噂した。",
+      "去年、……北条悟史くんがいなくなった時も、こんな風に青年団で捜したな、と。",
+      "…青年団での捜索なんて、今年が茶番であるように、",
+      "…去年だって茶番。",
+      "私が、絶対に見つかることのない公由を知っていて、こうして欠伸交じりにせせら笑っているように。",
+      "去年の何者かも、絶対に見つかることのない悟史くんを知っていて、私のように欠伸交じりにせせら笑っていたのだ。"
+    ],
+    "textEn": [
+      "After that, I joined the youth group in the search for Kimiyoshi.",
+      "I went down the town council's phone directory and called to see if he had visited, then had the group split according to the circular notice divisions and sent them to search the town.",
+      "Everybody seemed to be assuming they wouldn't find him.",
+      "But since I knew they definitely never would, it was just bothersome to me.",
+      "Even after midnight, they were all still enthusiastically looking for him.",
+      "I bore the sleepiness while yawning.",
+      "Then I heard somebody whisper.",
+      "\"Last year...... we did the same thing when Satoshi Houjou-kun went missing.\"",
+      "...The youth group was looking for someone who would never be found...",
+      "just like last year.",
+      "I was yawning because I knew this.",
+      "Last year, there must also have been some people who were yawning... and grinning on the inside."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「……去年の捜索って、何時に終わりにしましたっけ？」"
+    ],
+    "textEn": [
+      "\"......When did we stop searching last year, do you remember?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Villager",
+    "labelJp": "村人",
+    "textJp": [
+      "「ん？",
+      "北条んとこの悟史ん時かい？",
+      "ありゃあ何時だったっけ？」"
+    ],
+    "textEn": [
+      "\"Hmm?",
+      "When Satoshi Houjou-kun was missing?",
+      "Oh, what time was it?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Elder",
+    "labelJp": "長老",
+    "textJp": [
+      "「午前の０時過ぎくらいには解散したような気がするなぁ。」"
+    ],
+    "textEn": [
+      "\"I guess that was around midnight.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "時計は、もう午前の２時を回ろうとしていた。",
+      "公由を捜すためにはこれだけの時間を割くのに、…悟史くんにはまったく割かない。",
+      "そう、絶対見つからないと知っているやつらが、居たからだ。",
+      "そいつらはきっと眠かった。",
+      "だからもう諦めて警察に任せよう、なんて言い出したに違いないのだ。",
+      "くそ…くそ…、その言ったやつを殺してやりたい……。"
+    ],
+    "textEn": [
+      "It was already two in the morning.",
+      "Although they spent this much time searching for Kimiyoshi... they didn't do the same when Satoshi-kun went missing.",
+      "After all, some people knew they wouldn't find him.",
+      "They must've been sleepy.",
+      "They must've said they should leave it to the police.",
+      "Shit... shit... I want to kill the people who said that..."
+    ]
+  }
+]

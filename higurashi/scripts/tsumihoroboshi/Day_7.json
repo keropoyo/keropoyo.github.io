@@ -1,0 +1,2318 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "父がジャケットを取り寄せたという店は、ちょっと小洒落た感じのブティックだった。",
+      "間違っても、父が一人で店内に入るようなことは考えられない雰囲気。",
+      "……リナさんに連れられて入ったんだろうことがすぐに分かった。",
+      "伝票を渡すと、困ったような笑顔を浮かべた店長が店の奥からやってきて言った。"
+    ],
+    "textEn": [
+      "The store where my father ordered the jackets from is a fancy boutique.",
+      "It's hard to believe my father would shop at a store like this on his own.",
+      "...I could tell right away that Rina-san took him here.",
+      "I handed over his receipt to the cashier. A short time later, the store manager came out wearing a perplexed look."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Salesperson",
+    "labelJp": "店員",
+    "textJp": [
+      "「竜宮さま、大変申し訳ございません。",
+      "実は入荷のトラックが高速で事故渋滞に巻き込まれているようでございまして…。",
+      "おそらくはもうじき到着すると思うのですが…。」"
+    ],
+    "textEn": [
+      "\"Ryuugu-sama, I'm very sorry,",
+      "but it seems like the truck carrying your jackets is stuck in traffic...",
+      "It should be here soon, though...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "先ほど、どこそこのインターを降りたとの連絡があったので、あと１時間くらいで来るとか何とか。",
+      "書けばそれだけで済むことを、やたら回りくどく説明してくれた。",
+      "後日、改めて来た方がいいですか、",
+      "と聞くと、本当にあと少しで来るからと、応接ソファーを勧められる。",
+      "…でも、ちょっと店内の雰囲気に馴染めなかったので、私は外で時間を潰してくると言い残し表へ出た。",
+      "どこか、ファーストフードみたいなところがあればいいのだが。",
+      "確か駅前まで戻らないとなかったと思った。",
+      "周りを探すと、喫茶店が目に入った。",
+      "扉が真っ黒なガラスだったので、中がうかがえないのがちょっと不安だ。",
+      "……でも、曜日サービスで女性には紅茶が安くなる、と貼り出されているのも見える。",
+      "…ほんのちょっと時間を潰すだけだし。",
+      "私はちょっぴりだけ躊躇した後、店のガラス戸に手をかけた。",
+      "お店に足を踏み入れての最初の印象は、煙草臭さだった。",
+      "喫茶店の定義から言えば、紫煙がたなびいていることに疑問はないのだが。",
+      "…レナは、やっぱりやめれば良かったと一瞬後悔する。",
+      "踵を返そうか、迷っている間に、無愛想なマスターに声を掛けられ、レナは諦めて促されるままに席へ座るのだった。",
+      "店内には、珈琲や煙草を楽しむサロンというイメージはなく、どちらかというと、ガラの悪いゴロツキの溜まり場といった感じだった。",
+      "雰囲気も馴染めたものじゃないし、そして何よりも、一番奥のシートから聞こえてくる男女２人の黄色い笑い声がとても不快だった。",
+      "レナが座った席は、ちょうどプランターの陰だったので、考えようによっては、彼らの笑い声から一番守られている場所とも言えたが。",
+      "…レナは注文の紅茶を飲み干したら、すぐにでも店を出たいようだった。",
+      "カランカランという、来客を知らせる音が聞こえてくる。",
+      "…こんな雰囲気の悪い喫茶店に、よくも利用者がいるものだ。",
+      "レナはそう思いながらプランターの陰から客をうかがう。",
+      "客は２人。",
+      "………とびっきりガラが悪そうな男たちだった。表情は重苦しく、関わり合いにならない方がいいことがすぐに読み取れる。",
+      "マスターが応対しようとすると、２人はそれを無視して店の奥へ向かった。",
+      "その２人は、先ほどから黄色い声でげらげらと笑い合っている奥の男女のところへ行くと、神妙に頭を垂れながら挨拶をした。"
+    ],
+    "textEn": [
+      "He said that the driver called a while ago, told him he just got off the highway, and would be here in about an hour.",
+      "I didn't need to know all the details, but he explained them to me anyway.",
+      "I asked him if I should come back tomorrow.",
+      "He insisted that I should wait because the truck would be coming shortly, and he urged me to take a seat on their sofa.",
+      "...But I didn't really feel comfortable waiting there, so I told him I'd be back soon and left the store.",
+      "I wondered if there are any fast-food restaurants nearby.",
+      "I might have to go all the way back to the station.",
+      "I looked around, and found a coffee house.",
+      "The glass on the door was black, so I couldn't see inside.",
+      "...But, there was a poster saying the price for a cup of tea is lower than normal for women on weekdays.",
+      "...I'd just be going to get a cup of tea to kill some time. It should be okay.",
+      "But still, I hesitated to go inside before opening the door.",
+      "Her first impression of the coffee house was the smell of cigarettes.",
+      "It's normal for coffee houses to be filled with cigarette smoke. It's like a requirement.",
+      "...But Rena still regretted her decision.",
+      "While she was thinking about leaving, the proprietor spoke to her brusquely and showed her to a table. Rena gave up on the idea of leaving and sat down.",
+      "The atmosphere in the shop was far from a clean, normal coffee house where you would go to simply enjoy coffee and cigarettes. It was more like a place where vulgar people would hang around.",
+      "Rena didn't feel comfortable at all. But, what bothered her most was the laughter of a man and a woman sitting together in the very back of the shop.",
+      "Her table was behind a planter, so depending on how one looked at it, one could say she was in the spot most protected from their laughter.",
+      "...But Rena looked as though she wanted to leave as soon as she finished her tea.",
+      "The bell hanging from the entrance door rang, letting her know a customer just came in.",
+      "...It was a little surprising for her that a coffee shop like this could draw in so many customers.",
+      "Rena peeked at the newcomers from behind the planter.",
+      "There were two of them.",
+      "...They looked like vulgar men, the kind of people you didn't want to get involved with the instant you saw them.",
+      "The proprietor tried to show them to a table, but they ignored him and walked towards the back.",
+      "They walked up to the couple who had been laughing loudly, and greeted them with a bow."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「おう！",
+      "やっと来よったんか。",
+      "まあ座れや。」"
+    ],
+    "textEn": [
+      "\"Hey!",
+      "Ya finally made it.",
+      "Siddown.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "待っていた客が来たことに気付くと、男女は馬鹿笑いを止め、ドスの効いた声で着席を促した。",
+      "客２人はおずおずと勧められるままに座る。"
+    ],
+    "textEn": [
+      "The couple stopped laughing, and the man told the newcomers to sit down in a threatening tone of voice.",
+      "As instructed, the two of them took a seat."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「んで？",
+      "どういうごったん。」"
+    ],
+    "textEn": [
+      "\"So?",
+      "What happened?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「すんまへん、何とかその…。」"
+    ],
+    "textEn": [
+      "\"We're very sorry. We tried to...\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「御託はええんねボケぇ。",
+      "とっとと唸るもん晒さんかい。」"
+    ],
+    "textEn": [
+      "\"Cut it, dipshit.",
+      "Just hand it over.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "客２人は顔を見合わせた後、懐からくたびれた封筒を２束、取り出して机の上に乗せた。",
+      "それを男は引っ手繰ると、乱暴に封筒を破く。",
+      "中からは、輪ゴムで留めて束になった、しわくちゃの壱万円札があふれ出した。",
+      "両方の封筒を開け、現金が詰まっていることを確認すると、男はそれを女の膝に放る。"
+    ],
+    "textEn": [
+      "The two of them looked at each other before they each took an envelope out of their pockets and put it on the table.",
+      "The man roughly grabbed the two envelopes and tore one of them open.",
+      "Inside, there were many wrinkled 10,000 yen bills bound into a bundle with a rubber band.",
+      "He opened the other one to make sure it also had cash in it and then threw it to the woman."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「おい、数えんね。」"
+    ],
+    "textEn": [
+      "\"Count 'em.\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「ちょっと、私に命令しないでくれるー？",
+      "元々、私の金なんだから。」"
+    ],
+    "textEn": [
+      "\"Hey, don't order me around!",
+      "This is originally my money, you know?\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「じゃッかまし！！",
+      "黙って数えんなええんね…。」"
+    ],
+    "textEn": [
+      "\"Shaddup!!",
+      "Just count 'em...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "男が怒鳴りつけると、女は不愉快そうに親指を舐めた後、手馴れた様子で現金を数えだす。",
+      "その様子を見ながら、客２人はうな垂れたままだった。",
+      "男も、新しい煙草に火を付けると、女が数え終わるのをじっと待っているようだった。"
+    ],
+    "textEn": [
+      "The man yelled at the woman. She licked her thumb, looking annoyed, and started counting the cash expertly.",
+      "The two newcomers hung their heads while she counted.",
+      "Lighting a cigarette, the man waited for her to finish counting."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「……………」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「はいよ、全部あるわよ。」"
+    ],
+    "textEn": [
+      "\"Good. It's all here.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "女がパチンと最後の紙幣を指で弾く。",
+      "その様子を見て、客２人は安堵したようだった。",
+      "だが、男はまだ満足しないのか、女がトントンと揃えている札束を凝視する。"
+    ],
+    "textEn": [
+      "The woman said that after flicking through the last bill.",
+      "The newcomers looked relieved.",
+      "The man, however, didn't look satisfied as he stared at the bundle of the bills the woman was holding."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「…律子。",
+      "それ、いくらあったぁ。」"
+    ],
+    "textEn": [
+      "\"...Ritsuko,",
+      "how much is there?\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「ん、全部って言ったわよ。」"
+    ],
+    "textEn": [
+      "\"What? I told you it's all here.\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「全部って、いくらかっちゅ聞いとんねッ！！」"
+    ],
+    "textEn": [
+      "\"I'm askin' ya, how much is that?!\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「だから私が貸した金、全部だって言ってるでしょ！」"
+    ],
+    "textEn": [
+      "\"I told you. All the money I lent them!\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「ボケがぁ！！",
+      "利子は付いとるんか聞いとるんね！！」"
+    ],
+    "textEn": [
+      "\"No, idjit!!",
+      "I'm askin' ya if they paid ya the interest!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "男と、律子と呼ばれた女は険悪そうに怒鳴りあう。",
+      "こんな物騒なやり取りを声高にやっているのに、店内の少なからずいる客たちは、何も聞こえないかのように振舞うのだった。"
+    ],
+    "textEn": [
+      "The man and Ritsuko yelled at each other.",
+      "Even though they were making all that noise, the other customers acted like they didn't hear anything."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「おい、兄さん方。",
+      "２００万びったんこっきゃないんね。",
+      "どういうごっちゃん。」"
+    ],
+    "textEn": [
+      "\"Hey, boys.",
+      "There's only two mill in here.",
+      "What's goin' on?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "客２人は何とか言い逃れようと言葉を探しているようだった。",
+      "…そんな様子が神経を逆撫でするのか、男の形相がまるで鬼のようになっていく。"
+    ],
+    "textEn": [
+      "The two of them were trying to find some excuses to make.",
+      "...It seemed like this behavior had touched the man's nerves, as he started looking furious."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「おおぉおらああッ！！",
+      "黙っとんたらわからんがなあぁッ！！」"
+    ],
+    "textEn": [
+      "\"The fuck is this?!",
+      "I asked ya, what's goin' on?! Ya'd better start talkin'!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "店内に怒声が響き渡る。",
+      "机を強打する音と、氷の入ったグラスが床に落ちる音が後に続き、店内の空気をこれ以上ないくらいに硬くした。"
+    ],
+    "textEn": [
+      "His angry voice echoed through the shop.",
+      "He hit the table hard, and dropped a glass on the floor. The noise thickened the tension in the atmosphere."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「すす、……すんまへん…！！」"
+    ],
+    "textEn": [
+      "\"W-W-We are very sorry!!\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「すまんで済んだら、警察はいらんっちゅうんね！",
+      "ごちとらぁ、出るとこ出ても一向に構わんでんのお！！」"
+    ],
+    "textEn": [
+      "\"Bein' sorry doesn't give her the interest, does it?",
+      "I don't mind callin' the police to solve our problem, you know?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「それはどうか…、ご勘弁下さいッ…！」"
+    ],
+    "textEn": [
+      "\"P-Please don't...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "客２人は明らかに立場が弱い様子だった。",
+      "額が机に付くくらいに頭を下げる。"
+    ],
+    "textEn": [
+      "The two newcomers must have been in an extremely vulnerable position.",
+      "They bowed so deeply that their foreheads almost touched the table."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「それを勘弁したったるって、今日を呼んだんね。",
+      "それがどういうケジメの付け方なん。んん？！」"
+    ],
+    "textEn": [
+      "\"I called y'all here because I thought you wouldn't want me to involve the police.",
+      "But then, you act like you don't fuckin' care. Hmm?!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「すんまへん…、偉ぅすんまへん…！」"
+    ],
+    "textEn": [
+      "\"We're sorry... We're very sorry...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "痛々しくも見えたが、脅す側も脅される側も真っ当な人間には見えず、同情すべきかどうか量りかねる雰囲気だった。",
+      "やがて律子が、助け舟を出すような感じで口を開く。"
+    ],
+    "textEn": [
+      "While you could pity them, the newcomers looked as vulgar as the man threatening them, making it hard to decide whether you should feel sorry for them or not.",
+      "After a while, Ritsuko opened her mouth as if to offer them help."
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「鉄っちゃん。",
+      "凄んじゃ可哀想でしょー？",
+      "ゴメンねぇ、うちの人、ゼニ絡むとすぐトサカに来ちゃう人で。」"
+    ],
+    "textEn": [
+      "\"Tecchan,",
+      "don't be so mean to them.",
+      "I'm sorry. My guy gets mad easily when money's involved.\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「ゼニ絡むとは余計だんね！！",
+      "お前にアヤ付けよったんから本気になっとんよ俺ぁ。」"
+    ],
+    "textEn": [
+      "\"You don't have to add the money part!!",
+      "I'm getting ticked because they're bitchin' at'cha.\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「もぅ、馬鹿なこと言っても何も出ないわよ。",
+      "…………んんんんん…！」"
+    ],
+    "textEn": [
+      "\"Jeez, saying those stupid things won't get you anything.",
+      "......Mmmmm...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "男は力ずくで律子を無理やり抱き寄せると、人目もはばからず、その唇を貪った。",
+      "恋人たちが交わすような愛らしさはなく、卑猥さしか感じさせない。",
+      "…その後も二人はしばらく、息継ぎのように唇を離しては、また貪り合うのを繰り返すのだった。",
+      "しばらくして、ようやくそれに飽き、男は律子を解放する。"
+    ],
+    "textEn": [
+      "The man pulled Ritsuko roughly into his arms, and frantically kissed her lips without caring about the other customers.",
+      "Their kiss wasn't like the lovely ones that normal couples would share. It looked obscene instead.",
+      "...He let her lips go to take a breath, kissed them again, and repeated that for a while.",
+      "After a while, he finally got bored of kissing and let her go."
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「うちの人は、私のことになるとすーぐ頭に血が上っちゃうのよね。",
+      "…困ったもんなのよ。」"
+    ],
+    "textEn": [
+      "\"He gets really mad when it comes to me, too.",
+      "...He's impossible.\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「おうそうよ。",
+      "この女は俺の体の一部なんね。",
+      "この女に泥塗りくさるヤツぁ、俺に塗ったんと同じやんな。",
+      "血祭りじゃ済まんね。」"
+    ],
+    "textEn": [
+      "\"So what?",
+      "This woman's like a part of my body.",
+      "Puttin' dirt on her means puttin' dirt on me.",
+      "Whoever tries to do that is in for a bloodbath.\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「いつぞやかの、バーコードハゲ。",
+      "あれ、表連れてってからどうしたんだったっけぇ？」"
+    ],
+    "textEn": [
+      "\"Do you remember the guy with the comb-over?",
+      "I forgot what you did to that guy after you took him outside.\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「だっはっはっはッ！！",
+      "あんのハゲか！",
+      "表へ出ろとか抜かしよんから、踵くれてやったわ！！"
+    ],
+    "textEn": [
+      "\"Dwa ha ha ha ha!!",
+      "I remember him!",
+      "He challenged me, wantin' to take it outside!!"
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "野郎、空手やるとか抜かしよるからどの程度か思うたん、ちょいとシバいたら、即土下座やん。"
+    ],
+    "textEn": [
+      "He said he did karate, so I got a li'l excited to see what he had and I punched him in the stomach, but then he just kneeled down on the ground!"
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "拍子抜けしたから、ズボンとパンツ脱がせて、そいつで公衆便所のション便器を磨いてもらったわぁ。",
+      "おお、俺、町の役に立っとんね！！",
+      "お役所に表彰してもらいたいんわ。」"
+    ],
+    "textEn": [
+      "I was disappointed, so I took off his pants and underwear, and made him clean the public toilets with them.",
+      "See? I'm helpin' society!!",
+      "I deserve an award for that one.\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「やぁだ、そんなことさせたのー？",
+      "あんたって時々、品がないよねぇ。",
+      "きゃははははは…！」"
+    ],
+    "textEn": [
+      "\"I can't believe you made him do that!",
+      "You're so gross sometimes.",
+      "Kyahahahahaha...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "二人は、客２人が来るまでそうしていたように、耳障りな下卑た声でゲラゲラと笑い合う。",
+      "その笑い声は明らかに客２人を萎縮させるもののようだった。"
+    ],
+    "textEn": [
+      "They started laughing loudly like they were doing earlier.",
+      "Their laughter obviously intimidated their companions."
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「ねぇ、あんたたち。",
+      "鉄っちゃん、今日はね、すっごく機嫌がいいの。",
+      "普段だったら、ゼニが足りん〜って騒ぎ出して、今頃あんたたち、素っ裸にされて王子川に叩き込まれてるわよ。」"
+    ],
+    "textEn": [
+      "\"Listen, you two.",
+      "Tecchan is actually in a very good mood today.",
+      "Usually, he'd start yelling, 'this isn't enough money!' and you'd be thrown into the Ouji River naked by now.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「す…すんまへん…すんまへん……。」"
+    ],
+    "textEn": [
+      "\"W-We truly apologize for the inconvenience...\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「んまぁ。",
+      "利子は忘れたちゅうたかて、かっちり期日までに額を揃えたんだきゃあ、感心さな。",
+      "そこいら辺、評価したってもええんで。」"
+    ],
+    "textEn": [
+      "\"Well,",
+      "ya forgot about the interest, but ya did put together all the rest of the money in time. I'm impressed.",
+      "So, I'll be nice and take that into consideration, you know?\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「それでねー？",
+      "鉄っちゃんの利子、ちょいとあんまりだと思ったのよ。",
+      "今日だから５本で済むけど、すぐに倍々ゲームになっちゃうでしょー？"
+    ],
+    "textEn": [
+      "\"Anyway,",
+      "his interest rate is a little high,",
+      "but it's only five if you pay it today. If you wait even a day longer, it'll be doubled."
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "そしたらあんた達、すぐに逆立ちしても払えなくなっちゃうわよ。",
+      "でね、私、あんた達にいい話があるの。",
+      "……鉄っちゃん、悪いけどあんた、ちょっと席を外してちょうだい。」"
+    ],
+    "textEn": [
+      "And if it's doubled, I don't think you'll be able to pay it no matter what you do.",
+      "So, I'm going to make you a deal.",
+      "...Tecchan, would you give us a minute?\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「ちぇ。",
+      "……しょうがねぇなあ。」"
+    ],
+    "textEn": [
+      "\"Tch.",
+      "...Sure, I guess it's okay.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "男はそう言いながらも、にやりと笑うと席を立ち、お手洗いへ姿を消した。",
+      "…何だか、事前にここで席を立つと決めてあったかのように素直だった。",
+      "男が手洗いの扉の向こうに消えるまで見送ると、律子はショルダーバッグから折りたたんだ書類を取り出し、机の上に広げた。"
+    ],
+    "textEn": [
+      "The man left the table with a grin and headed for the bathroom.",
+      "...He was far too amenable to that request, as if they'd planned for him to leave the table at that moment.",
+      "Ritsuko made sure he was in the bathroom, then took some papers out of her bag and spread them on the table."
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「あんた達も若いんだから。",
+      "あんなヤクザに絡まれて一生をフイにしたくないでしょ。"
+    ],
+    "textEn": [
+      "\"You're young.",
+      "You don't want to ruin your life because of an outlaw like him, do you?"
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "だからね、鉄っちゃんの利子は今日、キッチリ払っちゃいなさい。",
+      "そうすれば、あんた達は取り合えず、あいつとは縁を切れるわけなんだから。」"
+    ],
+    "textEn": [
+      "So, I recommend you pay all the interest today.",
+      "If you do, you can cut your ties with him.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「…そ、…そりゃそうですけど…。",
+      "…でも、５０万なんて、これ以上もう払えないっす…。」"
+    ],
+    "textEn": [
+      "\"...We... We understand that, but......",
+      "but, we can't get 500,000 yen just like that...\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「まぁそうよねぇ、２００万だって相当、精一杯集めたんでしょ？",
+      "さらに５０万も工面できる当てなんてないでしょ。」"
+    ],
+    "textEn": [
+      "\"I understand. I bet you tried really hard to collect that two million yen.",
+      "I understand there's no one who'd help you out with another 500,000.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\"...........................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "彼らが今日工面してきた現金は、彼らにできる全てを尽くした上での金に違いなかった。",
+      "だから、…これ以上は、例えわずかな額だったとしても、捻出のしようがないに違いない。",
+      "……彼らは無言で俯いて、それを律子に伝えた。"
+    ],
+    "textEn": [
+      "They must've done their very best to collect even the money they brought today.",
+      "So... it must be impossible for them to collect even a dime from anybody now.",
+      "...They hung their heads and told her that."
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「でね。",
+      "ほら、気を利かせて私が書いてきてあげたのよ。」"
+    ],
+    "textEn": [
+      "\"However,",
+      "take a look. I made this for you.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「…………………ぅ…。」"
+    ],
+    "textEn": [
+      "\".....................Ah...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "机の上に広げられた書類を見て、二人が小さく呻く。"
+    ],
+    "textEn": [
+      "The guys looked at the paper on the table and muttered under their breaths."
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「担保も連帯もいらないんで、ちょいと利率はアレだけど。",
+      "これなら、即５０万積んでくれるわよ。"
+    ],
+    "textEn": [
+      "\"You don't need collateral or a joint guarantor for this, so the interest rate is a bit high.",
+      "But with this, you can take out a loan of 500,000 yen right away."
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "……それにさぁ、この利率でも、鉄っちゃんの利率よりははるっかにマシだと思うんだけど、どう思うかしらー？」"
+    ],
+    "textEn": [
+      "...Even this interest rate is a lot better than Tecchan's. What do you think?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "このやり取りだけから、律子が彼らに何を強いようとしているか、大体想像が付いた。"
+    ],
+    "textEn": [
+      "It would be easy for anyone to guess what Ritsuko was trying to force them to do."
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「これにサインしたのを見せれば、彼も男気を感じて勘弁してくれると思うわね。",
+      "…………どうするー？",
+      "あ、万年筆、使うなら置いとくわよ。」"
+    ],
+    "textEn": [
+      "\"If you show him this with your signature on it, I'm sure he'll let you off.",
+      "...It's your choice, though.",
+      "If you need a pen, you can use mine. Here.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "客２人は、机の上の書類の点字のように細かい注意書きの内容と、暴利な利率に呆然としながら、顔を見合わせていた。",
+      "律子はそれ以上は何も強要しなかった。",
+      "あとは窓の外を眺めながら、煙草を吸っているだけだった。",
+      "だいぶしてから、お手洗いから男が戻ってきた。"
+    ],
+    "textEn": [
+      "They read the small print on the documents and were stunned by the outrageous interest rate.",
+      "Ritsuko didn't force them to do anything.",
+      "She just looked out the window and smoked her cigarette.",
+      "After a while, the man returned from the bathroom."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「おう、話はついたがーー？」"
+    ],
+    "textEn": [
+      "\"Hey, did ya come to an agreement?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それを見て、客２人は覚悟を決め、万年筆を拾う…。"
+    ],
+    "textEn": [
+      "They looked at him, steeled themselves, and took the pen..."
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「鉄っちゃんの利子、借金で一括返済するってー。",
+      "まぁ、５０万くらいさ、真面目にやればすぐ返済できるってね。」"
+    ],
+    "textEn": [
+      "\"They're going to borrow money to pay your interest.",
+      "It's only 500,000 yen, so they can pay their debts soon if they work really hard.\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「おうおう、感心な若人だんね。",
+      "男は背負うもんがなくちゃあかんね！」"
+    ],
+    "textEn": [
+      "\"That's great. I'm impressed.",
+      "Men get tougher when they have somethin' burdenin' them!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "初めからそう追い込むつもりだったに違いなかった。",
+      "男と律子は、思い通りに事が進んだのをにんまり笑い合う。",
+      "書類は書く欄が多いらしく、２人の記入作業はなかなか終わらないようだった。",
+      "男と律子も、しばらくかかることが分かっているようで、上機嫌に下品な雑談を始めていた。"
+    ],
+    "textEn": [
+      "They must have planned this from the very beginning.",
+      "The man and Ritsuko got what they wanted, and grinned at each other.",
+      "There were many things to fill out on the documents, and it was taking them a long time.",
+      "The man and Ritsuko, already knowing that, started talking amongst themselves."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「律子、お前の雛見沢の旦那の調子はどうなんね。」"
+    ],
+    "textEn": [
+      "\"Ritsuko, how's yer husband in Hinamizawa doin'?\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「んー？",
+      "旦那なんてよしてよね。」"
+    ],
+    "textEn": [
+      "\"What?",
+      "He's not my husband.\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「どうなんよ。",
+      "だいぶゼニを持っとん聞かされてるん。",
+      "どのくらい絞れそうなんよ。」"
+    ],
+    "textEn": [
+      "\"What's goin' on with him?",
+      "I heard he has a lot of money.",
+      "How much do ya think you can squeeze out of 'im?\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「そうそう、それがさぁ、すっごいのよ！",
+      "別れた奥さんがだいぶ慰謝料をくれたらしいってのは聞いてたのよ。",
+      "でもね、…それが本当にすっげーあるらしいのよねー！」"
+    ],
+    "textEn": [
+      "\"Well, you'll be so surprised!",
+      "I heard his ex-wife gave him a settlement when they divorced, right?",
+      "But... I just found out that she gave him a lot!\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「かなりって、どのくらいんね。」"
+    ],
+    "textEn": [
+      "\"How much is 'a lot'?\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「銀行に５０００万くらい持ってるわよ。",
+      "泡銭なわけだしね、もう気前がいいの何のって。」"
+    ],
+    "textEn": [
+      "\"He has about fifty million yen in the bank.",
+      "He's a big spender.\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「かぁー！",
+      "なぁんね、それ！！",
+      "んで、どの辺までイケそうなんね…！」"
+    ],
+    "textEn": [
+      "\"Wow!",
+      "That's real big!!",
+      "So, how much do ya think ya can squeeze out of 'im...?\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「私にだいぶお熱みたいだからねぇ。",
+      "だって、私が言えば何でも買うのよ、何でも！",
+      "あんたみたいなドケチとは大違いよね〜。",
+      "私も本気になっちゃおうかしらぁん。」"
+    ],
+    "textEn": [
+      "\"He has a big crush on me.",
+      "He buys me anything I want. Anything!",
+      "He's not cheap like you.",
+      "I might get serious about him.\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「抜かせやボケぇ。",
+      "俺以外で満足できる体かっちゅうん！」"
+    ],
+    "textEn": [
+      "\"I don't think so.",
+      "Yer body won't be satisfied with anyone but me!\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「ん！",
+      "んんんん…！！",
+      "……もぅ、こんなところでよしてよ、もぅ。」"
+    ],
+    "textEn": [
+      "\"Mm!",
+      "Mmmm...!!",
+      "...Stop it. Not here!\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「で、その雛見沢の旦那にどう持ってくつもりなんよ。」"
+    ],
+    "textEn": [
+      "\"So, what's the plan?\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「あんたをダシに、手切れ金がいるって方向で持ってくつもりなのよ。」"
+    ],
+    "textEn": [
+      "\"I'm thinking about telling him I need some money to get rid of my ex-boyfriend.\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「何ぼ、吹っ掛けるつもりんね。」"
+    ],
+    "textEn": [
+      "\"How much are ya gonna ask him for?\""
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「……ボソボソボソ。」"
+    ],
+    "textEn": [
+      "\"......*whisper*\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「がっはっはっはっは！！",
+      "つっくづく、恐ろしい女じゃあんね！！",
+      "エキストラがいる時は呼んでぇな。",
+      "俺も大暴れしちゃるんで。」"
+    ],
+    "textEn": [
+      "\"Gwa ha ha ha ha ha!!",
+      "Yer a scary woman!!",
+      "Lemme know if ya need an actor for yer play.",
+      "I'll be yer scary ex-boyfriend.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「…………あの、",
+      "……すみません、",
+      "…書きました。」"
+    ],
+    "textEn": [
+      "\".........Umm...",
+      "...Excuse me.",
+      "...We finished.\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「おう！",
+      "じゃあ、それ持ってローン行こかぁ。",
+      "律子、会計頼むんね。」"
+    ],
+    "textEn": [
+      "\"Great!",
+      "Then let's bring it over to the loan company.",
+      "Ritsuko, take care of the check, would ya?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "男は客２人の肩を抱くようにすると、外へ出ようと扉を開けた。",
+      "…その時、ちょうど入店しようとした客がいたらしく、扉を挟んで鉢合わせになったらしかった。",
+      "男の乱暴さから考えて、彼が道を譲るとは考えがたい。",
+      "………だが、男は、扉の向こうの男が誰か気付くと、道を譲った。",
+      "入ってきたのは、負けず劣らずガラの悪い男。",
+      "…黒いスーツの上下にサングラス。",
+      "体格だけを見れば、決して優れているとは言えなかったが、厳しい顔つきと威圧感は、相当のものだった。",
+      "男をチンピラと例えるなら、この入ってきた男は明らかに本職に違いない。",
+      "あれだけ傍若無人に振舞っていた男でも、さすがに相手が悪いと思ったのか、神妙な様子だった。",
+      "やがて、律子が会計を終えてくると、そのスーツの男に気付いた。"
+    ],
+    "textEn": [
+      "The man pat them on their shoulders, and then walked to the door.",
+      "...Another person was just about to enter, and they nearly ran into each other.",
+      "The man probably wouldn't make way for the person, considering his personality.",
+      "......But, when he noticed who that person was, he stepped aside.",
+      "The person looked as vulgar as all the other men.",
+      "...He was wearing a black suit with sunglasses on.",
+      "He wasn't that big, but his stern look was very intimidating.",
+      "It was clear at a glance that he was a gangster, and a professional one at that.",
+      "The man who was behaving badly earlier looked a little nervous in front of him.",
+      "As Ritsuko finished paying the check, she noticed the man in the suit."
+    ]
+  },
+  {
+    "color": "#cd74a7",
+    "labelEn": "Rina",
+    "labelJp": "リナ",
+    "textJp": [
+      "「あ、………総支配人…？",
+      "ど、どうもおはようございます。」"
+    ],
+    "textEn": [
+      "\"Oh... General Manager...?",
+      "G-Good morning, sir.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「………………。」"
+    ],
+    "textEn": [
+      "\"..................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "総支配人と呼ばれたスーツの男は応えず、早く失せろと言わんばかりに顎をしゃくり上げる。",
+      "律子たちは頭を下げながら足早に店を出て行った。",
+      "店のマスターもスーツの男に気付き、揉み手をしながら挨拶の言葉をかける。",
+      "……この界隈の顔役なのだろうか。",
+      "先ほどの男たちと比べれば物静かな雰囲気だが、彼らに道を譲らせるほどなのだから、恐ろしい相手に違いない。",
+      "……誰もがそう思い、この新しい客に目を合わせないようにしていた。",
+      "スーツの男は店内をジロリを見渡し、壁に掛かっているメニューボードを見上げた。",
+      "何か不備があるのかと思い、マスターがおずおずと近付いてくる…。"
+    ],
+    "textEn": [
+      "The man in the suit said nothing. He just raised his chin as if saying \"fuck off\".",
+      "Ritsuko and the others bowed to him and left the shop in a hurry.",
+      "The proprietor noticed the man in the suit, also greeting him with a bow.",
+      "...Who could he have been?",
+      "He appeared sedate compared to the other men, but he must be dangerous, because he made even them step aside.",
+      "...Everybody in the shop thought the same thing and tried not to look at him.",
+      "The man in the suit looked around and found the menu on the wall.",
+      "The proprietor walked up to him hesitantly..."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「……マスター。」"
+    ],
+    "textEn": [
+      "\"......Hey, waiter.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Master",
+    "labelJp": "マスター",
+    "textJp": [
+      "「は、",
+      "はい、",
+      "な、",
+      "…何か不調法がございましたでしょうか…。」"
+    ],
+    "textEn": [
+      "\"Y",
+      "-Yes.",
+      "Is...",
+      "anything bothering you, sir...?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「……この、",
+      "日替わりデザートの、",
+      "…ス、",
+      "…スイ、",
+      "…スイート何とかというのは今日はやっているのか。」"
+    ],
+    "textEn": [
+      "\"...Do you have this...",
+      "seasonal dessert...",
+      "s...",
+      "sw...",
+      "sweet something or other today?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Master",
+    "labelJp": "マスター",
+    "textJp": [
+      "「は？",
+      "あ、…あはははは、",
+      "いえ、本当は今日はやってないんですが、",
+      "…その、どうしてもと仰るんでしたら、特別にご用意を…。」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "Oh... Ahahahahaha.",
+      "No, actually, we aren't running that today, but...",
+      "well, if you insisted, then we could make it specially for you...\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「…無理なら無理と言ってくれればいい。",
+      "出直す。」"
+    ],
+    "textEn": [
+      "\"...If you're not selling it, you're not selling it.",
+      "I'll come back some other day.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ほぉら葛西ぃー！",
+      "特別にご用意って言ってくれてるじゃないですか！",
+      "ここまで来て見っとも無い！」"
+    ],
+    "textEn": [
+      "\"Hey, Kasai!",
+      "He said he'd make it for you!",
+      "Take his offer! We came all the way here!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "この店の重く沈みこんだ雰囲気がまったく読めないのか、能天気に笑いながら入店してきたのは、",
+      "………魅音の双子の妹、",
+      "詩音だった。",
+      "詩音は渋る葛西の背中を押し、店内にずかずかと入ってきた。",
+      "そして、シートのひとつに座っていた少女の顔に気付き、立ち止まる。"
+    ],
+    "textEn": [
+      "The girl seemed to be the only one who couldn't read the heavy atmosphere in the shop, and she came in laughing cheerfully. It was...",
+      "Mion Sonozaki's twin sister,",
+      "Shion.",
+      "Shion pushed Kasai into the store while he hesitated.",
+      "She looked at a girl who was sitting down and stopped in her tracks."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あれ？"
+    ],
+    "textEn": [
+      "\"Huh?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "やっぱりそうだ、はろろーん！",
+      "レナさんじゃないですか。",
+      "こんにちはー！」"
+    ],
+    "textEn": [
+      "Oh, it's you! Hello!",
+      "Rena-san!",
+      "How are you doing?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………え？",
+      "あ、………詩ぃちゃん…？」"
+    ],
+    "textEn": [
+      "\"......Eh?",
+      "Oh......... Shii-chan...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「こんなとこで会うなんてびっくりです。"
+    ],
+    "textEn": [
+      "\"I'm surprised to see you here."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "あれ？",
+      "お一人？",
+      "ひょっとして誰かと待ち合わせ？",
+      "お姉かな？",
+      "いやいや、ひょっとして圭ちゃんかなぁ〜？」"
+    ],
+    "textEn": [
+      "Huh?",
+      "Are you here by yourself?",
+      "You waiting for someone?",
+      "Is it my sis?",
+      "Or, maybe, could it be Kei-chan~?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あの、…詩ぃちゃん。",
+      "……その連れの人は……？」"
+    ],
+    "textEn": [
+      "\"Ah... Shii-chan.",
+      "...Who is this...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ん？",
+      "葛西のこと？"
+    ],
+    "textEn": [
+      "\"Hm?",
+      "Are you talking about Kasai here?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "まー私のボディガードとか思っといてください。",
+      "命の危険が迫ったら、葛西が守ってくれるんだよねー？」"
+    ],
+    "textEn": [
+      "He's like my bodyguard.",
+      "He'll protect me when my life is in danger, won't you?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「……それがお望みでしたら命に代えてでも。」"
+    ],
+    "textEn": [
+      "\"...I'll give my life for your sake, if that's what you want me to do.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ぅわ〜〜…。",
+      "葛西、あと２０も若かったらヤバいかもだね。"
+    ],
+    "textEn": [
+      "\"Wow...",
+      "Kasai, if you were twenty years younger, I might have fallen for you!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "顔は怖いけど、面白いヤツです。",
+      "こちらはね、竜宮レナさん。",
+      "お姉のお友達。」"
+    ],
+    "textEn": [
+      "He looks scary, but he's a very funny guy.",
+      "This is Rena Ryuugu-san.",
+      "She's Sis's friend.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「……葛西です。",
+      "よろしく。」"
+    ],
+    "textEn": [
+      "\"...My name is Kasai.",
+      "Nice to meet you.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「えっと、",
+      "……か、",
+      "………葛西さん。",
+      "さっきすれ違った人たちは知り合いですか？」"
+    ],
+    "textEn": [
+      "\"Umm",
+      ".........K",
+      "-Kasai-san.",
+      "Do you know the people who just walked past you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "一応。",
+      "葛西はそう言って小さく頷いた。"
+    ],
+    "textEn": [
+      "Kasai nodded,",
+      "indicating that he was familiar with them."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「誰？",
+      "私は全然、あんなの見たことないけど？」"
+    ],
+    "textEn": [
+      "\"Who are they?",
+      "I've never seen them before.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「……男は北条鉄平。",
+      "ちょいと礼儀知らずの雀ゴロです。」"
+    ],
+    "textEn": [
+      "\"...The man is Teppei Houjou.",
+      "A skunk of a human being.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "北条と聞いて詩音は、あぁあの、と小声を漏らす。"
+    ],
+    "textEn": [
+      "Shion seemed to know who he was once she heard the name \"Houjou\"."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……女の人の方は…？」"
+    ],
+    "textEn": [
+      "\"......And the woman...?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「…間宮リナ。",
+      "源氏名だと思いました。",
+      "確か律子って名前だったかと。フラワーロードの店の１つで働いてる水の女です。」"
+    ],
+    "textEn": [
+      "\"...Rina Mamiya.",
+      "I believe that's her business name.",
+      "Her real name is Ritsuko Mamiya, I think. She's a hostess at Flower Road.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「葛西さん。",
+      "……リナさんとその北条さんはどういう人たちなんですか。",
+      "とても仲が良さそうに見えました。」"
+    ],
+    "textEn": [
+      "\"Kasai-san,",
+      "do you know what he is to her?",
+      "They looked like a couple to me.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「北条は、確かリナのヒモのはずです。",
+      "性質の悪い連中ですので、係わり合いになられない方がいいと思います。」"
+    ],
+    "textEn": [
+      "\"Houjou is Rina's pimp.",
+      "They're very, very bad people, so you should never get involved with them.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「どう性質が悪いんですか？」"
+    ],
+    "textEn": [
+      "\"How bad are they?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが妙に噛み付いてくるので、葛西は少し気圧されたようだった。"
+    ],
+    "textEn": [
+      "Rena pressed him for the answer, and Kasai seemed to back down a little from that pressure."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「……女の私生活にゃ触れないのが仁義ってもんです。」"
+    ],
+    "textEn": [
+      "\"...It's more courteous to stay out of a woman's private affairs.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「どう性質が悪いんですか？」"
+    ],
+    "textEn": [
+      "\"How bad are they?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「………それはご勘弁を。」"
+    ],
+    "textEn": [
+      "\"......Please don't ask.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「どう性質が悪いんですか？」"
+    ],
+    "textEn": [
+      "\"How bad are they?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは質問の答えが得られるまで、まったく同じ言葉を何度か繰り返した。",
+      "その鬼気迫る様子に、詩音が割って入る。"
+    ],
+    "textEn": [
+      "Rena kept asking the same question until she got an answer.",
+      "Shion sensed how desperate Rena was, and cut into the conversation."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「葛西ー。",
+      "意地悪しないで教えてあげなさいよ。",
+      "興味本位で聞いてるわけじゃなさそうだしさぁ。",
+      "ね、レナさん？」"
+    ],
+    "textEn": [
+      "\"Kasai,",
+      "why don't you just tell her?",
+      "I don't think she's asking out of curiosity.",
+      "Am I right, Rena-san?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\"........................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナと葛西の間に緊迫した空気が張り詰める。",
+      "詩音だけが空気を読めていないようだった。",
+      "葛西はやがて根競べに折れ、口を開く。"
+    ],
+    "textEn": [
+      "There was tension developing between Rena and Kasai.",
+      "Shion seemed to be the only one who couldn't read the mood.",
+      "Kasai finally opened his mouth."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「あの二人は性質の悪いゴロツキです。",
+      "恐喝と博打で生計を立ててると聞いています。",
+      "女と美人局もやるって話で。」"
+    ],
+    "textEn": [
+      "\"They're both skunks, really.",
+      "I've heard that they make a living by gambling and blackmailing people.",
+      "I've also heard that they set up badger games.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「美人局（つつもたせ）って何ですか？」"
+    ],
+    "textEn": [
+      "\"What's a badger game?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あはは、美人局ってーのは、まぁ何？",
+      "結婚詐欺とちょっと似てるのかな？"
+    ],
+    "textEn": [
+      "\"Ahahaha. Well, a badger game is like a...",
+      "marriage fraud?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "",
+      "ようするに、カモと女をくっつけて、いい感じになったところで男が乱入して、俺の女に何しやがるーって、金を巻き上げる古典的恐喝です。」"
+    ],
+    "textEn": [
+      "<size=-2>",
+      "The woman finds a catch, a man who has money, and begins a relationship with him. Then, her boyfriend shows up and catches them in the act, blames the guy for stealing his girlfriend, then blackmails him for money.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「…さんざん貢がされた挙句、根こそぎ巻き上げようっていうクズどもです。",
+      "…最近、でかいカモを引っ掛けたらしいと噂になってます。」"
+    ],
+    "textEn": [
+      "\"...First, the woman makes him buy expensive stuff for her, and then she and her boyfriend take all of his money.",
+      "...There's a rumor that she's got herself a big catch recently.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ちゃーーー。",
+      "そりゃあ、どちら様か存じないけど、気の毒なことで。"
+    ],
+    "textEn": [
+      "\"Wow...",
+      "Whoever that is, I'm so sorry for him."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "でもまぁ、鼻の下を伸ばした代償なわけだし。",
+      "自業自得？」"
+    ],
+    "textEn": [
+      "Well, the guy had some fun with her too.",
+      "I guess he gets what he deserves.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「……そんな言い方はないもんです。",
+      "男は時に、ころっと女に騙されちまうもんですよ。」"
+    ],
+    "textEn": [
+      "\"...That's a little harsh, Shion-san.",
+      "A man sometimes falls for a woman very easily.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ほーーー。",
+      "何それ、葛西をころっと騙した女って誰ーー？",
+      "マスター、デザートは私と葛西と、あとレナさんで、",
+      "って",
+      "…………",
+      "あれ？」"
+    ],
+    "textEn": [
+      "\"Oh, really?",
+      "I wonder whom you fell for.",
+      "Waiter, bring the dessert to us, please.",
+      "...Wait",
+      ".........",
+      "Where did she go?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「今、お帰りになりましたよ。」"
+    ],
+    "textEn": [
+      "\"She just took her leave.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの姿はすでになく、閉まりかけたガラス扉だけがその行き先を知っているようだった…。",
+      "自宅へ帰ってくると鍵が掛かっていた。",
+      "鍵を開けて入ると、居間にメモが置かれているのを見つける。",
+      "そこには、急用が出来たので出掛ける、夕飯は食べてくると書かれていた。",
+      "こういうことは最近はそう珍しいことではなかった。",
+      "父は私には、急用で興宮に行くとしか言わない。",
+      "でも、私は父が電話で話しているのを漏れ聞いていたから、知っていた。",
+      "リナさんが、仕事のシフトが急に空いたので、どこかに食事でも…と誘ったに違いない。",
+      "軽くため息をつき、私は馴染めない居間を嫌い、自分の部屋に戻った。",
+      "つい先ほど、喫茶店で聞いた話が鮮明に脳裏に蘇る。",
+      "…リナさんが悪い男に絡まれていて、話の調子だけを合わせるために、悪ぶった素振りをしたと好意的に解釈しようとする。",
+      "だが、鉄という男が席を外して一人になったあとも、何の躊躇もなく脅迫を積極的に進め、借金の証文を書かせた。",
+      "……表向きだけ調子を合わせてるというなら、ああはならない。",
+      "本当に表向きだけなら、一人になった時にわずかでも同情の念が漏れ出すはずなのだ。",
+      "例えるなら、両手でお椀を作って水を汲むみたいなもの。",
+      "どんなにしっかりお椀を作ったって、ぽたぽたと滲み出る。",
+      "同情や、悔悟の念が滲み出る。",
+      "でも、リナさんからはぽたぽたどころか、ただの一滴も零れなかった。",
+      "しかも湿るどころか、本当の本当にからからに渇いていた。",
+      "満たされているべき水は一滴もなかったのだ。",
+      "あの時、リナさんは男と、二人して客２人を恐喝していた。",
+      "どちらが首謀者とか率先してとかじゃない。",
+      "二人でやっていた。",
+      "……そう。",
+      "リナさんは、",
+      "…「悪い人」なんだ。",
+      "その考えを、私の脳細胞たちは満座の拍手で受け入れる。",
+      "……だって、私はリナさんが嫌いだったから。",
+      "でも、父との仲があったので、その感情を受け容れることができなかった。",
+      "それを、…今この瞬間、ようやく受け容れることができる…。",
+      "あいつは、母と同じ「悪い人」なんだ。",
+      "父と一緒にいるだけで、…駄目にしてしまう、いるだけで幸せを打ち砕いてしまう存在。",
+      "でも、父にそれを話したところで、リナさんが悪い人だと理解してくれるだろうか。",
+      "父は今や、骨の髄までリナさんに溶かされていた。",
+      "リナさんの一挙手一投足を、何から何までおめでたく、好意的に受け取ろうとする。",
+      "勝手に擁護し、勝手に讃える。",
+      "……私も子供じゃない。",
+      "男性に、どういう風に接すれば家畜化できるか理解はできる。",
+      "それは、パートナーシップを結ぼうとする愛や恋とは違う。",
+      "相手を奴隷化しようとする支配欲の延長に過ぎない。",
+      "男性は、……例え私のお父さんであっても、",
+      "……ある種の汚らわしい方法で、マニュアル的に籠絡できるのだ。",
+      "それは男性として生まれた時点で抗えない弱点。",
+      "どんなに意志強固であろうとも、抗えない。",
+      "だからこそ、そこを刺激して籠絡しようとする女性たちを、私たちは蔑む。",
+      "だからこそ、私はリナさんが好きになれなかった。",
+      "あえて百歩譲り、そんな一方的な恋愛を認めてもいい。",
+      "………だが、それも恋愛ならばこそだ。",
+      "…恋愛ですらなく、…金銭を恐喝しようとする手段のひとつだとしたなら、",
+      "それは絶対に許せない、最低最悪の卑劣な行為………。",
+      "脳裏に、あの喫茶店での会話が蘇る。",
+      "……そうだ、リナさんは確か、父のことを羽振りがいいと言っていた。",
+      "実際、父はリナさんと縁が出来てから金遣いが荒くなったと思う。",
+      "私は、気落ちしていた父が、世俗に関心を持ってくれたことを喜んでいたけれど、………今となっては、喜んでいい話かわからない。",
+      "竜宮家のお金は父が一括で管理していたが、私が買い物をしていたので、よく通帳を預かり預金を下ろしたりもした。",
+      "だから、通帳や印鑑などの重要なものがしまわれている引き出しの場所は知っていた。",
+      "父の書斎の鍵の掛かった引き出し。",
+      "…鍵の隠し場所も知っていたし、その中に入ってる手提げ金庫のナンバーも私は知っていた。",
+      "父が急に帰ってくるかもしれないことを想像し、少しの緊張を覚える。",
+      "……だが、私は確かめなければならない…。",
+      "手提げ金庫を開くと、いくつかの通帳と印鑑、切手の余りや未使用の葉書、が溢れ出した。",
+      "通帳を取り出そうと、中身を出した時、驚く。",
+      "…金庫の底に、新券の壱万円札の束があったからだ。",
+      "その枚数、厚みはとても軽んじられるものではない。",
+      "そして、それを束ねていたと思われる、千切れた紙帯も入っていた。",
+      "その紙帯には印鑑が押されており、元は百万円の束だったことをうかがわせる。",
+      "いちいち銀行で下ろすのは面倒くさいから、普段も多少の現金は手元に置いておく。",
+      "でも、それはせいぜい多くても１０万〜２０万くらいの額の話だ。",
+      "帯封がされるような多額の現金を手元に置くなんて物騒なことをした試しはない。",
+      "……異様な枚数の壱万円札が、それだけでももう、私に異常な何かを突きつけている。",
+      "銀行の普通口座の通帳を開こうする指が、急に不器用になったような感じがした。",
+      "あの喫茶店での盗み聞きを、心のどこかで否定しようとする感情が沸き上がるのを感じる。",
+      "…それは父やリナさんを擁護したいからじゃない。",
+      "…あの恐喝者たちがカモにしているという「雛見沢の旦那」が、自分の父であって欲しくないという気持ちからだった…。",
+      "通帳を開く。",
+      "私が最後にこれを見たのは数ヶ月前だが、その日付以降、無数の引き出しが記帳されていた。",
+      "本来なら、その刻まれた無感情な数字からは何も読み取れるはずはない。",
+      "……でも、今の私には、０から９までの１０種類しかない数字が、これ以上ないくらいに雄弁に語りかけてくるのを感じるのだ。",
+      "それは、……無残な数字の羅列だった。",
+      "初めのうちは、食事代か何かで支出したのだろうというような、理解のできる数字が並ぶ。",
+      "…その額が、次第に５や１０という感じにキリのいい大胆な数字に変わっていく。",
+      "下ろした日付の並び方から、リナさんとの交遊費のため、常に財布に現金を持っていた父の気持ちがストレートに伝わってきた。",
+      "それらの数字に混じって、突然、大きな支出が出てくる。",
+      "……交遊費にしては大き過ぎる数十万という金額が現れた。",
+      "……日付を見て、記憶を遡る。",
+      "………そうだ、",
+      "…この頃、確か、",
+      "…リナさんが新しいマンションに引っ越したような話をしていた。",
+      "興宮の辺りの賃貸マンションの相場を思い出す。",
+      "…敷金２つに礼金２つ。",
+      "……妥当な数字だった。",
+      "………父は、リナさんの新居の頭金をまるまる持ったのだ。",
+      "その後は、まるで新居祝いだとでも言わんばかりの威勢のいい数字が並び踊る。",
+      "お金の下ろし方も、段々と大味になってきた。",
+      "必要な分だけ下ろすという風な額から、とりあえず手元にまとめて持っていようという風な額に変わっていく。",
+      "…その変遷が意味するものはただひとつ。",
+      "父の金銭感覚の、生々しいまでの瓦解だった。",
+      "着実に減り続ける預金残高に、このままではどうなってしまうのだろうと不安を持った頃、突然、大きな入金を迎えた。",
+      "………こんな大きなお金をどこから。",
+      "思いつく出所は一箇所しかない。",
+      "…私は色違いのもう一冊の通帳を開ける。",
+      "それは、まるで幼児向け雑誌の付録のパズルみたいなイージーさ。",
+      "あまりにピースが大きくて大味で、組み合わせて試すまでもないくらいに安易なジグソーパズル。",
+      "……父は、将来への蓄えであるはずの定額預金に手をつけていたのである。",
+      "そのお金は、母との離婚時に得た膨大な慰謝料だった。",
+      "……父にとっては呪われた金額のはず。",
+      "それを新しい恋のために消化したい父の気持ちがよくわかった。",
+      "でも、…そんなのは定額預金を取り崩すための言い訳だ。",
+      "お金はお金。",
+      "離婚の慰謝料であっても、将来のための大事な蓄えであることに変わりはない。",
+      "呪われたお金だから、湯水のように使っていいなんてことはありえない。",
+      "交遊費だけで理解の出来ない出費が増え始める。",
+      "６桁くらいの大胆な出費が度重なるようになる。",
+      "それらの額が、何となく電化製品や家具の金額を想起させた。",
+      "父がリナさんにせがまれ、何でも望みのものを買い与えてるに違いない。",
+      "……リナさんたちが、初めから父を食い物にするつもりだったなら、",
+      "…父からどれほど搾り取れるか、探りを入れていたはずだ。",
+      "それで、…父が次々と事も無げに高額の買い物をしてのけるので、相当のカモだと当りを付けるのだろう。",
+      "そんな節目が感じられる、金額の推移。",
+      "その頃の日付に目を移すと、……無味簡素なはずの日付が再び雄弁に語り出す。",
+      "ちょうどその時期を境に、リナさんが頻繁に我が家を訪れるようになり、お泊りを始めるようになるのだ。",
+      "…そう、リナさんにとっては、最初は羽振りのいい男に過ぎなかったのだが、",
+      "この時期を境に、カモに変わったのだ。",
+      "父もこの頃から、「興宮の友人」という呼称が「リナさん」という固有名詞に変わって、私に話すようになっている。",
+      "父もだらしないとは思う…。",
+      "でも、愛していた母の裏切りに遭い、ずっと意気を消沈していて痛ましいほどだった。",
+      "…そして、その責任の一端は私にもある。",
+      "だから父だけを悪いと責めたくはない。",
+      "それに、……父は、いわゆるいい男ではない。",
+      "女性に過度な免疫はないだろう。",
+      "落ち込んでいるところへ悩ましい魅力の女性が積極的に近付いてきたら、拒めたはずもない。",
+      "父はもうリナさんに夢中で、その他のことは目に入らなくなっている。",
+      "リナさんがそういう風になるように調教したのだから当然だ。",
+      "通帳やお金などを、元の形でしまい金庫を閉じる。",
+      "……この金庫はまさに、父の心の中そのものだった。",
+      "次々とリナさんに中身を食い尽くされていく…！",
+      "……どうしようどうしよう。",
+      "考えるんだ、竜宮レナ。",
+      "お父さんに、リナさんたちの悪巧みを打ち開けてみる？",
+      "…いや、多分何の意味もない。",
+      "家畜の定義は、柵を開けても逃げ出さないことを指す。",
+      "…父は今や、檻の扉を開けたって出てこようとはしないのだ。",
+      "お父さんとリナさんが一緒にいる時に、リナさんに対して追求してみようか？",
+      "…それもまったく同じだ。",
+      "リナさんは父にすがるように逃げるだろう。",
+      "父はリナさんを勝手に庇う。",
+      "背中に乳房のひとつも押し付ければ男なんて勝手に守ってくれる。",
+      "…私と父の争いに置き換えられたら話がおかしくなってしまう。",
+      "そもそも私は、父の為を思ってリナさんを追い出そうとしているのだから。",
+      "父と私の不仲はリナさんに利する。",
+      "私が自ら窮地を招くようなものだ。",
+      "なら、……つまり、父に対しては何もすることがない、",
+      "ということなのか。",
+      "リナさんと絶縁するよう父に迫ることができないなら、…私が直接、リナさんに絶縁を迫らなくてはならない。",
+      "……そう、つまりそれは、父を焚きつけて戦わせるのではなく、",
+      "…他でもない、私自身が戦わなければならないことを指すのだ。",
+      "でも、どうやって戦えばいいんだろう？",
+      "…そうだ、リナさんとあの男については、…詩ぃちゃんと一緒にいた、葛西さんという人が詳しそうだった。",
+      "あの人に何とかもう一度接触を図れないだろうか。",
+      "怖そうな人だったけれど、魅ぃちゃんの友人だと紹介してもらってある。",
+      "……この界隈では、魅ぃちゃんの名前はかなり強い意味を持っていたはずだ。",
+      "悪い扱いはされないはず…。",
+      "リナさんたちに、お前たちの悪巧みはもう割れてるんだぞ、という感じに迫って、",
+      "……いつの間にか父の前に現れなくなるような感じに、きれいにいかないだろうか…。",
+      "あぁ、でも葛西さんて人とどうやれば会えるかなんて知らないし、",
+      "……魅ぃちゃんたちにうちの事情を知られたくないし…。",
+      "そもそもこれは竜宮家の問題だ。",
+      "他の誰も関係ない。",
+      "そう、これは私が１人で戦わなければならないことなのだ。",
+      "私は、両親の離婚であれだけの後悔をした。",
+      "…自分の努力で回避できたかもしれない悲劇を嘆いた。",
+      "だからこそ、……今度は嘆かない。",
+      "回避できるチャンスを逃さない。",
+      "私は、…今度こそ幸せを掴むために、戦うんだ…。"
+    ],
+    "textEn": [
+      "Rena was already gone. The door, which had just closed, looked as if it was the only thing that knew where she went...",
+      "When I got home, the door was locked.",
+      "I used my key to get in, and I found a note in the living room.",
+      "\"Something's come up, so I have to go. I'm going to eat out tonight\" is what the note said.",
+      "This wasn't the first time he'd done something like this.",
+      "Each time, he only told me he had to go to Okinomiya for something.",
+      "But I knew the real reason, because I heard him talking on the phone once.",
+      "Rina-san must have had some free time between jobs and asked him out to have dinner together.",
+      "I heaved a sigh, looked at the new living room I hated, and went to my room.",
+      "I thought back over what I just heard at the coffee house.",
+      "...I tried to rationalize the meaning of her actions there. Maybe she had to pretend to be a bad person because she was being threatened by the man.",
+      "But, even after the man she called \"Tecchan\" left the table, she continued to threaten the guys and pushed them into signing the loan contract immediately.",
+      "...If she was threatened to play along with the man, she wouldn't have done that.",
+      "If she was pretending to be a bad person, she could've shown a little bit of mercy or sympathy when he left her alone with them.",
+      "It's like holding water in a bowl you made with your hands.",
+      "No matter how sturdy you made the bowl, water would leak from your fingers.",
+      "Mercy and sympathy leak out from you.",
+      "But, nothing, not even a drop of water, leaked from Rina-san.",
+      "Her hands weren't even moist. They were all dried up.",
+      "There was no water that could leak through those hands.",
+      "Rina-san was threatening those guys as much as the man was.",
+      "Neither was leading the other along.",
+      "They were doing it together.",
+      "...That was it.",
+      "Rina-san is",
+      "...a 'bad person'.",
+      "My brain cells accepted the idea with applause.",
+      "...After all, I always hated Rina-san.",
+      "I just couldn't accept the feeling because my father liked her.",
+      "But... at that moment, I could finally accept it...",
+      "She's a 'bad person', just like my mother.",
+      "She's an existence that will ruin everything and destroy my father's happiness just by being with him.",
+      "But I wonder if my father would understand that Rina-san is a bad person if I told him so.",
+      "My father likes her so much that he would jump over a cliff if she asked him to.",
+      "He thinks everything she does or says is great, and he interprets everything about her in a positive way.",
+      "He protects her and praises her without her asking him to.",
+      "...I'm not a kid anymore.",
+      "I understand how a woman can tame a man.",
+      "It's different from love. Love is about trying to build a relationship.",
+      "Taming is just a way of satisfying the lust to dominate. She's just trying to make him into her slave.",
+      "Women can deceive men... even my father...",
+      "...They can use dirty methods to ensnare men like they're following a manual.",
+      "It's the weak point all men are born with.",
+      "Even with a strong will, they can't resist it.",
+      "That's why we hate those women who exploit that weak point to deceive men.",
+      "That's why I couldn't bring myself to like Rina-san.",
+      "For the sake of argument, let's assume I acknowledged an unreciprocated love like that.",
+      "...But that would only be as long as it was love.",
+      "...If it wasn't love... if it was just a method to threaten and squeeze money out of him,",
+      "I would never forgive her...",
+      "I remember their conversation at the coffee house.",
+      "......Rina-san said that my father is a big spender.",
+      "In fact, I think he spends more money without hesitation than before he met Rina-san.",
+      "I was happy that he started to regain an interest in going out into the world again...... but now I don't know whether I should be happy or not.",
+      "He controls the money of the Ryuugu family overall. But since I do the grocery shopping, he often gives me his bankbook so that I can withdraw money.",
+      "Because of that, I know where he keeps his bankbook, his personal seal, and other important stuff.",
+      "They're in one of his drawers, which he usually locks.",
+      "...I know where he hides the key, and I know the combination of the cash box inside the drawer.",
+      "He might be coming back soon, so I felt a little nervous.",
+      "...But I had to make sure...",
+      "I opened the cash box, which had some bankbooks, personal seals, stamps, and unused postcards.",
+      "I removed everything from the cash box to get at the bankbooks. Then, I found something new.",
+      "...On the bottom of the box, there was a bundle of new 10,000 yen bills.",
+      "Its thickness wasn't something I could ignore.",
+      "There was also a paper wrapper that looked like it had been bundling the bills.",
+      "The wrapper had a stamp that said it was a bundle of a million yen.",
+      "He usually kept some cash at home because it was troublesome to go to the bank every time he needed money.",
+      "But, it was usually around 100,000 to 200,000 yen at most.",
+      "He's never kept such a big amount of money at home before, because he knows it's unsafe.",
+      "...The extraordinary amount of 10,000 yen bills was abnormally intimidating.",
+      "I tried to open the bankbook, but my fingers got numb all of a sudden.",
+      "A part of me was trying to deny the things I heard at the coffee house.",
+      "...It wasn't because I wanted to defend my father, or even Rina-san.",
+      "...It was because I didn't want to believe my father was the \"husband in Hinamizawa\" the blackmailers were talking about...",
+      "I opened the bankbook.",
+      "The last time I saw it was about two or three months ago. It shows countless withdrawals since that day.",
+      "I probably wouldn't normally understand what those numbers meant.",
+      "...But I felt in that moment as if the ten different digits were speaking to me.",
+      "They were... a series of cruel digits.",
+      "It starts with some understandable expenses that I assume represent dinners or something.",
+      "...But then, the amount of money starts to become nice round numbers, like a five or a ten.",
+      "I can tell by looking at the dates he withdrew money that he wanted to have a certain amount of cash on hand when he went out with Rina-san.",
+      "Among those expenses, a big number appeared all of a sudden.",
+      "...It was too much money to spend on a date. Hundreds of thousands of yen.",
+      "......I looked at the date of the withdrawal, and I traced it back in my memory.",
+      "......I remembered...",
+      "Around that time",
+      "...Rina-san was talking about moving into a new apartment.",
+      "I know the market rate of rental apartments in Okinomiya.",
+      "...You need to put down two safety deposits, and two payments of key money in order to rent an apartment.",
+      "...That amount of withdrawal sounded reasonable now.",
+      "......He paid the whole down payment for her new apartment.",
+      "After that, big numbers appeared one after another. I could tell they were for congratulatory gifts for her new apartment or something.",
+      "The numbers got bigger and bigger.",
+      "It looked like at first he was withdrawing only the amount of money needed, but then, he started withdrawing big amounts all at once because he knew he was going to use it someday anyway.",
+      "...The change meant only one thing.",
+      "He lost his sense of the value of money.",
+      "The balance kept going down, and I started feeling anxious about what's going to happen if he continued spending money like that. But then, I saw a deposit of a big amount of money into the account.",
+      "...Where did that money come from?",
+      "There was only one thing I could think of.",
+      "...I opened the other bankbook.",
+      "It was easy, like a puzzle for kids.",
+      "It was like playing with an easy jigsaw puzzle that comes with huge pieces that you don't even have to put together to see what the whole picture looks like.",
+      "...My father was using money from his time deposits.",
+      "In other words, the settlement my mother paid my father when she divorced him.",
+      "...To him, it's cursed money.",
+      "I'd understand if he wanted to use it to get a new love.",
+      "But... that was just an excuse to use the money from his time deposits.",
+      "Money is money.",
+      "Even though it's his divorce alimony, it's still important money for our future.",
+      "Even though it's cursed money to him, that doesn't mean he can waste it.",
+      "Big expenses start appearing one after another.",
+      "There are many expenses, upwards of 6 digits.",
+      "For some reason, I could immediately tell they were for buying electric appliances and furniture.",
+      "He must've been buying everything she asked him to.",
+      "...If, from the beginning, Rina-san was only seeing to check if he could end up being a big catch,",
+      "she must've been trying to find how much money she could squeeze out of him.",
+      "And... my father bought her anything she wanted, no matter how expensive it was. So, she probably thinks of him as the perfect catch now.",
+      "The numbers in the bankbook told me so.",
+      "The simple numbers and dates on the bankbook had started talking to me.",
+      "Around the time he started withdrawing big amounts of money, Rina-san started coming to the house more often, and she also started spending the night.",
+      "...To Rina-san, my father was at first just a guy who spends big money,",
+      "but around that time, she landed her big catch.",
+      "My father used to refer to her as \"my friend in Okinomiya\" at first. But he started referring to her as \"Rina-san\" around that time.",
+      "This is partially his fault...",
+      "But he was betrayed by his beloved wife, and he was feeling hurt and down for a long time.",
+      "...It's also partially my fault.",
+      "That's why I didn't want to blame him.",
+      "And... he's not that good-looking, either.",
+      "There's no way he's immune to women.",
+      "He must have not been able to resist an attractive lady who aggressively approached him when he was feeling down.",
+      "He's crazy about Rina-san, and he can see nothing other than her.",
+      "I can't blame him, because Rina-san trained him to be that way.",
+      "I put the bankbooks and the other things back into the cash box.",
+      "...This cash box is just like my father's heart.",
+      "Rina-san is eating up the contents...!",
+      "...What should I do?",
+      "Think, Rena Ryuugu.",
+      "Should I tell him about Rina-san's scheme?",
+      "...No, that probably wouldn't do anything.",
+      "The whole point of taming an animal is that it won't run away from its owner even when the door is wide open.",
+      "...My father probably won't leave his cage even if I opened the door.",
+      "Should I confront Rina-san about her plot when he's with her?",
+      "...The results would be the same.",
+      "Rina-san would run behind his back.",
+      "He'd probably try to protect her.",
+      "If she pressed her breasts against his back, he'd protect her no matter what.",
+      "...I couldn't make this a problem between me and him.",
+      "First of all, I was trying to get rid of Rina-san for his sake.",
+      "If we got mad at each other, it would give the advantage to Rina-san.",
+      "It would be like I was putting myself into her trap.",
+      "Then... that meant",
+      "I couldn't make him do anything.",
+      "If I couldn't make him break up with Rina-san, I'd have to talk to Rina-san directly.",
+      "...So, instead of making my father fight",
+      "...I'd have to fight in his place.",
+      "But, how?",
+      "...That guy, Kasai-san, who was with Shii-chan today, seemed to know the man Rina-san was with.",
+      "I wonder if I can somehow meet him again.",
+      "He looked scary, but I was introduced to him as a friend of Mii-chan.",
+      "...Mii-chan has a lot of power around here.",
+      "There's no way he would treat me badly...",
+      "I wondered if he could tell Rina-san and the man to back off from my father...",
+      "That'd help me a lot...",
+      "But I didn't know how I could meet him again.",
+      "...I could ask Mii-chan for help, but I don't want her to know about my situation...",
+      "This is a problem of the Ryuugu family.",
+      "This is nobody's business but mine.",
+      "Yeah, this is a battle that I'd have to fight alone.",
+      "I regretted my parents' divorce.",
+      "...I wept about the tragedy I could've prevented if I had tried.",
+      "......I wasn't going to weep this time.",
+      "I wasn't going to let the chance slip away.",
+      "This time... I would fight for my happiness."
+    ]
+  }
+]

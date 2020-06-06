@@ -1,0 +1,1909 @@
+[
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Festival Stall",
+    "labelJp": "屋台",
+    "textJp": [
+      "「ヘイらっしゃい。",
+      "はいよ、網とお椀。」"
+    ],
+    "textEn": [
+      "\"Welcome!",
+      "Here's your net and a bowl.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「よし、やるぞ。」"
+    ],
+    "textEn": [
+      "\"Great!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "「……うーん、金魚はみんな活きがいいねぇ！！",
+      "実に美味しそう！」",
+      "「この小さいのなんか、そのままボリボリと生で行けちゃうよね〜！！！」",
+      "ざわ…ッ？！"
+    ],
+    "textEn": [
+      "\"Wow... these fish are so active!!",
+      "They look delicious!\"",
+      "\"I could eat this little one raw right here!\"",
+      "Huh...?"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…み、…魅音さんは…なな、何を言ってるんでございますの…？」"
+    ],
+    "textEn": [
+      "\"What are you saying, Mion-san...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……魅ぃちゃん……食べてたの？",
+      "去年、レナからもらったのも…食べちゃったの？」"
+    ],
+    "textEn": [
+      "\"Mii-chan... you eat goldfish...?",
+      "Did you eat the one I gave you last year too...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ち、ちが……わ、私そんなこと言ってない…！！」"
+    ],
+    "textEn": [
+      "\"No...! I didn't say that...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お姉が真っ赤になりながら、ぶんぶんと首を振って否定する。"
+    ],
+    "textEn": [
+      "Sis shook her head hard. She'd turned all red."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いや、でも……今、魅音、お前自分で言ったぞ。",
+      "実に美味しそうだ、って。」"
+    ],
+    "textEn": [
+      "\"But you just said it...",
+      "You said they look delicious...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「えぇ、確かに言いました。",
+      "お姉って雑食ですから、口に入れば何でも食べちゃうんです。」"
+    ],
+    "textEn": [
+      "\"I heard it too.",
+      "Sis eats everything, as long as it fits inside her mouth.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……おいしいなら、今度ボクも試してみるのです。」"
+    ],
+    "textEn": [
+      "\"......If it's really good, I'll try it once.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「だだだだだだ、だめだよ梨花ちゃん、お腹壊しちゃうよ…！！！」"
+    ],
+    "textEn": [
+      "\"No, you can't, Rika-chan! You're going to get sick!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……ちょっと待て。",
+      "おいコラ。",
+      "お前、いつの間にいるんだよ、…詩音ッ！！！！」"
+    ],
+    "textEn": [
+      "\"Wait a minute...",
+      "Hey, you...",
+      "How long have you been here... Shion?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ハ〜イ、圭ちゃんにお姉にみんな！",
+      "こんばんは。」"
+    ],
+    "textEn": [
+      "\"Hi, Kei-chan, Sis, and everyone else!",
+      "Good evening!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あ、……あ゛ぁああぁああぁーー！！！",
+      "アンタどこから湧いてきたの詩音んんーー！！！！」"
+    ],
+    "textEn": [
+      "\"Aaaaaaah!!",
+      "When did you get here, Shion?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「焼きそば屋さんの時からずっとです。お姉たちは騒がしいからすぐに見つけられました。」"
+    ],
+    "textEn": [
+      "\"I've been here since you were at the chow mein booth. I found you guys quickly since you were making so much noise.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「もー！！",
+      "アンタは関係ないでしょー？！？！",
+      "早くどっかへ消えなさいよー！！」"
+    ],
+    "textEn": [
+      "\"Hey!!",
+      "You're not in our club!",
+      "Get lost!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「も〜、お姉もあまり私を邪険にしないで下さい。",
+      "…ね？",
+      "圭ちゃん？",
+      "私が一緒でもいいですよね？」"
+    ],
+    "textEn": [
+      "\"Don't be mean, Sis.",
+      "Right,",
+      "Kei-chan?",
+      "You're fine if I come with you guys, right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう言いながら、圭ちゃんの腕を取り、わざとらしく胸の谷間に沈めてなんかみちゃったり。",
+      "ふにふに。",
+      "で、結局、そのまま大騒ぎ。",
+      "お姉と愉快な仲間たちで祭り中の模擬店を冷やかしてまわった。",
+      "悪ふざけしたり、大騒ぎしたり。",
+      "圭ちゃんをおちょくって、お姉にちょっかいを掛けてみたり。",
+      "というか、圭ちゃんはやはりみんなの中心にいるようで、圭ちゃんに構えば、自然とみんなを巻き込んだ。",
+      "これほど賑やかな中だから、悟史くんに居場所がなかなかなかったけれど。",
+      "ちょっと静まったときに様子を見たら、僕なんかに遠慮しないでたくさん遊んでよって、笑ってた。",
+      "……もし本当にそこに居てくれたなら、腕を引っ張って悟史くんもこの大騒ぎに引き込んであげるのに。",
+      "…それができなくて、ちょっぴり寂しかった。",
+      "誰かに思いっきり肩をぶつけた。",
+      "さすがに私の方が悪そうだったので、即座に謝る。",
+      "そしたら相手は見知った顔だった。"
+    ],
+    "textEn": [
+      "I took Kei-chan's arm and held it between my breasts.",
+      "Puff, puff.",
+      "We were going to have a ball.",
+      "I went around the booths with Sis and her friends.",
+      "I joked around and laughed out loud.",
+      "I teased Kei-chan and Sis too.",
+      "Kei-chan was at the center of the group, so if I did something to him, it naturally involved everybody else.",
+      "It looked like Satoshi-kun was having a hard time finding his own spot in the crowd.",
+      "When I glanced at him in a quiet moment, he smiled and told me to have fun without worrying about him.",
+      "...If he were tangible, I'd pull his arm to join the crowd...",
+      "It made me sad that I couldn't do that.",
+      "I bumped into somebody's shoulder.",
+      "It was obviously my fault, so I apologized right away.",
+      "As it turned out, it was somebody I knew."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あら。",
+      "楽しんでるみたいね。",
+      "こんばんは、詩音ちゃん。",
+      "月の綺麗な晩ね。」"
+    ],
+    "textEn": [
+      "\"Oh,",
+      "looks like you're having fun.",
+      "Good evening, Shion-chan.",
+      "The moon looks beautiful tonight, doesn't it?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……あれ、すごいお久しぶりですね鷹野さん！",
+      "えっとそれから……、」"
+    ],
+    "textEn": [
+      "\"......Oh, it's been forever, Takano-san!",
+      "And you were......\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「そうだね、挨拶をするのはこれが初めてだね。",
+      "僕は富竹。",
+      "魅音ちゃんの双子の妹さんだって話は聞いてるよ。」"
+    ],
+    "textEn": [
+      "\"Nice to meet you.",
+      "I'm Tomitake.",
+      "I heard you were Mion-chan's twin sister.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「よろしくです富竹さん。",
+      "凄腕のカメラマンとのお噂だとか。",
+      "ぜひ今度、私も写してくださいね。」"
+    ],
+    "textEn": [
+      "\"Nice to meet you too, Tomitake-san.",
+      "I heard you were a great cameraman.",
+      "Please take a picture of me someday.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「あはははははは…、デビューを夢見て投稿を繰り返す素人だけどね。」"
+    ],
+    "textEn": [
+      "\"Ahahahahaha... I'm just an amateur dreaming of going professional.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「そんなことないわよ。",
+      "ジロウさんは上手よ？",
+      "いろいろとね。",
+      "くすくすくす…。」"
+    ],
+    "textEn": [
+      "\"Well, you're actually great,",
+      "Jirou-san.",
+      "You're good at many things...",
+      "Hee hee hee...\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「いやいや…、まだまだ勉強が足りないよ。",
+      "才能に恵まれない分を、努力で補わないとね。」"
+    ],
+    "textEn": [
+      "\"No, I need to study more.",
+      "I have no talent, so I have to put out a lot of effort to compensate.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そんなやり取りを見る限り、鷹野さんと富竹さんはまんざらでもない仲のように見えた。"
+    ],
+    "textEn": [
+      "They must've been in a relationship."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「鷹野さんと富竹さん、仲がよろしいようで。",
+      "私ゃお邪魔ですかね？」"
+    ],
+    "textEn": [
+      "\"You two look so happy together.",
+      "Am I interrupting you?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あらあら。",
+      "ご賢察痛み入るけどお気遣いは結構よ。",
+      "…それに、鷹野なんて何だか他人行儀みたいな呼び方ね。",
+      "昔みたいに三四って呼んでくれていいのに。」"
+    ],
+    "textEn": [
+      "\"Oh, no.",
+      "I appreciate your consideration, but you're not interrupting us at all.",
+      "And... you can call me Miyo like before,",
+      "not Takano-san.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あはははは…、やっぱり目上の人にファーストネーム呼びつけはちょっと気になるものでして。",
+      "まぁその、気にしないで下さい。」"
+    ],
+    "textEn": [
+      "\"Aha ha ha ha... It's a bit hard for me to call someone older than me by her first name...",
+      "Well, never mind.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "照れ笑いすると、鷹野さんも上品に笑って応えてくれた。"
+    ],
+    "textEn": [
+      "I smiled bashfully, and Takano-san smiled back elegantly."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あれから図書館には来ないのね。",
+      "研究の同志として、もっともっといろいろお話ししたかったのに。」"
+    ],
+    "textEn": [
+      "\"I haven't seen you in the library since.",
+      "I wanted to talk to you more, as a fellow researcher.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あははは…、まぁ気が向いたらその内ってことで。」"
+    ],
+    "textEn": [
+      "\"Ahahaha... well, when I feel like it.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「研究の同志って、……まさか詩音ちゃんも興味があるのかい？"
+    ],
+    "textEn": [
+      "\"A fellow researcher...? Are you interested in it, too, Shion-chan?"
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "その、……この村の昔話とかに。」"
+    ],
+    "textEn": [
+      "I mean... in the legend of this village?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんが眉をしかめながら苦笑いして聞いてくる。",
+      "私はしばらく鷹野さんと縁があったので知っているが、彼女の趣味はちょっとまともじゃない。",
+      "表向きは古代雛見沢村の風俗史の研究だが、結局のところ興味の中心は、古代雛見沢村の奇祭「綿流し」だ。",
+      "犠牲者を捕らえ、内臓を抜き出して食い殺したと言われる人食いの宴。",
+      "そしてそれにまつわるエピソードやら、残酷話やら、…とにかくスプラッターなことばかり。",
+      "そんなことが興味の中心にあるという人だ。",
+      "まぁ、ここだけの話、同志と呼ばれるのは対外的に不本意だ。",
+      "だが個人的な野次馬根性としては、彼女の研究ノートは読んでいて面白い。",
+      "その時、ドーーーン、ドーーーン！！",
+      "という大太鼓の音が聞こえてきた。",
+      "綿流しのメインの奉納演舞が始まるのだ。",
+      "彼女の説によるなら、巫女が布団を鍬で裂いて、中身のワタを引き出すその演舞は、犠牲者のハラワタを引きずり出す行為を模したものらしい。"
+    ],
+    "textEn": [
+      "Tomitake-san raised his eyebrows.",
+      "As far as I knew, Takano-san's hobby wasn't exactly normal.",
+      "On the surface, her research dealt with the cultural history of ancient Hinamizawa, but its main focus was the 'Watanagashi' festival from ancient times.",
+      "The cannibal banquet in which they captured and gutted a living sacrifice.",
+      "Her research covered various stories surrounding that, and other legends of cruelty... It was nothing if not gory.",
+      "That was where her main interests lay.",
+      "So, I didn't feel comfortable being called a fellow researcher, to be honest.",
+      "But objectively speaking, her research notes were fun to read.",
+      "It was then that I heard the loud booms",
+      "of the taiko drums.",
+      "The main event of the Watanagashi festival, the dedication dance, was about to start.",
+      "According to Takano-san's hypothesis, the part of the dance where the shrine maiden tears open a futon mat represents gutting a living victim."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「いよいよ始まりますね。",
+      "そろそろ私も行くかな。",
+      "鷹野さんたちも見に行くんですよね、梨花ちゃまの儀式。」"
+    ],
+    "textEn": [
+      "\"It's starting.",
+      "I should head over.",
+      "Aren't you guys coming to see Rika-chama's performance?\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「ん？",
+      "………んん、……あはははは。」"
+    ],
+    "textEn": [
+      "\"Hmm?",
+      "......Hmm.... Ahahahaha.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹さんが曖昧に苦笑いする。",
+      "……見に行かないという意味だろうか。",
+      "鷹野さんがいたずらっぽく笑いながら、私の耳元で囁いた。"
+    ],
+    "textEn": [
+      "Tomitake-san looked bewildered......",
+      "Did that mean he wasn't coming?",
+      "Takano-san giggled, then whispered in my ear."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「実はね。",
+      "……………これから祭具殿の中に入ってみようと思うの。」"
+    ],
+    "textEn": [
+      "\"To tell you the truth...",
+      "...We're thinking of sneaking into the ritual storehouse.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………え、」"
+    ],
+    "textEn": [
+      "\".........Eh?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "彼女はとても楽しそうなことでもあるかのように言ったが、………それは祭具殿のことを知る人間にとってはとても笑えないことだった。",
+      "祭具殿は古手神社の、一種の宝物殿と言っていい。",
+      "中には祭具と呼ばれる、オヤシロさまを祀る神聖な宝物が納められているという。",
+      "だが、古手神社の境内の中で一二を争うほどの神聖な場所で、中に入れる人間は古手本家の人間と、御三家のごく限られた一部の人間だけに限定されている。",
+      "…それ以外の人間がみだりに立ち入ると、穢れを持ち込んでしまうと言われるためだ。",
+      "中に何が入っているのか、雛見沢に縁のある子どもたちなら誰もが一度は持つ好奇心だ。",
+      "だが、中を覗くことはできないし、大扉は厳重な鍵で閉ざされている。",
+      "子どもたちは祭具殿の周りで遊んでいるだけでも怒られるし、子どもたちも、祟りがあったら嫌だから、わざわざ好んで近寄ったりしない。",
+      "私も、雛見沢に縁のある人間として、祭具殿に対し近寄りがたいイメージを持っている。",
+      "もちろん、祟りなんか全然信じていないとしても、わざわざ近寄りたいと思わない。",
+      "禁を犯す得がないなら、わざわざ祟られるようなことをしたくないのは自然な感情だ。",
+      "その祭具殿に…入るって…？"
+    ],
+    "textEn": [
+      "She made it sound like she was going to do something fun...... but it wouldn't be amusing to anyone who knew what the ritual storehouse was.",
+      "The ritual storehouse, or the storehouse for ritual implements, is sort of a treasure house belonging to the Furude Shrine.",
+      "I'd heard that Oyashiro-sama's sacred treasures were stored in there.",
+      "Only people from the Furude family and selected members of the other two Three Families are allowed to enter.",
+      "...They believe that if other people enter, the place will be desecrated.",
+      "Everybody in Hinamizawa must've been curious about what was in there when they were kids.",
+      "But the storehouse was always tightly locked. You couldn't just peek into it either.",
+      "Kids would get chided if they played around it, so they'd learn to stay away.",
+      "I didn't like being around it myself, since I was familiar with all that.",
+      "Even though I didn't believe in curses, I still didn't want to be near it.",
+      "Nothing good can come from breaking the rules.",
+      "Were they still going to enter the ritual storehouse despite all that?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…でも、…確かものすごい厳重な鍵が掛かってたと思いましたよ…？」"
+    ],
+    "textEn": [
+      "\"...I'm pretty sure it's tightly locked...\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「去年まではね。",
+      "……前のカンヌキじゃ重すぎて大変だと梨花ちゃんが言ったらしいの。",
+      "それで今年から、ものすごく安っぽい南京錠に替わったの。",
+      "知ってた？」"
+    ],
+    "textEn": [
+      "\"It was, until last year...",
+      "Rika-chan had the heavy bolt changed to a cheap padlock",
+      "because the bolt was too heavy for her to lift.",
+      "Did you know that?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「い、いえ、知りません。",
+      "……でも、安っぽいと言ったって、錠前が掛かってますよ…？」"
+    ],
+    "textEn": [
+      "\"N-No...",
+      "but even if it's cheap, it's still locked, isn't it...?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「ジロウさんね、とても器用なの。」"
+    ],
+    "textEn": [
+      "\"Jirou-san is very skilled.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……え、…じゃ、開けられるんですか。」"
+    ],
+    "textEn": [
+      "\"......Oh, so... can you open it?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「綿流しの儀式が始まれば、全員が儀式に集まるでしょ？",
+      "祭具殿の周りには人影はまったくなくなる。",
+      "……今夜が一番の死角なの。"
+    ],
+    "textEn": [
+      "\"Once the Watanagashi ritual starts, everybody will gather around the stage, right?",
+      "Then the area around this storehouse will be completely devoid of people.",
+      "Tonight, this place will be a blind spot."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "灯台下暗しとでも言うのかしらね。」"
+    ],
+    "textEn": [
+      "Can't see the forest for the trees, I suppose.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "彼女の説によるならば、…祭具殿の中身は、古代の綿流しで使った人間用の調理道具や解体道具、拷問道具の類だと言う。"
+    ],
+    "textEn": [
+      "According to her hypothesis, the ancient tools used for human dissection and torture would be found in the ritual storehouse."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「よかったら、後でこっそりいらっしゃいな。",
+      "二度とないチャンスよ？",
+      "くすくすくすくす。",
+      "じゃ、よかったら後でね。」"
+    ],
+    "textEn": [
+      "\"Why don't you join us in a bit?",
+      "It's now or never.",
+      "Hee hee hee hee.",
+      "So, maybe I'll see you then.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「鷹野さん、何の内緒話だい？」"
+    ],
+    "textEn": [
+      "\"Takano-san, what are you telling her?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「女同士の内緒話よ。",
+      "行きましょ、暗くてひと気のないところへ逢引に。",
+      "くすくす…。」"
+    ],
+    "textEn": [
+      "\"Just girl talk.",
+      "Let's go to some dark place for a quick date.",
+      "Hee hee hee...\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「ん？",
+      "あ、あははははははは………。」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "Ah, ahahahahahaha...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんは富竹さんを連れて、儀式に向かう人たちの人の波と逆行しながら去っていった。",
+      "………祭具殿か。",
+      "…拷問道具がいっぱい…。",
+      "園崎本家の地下拷問室を思えば、…それはありえることだった。",
+      "……悟史くんは、４年目の祟りの犠牲になった。",
+      "死体の出た叔母はオヤシロさまの祟り。",
+      "…死体の出ない悟史くんは、オヤシロさまの怒りを鎮めるための生贄。",
+      "…………そういう仮説を、去年考えていた。",
+      "でも所詮は仮説。",
+      "……悟史くんが生きていると考えたい私は、鷹野さんの研究を否定したくなっていたのだ。",
+      "鷹野さんの説が正しいなら、鬼ヶ淵村の古い風習を蘇らせようとする、",
+      "御三家筋の人間か、狂信的な何者かがオヤシロさまの祟りを再現して繰り返している事件だ。",
+      "悟史くんも、…そいつらの手に掛かって殺されたことになってしまう。",
+      "……ならもしも。",
+      "祭具殿の中身が鷹野さんの説と違って、くだらないものでいっぱいだったらどうだろう？",
+      "壊れかかってて埃の積もった古いお神輿とか、いっぱいに広げた新聞紙の上に、塗装中の祭り看板が横たえてあるとか。",
+      "そんなくだらない中身だとしたら。",
+      "塗料のむせ返るようなシンナーの臭いでいっぱいだった",
+      "……",
+      "なんて、できない想像じゃない。",
+      "鷹野さんの説が正しくないことを証明することで、………悟史くんが生贄に捧げられて殺されたなんて説を否定できるのではないか。",
+      "………別に祭具殿の中に何があったって、……悟史くんが帰ってくるわけじゃない。",
+      "……………………。"
+    ],
+    "textEn": [
+      "Takano-san walked against the flow of the crowd alongside Tomitake-san.",
+      "...The ritual storehouse, huh?",
+      "It was supposedly filled with torture tools...",
+      "Considering what they had in the underground torture room at the Sonozaki house... that's quite possible.",
+      "......Satoshi-kun fell victim to the curse in the fourth year.",
+      "His aunt's death was the sign of Oyashiro-sama's curse.",
+      "...Satoshi-kun was the sacrifice to pacify Oyashiro-sama's anger.",
+      ".........That was what Takano-san said last year.",
+      "It was just her hypothesis.",
+      "...At present, I wanted to deny her hypothesis because I wanted to believe that Satoshi-kun was still alive.",
+      "If her hypothesis was correct,",
+      "either some religious fanatic or somebody from the Three Families must be imitating the curse in order to revive the ancient custom of Onigafuchi.",
+      "That would mean that it was them who killed Satoshi-kun.",
+      "......So what if...",
+      "What if the ritual storehouse was filled with garbage instead of torture implements?",
+      "Maybe it was filled with broken palanquins, or freshly painted signboards for the festival.",
+      "What then...?",
+      "It wasn't really hard for me to believe",
+      "......",
+      "that it was filled with the chemical smell of paint.",
+      "Maybe I'll get to deny the hypothesis that Satoshi-kun was sacrificed by seeing the inside of the ritual storehouse for myself.",
+      "...Whatever was in there... it didn't mean that Satoshi-kun would come back.",
+      "........."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………悟史くん。",
+      "…………どうしよう……？」"
+    ],
+    "textEn": [
+      "\"Satoshi-kun...",
+      "...What should I do?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ほとんどの人々が梨花ちゃまの奉納演舞に行ってしまったため、さっきまであんなに賑わっていた祭り会場は、…私だけを除け者にしたかのような静けさだった。",
+      "そしてこんなにも静かなのに、……悟史くんが居るのが感じられなかった。",
+      "たまたまいないのか、希薄で私が気付けないのか。",
+      "……それとも、無感情なのか。",
+      "少し迷った末、……私は見に行くことに決めた。",
+      "厳密にはあと数日あるが、……悟史くんが失踪してから一周年。",
+      "……私は、すでに殺されているかもしれないという真実から逃げたくて、わざと目を背けて来た。",
+      "でも、…その一年後のこの夜に。",
+      "……祭具殿の中を見る機会に恵まれるなんて。",
+      "その運命の引き合わせに、何か神懸り的なものを感じずにはいられなかった。",
+      "途中、奉納演舞を取り囲む群衆に入り損ねて、ぴょんぴょんと飛び跳ねながら、人垣の肩越しに演舞を覗き見る圭一を捕獲する。",
+      "ちょっとしたいたずら気分と、共犯者を作ることによる後ろめたさの誤魔化しのために。",
+      "…祭具殿に入ろうなんて考えてるんだから、オヤシロさまに祟られるかもしれない。",
+      "その時の共犯ということで。",
+      "………………………………私の悟史くんが去年の祟りで消えたんだから。",
+      "…魅音の圭ちゃんも今年の祟りで消えてしまえ。"
+    ],
+    "textEn": [
+      "Since most people went to see Rika-chama's ritual dance, the festival grounds were deadly quiet.",
+      "Even so... I couldn't sense Satoshi-kun.",
+      "Did he go somewhere? Or was I not paying enough attention?",
+      "...Or maybe he wasn't feeling any emotions in particular?",
+      "After thinking for a while, I decided to go in with them.",
+      "It had been almost a year since Satoshi-kun's disappearance.",
+      "...I'd been avoiding the truth because I was afraid he might be dead.",
+      "But... now I had a chance.",
+      "...I had a chance to see the inside of the ritual storehouse.",
+      "I felt as though something divine had arranged that coincidence.",
+      "On my way to the storehouse, I noticed Keiichi. He was jumping up and down, trying to see Rika-chama's dedication dance over people's shoulders.",
+      "If I took him along, we could split the guilt.",
+      "...Oyashiro-sama might put a curse on me for entering his divine storehouse.",
+      "I wanted a partner in crime.",
+      ".....................Since the boy I love disappeared last year because of the curse...",
+      "...Maybe Mion's love should disappear this year."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……わ、…………な、何考えてんだ私……。」"
+    ],
+    "textEn": [
+      "\"......Whoa...... What am I thinking...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私は突然芽吹いた鬼の声を、慌てて首を振って耳に入れまいとする…。"
+    ],
+    "textEn": [
+      "That must've been the demon inside me. I shook the thought out of my head..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「どうしたんだよ詩音。",
+      "それより、奉納演舞がよく見えるとこって、まだ遠いのか？」"
+    ],
+    "textEn": [
+      "\"What's going on, Shion?",
+      "Where's the best place to see Rika-chan's dance from? Is it far?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「え？",
+      "奉納演舞がよく見えるなんて誰が言いました？」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "I never said I was going to show you that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "圭一ととぼけた話をしている内に、私たちは祭具殿にたどり着いた。",
+      "タイミング的にはまさにビンゴ。",
+      "……富竹さんが今まさに、南京錠を取り外すところだった………。",
+      "圭一は好奇心ではちきれんばかりのくせに、建前ばっかりで、なかなか祭具殿には入ろうとしなかった。",
+      "だが、適当に言いくるめ、富竹さんが見ておいで見ておいでと後押しすると、あっさりと転ぶのだった。",
+      "中は真っ暗だったが、鷹野さんが用意していた電池式のランタンを灯すと、かなり狭い前室であることがわかった。"
+    ],
+    "textEn": [
+      "We made it to the ritual storehouse. Keiichi was baffled by the whole situation.",
+      "Our timing had been perfect.",
+      "...I could see Tomitake-san picking the lock...",
+      "Even though Keiichi must have been curious, he insisted that we shouldn't go in.",
+      "But I talked him into it anyway. He was quick to change his mind when Tomitake-san joined in.",
+      "It was completely dark inside, so Takano-san lit a battery-powered lantern. A small entry space appeared before us."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「真っ暗だねぇ。",
+      "みんな転ばないように気をつけるんだよ。」"
+    ],
+    "textEn": [
+      "\"It's so dark in here.",
+      "Take care not to trip over anything.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「ご心配ありがとう。",
+      "…じゃあ門番をよろしくね。",
+      "ここ、閉めるわよ。」"
+    ],
+    "textEn": [
+      "\"I appreciate the concern.",
+      "...Okay, doorman, keep a good watch.",
+      "We're shutting the door now.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "楽しいことから富竹さんだけを閉め出すように、鷹野さんが意地悪に笑いながら、扉を閉めていく。"
+    ],
+    "textEn": [
+      "Takano-san closed the door with a smile, as if leaving Tomitake-san out on purpose."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「やれやれ…。",
+      "…じゃあみんな、ゆっくり楽しんでおいで。」"
+    ],
+    "textEn": [
+      "\"Man...",
+      "...All right, everyone, have fun.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "低く重い、よく響く音を立て、…外界と完全に遮断されると…シンシンとした闇が蝕んできた。",
+      "…鷹野さんのランタンだけが頼りだ。"
+    ],
+    "textEn": [
+      "As soon as the heavy door was closed, we were surrounded by a quiet darkness.",
+      "...All we could rely on was Takano-san's lantern."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「大丈夫よ。",
+      "予備電池も入ってるアウトドア仕様なんだから。",
+      "消えたりなんかしないわよ。」"
+    ],
+    "textEn": [
+      "\"It'll be fine.",
+      "It's an outdoor lantern with backup batteries inside.",
+      "It won't go out or anything.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野さんが圭一に嫌味っぽく言う。",
+      "彼の顔は緊張感で少し青くなっているようにも見えた。",
+      "雛見沢に縁のない彼でも、…やはりこの祭具殿が聖域であることはわかるらしい。"
+    ],
+    "textEn": [
+      "Takano-san teased Keiichi a little.",
+      "Keiichi, in turn, looked a little pale.",
+      "He seemed to be able to recognize the sanctity of the building even though he wasn't from Hinamizawa."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「さ、入りましょう。",
+      "…よいしょ、っと。」"
+    ],
+    "textEn": [
+      "\"Let's go in.",
+      "...Here we go... There.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "さらに重い扉が開かれ…ほこりだけじゃない、嫌な臭いの空気があふれ出して来る。",
+      "……台所の奥の、埃にまみれた何年も開けてない戸棚を開けたような臭いと、魚屋の生臭いにおいが混ぜこぜになったような…説明の難しい、嫌な臭いだった。",
+      "音の響き具合から、前室とは比べ物にならない広さを感じる。",
+      "鷹野さんがランタンをかざすと、その広々とした内部が鮮明にわかった。"
+    ],
+    "textEn": [
+      "After Takano-san opened the heavy inner door, a dusty foul smell flowed out.",
+      "It was like the smell of a pantry that hadn't been opened in years and the smell of a fish market mixed together... I didn't know exactly how to describe it, but it was a bad smell.",
+      "From listening to the echo of our footsteps, I could tell that this room was much bigger than the one we were just in.",
+      "When Takano-san raised her lantern, I could clearly see just how big it was."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…ぅわ…！！」"
+    ],
+    "textEn": [
+      "\"Wow...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "祭具殿の正面一番奥には…仏像のようなご神体が立ち、侵入者である私たちを見下ろしていた。",
+      "ランタンのか細い明かりに照らされたその迫力に思わず驚いてしまう。"
+    ],
+    "textEn": [
+      "At the far side of the wall, there was a statue of some kind of god staring down at us intruders.",
+      "The way it was lit by the lantern gave it a powerful appearance, and it scared me."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あれが雛見沢の守り神、…オヤシロさまよ。」"
+    ],
+    "textEn": [
+      "\"That's the guardian god of Hinamizawa... Oyashiro-sama.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………私は、宗教芸術みたいな装飾の施されたそのご神体を見上げる。",
+      "…悟史くんの失踪が、本当の本当に、………祟りなら。",
+      "……私は、こいつを許してはいけないのだ。",
+      "ご神体は、私を見下ろせる優位にあることを誇るようで、…ただそれだけのことなのに、私を苛立たせた。",
+      "……オヤシロさまめ。",
+      "……もしもお前が悟史くんを消した張本人なら。",
+      "…………許さない許さない、絶対に許さない。",
+      "圭一は、ここにあるものにどういう意味があるかよくわかっていないようで、少し拍子抜けした退屈そうな顔をしていた。",
+      "鷹野さんもそれに気付くと、あの自慢のスクラップ帳を取り出し、さも楽しそうに古代雛見沢村の残酷な伝説を語り始めるのだった。",
+      "私はすでに知っている話なので、…二人を放っておいて、灯りで照らされている範囲内を歩いてみた。",
+      "…………意味がわかるからこそ、吐き気すら催しそうになる残忍な祭具たち。",
+      "それらが、別にわめくわけでもなければ襲い掛かってくるわけでもないのに、",
+      "…私を威圧し、あわよくば数百年ぶりの血肉にありつこうと大口を開けている気配がひしひしと感じられた。",
+      "ここにあるのは何れも雰囲気が、園崎本家の地下で見たあの拷問道具たちと同じだった。",
+      "……園崎本家の拷問道具たちが末裔なら、…ここにあるものはまさに先祖と呼べるものなのだろう。",
+      "祭具はどれも年代物で、実際の使用に耐えられるかは少し疑わしいものもあった。",
+      "園崎本家の地下の物に比べるとメンテは行き届いていない。",
+      "……だから、怖くない…？",
+      "いや、だからこそ。",
+      "…………………こんなにも大昔から、…この村には本当に残酷な風習がずっとずっと息づいていたのだとわかるからこそ。",
+      "………恐ろしい。",
+      "………鷹野さんの言っていたことは、全て正しかった。",
+      "私が立ち止まると、悟史くんも一歩遅れて立ち止まる。",
+      "……悟史くんは…何の感情も見せなかった。",
+      "何も感じてないのか、…無表情なのか。",
+      "………居るのはわかってるけど、ぜんぜん様子がわからなくて。",
+      "……悟史くんと一緒になってから、初めて彼を怖く感じた。",
+      "もし悟史くんに返事ができるなら。",
+      "……私は聞きたい。",
+      "…悟史くんを「鬼隠し」にしたのは何者なの、って。"
+    ],
+    "textEn": [
+      "...I looked up at the statue, which was holding its religious ornaments.",
+      "...If Satoshi-kun's disappearance really was a curse...",
+      "...I couldn't forgive this god.",
+      "I found myself irritated by the way the statue looked down at me.",
+      "...Damn you, Oyashiro-sama.",
+      "...If you really made Satoshi-kun disappear...",
+      "I'll never forgive you. Never.",
+      "Keiichi didn't seem to understand the significance of the storehouse. He looked bored.",
+      "Takano-san noticed that and took out her scrapbooks to show him the brutal history of ancient Hinamizawa.",
+      "I'd heard that story already... So I decided to walk around by myself.",
+      "...Since I knew the significance of all these tools, I felt a little nauseated.",
+      "Though they certainly wouldn't jump out to me, I still found them intimidating.",
+      "They looked as if they were craving for fresh blood after not having been used in hundreds of years.",
+      "All the tools looked similar to the ones I saw in the underground torture room at the Sonozaki main house.",
+      "......If those tools were the progenies of torture implements, these would be their ancestors.",
+      "All the implements here looked old. I doubted they could really be used.",
+      "They weren't kept maintained like the ones at the Sonozaki house...",
+      "So, did that mean they shouldn't scare me...?",
+      "No, on the contrary...",
+      ".........They told me that cruel rituals were indeed performed in this village at one point.",
+      "...Now <i>that</i> I found scary.",
+      "...What Takano-san told me was the truth.",
+      "When I stopped, Satoshi-kun also stopped behind me, one step later.",
+      "...I felt no emotional change in Satoshi-kun.",
+      "I couldn't tell if he was feeling something or not.",
+      "...I knew he was there, but I had no idea how he was feeling.",
+      "...I felt scared of him for the first time.",
+      "If he could answer me...",
+      "...I'd want to ask him.",
+      "...Who demoned you away...?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………ね、…悟史くん。",
+      "…………聞いてる…？」"
+    ],
+    "textEn": [
+      "\"Hey, Satoshi-kun...",
+      "...Are you listening...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんが聞いてくれたのかどうか。",
+      "……悟史くんは私の言葉など聞こえないかのように、",
+      "…ふぃっといなくなってしまう。",
+      "私はここに入ってから、…明らかに悟史くんが不機嫌になっているのを感じていた。",
+      "悟史くんの居なくなったのが急に心細くなり、……私は姿のない悟史くんがどこへ行ったのか、…うろうろと捜した。",
+      "ご神体の足元に、祭壇が設けられているのに気付いた。",
+      "………そこに悟史くんが居る気がして。",
+      "小奇麗な祭壇だった。",
+      "祭壇の上には、宗教的な意味合いのありそうな小物類が、ひな壇みたいに飾られていた。",
+      "ここだけはよく手入れがされていて、指でなぞっても埃はつかない。",
+      "つまりこれは、……………えっと……。",
+      "花瓶に供えられた花はしおれていない。",
+      "……その花瓶の下には、この祭壇には似つかわしくない可愛らしいハンカチが敷かれていた。",
+      "……雰囲気的に、古手梨花が普段使うハンカチの内のひとつだと感じる。",
+      "ということはつまり…。",
+      "………この祭具殿は、今日でも維持されている。",
+      "忘れ去られた古代の遺物では断じてないのだ。",
+      "…即ち、この祭具殿に宿る残酷な悪意は、",
+      "………今日も雛見沢に根付いているという証拠に他ならない。",
+      "そう。",
+      "オヤシロさまの祟りなんて曖昧なものは、妄信する村人たちの生み出した単なる妄想に過ぎないのだ。",
+      "鷹野さんが好んで使う言葉を借りるとつまりはこういうこと。",
+      "“人の世で起こることは、全て人が起こしていることだ。”",
+      "さっき私はオヤシロさまのご神体を睨みつけ、悟史くんを「鬼隠し」にしたのは貴様かと言った。",
+      "だが、オヤシロさまなんてのは、銅か木材で作られた単なる偶像。",
+      "それ以上の何者でもない。",
+      "…その偶像を、それ以上の存在であるようにしようとしている「人間」がいるだけなのだ。",
+      "雛見沢村連続怪死事件は人の起こした事件であって。",
+      "……オヤシロさまの祟りなんて呼ばれるべきものでは絶対にない。",
+      "悟史くんがオヤシロさまの祟りの４年目の犠牲者だと言うなら。",
+      "オヤシロさまの祟りをなぞろうとする、「人間」の犠牲者なのだ。",
+      "そして、悟史くんを「鬼隠し」にした人間は、……そう遠くにはいない。",
+      "…………悟史くんの真実が、………ここからそう遠くないところに潜んでいる……。",
+      "ダン。",
+      "何かが床に落ちるような音にちょっと驚き、私は鷹野さんたちの方を見た。",
+      "鷹野さんは相変わらずのご満悦な様子で、圭一に講釈をしているところだった。",
+      "………スクラップ帳でも床に落としたのかな…？",
+      "ダン、",
+      "ダン、",
+      "ダン。",
+      "……それは鷹野さんたちのところではなく、…私のすぐ後ろでだった。",
+      "悟史くんが今日までに、ぺたぺたという慎ましい足音以外を聞かせたことは一度たりともない。",
+      "…地団駄を踏んでいるような、そんな音だった。",
+      "な、……なに…？",
+      "ダン、",
+      "ダン、",
+      "ダン。",
+      "その音は、私の問い掛けなど気にせず、ただ音だけを繰り返した。",
+      "それは自分のすぐ目の前で生まれている音なのに、……どこか遠くの板の間で子どもが飛び跳ねるような、そんな音。"
+    ],
+    "textEn": [
+      "I couldn't tell if he heard me or not.",
+      "...He left",
+      "as if he didn't hear anything.",
+      "I could tell that he'd been sulky ever since we got here.",
+      "I suddenly felt lonely, so I looked for him while walking around.",
+      "I realized then that there was an altar in front of the statue.",
+      "...He might be there.",
+      "It was a clean altar.",
+      "An altar ornamented with religious artifacts.",
+      "It was kept well-maintained. I saw no dust.",
+      "That would mean... well...",
+      "The flowers in the vase weren't wilting.",
+      "...I saw a pretty handkerchief under the vase. It looked out of place amongst everything else.",
+      "...I was fairly certain it was Rika Furude's handkerchief.",
+      "That would mean...",
+      "...That this storehouse is maintained daily.",
+      "It wasn't a forgotten ruin buried in dust.",
+      "...So, the brutality that dwelled in this ritual storehouse...",
+      "is still alive and well in Hinamizawa.",
+      "That's right.",
+      "Something as ambiguous as Oyashiro-sama's curse is nothing more than a simple delusion of the villagers.",
+      "As Takano-san said...",
+      "\"Everything that happens in this world is done by humans.\"",
+      "I'd accused Oyashiro-sama of demoning away Satoshi-kun.",
+      "But Oyashiro-sama is just a statue made of bronze or wood.",
+      "It's nothing but an icon.",
+      "...There are, however, human beings who would try to make that icon seem real.",
+      "The series of mysterious deaths in Hinamizawa is the result of human action...",
+      "It shouldn't be called 'Oyashiro-sama's curse.'",
+      "If Satoshi-kun was the fourth year's victim...",
+      "Then he was victimized by a human being who just was acting the part of a curse.",
+      "The person who demoned away Satoshi-kun must not be very far from me.",
+      "...The truth behind Satoshi-kun's disappearance was...... not so far from my grasp...",
+      "Thump.",
+      "I was startled by the sound. It sounded like somebody had dropped something. I looked over at Takano-san and Keiichi.",
+      "Takano-san was still lecturing him.",
+      "...Did she drop her scrapbook or something...?",
+      "Thump.",
+      "Thump.",
+      "Thump.",
+      "......The sound came from right behind me, not from them.",
+      "I'd never heard Satoshi-kun do that.",
+      "...It sounded like somebody was stomping on the floor in frustration.",
+      "Wh-What is it...?",
+      "Thump.",
+      "Thump.",
+      "Thump.",
+      "The sound continued, ignoring my question.",
+      "Though I heard it right nearby...... it sounded as though a child was hopping on a wooden floor somewhere distant."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………どうしたの……悟史くん………。",
+      "…何か、……怒ってるの……？」"
+    ],
+    "textEn": [
+      "\"......What's wrong, Satoshi-kun......?",
+      "Are you angry about something......?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんの表情がわからない。",
+      "私は怒っているように思って、怒っている？と聞いたのだが、……実際は、何の感情も表情も感じ取れなかった。",
+      "…悟史くんは、私が祭壇に指で触れたことを怒っているのだろうか……？",
+      "神聖な祭壇を触ったら、そりゃ怒るよね………？",
+      "ダン、",
+      "ダン、",
+      "ダン。",
+      "………別に、今日までだって悟史くんと意志の疎通が具体的にできてたわけじゃない。",
+      "居てくれるだけの悟史くんに、私が一方的に話しかけるだけ。",
+      "…私だって、悟史くんに何か反応を求めてたわけじゃない。",
+      "それでも、……この気味の悪い音には、何の意思の疎通も感じられなかった。",
+      "その時、……背中をぞわっとしたものが広がった。",
+      "…全身の毛穴が開いてくのが分かる。",
+      "私はずっとその音を、……悟史くんが地団駄を踏んでいる音だと思っていたけれど。",
+      "…………………ね、",
+      "…………あなた、",
+      "…………悟史くん、",
+      "………………………だよね……？",
+      "…そう問い掛けた時。",
+      "…音が止まった。",
+      "それは否定でも肯定でもなく、沈黙。",
+      "……悟史くんなら、こんな気味の悪い答え方はしない。",
+      "その地団駄が、……悟史くんじゃないと分かった時。",
+      "私は足元から冷たい電気が駆け上るのを感じ、弾かれるように後退った。",
+      "音はすぐ目の前の、そこでしていた。",
+      "……私が後退ったって、…ほんの数メートルと離れちゃいない。",
+      "悟史くんなら歩くとき、ぺたぺたとした足音を聞かせてくれることもある。",
+      "…………だけど、…悟史くんじゃないなら、…足音が聞こえる保証なんかない。",
+      "だから、……目に見えぬ存在が、ひょっとして私の目と鼻の先にもう迫っていて。",
+      "単に私が見えていないだけなんじゃないかって…！！",
+      "私はなりふり構わず走り出す。",
+      "最大限に耳を澄ましながら。",
+      "私を追ってくる足音がないかを聞きながら。",
+      "圭一にぶつかるようにしがみ付き、恐る恐る後を振り返る。",
+      "……薄暗がりの祭壇前は、何事もなかったように静まり返っていた。",
+      "だけどその、ぞっとするような暗さと静けさに、……私はついさっきまであんな所にいたのかと気付き、今さらのように怖くなった…。"
+    ],
+    "textEn": [
+      "I couldn't read his expressions.",
+      "I thought he was mad, but I didn't sense any emotion from him at all.",
+      "...Was he mad that I touched the altar...?",
+      "Maybe you weren't supposed to do that.",
+      "Thump.",
+      "Thump.",
+      "Thump.",
+      "...It's not that I'd been able to communicate with Satoshi-kun in a concrete way.",
+      "I just talked to him.",
+      "...I was never expecting him to react like that.",
+      "I didn't sense a willingness to communicate from this creepy sound.",
+      "Then a chill ran up my spine...",
+      "I felt as if all my pores were opening.",
+      "I'd been thinking that it was Satoshi-kun stomping on the floor.",
+      ".........Hey......",
+      "you.",
+      ".........You're Satoshi-kun.........",
+      "aren't you...?",
+      "...The sound stopped",
+      "when I asked that.",
+      "It wasn't a yes or a no. Just silence.",
+      "...Satoshi-kun wouldn't scare me like that.",
+      "I realized suddenly that the sound hadn't come from Satoshi-kun.",
+      "A cold shiver shot through my feet, and I sprung a step backward.",
+      "The sound had come from right there.",
+      "...Even though I'd jumped back, it was still just a few meters away.",
+      "Satoshi-kun would sometimes let me hear his footsteps when I walked.",
+      "...But ...if that wasn't Satoshi-kun, then... there was no guarantee I'd hear its footsteps.",
+      "So... that invisible being could already be right in front of my eyes...",
+      "...and I just wouldn't see it?!!",
+      "I forgot everything and ran.",
+      "Straining my ears as much as possible for any sound.",
+      "Listening for any footsteps pursuing me.",
+      "I ran right into Keiichi and clung to him, timidly turning back to look.",
+      "...The dimly lit area before the altar was quiet, like nothing was happening.",
+      "But seeing that chilling dark stillness... realizing I was just in that space, made me even more frightened now..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「どうしたよ、詩音。",
+      "…ひょっとして怖くなった？」"
+    ],
+    "textEn": [
+      "\"What's up, Shion...?",
+      "Did you get scared?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "圭一が小意地の悪そうな顔で笑いかける。",
+      "ついさっきまで自分も怖がっていたくせに、目の前の女の子が自分より怖がっていることに気付いて、ちょっと精神的優位に立ったような顔だった。"
+    ],
+    "textEn": [
+      "Keiichi made fun of me.",
+      "Even though he'd looked horrified just a little while ago, he now looked satisfied to see me scared too."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あはははは、お化け屋敷で女の子がしがみ付いてくるのはデフォじゃないですかー。",
+      "まんざらでもないくせに。",
+      "ほらほら、行きましょう。",
+      "鷹野さんに置いてかれます。」"
+    ],
+    "textEn": [
+      "\"Ahahahaha. I know girls tend to get freaked out by haunted houses.",
+      "Well, I don't mind it.",
+      "Anyway, let's go.",
+      "Before Takano-san leaves us behind.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "上辺は気丈を装ったが、体の芯の凍えまで隠せているかは不安だった。",
+      "足音は、…ずっと付いて来た。",
+      "このランタンの灯りの中には入れないのか、あるいはそれ以上は近づけないのか。",
+      "……でも、離れることはない。",
+      "…まるで祭具殿の４人目の見学者みたいに、……私たちに付いて来るのだった。",
+      "そして、……時折、自らの存在を知らせたいみたいに、地団駄を踏んだり、飛び跳ねるような音を立てる。",
+      "でも、鷹野さんや圭一は、",
+      "…………気付いていない。",
+      "鷹野さんほどの人なら、聞こえてて無視もできるかもしれない。",
+      "でも、圭一は違う。",
+      "こんなところで不審な音が聞こえたら、絶対に騒ぐはずだ。",
+      "ということは、………悟史くんと同じ…。",
+      "……私にしか聞こえていない……。",
+      "私にとって怖いことは何なのか。",
+      "悟史くんがなぜか不機嫌で、表情も変えずに怒っていることなのか。",
+      "悟史くんだと思っていた人が、………全然知らない、素性もわからない何者かかもしれないからか。",
+      "ダン、",
+      "ダン。",
+      "…悟史くん、……何を怒ってるの……？",
+      "何が悪いのか教えてよ、…謝るから…。",
+      "ダンダン、!",
+      "ダン！",
+      "……悟史くんじゃないなら、……悟史くんはどこへ行ったの…？",
+      "いつからお前は悟史くんじゃなくなってるの…？",
+      "ダン、",
+      "ダン、",
+      "ダン！！"
+    ],
+    "textEn": [
+      "I pretended to be fine, but I wasn't sure if I was able to hide my fear entirely.",
+      "The footsteps were chasing me...",
+      "They were outside the illumination of the lantern as if they couldn't go into the light.",
+      "...The presence never left us, however.",
+      "...It followed us like a fourth member of the party.",
+      "Sometimes it made a stomping sound as if wanting some recognition.",
+      "But neither Takano-san nor Keiichi...",
+      "seemed to notice it.",
+      "It was possible for Takano-san to be ignoring it.",
+      "But Keiichi would never ignore it.",
+      "If he could hear it, he would have said something.",
+      "So... just like with Satoshi-kun...",
+      "...Only I could hear it...",
+      "What was this thing that was making me so scared?",
+      "Was it Satoshi-kun in a bad mood?",
+      "Or was it possible that the presence I believed to be Satoshi-kun might not have been him at all?",
+      "Thump.",
+      "Thump.",
+      "...What are you upset about... Satoshi-kun...?",
+      "Tell me if I did something wrong... I'll apologize...",
+      "Thump thump!",
+      "Thump!",
+      "...If you aren't Satoshi-kun... then where did he go...?",
+      "When did you take his place...?",
+      "Thump.",
+      "Thump.",
+      "Thump!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………詩音、…大丈夫か？」"
+    ],
+    "textEn": [
+      "\"...Shion, are you all right?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「はい？",
+      "全然平気ですよ？",
+      "それより圭ちゃんこそ、顔面蒼白でかなりヤバげかと。」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "I'm fine.",
+      "You look pale, though.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「んなら、あんまり俺の服を引っ張り過ぎないでくれると嬉しいんだけどな…。」"
+    ],
+    "textEn": [
+      "\"Then I'd appreciate it if you didn't stretch my clothes too much...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あ、こりゃ失礼です……。」"
+    ],
+    "textEn": [
+      "\"Oh, sorry......\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あらあら。",
+      "私はお邪魔かしら？",
+      "くすくす…。」"
+    ],
+    "textEn": [
+      "\"Oh.",
+      "Am I interrupting you two?",
+      "Hee hee hee...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私は鷹野さんと圭一の会話に入り込むことで、後の音を無視することにする。",
+      "さっきほど頻繁に音が聞こえなくなり、…音も少し遠のいた気がした。",
+      "そうさ、気にしなければいい。",
+      "気にしなければ聞こえない。",
+      "…無視しろ、…無視。"
+    ],
+    "textEn": [
+      "I decided to engage in the conversation to help myself ignore the sound from behind.",
+      "I didn't hear the sound as much... and it became a bit more distant.",
+      "Yeah, I shouldn't pay attention to it.",
+      "It wouldn't bother me if I didn't hear it.",
+      "...I should just ignore the noise..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「で、鷹野さんはその風習が、実は現代にも残っているんじゃないかと思って、研究をしてるんです。",
+      "…そうでしたよね？」"
+    ],
+    "textEn": [
+      "\"Takano-san, you're researching whether those customs survived into the present.",
+      "...You are, right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ダン、",
+      "ダン。"
+    ],
+    "textEn": [
+      "Thump.",
+      "Thump."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「……これ、本当に内緒なんだからね？",
+      "詩音ちゃんは理解のある人だから話したけど、他の村人には聞かれたくないの。"
+    ],
+    "textEn": [
+      "\"...What I'm about to tell you is a secret, all right?",
+      "I told you, Shion-chan, because you're an understanding person, but the other villagers don't want to hear it."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "…下手をしたら罰当たり者ってことで、袋叩きにされかねないんだから。」"
+    ],
+    "textEn": [
+      "...If things go awry, I could be ganged up on and punished.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう言って、背徳感を面白がる魔性の笑みで笑って見せた。",
+      "ダン、",
+      "ダン。"
+    ],
+    "textEn": [
+      "She smiled at me like a witch.",
+      "Thump.",
+      "Thump."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「前原くんも内緒にしてね？",
+      "知られたら私、オヤシロさまの祟りにあうか、生贄にされちゃうかするかもしれない。"
+    ],
+    "textEn": [
+      "\"Maebara-kun, you keep it a secret too, okay?",
+      "If this gets out, I could suffer Oyashiro-sama's curse, or be made into a sacrifice."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "祟りなら、今年はどんな死に方をさせられちゃうのかしら。"
+    ],
+    "textEn": [
+      "If it's the curse, then I wonder what kind of death it'll be this year?"
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "生贄なら…鬼ヶ淵の沼に生きたまま沈められちゃうのかしら？",
+      "……そう言えば今夜よね。",
+      "オヤシロさまの祟りがある夜は。」"
+    ],
+    "textEn": [
+      "If it's the sacrifice... then will I be thrown into the Onigafuchi Swamp while still alive?",
+      "...And it is tonight, you know.",
+      "The night of Oyashiro-sama's curse.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………そう。",
+      "…もしも５年目にも起こるなら、それは今夜起こる。",
+      "ダン、",
+      "ダン、",
+      "ダン！",
+      "鷹野さんはペーパーバッグから、かなり使い込まれたスクラップ帳を取り出すと、バラバラとページをめくり始める…。",
+      "開かれたページは、………あぁ、あれだ。",
+      "明治の頃にあったらしい、綿流しの犠牲者の惨殺死体が見つかったという記事。"
+    ],
+    "textEn": [
+      "...It certainly is....",
+      "If the curse strikes for a fifth time, it'll happen tonight.",
+      "Thump.",
+      "Thump.",
+      "Thump!",
+      "Takano-san pulled out an old scrapbook from her paper bag, and started turning the pages.",
+      "She opened it to the page with that one article.",
+      "It was the article about the brutal murder of a Watanagashi victim. It happened in the Meiji Era."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「これは実際にあったお話よ。",
+      "明治の終わり頃にね。",
+      "…鬼ヶ淵村で身元不明の惨殺死体が発見されたんですって。」"
+    ],
+    "textEn": [
+      "\"This is a story that actually happened.",
+      "It was around the end of the Meiji Era.",
+      "...They discovered an unknown, mangled corpse, the victim of a murder, in Onigafuchi Village.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ダン、",
+      "ダンダンダンダン！！"
+    ],
+    "textEn": [
+      "Thump.",
+      "Thump-thump-thump-thump!!"
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「…カクモ無惨且ツ残虐非道ヲ………。」"
+    ],
+    "textEn": [
+      "\"...Never before has there been a corpse treated with such cruelty and inhumanity...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ダンダンダン！",
+      "……ねぇあんたたち。",
+      "…本当にこれが聞こえてないの…？",
+      "これだけドタンバタンと音を立ててるのに、……本当に聞こえてないの？",
+      "あぁ…くそ……うるさいよ……さっきからドタンバタン…。",
+      "その時、ギィイィイィという怪音！！！",
+      "はっとして全員が振り返った。",
+      "…扉が細く開き、富竹さんが顔をのぞかせていた。"
+    ],
+    "textEn": [
+      "Thump-thump-thump!",
+      "......Hey,",
+      "you guys seriously don't hear that...?",
+      "It's freaking loud...... How can you not hear it?",
+      "Ah... hell... it's freaking noisy... Cut it out already...",
+      "And the next moment, we all heard a squeaking noise!",
+      "We turned around in surprise.",
+      "It was just Tomitake-san opening the door..."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「あっはっはっは。",
+      "驚かせちゃったかな？」"
+    ],
+    "textEn": [
+      "\"Aha ha ha ha.",
+      "Did I startle you?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あら、ジロウさんも見たくて我慢できなくなったかしら？",
+      "……ここ、素敵な拷問道具の宝庫よ。」"
+    ],
+    "textEn": [
+      "\"Oh, Jirou-san, could you not resist seeing inside?",
+      "...This is a splendid treasure trove of torture devices.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「僕は遠慮させてもらうよ。",
+      "…あははは…、",
+      "生来ね、こういうのは苦手なんだ。」"
+    ],
+    "textEn": [
+      "\"I'll pass on that.",
+      "Ahahaha...",
+      "I'm bad with this sort of thing by nature.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "男のクセに、とでも言いたいのだろうか、鷹野さんは押し殺した声で、お腹を抱えながら笑った。"
+    ],
+    "textEn": [
+      "Takano-san laughed as if making fun of Tomitake-san for being such a scaredy-cat."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「それより。",
+      "演舞とセレモニーが終わって、みんな沢の方に下りて行ったよ。",
+      "あと何分もしない内にお祭りは終わっちゃう。」"
+    ],
+    "textEn": [
+      "\"In any case.",
+      "The dance and ceremony are over, and everyone's going down to the river.",
+      "The festival as a whole will be over within minutes.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "時間切れだ。",
+      "………私はこの悪い夢の中のような世界から、富竹さんによって救い出されるとは夢にも思わず、その飄々とした笑顔に感謝すらした。"
+    ],
+    "textEn": [
+      "Time was up.",
+      "...I'd never expected that Tomitake-san would save me from this nightmare. His face suddenly looked heroic."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「ん？",
+      "圭一くんも出るかい？」"
+    ],
+    "textEn": [
+      "\"Oh?",
+      "Keiichi-kun, are you leaving too?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……もう充分に見ましたので。",
+      "…詩音、もういいだろ？",
+      "出ようぜ。",
+      "…きれいな空気が吸いたいよ。」"
+    ],
+    "textEn": [
+      "\"...I've seen enough.",
+      "...Shion, you're good too, right?",
+      "Let's get out of here.",
+      "...I want some fresh air.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「同感です。",
+      "出ましょう。」"
+    ],
+    "textEn": [
+      "\"I agree.",
+      "Let's leave.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "前室に出て、後ろを振り返る。",
+      "もう時間切れだと言うのに、鷹野さんが未練がましく、カメラで大慌てで色々と撮影しているのが見えた。",
+      "…………もう、あの音は聞こえない。",
+      "そしてあの気配もついて来ない。",
+      "…悟史くんの気配もついて来ない。",
+      "…でも、寂しいとは思わなかった。",
+      "だって、……今、悟史くんが来てくれたとしても。",
+      "…………本当に悟史くんなのか、………それ以外の何者なのか、……見分けなんかつかなかったに違いないから…………。"
+    ],
+    "textEn": [
+      "I went into the entry room and turned around.",
+      "Takano-san was taking photos in a mad rush, though our time was up.",
+      "...I didn't hear that sound anymore.",
+      "I didn't feel that presence.",
+      "...I didn't feel Satoshi-kun either...",
+      "but somehow I wasn't too sad about that.",
+      "Even if he followed me out here...",
+      "......I wouldn't be able to tell if it was really him... or somebody else......"
+    ]
+  }
+]

@@ -1,0 +1,1552 @@
+[
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "それで綿流しの晩にはもう失踪していたらしいんだよ…。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "She's been missing since the night of Watanagashi...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……オヤシロさまの祟り、かなぁ…。」"
+    ],
+    "textEn": [
+      "\"Could it be the curse of Oyashiro-sama...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「さすがに５年も連続すると薄気味悪いよなぁ。」"
+    ],
+    "textEn": [
+      "\"It's freaky that this has happened five years in row now...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "さすが雛見沢。",
+      "噂が駆け巡るのは早い。",
+      "いや、園崎家の魅音だ。",
+      "警察が伏せていても、昨日にはもう知っていただろう。",
+      "仲間たちはみな、富竹の異常な死に方についてと鷹野の失踪を囁き合っていた。",
+      "こういうのを聞いていると、本当に雛見沢は迷信深い土地だなと思う。",
+      "綿流しの夜に何があってもオヤシロさまの祟りという魔法の言葉で全部ひとまとめにしてしまうのだ。",
+      "私にとっては過去の事件などどうでもいい。",
+      "今回の事件がどうなのかが問題なのだ。",
+      "……そして、その犯人はおそらく私を殺す犯人でもある。",
+      "すでに綿流しから二日が経過した。",
+      "今日は昭和５８年６月２１日、火曜日。",
+      "もっとも最短で、",
+      "…確か２２日の夜には殺される。",
+      "つまり明日の晩だ。",
+      "私の殺される日にちは、かなりブレが大きい。",
+      "…必ず殺すのに、その決行の日は面白いくらいに不安定だった。",
+      "殺す側には殺す側の都合があるのだろうと納得するしかない。",
+      "とにかくひとつ言えることは。",
+      "私が数多の世界でも確実に生きていられるのは明日の日中までで。",
+      "明日の夜からは毎夜、いつ自分が殺されるのかと怯えながら暮らさなければならない。",
+      "………怯えたところで無意味だ。",
+      "…気付けばまた他の世界で目を覚ます。",
+      "どう殺されたかなどの記憶は乱雑に破かれていて残っていない。",
+      "だから、私は死そのものは大して恐れていない。",
+      "……自分の人生が壊れたレコードのように、同じ場所で毎回巻き戻ってしまうことを不愉快に思っているだけだ…。"
+    ],
+    "textEn": [
+      "Hinamizawa is a small village.",
+      "Rumors spread fast here.",
+      "Besides, she's Mion Sonozaki.",
+      "She would've found out about this yesterday even if the police were trying to hide it.",
+      "My friends were all talking about the mysterious death of Tomitake and the disappearance of Takano.",
+      "People in this village are very superstitious.",
+      "No matter what happens, they conclude that everything is the curse of Oyashiro-sama.",
+      "The past incidents don't matter to me either way.",
+      "All I'm interested in is the current one.",
+      "...The culprit of this case will probably kill me, too.",
+      "Two days have passed since Watanagashi.",
+      "Today is Tuesday, June 21st, 1983.",
+      "At the earliest,",
+      "I'll get killed on the night of the 22nd.",
+      "That is, tomorrow night.",
+      "The day of my death is always different.",
+      "I always end up getting killed, but the day when it happens varies.",
+      "I guess the culprit has their own reasons for that.",
+      "There's only one thing I'm sure about.",
+      "Based on my experiences, I'll live for sure until tomorrow night.",
+      "After then, I'll have to live with the fear of getting murdered at any moment.",
+      "...Still, there's no real reason to be afraid.",
+      "...When I wake up, I'll be in a brand new world again.",
+      "I can never remember how I'm killed.",
+      "That's why I'm not that afraid of the killing itself.",
+      "...I'm just frustrated that my life is about repeating the same things over and over like a broken record..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "でも、",
+      "…悔しい。",
+      "クラスメートたちは誰もが今日と同じ平凡な明日が訪れることを疑わない。",
+      "でも、私だけが違う。",
+      "それが悔しくて悲しくて、",
+      "………やっぱり死は嫌だった。"
+    ],
+    "textEn": [
+      "However,",
+      "at present, I'm frustrated.",
+      "My classmates just expect that their peaceful days will continue forever.",
+      "But I couldn't feel that way.",
+      "I feel frustrated and full of sorrow......",
+      "as I really don't want to die."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……………明日の夜ですが、…梨花は悔いがありませんですか…？」"
+    ],
+    "textEn": [
+      "\".........It's tomorrow night... Are you ready, Rika...?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……馬鹿……。",
+      "………ない訳ないでしょう…。」"
+    ],
+    "textEn": [
+      "\"...How foolish of you to even ask...",
+      "......What makes it look like I am...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "羽入は多分、最短で明日の夜には殺されると言っているのだろう。",
+      "…だが、今の私には羽入がまるで、明日が私の命日だと知っているように感じられた。"
+    ],
+    "textEn": [
+      "Hanyuu was trying to warn me that I might get killed tomorrow night.",
+      "As though she already knew it was going to happen for sure."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「………梨花はとてもよくがんばりました。",
+      "そして今年の綿流しは、僕が生きてきた中でも一番の楽しいお祭りでした。",
+      "……それは、梨花もだったのではないですか？」"
+    ],
+    "textEn": [
+      "\"......You worked very hard, Rika.",
+      "This life's Watanagashi was the best festival I've ever had.",
+      "...Didn't you feel that way too?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "楽しかった。",
+      "本当に楽しかった。",
+      "沙都子の顔は絆創膏だらけだったけど、みんなが揃って心の底から騒ぎ合って。",
+      "そんな世界だからこそ、この世界がいつまでもずっと続いて欲しい。",
+      "それが最短で明日には。",
+      "長くても１〜２週間の内に終わってしまうなんて許せなかった…。"
+    ],
+    "textEn": [
+      "It was fun.",
+      "It really was fun.",
+      "Satoko had band-aids all over her face, but everyone was there together, and we kicked up a storm.",
+      "I want this world to continue forever...",
+      "I can't accept that",
+      "this world is going to end tomorrow at the earliest, and within one or two weeks at the latest."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……また、次の世界でもきっと楽しくできますのですよ。」"
+    ],
+    "textEn": [
+      "\"...I'm sure your next life will be just as fun.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………この世界はもう終わりなの…？",
+      "こんなにも楽しい世界なのに、…もう、…終わりなの……？」"
+    ],
+    "textEn": [
+      "\"............So this world is over and done with...?",
+      "This is such a happy world... but... it's just going to end like that...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "仲間同士がみんな仲良し。",
+      "圭一が変な疎外感を持つこともないし、",
+      "レナの家庭だって順風満帆。",
+      "魅音の姉妹仲は良好だし、",
+      "詩音と沙都子も考えられないくらいに仲良しになった。",
+      "……そして叔父の問題も今や解決し、沙都子を冷遇する村の気質すらも打ち破った。",
+      "これ以上ない最高の世界だった。",
+      "その世界が、",
+      "…",
+      "…",
+      "やっぱり終わる。"
+    ],
+    "textEn": [
+      "All of my friends are alive and happy.",
+      "Keiichi doesn't feel alone,",
+      "and Rena's family is happy too.",
+      "Mion and Shion are getting along,",
+      "as well as Shion and Satoko.",
+      "The issue of Satoko's uncle is resolved, and she's no longer treated coldly by the other villagers.",
+      "This is the best world I've ever experienced.",
+      "But this world is",
+      "...",
+      "...",
+      "going to end."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……梨花。",
+      "僕たちは特別な存在なのに、梨花は自分のことを普通の人間として考え過ぎなのです。",
+      "……楽しいパーティがいつまでも続けばいいのにと子どもの誰もが願う。",
+      "でも、いつかパーティはお開きになりますのです。"
+    ],
+    "textEn": [
+      "\"...Rika.",
+      "You think of yourself as a normal person too often, when we're both special beings.",
+      "...Every child wants their birthday party to continue forever.",
+      "But the party always ends."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "だから子どもたちは楽しい瞬間を、どうか永遠に続いて欲しいと願うのです。",
+      "でも、だからといって、終わったパーティを嘆くことはない。",
+      "眠ればまた明日の朝になる。"
+    ],
+    "textEn": [
+      "That's why children always wish for their enjoyable moments to continue for all time.",
+      "But that doesn't mean they'll grieve over a party that's ended.",
+      "Once they sleep, another day will come for them."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "そしてまた色々と楽しいことが起こるのです。",
+      "パーティが終われば消えてしまうシンデレラなんか、いない。」"
+    ],
+    "textEn": [
+      "Something wonderful will happen again.",
+      "No one disappears like Cinderella once the party is over.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………私の生への固執を、そんな風に例えられるなんて知らなかったわ。」"
+    ],
+    "textEn": [
+      "\"......What a way for you to describe my view on life.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……今の梨花は、パーティから帰りたくないと泣いて椅子にしがみ付く子どもと同じなのです。",
+      "……どうして泣いたり悲しんだりする必要が？",
+      "またパーティはやってきます。"
+    ],
+    "textEn": [
+      "\"You're like a child who's crying because she doesn't want to leave the party.",
+      "...But there's no need to feel that sad, is there?",
+      "There'll be another party again soon."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "梨花は死を越すことを未だに忌み嫌っているけれど、僕たちにとっては一眠りの跨ぎだというのに。」"
+    ],
+    "textEn": [
+      "You still hate to go through another death, but it's only like sleeping for a while, isn't it?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「羽入は、………昭和５８年の６月より先に何があるのか、見たくないの？」"
+    ],
+    "textEn": [
+      "\"Hanyuu...... don't you want to see what lies beyond June of 1983?\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……見たくないと言えば嘘になりますです。",
+      "でも、",
+      "それに固執して裏切られ、傷ついてゆく梨花の方が心配なのです。",
+      "…………梨花にはわかってない。"
+    ],
+    "textEn": [
+      "\"I would be lying if I said I didn't.",
+      "But",
+      "I'm more concerned about you being consumed by that thought and getting hurt because of it.",
+      ".........You just don't understand."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "気の遠くなるほどの長い時間を誰とも会話をすることができず、楽しい祭りもじっと眺めているだけ。",
+      "子どもたちの遊ぶ輪を横で眺めていることしかできない悲しさなんてわからない。",
+      "誰にも私の姿が見えない。"
+    ],
+    "textEn": [
+      "Without you, I'd have to live for such a long time without anyone to talk to,",
+      "and I'll only be able to stare at the festival without being part of it.",
+      "No one will be able to see me."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "誰にも私の声が届かないし、誰も私に話し掛けてはくれない。",
+      "そんな辛さや悲しさが梨花に想像つきますのですか。"
+    ],
+    "textEn": [
+      "No one will be able to hear me or talk to me either.",
+      "Do you have any idea how miserable and lonely that will be?"
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "……その中でやっと出会えた梨花なのです。",
+      "……僕は梨花がいなかったら生きていけない。",
+      "でも、梨花のように死ねもしないのです。",
+      "僕は時の果てまでひとりぼっちで生きていかなくてはならない。"
+    ],
+    "textEn": [
+      "...But I finally found you, Rika.",
+      "...I can't survive without you anymore.",
+      "But I can't just die like you can, either.",
+      "I'll have to live alone until the end of time."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "新しいあなたが現れるまで、ずっと膝を抱いてひとりで過ごしていかなくてはならない。",
+      "……僕は、そんなのは嫌なのです。",
+      "絶対に、",
+      "……嫌なのです……！」"
+    ],
+    "textEn": [
+      "I'll have to be alone until someone like you shows up again.",
+      "...I don't want that.",
+      "I...",
+      "I can't stand the thought of it...!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……羽入………。」"
+    ],
+    "textEn": [
+      "\"...Hanyuu......\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「だから梨花…、あの悲しい約束を取り消してほしいのです…！",
+      "この世界でも運命に打ち勝てなかったら、もう全てを諦めるというあの約束を取り消してほしいのです…！！」"
+    ],
+    "textEn": [
+      "\"Rika... Please take back that heartbreaking promise you made...!",
+      "I don't want you to give up if this world doesn't work out for you...!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………………羽入。",
+      "……ごめん、",
+      "もう少しだけその返事を待たせて。」"
+    ],
+    "textEn": [
+      "\"...............Hanyuu.",
+      "...I'm sorry.",
+      "I'll have to think about it for a while.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "せめて、最後まで足掻いてみたかった。",
+      "その最期の瞬間に決めればいい。",
+      "…希望がまだあると思ったなら続ければいいし、",
+      "抗えないと失望したならそれで幕を閉じればいい。",
+      "…羽入の言うように全てを諦め、傍観者として昭和５８年の６月を好きなだけ過ごすのもいいだろう。",
+      "……その覚悟さえあれば、いつか再び強い運気の追い風を受けることもあるかもしれない。",
+      "羽入はそれを聞き、少なくとも私の気持ちが羽入の望む方に変わりつつあるように感じたらしく、少しだけ満足そうに頷いてくれた。"
+    ],
+    "textEn": [
+      "I want to do what I can until the end.",
+      "When that happens, I can decide what to do.",
+      "If I think there's still some hope, I can go on living,",
+      "but if I feel desperate enough, I can just give up.",
+      "It might not ultimately be a bad thing to repeat June of 1983 over and over.",
+      "Perhaps I might be blessed with another fortunate life someday.",
+      "Hanyuu nodded with a little satisfaction after hearing that, sensing that my feelings were starting to lean the way she wanted them."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…どうしたよ、レナ。",
+      "梨花ちゃんをお持ち帰りする算段でもしてるのかー？」"
+    ],
+    "textEn": [
+      "\"...What's up, Rena?",
+      "Are you plotting to take Rika-chan home with you?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ねぇ圭一くん。",
+      "……梨花ちゃんに元気がないとは思わないかな。」"
+    ],
+    "textEn": [
+      "\"Hey, Keiichi-kun...",
+      "...Don't you think that Rika-chan seems to be feeling down?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………どうだろうな。",
+      "奉納演舞の疲れが抜けないんじゃないのか？」"
+    ],
+    "textEn": [
+      "\".........I don't know.",
+      "She might still be tired from doing the dedication dance at the festival.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんは憂鬱そうな表情を浮かべながら、なぜかひとりぼっちだった。",
+      "まだ疲れが抜けないんじゃないか、なんて適当なことを言ったが、梨花ちゃんの様子は疲労とはどこか違った…。"
+    ],
+    "textEn": [
+      "Rika-chan was sitting all by herself, wearing a sad expression.",
+      "I'd said she might still be tired from the festival, but that wasn't really how it looked..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「沙都子ちゃんが解放されて、躍り上がってもいいくらいなのに。",
+      "……何だか昨日から梨花ちゃんの様子がおかしいように思うの。",
+      "…悩み事でもあるんじゃないかな。」"
+    ],
+    "textEn": [
+      "\"Satoko-chan is free now, so I thought she'd have a spring in her step,",
+      "but she's been acting weird since yesterday.",
+      "I wonder if something's going on....\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…鉄平の件は完全に決着したはずだろ。",
+      "梨花ちゃんが悩むような問題は何もないはずだぜ？」"
+    ],
+    "textEn": [
+      "\"...Satoko's issues are all settled now.",
+      "There shouldn't be anything that's troubling her anymore...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "一時期、沙都子に新しい親権者や後見人が決まれば、沙都子は梨花ちゃんと一緒には住めなくなるのではないかという憶測が流れた。",
+      "でも、その問題は解決しそうなのだ。",
+      "園崎家か公由家のどちらかが後見人になることで調整中だという。",
+      "梨花ちゃんも実際は公由村長が後見人ということになっている。",
+      "もし園崎家が後見人になれば、晴れて妹だと詩音は躍り上がっていたっけ。",
+      "だからこそ、言われれば言われるほどに、梨花ちゃんの悩んでいる様子は理由がわからなかった。"
+    ],
+    "textEn": [
+      "We'd thought Satoko and Rika-chan might not be able to live together if they found a new guardian for Satoko.",
+      "But that problem is almost solved.",
+      "Either the Sonozaki family or the Kimiyoshi family will become her guardian.",
+      "Mayor Kimiyoshi is already Rika's guardian.",
+      "If the Sonozaki family gets custody, Satoko will officially become Shion's little sister.",
+      "Anyway, I had no idea why Rika-chan was acting so upset."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「こういう時は、声を掛けてみるのが一番じゃねぇのか？」"
+    ],
+    "textEn": [
+      "\"I think we should ask her what's going on.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……うーん。",
+      "それがかえってデリカシーがない時もあるし。"
+    ],
+    "textEn": [
+      "\"...Hmm.",
+      "But I don't want her to think that we're insensitive..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "…でも、圭一くんなら大丈夫だと思うかな、かな。」"
+    ],
+    "textEn": [
+      "But I guess you can ask her, I guess.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それはつまり、俺にデリカシーがないって言う意味だな…。」"
+    ],
+    "textEn": [
+      "\"So you're saying that it's okay for me to be insensitive...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが、あはは、ごめんと言って舌を出す。",
+      "俺は難しく考えず、梨花ちゃんに声を掛けてみた。",
+      "…俺たちが知らないだけで、沙都子を巡る何かのトラブルがまだ続いているのかもしれない。",
+      "だとしたら、それは他人事ではないからだ。"
+    ],
+    "textEn": [
+      "Rena laughed and stuck her tongue out at me.",
+      "I walked up to Rika-chan and struck up a conversation.",
+      "Perhaps something is still troubling Satoko, and we just don't know about it.",
+      "If that's the case, we need to help her."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「元気なさそうだな。",
+      "……何か悩んでるのか？」"
+    ],
+    "textEn": [
+      "\"You don't look so good...",
+      "...Is anything weird going on?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………………",
+      "ぁ、…圭一。」"
+    ],
+    "textEn": [
+      "\"............",
+      "Oh, Keiichi......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんは自分の世界にいたらしく、俺が話しかけたことに気付くのに少し時間が掛かったようだった。"
+    ],
+    "textEn": [
+      "Rika-chan had been daydreaming, and it took her a while to realize that I was talking to her."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクが悩んでるように見えましたですか？」"
+    ],
+    "textEn": [
+      "\"...Do I look upset, or something?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「まぁな。",
+      "……どうしたんだよ、何かあったのか？」"
+    ],
+    "textEn": [
+      "\"Kind of.",
+      "...Is anything the matter?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんは、イエスかノーで答えればいいだけの問いに、ずいぶん長い時間を掛けた。",
+      "…それは考えようによっては明白なイエスだった。"
+    ],
+    "textEn": [
+      "It took her a while to answer.",
+      "...Such a long silence had to mean \"yes\"."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………………圭一。",
+      "…聞いてもらいたい詩がありますです。",
+      "誰が作った詩かは聞かないでくださいです。",
+      "そして、聞いたら感想を聞かせて欲しいです。」"
+    ],
+    "textEn": [
+      "\"............Keiichi.",
+      "There's a poem that I want you to listen to.",
+      "Don't ask me who wrote it.",
+      "I just want to know what you think.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…いいぜ。どんなのだよ。」"
+    ],
+    "textEn": [
+      "\"...All right. Let me hear it, then.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんは思い出すように目を閉じた後、短い詩を詠った。",
+      "それはこんな詩だった。",
+      "誰だって幸せに過ごす権利がある。",
+      "難しいのはその享受。",
+      "誰だって幸せに過ごす権利がある。",
+      "難しいのはその履行。",
+      "私にだって幸せに過ごす権利がある。",
+      "難しいのはその妥協。"
+    ],
+    "textEn": [
+      "Rika-chan closed her eyes and recited a short poem.",
+      "It went something like this...",
+      "Everyone has the right to be happy.",
+      "Yet it's so hard to receive.",
+      "Everyone has the right to be happy.",
+      "Yet it's so hard to fulfill.",
+      "I have the right to be happy.",
+      "Yet it's so hard to compromise."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「結構、難しい詩だな。",
+      "それは梨花ちゃんが作ったのか？",
+      "って、聞くのはなしなんだったな。」"
+    ],
+    "textEn": [
+      "\"That's a pretty interesting poem.",
+      "Did you write it?",
+      "Oh... I'm not supposed to ask that, huh?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……なしです。",
+      "…圭一はこの詩を聞いてどんな感想を持ちましたですか…？」"
+    ],
+    "textEn": [
+      "\"......No, you're not.",
+      "What did you think after hearing it?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "“誰だって幸せに過ごす権利がある。",
+      "難しいのはその享受”",
+      "これはわかる。",
+      "幸せに過ごす権利は誰にだってある。",
+      "でも、だからといって、誰でも享受できるわけではない。",
+      "“誰だって幸せに過ごす権利がある。",
+      "難しいのはその履行”",
+      "…これは、ちょっと判りにくいが、権利の履行とは多分、幸せになるためのプロセスのことだろう。",
+      "誰だって幸せになるために努力する権利がある。",
+      "でもそれを実らせるのは容易じゃない。",
+      "“私にだって幸せに過ごす権利がある。",
+      "難しいのはその妥協”",
+      "単純に組み合わせると、幸せの妥協と読み取れた。",
+      "幸せだって上を見ればキリがない。",
+      "求めだしたらキリがない。",
+      "だから適当なところで幸せを妥協しなくてはならない…。",
+      "……そういう意味だろうと思った。",
+      "上を見たらキリがない、今を満足しようと言えばポジティブな印象も受ける。",
+      "……でも、幸せを妥協するという言い方には、何だか拭いようのない諦めが感じられた。"
+    ],
+    "textEn": [
+      "\"Everyone has the right to be happy.",
+      "Yet it's so hard to receive.\"",
+      "I understand that.",
+      "Everyone does have the right to be happy.",
+      "But that doesn't mean that everyone can receive that happiness.",
+      "\"Everyone has the right to be happy.",
+      "Yet it's so hard to fulfill.\"",
+      "...This one is a little harder to understand, but exercising that right probably refers to the process of finding happiness.",
+      "Everyone has the right to work hard for their happiness.",
+      "But it's not that easy for that work to bear fruit.",
+      "\"I have the right to be happy.",
+      "Yet it's so hard to compromise.\"",
+      "I guess she's trying to talk about compromising your happiness?",
+      "There's no limit to human desires.",
+      "You can never stop wanting more.",
+      "That's why people need to make compromises on their happiness...",
+      "...At least, that's how I understand it.",
+      "If she was trying to say that we should be satisfied with what we have, it sounds like a positive statement...",
+      "But there's also a negative tone to the way it's presented."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…この詩は多分、詩を作った人の心情を表してるものだと思う。」"
+    ],
+    "textEn": [
+      "\"...I think this poem is reflecting the feelings of the writer.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクもそうだと思いますです。",
+      "…それで、感想はいかがですか。」"
+    ],
+    "textEn": [
+      "\"...I think so too.",
+      "So what else did you think...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんは認めようとしなかったが、",
+      "この詩は多分、間違いなく梨花ちゃんの作で梨花ちゃんの今の心境を語っているものに違いなかった。",
+      "……いくら俺が天性の鈍感でもそれくらいわかる。"
+    ],
+    "textEn": [
+      "She wouldn't admit it,",
+      "but I'm sure Rika-chan is the one who made that poem, and it's reflecting on how she's feeling.",
+      "I'm not that smart, but even I can understand that."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「悲しい歌だなって思った。」"
+    ],
+    "textEn": [
+      "\"I thought it was a sad poem.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………悲しい、ですか。」"
+    ],
+    "textEn": [
+      "\"Sad...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「最初の２つはわかる。",
+      "幸せに過ごす権利は誰にだってあるが、だからといって誰でも簡単に幸せになれるわけじゃないもんな。",
+      "そういう厳しさを詠ったものだと思う。"
+    ],
+    "textEn": [
+      "\"I understand the first two lines.",
+      "Everyone has a right to be happy, but not everyone can become happy that easily.",
+      "I think those lines are describing the difficult parts of our lives."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "でも、最後の１つは毛色が違う。",
+      "……妥協ってのは諦めるって意味だ。"
+    ],
+    "textEn": [
+      "But the last line is different.",
+      "Making compromises is the same thing as giving up..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "この詩の“私”は、幸せになることを諦めて、今を妥協して幸せだと思いこもうとしてるんだ。」"
+    ],
+    "textEn": [
+      "The writer of this poem has given up on their happiness, compromised with reality, and trying to convince themselves they're happy.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……幸せだと思いこもうとしている、…ですか。」"
+    ],
+    "textEn": [
+      "\"...Trying to convince themselves they're happy, you say?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それも未練いっぱいにな。",
+      "誰だって努力さえすればきっと幸せになれるのに、自分だけはそれが絶対届かないとわかっている。",
+      "そんな諦めが漂う、悲しい歌だ。」"
+    ],
+    "textEn": [
+      "\"With plenty of regrets, too.",
+      "Everyone can become happy with enough effort, but she thinks that she can't.",
+      "The poem reflects her hopelessness. It's very sad.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「なら圭一。",
+      "……この詩の“私”は、どうすればいいんでしょうか…。」"
+    ],
+    "textEn": [
+      "\"Then, Keiichi.",
+      "...What do you think she should do...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「挫けるな、ってことだな。」"
+    ],
+    "textEn": [
+      "\"She shouldn't give up.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……挫けるな、ですか。」"
+    ],
+    "textEn": [
+      "\"...She shouldn't give up?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「この詩を詠ったヤツは、自分がどういう風になれれば幸せなのか、悩んだ末にしっかり見つけてる。",
+      "それは決して高望みしたものではないと思う。",
+      "どうやったら幸せになれるかを延々、３段も考察してるヤツなんだぜ。真剣に考えてるんだ。」"
+    ],
+    "textEn": [
+      "\"The writer of this poem already knows how she can be happy.",
+      "It's something that she deserves.",
+      "She's been thinking about how to become happy for a long time.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………………。」"
+    ],
+    "textEn": [
+      "\".........\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「だから、ここまで幸せになりたいと一途に思ってるなら、絶対に諦めちゃ駄目だと思うぜ、梨花ちゃん。",
+      "俺たちは絶望的な状況をほんの数日で引っくり返したんだぜ？",
+      "みんなで力を合わせれば、きっと奇跡が起こせる。"
+    ],
+    "textEn": [
+      "\"If she really wants to be happy, she shouldn't give up.",
+      "Remember, we overcame a desperate situation in only a few days.",
+      "If we all work together, we can make a miracle happen."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "梨花ちゃんだってそれを目の当たりにしたはずだぜ？",
+      "あるんだろ、悩み。",
+      "打ち明けてくれよ。」"
+    ],
+    "textEn": [
+      "You saw it with your own eyes, didn't you?",
+      "What's troubling you?",
+      "Talk to me.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………打ち明けたいことはあります。",
+      "…でも、打ち明ければみんなはもう雛見沢でのんびりと暮らすことはできなくなるでしょう。"
+    ],
+    "textEn": [
+      "\".........There's something I want to talk to all of you about.",
+      "...But if I do that, you won't be able to live in this village anymore."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "……私にとっての幸せは、みんなと楽しく昭和５８年６月以降も過ごすこと。",
+      "だからこそ、６月を潜り抜けるためだけにみんなを巻き込んでも、それは私にとっての幸せではない。」"
+    ],
+    "textEn": [
+      "Happiness for me would be to see what's beyond June of 1983, together with all of you.",
+      "It wouldn't mean anything if I lived beyond this June without you.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「雛見沢にのんびり暮らせなくなる…？",
+      "どうしてだよ。」"
+    ],
+    "textEn": [
+      "\"We won't be able to live in Hinamizawa anymore...?",
+      "Why is that?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………打ち明けたことを知られたら、ヤツらは必ずみんなを殺す。",
+      "だから、助けを求められない。」"
+    ],
+    "textEn": [
+      "\"......They'll kill you if they find out that I talked to you.",
+      "That's why I can't say anything.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「殺すって、……穏便な話じゃないな。",
+      "…まさか梨花ちゃん、誰かに脅迫されてるのか…？！」"
+    ],
+    "textEn": [
+      "\"What do you mean... they'll kill us...?",
+      "...Are you being threatened by someone...?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "殺すという言葉は、スラングだったとしてもそんなにひょいひょい出てきていい言葉ではない。",
+      "増してや、それが梨花ちゃんの口から出ればなおさらだ。",
+      "俺は仰天し、一瞬、声を大きくしてしまった。"
+    ],
+    "textEn": [
+      "The word \"kill\" is not something that most people use casually.",
+      "I was shocked to hear it coming from her mouth.",
+      "That's why I couldn't help but raise my voice."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………誰が敵かもわからない状態です。",
+      "ひとつわかるのは、誰かが私を必ず殺すということだけです。」"
+    ],
+    "textEn": [
+      "\"I don't know who's the enemy and who's not.",
+      "The only thing I know for sure is that someone is going to kill me.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ご、ごめん梨花ちゃん。",
+      "話してくれ。",
+      "一体、何があったんだ…！？」"
+    ],
+    "textEn": [
+      "\"W-Wait, Rika-chan...",
+      "Talk to me.",
+      "What the hell is going on...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "まさか、鉄平に脅されているのか？",
+      "いや、そんなはずはない。",
+      "警察はきっちりと逮捕してくれてるし、園崎家が二度と雛見沢に近付くなときっちり脅してくれてるはずだ。",
+      "こんな状況で梨花ちゃんを脅すなんてやったら、今度こそ園崎家に簀巻きにされるだろう。",
+      "……それに梨花ちゃんだって、その程度の脅迫なら魅音に相談すれば解決できるとわかるはず。",
+      "…だが、梨花ちゃんの深刻そうな顔を見る限り、そんなレベルではないようだった。"
+    ],
+    "textEn": [
+      "Is Teppei threatening her?",
+      "No, that isn't possible.",
+      "The police arrested him, and besides that the Sonozaki family told him to never come back to the village.",
+      "There's no way he could contact Rika-chan in order to threaten her.",
+      "And even if that somehow was the case, Rika-chan could just talk to Mion and everything would be taken care of.",
+      "But based on her expression, it seems like this is way deeper than that."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ごめんなさいです。",
+      "これ以上を言えば、きっと巻き込みますです。",
+      "圭一たちが巻き込まれれば、仮に６月を越えられても、それは私の望む世界じゃない。",
+      "だから打ち明けられないのです。",
+      "………それが多分、私が望む幸せに対し、妥協しないということなのだと思いますです。」"
+    ],
+    "textEn": [
+      "\"...I'm sorry.",
+      "If I talk, you'll be dragged into this.",
+      "If I lose you, I have no more reason to survive.",
+      "I just can't talk to you about this.",
+      "...I'm not going to compromise my happiness.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「梨花ちゃんがさっきから何を言ってるのかさっぱりだが…。",
+      "梨花ちゃんのその言い方、先日までの沙都子にそっくりだぜ？」"
+    ],
+    "textEn": [
+      "\"I don't understand what you're trying to say...",
+      "But you sound just like Satoko did a few days ago...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「沙都子に…？」"
+    ],
+    "textEn": [
+      "\"Like Satoko...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ。",
+      "耐えることが美徳だと勘違いして、戦う勇気を忘れてる。",
+      "そういう風に聞こえるな。",
+      "電話で沙都子に、戦う勇気を奮い起こせと檄を飛ばした梨花ちゃんらしくもないぜ。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "You're thinking it's better to be patient. You forgot the courage needed to fight.",
+      "You sound like that.",
+      "Weren't you the one who told Satoko to be brave over the phone?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは梨花ちゃんにとっては少し痛い言葉になったようだった。",
+      "……しばらくの間、梨花ちゃんは唇を噛むような仕草をしていた。"
+    ],
+    "textEn": [
+      "My words had clearly hurt Rika-chan's feelings.",
+      "She bit her lip and went quiet for a moment."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………巻き込まれれば、圭一たちもきっと殺されますですよ。」"
+    ],
+    "textEn": [
+      "\".........If I talk to you, you might get killed too.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「殺されるのは御免だなぁ。",
+      "でもよ、放っておけば梨花ちゃんは必ず殺されるんだろ？",
+      "だったら、俺も梨花ちゃんのいない未来なんて御免だな。」"
+    ],
+    "textEn": [
+      "\"Well, I don't want that.",
+      "But if we don't do anything, you're going to get killed, right?",
+      "We don't want a future without you either, Rika-chan.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………え…。」"
+    ],
+    "textEn": [
+      "\"......What...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「梨花ちゃんが俺たちを巻き込みたくないって思うように、俺たちも梨花ちゃんを失いたくないって思ってる。",
+      "荒事は大歓迎だぜ。",
+      "それに三人集まれば文殊の知恵って言うだろ。"
+    ],
+    "textEn": [
+      "\"You may not want to get us involved, but likewise, we don't want to lose you either.",
+      "We welcome the struggle.",
+      "Besides, you know how powerful we can be together."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "部活メンバーみんなで相談し合えば必ず妙案が出るぜ。」"
+    ],
+    "textEn": [
+      "I'm sure we can solve anything if we all work as one.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………いくら部活メンバーでも、…無理なものは無理だと思いますです…。」"
+    ],
+    "textEn": [
+      "\".........Not even our combined strength... can solve this problem...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺たちを巻き込みたくないから、打ち明けられないんだな？",
+      "なら、梨花ちゃんは俺たちに打ち明けず、ひとりで死のうってことなんだな…？」"
+    ],
+    "textEn": [
+      "\"You don't want to talk to us because you don't want to drag us into it, right?",
+      "So what you're saying is that you want to die without telling us anything...?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………………そういうことだと思いますです。」"
+    ],
+    "textEn": [
+      "\"........................I guess that's what I'm saying.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「耐えることを美徳だと勘違いするな。",
+      "戦う勇気を思い出すんだ。",
+      "………心の整理がついたら、いつでも何時でもいいから相談してくれ。",
+      "…俺たちは絶対に力になるからな。」"
+    ],
+    "textEn": [
+      "\"Don't think that being patient is the same as being brave.",
+      "Remember the courage to fight.",
+      "You can talk to me anytime, once you organize your feelings.",
+      "We'll help you. You can count on us.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………ありがとうです…。」"
+    ],
+    "textEn": [
+      "\"......Thank you...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんは悲しそうに笑いながら礼を言った。",
+      "それはまるで、もらえた同情に対する返礼のようだった。",
+      "何かわからないが、梨花ちゃんはドデカい悩みを抱えてる。",
+      "それも、本人は生き死にを賭けるくらいに悩んでる。",
+      "しかもそいつは、打ち明けるべきかすら悩む、ややこしい問題のようだった。",
+      "でも、梨花ちゃんは打ち明けてくれない……。"
+    ],
+    "textEn": [
+      "Rika-chan was wearing a sorrowful smile.",
+      "I could tell that she appreciated my sympathy.",
+      "I don't know why, but Rika-chan is troubled by something.",
+      "It's a matter of life and death for her.",
+      "She can't even talk to us about it.",
+      "At the very least, she won't talk to me..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……どうだった、圭一くん？」"
+    ],
+    "textEn": [
+      "\"......How was it, Keiichi-kun?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「梨花ちゃんが悩み事だって？",
+      "珍しいねぇ。」"
+    ],
+    "textEn": [
+      "\"Is Rika-chan troubled by something?",
+      "That doesn't happen very often...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………沙都子。",
+      "変なことを聞いてすまんが、……梨花ちゃんが命を狙われているような話って、あるのか？」"
+    ],
+    "textEn": [
+      "\".........Satoko.",
+      "This is going to sound strange... but is there any chance that someone is threatening Rika-chan's life...?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「はぁ？！",
+      "な、何を言ってるんですの圭一さんは…。」"
+    ],
+    "textEn": [
+      "\"What?!",
+      "What in the world are you saying, Keiichi-san...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「梨花ちゃまは村のシンボルじゃないですか。",
+      "拝む人はいても、命を狙う人なんているわけないです。」"
+    ],
+    "textEn": [
+      "\"Rika-chama is the village mascot.",
+      "People worship her. No one would ever try to kill her.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「何だい何だい…！",
+      "物騒な話だねぇ…！！」"
+    ],
+    "textEn": [
+      "\"What's this...?",
+      "What are you guys talking about?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "みんなの話を聞けば聞くほどに、梨花ちゃんが命を狙われる心当たりが思いつかない。",
+      "だからみんなは俺以上に首を捻るのだった…。"
+    ],
+    "textEn": [
+      "The more I talked to my friends, the stranger it seemed that someone would try to kill Rika-chan.",
+      "Everyone was even more confused than I felt..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……梨花ちゃんは悩みを打ち明けてくれたわけじゃない。",
+      "…でも、何かに悩んでるのは間違いなく、それはかなり深刻らしいんだ。",
+      "…梨花ちゃんが俺たちを信頼してくれるなら、…きっと近いうちに打ち明けてくれると思う。"
+    ],
+    "textEn": [
+      "\"Rika-chan didn't talk to me about what's troubling her...",
+      "But I'm sure there's something very serious going on with her.",
+      "...If she really trusts us, I'm sure she'll talk to us soon."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "その時は、どんな突拍子もない話であっても、きっと信じてあげて力になってあげよう。",
+      "きっとだぜ…！」"
+    ],
+    "textEn": [
+      "Let's believe everything she tells us if she opens her heart.",
+      "Okay...?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "仲間たちは互いの顔を見合って、力強く頷いた。"
+    ],
+    "textEn": [
+      "We all looked at each other, and nodded."
+    ]
+  }
+]

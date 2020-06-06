@@ -1,0 +1,1675 @@
+[
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "奇病ってのは尾ひれだと思うけどね。",
+      "急死したってのは本当。"
+    ],
+    "textEn": [
+      "\"Mm.",
+      "I don't think the bit about the illness is true,",
+      "but his death was very sudden."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "神主さんは綿流しの準備で大変だったと思うし、あの頃は少し体調を崩してたみたいだからね。",
+      "急性心不全とかそうゆう感じの、よくあるヤツだったんだと私は思ってるけどね。」"
+    ],
+    "textEn": [
+      "The priest was busy preparing for the festival and he'd gotten sick around that time,",
+      "so I guess he died of a heart attack or something.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「でも綿流しの日にってのが異常でしょ。",
+      "それも三年連続で。",
+      "普通に考えたら、人の死がこうも同じ日に重なるなんてことは考えられない。」"
+    ],
+    "textEn": [
+      "\"But it's just crazy that somebody died on the day of Watanagashi again.",
+      "It's the third time in a row.",
+      "It's unbelievable that so many people have died on the exact same day.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「警察も検死したみたいだけど、その後に、特に騒がなかったってことは、死因に不審な点はなかったってことじゃないの？",
+      "……まぁでも、詩音の言う通り、人の死が三年も続いて綿流しの日に重なると、やっぱり普通じゃないって思うね。」"
+    ],
+    "textEn": [
+      "\"The coroner didn't find anything unusual about the cause of death, so nobody suspected that anything was wrong...",
+      "But you're right that the whole situation is abnormal.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「それに、さっきお姉も言った通り、オヤシロさまに祟られそうな人ばかり怪死する。",
+      "これは絶対に何かあります。",
+      "祟りでも陰謀でも、とにかく絶対裏に何か因果関係がある。」"
+    ],
+    "textEn": [
+      "\"Only the people who were likely to be cursed died on the day of the festival.",
+      "There must be something behind this.",
+      "Whether it's a conspiracy or a curse, there has to be.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音とは興宮駅に近い図書館で落ち合う事にした。",
+      "…魅音を信用しないわけじゃないが、私の住んでいる場所をわざわざ知らせる必要はない。",
+      "この、賑わいのない図書館は、町の人間もそんなには使わないし、ましてや雛見沢の人間はさらに使わない。",
+      "だから、人知れず私たちが落ち合うには都合がよかった。",
+      "私たちは今後の生活の仕方や、私のバイトの今後の進め方、姉妹の連携の仕方を十分に確認し終えると、よもやま話に花を咲かせるのだった。",
+      "私が町を離れていた期間は約一年に過ぎない。",
+      "だが、一年もあれば環境も何かの変化を遂げるものだ。",
+      "…私はそういう様々な変化を魅音から聞き出し、空白の一年を取り戻そうとしていた。",
+      "そして…たくさんの話をする内に、さっきバイトの打合せに行った時、叔父さんに最後にされた話…。",
+      "オヤシロさまの祟りの話に行き着いたのだった…。",
+      "私が町を離れる時。",
+      "祟りはすでに二年連続で起きていた。",
+      "一年目の現場監督バラバラ殺人も結構インパクトがあった。",
+      "そして翌年。",
+      "ダム計画の凍結が発表され、勝利に沸き返る雛見沢で迎えた綿流しの祭の日に、",
+      "今度は村の裏切り者であるダム推進派の北条夫妻が転落事故。",
+      "これも…相当のインパクトがあった。",
+      "雛見沢を穢すダム現場の監督に天誅が下り、そして次に村の裏切り者に天誅が下る。",
+      "……一年目だけなら、オヤシロさまの祟りだと騒ぎつつも、不幸な事件だと思うことができる。",
+      "でも、二年目が重なると、これはひょっとして…まさか……本当に祟り？",
+      "という、そういうムードだった。",
+      "私が知るのはここまで。",
+      "そして私が町を離れている間に。",
+      "…三年目も起こっていたのだ。",
+      "雛見沢でも興宮でも、…あの頃とは比較にならないくらいの鮮烈なインパクトを持って、オヤシロさまの祟り説が飛び交っていた。",
+      "…私は認識を改める必要があった。",
+      "私が町を離れている間に、オヤシロさまの祟りは圧倒的現実感を得ていたのだ。",
+      "私の知る二年目までが、ひょっとして祟りかも？",
+      "という疑問系だとすると、三年続いた現在は、これはもう祟りに違いない…という確信めいたものにまで至っている。",
+      "そして三年目に死んだ神主も、村の仇敵とまでは行かないものの、",
+      "雛見沢の村人たちから、あまりいい目で見られてなかった事実があると、…その信憑性はますます高まった。"
+    ],
+    "textEn": [
+      "I decided to meet up with Mion at the library near the Okinomiya train station.",
+      "...It's not that I don't trust Mion, but I don't want to let her know where I live.",
+      "Not many people use this library, so I won't see anyone from Hinamizawa here.",
+      "It's very convenient for meeting someone in secret.",
+      "After we discussed my life plan and work schedule, we moved to small talk.",
+      "I've been away from this town for years.",
+      "Things have changed.",
+      "...I asked Mion about those changes in detail, in order to fill in the gaps.",
+      "While talking about various things, I brought up what Uncle Yoshiroh had told me...",
+      "About Oyashiro-sama's curse.",
+      "Even before I left town...",
+      "The curse had already struck twice.",
+      "The dismemberment murder on the first year left quite an impact.",
+      "And the year after--",
+      "The pro-dam activist couple fell off the cliff",
+      "on the day the villagers were enjoying their first Watanagashi festival since the dam project was indefinitely frozen.",
+      "This one also left quite the impact.",
+      "The evil construction site manager was punished, and the next year, the traitor to the village met the same fate.",
+      "...If it had happened only once, people would have concluded that it was just a bizarre coincidence.",
+      "But when it happened two years in a row...",
+      "people were far more likely to believe it was a curse.",
+      "I know up to that part.",
+      "And after I left town...",
+      "the curse struck again for the third time.",
+      "People talked about the curse more intensely than ever, both in Hinamizawa and Okinomiya.",
+      "...I have to rethink this.",
+      "Oyashiro-sama's curse has drastically gained credibility while I was away.",
+      "It was still unclear with the first two incidents...",
+      "But after it continued for three years straight... people's doubts changed to convictions.",
+      "Even though the priest who died on the third year wasn't an enemy of the villagers,",
+      "the fact that people in Hinamizawa didn't care for him much... added even more credibility to the idea."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「神主は確か……嫌われてませんでした？",
+      "同盟の役員から。」"
+    ],
+    "textEn": [
+      "\"Wasn't the priest... hated by a few?",
+      "Especially by the committee members?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "日和見主義なんじゃないかって叩かれてたね。",
+      "戦争末期は、同盟内でも過激な理論がまかり通ってたから。",
+      "神主さんの穏健な態度はそういう人たちにとって、気に食わないものだったと思うね。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "They criticized him for being a fence-sitter.",
+      "Toward the end of the dam conflict, the protesters were all taking aggressive stances,",
+      "so they didn't like how soft he was being.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "神主は顔は厳めしいし、言葉遣いもどことなく硬くて、確かにぱっと見、おっかなそうな人だった。",
+      "だが、実際にはすごく温厚で、控えめな性格の紳士だった。",
+      "この控えめ、という辺りは多分、神主さんが婿養子だからというのもあるだろうが。",
+      "夏祭の会場でもあり、村の集会場所として開放もされている神社の管理人としては、そういう性格の神主さんは、適材適所であったかもしれない。",
+      "だが、そんな井戸端会議場みたいな神社は、",
+      "ダム戦争勃発と同時に結成された反ダム抵抗組織、鬼ヶ淵死守同盟の事務所所在地になった途端に、その雰囲気をがらりと変えることになる…。",
+      "そもそもダム戦争以前は、オヤシロさまはそんなに祭られていなかった。",
+      "信心深い年寄り連中はもちろん崇めていたが、平均的な人々にとっては、当たるも八卦当たらぬも八卦程度の、その程度の扱いの神様だった。",
+      "そしてダム戦争が始まった時、その程度の扱いだったオヤシロさまは、村の抵抗のシンボルとして急に担ぎ出されることになったのだった。",
+      "オヤシロさま信仰は根源を紐解けば、",
+      "",
+      "自分たちは仙人の一族で麓の下民どもとは違う、汚らわしい下民どもは村に近付くな…という、排他的な選民思想に行き着く。",
+      "もちろん、そんな自分勝手な思想は大昔の話で、戦後の平和な日本ではそんな思想、まかり通るわけもない。",
+      "だからこそ、時代の移り変わりと共に廃れた思想だった。",
+      "だが、その思想はしっかりと残っていて、ダム計画に対抗するために郷土は団結せよというナショナリズムの煽りに掘り起こされる形で、復活してきたのだ。",
+      "そういう思想が復活すると、物事は過激な方へ流れる一方になる。",
+      "……鬼ヶ淵死守同盟が、攻撃的な性格を持つのに時間はまったくかからなかった。",
+      "あとはもう戦時体制みたいなものだ。",
+      "一億一心火の玉だ、鬼畜米英、欲しがりません勝つまでは。",
+      "大人も子どもも、外部からの敵を迎え撃てと意気込み、鼻息を荒くした。",
+      "…こうやって表現すると、何だかすごく嫌ぁな、まるで日本の戦時中の暗黒時代を彷彿させるが、",
+      "前にも述べた通り、子どもたちにとってはあれは戦争というよりは戦争ごっこで、村全体が一丸となるお祭のようなものだったのだ。",
+      "………だが、お祭とは言っても、異論を唱える者についてはその扱いは冷淡だった。",
+      "…その冷淡さについても、戦時体制という表現は逸脱していなかったのだ。",
+      "そういう流れの中で、ダム計画受入を表明した北条夫妻は…本当に勇敢だったと思う。",
+      "そして、祟りの二年目に事故死し、",
+      "誰もがオヤシロさまの祟りだと信じて疑わない、",
+      "「村の仇敵・裏切り者」の烙印を押されることになるのだ…。",
+      "北条夫妻は村の裏切り者として、村八分以上の責め苦を受けることになる。",
+      "誰もが冷たい目で後ろ指をさしていた。",
+      "そんな北条夫妻を村で唯一、敵視しなかったのが……",
+      "神主だった。",
+      "神主は、反ダムに異論は唱えなかったものの、",
+      "北条夫妻の「立ち退きに応じて国から賠償金をもらい、生活を再建する」という主張にも、異論を唱えなかったのである。",
+      "北条許すまじをスローガンにし、スケープゴートにすることで村の団結を図ろうとしていた御三家（特に園崎家だが）にとって、",
+      "同じ御三家の人間であり、しかも反ダムのシンボルのオヤシロさまを祀る神社の神主が、それを容認したというのは…とても苦々しいことだったのだ。",
+      "鬼ヶ淵死守同盟の屋台骨であり、雛見沢村の大黒柱である御三家で足並みが揃わないことは好ましくない、",
+      "御三家間でトラブルを起こしたくないということから、神主への糾弾は一切行なわれなかった。",
+      "……だが、人々は異端な神主を陰でヒソヒソと、オヤシロさまの神社の神主として相応しくない、",
+      "今にきっとオヤシロさまのバチが当たる…、と噂し合っていた……。"
+    ],
+    "textEn": [
+      "The priest had looked strict and scary. The way he spoke was always so formal.",
+      "But in reality, he was very warm and reserved.",
+      "Maybe it was because he was a son-in-law, having married into his family.",
+      "I'm sure the priest and his personality were the perfect fit for managing the shrine that was used for summer festivals and village meetings.",
+      "But that gathering-spot-style atmosphere of the shrine...",
+      "changed completely when the dam war broke out and it became the headquarters for the Onigafuchi Guardians.",
+      "Prior to the dam protests, hardly anyone worshiped Oyashiro-sama.",
+      "Of course the devout elders paid worship to him, but the average person treated our god like how you'd treat fortune telling.",
+      "Once the dam protests began, Oyashiro-sama was suddenly hauled out as the symbol of the village's resistance.",
+      "Tracing the Oyashiro-sama faith back to its roots,",
+      "<size=-2>",
+      "it was an exclusive, elitist faith... that believed its members were descended from a holy ancestor, different from the masses at the foot of the mountain, and that those tainted masses should never come near the village.",
+      "Of course, such self-centered ideology wasn't acceptable anymore in peaceful postwar Japan.",
+      "So this doctrine was abandoned over time.",
+      "Still, that idea remained, and they trudged it back up to fan the flames of nationalism and unite the town against the dam project.",
+      "With the revival of those ideas, things only grew more radical by the day.",
+      "...And it didn't take very long for the Onigafuchi Guardians to become aggressive.",
+      "After that, we were in a state of war.",
+      "\"100 million, burning as one!\" \"Kill the white savages!\" \"Want naught but victory!\"",
+      "Adults and kids both were gnawing at the bit, avid to repel the foreign invaders.",
+      "...Describing it like that makes it sound kind of awful, like a reminder of the dark times of wartime Japan,",
+      "but like I said before, for us kids it felt less like a war and more like a village-wide festival.",
+      "......Yet despite calling it a festival, dissenters were treated coldly.",
+      "...Their heartlessness lived up to the expression \"wartime regime.\"",
+      "The Houjou couple who voiced their acceptance of their dam project in the midst of that atmosphere... were truly brave.",
+      "Then on the second year of the curse they died in an accident,",
+      "and everyone believed it was Oyashiro-sama's curse without question...",
+      "So they were branded \"traitors\" and \"enemies of the village\"...",
+      "The Houjou couple faced worse than just being ostracized as traitors.",
+      "Everyone gave them the cold shoulder and talked behind their backs.",
+      "The only person who didn't treat them badly was...",
+      "the priest.",
+      "While the priest never objected to the anti-dam movement,",
+      "he also never objected to the Houjou couple's advocacy for accepting the government's eviction and restitution to rebuild new lives.",
+      "\"Those unforgiveable Houjous!\" became a slogan as the Three Families (especially the Sonozakis) united the village by turning them into scapegoats...",
+      "So they must have found it very shameful to have a fellow member of the Three Families approve of that, especially when it was the priest of the shrine that had become a symbol for the dam protests.",
+      "As central figures in Hinamizawa, the Three Families were the backbones of the Onigafuchi Guardians, so a difference of opinion was undesirable,",
+      "and the priest was never accused of anything.",
+      "...But secretly, people whispered that he was a heretic, that he was unfit to serve as Oyashiro-sama's priest,",
+      "that Oyashiro-sama's curse would soon strike him down... along with other rumors..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「今にして考えると、神主さんって結構オトナだったのかもね、って思いません？」"
+    ],
+    "textEn": [
+      "\"Don't you think the priest was more mature than those around him?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "周りが熱で浮かされてるみたいな状況だったからこそ、ひとりクールに中立を保ってたのは結構、カッコいいことかもしれない。",
+      "私はこの見解に、魅音も同じように考え相槌を打ってくれると思った。",
+      "……だから、魅音が苦笑いしながら、…私の意見に同調しなかった時、",
+      "…ちょっと驚いた。"
+    ],
+    "textEn": [
+      "He was pretty cool, managing to keep his head and remain neutral while everyone around him grew fervent.",
+      "I thought Mion would share my opinion when I chimed back in.",
+      "...So when Mion gave me a forced smile... and didn't agree with me...",
+      "...I was taken by surprise."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…うーん…。",
+      "本当に大人だったら、あそこは周りに合わせて協調すべきところだったと思うね。",
+      "古手のおじさんは単に神社の神主だっただけじゃなく、仮にも御三家のひとつ、古手家の長だったんだからさ…。"
+    ],
+    "textEn": [
+      "\"...Hmm...",
+      "If he were really mature, I think he would have cooperated with the others. He should have appeased them.",
+      "He wasn't just the head priest, he was also the head of the Furude family..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "雛見沢全体が結束しなくちゃならない時に、模範となるべき御三家の人間が、自分から和を乱すのは……、"
+    ],
+    "textEn": [
+      "That was a time when all of Hinamizawa needed to be united, so having one of the families, who are supposed to serve as examples, disturb that harmony was..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "それがオトナと呼べるかどうかは、",
+      "…私には難しいなぁ。」"
+    ],
+    "textEn": [
+      "I don't know if that should be called mature.",
+      "...It's hard for me to tell.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "思わず、きょとんとしてしまった。",
+      "そして、こう言うのが精一杯だった。"
+    ],
+    "textEn": [
+      "I was taken aback.",
+      "I barely managed to say the following."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………………。",
+      "………………ふぅん。」"
+    ],
+    "textEn": [
+      "\"...............",
+      "Uh-huh.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私たちは瓜二つの双子であっても、魅音・詩音という個々の個性を持っている。",
+      "時には互いの見解に相違があることもある。",
+      "でもそれは大抵、取るに足らない些細なものの話だ。",
+      "こんな…大きな意見の差があった試しは、一度もない。",
+      "私はその違和感が面白くなくて、魅音と私の意見の違いを探ろうと思った。"
+    ],
+    "textEn": [
+      "Even though we're identical twins, we still had our own unique identities.",
+      "Every now and then our opinions differed.",
+      "But usually only over some trivial matter.",
+      "We've never had a difference of opinion this big.",
+      "It wasn't an enjoyable feeling. I decided to probe her some more."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「お姉の言う協調って言葉が、何だか好きじゃないんですけど。",
+      "つまりそれって何？",
+      "村全体を考えて、神主さんは自分の考えを隠しているべきだったって、そういう話？"
+    ],
+    "textEn": [
+      "\"I don't really like that word you used, 'appease.'",
+      "What are you trying to say?",
+      "Are you saying the priest should have thought of the village as a whole and kept his opinions a secret?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "要するに全体主義の中で個を主張するなと、そういう話？」"
+    ],
+    "textEn": [
+      "Meaning people shouldn't assert the self before the whole?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…べ、別にそこまでは言わないけど…。",
+      "ただその、…やっぱり御三家の長のひとりなんだから、もう少し言動は慎重にしてもよかったんじゃないかって、…そういうことだよ。」"
+    ],
+    "textEn": [
+      "\"...I-I'm not going that far...",
+      "It's just... I thought that, as a member of the Three Families, he should have acted more carefully... That's what I mean...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私の言い方が詰問めいていたのか、魅音は少し狼狽しながら答えた。",
+      "私は自分の言い方がきつい口調になっていたことに気付く。",
+      "…魅音の言う話の方が、多分私たちの尺度でいうところのオトナの意見に違いなかった。",
+      "国という巨大な敵に立ち向かうため、全員が立ち上がらなければならない局面で、それに水をさすような真似は慎むべき。",
+      "………こうして字に書いて読めば、それは理解できないことじゃない。",
+      "だが、その全体主義的な考えに頷けるほど、私が大人ではなかったということだ。",
+      "いや、…私が大人でなかった、というのは適当じゃない。",
+      "……魅音が、大人的な考え方をした、という方が正しいかもしれない。",
+      "…私たち姉妹が、魅音と詩音に厳密に区別されてから一年ちょっと。",
+      "その間に私は学園に隔離され、町との接点を空白にしていた。",
+      "…だがその間、魅音は園崎家頭首の元で、次期頭首としての帝王学を学んでいたのだ。",
+      "もちろん、魅音は私が隔離される日以前からも次期頭首として扱われてはいた。",
+      "何かの式典や会合がある度に鬼婆の隣に座らされたし、鬼婆不在の際には挨拶文を代読するくらいの役割はやらされていた。",
+      "でも、そんな程度だった。",
+      "私と意見を違えるくらいの差は生まれなかった。",
+      "この一年ちょっとの間に、魅音は…こんなにも「次期頭首」になっていたのだ。"
+    ],
+    "textEn": [
+      "Mion faltered a bit as my tone grew more like a cross-examination.",
+      "I realized I was speaking a bit too harshly.",
+      "...What Mion expressed was probably the more \"mature\" opinion on our scale.",
+      "When everyone needs to work together to stand up to a vast enemy like the government, people should refrain from actions that would destabilize that alliance.",
+      "...Writing it out and reading it now, I can understand that.",
+      "But I wasn't mature enough to agree to such a totalitarian idea.",
+      "Or maybe it wasn't me at all.",
+      "...It was Mion who'd made that mature judgment.",
+      "...We've been separated for over a year.",
+      "I've been away from the town.",
+      "...In the meantime, Mion has been training to take over the headship of the Sonozaki family.",
+      "She'd been treated as such even before I was confined to that institution.",
+      "She sat next to the hag in ceremonies and in meetings. She took her place when the hag was absent.",
+      "But that was just it.",
+      "We were never that different.",
+      "Mion has become very like a successor since I've been gone."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……ふぅん。",
+      "お姉もいつの間に大人になっちゃいましたね。」"
+    ],
+    "textEn": [
+      "\"...Uh-huh.",
+      "You sound like a grownup now.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音も、私が何を感じて何を漏らしているのか理解できたらしい。"
+    ],
+    "textEn": [
+      "She seemed to get what I was implying."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…やっぱり、私も婆っちゃみたいな考え方になっちゃってきたかな…？」"
+    ],
+    "textEn": [
+      "\"...Am I thinking like Granny now...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「いいじゃないですかー。",
+      "お姉は次期頭首なんだから。",
+      "いつまでも下々と同じ考え方じゃまずいでしょ。",
+      "さっすが帝王学を学んだだけのことはある。」"
+    ],
+    "textEn": [
+      "\"That's good.",
+      "You're the successor.",
+      "You shouldn't think like the rest.",
+      "You've definitely learned the art of ruling.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そんなの学んでないよ。",
+      "どうやれば婆っちゃのふりができるかって、それだけだよ…。"
+    ],
+    "textEn": [
+      "\"I never learned anything like that.",
+      "I'm just trying to act like her..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "詩音にだって簡単にできるよ。」"
+    ],
+    "textEn": [
+      "You can do it easily, too.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あははははは、そんなのやりたくないです。",
+      "バァさんのお守りは魅音のお役目。",
+      "ま、疲れない程度にほどほどに頑張りなさいませ。」"
+    ],
+    "textEn": [
+      "\"Aha ha ha ha. I don't want to.",
+      "It's your role.",
+      "Well, don't try too hard or you'll tire yourself out.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突き放した言い方のつもりはなかったが、魅音には少しそういう風にも聞こえたらしい。",
+      "魅音は媚びるような苦笑いをしていた。",
+      "私は少し表情を和らげた。"
+    ],
+    "textEn": [
+      "I didn't mean to be cold, but Mion seemed to take it that way.",
+      "She smiled as if trying to pacify me.",
+      "I smiled gently back at her."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「お姉。",
+      "……………うぅん、魅音。」"
+    ],
+    "textEn": [
+      "\"Sis......",
+      "I mean, Mion.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…な、………何？」"
+    ],
+    "textEn": [
+      "\"...What? ...What is it?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「確かに私たちの別離はいつも穏便じゃなかった。",
+      "名前を引き離され、住まいを引き離され、…そして体を引き離された時も、いつもね。」"
+    ],
+    "textEn": [
+      "\"Our separation has always been tough.",
+      "Our names, the places where we live, and... our bodies.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は表情を暗くし、俯く。",
+      "…そして、上目遣いに私の表情を窺った。"
+    ],
+    "textEn": [
+      "Mion looked down with a serious face...",
+      "but then looked right back up."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…あんたは私が、その辺りで逆恨みしてるんじゃないかって思ってるかもしれない。",
+      "でもそれは、誤解。",
+      "そりゃ確かに確執はあったよ？",
+      "でもそんなのは時間で流れる程度のもの。",
+      "あんたが引け目を感じるようなことは、何もない。」"
+    ],
+    "textEn": [
+      "\"...Maybe you think I'm jealous of that,",
+      "but I'm not.",
+      "We used to have some disagreements,",
+      "but they were always small and forgettable.",
+      "You don't have to feel sorry for anything.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私たちは母の胎内を出る瞬間まで限りなく公平だった。",
+      "そして、生れ落ちてから、外界の都合で無理やり優劣が与えられた。",
+      "…その理不尽に、子供心が怒りの火を灯したこともある。",
+      "それはもう否定しない。",
+      "だが、そんなことが禍根で、いつまでも私たち姉妹が心をすれ違わせる必要はないのだ。",
+      "魅音は私の言いたいことは辛うじて理解できたようだった。",
+      "……私たち姉妹は互いの分身なれど、もちろん個性がある。",
+      "私たち姉妹しか知らない個性。",
+      "…それが互いへの依存度だった。",
+      "私に比べると魅音は、相手への依存度が高い。",
+      "…何かことあるごとに私を気にして遠慮する、そういう性格だった。",
+      "魅音にだけ饅頭が与えられると、二つに割って私に持って来る。",
+      "与えられたのが飴玉なら、私の表情を窺って、同意が得られるまで口には入れられない。",
+      "そこへ行くと私は冷たい。",
+      "自分だけが得できるなら、相手なんか気にしない。",
+      "いただきます、ごちそうさまの二つ返事で口に放り込む。",
+      "（もちろん、充分な姉妹愛が互いにあるのを前提にした上での話だ。",
+      "私はお姉が嫌いなわけじゃないことを、改めて強調しておく）",
+      "……その辺りは、互いに知っていて認めている。",
+      "魅音は、次期頭首という分けて口に入れられない飴玉を、…口に入れていいものか、ずっと私の表情を窺いながら今日まで過して来たに違いないのだ。"
+    ],
+    "textEn": [
+      "Up until birth, we were perfectly equal.",
+      "Right after birth, we were separated by the grownups' priorities.",
+      "...I used to get mad about it when I was little.",
+      "There's no denying that.",
+      "But we don't have to start a disagreement over it.",
+      "Mion seems to understand what I'm trying to say.",
+      "...We each have our own characteristics, even though we're identical twins.",
+      "Only we know the differences.",
+      "...We're also dependent on each other because of them.",
+      "Mion seems more dependent.",
+      "...She always worries about me.",
+      "If somebody gave her a cookie, she'd divide it in two and give one half to me.",
+      "If somebody gave her a candy, she'd wait until I said it was okay to eat it.",
+      "On the contrary, I'm cold.",
+      "I don't care about others if I'm satisfied.",
+      "I'd put the candy in my mouth right away.",
+      "(I have to emphasize that I don't hate her,",
+      "and I'm well aware that she loves me.)",
+      "......We both know that.",
+      "Mion must have been hesitating to put the candy of the successor in her mouth and was waiting to see if I was okay with that."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「がんばれ、…魅音。",
+      "私も詩音をがんばる。」"
+    ],
+    "textEn": [
+      "\"Do your best, Mion...",
+      "I'll do my best as Shion, too.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の額に、ゲンコツをこつりと、押し当てる。",
+      "……魅音はその私の拳にじっと額を付け、温もりとかそういう、触れ合わなければ感じられない微量なものを感じているようだった。",
+      "この子は魅音。",
+      "私は詩音。",
+      "この子は園崎家の次期頭首で、私は明日はどこ吹く風の自由人。",
+      "それは差別じゃなく、個性だ。",
+      "もう互いに相手のことを変に気にすることはやめよう。",
+      "互いに自分の個性で、肩の力を抜いて生きていこうじゃないか…。",
+      "これらを口に出す必要はない。",
+      "こうして、互いに触れ合うことでそれは伝わるのだ。"
+    ],
+    "textEn": [
+      "I tapped her forehead with my fist lightly.",
+      "...Mion put her forehead against my fist as if trying to feel the warmth.",
+      "She's Mion.",
+      "And I'm Shion.",
+      "She's the successor of the Sonozaki family, and I'm just a vagabond.",
+      "That isn't a distinction, but rather, our individuality.",
+      "We shouldn't worry too much about the other anymore.",
+      "We should feel relaxed, living as who we are, with our own characteristics.",
+      "I didn't have to say any of that out loud.",
+      "We can communicate by touch, just like this."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………うん。",
+      "………ありがと。",
+      "詩音。」"
+    ],
+    "textEn": [
+      "\"...Okay...",
+      "Thanks,",
+      "Shion.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「がんばろ、魅音。",
+      "困ったことがあったらいつでも相談して。",
+      "私たちはいつだってそうやって来た。",
+      "それはこれからも何も変わらないよ。」"
+    ],
+    "textEn": [
+      "\"No worries, Mion.",
+      "Let's talk to each other whenever we want to,",
+      "like we've always been.",
+      "That'll never change, okay?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……うん。",
+      "……うん。」"
+    ],
+    "textEn": [
+      "\"......Okay.",
+      "......Okay.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は額で私の拳をぐいぐいと押しながら、俯きがちに頷き続けていた…。",
+      "魅音とは、夕方を待たずに別れた。",
+      "私は、空白期間にあった町の出来事を全て取り戻したし、姉妹水入らずなおしゃべりを充分に堪能できた。",
+      "…それに、互いが心の中で持ち合っていた、わだかまりも、解くことができた。",
+      "今までの私たちなら、そんな話はしない。",
+      "互いに会えなかった一年という空白期間のお陰だったのかもしれない。"
+    ],
+    "textEn": [
+      "Mion kept nodding, with her forehead against my fist...",
+      "I said goodbye to Mion before it turned to evening.",
+      "We had talked about the things that happened during my time away, and I enjoyed having that chat between sisters very much.",
+      "...We were able to dissolve our unsettled emotions.",
+      "We didn't use to do that.",
+      "Maybe it's because we hadn't seen each other for over a year."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………ふー。」"
+    ],
+    "textEn": [
+      "\"......Whew.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "夕方を目前に控えた昼下がり。",
+      "……私はほんの少し軽やかになった肩で、う〜〜んと、背伸びをして空を仰いだ。",
+      "澄み渡る空は、どこまでも青くて、そして遠い。",
+      "私という木が、どこまで枝を伸ばしても何もぶつからない。",
+      "そんな、高くて遠い、大空だった。",
+      "私は園崎詩音。",
+      "……押し付けられた人生である学園を脱走した自由人。",
+      "咎められこそすれ、私の行く末は誰にも褒められないものになるだろう。",
+      "…でも自分が自分で選び取った人生なのだ。"
+    ],
+    "textEn": [
+      "It was late afternoon.",
+      "......My heart felt lighter now. I stretched and looked up at the sky.",
+      "The sky was clear, blue, and far away.",
+      "No matter how tall I grow,",
+      "I'll never be able to touch that sky.",
+      "I'm Shion Sonozaki.",
+      "...A girl who escaped from the life she was forced to live.",
+      "Nobody will praise me for what I did and for what I'm going to do.",
+      "...But this is what I chose."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あっは！",
+      "…なぁんだ、私だって大人な考え方、できるじゃない。」"
+    ],
+    "textEn": [
+      "\"Aha!",
+      "...I can think maturely, too!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "自分で自分を景気付けるように、勇んでみせる。",
+      "元気も出たところで、夕食のお買い物にでも行こう。",
+      "葛西に当面の生活費は工面してもらったけど、やっぱり節約して使わないといけない。",
+      "ジャンクフードもいいけど、割安にするためにも自炊は避けられないかな。",
+      "…皮肉にも、学園で叩き込まれた家庭科が役に立つ。",
+      "上一色の商店街でも行くか。",
+      "…あれ？",
+      "だったらこの道、こっちじゃない。",
+      "向こうから行った方が少し近いはずだ。",
+      "夕方前の、ちょっと涼しくなりかけた風がとても心地よかった。",
+      "買ってきたものを袋から出して冷蔵庫にしまっている時、葛西がやってきた。"
+    ],
+    "textEn": [
+      "I psyched myself up.",
+      "I should go shopping for dinner.",
+      "Though I have Kasai's help, I need to save money.",
+      "I love junk food, but it'd be cheaper to cook.",
+      "...Ironically, the culinary classes from that evil school will come in handy.",
+      "Why not go to the shopping district in Kami-isshiki?",
+      "...Hm?",
+      "If I'm going there,",
+      "then I'd need to take the other street.",
+      "The cool breeze in the late afternoon felt nice on my skin.",
+      "Kasai came to the door while I was putting stuff I bought into the fridge."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あー、待って待って。",
+      "今、カギ開けます。」"
+    ],
+    "textEn": [
+      "\"Ah, wait a sec.",
+      "I'm coming.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「…お買い物の帰りですか？",
+      "お疲れさまです。」"
+    ],
+    "textEn": [
+      "\"...Did you go grocery shopping?",
+      "You must be tired.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「買い物程度で疲れてちゃたまんないよ、あははは。",
+      "あ、葛西も食べてく？",
+      "一人者にはスーパーの野菜の単位は大き過ぎだしね。」"
+    ],
+    "textEn": [
+      "\"I don't get tired from grocery shopping. Ahahaha.",
+      "Oh, do you want dinner?",
+      "I bought enough for you, too.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「よろしいんですか？",
+      "…ご厄介になってもいいものでしたら、ぜひ。」"
+    ],
+    "textEn": [
+      "\"Is that alright?",
+      "...If you say so, I'd be happy to.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "葛西は、さてさてどんなものが出てくるやらと、興味津々な笑みを浮かべている。"
+    ],
+    "textEn": [
+      "Kasai looked curious about what I'd cook."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ちぇー。",
+      "その顔は全然、信じてないなぁ？",
+      "見てろぉ〜！」"
+    ],
+    "textEn": [
+      "\"Humph.",
+      "You don't look like you believe in my cooking skills.",
+      "You'll pay for that later!\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「これらは冷蔵庫でいいんですか？",
+      "入れておきますよ。」"
+    ],
+    "textEn": [
+      "\"Are you putting these in the refrigerator?",
+      "I'll do it.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あ、悪いね。",
+      "…二人分だとお米はこのくらいかな。",
+      "よっこらしょっと。」"
+    ],
+    "textEn": [
+      "\"Oh, thanks...",
+      "Is this amount of rice enough for two?",
+      "Here I go.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "葛西は袋いっぱいの食品の山を吟味しながら、器用に冷蔵庫にしまっていってくれた。",
+      "そして、ふと気付き、私に声をかける。"
+    ],
+    "textEn": [
+      "Kasai skillfully packed food in the fridge while glancing at each item in turn.",
+      "He noticed something."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「……詩音さん。",
+      "相変わらず缶詰はダメなんですか？」"
+    ],
+    "textEn": [
+      "\"...Shion-san,",
+      "do you still hate canned food?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "葛西に言われるまでもなく、私の買い物には缶詰がない。",
+      "…偶然じゃなく、意図的にだ。"
+    ],
+    "textEn": [
+      "I hadn't bought any.",
+      "That was, of course, on purpose."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「缶詰を避けての買い物はいろいろ大変でしょう。」"
+    ],
+    "textEn": [
+      "\"It must be hard to avoid it.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ん〜〜〜…。",
+      "理屈じゃわかってんだけどねぇ。",
+      "…無理強いされりゃ、食べないこともないけど。",
+      "……うぅん、それでも私ゃやっぱりパスだな…。」"
+    ],
+    "textEn": [
+      "\"Hmmm...",
+      "I know it's illogical...",
+      "Maybe I could eat it if somebody forced me to...",
+      "No, on second thought, I definitely couldn't...\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「悪かったと思ってます。",
+      "少しふざけすぎたと思ってますよ。",
+      "だからそろそろ、あんな下らない話、忘れて下さってもいいのに。」"
+    ],
+    "textEn": [
+      "\"I feel really sorry.",
+      "I know I was out of line then.",
+      "Please forget about that story.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あ〜〜もぅ、うっさいなぁ！",
+      "男が厨房にちゃらちゃら出入りしない！",
+      "テレビでも見てて大人しくしててよー。」"
+    ],
+    "textEn": [
+      "\"Ahh, shut up!",
+      "Men shouldn't hang around in the kitchen!",
+      "Go watch TV or something.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "葛西は小さく笑うと、それ以上ちょっかいは出さず、大人しく引っ込んでくれた。",
+      "自分でも馬鹿だなぁと思うのだが。",
+      "……私は缶詰がダメだ。",
+      "知らずに食べても、あとからそれが缶詰の肉だったと教えられるだけで吐きそうになってしまう。",
+      "きっかけは下らない。",
+      "……昔、小さい頃に、葛西に吹き込まれた怪談のせいなのだ。",
+      "…ほら、都市伝説なんかによくあるじゃない。",
+      "出所不明の怪しげな肉の話とか。",
+      "ハンバーガーの肉にはミミズが混じってるとか、牛丼屋の牛肉には犬の肉が混じってるとか、そういう類の話。",
+      "小生意気な私が大いに怖がるので、葛西はだいぶ面白がって吹き込んだらしい。",
+      "当時の葛西は面白いからそれでいいが、当時の私には大いに問題だ。",
+      "スーパーの缶詰コーナーで泣き出すくらいの缶詰嫌いになったのだから。",
+      "もちろん、今ではそこまで過剰な反応は示さなくなったつもりだが…。",
+      "やっぱり好きではない。",
+      "……好きでないなら、無理をすることもないと、今ではごく当り前のように缶詰を避けて生活している。",
+      "ちなみにこれは私だけの固有のものだ。",
+      "魅音にはない。",
+      "葛西のヤツも、少しはこれについて責任は感じているようだが、舌を出して謝る以上のことはできないようだ。",
+      "私みたいなパーフェクトな人間にも、その程度の好き嫌いがあった方が面白いかもしれないしね。",
+      "あはははははははは。"
+    ],
+    "textEn": [
+      "Kasai chuckled and left.",
+      "I know this sounds stupid...",
+      "but I hate canned food.",
+      "If somebody told me there was canned food in a meal I just ate, I'd throw up.",
+      "It started with a silly thing.",
+      "......Kasai told me a horror story when I was little.",
+      "...You know, one of those urban legends.",
+      "About meat made from an unknown source.",
+      "Like those rumors about how there's worm meat mixed into burger patties, or dog meat in beef bowls.",
+      "Kasai had fun telling me one of those stories because of how scared I got.",
+      "He had fun, but I obviously didn't.",
+      "I even started to cry in the canned food section of a supermarket. That's how much I hated it.",
+      "I don't freak out like that anymore,",
+      "but I still don't like canned food.",
+      "...Since I don't like it, I don't force myself and I now live my life naturally avoiding canned food.",
+      "One of the big differences between us twins...",
+      "Is that Mion doesn't have this issue.",
+      "Kasai feels responsible for this, but he can't rid me of that fear.",
+      "Still, a flaw like this is actually a good thing, otherwise I'd be too perfect!",
+      "Ahahahahaha."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「葛西〜、机の上の新聞どけて〜。」"
+    ],
+    "textEn": [
+      "\"Kasai, set the table, would you?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「いい匂いですね。",
+      "ご馳走になります。」"
+    ],
+    "textEn": [
+      "\"It smells good.",
+      "Thank you for doing this.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「量が足りないと思ったら、あとは勝手に牛丼屋さんにでも行くことー。",
+      "あ、テレビは切らないで。",
+      "私ゃ静かな食卓ってヤツが苦手だから。」"
+    ],
+    "textEn": [
+      "\"If this isn't enough food, you can go to a beef bowl place later or something.",
+      "And don't turn off the TV.",
+      "I hate having dinner in silence.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「では、いただきます。」"
+    ],
+    "textEn": [
+      "\"Thank you for the meal.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「で？",
+      "葛西、何の用だったの？",
+      "何か用事があって来たんでしょ。」"
+    ],
+    "textEn": [
+      "\"So,",
+      "what is it, Kasai?",
+      "You came here for something, didn't you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お茶碗を渡しながら聞く。",
+      "食事が終わってから聞いてもよかったが、そういう回りくどいのは苦手だ。"
+    ],
+    "textEn": [
+      "I handed him a cup of tea.",
+      "I could wait until dinner was over, but I wanted to get to the point quick."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「…食事が終わってからの方がいいかと思ってましたが、",
+      "…食べながらにしますか？」"
+    ],
+    "textEn": [
+      "\"I thought I should wait until we finished, but...",
+      "would you mind if I talked while eating?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「葛西が来た時点で、ずーっと何の用か気になってるから。",
+      "先に言ってくれた方がゴハンの通りがよくていいかもです。」"
+    ],
+    "textEn": [
+      "\"It's been bugging me since you got here.",
+      "It'd be much easier for me to eat if you started talking now.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「自宅に学園から電話が今日、ありました。」"
+    ],
+    "textEn": [
+      "\"We received a phone call from the school today.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「今日？",
+      "あっははは、そりゃ遅いね。",
+      "よーっぽど表沙汰にしたくなかったと見えるなぁ。",
+      "あっはははは。",
+      "…で、どうなったの？」"
+    ],
+    "textEn": [
+      "\"Today?",
+      "Aha ha, that's late.",
+      "Sounds like they didn't want to make it public.",
+      "Aha haha...",
+      "So, what happened?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「電話は茜さんが取りました。",
+      "親父さんには後で折を見て話すそうです。」"
+    ],
+    "textEn": [
+      "\"Akane-san took the call.",
+      "She said she was going to tell your father when the time is right.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "茜さんってのはうちの母を指す。",
+      "両親が結婚する前から旧知の葛西らしい呼び方だ。"
+    ],
+    "textEn": [
+      "Akane-san is my mom.",
+      "That's what Kasai calls her, as he's known her since before her marriage."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「で？",
+      "母さんなんか言ってた？」"
+    ],
+    "textEn": [
+      "\"So?",
+      "What did she say?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "電話を受けたのが母さんなのは、まだツイてた方かもしれない。",
+      "母さんは比較的私の味方だからだ。"
+    ],
+    "textEn": [
+      "I was lucky she answered the phone.",
+      "Since she's relatively on my side."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「仕方のないヤツだ、と漏らしておりました。",
+      "…こういう結果も、決して予想外ではなかったような顔つきでしたね。」"
+    ],
+    "textEn": [
+      "\"Other than calling you a brat...",
+      "She didn't seem surprised by this outcome.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……ふーん。",
+      "親父にはまだ知らせてないんだ？」"
+    ],
+    "textEn": [
+      "\"...I see.",
+      "So she hasn't told Dad yet?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「茜さんなりにタイミングを計っているんでしょう。",
+      "多分、二三日中には話すものと思います。」"
+    ],
+    "textEn": [
+      "\"She's probably waiting for the right moment.",
+      "I think she's going to in a couple of days.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……親父はバァさん寄りだからなぁ。",
+      "耳に入れば自動的にあいつにも伝えるだろうな。",
+      "で、伝わったら、見つけ次第、即刻ここへ連れて来い。",
+      "申し開きの如何によっては、指の一本や二本…ってことになるだろうねぇ。",
+      "…おっかないこって。"
+    ],
+    "textEn": [
+      "\"......Humm, dad is on grandma's side,",
+      "so he'll definitely talk to her if he hears about it.",
+      "Then she'll have her men bring me to her",
+      "and depending on my explanation, make me offer a finger or two...",
+      "Scary!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "あははは！」"
+    ],
+    "textEn": [
+      "Aha ha ha!\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「笑い事で済めばいいんですがねぇ。",
+      "…詩音さんの指だけじゃ済まないかもしれないってとこだけ、よくお願いしますよ？",
+      "…あちちちち…。」"
+    ],
+    "textEn": [
+      "\"I wish you could laugh it off,",
+      "but... please remember you're not the only one who...",
+      "Ouch...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あっはははは！",
+      "がっつくからだよー。",
+      "あ、ちなみに味噌汁もご飯も作りすぎてるから、御代わりは強制ね？",
+      "三杯は絶対食べること！」"
+    ],
+    "textEn": [
+      "\"Aha ha ha ha!",
+      "You're eating too fast!",
+      "Uh, I cooked too much rice and miso soup, so you'll have to have another round.",
+      "At least three helpings, all right?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その数日後、魅音から、鬼婆の耳に私の脱走の話が及んだことが伝えられた。"
+    ],
+    "textEn": [
+      "A few days later, Mion told me that the hag had heard about my escape."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「で？",
+      "バァさんはどんな感じだった？」"
+    ],
+    "textEn": [
+      "\"So?",
+      "How did she take it?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「婆っちゃはカンカンでさ。",
+      "もしも興宮界隈に帰ってきてるなら、即刻見つけ次第、自分の前に引っ立てろってさ。」"
+    ],
+    "textEn": [
+      "\"She was furious.",
+      "She said that if you were in Okinomiya, she'd get you right away.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「おーコワ。",
+      "で？",
+      "実際に親父とかの動向は？」"
+    ],
+    "textEn": [
+      "\"Scary.",
+      "And?",
+      "Is Dad doing anything?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「近々の親族会議で、詩音をかくまってないか問い質すみたいだね。",
+      "でも、若いのに町中を捜させるとか、そういう真似はしないみたいだよ。」"
+    ],
+    "textEn": [
+      "\"They'll hold a family council soon to see if any of the family members are hiding you.",
+      "It doesn't look like she'll have the greenhorns search for you all over town, though.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "親族会議で問い質す、というのは鬼婆の手前だけのこと。",
+      "町中を根こそぎ捜す気がない、ということは、これは暗に私の存在を認めてくれてるようなものだ。",
+      "もちろん、目立つところに堂々と出て行けばすぐお縄になるのだが。"
+    ],
+    "textEn": [
+      "Holding a family council means that things will remain in the hag's hands alone.",
+      "She won't search the town for me. It's like she's unofficially approving my presence.",
+      "Of course, I'll get caught immediately if they find me in a large public place."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……母さんがずいぶん暗躍してくれたみたいだね。」"
+    ],
+    "textEn": [
+      "\"......Seems like Mom did a lot to help me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "母さんなりに、私の生き方を応援してくれてるのがわかった。",
+      "……長くなるから説明を端折るが、母さんは園崎家の血を引く人間だが少し異端なのだ。",
+      "ずいぶん昔、園崎家の戒律とかそういうのを徹底的に嫌ったことがあるらしく、",
+      "鬼婆ととことん喧嘩し、勘当されたこともあるらしい。",
+      "…本来、園崎家次期頭首は母さんだったのに、それが剥奪されて、孫であるお姉が次期頭首にスライドしたのには、そういう経緯があるらしい。",
+      "今でこそ大人しくなり、波風を立てないようになったが、母さんが異端であることにかわりはない。",
+      "…だから、園崎家のややこしい戒律で差別を被る私に、母さんは昔からいつも味方になってくれたのだ。"
+    ],
+    "textEn": [
+      "I can tell she's being supportive.",
+      "...It's a long story, but my mom is sort of an outlaw, even though she's of the Sonozaki bloodline.",
+      "A long time ago, she had a huge fight with the hag because she hated the family rules and traditions.",
+      "She was even excommunicated.",
+      "...My mom was supposed to be the successor, but she was deprived of the title and Sis took her place instead.",
+      "While she's quiet now, Mom's still an outlaw.",
+      "...She's always been on my side, because I also hate rules and traditions."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「親父、最初はすっごくカンカンだったらしいよ？",
+      "母さんがだいぶなだめたらしい。",
+      "…何のかんの言っても、親父は最後には母さんには勝てないからね。」"
+    ],
+    "textEn": [
+      "\"Dad was flaring up at first,",
+      "but Mom pacified him...",
+      "He can't win against her, after all.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ＯＫ、ありがと。",
+      "また何かあったら教えてね。",
+      "……本当の本当にヤバくなったら、私もこの町を離れるつもりだから。",
+      "葛西とか義郎叔父さんとか…それに母さんとか、世話になった人の顔は潰せないからね。」"
+    ],
+    "textEn": [
+      "\"Okay, thanks.",
+      "Let me know if something comes up...",
+      "If things really go bad, I'm ready to leave town.",
+      "I can't let Kasai, Uncle Yoshiroh... or Mom lose face.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…お姉、あんたが今、何を考えてるかわかりますよ。",
+      "どうして同じ血を分けた姉妹なのに、詩音だけこんな隠れるように生活しなきゃならないのか…でしょ？」"
+    ],
+    "textEn": [
+      "\"...Sis, I know what you're thinking.",
+      "You're asking yourself why only I have to go through this, even though we're twins, aren't you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音はしばらくの沈黙をもって、それを肯定した。"
+    ],
+    "textEn": [
+      "Mion was silent. That meant yes."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「詩音だけ…こんな窮屈な思いをするのはフェアじゃないよ…。",
+      "絶対。」"
+    ],
+    "textEn": [
+      "\"It isn't fair that only you have to live like this...",
+      "It's absolutely not.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…ありがと。",
+      "気持ちだけでもうれしいです、お姉。」"
+    ],
+    "textEn": [
+      "\"...Thanks.",
+      "I appreciate your feelings.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……表に出たい時とか、あったら相談して。",
+      "詩音がいつでも魅音になれるよう、協力するからさ…。」"
+    ],
+    "textEn": [
+      "\"...Tell me when you want to go out.",
+      "I'll arrange my plans so that I can trade places with you...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お姉の申し訳なさそうな口調。",
+      "…こういう時は、変に言葉を失ったり、付き合うようなことを言ったりすると泥沼になる。",
+      "お姉は私と違ってドライじゃない。",
+      "深みにはまると落ち込みやすい性分だ。",
+      "だから、そっけなくこう告げてやった。"
+    ],
+    "textEn": [
+      "She sounded apologetic.",
+      "...I shouldn't go quiet, or agree with her.",
+      "She sticks to things a little too much.",
+      "Once she goes down, she'll stay there for a while.",
+      "So, I just told her simply."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ありがと。",
+      "……実はそれが一番ありがたいです。",
+      "じゃ、切りますね。」"
+    ],
+    "textEn": [
+      "\"Thanks...",
+      "That's really nice of you.",
+      "Okay, I'm hanging up now.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「じゃあね、またね。」"
+    ],
+    "textEn": [
+      "\"Talk to you later.\""
+    ]
+  }
+]

@@ -1,0 +1,2680 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "目が覚めると、ちょうど日捲りカレンダーと沙都子が見えた。",
+      "先に起きた方が破るルールになってる。",
+      "だから、たまに寝惚けた２人が２枚破って、２日進めてしまう時もあった。",
+      "どうやら沙都子の中では、このカレンダーを破るのが個人的に流行っているらしく、最近は毎朝、率先して早起きしているようだった。",
+      "だが、そんな微笑ましい光景も、沙都子が破り取った後に表れた「２２日」に粉々にされてしまった。",
+      "……多分、今日だろう。",
+      "６月２２日。",
+      "私の死ぬ日だ。"
+    ],
+    "textEn": [
+      "When I woke up, the first things I saw were Satoko and the calendar.",
+      "The first one to wake up is supposed to tear yesterday's date off the calendar.",
+      "Sometimes, we both tear the calendar by mistake, so the date ends up two days ahead.",
+      "Satoko likes to tear the calendar, and that makes her wake up early every morning.",
+      "That would usually make me smile, but I felt devastated as soon as I saw the 22 on the calendar.",
+      "It's going to happen today...",
+      "June 22nd.",
+      "The day I die."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……おはようなのです。」"
+    ],
+    "textEn": [
+      "\"......Good morning...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「おはようございますですわよ、梨花ぁ。」"
+    ],
+    "textEn": [
+      "\"Good morning, Rika.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………ん、",
+      "…２人ともおはようです…。」"
+    ],
+    "textEn": [
+      "\".........Hm.",
+      "...Morning, you two...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「２人？？",
+      "あらあら、まだ寝惚けてるでございますのー？」"
+    ],
+    "textEn": [
+      "\"You two??",
+      "Are you still asleep?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー。",
+      "沙都子の他にもこの部屋に住んでいる人がいますのですよ？",
+      "その人にもおはようを言いましたのです。」"
+    ],
+    "textEn": [
+      "\"......Meep.",
+      "There's someone else living in this house other than you and I.",
+      "I just said good morning to that person as well.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「も、もう！",
+      "朝から怖がらせるのはなしでございますわよー！！」"
+    ],
+    "textEn": [
+      "\"H-Hey!!",
+      "Do not try and spook me like that!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……くすくす。これで沙都子は今晩、怖くてボクの手を握ってないと寝られないのです」",
+      "「……くすくすくすくす。」"
+    ],
+    "textEn": [
+      "\"...Hee hee... Satoko won't be able to sleep without holding my hand tonight.",
+      "......Hee hee hee hee.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "たまに、沙都子にも羽入が見えていて、３人で暮らしているような錯覚になるときがある。",
+      "…そうなればきっと楽しいだろう。",
+      "学校へ行く時間になっても、体が鈍かった。",
+      "今日、",
+      "殺される。",
+      "…それがわかっていると、何だか学校に行くのがとても億劫だった。",
+      "私は何度も死を繰り返す内に、自分の命日を嗅ぎ取る嗅覚だけは鋭くなったのかもしれない。",
+      "……こんな感じになる日は、決まって命日だった。"
+    ],
+    "textEn": [
+      "Sometimes I feel like Satoko can see Hanyuu, and it's as if the three of us are living together.",
+      "...That would be a lot of fun.",
+      "It was time to go to school, but my body felt heavy.",
+      "Today,",
+      "I was going to die.",
+      "Knowing that, I didn't even feel like going to school.",
+      "The more I've repeated the same life, the more precisely I can detect my day of death.",
+      "...I always die on the day I feel this way."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「梨花。",
+      "そろそろ学校に行きますわよ。」"
+    ],
+    "textEn": [
+      "\"Rika.",
+      "We ought to get going soon.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………………",
+      "ボクは、",
+      "今日はお休みしますです。」"
+    ],
+    "textEn": [
+      "\".........",
+      "I'm",
+      "taking the day off today.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…………梨花…。",
+      "……あの、圭一さんに聞きましたけど、…何か悩み事があるって本当なんですの…？」"
+    ],
+    "textEn": [
+      "\".........Rika...",
+      "...I heard from Keiichi-san... Are you troubled by something?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……あると言えばあるし、ないと言えばないです。」"
+    ],
+    "textEn": [
+      "\"......Kind of, but not really.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…………………？？」"
+    ],
+    "textEn": [
+      "\".........??\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今日になってどんな努力があるというのか。",
+      "それでも焦燥感を感じるのは未練なのか。",
+      "でも、足掻きたい心も同時にある。",
+      "私はこの世界に来てからの数日間。",
+      "運命と戦おうと意気込んでみたり、",
+      "そんなことは無駄なのかと諦めてみたり、",
+      "秋の空のように目まぐるしく考えが変わった。",
+      "圭一やみんなに、あれだけの力強さを見せられながら。",
+      "私は運命と抗おうという鉄の意思が持てなかった。",
+      "一番、自信に溢れていたのはいくつかのサイコロに６が連続した、他力本願な幸運が並んだ時だけ。",
+      "……結局、私は自分の力で運命を切り開く勇気というものを持ちたい持ちたいと願いつつ、",
+      "………それでも結局、運命の壁の高さに屈服して今日を迎える。",
+      "圭一たちは、みんなで結束することで奇跡が起こせると言ったが、",
+      "ひとつ教えてくれなかった前提がある。",
+      "それは、固く信じること。",
+      "自信が宿らなければ、運命という頑丈な壁に刃を突き立てることもできないのだ。",
+      "そんな当り前のことを、理解したり、挫けたり。",
+      "自らの立場を、舞台の上の役者なのか舞台の下の傍観者なのか、はっきりしなかったことのツケだ。",
+      "羽入には昨日、この世界が終わったらどうするか決めていないと言った。",
+      "でも、それは考えてみたらものすごく傍観者の考え方だ。",
+      "舞台の上の人々は、この世界ひとつしかない。",
+      "だから世界が終わることは全ての終焉だ。",
+      "だから、そんな運命とは死に物狂いになって戦うだろう。",
+      "だから、奇跡も起こせる。",
+      "人生をお気楽にリセットしてきた私には、その死に物狂いというのが常に中途半端だった。",
+      "不幸な運命に酔い、自分の運命は打ち破れないのを口癖にしてきた。",
+      "……だから、こんな今日を迎えてしまう。",
+      "それはまるで、夏休みの宿題を溜め込んで、明日になったら頑張ると言いながら最後の日を迎えてしまう子どもにそっくりだった。",
+      "では、その最後の日を迎えた子どもはどうするのだろう。",
+      "どうせ間に合わないのだから、少し手をつけてもつけなくても怒られるのは同じと開き直り、いつもと同じ夏休みを過ごすのか。",
+      "…それとも、同じ怒られるにしても、少しでも手をつけてあれば何かが違うと信じて、今さらの頑張りを見せるのか。",
+      "…………それとも、",
+      "奇跡が起こって、",
+      "一夜にして宿題が片付いてしまうのか。",
+      "……宿題に奇跡なんかない。",
+      "宿題は自分でやらなければならないものなんだ。",
+      "だから、自分が努力した分しか、片付かない。",
+      "自分以外の力ではドリルの１ページだってなくなりはしないのだ。"
+    ],
+    "textEn": [
+      "What else is there left to do?",
+      "Today is the day. It's too late now.",
+      "But part of me still feels like doing something.",
+      "I've been in this world only a few days.",
+      "My emotions went up and down like a rollercoaster.",
+      "Sometimes I felt motivated to fight,",
+      "and other times I felt desperate and gave up.",
+      "Even though Keiichi and everyone else showed me such strength,",
+      "I lacked the iron will to fight against my fate.",
+      "The most confidence I ever felt was when the dice all came up six, a fortunate coincidence that was just handed to me.",
+      "I was hoping to gain the courage to fight against my fate,",
+      "but here I am today, conceding to destiny.",
+      "Keiichi told me that we can make a miracle happen if we work together...",
+      "but there was something he didn't teach me.",
+      "He didn't teach me how to believe in that.",
+      "If I don't believe that I can make a miracle happen, I won't be able to make even a crack in the wall of fate.",
+      "It seems so simple, yet it's so difficult.",
+      "I couldn't even decide whether I should be on the stage, or stay off it and remain as a spectator.",
+      "I told Hanyuu that I haven't decided what to do after this world is over.",
+      "But that's the spectator's point of view.",
+      "For the people on the stage, this world is the only one.",
+      "For them, the end of the world means the end of their lives.",
+      "That's why they'd do anything to change their fate.",
+      "That's why they can make a miracle happen.",
+      "I never worked hard enough, because I always knew that I could reset my life.",
+      "I thought I was just one pathetic girl who couldn't change her own fate.",
+      "...That's why I ended up here again today.",
+      "It's as if I slacked off on my summer homework, and woke up on the last day of vacation with nothing completed.",
+      "What should I do?",
+      "Should I not work on my assignment, knowing that I'm not going to make it on time anyway?",
+      "Or should I do whatever I can, even though I may still get in big trouble...?",
+      ".........Perhaps,",
+      "a miracle will happen.",
+      "Perhaps the homework will be done overnight.",
+      "......Miracles don't happen to homework.",
+      "I have to do the homework on my own.",
+      "Without effort, nothing will ever get done.",
+      "Without effort, not even one question will be solved."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「………梨花の、好きなように過ごすといいと思いますです。",
+      "……梨花の大好きな窓際で甘いお酒を飲むのも、梨花らしい過ごし方だと思いますのです。」"
+    ],
+    "textEn": [
+      "\"......Rika, I think you should spend your day doing what you want to.",
+      "You can drink by the window all day, just the way you like doing.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「どうせ怒られるなら、最期の一日も気ままに過ごそうという開き直りね。」"
+    ],
+    "textEn": [
+      "\"You're suggesting that I shouldn't do anything since I know I'll get in trouble anyway?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "羽入にとっては、夏休みの宿題ではなく、夏休みそのものなのだろう。",
+      "私が夏休みが終わるのは嫌だと駄々をこねても、夏休みは必ず決まった日に終わりを迎える。",
+      "……そういう目線で見れば、私が宿題をやってないと騒ぎ、",
+      "今から少しでもやるのと開き直ってやらないのはどちらがいいかなんて言っているのはとても滑稽だ。",
+      "…しかも夏休みが終わるくらいなら死ぬなんて騒いでるのだ。",
+      "……逆の立場だったらお腹を抱えて笑ってるかもしれない。",
+      "宿題を終わらすために、みんなの力を頼れと圭一が言ってくれた。",
+      "それを私は、夏休みが終わった後に借りを残したくないし、先生に知られたら大変なことになるからと断る。",
+      "潔いなら初めからちゃんと宿題をやっていればよかった。",
+      "何も努力する気がないなら、無駄な考えで心を疲れさせずのんびり過ごせばよかった。",
+      "…形振り構わないなら、みんなの力を借りればよかった。",
+      "自らが昨日、羽入に言った３つの選択。",
+      "…私はどれすらも選んでいなかった。",
+      "百年以上も生きて、それすら決めていなかった。",
+      "そんな、無駄な百年だったのだ…。"
+    ],
+    "textEn": [
+      "For Hanyuu, it's not about the homework. It's more about the vacation itself.",
+      "The vacation will be over, no matter how much I want it to continue.",
+      "In her eyes, it's pathetic for me to make a big deal out of not completing my homework,",
+      "and contemplating whether I should still work on it or not.",
+      "On top of that, I'm saying that I might as well die if my vacation is going to be over.",
+      "If I was in her situation, I'd be laughing hysterically.",
+      "Keiichi told me to seek everyone's help in order to finish my homework.",
+      "But I'm not taking that offer, not only because I don't want to cause them trouble, but also because I don't want the teacher to know that I got help from them.",
+      "If I was going to have regrets, I should've worked on it from the beginning.",
+      "If I had no intention of working on it, I should've just relaxed without stressing so much.",
+      "If I didn't care what other people thought, I should've asked for their help in the first place.",
+      "Those are the three options I talked about with Hanyuu yesterday.",
+      "I didn't choose any of them.",
+      "I've been living for over a hundred years, but I still can't decide.",
+      "My hundred years were wasted..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子。",
+      "ボクは今日、風邪をひいてしまったのでお休みしますです。」"
+    ],
+    "textEn": [
+      "\"......Satoko.",
+      "I'm not going to school today, because I have a cold.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「そ、そうなんですの…？",
+      "体温計でお熱を測ります？」"
+    ],
+    "textEn": [
+      "\"I-Is that so?",
+      "Do you want me to take your temperature?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……今日はゆっくりさせてくださいです。",
+      "知恵には、ボクは風邪で休むと伝えて欲しいのですよ。」"
+    ],
+    "textEn": [
+      "\"......I need to rest today.",
+      "Could you tell Chie that I'm not coming because I'm sick?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「梨花…。",
+      "本当に風邪なんですの？",
+      "…何だか、命を狙われてるような話をしているって圭一さんが言ってて、…私、本当に心配してますのよ？」"
+    ],
+    "textEn": [
+      "\"Rika...",
+      "Are you really sick?",
+      "Keiichi-san told me that you're worried someone is trying to kill you... I'm very concerned, you realize?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………ありがとうです。",
+      "もう行かないと、遅刻しますですよ。」"
+    ],
+    "textEn": [
+      "\"......Thank you.",
+      "You should go now. You'll be late.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子は時計と私の顔を見比べると、最後に言った。"
+    ],
+    "textEn": [
+      "Satoko looked at the clock, then looked back at me again."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「私は、",
+      "…今、すごく幸せですのよ。"
+    ],
+    "textEn": [
+      "\"I'm...",
+      "very happy right now."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "みんなと楽しく過ごせて、また梨花と一緒に暮らせるようになってとても嬉しいですの。",
+      "………だから、",
+      "…梨花がいなくなったら、私がどれだけ悲しい世界に生き続けなくちゃならないか、……よく考えてほしいでございますのよ。」"
+    ],
+    "textEn": [
+      "I'm happy that I'm back with everyone, and that I'm living with you again.",
+      ".........So...",
+      "if I lose you... I'll be living in a very sad world... ...Just think about that.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………ボクの、",
+      "いない世界。」"
+    ],
+    "textEn": [
+      "\".........The world",
+      "without me.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「えぇ。",
+      "……梨花のいない世界なんて、…とても辛くて悲しい世界ですわ。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "...The world without you... would be a very sad world.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "考えたこともなかった。",
+      "…自分が死ねば世界は終わると思ってた。",
+      "だから、残された世界がどんな風になって続いていくかなんて、",
+      "…真剣に考えたことは一度もなかった。"
+    ],
+    "textEn": [
+      "I've never thought about that.",
+      "I thought that the world ended when I died.",
+      "I've never thought about the world after my death.",
+      "That was never my concern..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「だから、………どうか自分を、梨花が思っている以上に大事にしてほしいんですの。",
+      "…梨花ひとりの不幸じゃない。",
+      "…梨花に悲しいことがあれば、私も、そしてみんなも不幸になることを、決して忘れないでくださいですのよ。」"
+    ],
+    "textEn": [
+      "\"So please... take care of yourself.",
+      "It isn't just me.",
+      "...If anything happens to you, everyone will be sad.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………………………沙都子…。」"
+    ],
+    "textEn": [
+      "\"............Satoko...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……梨花。",
+      "今日はそっとしておきますけど、…悩みがあるなら絶対に相談するんですのよ？",
+      "仲間が悩んでいるのに、自分を頼ってくれないこともまた、悲しいんですから…。」"
+    ],
+    "textEn": [
+      "\"Rika...",
+      "I'll leave you alone for today, but please talk to me if you have something on your mind.",
+      "It's kind of upsetting how you won't talk to me...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子はもっと言いたいことがあるようだったが、",
+      "……それ以上は言葉が見付からず、俯いてしまった。",
+      "でも、沙都子の言いたいことは全て伝わった。",
+      "…私はなんて自分勝手に生きていたんだろうと思う。",
+      "世界を舞台に例えることすらなんて傲慢なことだったのか。",
+      "でも、それらが全て遅い…。",
+      "全て。",
+      "沙都子は大急ぎで駆け出して行った。",
+      "後には私と羽入だけが残される。"
+    ],
+    "textEn": [
+      "Satoko seemed like she wanted to say more,",
+      "but she looked at the floor instead.",
+      "I know what she's trying to say.",
+      "...I realize how selfishly I've been living.",
+      "It was wrong for me to look at this world as a stage play.",
+      "But it's too late...",
+      "It's too late now.",
+      "Satoko left the house in a hurry.",
+      "Hanyuu and I were left alone inside the house."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……僕もお邪魔でしょうから、梨花が呼ぶまで消えていますのです。」"
+    ],
+    "textEn": [
+      "\"...I can tell you want to be alone. I'll disappear until you call for me.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………気が利くのね。」"
+    ],
+    "textEn": [
+      "\".........Thank you.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……百年生きても、梨花は梨花です。",
+      "百歳の仙人にはなれないのです。",
+      "……梨花には、年相応に悩んで、考える時間があってもいいと思います。",
+      "…僕が梨花に、背伸びを強いたこともあるかもしれませんのです。」"
+    ],
+    "textEn": [
+      "\"You're still yourself, even after a hundred years.",
+      "You're not a hundred-year-old transcendent.",
+      "You deserve to think about your life as a young girl.",
+      "I don't want to force you to think like a grownup.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「羽入は悪くないわ。",
+      "……私が勝手に天狗になってただけよ。」"
+    ],
+    "textEn": [
+      "\"It's not your fault, Hanyuu.",
+      "...I was just being arrogant.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……僕とおしゃべりしたい時は呼んでくださいです…。」"
+    ],
+    "textEn": [
+      "\"...Call me if you want to talk.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「もう泣きつかないの？",
+      "私がこの世界で終わりにするのを撤回してほしいって。」"
+    ],
+    "textEn": [
+      "\"You're not crying anymore?",
+      "You're not going to beg me not to give up on my life?\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……梨花は頑固な人ですから。",
+      "言えば言うほど逆効果になりますのです。」"
+    ],
+    "textEn": [
+      "\"You're a stubborn person...",
+      "I know it's better to not be too persistent with you.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「くすくす。",
+      "…さすが、付き合いが長いだけのことはあるわね。」"
+    ],
+    "textEn": [
+      "\"Hee hee.",
+      "...After all these years, you know me very well.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「…………もう梨花も悟っているようですから言います。",
+      "…今日です。",
+      "悔いのない一日を。」"
+    ],
+    "textEn": [
+      "\"......I know you're already aware, but let me say this.",
+      "Today is the day.",
+      "Do your best.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………………。」"
+    ],
+    "textEn": [
+      "\"..........\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「梨花が何をしてもしなくても、朝が来て夏休みが終わるように、この世界も終わります。",
+      "でも、…梨花が望めば次の朝も訪れる。",
+      "……それはまたしても今年の６月かもしれないけれど、…朝は朝。」"
+    ],
+    "textEn": [
+      "\"No matter what you do or don't do, this world is going to end today.",
+      "But if you wish for it, you'll see a brand new day, just like when morning comes.",
+      "You might find yourself back in June of this year again... but it'll still be a brand new day.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………もっと小さい頃。",
+      "毎日が退屈で、毎朝、起きても同じ日が繰り返されてるんじゃないかって思ったことがある。",
+      "……それが本当になるだけのことだしね。」"
+    ],
+    "textEn": [
+      "\"......When I was younger,",
+      "every day seemed so boring. Every morning, I thought the same things would happen again after I woke up.",
+      "...This just means that'll end up being true.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……今日を有意義に生きてくださいとだけ、言いますのです。",
+      "これ以上は僕は何も言いませんです。」"
+    ],
+    "textEn": [
+      "\"Let me just tell you to live this day productively.",
+      "I'm not going to say anything else to you.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「多分、今日だろうと思っていたけど、………あんたにはっきりと言われると堪えるわね。",
+      "……やっぱり終わるのね、今回も。」"
+    ],
+    "textEn": [
+      "\"I knew today was the day... ......But it's still difficult to hear that from you.",
+      "...It's going to come to an end again, huh?\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「はい。",
+      "今回も終わりますです。",
+      "……いつもと同じように。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "It's going to end again.",
+      "Just like always.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "羽入は姿を消し、静寂の朝が訪れた。",
+      "今日をどうやって生きよう。",
+      "どんな心構えで終わりを迎えよう。",
+      "間に合わない宿題に、今さら申し訳程度に手をつけるのか、それとも諦めるのか。",
+      "私に残された時間は半日。",
+      "自分の納得がいくように生きてみよう。",
+      "それで、最期の時にまだ思うことがあったなら、考えてみよう。",
+      "世の中は理詰めじゃない。",
+      "…誰もがもっと気楽に生きてるんだ。",
+      "生をもっと、私は楽しむべきだったのだ。",
+      "生を楽しむというのは、気楽の楽しくという意味ではない。",
+      "……喜びも悲しみも悩みも、もっと本気で取り組んで、全力で生き抜くという意味だ。",
+      "それができたなら、死んだ時どうしようなんて考えない。",
+      "ただただ一生懸命に生きる。",
+      "終わりの時が、終わり。"
+    ],
+    "textEn": [
+      "Hanyuu disappeared, and it went completely quiet inside the house.",
+      "How should I spend my day?",
+      "How should I end this day?",
+      "Should I work on my homework, knowing that I'm not going to make it on time?",
+      "I only have half a day left.",
+      "I have to do my best.",
+      "I should think about what I can do.",
+      "This world is supposed to be a happy place.",
+      "People are enjoying their lives.",
+      "I should've enjoyed my life more, too.",
+      "I don't mean in that I should've lived my life in blind optimism.",
+      "It means that I should've enjoyed my life by fully experiencing both happiness and sadness.",
+      "If I did that, I wouldn't be as worried about what to do after my death.",
+      "I should've simply lived with all my might.",
+      "When the time comes, it'll be over."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……今日を、",
+      "生きる。」"
+    ],
+    "textEn": [
+      "\"...Today,",
+      "I will live.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それはとても大切な一言だけれど。",
+      "……無駄な時間を永遠に過ごすことができる自分が口にすると、あまりに軽々しく聞こえてしまうのだった…。",
+      "沙都子が登校した後、私は朝食の食器を洗った。",
+      "羽入は沙都子がいない時は、私と一緒にいることが多かった。",
+      "でも、今日はいない。",
+      "だから、…私が本当の意味でひとりぼっちになるのはものすごく久し振りだった。",
+      "ひとりで食器を洗うのが、こんなに悲しいものだと思わなかった。",
+      "どうせ私は今日で死ぬのに。",
+      "終わる世界なのに。",
+      "食器を洗うのは、どうしてだろう。",
+      "……それは、明日からひとり残される沙都子のことを思ったからだった。",
+      "私にとっての沙都子は、毎回毎回の新しい世界での沙都子だ。",
+      "でも、私はさっき沙都子に言われて初めて気が付いた。",
+      "…私が死んだ後に残される沙都子は、",
+      "……どんな思いで生きていくのだろう。",
+      "私がリセット感覚で投げてきた世界は、私にとっての幕が降りただけで、それぞれの世界はそのまま続いていく。",
+      "その世界の沙都子は、私がいなくてもちゃんと食事の準備ができるだろうか。",
+      "買い物を間違えないだろうか。",
+      "お洗濯はこなせるだろうか。",
+      "私が目を背けてきただけで、",
+      "……私が死に、悲しみに暮れる沙都子や仲間たちの姿が、私の死の数だけあったのだ。",
+      "今さらそんなこと考えても仕方がないのに、",
+      "……悲しくなった。",
+      "それは多分、",
+      "……この世界への未練だったのだろう。",
+      "この世界こそ、私の望んだ理想の世界だった。",
+      "そして、この世界が６月を越えてずっと続いていくのが望みだったのだ。",
+      "そして、その世界を私は長い旅の末にようやく手に入れた。",
+      "なのに、その世界に居られたのはたったの一晩。",
+      "…綿流しの祭りの晩だけだった。",
+      "今日、この世界を私が去ることで、この世界は壊れる。",
+      "仲間たちは、ようやく沙都子を助け出し、これからはみんなで楽しく過ごしていけると何の疑いも持っていないはずだ。",
+      "……にもかかわらず、",
+      "今日、",
+      "私は死ぬ。",
+      "仲間たちは悲しむだろう。",
+      "せっかくみんなで結束して起こした奇跡で得たこの世界を、わずか一日で失ってしまうことを嘆くだろう。",
+      "私はのうのうと次の世界で仕切りなおしの生活を始めるのだろうか。",
+      "…そんな私が３日過ごす間、",
+      "…この世界では悲しい時間が３日も過ごされていく…。",
+      "……駄目だ。",
+      "……何を考えても支離滅裂で、わけがわからない。",
+      "止め処なく溢れる涙がもう抑えられなくて。",
+      "……私はまだ畳んでいない布団の、沙都子の枕を抱いて泣いた。",
+      "沙都子の髪の匂いがした。",
+      "………でも、私が死ねば、きっと沙都子も同じように私の枕を抱いて泣くだろう。",
+      "みんなも泣いてくれるだろうか…？",
+      "…きっと泣いてくれるだろう。",
+      "そして、",
+      "………そして？",
+      "……悲しむ。",
+      "私の死にじゃない。",
+      "…悩みがあることはみんなが気付いてくれたのに、それを打ち明けてくれなかったことに、",
+      "悲しむ。",
+      "みんなは後悔するのだろうか。",
+      "どうすれば梨花ちゃんの心を開けたのか、",
+      "どうすれば力になれたのか、",
+      "……どうすれば梨花ちゃんを救えたのかと泣いてくれるのだろうか。",
+      "悲しくて悔しくて。",
+      "私は沙都子の枕を抱いてずっと泣いていた……。",
+      "そんな時、無粋な電話が鳴った。",
+      "無視したが鳴り止まない。",
+      "……ひょっとしたら、私を心配してくれたみんなかもしれないと変な期待をして受話器を取る。",
+      "…でも、変な男の声だった。"
+    ],
+    "textEn": [
+      "That's a very important phrase.",
+      "...But it sounds meaningless when I say it, because I can repeat this meaningless life as many times as I wish...",
+      "While Satoko was at school, I washed the dishes.",
+      "Hanyuu would usually stay with me when Satoko wasn't around.",
+      "But she's not here right now.",
+      "It's been a while since I was all by myself.",
+      "I never thought anyone could feel so lonely while washing the dishes.",
+      "I'm going to die today anyway.",
+      "This world is ending today.",
+      "Why should I wash these dishes?",
+      "......That's because I'm thinking about Satoko, who will have to move on with her life after tomorrow...",
+      "I will encounter a new Satoko in the next world.",
+      "But I realized something after hearing what Satoko told me earlier.",
+      "After I'm dead...",
+      "I wonder how Satoko will move on with her life.",
+      "The worlds that I've left in the past all went on without me.",
+      "I wonder if Satoko will be able to cook without me.",
+      "I wonder if she can go shopping on her own.",
+      "I wonder if she can wash her clothes by herself.",
+      "I've been avoiding thinking about this,",
+      "but Satoko and my other friends must've been overcome by sadness.",
+      "It's too late for me to think about this,",
+      "but I started feeling like I want to cry...",
+      "I'm feeling like this...",
+      "because I don't want to leave this world.",
+      "This is the world that I've always wanted.",
+      "It's my hope that I can continue to live in this world beyond June 1983.",
+      "After a long journey, I finally ended up in this world.",
+      "But I was able to truly live in this ideal world for only one night.",
+      "The night of Watanagashi...",
+      "This world will be shattered again after I die tonight.",
+      "We finally saved Satoko, and all our friends assume that our happy life has returned.",
+      "However...",
+      "I'm going to die",
+      "tonight.",
+      "They will mourn for me.",
+      "We worked so hard to make a miracle happen, but they're going to lose their happy world in just one day.",
+      "Am I going to start a new life in the next world, as if nothing happened...?",
+      "I'd live three days in my new world,",
+      "but three sad days were going to pass in this world...",
+      "...That's no good.",
+      "...I can't think straight anymore.",
+      "I couldn't stop the tears from flowing from my eyes.",
+      "I hugged Satoko's pillow and cried...",
+      "I could smell her scent.",
+      "......After I die, Satoko will probably hug my pillow and cry just like this.",
+      "Is everyone else going to cry for me too...?",
+      "I'm sure they will...",
+      "And...",
+      "...And?",
+      "They'll be sad.",
+      "Not about my death.",
+      "They'll be sad, not because I'm dead,",
+      "but because I never told them about what was troubling me so much.",
+      "I wonder if they're going to feel regret.",
+      "Will they wonder what they could've done to open up my heart,",
+      "what they could've done to help me in my time of trouble?",
+      "Will they wonder what they could've done to save me...?",
+      "I felt miserable and frustrated.",
+      "I held Satoko's pillow and continued to cry...",
+      "And the next moment, I heard the phone ringing.",
+      "I tried to ignore it, but it wouldn't stop ringing.",
+      "...I picked up the phone, hoping that my friends would call to check on me.",
+      "However, I heard a weird guy's voice coming from the receiver."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「どうもお世話んなっておりますんね。",
+      "小此木造園と申しますが古手さんのお宅でいらっしゃいますか。」"
+    ],
+    "textEn": [
+      "\"Hello.",
+      "This is Okonogi Gardeners. Is this the Furude residence?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………小此木。」"
+    ],
+    "textEn": [
+      "\"Okonogi......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "山狗の小此木だった。",
+      "……彼が直接私に電話してくるなんて初めての経験だった。"
+    ],
+    "textEn": [
+      "It was Okonogi from the Mountain Dogs.",
+      "...It was the first time I'd received a phone call from him."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「緊急のご連絡がしたくってお電話させてもらいましたん。",
+      "学校にお電話したら今日は休んだと言われましたもので。",
+      "具合は大丈夫ですかいね？」"
+    ],
+    "textEn": [
+      "\"I'm calling because I have something urgent to ask you.",
+      "I called the school, but they told me that you're sick today.",
+      "Are you feeling alright?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "自分の死ぬ日に具合のいいも悪いもない。",
+      "…もちろん、向こうはそんなことを知りはしないのだが、妙に無神経に聞こえて、私はひとりでカチンと来ていた。"
+    ],
+    "textEn": [
+      "I'm not alright. This is the day I die.",
+      "I knew he had no idea, but I still couldn't help but feel upset."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……風邪なのです。",
+      "ちょっと今日はゆっくりしていますです。」"
+    ],
+    "textEn": [
+      "\"......It's only a cold.",
+      "I just want to rest today.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「そうですか。",
+      "偶然とは言え、それは好都合だったですんね。」"
+    ],
+    "textEn": [
+      "\"Really?",
+      "Well, that's a very fortunate coincidence.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………え？」"
+    ],
+    "textEn": [
+      "\"...What?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "風邪をひいて自宅にいるというのが、小此木にとってどう好都合なのかわからず、私は少しぎょっとする…。"
+    ],
+    "textEn": [
+      "I had no idea what made him say that he was glad I was sick..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……どうしてボクが風邪をひくと小此木の好都合になるのですか。」"
+    ],
+    "textEn": [
+      "\"Why is it a fortunate for you if I'm home?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「いえ、",
+      "実は、あなたの命が狙われている可能性があるっちゅうん連絡が入ってきたんです。」"
+    ],
+    "textEn": [
+      "\"Well.",
+      "We got a tip from Tokyo that someone is planning to murder you.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…それはどういうことなのですか。」"
+    ],
+    "textEn": [
+      "\"What do you mean?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「この度の富竹氏たちの事件なんですが、",
+      "東京の調査の結果、入江所長が黒幕である可能性が高いっちゅう、連絡が入ってきました。」"
+    ],
+    "textEn": [
+      "\"Tokyo was investigating the murder of Tomitake-san and Takano-san.",
+      "Their investigation concluded that there's a high possibility Dr. Irie is pulling the strings.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………入江が、黒幕……？！」"
+    ],
+    "textEn": [
+      "\".........Irie is behind everything?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "このような連絡を受けたことは、数多の世界でも初めてだった。",
+      "たまに起こることではなく、本当に初めてのこと。",
+      "……ということは、何かの気まぐれなどでなく、",
+      "……普段とは違う石を投じたことによる波紋であることは間違いなかった。",
+      "今回の世界では、色々と普段とは違ったことをしている。",
+      "そのどれが作用したのかはわからない。",
+      "ただ、そんな珍しい「イベント」であっても、私の運命に大きな亀裂を与えるほどの変化になるかどうかは疑わしいのだが…。",
+      "小此木のエセ雛見沢口調は疲れるが、要約するとこういうことだった。",
+      "入江は、雛見沢症候群の研究が段階的に縮小され、近年中に完全に終了される決定に反対していたという。",
+      "その裏では実は入江が、東京からの研究費を水増し請求し、横領していたというのだ。",
+      "それで研究の段階的中止が決定したので、最後に研究を売り巨額の大金を得ようと企んだ、という…。"
+    ],
+    "textEn": [
+      "This is the first time I've heard something like this.",
+      "This isn't something that happens at random. It's the very first time.",
+      "...That means it's not just a coincidence.",
+      "I'm hearing this now because of something that I did differently in this world.",
+      "I've done many things differently in this world, though.",
+      "I can't tell which decision led me to this result.",
+      "However, maybe this is something that could change my life drastically...",
+      "Okonogi continued to explain to me.",
+      "There had been budget cuts to their research, and they were scheduled to be shut down within a few years.",
+      "Irie was strongly against that, because he was embezzling their research money by requesting bigger and bigger budgets.",
+      "Because they were going to cancel their research, he tried to sell the research data and make a lot money off of it..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………それは",
+      "…本当なのですか…。」"
+    ],
+    "textEn": [
+      "\"......Is that...",
+      "really true...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「信じたくないでしょうが、事実ですんね。",
+      "まぁ、入江所長はどこか後ろめたそうなところがありましたんよ、すったらんなぁ感じでした。」"
+    ],
+    "textEn": [
+      "\"I know it's hard to believe, but it is.",
+      "I always thought that he was kind of suspicious myself.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入江がそんなことをする人ではないと知っているつもりだ。",
+      "数多の世界で入江と交流してきたが、少なくとも入江は悪い人ではない。",
+      "悪い人になる度胸すらない。",
+      "研究のために冷酷さを装いつつも、色々な後悔が抜け切れない、",
+      "……早い話がいい人だ。",
+      "その入江が、実は裏で、東京からの危険な金を着服していたなんて、にわかには信じ難い。",
+      "……それを言ったら、私が今、疑いかけている鷹野だって、入江とはタイプが違うが決して悪い人じゃない。",
+      "上辺は意地悪そうだが、実際は子どもっぽい無邪気な人だった。",
+      "でも、それが大石からもたらされた、岐阜の死体は鷹野ではないかもしれないという一言で揺らいでいる。",
+      "その鷹野の部下が小此木。",
+      "だから小此木は信用できない、",
+      "だから小此木が悪く言う入江は逆に信用できる、",
+      "という論法は、最初の前提が間違っていると大変な誤解を生みかねない。",
+      "でも、富竹と入江はごく普通に交流していたと思う。",
+      "……もし、東京が入江の資金着服を疑っていたなら、富竹はもっと厳しい口調で入江に接していたと思う。",
+      "とにかく、少なくとも東京から来ている富竹は、入江に対してそういう悪い印象を持ってはいなかった…。",
+      "…………入江機関の入江と東京の富竹、仲良し。",
+      "……東京の富竹と東京の鷹野、仲良し。",
+      "……東京の鷹野と東京の小此木、上司と部下。",
+      "……東京の小此木の言う東京は、",
+      "入江を疑ってる。",
+      "何だかおかしい。",
+      "一見するとみんな仲良しのはずなのに、",
+      "………最後と最初がつながらない。",
+      "入江は東京と普通の関係のつもりなのに、東京は入江を疑っているという。",
+      "おかしいおかしい。",
+      "ちゃんと線はつながっているのに、どこかでぐるりと一回転ねじれてしまって、",
+      "…輪っかがおかしくなっている。"
+    ],
+    "textEn": [
+      "I think I can say with certainty that Irie is not that type of person.",
+      "I've been around him for years, and as far as I know, he's not a bad guy.",
+      "He doesn't even have the guts to be one.",
+      "He pretends to be cold-hearted for the sake of his research, but he can't shake his regrets.",
+      "...He's simply a nice person.",
+      "It's hard to believe that he was embezzling money from Tokyo.",
+      "...I'm starting to be suspicious of Takano, but she's actually a nice person too.",
+      "She seemed mean at times, but she could also act as innocent as a child.",
+      "However, I'm starting to suspect her because Ooishi told me that the body they found in Gifu might not be Takano's body.",
+      "Okonogi works for Takano.",
+      "That means I can't trust Okonogi.",
+      "In other words, I can trust Irie, because Okonogi is clearly just trying to set him up.",
+      "On the other hand, if Takano isn't guilty, I could be making a huge mistake.",
+      "Yet, it always seemed to me as though Tomitake and Irie were good friends.",
+      "If Tokyo had suspected that Irie was embezzling money from them, Tomitake would've treated him far more coldly.",
+      "Anyway, at the very least, Tomitake of Tokyo didn't have such a bad impression of Irie...",
+      "......The Irie of the Irie Institute and Tomitake of Tokyo were good friends.",
+      "...Tomitake of Tokyo and Takano of Tokyo were good friends.",
+      "...Takano of Tokyo and Okonogi of Tokyo were superior and subordinate.",
+      "...But Okonogi of Tokyo says that Tokyo",
+      "is suspicious of Irie.",
+      "This doesn't make sense.",
+      "Everyone seems to be good friends at first glance...",
+      "...but the links don't connect from start to finish.",
+      "Irie thinks he has a positive relationship with Tokyo, but Tokyo is suspicious of Irie...?",
+      "That's just odd.",
+      "The chain should be connected, but one of the links is twisted out of order.",
+      "...It's breaking the loop."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「すでに東京が内偵に着手してますんね、詳しいことはもうちょい待ってほしいそうです。",
+      "また、入江はあなたを何らかの交渉の最後の切り札に使おうとしている可能性があるらしく、あなたに対する警護体制を本日よりさらに強化せよとの命令が来ました。"
+    ],
+    "textEn": [
+      "\"Tokyo is conducting further investigations at the moment.",
+      "We also have information that Irie is trying to use you as a bargaining chip. For that reason, we've been told to tighten up your security, starting today."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "………それでご自宅に居られるんはぁ都合がいいと言ったんですんね。",
+      "すでに、古手神社の周辺は山狗が３交代２０人体制で警護に入らせていただきましたん。",
+      "…もちろん、ご安心ください、それっちゃぁわからなんように気を利かせてますんね。」"
+    ],
+    "textEn": [
+      "That's why I'm glad that you're at home right now.",
+      "There are twenty security guards patrolling the Furude shrine in three shifts.",
+      "You may not notice, but they're there for you.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……すごい警護体制なのです。",
+      "…その警護はいつまで続くのですか。」"
+    ],
+    "textEn": [
+      "\"......That's a lot of security.",
+      "How long are you going to guard me like that...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「東京から解除の命令が来るまでずうっとですんね。",
+      "今回の一件が解決するまでです。」"
+    ],
+    "textEn": [
+      "\"Until Tokyo feels you're no longer in danger.",
+      "Until this whole case is resolved.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今日死ぬ運命にある私にとって、それは本来とても喜ぶべきことだった。",
+      "このような厳重な警戒態勢がほしくて、鷹野に祭具殿の中を公開してまで頼んだんじゃないか。",
+      "……でも、",
+      "心に違和感。",
+      "東京は私の味方。",
+      "という図式も、さっきの入江と東京の関係という図式と同じで、",
+      "ここは良好にくっ付いているのに、",
+      "……ぐるりと一周すると、いつの間にかねじれているような違和感を感じるのだ。",
+      "違和感の正体は、東京の立場のあやふやさだった。",
+      "東京は入江と良好な関係を築いている。",
+      "…にもかかわらず、同時に入江を疑っている。",
+      "……入江が実は悪い人だったとか、",
+      "…鷹野が実は生きていて富竹殺しの真犯人かもしれないとか、",
+      "……そういう要素が東京という存在をややこしくしている。",
+      "東京はひとつの組織だからひとつの意思を持つと思ってきた。",
+      "……でも実は、",
+      "……二つの意思、",
+      "もしくは二つの………えっと、何て言うんだっけ。",
+      "新聞の政治欄でよく見る言葉だ…。",
+      "……そうそう、派閥だ。",
+      "東京にも、入江と良好な関係を築こうという派閥と、入江を貶めようとする派閥の２つがあるのではないか…？？",
+      "そう考えると、この歪な輪っかのねじれが何だか説明できるような気がした。",
+      "……私は先入観から、大石に感化されすぎているのだろうか？",
+      "大石に鷹野が怪しいという話さえ聞かされなかったら、小此木のこの話をもう少し受け容れていたかもしれない…？",
+      "いや、そんなことはない。",
+      "大石の話を抜きにしても、小此木の話はやはりおかしい。",
+      "……入江は雛見沢の奇病に対して献身的に尽くす研究者だ。",
+      "それを東京も理解しているからこそ、富竹と入江の温和な関係ができるんじゃないか。",
+      "それに、入江には横領なんて大それた真似をする度胸はない。",
+      "堅実さと善意がモットーの小市民だ。",
+      "……もちろん、一端の研究者としての野心は多少はある。",
+      "でもそれは、研究者なら誰もが持つ常識の範囲内であって、大掛かりな着服に手を染めるような犯罪度胸とはまったく異なる。",
+      "大勢の山狗が私の警護に入る。",
+      "それはこれまでの世界では私が望んできたこと。",
+      "なのに、",
+      "……なぜか素直に喜べない。",
+      "心の暗雲を払えない。",
+      "空っぽの鶏小屋。",
+      "口の周りに鶏の羽のついた狐。",
+      "私は自分の番をさせる相手が本当に信用できるのかわかりかねていた。",
+      "………だが、最後の最後で小此木のこともちゃんと思い返してみた。",
+      "山狗は今日まで何年間も私を警護してくれた。",
+      "小此木のその実績は数多の世界でも証明されている。",
+      "私は特別な存在だ。",
+      "万が一のことがあったら大変なことになる。",
+      "だから、「雛見沢症候群」が表沙汰にならないよう入江機関が隠蔽し、",
+      "さらに私に何らかの悪意ある魔手が迫らないよう、小此木たち山狗が守ってくれている。",
+      "なぜ、これまで守ってくれていた山狗が、ここに来て手の平を返す？",
+      "………さっぱりわからない…………。",
+      "とにかく、ひとつだけ言えることは。",
+      "…今の私は、山狗の警護で胸を撫で下ろせる心境ではないということだった…。",
+      "東京とは違う人の警護がほしい。",
+      "………でも、その人はきっと私を信じてはくれないだろう。",
+      "……いや、",
+      "…大石ならどうだ？",
+      "先日以来、大石は私と少なからずの連携をしている。",
+      "大石は、連続怪死事件が村の陰謀だと信じていて、私はその内部にいる反対分子だと思っている。",
+      "……陰謀だと信じてくれているなら、東京という存在の説明抜きに、私が命を狙われているということを信じてくれるのではないだろうか。",
+      "大石にとって、今の私は貴重な情報源のはずなのだから。",
+      "確か山狗は警察を嫌ったはず…。",
+      "叔父を暗殺してほしいと頼んだ時も、警察の監視があるから近寄れないとかなり慎重だった。",
+      "だから、警察にも二重で私を警護してもらえれば、きっと心強い。",
+      "山狗が、実は東京の悪意ある派閥の手先だったとしても、警察が居れば手は出せない。",
+      "そして、もし山狗に対する疑念が誤解だったとしたらこれはとても理想的な警護になる。",
+      "陰と陽の二重警護ラインは簡単には突破できないはずだ。"
+    ],
+    "textEn": [
+      "That should have been good news for me, since today was the day I was supposed to die.",
+      "This is exactly the kind of security I wanted. That's why I let Takano into the ritual storehouse.",
+      "...However,",
+      "I have a bad feeling about this.",
+      "Tokyo should be my ally.",
+      "But that arrangement is just like Irie's relationship with Tokyo--",
+      "everything seems in order from my end,",
+      "...But when you trace it the other way, it feels like something's off at some point.",
+      "I have this uncomfortable feeling because I have a few uncertainties about Tokyo.",
+      "Tokyo and Irie have strong ties...",
+      "but they're suspicious of him?",
+      "...Is Irie actually a bad guy?",
+      "...Is Takano still alive, and is she the one who killed Tomitake?",
+      "...Those questions and more made me uncertain about accepting help from Tokyo.",
+      "I'd thought Tokyo, as a single organization, would move with a single intention.",
+      "...But in reality...",
+      "they have multiple, different intentions.",
+      "In other words, there must be multiple... what's the word...?",
+      "I see it in the political section of newspapers all the time...",
+      "...Ah, right. Factions.",
+      "Are there two factions in Tokyo? One that wants to remain friendly with Irie, and one that looks down on him...?",
+      "That would explain the irregularities I'm sensing.",
+      "...Maybe I've been talking to Ooishi too much?",
+      "If he hadn't told me that he was suspicious of Takano, would I have believed Okonogi without a doubt...?",
+      "Well, maybe not.",
+      "Even without Ooishi's theory, Okonogi still sounded very suspicious.",
+      "Irie was loyal to his research on Hinamizawa Syndrome.",
+      "Tokyo understood this, so his relationship with Tomitake wasn't particularly strained.",
+      "Plus, Irie isn't the type of person who would commit embezzlement.",
+      "He's a law-abiding citizen with a good moral character.",
+      "...Of course he has some ambition as a researcher.",
+      "But that only goes as far as common sense expects any researcher to. It's nothing like the criminal aspirations that would lead to major embezzlement.",
+      "A great number of the Mountain Dogs were going to be guarding me.",
+      "This is what I'd been wanting in my previous lives.",
+      "But...",
+      "for some reason, I couldn't be happy about it.",
+      "I couldn't help but feel depressed.",
+      "If this house is like an empty birdcage,",
+      "then they'd be the fox with feathers stuck to its face.",
+      "I don't know if I can really trust the people who are protecting me.",
+      "...I tried to recall more about Okonogi.",
+      "The Mountain Dogs have been protecting me for years.",
+      "Okonogi proved his skills in many of my other lives.",
+      "To them, I'm something of a special existence.",
+      "If something happens to me, it would be a disaster.",
+      "The Irie Institute is there to keep Hinamizawa Syndrome under control,",
+      "and the Mountain Dogs are there to protect me from evildoers.",
+      "So why would they try to betray me now...?",
+      "......I thought about it for a while, but I had no idea......",
+      "I just know one thing for sure.",
+      "I can't feel comfortable with the protection of the Mountain Dogs alone...",
+      "I want someone other than Tokyo protecting me.",
+      "...But I bet such a person wouldn't believe me.",
+      "...Wait...",
+      "...what about Ooishi?",
+      "I've been keeping in touch with Ooishi since the other day.",
+      "He still thinks that the mysterious deaths in Hinamizawa are all plotted by the village authorities.",
+      "If he believes that, then he might believe that my life is in danger...",
+      "For him, I'm a special person with lots of useful information.",
+      "The Mountain Dogs hate the police, though...",
+      "When I asked them to assassinate Satoko's uncle, they refused because he was being watched by the police.",
+      "I would feel relieved if the police were guarding me along with the Mountain Dogs.",
+      "That way, the Dogs wouldn't be able to harm me, even if they were working for an evil faction of Tokyo.",
+      "Besides that, if my suspicions toward them turned out to be baseless, more protection couldn't hurt.",
+      "I'm sure that double security will keep me safe."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……わかりましたです。",
+      "今日は大人しくしていますです。」"
+    ],
+    "textEn": [
+      "\"......I understand.",
+      "I'll stay home for today.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「えぇ、そうなさって下さるとうちらも助かりますんね。",
+      "町へ繰り出して、変なちんぴらに喧嘩でも売られると、うちらも苦労しますん。」"
+    ],
+    "textEn": [
+      "\"Yes, please do.",
+      "And please don't go out into the city and try to pick a fight with delinquents...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー。",
+      "根に持たれているのです。」"
+    ],
+    "textEn": [
+      "\"......Meep.",
+      "Sorry about that...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「はっはっはっは。",
+      "ではそういうことです。",
+      "風邪、お大事になさってください。」"
+    ],
+    "textEn": [
+      "\"Ha ha ha ha...",
+      "Anyway,",
+      "please take care of yourself.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……風邪の診察に診療所に行ってはいけませんですか。」"
+    ],
+    "textEn": [
+      "\"I have a cold, so may I at least go to the clinic...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「万が一ということがありますんね、入江診療所には当分近寄らないでください。",
+      "妙な注射でも打たりゃあすと大変ですかいね。」"
+    ],
+    "textEn": [
+      "\"You never know what might happen, so please don't go near there for a while.",
+      "I don't want them to inject you with anything suspicious.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………入江はそんなことしないです。」"
+    ],
+    "textEn": [
+      "\".........Irie would never do anything like that.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「しないとうちらも思いたいですがんね…。",
+      "その疑いが解けるまで、ちょいとしばらく慎重にしてほしいっちゅうこってん、あんじょうご理解をいただきたいんですわ。」",
+      "……すったらん、しゃもないのー、です。」"
+    ],
+    "textEn": [
+      "\"That's what we want to believe...",
+      "But you need to be careful of him until things are cleared up.",
+      "......So, I have no choice, huh...?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「え？",
+      "ははははは…！",
+      "……小此木もいつの間にかすっかり地元言葉になりましたです。」"
+    ],
+    "textEn": [
+      "\"No?",
+      "Hahahahaha...",
+      "...You've totally picked up the local dialect, Okonogi.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「最初は普通の東京訛りだったです。",
+      "直せと言われれば直せるつもりですがね。",
+      "地域に溶け込むのが仕事ですから。」"
+    ],
+    "textEn": [
+      "\"I used to have a normal Tokyo accent.",
+      "I like to think I can fix it when asked, though.",
+      "After all, it's my job to blend in with the local culture.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それで小此木との電話は終わった。",
+      "受話器を置くと同時に、私は電話帳を開き、興宮署の電話番号を探した。",
+      "見れば時間はもうお昼前。",
+      "…なぜか電話帳のページが嫌にベタついて張り付く感じがする。",
+      "焦っているんだなと思った。",
+      "……あぁ、私はやっぱり死にたくないんだなと思う。",
+      "それはつまり、この世界への未練。",
+      "この理想の世界を去りたくないという私の強い意志。",
+      "死にたくないから足掻く。",
+      "それこそ、思い切り生きるということ。",
+      "生を楽しむということ。",
+      "……………私は初めて、いじけてワインを飲んで過ごす最期の日と決別するのだった。"
+    ],
+    "textEn": [
+      "I finished speaking with him.",
+      "As soon as I hung up the phone, I opened my phone book and looked for the number to the Okinomiya police department.",
+      "It was nearly noon.",
+      "...It felt like the pages of the phone book were sticking to my skin.",
+      "I must have been in a hurry.",
+      "I really don't want to die...",
+      "I want to stay in this world.",
+      "I don't want to leave this perfect world.",
+      "I'm trying to do something, because I don't want to die.",
+      "I'm trying to live with all my might.",
+      "I'm trying to enjoy my life.",
+      ".........For the first time, I was spending my last day positively, without drinking wine until I was drunk."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「もしもし、大石です。",
+      "お待たせしてすみませんでしたねぇ。",
+      "ちょいと今から岐阜に行ってこようとしてたところでした。",
+      "どうもあちらさん、話が通らないんで、直に襟首を掴んで揺すってやろうと思いましてね。」"
+    ],
+    "textEn": [
+      "\"Hello, it's Ooishi.",
+      "Sorry for the wait.",
+      "I was getting ready to leave for Gifu prefecture.",
+      "I was going to browbeat them until they owned up to botching the case.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……岐阜。",
+      "鷹野の死体のことですか。」"
+    ],
+    "textEn": [
+      "\"......Gifu.",
+      "You're talking about Takano's body?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「えぇ。",
+      "周りは勝手に納得して鷹野の死体に間違いないって繰り返すんですが、私ゃあもうどうにも腑に落ちない。",
+      "それで直接行って見てこようと思います。",
+      "死体が鷹野でないとわかれば話は一気に急展開しますからね。"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "My colleagues are convinced that the body is Takano, but I'm still not satisfied.",
+      "That's why I'm going there myself.",
+      "If that body isn't Takano, this is going to be a whole different story."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "鷹野を重要参考人として手配できます。",
+      "幸い、向こうの柔道部とは交流がありますので、岐阜県警にも味方は大勢います。",
+      "ちょいとみっちり話し込んできますよぅ？",
+      "んっふっふっふ！」"
+    ],
+    "textEn": [
+      "We can put out a search for her as a material witness, see.",
+      "Fortunately, I have a lots of connections in the Gifu police department.",
+      "I'll go have a nice, long talk with them.",
+      "Nfu fu fu!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石なりに積極的に捜査を進めているようだった。",
+      "鷹野の死体が本人であるとわかれば、鷹野には気の毒だがそれはそれで山狗を信じるひとつの切っ掛けになる。",
+      "……逆に、鷹野の死体が偽装であれば、鷹野こそが黒幕であるというひとつの手掛かりになる。",
+      "どちらの結果が出ようと、私にとってはとても重要な何かになるはずだった。",
+      "……それが、私の生きている内にもたらされればの話だが。",
+      "…しかし困った…。",
+      "だとしたら大石は岐阜に行ってしまう。",
+      "私を守ってくれない。"
+    ],
+    "textEn": [
+      "It looked like Ooishi was proactively moving forward with the investigation.",
+      "If that body is really is Takano, that would be sad for her, but it would give me reason to trust the Mountain Dogs.",
+      "If that's not Takano, then it would tell me that she's part of this whole incident...",
+      "No matter what the result is, it will give me some kind of hint.",
+      "But only if I'm still alive...",
+      "...But really, it's unfortunate...",
+      "Ooishi is leaving for Gifu.",
+      "He can't be around to protect me."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……大石。",
+      "実は、変な声の電話があったのです。",
+      "知らない人でしたが、村人だと名乗りましたです。」"
+    ],
+    "textEn": [
+      "\"......Ooishi.",
+      "Some stranger called me today.",
+      "I don't know who it was, but he said he's one of the villagers.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「匿名の電話、ですか？",
+      "ふむふむ。",
+      "続けてください。",
+      "その電話は何と？」"
+    ],
+    "textEn": [
+      "\"He didn't tell you who he was...?",
+      "Hmm, I see.",
+      "Please, go on.",
+      "What did he tell you?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクを殺そうとしている人たちがいる、というのです。",
+      "早ければ今日にも決行すると言ってますです。」"
+    ],
+    "textEn": [
+      "\"He told me that someone is going to kill me.",
+      "He said they'd kill me tonight at the earliest.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「それは本当ですか…！！",
+      "なるほど、それは有り得ない話じゃないな…。",
+      "むむむむ！",
+      "………わかりました。",
+      "私はもう出発しなければなりませんので行けませんが、警官を何人か行かせます。",
+      "駐在にも連絡してあなたの近辺を警戒するように伝えましょう。",
+      "今日はご自宅ですよね？"
+    ],
+    "textEn": [
+      "\"Is that true...?!",
+      "I see. That's not outside the realm of possibility...",
+      "Hmmmm!",
+      "...I see.",
+      "I have to leave soon, but I'll send some officers over there.",
+      "I'll tell them to keep you safe.",
+      "You're home right now, right?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "風邪か何かですか？」"
+    ],
+    "textEn": [
+      "Do you have a cold or something?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「家に居て戸締りをしっかりしてください。",
+      "すぐに警官を行かせます。」"
+    ],
+    "textEn": [
+      "\"Just stay home and lock your doors and windows.",
+      "I'll send someone over immediately.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「大石さぁん、どうしたんすか？",
+      "先方との約束の時間、ぎりぎりですよ。」"
+    ],
+    "textEn": [
+      "\"What's wrong, Ooishi-san?",
+      "You'll be late for your appointment.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……今ね、古手梨花から電話がありました。",
+      "匿名の電話があり、彼女の命を誰かが狙っているらしいと警告してきたらしいって言うんです。」"
+    ],
+    "textEn": [
+      "\".......I just got a call from Rika Furude.",
+      "Someone called to warn her that she was going to be murdered.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「古手梨花をですか…！",
+      "どうして？！",
+      "村のマスコットじゃなかったんですか？」"
+    ],
+    "textEn": [
+      "\"Someone is trying kill Rika Furude?!",
+      "But why?!",
+      "I thought she was like the village mascot?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「連続怪死事件絡みで私と接触してたことに対する警告じゃないかと見てます。",
+      "本当に殺すかどうかは疑わしいが、彼女も年頃の子どもです。",
+      "命を狙われていると聞かされたら穏やかにはいられないでしょう。"
+    ],
+    "textEn": [
+      "\"It might be a warning for contacting me about the incidents in the village.",
+      "I don't know if they're really trying to kill her, but she's just a young girl.",
+      "I'm sure she's very frightened right about now."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "それに、ここで信頼を損ねると以後の関係にも支障を来たしますからね。",
+      "２〜３人でいいです、大至急行かせてください。"
+    ],
+    "textEn": [
+      "Plus, if we lose her trust now, that might hurt our relationship in the future.",
+      "Two or three officers are enough, but please send them over at once."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "あと駐在さんにも連絡して、とりあえず彼女を安心させてあげてください。」"
+    ],
+    "textEn": [
+      "Also, get a hold of her local officer and have them reassure her some.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「了解っす！！」"
+    ],
+    "textEn": [
+      "\"Yes sir!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "古手梨花は、連続怪死事件の唯一の手掛かりになるかもしれない人間だ。",
+      "殺されるわけにはいかない。"
+    ],
+    "textEn": [
+      "Rika Furude might have some kind of hint regarding the mysterious deaths in Hinamizawa.",
+      "Ooishi couldn't let her die."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「私たちも岐阜のわからずや共を締め落としたら、すぐに雛見沢へ行きましょう。",
+      "ちょいとハードな出張スケジュールになりましたよぅ？」"
+    ],
+    "textEn": [
+      "\"We should head back to Hinamizawa as soon as we get the Gifu police department to spill the beans.",
+      "This is going to be a pretty tight schedule for our business trip.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「はははは、こんなの楽勝っす！」"
+    ],
+    "textEn": [
+      "\"Hahahaha, this'll be a piece of cake!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Hibari",
+    "labelJp": "雲雀",
+    "textJp": [
+      "「こちら雲雀。",
+      "……駐在警官が境内に入りました。",
+      "Ｒ宅へ向っています。」"
+    ],
+    "textEn": [
+      "\"This is Skylark.",
+      "A local police officer is on the shrine property.",
+      "He's heading toward R's house.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「了解。",
+      "引き続き監視されたし。」"
+    ],
+    "textEn": [
+      "\"Roger.",
+      "Continue observation.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Hibari",
+    "labelJp": "雲雀",
+    "textJp": [
+      "「Ｒと接触。",
+      "警官を中に入れました。」"
+    ],
+    "textEn": [
+      "\"Encountering R.",
+      "She let the officer inside.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Hibari",
+    "labelJp": "雲雀",
+    "textJp": [
+      "「興宮署にＲから連絡があったようです。",
+      "自身の身辺警護を依頼したと思われます。」"
+    ],
+    "textEn": [
+      "\"R called the Okinomiya police department.",
+      "She requested protection on her own.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「……うちらのことはしゃべったんかいね。」"
+    ],
+    "textEn": [
+      "\"Did she tell them about us...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Hibari",
+    "labelJp": "雲雀",
+    "textJp": [
+      "「命を狙われているとの匿名電話があったと言っています。",
+      "作り話でしょう。",
+      "また、それとは別に興宮署から私服警官が数人派遣されるようです。」"
+    ],
+    "textEn": [
+      "\"She told them that she got an anonymous call.",
+      "I'm sure that's made up.",
+      "The Okinomiya police department is sending a few more officers to her location.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「何ねん。",
+      "山狗だけじゃあ信用できんってこっかいね…。」"
+    ],
+    "textEn": [
+      "\"What?",
+      "Doesn't she trust the Mountain Dogs...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Hibari",
+    "labelJp": "雲雀",
+    "textJp": [
+      "「厄介ですね。",
+      "監視体制にも支障が出ます。」"
+    ],
+    "textEn": [
+      "\"This is trouble.",
+      "it's going to prove more difficult to continue the mission.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「……まさか、…気付いたんじゃねんかね。",
+      "……そんな訳はないとは思うが。",
+      "全班に職質に注意しろと伝達。",
+      "疑われたら意味ないんね、あんじょう警戒しろっちゅ、伝えてぇな。」"
+    ],
+    "textEn": [
+      "\"...Is it possible... that she somehow found out?",
+      "Well, we're probably safe.",
+      "Just tell the team to be aware of the officers.",
+      "We don't want them to become suspicious of us.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Hibari",
+    "labelJp": "雲雀",
+    "textJp": [
+      "「了解。",
+      "本部より全班。",
+      "古手神社周辺に警察介入の動きあり。",
+      "職質には特に注意されたし。」"
+    ],
+    "textEn": [
+      "\"Roger.",
+      "HQ to all units.",
+      "There are police officers around the Furude shrine.",
+      "Please be mindful of them."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Hibari",
+    "labelJp": "雲雀",
+    "textJp": [
+      "今夜の決行ですが、様子を見た方がよろしいのでは。」"
+    ],
+    "textEn": [
+      "We may have to postpone tonight's mission...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "「連絡はするが、三佐はやるっちゅう言うだろな。",
+      "明朝にＲの死亡が発覚して話が進むよう、もうお膳立てが済んどるって話だ。",
+      "警官に不審と思われとない。"
+    ],
+    "textEn": [
+      "\"I'll call her, but I'm sure the major will order a go anyway.",
+      "Everything's already set up for R to be discovered dead tomorrow morning so we can move to the next stage.",
+      "But we don't want the police to suspect us."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okonogi",
+    "labelJp": "小此木",
+    "textJp": [
+      "もし疑われたら大人しゅう退くこっちゃん。」"
+    ],
+    "textEn": [
+      "If they start suspecting you, just leave quietly.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石はすぐに連絡してくれたらしい。",
+      "電話を終えてからものの１０分もしない内に駐在の警官が飛んできた。",
+      "警官らしく、どんな電話が掛かってきたのか事細かに聞かれた。",
+      "……適当にでっちあげておく。",
+      "電話の交信記録を調べられたらそれまでだが、大石は多分、そんな無粋なことはしない。",
+      "私のことを連続怪死事件の重要な情報源と位置づけてるだろうから、それでも守る価値があると思ってくれるはずだ。",
+      "駐在の警官とは、村の住民でもあるわけで、私とは無論、馴れ馴れしいくらいの面識がある。",
+      "もうすぐ署から応援が来てくれる。",
+      "それまで一緒にいるから安心しなさいと、私を元気付けてくれた。",
+      "…どうも大石は、私が脅迫電話を恐れて自宅で縮こまっていると取ったらしかった。",
+      "３０分ほどして興宮署から４人の私服警官がやってきた。",
+      "それで駐在警官は引継ぎ、戻っていった。"
+    ],
+    "textEn": [
+      "Ooishi had called the officers pretty quickly.",
+      "The officer who was in the area arrived within ten minutes after I spoke with him.",
+      "He asked me what kind of phone call I received today.",
+      "...I decided to make up a whole story.",
+      "It'll all be over if they check my call history, but I'm sure Ooishi won't bother doing anything like that.",
+      "He thinks I'm worth protecting, because I have information about the incidents in Hinamizawa.",
+      "The policeman is one of the villagers, so I know him very well.",
+      "More officers are coming here from the Okinomiya department.",
+      "The officer told me to relax, because he'd stay with me until then.",
+      "Ooishi must have thought I was frightened half to death after getting a threatening phone call.",
+      "After about thirty minutes, four officers in plain clothes arrived at the shrine.",
+      "The local officer returned to his police box."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「状況は聞いてます。",
+      "神社周辺に我々が立ちますので、何かあったらすぐに呼んでください。",
+      "あと、夕方になったら、大石刑事がこっちに来ると言っていました。」"
+    ],
+    "textEn": [
+      "\"We've heard the whole story.",
+      "We'll guard the shrine, so please call us if something happens.",
+      "Detective Ooishi will be here this evening.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石が直接来てくれるのは心強かった。"
+    ],
+    "textEn": [
+      "I was relieved to learn that Ooishi would be coming here."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……どうかよろしくお願いしますです。」"
+    ],
+    "textEn": [
+      "\"......Thank you very much.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「必ず１人がここの下にいますので。",
+      "すみませんが、その者にお手洗いだけは貸してもらってもよろしいですか。",
+      "あと、緊急時用にその者に合鍵を預からせることはできますか？」"
+    ],
+    "textEn": [
+      "\"At least one person will be downstairs.",
+      "I'm sorry, but is it okay if we use your restroom?",
+      "Also, will you give us one of your spare keys, just in case?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……どうぞです。おトイレも貸しますです。」"
+    ],
+    "textEn": [
+      "\"......Sure. You can use the restroom too.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私の家は倉庫小屋の２階だ。",
+      "１階は町会の防災倉庫になっている。",
+      "そこに必ず１人警官がいてくれるのは本当に心強い。",
+      "警官たちは境内の地図を点検し合い、１階に１名常駐。",
+      "境内を２名で巡視。",
+      "境内への階段前に１人立ち番となることを決め、持ち場についてくれた。",
+      "………この世界の大石は本当に頼もしい。",
+      "普段の大石は私のことを、どちらかというと敵寄りだと思っているようだ。",
+      "だが、この世界の大石は私のことを、味方だと思ってくれているようだった。",
+      "………沙都子を救う前後で友好的な関係を築けた賜物に違いなかった。",
+      "それを思うと、…叔父が帰ってくるという致命的な出来事すら、必要なイベントだったのではないかと思えてしまうのが皮肉だった。",
+      "小此木が言うように、本当に入江が悪い人だったとしても、山狗２０人と警官４人の警護を破れはしないだろう。",
+      "そして、逆に小此木が悪い人だったとしても、常駐する警官を彼らは嫌う。",
+      "…吸血鬼に対するニンニクみたいなものだ。",
+      "この百年間、一度も成し得なかった厳重な警戒態勢だ。",
+      "……これでも、私は殺されるのか…？",
+      "何でもいい。",
+      "足掻く。",
+      "思い切り。",
+      "無理かもしれないとか諦めるな。",
+      "今回は駄目だから次回なんて考えるな。",
+      "それが、生を楽しむってこと。",
+      "本気で生きるということ。"
+    ],
+    "textEn": [
+      "My house is on the second floor of a storage building.",
+      "The first floor contains emergency supplies for the village.",
+      "I'm happy to know that at least one police officer will be there for me.",
+      "The officers confirmed their positions on the map of the shrine.",
+      "One will be in the storage building, and two more will walk around the shrine property.",
+      "Also, one more officer will be standing in front of the stairs that lead to the shrine.",
+      "......This world's Ooishi is certainly reliable.",
+      "In my other lives, Ooishi tended to look at me as his enemy.",
+      "However, in this world, he thinks I'm on his side.",
+      "......I'm sure it's because we all became friendly with him around the time we saved Satoko.",
+      "It was unfortunate at the time, but perhaps the return of Satoko's uncle was a necessary event.",
+      "If Okonogi was right about Irie, he wouldn't be able to come near me with twenty Mountain Dogs and four police officers protecting me.",
+      "If Okonogi is the bad guy, they'd be discouraged from acting by the presence of the police.",
+      "...Not too different from giving garlic to a vampire.",
+      "This is the best protection I've had in a hundred years.",
+      "...Even so, am I still going to be killed tonight...?",
+      "I need to do whatever I can.",
+      "I should struggle,",
+      "as hard as possible.",
+      "I won't give up.",
+      "I won't even think about my next life.",
+      "This is what enjoying life is all about.",
+      "This is what living seriously is all about."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………羽入、いる？」"
+    ],
+    "textEn": [
+      "\"......Hanyuu, are you there?\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……いますのですよ。」"
+    ],
+    "textEn": [
+      "\"...I'm here.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「どう思う？",
+      "今回。」"
+    ],
+    "textEn": [
+      "\"What do you think?",
+      "About all this.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……確かに、僕もこういう展開はあまり見た記憶がありませんのです。」"
+    ],
+    "textEn": [
+      "\"......I have to admit, I've never seen anything like this before.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「今回はひょっとして、…って思うことはやっぱり罪なのかしらね。」"
+    ],
+    "textEn": [
+      "\"Is it still wrong... for me to expect something different this time?\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「…………僕は期待も失望もしませんです。",
+      "ただ、あるがままに訪れる結果を眺めるのみです。」"
+    ],
+    "textEn": [
+      "\".........I'm not going to hope for anything.",
+      "I'll just have to accept whatever the result is.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "羽入は相変わらずの傍観者の立場だった。",
+      "そんな素っ気無い答えは想像がついていたのに、",
+      "…それでも羽入に、今回は大丈夫かもしれないと一言、言ってもらいたかった。",
+      "それにほんの少し失望すると共に、",
+      "……羽入がどうして傍観者であるのかを疑問に思った。",
+      "羽入は特別な存在だからこそ、傍観者という立場になるのは当然だと思ってたし、",
+      "私も羽入と近い存在なのだから傍観者にならなくてはならないと思い込んできた。",
+      "でも、実際には私は傍観者になれない。",
+      "羽入のような純粋な傍観者にはなりきれない。",
+      "どう冷静を装っても、古手梨花の人生がより良くなることを祈ってしまう。",
+      "そして、その期待を何度も裏切られ、傷ついていった。",
+      "だから私は、期待することをやめようとしていったんだっけ。",
+      "なら、羽入もそうなんだろうか…。"
+    ],
+    "textEn": [
+      "Hanyuu is still acting like a bystander.",
+      "I knew she was going to say something like that,",
+      "but part of me was hoping she would say something more positive.",
+      "Upon hearing her say what she did, I felt a little disappointed,",
+      "and wondered why Hanyuu refused to be anything but an onlooker.",
+      "I always thought it was normal for her to be that way, because she's a special existence.",
+      "I also convinced myself I had to be an onlooker too, since I was a similar being.",
+      "However, I can't just let go of everything and become a bystander.",
+      "I can't become like her.",
+      "I can't stop hoping for a better life for Rika Furude.",
+      "That hope was betrayed so many times, and my heart was crushed countless more.",
+      "That's why I stopped expecting anything to turn out the way I wanted.",
+      "So, is Hanyuu the same way...?"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……羽入も、傷つくのが嫌で、期待することをやめた…？」"
+    ],
+    "textEn": [
+      "\"......Are you also afraid of being hurt....?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "思えば、…私は百年ちょっとで、もう期待することの恐ろしさを覚えてしまっている。",
+      "それ以上に長い時を生きてきた羽入ならなおさらに違いないのだ。",
+      "私は、羽入のことを特別な存在だとずっと思ってきた。",
+      "こんなにも人と同じ気持ちを持っていて、触れられず話すことができない存在である以外は私と何も変らないのに、",
+      "…特別な存在だと思い込んできた。",
+      "だからその心の構造も人と異なるものだと勝手に決め付けてきた。"
+    ],
+    "textEn": [
+      "I've only lived for one hundred years, but I know how frightening it is to have high expectations.",
+      "Hanyuu should also be aware of that, since she's lived far longer than me.",
+      "I always thought that Hanyuu was a special existence.",
+      "But, except for the fact that she's invisible, everything about us is the same.",
+      "She has the same thoughts and feelings as everyone else, yet I still saw her as a special existence.",
+      "That's why I just assumed that her mind worked in a different way."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「…………僕は、梨花に比べて長くを生き過ぎましたのです。",
+      "喜びより悲しみが後に残り、期待すれば裏切られる方が多いことを知り過ぎてしまいました。",
+      "だから、もう何が起こっても心を傷付けたいと思わないのです。」"
+    ],
+    "textEn": [
+      "\"I've been living for longer than you.",
+      "I know that there are more sad things than happy things in this world, and that your hopes will always be betrayed.",
+      "That's why I don't want to be hurt anymore.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「だから、……今回の世界でも期待しないのね。",
+      "私が、ひょっとするとこの運命から逃れられるかもしれないという期待を。",
+      "……羽入は、私がどうせまた失意の内に殺されると思ってる？」"
+    ],
+    "textEn": [
+      "\"So you're not expecting anything from this world either...?",
+      "I still have hope that this world might be different...",
+      "....But you think I'll just be killed again?\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……あぅ…。",
+      "そんなことは、思ってないのです…。」"
+    ],
+    "textEn": [
+      "\"...Au...",
+      "That's not what I'm thinking...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "羽入は痛いところを突かれたという表情を浮かべていた。",
+      "羽入は間違いなく、今回も私は殺されると思っている。",
+      "…期待しないというのはそういうことだ。",
+      "でも、私が気を悪くすると思って、口にできないだけのこと。"
+    ],
+    "textEn": [
+      "Hanyuu looked uncomfortable.",
+      "She had no doubts that I'd be killed again that night.",
+      "That's what it means to not have hope.",
+      "But she just can't own up to it, because she doesn't want to hurt my feelings."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「羽入も、沙都子と同じなのね。」"
+    ],
+    "textEn": [
+      "\"You're the same as Satoko...\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「………………。」"
+    ],
+    "textEn": [
+      "\"...........\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「何かの幸運か、誰かが助けて奇跡を起こしてくれるまで、堪えて待っているだけ。",
+      "戦うことを恐れているだけよ。",
+      "それを強さだと、勘違いしている。"
+    ],
+    "textEn": [
+      "\"You're waiting for some stroke of luck or some miracle to come and help you.",
+      "You're afraid of fighting.",
+      "You think that being patient is the same as being strong."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "…………つい最近までは私もそうだったけどね。」"
+    ],
+    "textEn": [
+      ".........That's how I was until just a little while ago.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "羽入は唇を噛みながら俯く。",
+      "否定できないところを見ると、多少の自覚はあるようだった。"
+    ],
+    "textEn": [
+      "Hanyuu looked down and bit her lip.",
+      "She couldn't deny what I said."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「あんたも何度も聞いてるはず。",
+      "奇跡ってのは、みんなで団結しないと起こせない。",
+      "団結というのはつまり、信じること。",
+      "……みんなで信じないと、奇跡は起こせないのよ。」"
+    ],
+    "textEn": [
+      "\"I know that you've heard it over and over.",
+      "Miracles will not happen unless everyone works together.",
+      "That means you have to believe, too.",
+      "A miracle will never happen unless everyone believes in it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは羽入にはきっと、あんたのせいで奇跡が起きないのだと言っているように聞こえただろう。",
+      "…言ってから少しして、言葉を少し選ばなさ過ぎたと後悔する…。",
+      "しばらくの間、私は言葉を失い、羽入は俯いたまま震えていた。",
+      "……そして、ゆっくりと顔を上げて言った。",
+      "その顔には、悲しみとわずかの怒りが浮いていた。"
+    ],
+    "textEn": [
+      "What I just said sounded as though I was blaming her for the miracle not happening.",
+      "Maybe I was too harsh to her.",
+      "I stayed quiet, and Hanyuu continued to look at the floor, shaking.",
+      "Then she looked up at me and spoke.",
+      "I noticed sadness, but also a little bit of anger in her eyes."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……触れることもできず、",
+      "話すこともできない、",
+      "見ているしかできない僕も、そのみんなに含まれるのですか…？",
+      "梨花に、どんな顛末も見ていることしか許されなかった僕の気持ちがわかるというのですか…？」"
+    ],
+    "textEn": [
+      "\"I can't even touch people",
+      "or talk to them.",
+      "You think I'm just like everyone else, even though all I can do is watch...?",
+      "Do you understand how it feels not to be involved in anything...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "羽入の言葉の語尾がほんの少しだけ厳しくなる。",
+      "…彼女にとって、私のような例外を除き、人とコミュニケーションを取れないことはとても悲しいことで大きなトラウマでもあった。",
+      "だから、それを指摘されることをこの上なく嫌がった。"
+    ],
+    "textEn": [
+      "There was a slight severity in the tail end of Hanyuu's speech.",
+      "Except for me, she can't communicate with anyone in this world.",
+      "She hates to be reminded of that."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………ごめん。",
+      "やめましょ、この流れは喧嘩になるわね。",
+      "…自分が殺されるまでの貴重な時間を、あんたと喧嘩して過ごしたいとは思わないわ。」"
+    ],
+    "textEn": [
+      "\"............I'm sorry.",
+      "Let's stop this. I don't want to have a fight with you.",
+      "I don't want to spend the rest of the time I'm alive in an argument...\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……僕も梨花と喧嘩をしたくはないのです。」"
+    ],
+    "textEn": [
+      "\"...I don't want to argue with you, either.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「でも、これだけは言わせて。",
+      "………私とあなたは、友人だと思ってる。",
+      "……だから、友人の人生が乗るか反るかという時に、期待しないとかあるがままを受け入れるとか、言って欲しくなかった。」"
+    ],
+    "textEn": [
+      "\"But let me just say one thing.",
+      "You're my friend...",
+      "I don't want my friend to tell me not to expect too much out of my life.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……………そのことは謝りますのです。",
+      "…でも、期待するかしないかは、僕の心の中で好きにさせてくださいなのです。」"
+    ],
+    "textEn": [
+      "\"..........I'll apologize for that.",
+      "But you should try respecting my opinions, too.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "羽入はたまに妙なところで意地を張る。",
+      "………羽入は一見気弱そうに見えるが、それは表向きのことで、",
+      "実際は彼女なりの独特のルールに従い、絶対譲れないところは一歩たりとも譲ろうとしないところがあった。",
+      "羽入は一応謝りはしたが、心の中では謝ってない。",
+      "だから相変わらずこの世界でも期待していないだろう。",
+      "また私が失意の中で死ぬと思ってる。",
+      "だから奇跡を信じない。",
+      "………付き合いが長いから胸中は読めていた。",
+      "ひょっとすると今度こそはという、",
+      "淡い期待すらできないくらいに疲れきった羽入のこれまでの長い長い人生が、今さら少しだけ気の毒に感じるのだった…。",
+      "羽入は、何かあったら呼んでくださいなのですと言い、姿を消した。",
+      "……姿を消してもきっとすぐ近くにいるだろう。",
+      "期待せず、あるがままの結末を受け容れようと、私という名のブラウン管の向こうのテレビを見ているかのように。",
+      "私の殺される時間が少しずつ近付いていく。",
+      "今回は果たして抗えるのか。",
+      "……ワインのまどろみでその恐怖を薄れさせないのは、本当にものすごく久し振りのことだった……。"
+    ],
+    "textEn": [
+      "She can be very stubborn sometimes.",
+      "Hanyuu seems weak on the outside,",
+      "but she actually has a very strong moral code, one that she wouldn't bend for anything.",
+      "She apologized to me, but she wasn't being honest.",
+      "She still wasn't expecting anything good to come from this world.",
+      "She still thinks that I'm going to die pitifully.",
+      "That's why she refuses to believe in miracles.",
+      "......I've been living with her long enough to read her mind...",
+      "I feel bad for her in a sense.",
+      "She's been living too long, and lost all of her hope...",
+      "Hanyuu told me to call her if anything else happened, and soon disappeared.",
+      "...I'm sure she's still around.",
+      "She's probably still watching me, as if she's watching a TV show.",
+      "The time of my death is slowly approaching.",
+      "Will I be able to survive this time?",
+      "It's been a long time since I faced this fear without drinking wine......"
+    ]
+  }
+]

@@ -1,0 +1,1674 @@
+[
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おーー、来た来た。",
+      "おっはよーーレナぁ！」"
+    ],
+    "textEn": [
+      "\"Hey! Good morning, Rena.",
+      "You're late today!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははははは、今日は圭一くんの方が早かったね。」"
+    ],
+    "textEn": [
+      "\"Ahahahahaha, you're just early today, Keiichi-kun.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「普段を棚に上げるわけじゃないが、俺が朝の待ち合わせでレナに勝つなんて珍しいこともあるもんだぜ。」"
+    ],
+    "textEn": [
+      "\"I'm not trying to put aside the fact that I'm always late, but it feels good to defeat you once in a while.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ。",
+      "レナ、今朝はちょっとお寝坊した。"
+    ],
+    "textEn": [
+      "\"Hau,",
+      "I slept in this morning."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "昨夜、寝付かれなくってね。」"
+    ],
+    "textEn": [
+      "I couldn't sleep last night.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナもか。",
+      "なはははは、実は俺も何だよ。",
+      "昨日の大騒ぎの余韻がずーっと残っててさ。",
+      "布団に入ってても、なかなか眠くならなくて夜が長く感じたぜ。」"
+    ],
+    "textEn": [
+      "\"Oh, you too?",
+      "Nahahahaha, same here.",
+      "I was still feeling yesterday's uproar.",
+      "It took me a long time to go to sleep.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "昨日はみんなで大騒ぎして、その余韻が残ったまま帰宅した。",
+      "お腹がいっぱいだったこともあり、食事にはほとんど箸を付けられなかったけど。",
+      "俺は昨日や今日がいかに楽しかったかを、両親にずーっと語り続けたのだった。",
+      "楽しくて興奮が覚めなくて、寝付けなかったなんて、まるで幼稚園児並みだな、俺。",
+      "でも、レナも同じだったので、安心した。",
+      "……いや、安心したというよりは、同じ気持ちを共有していたのが何だか嬉しかったと言うべきか。",
+      "きっとレナも、あの後、ゴミ山へ宝探しに行き、たくさんかぁいいのを見付けて意気揚々と帰宅し、",
+      "両親に今日一日がどれほど楽しかったかを、いつまでもいつまでもしゃべっていたに違いないのだ。"
+    ],
+    "textEn": [
+      "Yesterday, I had a lot of fun with my friends and went home still riding that high.",
+      "I was too full to eat dinner.",
+      "I kept talking with my parents about the great time I had over the past few days.",
+      "I was so pumped up that I couldn't go to sleep. Kinda sounds like I'm a little kid...",
+      "But, given that Rena seemed to be the same way, I felt better about it.",
+      "...No, \"I felt better\" isn't the right way of phrasing it. I should say \"I'm glad\" to know that we shared the same feeling.",
+      "Rena went treasure hunting after I left. I'm sure she found many adorable things, went home,",
+      "and talked with her parents about how great the day was."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あ、魅ぃちゃんだー！",
+      "おっはよ〜！！」"
+    ],
+    "textEn": [
+      "\"Hey, Mii-chan!",
+      "Good morning!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おおーー、魅音が先に待ってるなんて、今日は雪が降るかもなぁ！」"
+    ],
+    "textEn": [
+      "\"Oh, you're here early! Better watch out for the pigs falling from the sky!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「人が珍しく先に待ってりゃ、そういうこと言うわけぇ？！」"
+    ],
+    "textEn": [
+      "\"I know I usually make you wait for me, but do you really have to say it like that?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはは、それを言ったら、私より先に待ってた圭一くんも珍しいよ。"
+    ],
+    "textEn": [
+      "\"Ahaha, Keiichi-kun was unusually early this morning."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "雪が降るかもね☆」"
+    ],
+    "textEn": [
+      "Today is full of miracles!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あっはっはっは！",
+      "人のこと言えないね！」"
+    ],
+    "textEn": [
+      "\"Aha ha ha!",
+      "You're one to talk yourself!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "やっぱり、いつも通りの楽しい日常が今日も始まるんだ。",
+      "一昨日が楽しかった。",
+      "昨日が楽しかった。",
+      "だから今日も絶対に楽しい。",
+      "俺も楽しくて幸せだし、魅音だって楽しくて幸せ。",
+      "もちろん、レナだってみんなみんな楽しくて幸せだった。",
+      "こんなにも幸せな日が、このままいつまでも続けばいいな、と。",
+      "今朝は素直にそう思うのだった。"
+    ],
+    "textEn": [
+      "It's going to be another happy day today.",
+      "I had fun the day before yesterday.",
+      "I had fun yesterday.",
+      "So, I'm going to have fun today for sure.",
+      "I'm happy, and Mion is happy too.",
+      "Of course, Rena and my other friends are equally happy.",
+      "I'm not afraid to say it,",
+      "and I wish these happy days would last forever."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なぁ魅音。",
+      "今日は何をして遊ぼうなぁ。」"
+    ],
+    "textEn": [
+      "\"Hey, Mion.",
+      "What are we playing today?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「今日の部活？"
+    ],
+    "textEn": [
+      "\"What, for club?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "うーーーーん、何がいいだろうねぇ。",
+      "レナは提案ある？」"
+    ],
+    "textEn": [
+      "Hmmmmmmm, I don't know yet.",
+      "Rena, do you have any ideas?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね…。"
+    ],
+    "textEn": [
+      "\"Let's see..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "昨日、一昨日と体を使うゲームが続いたから、今日はあんまり体に激しくないゲームがいいなぁ。」"
+    ],
+    "textEn": [
+      "We've been playing athletic games for the past few days, so I'd say something not athletic.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうだな。",
+      "レナの言うのも一理あるぜ。",
+      "部活は肉体勝負だけが全てじゃねえだろ？」"
+    ],
+    "textEn": [
+      "\"You're right.",
+      "That's a very good point.",
+      "Our club is not only about athletic performance, is it?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「もっちろん！",
+      "心、技、体、全ての要素において完璧であってこそ部活メンバーだからねぇ！"
+    ],
+    "textEn": [
+      "\"Of course it's not!",
+      "Our club members have to have brains, skill, and brawn to boot!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "じゃあ今日は、何かテーブルゲームで遊ぶことにしよう。」"
+    ],
+    "textEn": [
+      "So, why don't we play some tabletop games today?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "みんながみんな、今朝は早かったから。",
+      "いつになくのんびりとした登校が出来た。",
+      "その後、もうすぐお祭りが近いね、という話になった。",
+      "綿流しというお祭りで、雛見沢の年間行事では一番にぎやかになるらしい。"
+    ],
+    "textEn": [
+      "Everybody was early this morning.",
+      "We could enjoy our walk to school for once.",
+      "After a while, we started talking about the upcoming festival.",
+      "They told me that the festival was called \"Watanagashi\", and that it's the biggest event of the year in Hinamizawa."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そうだそうだ、昨日、興宮の家に親類が集まって色々と話が出たんだけどさ。",
+      "圭ちゃんの話題が出たんだよ。」"
+    ],
+    "textEn": [
+      "\"Yesterday, my relatives gathered at my house in Okinomiya.",
+      "And they started talking about you, Kei-chan.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お、俺ぇ？",
+      "園崎家の重鎮が集まって、一体何の相談だよ…。」"
+    ],
+    "textEn": [
+      "\"What? Me?",
+      "What did the great people of the Sonozaki family talk about...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「いやさ。",
+      "昨日のエンジェルモートでの圭ちゃんの活躍を見てた、店長の義郎叔父さんがさ、",
+      "圭ちゃんのことを相当気に入っちゃったみたいでさ。"
+    ],
+    "textEn": [
+      "\"Well...",
+      "my Uncle Yoshiroh is the store manager of Angel Mort, and he saw your performance yesterday.",
+      "He really likes you now."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "それで色々と話を聞いてみたら、他の親類も意外に圭ちゃんのことを知ってる人が多いんだよね！",
+      "雛見沢の名物男みたいな言われようだったよ。」"
+    ],
+    "textEn": [
+      "So, I started asking the others if they had heard of you, and I found out that most of them did!",
+      "They said you're famous in Hinamizawa.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「め、名物男ってのはまた微妙な称号だな…。",
+      "その称号の９割方は魅音の罰ゲームに関係があるような気がするぞ。」"
+    ],
+    "textEn": [
+      "\"Famous? Doesn't sound like they meant it in a good way...",
+      "I'm probably more infamous to them because of the punishments you made me do.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「それだけじゃないけどさ。"
+    ],
+    "textEn": [
+      "\"It's not only that."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "ノリもいいし元気があって無鉄砲なところも、今時の若い子にしては感心感心とみんなベタ褒めだったよ。」"
+    ],
+    "textEn": [
+      "They said that you blend in well, that you're full of energy, and that you're a little bit reckless. They said it's rare for a young man in this era to have all those qualities. They were very impressed with you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "自分の与り知れぬところで、勝手に褒められてるってのも、…何だか気恥ずかしいものだ。"
+    ],
+    "textEn": [
+      "I felt... a bit embarrassed to know that people I haven't even met were speaking well of me."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「でね、今度の綿流しのお祭りで、何かで活躍してくれないかなぁって話が出てね。",
+      "圭ちゃん、目立つこととか好きでしょ？」"
+    ],
+    "textEn": [
+      "\"And so, they want you to do something at the Watanagashi festival.",
+      "You like to draw people's attention, don't you?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おいおいおいおい！",
+      "本人不在で勝手に話を進めるなー！",
+      "俺は孤独と静寂を愛するロンリーガイだぜー？」"
+    ],
+    "textEn": [
+      "\"Hey!",
+      "Don't assume things, and don't decide anything without me!",
+      "Don't you know I'm a quiet, lonely guy who loves to be alone?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あっはははははっは！！",
+      "だぁれがロンリーガイだー！"
+    ],
+    "textEn": [
+      "\"Ah hahahahaha ha!!",
+      "Lonely guy?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "ローンボーイの間違いでしょー？",
+      "くっくっくっく！」"
+    ],
+    "textEn": [
+      "You mean 'loan boy', don't you?",
+      "Heh heh heh heh!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ～、ローンって圭一くん…。",
+      "お金に困ってるなら協力するよ…はぅ…。」"
+    ],
+    "textEn": [
+      "\"Hau... Keiichi-kun being a loan boy...",
+      "If you are having trouble with money we can help you... Hau...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「うをおおおぉおぉお！！",
+      "年頃の娘どもが朝っぱらからはしたないこと言ってんじゃねぇえぇー！！」"
+    ],
+    "textEn": [
+      "\"Whooooaaaaah!!",
+      "Stop talking about nasty things! Ladies don't talk about things like that!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "やっぱり、俺たちは昨日の余韻がまだ抜けきっていないようだった。",
+      "まだ学校にもたどり着いてない内から、俺と魅音ははしゃぎ合う。",
+      "レナはそれを見守りながら、楽しそうに笑うのだった。",
+      "学校に着けば、それは沙都子や梨花ちゃんもまったく同じだった。",
+      "昨日、一緒にはしゃいだ、富田くん岡村くんの後輩コンビにしても同じことだった。",
+      "誰もが、ずっと楽しい時間を続けている。",
+      "ここでは、誰もが幸せだった。"
+    ],
+    "textEn": [
+      "We really were still feeling the aftereffects of yesterday.",
+      "Mion and I made a lot of noise teasing each other on the way to school.",
+      "Rena watched us and laughed happily.",
+      "Satoko and Rika-chan were already there when we arrived at school. They were also full of energy.",
+      "Tomita-kun and Okamura-kun were too. From that, I can tell that they also had a good time yesterday.",
+      "Everybody has been having a good time, really.",
+      "In Hinamizawa, everybody is happy."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……まだ引っ越してきて、１年も経ったわけじゃないけどさ。」"
+    ],
+    "textEn": [
+      "\"...It hasn't even been a year yet since I moved here, but...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ん？　どしたの突然。」"
+    ],
+    "textEn": [
+      "\"Hm? What is it?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いやさ、………雛見沢に引っ越してきて、俺、幸せになったなぁって。」"
+    ],
+    "textEn": [
+      "\"Well... I'm just glad that I moved here.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あっはっはっは！",
+      "どうしたの圭ちゃん、急に臭いこと言い出してー。」"
+    ],
+    "textEn": [
+      "\"Aha ha ha ha!",
+      "What's wrong, Kei-chan? You're being sentimental.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「レナには分かるよ。",
+      "雛見沢に引っ越してきて、全てが幸せになった気持ち、よく分かる。"
+    ],
+    "textEn": [
+      "\"I understand.",
+      "I understand exactly how you feel. You feel like everything is perfect, that you've become happy since you moved to Hinamizawa."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……この村にはね、きっと人を幸せにする魔法がかかってるんだと思うから。」"
+    ],
+    "textEn": [
+      "...I think this village has some kind of power to make people feel that way.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナは、幸せか？」"
+    ],
+    "textEn": [
+      "\"Are you happy, Rena?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "レナは雛見沢に引っ越してきてからが、毎日幸せだよ。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "I'm happy every day here in Hinamizawa.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうだな、そいつは俺もだ。」"
+    ],
+    "textEn": [
+      "\"Yeah, me too.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……ちょ、ちょっとー！",
+      "何かおじさんだけ除け者っぽくない？！",
+      "ぶーぶー！」"
+    ],
+    "textEn": [
+      "\"...H-Hey!",
+      "Don't leave this ol' man out in the cold!",
+      "Let me in on the conversation too!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "空は澄み渡っていて、千切れ飛ぶ雲はまぶしいくらいに真っ白。",
+      "セミの声は、例年より夏の訪れがずっと早いことを教えてくれている。",
+      "もうすぐ、綿流しか。",
+      "きっと、楽しいお祭りになる。",
+      "そして、俺は仲間たちと一緒に、もっともっと楽しい時間を過ごしていくんだ。",
+      "本当の夏の訪れは、すぐそこだった。",
+      "ようやく学校の授業が終わり、放課後の部活の時間になる。",
+      "きっと今日も楽しい部活になるだろう。",
+      "みんなと一緒に大はしゃぎして楽しく過ごそう。",
+      "だが、魅ぃちゃんに電話があり、急なバイトが入ってしまったため、お流れになってしまった。",
+      "…ちぇ。",
+      "…楽しみにしてたのにな。",
+      "仕方がない。",
+      "せめて圭一くんと楽しくおしゃべりしながら帰ろう。",
+      "時々、意地悪なことを言うけど、圭一くんはとっても面白い。",
+      "彼とおしゃべりをしていると、いつの間に憂鬱な気分を忘れてしまうんだから。",
+      "…………何だろう。",
+      "私は、……憂鬱なの…？",
+      "日々の生活は楽しくて、これ以上ないくらいに幸せなのに。",
+      "………私は何に憂鬱になっているの？",
+      "……私が何を嫌ってるか、分かってる。",
+      "でも、リナさんのお陰でお父さんはとても元気になった。",
+      "少なくとも、リナさんに出会う前までのお父さんは良くて昼行灯。",
+      "悪く言えばただの無気力な屍だった。",
+      "それが、リナさんと交際するようになってから、まるでお母さんとまだ仲良く暮らしていた頃のような笑顔を浮かべるようになった。",
+      "リナさんとおしゃべりしたり、遊びに行ったり。",
+      "…デートなんだろうな。",
+      "お父さんは１０か２０は若返ったように見えた。",
+      "リナさんは、お父さんととても仲がいいし、…私にだって仲良くしてくれる。",
+      "私が嫌わなくてはならない理由は、",
+      "……本当はない。",
+      "でも、",
+      "…………",
+      "父母が離婚した時の苦い思い出と、",
+      "何べんもした後悔が、",
+      "胸の奥をじわじわと侵食するのだ。",
+      "あの女を、私は受け入れてもいいのだろうか。",
+      "リナさんはひょっとすると、",
+      "………お母さんの時の、",
+      "……アキヒトおじさんに当たる人なのだろうか。",
+      "本人には例え何の悪意がなかったとしても。",
+      "存在し続けるだけで、私から幸せを奪ってしまう「敵」ではないだろうか。",
+      "私は、また何かの致命的な破局を迎えてしまうまで、漫然と過ごしてしまうのだろうか。",
+      "何かが手遅れになる前に、",
+      "……「敵」と",
+      "戦うべきではないのか。",
+      "だって、リナさんは……あまりにも明け透けに私の家に出入りしすぎる。",
+      "お父さんがリナさんをうちに入り浸らせるようになってから、リナさんの私物が少しずつ家に増えてきた。",
+      "お父さんも私も煙草を吸わないのに、いつの間にか居間には灰皿がある。",
+      "客間の布団はいつの間にかリナさんの専用になっている。",
+      "洗面所には、私が絶対選ばないような歯ブラシがあり、",
+      "お風呂場には、私が絶対選ばないようなシャンプーが置いてある。",
+      "そんなものに違和感を感じ始めた頃から、",
+      "……帰宅して玄関に入った瞬間に、感じるようになったのだ。",
+      "あの人の、香水の匂いを。",
+      "お父さんに、リナさんと結婚するつもりなの、と直入に聞いたことがある。",
+      "照れるような、困るような、曖昧な顔を浮かべながら、まだそのつもりはないよ、と答えた。",
+      "お父さんも、私がお母さんの離婚で心に傷を負っていることを知っていた。",
+      "だから、再婚を私には切り出せなかったろう。",
+      "……だから、まだそのつもりはない、という言い方になる。",
+      "いつかは再婚を考えてもいいが、私が同居している内は考えない。",
+      "そういう意味だろう。",
+      "私が、お父さんとリナさんの再婚を嫌っている理由はたったひとつ。",
+      "私にとっての家族という聖域を侵されることに不快感を感じるからだ。",
+      "でも、それは私ひとりのわがままなのかもしれない。",
+      "だって、私がお父さんを独り占めし続けるということは、",
+      "…お父さんはリナさんに会う以前の、暗く落ち込んだ状態のまま、ずっと暮らしていこうということなのだから。",
+      "お父さんにだって、人生がある。",
+      "離婚の傷を癒し、新しい恋に生きようとするのも、お父さんの権利だ。",
+      "そもそも、私がお母さんの離婚を未然に防げたら、お父さんはこんなにも辛い人生を歩まなくてよかったのだから。",
+      "だからお父さんには、味わわなくてもよかった辛さを忘れられる、新しい幸せな人生を歩む権利があり、それを私が拒む資格はまったくない。",
+      "………それどころか、私は父の幸せな日々を取り戻すために、努力をしなければならない義務がある。",
+      "……母の離婚を防げなかった罪を、滅ぼさなくてはならないのだ。",
+      "なら、私もお父さんも二人とも幸せになれるにはどうすればいいのか。",
+      "……そんなに難しいことじゃなかった。",
+      "お父さんとリナさんの交際を、私が黙認すればいいのだ。",
+      "お父さんも、私が一緒に居る内は再婚しないと言ってる。",
+      "だから私は、家族というものに依存しようとする弱い自分から決別し、早く独り立ちすればいいのだ。",
+      "でも、だからといって、その日までリナさんとの交際を控えてくれなんて言えるわけもない。",
+      "リナさんは仕事の合間を縫っては遊びに来るし、勤務シフトが合えば泊まってさえ行く。",
+      "………大人同士の付き合いだ。",
+      "私に何も言えた義理はない。",
+      "だから。",
+      "私は、お父さんとリナさんの交際を黙認し、",
+      "……リナさんとなるべく顔を合わせないことを選んだ。",
+      "リナさんとは表面上は仲良くやっている。",
+      "…不仲にすれば、お父さんは両方の顔を立てるために心を痛めるだろうから。",
+      "でも、好きになれない相手と上辺だけでも仲良くするのは、とても疲れる苦痛な行為。",
+      "だから私は、リナさんが家にやってくると分かっている時は、多くの時間を外で費やし、家には遅くなってから帰るようにしていた。",
+      "魅ぃちゃんの部活は、そんな私の時間潰しにはこの上なく都合がよかった。",
+      "でも、毎日あるわけじゃない。",
+      "だから、部活がなく、そのまま下校になってしまった日には、ゴミ山で宝探しというひとり遊びをして時間を潰した。",
+      "そして、………作ったのがあのゴミ山の隠れ家というわけだ。",
+      "お父さんとリナさんは家で仲良くしていればいい。",
+      "そして私は、そんな二人に無理に顔を合わせず、私の隠れ家で、心にやさしい時間を過ごせばいい。",
+      "………こんな生活に、憂鬱さを感じることはある。",
+      "誰かに吐露したいと思うこともある。",
+      "でも、……何を相談したって、何もない。",
+      "だって、これが最善なのだから。",
+      "私にとって今、一番大切なことは、自分だけの家族を喪失することに対する悲しみを早く乗り越え、私の幸せを掴むことだ。",
+      "だって、毎日はこんなにも楽しくて幸せで。",
+      "…今だって、こうして下校の道でさえ、圭一くんがさっきから面白おかしい話をたくさん聞かせてくれて、私を退屈させない。",
+      "こんな憂鬱なことに頭を満たしてしまっているのは、彼に対して失礼なくらいだ。",
+      "お父さんはお父さんで、幸せになる。",
+      "私は私で、幸せになる。",
+      "辛さを感じるのは、私がまだ親離れができていないだけのことなのだ。",
+      "だって、お母さんの離婚の時の唐突さに比べたら、リナさんの侵食なんて、これ以上ないくらいの緩やかな変化じゃないか。",
+      "リナさんだって、私のそういう心情を理解してくれていると思う。",
+      "私にやさしくしてくれるが、必要以上に構わない。",
+      "かえって私が心苦しく感じることを分かっているのだろう。",
+      "両親を失っても、たくましく生きている梨花ちゃんを尊敬する。",
+      "唐突に父母を両方失ってしまう辛さに比べたら、私の悩みの何と下らないことか。",
+      "両親を失い、それだけでなく、叔父夫婦に辛い生活を強いられてきた沙都子ちゃんのたくましさにも、尊敬を感じる。",
+      "沙都子ちゃんが叔父夫婦に受けていた仕打ちに比べれば、私とリナさんの関係がどれほど恵まれたものか。",
+      "……私がまだまだ幼いから、",
+      "…親離れを急がされる不安感を感じてしまうだけ。",
+      "梨花ちゃんや沙都子ちゃんのように、私もたくましくあろう。",
+      "そして私も私なりにがんばって、私の幸せを掴み取るために努力しよう。",
+      "あの日以来、失ってしまった心の安寧を得るために、",
+      "……がんばって生きていこう。",
+      "私が自分は不幸だと思い込んでいるだけ。",
+      "素敵な友人たちと過ごす、素晴らしい日々を享受しよう。",
+      "私が、自分は幸せだと気付くだけで、こんなにも世界は輝いて見えるのだから。"
+    ],
+    "textEn": [
+      "The sky was clear, and the few thin clouds were pure white.",
+      "The cry of the cicadas was telling me that summer would be coming earlier than usual.",
+      "Watanagashi is just around the corner.",
+      "I'm sure we'll have great fun at the festival too.",
+      "There will be more and more fun days to come, I'm sure of it.",
+      "Summer is just around the corner.",
+      "The last class of the day was finally over, meaning that it was time for club activities.",
+      "I was sure it would be fun.",
+      "I couldn't wait.",
+      "But then Mii-chan received a call and told us something had come up and she had to go. So, we didn't have a club meeting today.",
+      "...Tsk.",
+      "...I was really looking forward to it.",
+      "There was nothing I could do,",
+      "but I could at least chat with Keiichi-kun on the way home. It'll be fun.",
+      "Keiichi-kun sometimes says mean things, but he's very funny.",
+      "When I chat with him, my depression goes away.",
+      "...Wait, what did I just say?",
+      "Am I... depressed...?",
+      "I have so much fun every day, and I'm as happy as I can be.",
+      "...What did I have to be depressed about?",
+      "...Well, it was obvious.",
+      "Because of Rina-san, my father is happy now.",
+      "Before he met her, he was like a lamp in broad daylight.",
+      "Honestly, he was like the living dead.",
+      "But after he met Rina-san, he started to smile like he used to when he was living with my mother.",
+      "He enjoyed talking with her and started going out with her.",
+      "You could probably say they went on dates.",
+      "Now, he looks ten, no, twenty years younger.",
+      "Rina-san gets along with my father very well... and she's very kind to me, too.",
+      "There's actually...",
+      "no reason for me to hate her.",
+      "But",
+      "......",
+      "the bitter memories of my parents' divorce",
+      "and my many regrets",
+      "were gradually eating away at my heart.",
+      "Was it okay to accept that woman?",
+      "Rina-san might be the same as",
+      "how Uncle Akihito...",
+      "turned out to be...",
+      "Is she the enemy who takes my happiness away with her very existence...",
+      "with or without bad intentions?",
+      "Am I going to sit around until everything collapses again?",
+      "Should I fight",
+      "the enemy",
+      "...before it's too late?",
+      "Rina-san... comes to my house a little too... obviously.",
+      "Since my father started letting her stay the night, many of her belongings have turned up in the house.",
+      "My father and I don't smoke, but there's an ashtray in the living room.",
+      "The futon in our guest room is hers now.",
+      "In the bathroom, there's a toothbrush",
+      "and shampoo I'd never choose to buy.",
+      "I started to feel awkward about those things...",
+      "and that's when I started noticing it at the front door when I came home from school.",
+      "Her perfume.",
+      "I asked my father once if he was thinking about getting married to Rina-san.",
+      "He looked a little embarrassed, perplexed, and confused. He told me, \"not yet.\"",
+      "He knew I was hurt by the divorce.",
+      "That's probably why he couldn't admit that he wanted to remarry.",
+      "...That's why he said, \"not yet.\"",
+      "He'd consider it, but not while I was still living with him.",
+      "That's what he meant, I guess.",
+      "There's only one reason why I don't want him to get remarried to Rina-san.",
+      "I feel offended that my sanctum, my family, is being invaded.",
+      "I might be being selfish, though.",
+      "I know keeping my father all to myself means...",
+      "keeping him miserable like he was before he met Rina-san.",
+      "He has a life to live too.",
+      "It's his right to heal from the pain from the divorce and to live, to find his new love.",
+      "He wouldn't have had to go through that painful life if I'd prevented the divorce from happening in the first place.",
+      "He has a right to a happy new life that lets him forget the pain he never deserved, and I don't have any right to stop him.",
+      "...In fact, I have an obligation to try to return his happiness to him.",
+      "...I have to pay for my sin, my inability to prevent his divorce.",
+      "Then, what should I do to make both of us happy?",
+      "...It wouldn't be that difficult.",
+      "All I'd need to do would be to give my silent approval of their relationship.",
+      "My father tells me he won't get remarried while we live together.",
+      "That means I should stop leaning on my family, be strong, and live on my own as soon as I can.",
+      "Although, that doesn't mean I can tell him not to go out with her until that day.",
+      "Rina-san comes to our house to see him despite her busy schedule, and she even stays the night whenever her shifts permit.",
+      "...They're adults.",
+      "I have no right to say anything against that.",
+      "That's why...",
+      "That's why I chose to give my silent approval to their relationship",
+      "and tried to see her as little as I could.",
+      "I get along with Rina-san on the surface.",
+      "...I know my father would have a hard time keeping face if we didn't.",
+      "But, it's a very exhausting and painful thing to get along with a person I don't really like.",
+      "So, whenever Rina-san comes over, I spend as much time as possible outside, then head home late.",
+      "Mii-chan's club activities are the most convenient things to do to kill time.",
+      "But there are some days we don't have a club meeting.",
+      "On those days, I while away my time at the garbage dump, hunting for treasure alone.",
+      "And... that's how I started to make my secret hideout.",
+      "My father can do whatever he wants with Rina-san at home.",
+      "I don't have to see them together. I can spend my time peacefully at my hideout.",
+      "......I sometimes feel depressed about my life.",
+      "I sometimes want to talk to somebody about it.",
+      "But... nothing will change, even if I talk to somebody.",
+      "This is all I can really do.",
+      "The most important thing for me should be to overcome the sadness of losing my family as fast as I could, and to regain my own happiness.",
+      "I have so much fun every day. I'm happy every day.",
+      "...Even on the way home, Keiichi-kun was talking about funny things that made me laugh.",
+      "My feeling gloomy in spite of that was kind of rude.",
+      "My father should be happy.",
+      "I should be happy.",
+      "I just feel sad because I still can't separate from my father.",
+      "Compared to the unexpectedness of the divorce, Rina-san's invasion is a very slow process.",
+      "I think Rina-san understands how I feel.",
+      "She treats me very kindly, but she doesn't do more than that.",
+      "I think she understands that I'd feel uncomfortable if she did.",
+      "I respect Rika-chan, because she's strong even without her parents.",
+      "Compared to the pain of losing both her parents unexpectedly, my problem is like nothing.",
+      "I respect Satoko-chan's toughness, too. She also lost her parents and was forced to live a painful life under her uncle and aunt.",
+      "Compared to the cruel treatment she had to go through, my relationship with Rina-san is a blessed one.",
+      "...I keep feeling anxious, but that's just because",
+      "I'm still immature, and because I feel like I'm not ready to separate from my father.",
+      "I have to be strong like Rika-chan and Satoko-chan.",
+      "I have to try my best to be happy.",
+      "I'm going to live with all my might...",
+      "in order to regain the peace of mind that I lost that day.",
+      "My assumption that I'm not happy is just a mistake.",
+      "I should appreciate the wonderful days I spend with my wonderful friends.",
+      "Just by realizing that I'm happy, the world shines so brightly."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「それでね、それでね！",
+      "あんまりにもかぁいいからレナ、はぅ〜お持ち帰りーー！！って☆」"
+    ],
+    "textEn": [
+      "\"Listen! Listen!",
+      "It was just sho kyute, so I screamed, 'I'm taking it home with me!!'\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あっははははは……やれやれ。",
+      "レナは毎日を楽しく過ごすことに関しては達人だなぁ。」"
+    ],
+    "textEn": [
+      "\"Ahh hahahahaha... I bet you did.",
+      "You're an expert at making the most out of every day.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「レナは毎日が楽しいよ？",
+      "こんなにも素敵な友人たちに囲まれて過ごす、こんなにも素晴らしい日々があって、どうして不幸が感じられる？」"
+    ],
+    "textEn": [
+      "\"I am, aren't I?",
+      "I feel very fortunate to have a wonderful life and wonderful friends. How could I be unhappy?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「だな。",
+      "不幸なんかここにはないよ。",
+      "いつまでも楽しくて、不幸なことなんかとは一切無縁！"
+    ],
+    "textEn": [
+      "\"You're right.",
+      "In Hinamizawa, nobody becomes unhappy.",
+      "Everybody stays happy!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "それが雛見沢ってとこなんだからよ！」"
+    ],
+    "textEn": [
+      "Hinamizawa is free from misfortunes!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そこでやめておけば、そこそこかっこよくまとまったのに。",
+      "圭一くんの余計な一言が後に続く。"
+    ],
+    "textEn": [
+      "He should've stopped right there.",
+      "But, he just kept going."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナがうらやましいよなぁ。",
+      "その悩み知らずな能天気さが羨ましいぜー！」"
+    ],
+    "textEn": [
+      "\"I'm jealous of you, Rena.",
+      "I wish I could be an idiotic optimist like you!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…はぅ…。",
+      "馬鹿にされてるっぽい気がする……。",
+      "…でも、毎日が楽しいなら、……私は能天気でもいいかな。",
+      "…………………かな。」"
+    ],
+    "textEn": [
+      "\"...Hau...",
+      "It sounds like you're insulting me......",
+      "But, if that's what I need to make every day wonderful... I wouldn't mind.",
+      "...Would I?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私には悩みなんかない。",
+      "悩みに感じるのは、父さんに甘えたりない私の未熟さなんだ。",
+      "ほら。",
+      "いつもの魔法の言葉を言おう。",
+      "それできっとまた、元気になれるよ。"
+    ],
+    "textEn": [
+      "I don't have any worries.",
+      "I feel like I do, but that's just because I'm immature and still want my father's attention.",
+      "Come on.",
+      "Say the magical words.",
+      "It'll cheer you up."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ…。」"
+    ],
+    "textEn": [
+      "\"Hau...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ん？」"
+    ],
+    "textEn": [
+      "\"Hum?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "会話の脈絡はないけれど。これは自分で自分を元気付ける魔法の言葉。"
+    ],
+    "textEn": [
+      "It didn't make sense to say it now, but I was going to say it anyway, because this is my magical phrase that always cheers me up."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ〜〜☆",
+      "お〜持ち帰りぃ〜〜〜！！！」"
+    ],
+    "textEn": [
+      "\"Hauuuu☆!",
+      "I'm taking it home with me!!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あははははは、何だよ突然。",
+      "でも、それでこそレナだぜ！」"
+    ],
+    "textEn": [
+      "\"Ahahahahaha, what's wrong with you?",
+      "That's so like you, but still!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう。",
+      "それがレナ。",
+      "お父さんとお母さんに甘えたりない礼奈じゃなくて。",
+      "……馬鹿で能天気でお調子者で、だけれども日々が幸せに満ちていることを知っていて、それを感謝することができるやさしさを持っているのが、レナ。",
+      "“いや”なことは全部、忘れてしまおう。",
+      "全部忘れて、“いや”なことなんか無い、素敵な人生を歩みなおそう。",
+      "だから、“い”を。",
+      "………私は捨てたんだっけ。",
+      "私はレナ。",
+      "雛見沢から出て行った時に失った幸せを、この雛見沢でもう一度取り返す。",
+      "辛さや試練を乗り越えろ。",
+      "私は幸せになれる。",
+      "だって、“い”やなことはもう全部捨てたのだから。",
+      "後にはいいことしかないはず。",
+      "…………あ。",
+      "…………いいことも、“い”なんだ。",
+      "………………。",
+      "もうじき私の家が見えてくる…、というところで、普段と違う様子に気付く。",
+      "家の前には、トラックが止まっていた。",
+      "荷台に荷はなかったが、ダンボールや毛布、転倒防止用のロープなどが散らかっていて、何かを運んできたことはすぐにわかる。",
+      "玄関の方から、若い男性二人のよく揃った声で、",
+      "「それでは失礼いたしますー！」と聞こえてきた。",
+      "玄関へ向かう途中にその二人とすれ違う。",
+      "作業服のようなものを着た二人で、運搬業者という感じだった。",
+      "父は来客を帰し、扉を閉めようというところで私と目が合った。"
+    ],
+    "textEn": [
+      "That's right.",
+      "This is me, Rena.",
+      "I'm not Reina. Reina still wants her parents' attention.",
+      "...Rena is a goofy and carefree girl. She knows that every day is full of happiness and she has the kind heart to appreciate it, too.",
+      "I should forget about icky things.",
+      "I should live a wonderful life free of anything icky.",
+      "\"Icky\" starts with \"I\".",
+      "...And that's why I got rid of the \"I\" in \"Reina\".",
+      "I'm Rena.",
+      "I'm going to recapture the happiness I lost when I left Hinamizawa.",
+      "I will overcome any pain and hardship.",
+      "I can be happy.",
+      "Because I got rid of 'i'-cky things.",
+      "I'm sure there are only incredible things waiting for me.",
+      "......Oh.",
+      "\"Incredible\" starts with \"I\", too.",
+      ".........",
+      "I was almost home... and when my house appeared, I noticed something different there.",
+      "There was a truck parked in front of my house.",
+      "There was nothing on the back of it, but I can tell it brought something here, because I saw some cardboard boxes, blankets, and ropes on the ground.",
+      "From the front of the house, I heard voices of two young men saying,",
+      "\"Well, we'll be going now.\"",
+      "They passed me by as I walked towards the front door.",
+      "They were wearing some kind of work uniforms. They looked like delivery people.",
+      "My father was about to close the door when he noticed me."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ただいま。",
+      "………何かあったの？」"
+    ],
+    "textEn": [
+      "\"Hey, I'm home.",
+      "......What's going on?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「お帰り礼奈。",
+      "見てごらん、すごいぞ。」"
+    ],
+    "textEn": [
+      "\"Oh, Reina.",
+      "I have a surprise for you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お父さんはとても上機嫌そうだった。",
+      "なぜそうなのかの理由が分からなかったが、お父さんがこんな晴れ晴れしい笑顔を見せてくれると、私も笑顔で返してあげたくなる。",
+      "私がどんな笑顔を見せようとも、…ずっと死んだ魚の目をしていたお父さん。",
+      "それが、私を驚かせたくて笑顔を作れるようになったのだ。",
+      "雛見沢に引っ越してからの一年、……いや、リナさんとの交際を始めてからのお父さんは、文字通り生き返ったかのようだった。",
+      "こんなお父さんを見る時、私はうれしくなると同時に、リナさんに感謝すべきか戸惑いを覚える。"
+    ],
+    "textEn": [
+      "My father looked to be in a good mood.",
+      "I didn't know why he was, but whenever he smiled like that I just wanted to smile back at him.",
+      "His eyes used to look like those of a dead fish no matter how hard I tried to smile at him...",
+      "But these days, he could put on a big smile just to surprise me.",
+      "He has been literally coming back to life since a year ago when we moved back to Hinamizawa... no, since he started dating Rina-san.",
+      "When I see him smile like this, I'm happy. But at the same time, I feel confused because I don't know whether I should thank Rina-san or not."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「ほら、すごいだろう？」"
+    ],
+    "textEn": [
+      "\"Look, doesn't it look great?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お父さんが見てごらんとばかりに、居間に私を誘った。",
+      "きっとお父さんは、私がそれを見て、感嘆の声をあげることを期待していると思った。",
+      "だから、居間に何があろうともなかろうとも、私は感嘆の声をあげる心の準備をしていた。"
+    ],
+    "textEn": [
+      "He took me to the living room.",
+      "He was probably expecting me to go all \"ohh\" and \"ahh\".",
+      "So, whether there was something in the living room or not, I was ready to go \"ohh\" and \"ahh\" for him."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…うわぁ………、",
+      "な、",
+      "…なにこれ。",
+      "…ど、どうしたのお父さん！」"
+    ],
+    "textEn": [
+      "\"...Wow.",
+      "What...",
+      "What is this?",
+      "...Wh-What did you do?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私は上擦ったような、驚きと感嘆の入り混じった声を上げる。",
+      "私の後ろに立つお父さんは、その声を聞いて満足げに笑っているに違いない。",
+      "でも私の声とは裏腹に、…私は目の前の光景がどういうことになっているのか、理解しようと必死だった。",
+      "一瞬、我が家かどうかを疑った。",
+      "なぜなら、居間が綺麗さっぱり模様替えされていたからだ。",
+      "うちにある家具は基本的に、前の茨城の家から持ってきたものがほとんどだ。",
+      "それらはかつての両親が結婚した時に買ったものばかりだそうだから、古くなったり薄汚れたりしたものがほとんどだった。",
+      "中には幼い自分がクレヨンで書いた落書きが残っているものもあったっけ。",
+      "そういった、古ぼけたものは一切なくなっていた。",
+      "部屋全体がパステル的な色でまとめられ、テレビドラマで見るような、お洒落な都会のマンションのような雰囲気だった。",
+      "絨毯は南国的なイメージのものに変わっていた。",
+      "カーテンもそのイメージに合わせてあるようだ。",
+      "ソファーも何だかとってもお洒落な感じ。",
+      "……まるでリゾートホテルか何かのようだった。",
+      "チャンネルが壊れて抜けてしまったため、ペンチで摘んでチャンネルを変えていたボロテレビは、最新の大画面テレビに変わっていた。",
+      "照明器具も、何だかお洒落なものに変わっている。",
+      "新品の蛍光灯の真っ白い光が、この部屋をまるで別世界のように照らし出していた。"
+    ],
+    "textEn": [
+      "I tried to sound excited and surprised.",
+      "He was standing behind me, probably smiling with satisfaction at hearing my excited voice.",
+      "I, on the other hand... was desperately trying to understand what was going on.",
+      "For a moment, I thought I was in someone else's house.",
+      "You see, the living room had been completely redecorated.",
+      "The furniture we had was all basically from the former house in Ibaraki.",
+      "My parents bought most of the furniture when they got married, so it was all old and a little dirty.",
+      "Some of them still had crayon scribbles I drew when I was very little.",
+      "But all of that was gone.",
+      "Everything in the living room had turned a pastel color, looking very sophisticated like the rooms you'd see in soap operas.",
+      "The new carpet looked very tropical.",
+      "The new curtains matched with the carpet.",
+      "The new sofa looked very expensive.",
+      "...The living room, in general, looked like a resort hotel.",
+      "The channel switcher of our old TV was broken, and we used to have to use pliers to change channels. But it was gone too, replaced by a new one with a big screen.",
+      "The room's lights had also been replaced by nicer-looking ones.",
+      "The living room looked like a totally different world under the new fluorescent lights."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「す、……すごいね、お父さん。",
+      "これはどうしたの？」"
+    ],
+    "textEn": [
+      "\"Th-This looks great, Dad.",
+      "What made you do this?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「心機一転さ。",
+      "もう引っ越してきて一年にもなるんだから、お父さんもそろそろ気分を切り替えて新しい生活に踏み出さないとなって思ったんだよ。」"
+    ],
+    "textEn": [
+      "\"I did it to get a fresh start.",
+      "It's been a year since we moved here. I thought it was time for me to reboot and finally start a new life.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "引っ越しても、まだ離婚の傷が癒せずにいるお父さんを元気付ける意味で、私も部屋の模様替えを提案したことはある。",
+      "でも、欝になっていたお父さんはそんなことに興味は示さなかったし、",
+      "…ああいう破局を迎えても、心のどこかでまだ踏ん切りがついていないらしくて、かつて母と共に選んだのだろう、古い家具を捨てるのを嫌っていた。",
+      "だから、何かの折を見て、模様替えをもう一度提案しようとずっと思ってはいたのだが…。",
+      "まさかそれを父が自発的に行なうとは思わなかった。"
+    ],
+    "textEn": [
+      "I suggested redecorating the house once in order to cheer him up, because he was still in pain after the divorce.",
+      "But he wasn't interested at the time.",
+      "...He didn't want to get rid of the old furniture he had chosen with my mother, because he still couldn't get over her even though she cruelly broke up with him.",
+      "I wanted to suggest it again when the time was right...",
+      "I never thought he'd do it on his own initiative."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね。",
+      "あはははは、こんな綺麗なお部屋だと心も晴れ晴れするもんね。",
+      "素敵なお部屋だと思うよ〜！」"
+    ],
+    "textEn": [
+      "\"That was a good idea.",
+      "Ahahahaha, this beautiful living room makes me feel refreshed.",
+      "I love it!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「いいだろう？",
+      "ほら礼奈、お前、揺り椅子に憧れてたろう？",
+      "まだ組み立ててないけど、ほら！",
+      "ちゃんとあるんだぞー。」"
+    ],
+    "textEn": [
+      "\"I knew you would.",
+      "Reina, you always wanted to have a rocking chair, didn't you?",
+      "I haven't set it up yet, but look!",
+      "I got it for you!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ〜！！",
+      "お父さん、すごいすごいすごいー！",
+      "これ私がもらってもいいのかな、かな！」"
+    ],
+    "textEn": [
+      "\"Hauuuuu!!",
+      "Dad, thank you! Thank you! Thank you!",
+      "This is mine, right? Right?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「こらこら、それはみんなの共用のものだから、礼奈だけってわけじゃないんだぞ。",
+      "あはははあはは！」"
+    ],
+    "textEn": [
+      "\"Hey, this is for everybody. Not just for you, Reina.",
+      "Ahahahahaahaha!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「共用でもレナが占領しちゃうからだめー。",
+      "あははははは。」"
+    ],
+    "textEn": [
+      "\"I understand, but I'm not going to get off the chair once I sit on it!",
+      "Ahahahahaha.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お父さんは得意げに、模様替えの居間を色々と説明してくれた。",
+      "どうも、今回は居間だけらしいが、ゆくゆくは他の部屋も全て模様替えしたいようだった。",
+      "お父さんがこんなにも溌剌として積極的になるなんて。",
+      "少しセンスが悪いかなぁと思う模様替えではあったけど、お父さんが元気になってくれるならそれは素敵なことだと思った。",
+      "ふと庭を見ると、",
+      "…懐かしき家具が庭先に出されていた。"
+    ],
+    "textEn": [
+      "My father explained the details of his redecoration proudly.",
+      "He told me that he only did the living room this time, but he's going to redecorate all of the rooms.",
+      "He sure had become more active.",
+      "There are some parts about the redecoration I didn't like, but I still thought it was great, because it made him happy.",
+      "I found the old furniture...",
+      "outside in the yard."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あれは、…捨てちゃうの？」"
+    ],
+    "textEn": [
+      "\"Are you going to... throw them away?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「まぁ、この際だと思ってな。",
+      "後で業者が引き取りに来てくれることになってる。」"
+    ],
+    "textEn": [
+      "\"Yeah, I think we should.",
+      "A delivery company is coming later to pick them up.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "古い家具からの決別は、悪い人だったお母さんの思い出からの決別でもある。",
+      "……私だって、お母さんの匂いのする家具を嫌って打ち壊そうとした時があったじゃないか。",
+      "お父さんが、これを機に処分しようとする気持ちは何となく理解できた。",
+      "でも、",
+      "…………なぜかこの新しい居間には、",
+      "私の居場所がないように感じた。",
+      "この部屋のセンスは、…お父さんのセンスじゃない。",
+      "多分、リナさんのセンスだ。",
+      "お父さんとリナさんが二人で模様替えを決め、二人でどこかのデパートで選んだ家具に違いない。",
+      "…お父さんが模様替えを私に話さなかったのは、私を驚かせたかったからだろうと好意的に受け取ろうと務める。",
+      "……うぅん、そもそもお父さんはそんな深い考え方ができるような人じゃない。",
+      "私に話さなかったのは単に、私に話す必要を感じなかったから程度に違いない。",
+      "……この家を、お父さんとリナさんの色に染め、私の居場所を奪ってしまおうなんて意味は絶対にない。",
+      "そんなネガティブなことを考えちゃだめだ…。",
+      "お父さんに悪意なんかない、…私を追い出そうなんて思ってない、…再婚の邪魔だなんて思ってない…。",
+      "でも。",
+      "……大嫌いなお母さんの匂いのついた家具が庭に出されているのを見て、…感傷を感じてしまうのはなぜだろう。",
+      "この居間に居場所を感じないのはなぜだろう。",
+      "それは、…すぐにわかった。",
+      "私自身が、そうだったのだ。",
+      "お父さんにとって、お母さんの思い出の残るものを全て捨てて心機一転をしたいというのは、",
+      "………お母さんとの娘である私だって捨ててしまいたいという気持ちの無意識な吐露なのではないか。",
+      "……お父さんは深く考えない人だから、私が邪魔だなんて考えてはいないだろう。",
+      "……でも、私が一緒に住んでいる内は、再婚はできないことは理解している。",
+      "…………結局、私がここにいるだけで、お父さんを苦しめるんだろうな。",
+      "離婚は私のせいなんだ…。",
+      "だからお父さんが取り戻す幸せを、私は応援しなくちゃいけない。",
+      "私がお父さんに甘えて独り占めしていたいからなんて理由で、……寄り掛かってちゃいけないんだ。",
+      "独り立ちを、ちゃんと考えないと。",
+      "…進学なんか考えないで、就職を考えた方がいいのかな。",
+      "でも、無学な女の子が、まともな職に就けるわけもない。",
+      "ましてや、一人で暮らしていけるような収入を得られるわけもない。",
+      "………リナさんみたいに、",
+      "……水商売とかを考えるべきなのかな。",
+      "職業に貴賎を持つのは、余裕のある人の話だ。",
+      "……私のような女の子を雇ってくれて、生活できるくらいの収入を得るためには、",
+      "…綺麗事なんか言っていられないのかもしれない…。",
+      "…………でも、…………………………。",
+      "私の居場所は、",
+      "……",
+      "どこなんだろう。",
+      "こんな時、…無性にゴミ山の隠れ家が愛おしくなる。",
+      "ブランケットに包まって、涼しすぎる夜に暖を感じることに、この上ない愛おしさを感じるのだ。",
+      "日中は蒸し暑く、夜は冷え込む過ごしにくい隠れ家。",
+      "…でも、ひょっとすると今やあの隠れ家は、……私の本当の家よりもくつろげる場所なのかもしれない。",
+      "いけない。",
+      "こういうことを考えちゃだめだ。",
+      "リナさんに家を侵食されているとか思うな。",
+      "お父さんを元気にしてくれてありがとうって感謝しなくちゃ。",
+      "リナさんだって、私を追い出そうとしてなんかいない。",
+      "むしろ仲良くしようとがんばってくれてると思う。",
+      "それを私がいつまでも懐かず、逃げているだけなのだ。",
+      "悪いのは私の方、",
+      "悪いのは私の方。",
+      "そして私は恵まれている方。",
+      "恵まれている方。",
+      "だって、……………悟史くんと叔母さんのような、徹底的に仲が悪くてずっと虐められている関係に比べたらどれほど気楽なことか。",
+      "家族を完全に失って、身を寄せ合って生きている沙都子ちゃんや梨花ちゃんの苦労を思えば、のんびりと帰宅して父と過ごせる私がどれほど恵まれていることか。",
+      "こんな程度で不幸せなんて思ったらバチが当たるよ。",
+      "私は幸せなんだ。",
+      "まだまだ恵まれてるんだ。",
+      "私のいけないところは、それなのに幸せだと認められないところなんだ……。",
+      "お父さんは得意気にいつまでも、模様替えの苦労話を続けていた。",
+      "私は満面の笑顔で相槌を打ち、お父さんの話の続きを促すのだった。"
+    ],
+    "textEn": [
+      "Getting rid of the old furniture means putting an end to my mother.",
+      "...I hated the furniture because it smelled like my mother, and I tried to break everything once.",
+      "I understand why my father wants to take this opportunity to get rid of them.",
+      "But......",
+      "...for some reason, this new living room makes me feel like",
+      "I no longer belonged here.",
+      "My father didn't choose the new furniture.",
+      "Rina-san probably did.",
+      "Most likely, my father and Rina-san decided to redecorate the living room and went to a furniture store to buy everything.",
+      "...I tried to think positively. The reason why my father didn't tell me about the redecoration was because he wanted to surprise me.",
+      "...No... My father never really considers things that deeply.",
+      "So, I suppose he didn't tell me because he just didn't think he needed to tell me.",
+      "...I'm sure he didn't redecorate the living room to make me feel like I was no longer welcome.",
+      "Don't be negative, Rena...",
+      "My father didn't have any bad intentions... He doesn't want to get rid of me... He doesn't think I'm the reason he can't get remarried...",
+      "And yet.",
+      "...Why did I feel sad... looking at the old furniture in the yard?",
+      "Why did I feel like I didn't belong?",
+      "I realized the reason... right away.",
+      "That reason was me.",
+      "To him, wanting to have a fresh start by getting rid of the things that remind him of my mother might be......",
+      "an indication of his unconscious desire to get rid of her daughter.",
+      "...My father doesn't really consider things deeply, so he might not be thinking that I'm the reason he can't get remarried.",
+      "...But, he understands that he can't get remarried while we live together.",
+      "...By staying with him, I'm torturing my father.",
+      "It was my fault that he had to get a divorce...",
+      "That's why I have to support him, to help recapture his happiness.",
+      "I couldn't just keep him all to myself.",
+      "I'd have to start thinking about living on my own.",
+      "...I don't need to go to university. I should think about getting a job.",
+      "But who would hire an uneducated girl like me?",
+      "Even if somebody did hire me, I wouldn't be able to earn enough money to live on my own.",
+      "...Maybe I should think about working at a hostess club...",
+      "like Rina-san does.",
+      "People only choose the jobs they can.",
+      "...A girl like me doesn't have a lot of choices.",
+      "Not a lot of companies would hire me or pay the amount of money that I'd need to live on my own......",
+      "But............",
+      "Come to think of it",
+      "......",
+      "where is the place where I belong?",
+      "Whenever I end up feeling like this... I miss my secret hideout in the trash piles.",
+      "I love to get under my blanket and feel the warmth on a cold night.",
+      "The hideout gets hot and humid during the day and very cold at night. It's not a comfortable place to spend time in.",
+      "...But it might be the place where I can relax the most... more than I can at my house.",
+      "No.",
+      "I shouldn't think like this.",
+      "I shouldn't think that my house has been invaded by Rina-san.",
+      "I should thank her for making my father happy.",
+      "Rina-san isn't trying to kick me out of the house.",
+      "She's trying to get along with me.",
+      "But I'm not opening my heart to her.",
+      "I'm the bad one.",
+      "I'm the bad one.",
+      "And I'm blessed.",
+      "I'm blessed.",
+      "Satoshi-kun and his aunt didn't get along at all, and she abused him for a long time. ......Compared to him, my situation is a lot easier.",
+      "Satoko-chan and Rika-chan lost their parents, and they live together now. They've been through very hard times. On the other hand, I still live with my father. I should feel blessed.",
+      "I shouldn't think I'm unhappy just because of these things.",
+      "I am happy.",
+      "I am blessed.",
+      "The trouble with me is that I still can't admit that I'm happy...",
+      "My father kept talking proudly about the redecoration.",
+      "I nodded at him with a big smile and let him keep at it."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「そうだ…、いけない。",
+      "礼奈、すまないんだがちょっとおつかいを頼めないか？」"
+    ],
+    "textEn": [
+      "\"Oh, I almost forgot...",
+      "Reina, can I ask you a favor?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「おつかい？",
+      "うん、いいよー。」"
+    ],
+    "textEn": [
+      "\"Sure.",
+      "What is it?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「お父さんな、ジャケットを２着ほど洋服屋さんに取り寄せさせてるんだ。",
+      "それがな、今日届くらしいんだ。",
+      "ちょっとお父さんは回収業者さんを手伝わなきゃならないから、礼奈が代わりに取ってきてくれないか？」"
+    ],
+    "textEn": [
+      "\"I ordered two jackets from the clothing store.",
+      "It seems like they came in today.",
+      "I have to help the delivery company pick up the furniture, so can you go get the jackets for me?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん、いいよ。",
+      "お店を教えて。",
+      "どんなジャケットを取り寄せたんだろ？",
+      "楽しみ〜！」"
+    ],
+    "textEn": [
+      "\"Sure.",
+      "Which store is it?",
+      "I wonder what kind of jackets you got.",
+      "I can't wait to see them!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どんなジャケットにせよ、おそらくこれもまたリナさんと決めたものだろう。",
+      "でも、お父さんのおつかいに行くのは何の躊躇もなかった。",
+      "この居間で、これ以上、お父さんの自慢話に付き合わされるくらいなら、おつかいに行かされた方がずっと気楽そうだと思ったからだ。",
+      "私は伝票を受け取り、お店の場所を確かめると、着替えて表に出るのだった。",
+      "……表へ出て、自転車を押しながら庭に出された古き家具たちをもう一度見る。",
+      "かつては憎しみの対象だったこともあるそれらは、なのになぜか、……私に感傷の念を沸かせる。",
+      "…その感情はおそらく、憎みながらも未練を絶てない母への執着なのか。",
+      "これ以上、この感情に心を任せるときっと毒になる。",
+      "……理屈では分かっていても、私はその感情を打ち払えない。",
+      "この庭にあるのは、追い出された家具だけではない。",
+      "私が宝探しで、悪ふざけで持ち帰ったガラクタもたくさんあった。",
+      "これらのガラクタも、多分、一緒に捨てられてしまうんだろうな。",
+      "お父さんは私が集めてきたガラクタを、嫌がってたから。",
+      "多分、粗大ゴミの回収業者が来たときに一緒に持って行かせてしまうだろう。",
+      "…動物が自分の住処に自らの匂いを付けて、居場所と安心感を得るように。",
+      "このガラクタの山もまた、私がここに居てもいいことを確認するそんな行為かもしれない。",
+      "ううん、違う。",
+      "……生んでくれた人に捨てられた、彼らを。",
+      "居てもいい場所に連れ帰ってあげたかったのかもしれない。"
+    ],
+    "textEn": [
+      "No matter what they look like, I'm sure Rina-san picked them out for him.",
+      "Although I don't mind going.",
+      "I'd rather go to the store than listen to his stories about the redecoration of our living room.",
+      "I got the receipt, asked him where the store is, changed my clothes, and left the house.",
+      "...I started pedaling my bicycle, and looked at the old furniture in the yard for the last time.",
+      "They used to be the object of my hatred, but for some reason... they now made me feel sentimental.",
+      "...Is it because I still regret the loss of my mother, even though I hate her?",
+      "I couldn't let poisonous emotions take over my heart.",
+      "...I understood that in my mind, but I just couldn't get rid of that feeling.",
+      "The old furniture wasn't the only stuff that was kicked out of the house.",
+      "There was also a lot of junk that I brought home from the landfill.",
+      "My father was probably going to throw that away, too.",
+      "He doesn't like the junk I collect.",
+      "He'll probably let the delivery company take it all together with the old furniture.",
+      "...Just like an animal that rubs its scent on its home in order to feel secure,",
+      "I collected all the junk in order to make sure that I could stay here.",
+      "No, that's not it.",
+      "...I wanted to bring them to my house because they were abandoned by their former owners.",
+      "And they needed a place to live."
+    ]
+  }
+]

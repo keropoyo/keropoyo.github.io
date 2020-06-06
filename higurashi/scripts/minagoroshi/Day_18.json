@@ -1,0 +1,4097 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "翌日。",
+      "俺たちは夜に園崎家に集合した。",
+      "俺は、魅音の婆さんを囲んで、お茶でも飲みながらの話になると想像していた。",
+      "…だが、そんな気楽な席にはならなかった。",
+      "園崎天皇とまで呼ばれる魅音の婆さんは布団に入ったまま、",
+      "大きなクッションのようなものに寄りかかって上体を起こし、その雰囲気だけでまるでお殿様か何かのように感じた。",
+      "それだけじゃない。",
+      "…園崎家の特に位の高い重鎮たちが５人くらい揃い、町会の内輪話どころか、ヤクザの談合みたいな雰囲気だった。",
+      "そう、これは町会の話し合いじゃない。",
+      "御三家の頭首全てがそろう、御三家会議だったのだ。",
+      "俺は今さらのように自分が場違いに感じたが、……そんなことにビビってる場合じゃない。",
+      "ここでこの婆さんを説得できれば、沙都子を救うために村の全力を結集できるのだ…！"
+    ],
+    "textEn": [
+      "The next evening.",
+      "We were all gathered at the Sonozaki residence.",
+      "I thought we'd be talking with Mion's grandma over tea, or something.",
+      "...However, it wasn't so relaxed a situation as that.",
+      "Mion's grandma stayed in her futon.",
+      "She was propped up against a huge cushion, and it made me feel like I was about to talk to a queen.",
+      "That wasn't the only thing, either.",
+      "There were about five members of the Sonozaki family surrounding her, as though I was at some kind of yakuza gathering.",
+      "Yes, this wasn't just any old town council meeting.",
+      "It was a meeting of the Three Families.",
+      "I kind of felt as though I didn't belong, but I also didn't have the time to be afraid.",
+      "If I could persuade this lady, I could get help from the villagers...!"
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「………そんなわけなんだ。",
+      "町会がこのままの立場を崩さないと、圭一くんが今後、何を訴えても向こうは聞いてくれない。"
+    ],
+    "textEn": [
+      "\"......So that's the situation.",
+      "If the town council doesn't change their current stance, then no matter what Keiichi-kun says past this point, the center won't listen to him."
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "町会は最低でも中立を宣言しないとならんと思うんだが…。」"
+    ],
+    "textEn": [
+      "At the very least, the town council needs to declare their neutrality...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "村長が代表して切り出してくれた。",
+      "……それを聞く婆さんの顔は厳しく、もともと厳しいのか、話の内容を聞いて厳しい表情になってるのか見分けがつかない。",
+      "婆さんが身近にいる者にしか聞こえない小声で何か言うと、着物姿の女性が代理で口を開いた。",
+      "…魅音のお母さんらしいな。"
+    ],
+    "textEn": [
+      "The mayor was the first to speak.",
+      "The old woman looked very grave. I couldn't tell if she always wore an expression like that, or if the story made her look that way.",
+      "She made a comment in a very low voice to her people. The lady wearing a kimono spoke for her instead.",
+      "...She must be Mion's mother."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「児童相談所に不手際があったならともかく、相談所は正規の手順で対応しています。",
+      "それどころか、圭一くんの熱意を理解し、汲み取る旨も約束してくれています。",
+      "その状況で、町会にはどういう不満があるのでしょうか。」"
+    ],
+    "textEn": [
+      "\"The child consultation center is simply doing their job.",
+      "They understand how much you care about her, and they are going to take your appeal into consideration.",
+      "What more are you expecting from them?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……母さん。",
+      "そこは私から説明する。",
+      "沙都子の叔父はとんでもないゴロツキなんだよ。",
+      "去年も沙都子に暴力を振るってるし、愛人に捨てられたと思って雛見沢に帰ってきた不機嫌な叔父にとってはそれはさらに酷いものだと容易に想像がつく。」"
+    ],
+    "textEn": [
+      "\"...Mom.",
+      "Let me explain this to you.",
+      "Satoko's uncle is a horrible man.",
+      "He regularly beat Satoko last year, and I'm sure he's even worse this time around because of his lover up and abandoning him.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「葛西、調べてくれたんだよね？",
+      "北条鉄平のこと。」"
+    ],
+    "textEn": [
+      "\"Didn't you investigate him, Kasai?",
+      "Teppei Houjou, I mean.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「……一応、茜さんにはお伝えしてあります。」"
+    ],
+    "textEn": [
+      "\"...I did make such a report to Akane-san.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「母さん、つまりはそういうこと。",
+      "相談所にのんびり任せてたら、多分助けてくれるのは数ヶ月も後だよ。",
+      "私は沙都子が虐められるのを、数ヶ月も放っておけない。」"
+    ],
+    "textEn": [
+      "\"You see, mom?",
+      "If we let the child consultation center take care of this, it'll take months for them to save Satoko.",
+      "I can't let her stay with that jerk for that long!\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「…………数ヶ月で死ぬわけじゃなぎゃあ。",
+      "そんくらいでぎゃあぎゃあと騒々しいんね。」"
+    ],
+    "textEn": [
+      "\".........She's not going to die.",
+      "Stop making such a big fuss over this.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ようやく婆さんが俺たちに向って口を開いてくれたが、……何とも口汚く勇ましい言葉だった。"
+    ],
+    "textEn": [
+      "The old lady finally spoke... but she didn't have anything pleasant to say."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「そ、そりゃあ死ぬまではいかないかもしれないけど、」"
+    ],
+    "textEn": [
+      "\"Sh-She might not die, but...\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「ならぎゃあぎゃあ言うんな、あっほらし！！",
+      "すったらん、生き死にも賭けんとやっかんよぅ言うんね！！",
+      "根性が足りんわドアホぅッ！！",
+      "なんばしよっとかすったらん、くっだらねッ！！",
+      "だあっと聞いとん、くだらんわ！！！」"
+    ],
+    "textEn": [
+      "\"Then shut up, you idiot!!",
+      "Worse, you're not even willing to risk your own life over this!",
+      "Grow a backbone, you twit!!",
+      "Aaah, what nonsense!!",
+      "The more I listen, the more nonsense I hear!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…おおぅ。",
+      "さすがに町会の連中がビビるわけだ。",
+      "なるほどな、これが園崎天皇とか鬼婆とか呼ばれる園崎お魎ってわけか。"
+    ],
+    "textEn": [
+      "...Wow.",
+      "So that's why the whole village is afraid of her.",
+      "This was Oryou Sonozaki, known variously as \"the hag\" or \"Empress Sonozaki.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……お魎。",
+      "沙都子はボクの友達なのです…。",
+      "助けてあげてほしいのです…。」"
+    ],
+    "textEn": [
+      "\"......Oryou.",
+      "Satoko is my friend...",
+      "I want you to save her...\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「梨花ちゃま、いつも言うとん。",
+      "友達は選らばんとね。",
+      "あんな北条の糞餓鬼なんざバチ当たりモン、しゃがあねっちゅゆうたんだら！！！"
+    ],
+    "textEn": [
+      "\"Rika-chama, remember what I've told you all this time?",
+      "You have to choose your friends carefully.",
+      "That girl is a demon child of the Houjou family!!!"
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "入江の先生まで雁首揃えてからに、なぁんねまったく！！"
+    ],
+    "textEn": [
+      "I'm disappointed in you too, Dr. Irie!!"
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "あんた、いい年して何ねまったく、これが恩に仇っちゅうつもっかいんね！！」"
+    ],
+    "textEn": [
+      "Aren't you old enough to realize what you're doing?!\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「沙都子ちゃんは北条家の娘であるだけです。",
+      "別に沙都子ちゃんがダムに賛成して村と敵対したわけじゃありません。",
+      "坊主憎ければ袈裟までというのは気の毒ではないでしょうか…。」"
+    ],
+    "textEn": [
+      "\"Satoko-chan is the daughter of the Houjou family.",
+      "But she's not the one who supported the dam project and fought against the village.",
+      "I think it's unfair for you to judge her that way...\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「ばああらしッ！！！！",
+      "お前、誰に向って口聞とんと、すだらあやっとらんわごらああ！！！」"
+    ],
+    "textEn": [
+      "\"Shut up!!!",
+      "Who do you think you're talking to, you piece of shit!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……魅ぃちゃんのおばあちゃんって本当に沙都子ちゃんのこと、許してるの？」"
+    ],
+    "textEn": [
+      "\"...Are you sure that she's willing to forgive Satoko-chan?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「魅音が言うにはそうなんだがなぁ。",
+      "なるほど、町会の連中が言うのが少しわかったぜ。」"
+    ],
+    "textEn": [
+      "\"That's what Mion told me.",
+      "I think I get where the other villagers are coming from now.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「……圭一くんも何か言いたそうだね。",
+      "この際だ、何でも言ってご覧。」"
+    ],
+    "textEn": [
+      "\"...You look like you have something to say, Keiichi-kun.",
+      "You should just let it out.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音のお母さんに目を合わせられる。",
+      "……上品な美しさと同時に、園崎天皇と同じ鷹のような眼光を宿している。",
+      "なるほど、…間違いなく魅音の親だった。"
+    ],
+    "textEn": [
+      "I made eye contact with Mion's mom.",
+      "...She's very pretty, but she was wearing the same grave look as Oryou.",
+      "By then, I had no doubts that this was Mion's mother."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「言ってもいいですけど。",
+      "…いいんですか。」"
+    ],
+    "textEn": [
+      "\"I don't mind talking.",
+      "...Is it really okay, though?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「いいよいいよ。",
+      "せっかく園崎本家までおいでなんだ。",
+      "あんたも言いな。」"
+    ],
+    "textEn": [
+      "\"Go ahead.",
+      "You came all the way here to the Sonozaki residence.",
+      "You should speak if you want to.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが頷く。",
+      "……よし。"
+    ],
+    "textEn": [
+      "Rena nodded in agreement.",
+      "...Okay."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「園崎お魎さん。",
+      "前原圭一と申します。",
+      "まだ引っ越してきたばかりですが、よろしくお願いします。」"
+    ],
+    "textEn": [
+      "\"Oryou Sonozaki-san...",
+      "My name is Keiichi Maebara.",
+      "I moved here not too long ago. Nice to meet you.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「………お前が挨拶せんでもお前のことはよーう知っとるんね。」"
+    ],
+    "textEn": [
+      "\"......I already know a great deal about you.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「今だから話す。",
+      "…前原家が引っ越してきた時、婆っちゃに挨拶してないのを根に持っててね…。",
+      "印象悪いんだよ…。」"
+    ],
+    "textEn": [
+      "\"Let me tell you something...",
+      "When your family moved to this village, you didn't come here to introduce yourself...",
+      "That left a pretty bad impression...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "んなこと、今言われても困る。",
+      "今、挨拶したからいいじゃねぇかということにしておく。"
+    ],
+    "textEn": [
+      "Why was Mion only telling me that now?",
+      "Sure hope I'm not too late to introduce myself..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「北条沙都子かどうかが問題じゃない。",
+      "村の一員が今、危機的な状況にあります。"
+    ],
+    "textEn": [
+      "\"Leave aside the fact that it's Satoko Houjou for a minute.",
+      "The important thing to note is that a villager is in danger right now."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "それを救うためには相談所に訴えるしか方法がないんです。",
+      "そして、それは俺が勝手にやってることです。",
+      "あなたに迷惑を掛けてることじゃない。」"
+    ],
+    "textEn": [
+      "In order to help that person, we have no choice but to make an appeal to the child consultation center.",
+      "Besides, I'm doing all this of my own accord.",
+      "I haven't caused you any trouble.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「迷惑って話は、村長さんから聞かされてるよねぇ？",
+      "雛見沢連合町会は鹿骨市役所とは手打ちをしてるんだよ。"
+    ],
+    "textEn": [
+      "\"But you heard from the mayor that you have been causing trouble, didn't you?",
+      "The Hinamizawa town council and the Shishibone city hall are working together."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "市長と鬼婆さまは過去を水に流し、連携して共存していくことを確認し合ってる。",
+      "村を栄えさせるために当然のことなのさ。」"
+    ],
+    "textEn": [
+      "The Shishibone mayor and this virago here had a talk with each other, and they decided to coexist.",
+      "That was necessary for this village to prosper.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……その村の栄えというのは、沙都子一人を見殺しにできるものなんですね。」"
+    ],
+    "textEn": [
+      "\"...But that village is going to let an innocent girl suffer?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「さっき私が言ったのを聞いていたかい？",
+      "見殺しなんて誰もしてないよ。",
+      "相談所だってちゃんと対応してくれてる。",
+      "それでも急いでほしいってのは、圭一くんのわがままじゃないのかい？」"
+    ],
+    "textEn": [
+      "\"Didn't you hear what I just said?",
+      "No one is going to just let her suffer.",
+      "The consultation center will take action when appropriate.",
+      "You want them to hurry up, but frankly, you're being selfish.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「村と役所は手打ち。沙都子には並みの対応。"
+    ],
+    "textEn": [
+      "\"The town council and the government officials are in a business relationship. They're treating Satoko's issue like it's an ordinary one."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "………だから沙都子がどんなにヤバい状況でも知ったことじゃないってんですか。",
+      "さっき魅音たちも言ったように、鉄平って野郎はまずい。"
+    ],
+    "textEn": [
+      "......So basically, you're saying that you don't care how much danger Satoko is in right now?",
+      "Like Mion just told you, Teppei is a horrible person."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "…３日ぶりに沙都子が登校して来た時、あいつはもうボロボロだった。",
+      "たったの３日でですよ！！",
+      "その１０倍の時間で一月が経っただけで、どうなってるか想像もつかない！"
+    ],
+    "textEn": [
+      "...When Satoko showed up at the school three days after she was kidnapped, she was already at her wit's end.",
+      "After only three days!",
+      "I can't even imagine what would happen if we left her alone with him for a month!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "しかも一ヵ月後には絶対に救われる保証もない。",
+      "その時点で様子見と相談所は判断するかもしれません。"
+    ],
+    "textEn": [
+      "There's no guarantee that she will be saved after that, either.",
+      "At that point, they might decide to put her case on hold again."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "…えっと、…魅音のお母さんは、心ならいくら傷付けられても構わないと仰るんですか！！」"
+    ],
+    "textEn": [
+      "...Umm... Mrs. Sonozaki, does the emotional damage she's suffering not matter at all to you?!\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「じゃああんたはどうしろって言うんだい。」"
+    ],
+    "textEn": [
+      "\"So what do you think we should do?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「すぐに助けるべきだと相談所に訴えています。",
+      "そしてそれを決断してくれるまで、相談所に訴えを続けるつもりです。」"
+    ],
+    "textEn": [
+      "\"I'm making an appeal to the child consultation center, asking them to save her as soon as possible.",
+      "I'm going to continue going to the center until they do.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「なら決まりだ。",
+      "圭一くんは続けるといい。",
+      "園崎家は知ったことじゃないよ。",
+      "それでいいかい？」"
+    ],
+    "textEn": [
+      "\"Well then, there you go.",
+      "You can just continue your appeal.",
+      "It's none of the Sonozakis' business.",
+      "Isn't that enough?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……くそ。",
+      "やりにくいな…。",
+      "集会所で年寄り連中と戦った時は、みんな短気だったのでペースに引き込みやすかった。",
+      "でもこの、茜さんという魅音のお母さんはやりにくい。",
+      "園崎姉妹も、お魎って婆さんもみんな短気なのに、この人だけは冷静なのだ。",
+      "それでいて敵意は充分にある。"
+    ],
+    "textEn": [
+      "Damn it...",
+      "She's so hard-headed...",
+      "It was easy to win an argument with the old people in the assembly hall, since they got agitated so quickly.",
+      "But Akane-san, Mion's mom, is way tougher than that.",
+      "Both of the Sonozaki sisters and their grandma are quick to anger, but Akane-san seemed incredibly calm.",
+      "She was calm, but still full of animosity."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「でも、…もうそういうわけには行かないんです。",
+      "町会が役所に対し、俺たちのやってることを支持しないと言ってしまったから、相談所はもう、俺たちの訴えに耳を貸してはくれないんです。」"
+    ],
+    "textEn": [
+      "\"But I can't continue our appeal anymore.",
+      "If the town council doesn't tell the officials that they're going to support us, the child consultation center won't listen to us at all...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そういうことなんだよ母さん…。",
+      "だから、勝手にすればいいじゃもはや済まない。",
+      "町会として支持か不支持をはっきり表明してくれないと後が続かないんだよ。」"
+    ],
+    "textEn": [
+      "\"Did you hear that, Mom...?",
+      "We can't just do whatever we want.",
+      "We need the town council to decide whether they're going to support us or not.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「というか、町会はもう決着がついてます。",
+      "お婆ちゃんさえ納得してくれれば支持してもいいとまとまってます。」"
+    ],
+    "textEn": [
+      "\"Actually, the council has already made their decision.",
+      "They said they'd support us as long as Granny agreed.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「だああがんなことまとめんとすっちゃらあああ！！！！」"
+    ],
+    "textEn": [
+      "\"Who the hell made that decision behind my back?!?!\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「お前たちも、ダム戦争の時の北条夫妻の態度は知ってるだろ。",
+      "あれを許せるのかって言われると、私も答えはノーだねぇ。」"
+    ],
+    "textEn": [
+      "\"You're all aware of how the Houjou family acted during the dam conflict, aren't you?",
+      "If you're asking me to forgive them, my answer's still 'no'.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「私、知らないんだけど、沙都子ちゃんのご両親って、どういう人だったの…？」"
+    ],
+    "textEn": [
+      "\"I'm not really familiar, actually... What were Satoko-chan's parents like?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……お母さんは沙都子がもっと強気になったみたいな人でした。",
+      "お父さんは鉄平の兄な人でした。",
+      "しかも鉄平より強くて怖かったです。」"
+    ],
+    "textEn": [
+      "\"......Her mom was like a stronger version of Satoko.",
+      "Her dad was, well, Teppei's older brother.",
+      "He was even stronger and scarier than Teppei.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あの鉄平よりもかよ…。",
+      "そりゃあ何だか笑えない話だな。",
+      "……なるほど、園崎家とバチバチと対立してた構図がようやく見えてきた。",
+      "要するにその時の煮えくり返った腸がまだ治まらないと、そう言ってるんだなこの婆さんは。」"
+    ],
+    "textEn": [
+      "\"Scarier than Teppei...?",
+      "That's not very funny.",
+      "...I see. Now I'm starting to understand how they clashed with the Sonozaki family.",
+      "I guess she hasn't forgotten how much they pissed her off...\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「聞こえるように言うとは、あんたも大したタマだねぇ。",
+      "子どもたちからよくあんたの話は聞いてるよ？",
+      "大した器だそうじゃないかい。」"
+    ],
+    "textEn": [
+      "\"Ah, you're saying it out loud so we can hear.",
+      "My children have told me a lot about you.",
+      "I heard you're one courageous boy.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「付け上がったついでで恐縮ですが。",
+      "そこの布団の婆さんが頭を縦に振ってくれりゃ俺は満足です。",
+      "何も、ここにいる皆さんに俺たちの陳情に加わってくれとまでは言わない。",
+      "ただ黙って頭を縦に振ってくれりゃいい。」"
+    ],
+    "textEn": [
+      "\"Let me tell you this straight up.",
+      "We'll be satisfied as long as that old lady in the futon just nods her head.",
+      "I'm not expecting you all to get involved in our protest.",
+      "All I need is for her to nod.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「……………嫌だと言ったらどうするんだい？」"
+    ],
+    "textEn": [
+      "\"........And if she said no?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「この場で婆さんの頭を叩き割って、魅音を新頭首にして頭を縦に振らします。」"
+    ],
+    "textEn": [
+      "\"I'd smash her head in and make Mion the new family head, so she can nod for us.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「なあんと抜かしよんねこんの糞餓鬼ゃあああッ！！！",
+      "誰かポン刀持って来よん、この糞生意気な餓鬼ゃあ叩き斬って井戸に放り込んじまいな！！！」"
+    ],
+    "textEn": [
+      "\"What the fucking hell did you just say, you god-damned son of a bitch?!?!",
+      "Someone bring me a sword! I'll cut him into pieces and dump him in the well!!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おう婆さん、俺とやり合うつもりかよ。今日食った晩飯が最後の晩餐になっちまうぞ。」"
+    ],
+    "textEn": [
+      "\"Are you ready for a fight, old lady? Whatever you ate tonight will be your last supper!\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「……だぁって聞いとん、よーーぅ抜かす。",
+      "上等も上等、ようもすったらん言わすわこん餓鬼！」"
+    ],
+    "textEn": [
+      "\"Shut up, you fucking little shit!",
+      "Do you even know who you're talking to?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鬼婆と言われるだけのことがある威圧感で、ぎょろりと睨みつけてくる。",
+      "…普段の俺だったら、それだけで泣いて侘びをいれたくなるところだが、生憎、こっちも退けない。",
+      "……沙都子は数日を争うんだ。",
+      "…俺たちは知ってる。",
+      "ほんの数日で、沙都子が完全に壊されてしまうことを知っている。",
+      "そしてその時に、自分たちが無能であることを涙を流して後悔するんだ。",
+      "後悔なんかするくらいなら、今を精一杯戦ってやる。",
+      "やってやり過ぎなんてものはないんだからな…！！"
+    ],
+    "textEn": [
+      "The evil hag sent a violent glare my way, the intimidating aura surrounding her becoming almost visible.",
+      "...Normally, I'd be terrified. However, I can't back off today.",
+      "...Satoko doesn't have much time left.",
+      "...Everyone here knows that.",
+      "We all know that she'll be forever damaged in only a few more days.",
+      "We would then cry, and lament our powerlessness.",
+      "We have to fight as best we can, so that we have no regrets!",
+      "There can be no limits to how far we'd go to save her!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「はっきり言う。",
+      "沙都子は俺の仲間だ。",
+      "仲間のために俺は戦ってる。",
+      "あんたはどうだ。",
+      "あんたもそうだったと聞いてるぞ。",
+      "一人の仲間のために村全てを束ねて戦った。"
+    ],
+    "textEn": [
+      "\"Let me make this clear.",
+      "Satoko is my friend.",
+      "I'm fighting for her sake.",
+      "How about you?",
+      "I heard that you used to be like that.",
+      "You once fought, you and the whole village, just to save one villager."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "そしてその団結でダム計画を跳ね返したんじゃなかったのか。」"
+    ],
+    "textEn": [
+      "Isn't that how strongly you rejected the dam project?\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「…………余所者のクセによーぅ知っとんね。」"
+    ],
+    "textEn": [
+      "\".........You're just an outsider.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おう、待たんかいババア。",
+      "誰が余所者だ。",
+      "俺は雛見沢の前原圭一だ。",
+      "雛見沢の仲間を助けるために戦ってる。",
+      "それを指して余所者とはよく言ったぜ。」"
+    ],
+    "textEn": [
+      "\"Wait a minute, old lady.",
+      "I'm not an outsider.",
+      "I'm Keiichi Maebara from Hinamizawa.",
+      "I'm fighting to save my friend, who's also from Hinamizawa.",
+      "How can you say that I'm an outsider?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「お魎さん。",
+      "前原くんは確かに引っ越してきて日は浅いかもしれませんが、村にすっかり溶け込み、新しい風を吹き込んでくれる期待の若者です。」"
+    ],
+    "textEn": [
+      "\"Oryou-san.",
+      "Maebara-kun came to this village not too long ago, but he's already adapted to our way of life. He's a young man with lots of promise.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「……入江の先生はいつんか、礼儀知らずを期待の若者ン言うようになったん……。",
+      "おう、誰ぞ、お茶と薬を持って来てえな…。",
+      "頭に血が上りすぎて血管が痛みよるんね。」"
+    ],
+    "textEn": [
+      "\"...Since when did you think disrespect is the same as promise, Dr. Irie...?",
+      "Someone bring me my medicine and some tea already...",
+      "All this blood rushing to my head is making it ache.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "末席の男が立ち、一度席を外して、お茶と薬を持ってきた。"
+    ],
+    "textEn": [
+      "The man on the far end stood up and brought over some tea and medicine."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「礼儀知らずってんなら、一度ここで筋を通します。"
+    ],
+    "textEn": [
+      "\"If you think I'm being disrespectful, then let me make this request properly."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "……北条沙都子を救うために、園崎家も協力してください。",
+      "沙都子は村の一員です。",
+      "それ以上に、俺の仲間です。"
+    ],
+    "textEn": [
+      "We want the Sonozaki family's help in order to save Satoko Houjou.",
+      "Satoko lives in this village too.",
+      "Moreover, she's my friend."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "どうか、お願いします…！！」"
+    ],
+    "textEn": [
+      "Please help us...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺が深々と頭を下げると、みんなも一緒に頭を下げてくれた。"
+    ],
+    "textEn": [
+      "As I deeply bowed my head to her, my friends bowed along with me."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「圭一くん、頭を上げな。",
+      "……どうしたもんかね、婆さま。」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun, raise your head.",
+      "What shall we do, Mother?\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「……どうしたもこうしたもないん。",
+      "どないせっちゅうね。」"
+    ],
+    "textEn": [
+      "\"It's none of my business...",
+      "What are you expecting out of me?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「沙都子ちゃんは圭一くんの身内なんだって言ってる。",
+      "それに圭一くんが立ち回るのは筋は通ってるよ。」"
+    ],
+    "textEn": [
+      "\"Satoko-chan is like family to Keiichi-kun.",
+      "It's only natural for him to seek help for his family.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「「お母さん…！」」"
+    ],
+    "textEn": [
+      "\"\"Mom...!\"\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「…ただねぇ。",
+      "園崎家と北条家はとにかく仲が悪かった。",
+      "婆さまも公衆の面前で罵倒されてるしねぇ。",
+      "それを水に流せってのは簡単じゃない。",
+      "ケジメの問題だよこれはね。」"
+    ],
+    "textEn": [
+      "\"However...",
+      "the Sonozaki family and the Houjou family were enemies.",
+      "They once disparaged Mother in public, too...",
+      "We can never forgive them for doing that.",
+      "This is an issue of distinction.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……ケジメって何ですか。」"
+    ],
+    "textEn": [
+      "\"...What do you mean, 'distinction'?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「堅気の言葉で言うと謝意だね。",
+      "ただ、それを示すべき北条夫妻は事故で亡くなってる。",
+      "それにあれだけのことをしてくれたケジメだ。",
+      "安くはつかないよ。」"
+    ],
+    "textEn": [
+      "\"They would need to make an apology.",
+      "However, the parents died in an accident.",
+      "There's no one else who can apologize to us.",
+      "Forgiveness won't come cheap.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そのケジメってのを払えば、怒りを水に流してくれるんですか？」"
+    ],
+    "textEn": [
+      "\"So if she apologizes to you, you'll forget about what her family did?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「私たちも義理の世界で生きてる。",
+      "頭を下げられたら水に流さないわけにはいかない。",
+      "まさかレナちゃん、沙都子ちゃんの頭を下げさせるのかい？」"
+    ],
+    "textEn": [
+      "\"The world we live in is one of honor.",
+      "If she apologizes to us, we'll have no choice but to forgive her.",
+      "Are you going to make Satoko-chan apologize?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……いいですよ。",
+      "沙都子ちゃんに、ご両親の責任を説明して謝らせてもいいです。",
+      "ケジメを示すべきご両親ではないけれど、それで許してくれますよね？」"
+    ],
+    "textEn": [
+      "\"......Sure.",
+      "I'll make her apologize for what her parents did.",
+      "Her parents can't be there to do so, but you'll still forgive her, won't you?\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「……………許すかどうかは見て見ないことにはわからないけれど。",
+      "まぁ、謝意は感じるかもしれないねぇ。」"
+    ],
+    "textEn": [
+      "\"......We'll have to see her before we make our final decision.",
+      "But I suppose we can say that we'll forgive her.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「それでどうですか、魅ぃちゃんのお婆ちゃん。",
+      "沙都子ちゃんが、ダム戦争時のことを謝ったら。」"
+    ],
+    "textEn": [
+      "\"What do you think, Oryou-san?",
+      "What if Satoko-chan apologized to you about the dam conflict?\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「……ふ、…はっはっはっはぁ！！",
+      "まぁ、そこまでやって見せたら考えんこともなぁん。",
+      "すったらん水に流すのも考えよ。」"
+    ],
+    "textEn": [
+      "\"...Pff... Ha ha ha haaaa!!",
+      "Well, I'll think about that when she apologizes to me.",
+      "I might forgive her... if she really did.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その笑いは、沙都子が頭を下げられるわけがないという前提に基づいたものだ。",
+      "ここまでだと、レナが一方的に譲歩したように見える。",
+      "…でも、レナが怖いのはここからだった。"
+    ],
+    "textEn": [
+      "She laughed, obviously thinking that Satoko would never actually apologize to her.",
+      "It seemed for a moment as though Rena had compromise in mind.",
+      "...However, Rena always has a plan up her sleeve."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でも、沙都子ちゃんが謝ってケジメをつけたら。"
+    ],
+    "textEn": [
+      "\"But if she apologized to you..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……ケジメを示すべきでないにもかかわらず、村八分にして嫌ってきたケジメはお婆ちゃんもとってくれますよね？」"
+    ],
+    "textEn": [
+      "Would you apologize to her for discriminating against an innocent girl who didn't deserve to be treated that way...?\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「…………なあん？」"
+    ],
+    "textEn": [
+      "\"........Hah?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「沙都子ちゃんがダムに賛成したわけじゃない。",
+      "単に北条家の子どもなだけです。",
+      "それだけでおばあちゃんは沙都子ちゃんを毛嫌いしてきた。",
+      "この村では、あなたは単なる老女じゃない。"
+    ],
+    "textEn": [
+      "\"Satoko-chan wasn't the one supporting the dam project.",
+      "She's just the child of those who did.",
+      "But you hate her just for her last name.",
+      "You're not just an ordinary old lady in this village."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "雛見沢の意思を左右する今や御三家の筆頭、園崎家の頭首です。",
+      "そのあなたが沙都子ちゃんを公の場で毛嫌いすることは、村全体に影響を及ぼします。"
+    ],
+    "textEn": [
+      "You hold great influence over the people here, because you're the leader of the Sonozaki family.",
+      "Your public hatred toward Satoko-chan had a huge impact on the way the village thinks."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "それは町会でも明らかです。",
+      "あなたが北条家を嫌っているから、北条家と親交があるとあなたにどんな不利益を受けるかわからないとみんなが思っている！」"
+    ],
+    "textEn": [
+      "That became clear with the town council, too.",
+      "Everyone is afraid to interact with the Houjou family because of how much you hate them.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「……そりゃあ婆さまは雛見沢の母だからねぇ。",
+      "戦中戦後と一番辛い時代を切り盛りされた。",
+      "それくらいの影響力は当然さね。」"
+    ],
+    "textEn": [
+      "\"...You're the mother of all Hinamizawa.",
+      "You were instrumental in keeping us all afloat in the difficult times after the war.",
+      "It's only natural that you hold such great influence over the people here.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「その影響力を知らないとは言わせません。",
+      "……先ほどの言葉をお借りしますが、…沙都子は俺の仲間です。",
+      "身内です。",
+      "……それにあなたの影響力で不利益が被られるなら、…俺はあんたと戦わなくちゃならない。"
+    ],
+    "textEn": [
+      "\"You're aware of how much your decisions can affect the whole village.",
+      "Let me say this again... Satoko is my friend.",
+      "She's my family.",
+      "If your influence is going to cause us trouble... I will do battle with you."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "それが仲間を守るってことです！」"
+    ],
+    "textEn": [
+      "That's what protecting your friends is all about!\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「……ふぅん。",
+      "…都会者風情がなかなか言うじゃないかい。",
+      "親類の皆さんの意見も聞こうか。",
+      "皆さんはどうお思いだい？」"
+    ],
+    "textEn": [
+      "\"...Hmm.",
+      "I'm impressed to hear that from a city boy like you.",
+      "Let me ask what the other family members think.",
+      "Well, how about it, everyone?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Senior",
+    "labelJp": "年寄り",
+    "textJp": [
+      "「……………筋は通っとる。",
+      "園崎家と北条家のいさかいにまで口を出されることはないが、身内に対するケジメは取っとる。」"
+    ],
+    "textEn": [
+      "\"............What he's saying does make sense.",
+      "The problem between the Sonozaki family and the Houjou family is not his business, but he's clear about how much he wants to save her.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Senior",
+    "labelJp": "年寄り",
+    "textJp": [
+      "「北条家の餓鬼っつんがなかったら、園崎家もそんなに気にはせんのだがね。」"
+    ],
+    "textEn": [
+      "\"There wouldn't be any problem if she wasn't a child of the Houjou family...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Senior",
+    "labelJp": "年寄り",
+    "textJp": [
+      "「好きにすればいい。",
+      "園崎家は協力もせんが邪魔もせん。",
+      "それでいいだろ。」"
+    ],
+    "textEn": [
+      "\"They can do whatever they want to.",
+      "We, as a family, can just stay neutral.",
+      "Don't you agree?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Mion's dad",
+    "labelJp": "魅音の父",
+    "textJp": [
+      "「……そういうわけにはいかんらしいですな皆様方。」"
+    ],
+    "textEn": [
+      "\"...No, apparently that's not enough, everyone.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "一番大柄で怖そうなサングラスの人が低音の利いた声で言った。"
+    ],
+    "textEn": [
+      "The big, scary man in sunglasses spoke with a deep voice."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Mion's dad",
+    "labelJp": "魅音の父",
+    "textJp": [
+      "「園崎家が頭を縦に振らんことには、町会は納得しない。",
+      "町会が支持をしなきゃ役所は聞く耳を持たんと言ってます。"
+    ],
+    "textEn": [
+      "\"He's saying that the town council won't support them unless the Sonozaki family agree to as well.",
+      "And without the support of the council, the center won't listen to them either."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Mion's dad",
+    "labelJp": "魅音の父",
+    "textJp": [
+      "……はっきり白黒をつける他ありませんな。」"
+    ],
+    "textEn": [
+      "We need to be clear about our decision on this one.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「お前さんはどう思うんだい？」"
+    ],
+    "textEn": [
+      "\"What do you think?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Mion's dad",
+    "labelJp": "魅音の父",
+    "textJp": [
+      "「………圭一くん。",
+      "いつも娘から聞いてるよりずっと立派に意見する男だ。",
+      "正直、見直した。",
+      "大した男だ。」"
+    ],
+    "textEn": [
+      "\"......Keiichi-kun.",
+      "You're a stronger man than my daughters have led me to believe.",
+      "Frankly, I've had to change my opinion of you.",
+      "You're a man among men.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あ、…ど、ども…。魅音のお父さんですか……。」"
+    ],
+    "textEn": [
+      "\"Ah, h-hello... Are you Mion's father...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "絶対どこかのヤクザの親玉だと思っていたら、魅音のお父さんだった。",
+      "…そういや、本職だって聞いたような…。",
+      "なるほど納得の迫力だ。"
+    ],
+    "textEn": [
+      "I thought he was the boss of a yakuza clan or something.",
+      "...Wait, I did hear once that her dad is exactly that...",
+      "He certainly looks the part."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Mion's dad",
+    "labelJp": "魅音の父",
+    "textJp": [
+      "「君のところの身内に迷惑を掛けたのはうちに責任がある。",
+      "親はともかく、娘に罪はない。",
+      "……そうでしょう、お母さん。」"
+    ],
+    "textEn": [
+      "\"It's partly our fault that your friend is struggling.",
+      "Her parents aside, she's just an innocent girl.",
+      "...Isn't that right, Mother?\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「……知ったこっかい！！",
+      "北条の名前を持つ悪んタレはどいつもバチ当たりモンさね！！",
+      "それにこいつはさっき、わしん頭を叩き割るとか抜かしよったんぞ！！"
+    ],
+    "textEn": [
+      "\"...Who even cares!!",
+      "Anyone who bears the Houjou name is an ungrateful little shit!!",
+      "He even told me a few minutes ago that he's going to smash my head in!!"
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "そんなヤツに大した男もへったくれもねえん！！」"
+    ],
+    "textEn": [
+      "A bastard like that doesn't deserve to be called a man among men!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Mion's dad",
+    "labelJp": "魅音の父",
+    "textJp": [
+      "「……お母さん。",
+      "ここはひとつ、圭一くんに力を貸しては上げられませんでしょうか。",
+      "…近頃熱心な若者です。",
+      "なかなかこうはっきり言える若者はおりません。」"
+    ],
+    "textEn": [
+      "\"...Mother.",
+      "Can we help Keiichi-kun this one time?",
+      "...He's a passionate young man.",
+      "Not many youngsters these days have that kind of inner strength.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「婆っちゃ、私もお願いするよ…。",
+      "私たちに力を貸して欲しい…！",
+      "沙都子は私の仲間でもある。",
+      "私は雛見沢の仲間のために戦った婆っちゃの昔話をいつも尊敬してるんだよ…！",
+      "だから私も婆っちゃみたいに仲間のために戦いたいんだ…！」"
+    ],
+    "textEn": [
+      "\"Granny! Please!",
+      "We need your help...!",
+      "Satoko is my friend too.",
+      "I deeply respect how you fought for this village...!",
+      "I want to fight like you, for my friend!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「私も頭を下げます。",
+      "沙都子は私の家族です。",
+      "妹です。",
+      "お願いします、私たちに力を貸してください。」"
+    ],
+    "textEn": [
+      "\"I'm asking for your help too.",
+      "Satoko is my family.",
+      "She's a little sister to me.",
+      "Please. Please give us your help!\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「……………………。」"
+    ],
+    "textEn": [
+      "\"...............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "婆さんは応えず、頭を下げる魅音たちをギロギロと睨んでいるだけだった。",
+      "…やはり、この頑固な婆さんの口から協力を取り付けるのは難しい…。",
+      "村長も困りきっているようだった。",
+      "婆さんのギロギロが俺に向けられた。俺も同じ目つきを返す。"
+    ],
+    "textEn": [
+      "Upon seeing the twins bowing so deeply, the stubborn old woman simply stared at them with that grave look of hers.",
+      "...I figured it would be difficult to get her to cooperate with us.",
+      "The mayor looked troubled too.",
+      "Mion's grandma eventually turned her gaze to me, and I stared back at her."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「頭はすでに一度下げたから、もう一度は下げない。",
+      "でももう一度言う。",
+      "俺たちに力を貸してくれ。",
+      "沙都子は俺の仲間で、あんたの村の一員でもある。",
+      "そして、あんたを罵倒したわけでもない。"
+    ],
+    "textEn": [
+      "\"I already bowed to you once, so I'm not going to do that again.",
+      "But let me say it just one more time.",
+      "Please help us.",
+      "Satoko is my friend, and she's one of the villagers.",
+      "She was never disrespectful to you."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "恨む筋合いはないはずだ。」"
+    ],
+    "textEn": [
+      "You have no reason to hate her.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「………………………頭を縦に振ってぇ。",
+      "それでどうするん。」"
+    ],
+    "textEn": [
+      "\".........If I nod my head...",
+      "What happens next?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「町会の支持がつけば、相談所も耳を貸さないわけにはいかなくなる。",
+      "それでも聞かなきゃまた押し掛ける。",
+      "今度は雛見沢を上げてだ！",
+      "明日は土曜日。"
+    ],
+    "textEn": [
+      "\"Once the council is on our side, the consultation center will have to hear us out.",
+      "If they still don't listen, then we'll go there again.",
+      "We'll go there with the whole village!",
+      "Tomorrow is Saturday."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "相談所も午前中はやってる。",
+      "そして村人は祭りの準備のために集まるはずだ。",
+      "その人数で相談所に行く！」"
+    ],
+    "textEn": [
+      "The consultation center is open in the morning.",
+      "The villagers will all be gathering for the preparation for the festival then.",
+      "So I'll just take them all along with me!\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「そ、それはすごいですね…。",
+      "百人規模の話になります。」"
+    ],
+    "textEn": [
+      "\"Th-That would be crazy...",
+      "You'd be involving hundreds of people...\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「……人数はどれくらい集まるんだい？」"
+    ],
+    "textEn": [
+      "\"...How many people would come, exactly?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いきなり明日の話だから、賛同者がどれだけ出てくれるかはわからないけど…。",
+      "とにかく俺がみんなの前で話します。」"
+    ],
+    "textEn": [
+      "\"I don't know how many of them would, but...",
+      "I'd definitely go make a speech in front of all of them.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「村長さんのところはどんな見通しです？」"
+    ],
+    "textEn": [
+      "\"How do things look to you, Mr. Mayor?\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「町会役員は概ね理解を示しています。"
+    ],
+    "textEn": [
+      "\"Most of the council members are supporting them."
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "…確かに役所と築いてきた連帯も大切ですが、役員たちの中にも、死守同盟時代の話を引き合いにして、沙都子ちゃんのために戦えないのはおかしいという声があがっています。"
+    ],
+    "textEn": [
+      "...Our relationship with the government is important, but some of them think it's more important to fight for Satoko-chan, that is, to resurrect the spirit of the Guardians."
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "……圭一くんのやってることは理解できるし、反対する謂れはないってことでまとまってます。」"
+    ],
+    "textEn": [
+      "We all understand what Keiichi-kun is trying to do, and no one disagrees with him.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「何だい、婆さま抜きでも町会はまとまってるんじゃないかい。",
+      "それで最後の決だけを園崎家にさせようってのかい？",
+      "なかなか意地の悪い注文をするもんだね、町会も。」"
+    ],
+    "textEn": [
+      "\"So the whole village is united even without Mother?",
+      "But you're still seeking final approval from the Sonozaki family?",
+      "That's a rather dirty way to do business.\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「……茜さん、お魎さん。",
+      "はっきり言うが、…私も沙都子ちゃんが不憫だと思うんだ。",
+      "ひとりで健気によく頑張ってきた。"
+    ],
+    "textEn": [
+      "\"...Akane-san, Oryou-san.",
+      "To put it simply... I feel bad for Satoko-chan.",
+      "She's doing the best she can, even though she's all alone."
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "この辺で、沙都子ちゃんがもう村八分になんかされてないんだってことを、ひとつ大号令を発してもらうわけにはいかないかな…。」"
+    ],
+    "textEn": [
+      "I think it's time for us to let her know that she won't be ostracized by anyone anymore...\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「そんなことはでけんね！！！",
+      "なぁんとわっしゃあ北条の糞餓鬼を許さならなとね！！」"
+    ],
+    "textEn": [
+      "\"I refuse!!!",
+      "I will never forgive the demon child of the Houjou family!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なら決まりだな！！",
+      "てめぇは俺の仲間の敵だ。",
+      "ってことは俺の敵だッ！！",
+      "今この場で息の根を止めてやるぜえ！！",
+      "魅音、お前がすぐに頭首を継いで俺を支持しろ！！",
+      "ババア今この場で絞め殺してやらああッ！！！」"
+    ],
+    "textEn": [
+      "\"Fine then!!",
+      "You're the enemy of my friend!",
+      "That makes you my enemy!!",
+      "I'm gonna kill you right here!!",
+      "Mion, you can take her place and lend us your support then!!",
+      "I'm gonna kill this old bat right this minute!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺が飛びかかろうと立ち上がると、強面の親族たちが一斉に立ち上がり俺の前に立ち塞がる。",
+      "……というか、何で一部の人は懐に手を突っ込んでるんだよ。",
+      "懐から何が出て来るのかどきどきしてならないぜ…。"
+    ],
+    "textEn": [
+      "As I jumped up, her family members stood in my way.",
+      "...They all had put their hands into their pockets.",
+      "I don't want to imagine what they might pull out of there..."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「……………あああぁああぁあぁぁぁ、本当にもうイライラするん！！",
+      "あんじょうすったらん！！",
+      "ほんますらっしゃ、たったらん！！！」"
+    ],
+    "textEn": [
+      "\".........Aaaaaaaaaaaaaaaaagh!! This is pissing me offff!!",
+      "How dare you say that!!",
+      "I can't take this anymore!!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……お魎、数多の血管が切れちゃいますです。」"
+    ],
+    "textEn": [
+      "\"...Oryou. Think of your blood pressure.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「ああぁ、すまんね梨花ちゃま。",
+      "そこの薬袋を取ってくれんかいね…。",
+      "ほんまん、血管切れたらどないすんしゃあね…。」"
+    ],
+    "textEn": [
+      "\"Ahh, I'm sorry, Rika-chama.",
+      "Will you pass me that bag of medication...?",
+      "My veins really are going to burst...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何を言ってるのかわからないが、怒り心頭だということはとりあえずわかる。",
+      "そして、不機嫌そうにごにょごにょと魅音のお母さんに囁いた。",
+      "それを彼女が代弁する。"
+    ],
+    "textEn": [
+      "She was mumbling too much for me to tell what she was saying, but I could tell that she was furious.",
+      "She whispered something into Mion's mother's ear.",
+      "She spoke for her instead."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「申し訳ないけど、今夜はこれくらいにしてもらいます。",
+      "婆さまも頭痛が酷くなっちゃって、これ以上は付き合いきれんって言ってます。」"
+    ],
+    "textEn": [
+      "\"I'm sorry, but this is it for tonight.",
+      "She has a horrible headache, and she can't talk with you any longer.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そ、……そんな、まだ俺は回答をもらってないです！」"
+    ],
+    "textEn": [
+      "\"But... but I still haven't gotten my answer!\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「圭一くん。",
+      "出直すってのも大人のルールってのを学びな。",
+      "だいぶ今日はおばさんも親切にしてあげてるんだよ。",
+      "……うちの子たちと仲良くしてくれてるから大サービスしてる。",
+      "そこいら辺を汲み取ってくれないと、私の顔が立たないねぇ…？」"
+    ],
+    "textEn": [
+      "\"Keiichi-kun.",
+      "You need to learn to play by the adults' rules.",
+      "I've been very patient with you today.",
+      "...That's because you're a friend of my daughters.",
+      "You need to reflect on that, don't you think...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「け、圭ちゃん…、今日は充分だよ…。",
+      "これくらいにしよう…。」"
+    ],
+    "textEn": [
+      "\"K-Kei-chan... We've done enough today...",
+      "Let's get out of here...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音と詩音が慌てだすところを見ると、………どうやら滅多に怒らないまでにも、魅音のお母さんも相当怒ると怖いらしい。",
+      "今の表情を爆発１０秒前くらいに感じたらしい。",
+      "……でも、ここで引き下がっていいのだろうか…。",
+      "くそ、……何とか首を縦に振らせたいのに！",
+      "今日、頷いてもらえれば、明日さっそく大人数で押し掛けられたのに！",
+      "今日の相談所の連中は笑っていた。",
+      "三日目までは増える一方だったのに、四日目には一気に人数が減ったので、あと２日もしのげれば俺は来なくなるとタカをくくっていた！",
+      "ここで手を休めちゃいけないんだ。",
+      "沙都子はもうあの叔父の許で何日を過ごしてるんだ？！",
+      "一日たりとも猶予はないというのに！",
+      "だが、場はそれで閉会となってしまった。",
+      "婆さんはそのまま就寝となり、全員部屋を追い出された。",
+      "若者勢は全員外へ追い出され、村長が最後の挨拶をしているようだった。",
+      "俺たちは村長を待って、立派な園崎家の庭でたむろしていた。"
+    ],
+    "textEn": [
+      "Based on Mion and Shion's reaction, Mion's mom is very scary when she's angry.",
+      "They were convinced that their mom was going to explode in about ten seconds...",
+      "...Still, should we really leave after just that?",
+      "Damn it... I really want her to nod!",
+      "If she gives me an answer tonight, I can gather a huge crowd tomorrow!",
+      "The people at the child consultation center were laughing at us today.",
+      "We'd gradually increased the number of people we had until the third day, but on the fourth we had far less. They must think that we won't show up at all within a couple of days...",
+      "No matter what, we can't stop showing up.",
+      "How many days has it been since she was taken by her uncle?",
+      "We don't have a single day to waste!",
+      "However, for tonight, the meeting was over.",
+      "The old lady went to sleep and we were kicked out of the room.",
+      "Even though the rest of us were forced to leave, the mayor stayed behind to wrap things up.",
+      "We decided to wait in the yard for him to come back out."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……くそ、…あと一息だったってのにな…。」"
+    ],
+    "textEn": [
+      "\"Damn it... We were almost there...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんは言うべきことを全て言ったよ。"
+    ],
+    "textEn": [
+      "\"You said everything you needed to say."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "でも、向こうにも考える時間は与えないといけない。",
+      "……もちろん、そんな余裕はないんだけれど。」"
+    ],
+    "textEn": [
+      "You have to give her time to think about it.",
+      "...Of course, we don't exactly have time to waste.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「監督的にはどう見えましたか？」"
+    ],
+    "textEn": [
+      "\"What do you think, Coach?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「……お魎さんがすっかり不機嫌モードに入ってしまいましたからね。"
+    ],
+    "textEn": [
+      "\"...Oryou-san was in a really foul mood."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "一度ああなったら下手をすると三日は機嫌を直しません。",
+      "…さっき前原さんも言ってましたが、明日の綿流しの準備の時にみんなに呼びかけて、みんなで訴えに行くというのは、ちょっと無理だと思います。」"
+    ],
+    "textEn": [
+      "Once she gets like that, she'll stay that way for at least three days.",
+      "...It might be difficult for us to take any villagers along for the protest tomorrow.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……でも、話を最後まで聞いてくれましたと思います。",
+      "あとはお魎を信じるだけなのです…。」"
+    ],
+    "textEn": [
+      "\"......At least she listened to us until the end.",
+      "We just have to trust that she'll make the right decision...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうだな。",
+      "……信じて待つってのは辛いことだな。」"
+    ],
+    "textEn": [
+      "\"You're right.",
+      "...It's hard to trust in someone and just wait, though.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…みんな〜〜、お疲れさん〜〜。」"
+    ],
+    "textEn": [
+      "\"...Hey, everyone. You all did a good job in there.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音と詩音が庭を駆けてきた。"
+    ],
+    "textEn": [
+      "Mion and Shion ran over to join us."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おう、魅音も詩音もお疲れさん。",
+      "どんな感じだった？",
+      "うまく行きそうか？」"
+    ],
+    "textEn": [
+      "\"Hey, you two did a good job too.",
+      "How was it?",
+      "Do you think it'll work out?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「わかんない。",
+      "私の見たところだと、婆っちゃの印象は最悪。"
+    ],
+    "textEn": [
+      "\"I have no idea.",
+      "From the looks of it, she was in a terrible mood."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…圭ちゃんは本家には二度と来ない方がいいだろうね…。」"
+    ],
+    "textEn": [
+      "Honestly, Kei-chan, I don't think you should ever come back here...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何だ、魅音の家にはもう遊びに行けないってことか。",
+      "やれやれ。」"
+    ],
+    "textEn": [
+      "\"What, so I can't ever hang out at your house again?",
+      "Geez.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「しかし…、圭ちゃんも大したもんですね。",
+      "昨日の集会所もそうでしたが、よくあれだけ凄まれても震え上がらないものです。」"
+    ],
+    "textEn": [
+      "\"Still... that was really impressive, Kei-chan.",
+      "You didn't even seem scared.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「っていうか、震えるほど怖かったか？",
+      "怖え形相だなとは思ったけど、そんなにビビるほどじゃなかったぜ？」"
+    ],
+    "textEn": [
+      "\"Was she that scary?",
+      "She had a scary look on her face, sure, but it wasn't that bad.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「はーー…。",
+      "それは多分、圭ちゃんが婆っちゃの本当の怖さを知らないからだね…。"
+    ],
+    "textEn": [
+      "\"Hmm...",
+      "You can only say that because you don't know how scary she really is..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "まぁ、無知も時には武器か…。」"
+    ],
+    "textEn": [
+      "Well, as they say, ignorance is bliss...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そんなことないよ。",
+      "圭一くんは、そんな怖さを知ってたって、沙都子ちゃんのために怯まなかった。」"
+    ],
+    "textEn": [
+      "\"That's not true.",
+      "I think he would've fought her even if he knew how scary she can really be.\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「そういえば竜宮さんもいくら怒鳴られても平気そうに見えました。」"
+    ],
+    "textEn": [
+      "\"Speaking of which, you seemed fine when she yelled at you too, Ryuugu-san.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「声は荒げられてたけど、怒ってはいなかったし。",
+      "私も全然、怖くなかったかな、かな。」"
+    ],
+    "textEn": [
+      "\"She might have raised her voice, but she wasn't actually angry.",
+      "I wasn't scared at all either. Not at all.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あ、あれが怒ってないように見えたっての？！」"
+    ],
+    "textEn": [
+      "\"Did, did she really not look angry to you?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "魅ぃちゃんのおばあちゃん、全然怒ってなかったよ？」"
+    ],
+    "textEn": [
+      "\"No.",
+      "Your grandmother wasn't angry at all.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そ、そうなのか？？",
+      "俺には激怒のあまり、血管がいつ切れるんじゃないかと不安なくらいだったけどな…。",
+      "その時、砂利を踏みしめる足音が近付いてくるのが聞こえた。",
+      "村長と魅音のお母さんだった。"
+    ],
+    "textEn": [
+      "Is... Is that really how it looked to her??",
+      "To me it looked like her head was going to explode...",
+      "The next moment, I heard someone walking toward us.",
+      "It was the mayor, who was accompanied by Mion's mother."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あ、おじいちゃん…！",
+      "どうでした？",
+      "鬼婆は怒ってました？」"
+    ],
+    "textEn": [
+      "\"Oh, Uncle Kimiyoshi...!",
+      "How was it?",
+      "Did the old witch finally start melting?\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「ははははは…。",
+      "それでね、",
+      "ＯＫだってさ。」"
+    ],
+    "textEn": [
+      "\"Hahahahaha...",
+      "Well,",
+      "we got her approval!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「え？」"
+    ],
+    "textEn": [
+      "\"What?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……それは……つまり…？」"
+    ],
+    "textEn": [
+      "\"......You mean...?\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「鬼婆さまのＯＫサインが出たのさ。",
+      "だから圭一くん、あんたの好きなようにやっていいんだって。」"
+    ],
+    "textEn": [
+      "\"The virago gave you the green light.",
+      "You can do what you want to now, Keiichi-kun.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それって、…本当ですか！」"
+    ],
+    "textEn": [
+      "\"Are... Are you serious...?!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「お、お母さん、本当なの？！」"
+    ],
+    "textEn": [
+      "\"I-Is that really true, Mom?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あれだけ不機嫌に怒っていた婆さんが、どういう経緯で許しをくれたのか想像がつかない。",
+      "…でも、結果的には俺を認めてくれたってことだ。"
+    ],
+    "textEn": [
+      "That hag was so ticked-off, though. I can't even imagine what caused her to grant us permission.",
+      "...No matter how it happened, I guess she accepted me in the end."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「鬼婆さまは雛見沢連合町会が圭一くんを支持することを認めてくれたよ。",
+      "雛見沢連町がバックにつくってことは、鬼ヶ淵死守同盟がバックについたのと同じってことになる。",
+      "ってことは、絶対に負けられないってことさ。",
+      "そして見っとも無い戦いもできない。"
+    ],
+    "textEn": [
+      "\"The virago gave approval for the town council to support Keiichi-kun.",
+      "Now you have the Onigafuchi Guardians on your side.",
+      "With them, there's no way you can lose.",
+      "But you can't put up a disgraceful fight either."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "あんたは、引っ越してきたばかりのその身で、雛見沢が作り上げてきた団結の歴史を背負うんだよ。",
+      "その覚悟はおありかい？」"
+    ],
+    "textEn": [
+      "You only just moved to this village, but you'll need to understand and appreciate the history of Hinamizawa.",
+      "Can you take on this responsibility?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あります。」"
+    ],
+    "textEn": [
+      "\"Yes, I can.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「ほー、即答とは男だねぇ！",
+      "見上げた根性さ。",
+      "よくあれだけ鬼婆さまに言えたもんだよ！",
+      "最後に飛び掛かって鬼婆さまの首根っこふん捕まえた時にはどうなるかヒヤヒヤしたねぇ。」"
+    ],
+    "textEn": [
+      "\"My, you're a brave boy!",
+      "You do have my respect.",
+      "It takes great courage to address the virago like that.",
+      "It gave me chills when you jumped on top of her and put your hands around her throat.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「へ？",
+      "俺、飛び掛る直前にはなりましたけど、…っていうか、あれは冗談みたいなもんで…。」"
+    ],
+    "textEn": [
+      "\"Eh?",
+      "Well, I almost did jump on her... but I wasn't actually serious.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「くっくっく。"
+    ],
+    "textEn": [
+      "\"Heh heh heh."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "いいかい？",
+      "前原圭一は鬼婆さまに飛び掛って首根っこ、ガッツンガッツンやって納得させたんだよ？",
+      "そういうことになったから。」"
+    ],
+    "textEn": [
+      "Listen for a moment.",
+      "You jumped on top of her and nearly choked her to death.",
+      "That's how it's going to be.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「な、何でですか、物騒な…！」"
+    ],
+    "textEn": [
+      "\"W-Why? That's so violent...!\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「鬼婆さまは北条家許すまじってことになってるもの。",
+      "それが、若いのに何人か頭を下げられてハイそうですかってわけには行かないもの。"
+    ],
+    "textEn": [
+      "\"The virago can't possibly forgive the Houjou family.",
+      "She also can't possibly give you what you want simply because you came to her and begged for it."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "だから、圭一くんが大立ち回りをした挙句に、鬼婆さまがその男気に惚れて特別に許したって、そのくらいの物語がないと説得力がないわけなんだよねぇ。"
+    ],
+    "textEn": [
+      "So unless the story goes something like, 'After Keiichi-kun violently fought with the virago, she was impressed by his chivalry and decided to grant him special permission,' it won't sound convincing."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "わかったかい魅音？」"
+    ],
+    "textEn": [
+      "Got it, Mion?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「う、うん！",
+      "わかった。」"
+    ],
+    "textEn": [
+      "\"Y-Yeah!",
+      "That sounds great.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃんのおばあちゃんも、色々と大変なんだね…。」"
+    ],
+    "textEn": [
+      "\"Things can't just be simple with her, huh...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…はー。",
+      "こういうところで伝説ができちゃうんですね…。",
+      "沙都子を救うために鬼婆と取っ組み合いをしたと。",
+      "……圭ちゃん、多分、町を歩くと今後は人が避けてくれますよ。」"
+    ],
+    "textEn": [
+      "\"...Hah.",
+      "This is how a legend is born...",
+      "Now people will believe that you physically fought with the hag in order to save Satoko.",
+      "...People are going to be afraid of you, Kei-chan.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一の最強伝説の始まりなのです。",
+      "みんな圭一を見ると、ヒソヒソ、ガタガタブルブルで道を開けるのです。」"
+    ],
+    "textEn": [
+      "\"......This is the beginning of the legend of Keiichi the Strongest.",
+      "Everybody will run and hide when they see you on the streets.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そ、そんな伝説はいらん…！",
+      "それよりその、…ありがとうございました！」"
+    ],
+    "textEn": [
+      "\"I-I don't want to be a legend!",
+      "But anyway... Thank you very much!\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「礼なんかいらないよ。",
+      "何しろ、町会はもう話がついてんだ。",
+      "逆らいようがないさね。",
+      "むしろこっちとしては、うちなんか無視してやってほしかったくらいだよ。"
+    ],
+    "textEn": [
+      "\"You don't need to thank me.",
+      "The town council made the decision.",
+      "We can't go against their wishes.",
+      "In fact, we would've preferred if you just ignored us and went ahead with things."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "それを公由の村長さんも人が悪い。」"
+    ],
+    "textEn": [
+      "That was a dirty move of yours, Mayor Kimiyoshi-san.\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「いや…、でも納得してもらえてよかった…。」"
+    ],
+    "textEn": [
+      "\"No, well... I'm glad that she gave us her approval, after all that...\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「鬼婆さまも、沙都子ちゃんがいつまでもダム戦争の続きみたいに冷遇されてるのは気にしてた。",
+      "自分が墓に入る時しか清算のタイミングがないと思ってたみたいだからね。"
+    ],
+    "textEn": [
+      "\"The virago always worried about Satoko-chan, because people were still treating her poorly.",
+      "She thought that she could only make everything right with her death."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "正直、あんたたちが騒いでくれたお陰で、鬼婆さまは生きてる内にそれを解決できたってわけさ。",
+      "内心は感謝してるはずだよ。」"
+    ],
+    "textEn": [
+      "But thanks to all of you, she was able to settle this issue before the end.",
+      "I'm sure she appreciates it.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「い、いや、俺も感謝してます。",
+      "今度、日を改めてお礼を言いに来ます。」"
+    ],
+    "textEn": [
+      "\"N-No, we're very thankful to her as well.",
+      "I'll have to come here again to thank her in person.\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「あっはっはっは！",
+      "それは止めといた方がいいねぇ。",
+      "今度こそ日本刀で追い回されるよ。",
+      "しかし、今日の鬼婆さまは抜かなかったねぇ？",
+      "よーっぽど圭一くんが可愛かったんだよ。」"
+    ],
+    "textEn": [
+      "\"Aha ha ha ha!",
+      "That's not a good idea.",
+      "She'll chase you around with a sword next time!",
+      "In fact, I'm surprised she didn't do that today.",
+      "She must be fond of you, Keiichi-kun.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクもそう思いましたです。",
+      "お魎は日本刀が大好きなのですよ。」"
+    ],
+    "textEn": [
+      "\"...I thought so, too.",
+      "Oryou's even more fond of using her sword.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「梨花ちゃん、笑いながら言うな…。",
+      "生きて帰れて大感謝だぜ、まったく…。」"
+    ],
+    "textEn": [
+      "\"Rika-chan... Don't say that with such a big smile...",
+      "I'm glad I'm still alive...\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「今日の圭一くんにはおばさんも惚れたよ。",
+      "男はそうでなくちゃいけない。"
+    ],
+    "textEn": [
+      "\"I've grown fond of you too after today.",
+      "That's what being a man is all about."
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "沙都子ちゃんも果報者だね。",
+      "こんな男にここまで一生懸命になってもらえてさ！」"
+    ],
+    "textEn": [
+      "Satoko-chan is a very lucky girl,",
+      "having such a dedicated man as you!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「か、母さん、別に圭ちゃんは沙都子とそういう関係ってわけじゃ…。」"
+    ],
+    "textEn": [
+      "\"Wait, Mom, Satoko and Kei-chan aren't like that...\""
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "「なぁんだ、そうだったのかい？",
+      "まだお手つきがないならあんたたちも頑張りな！"
+    ],
+    "textEn": [
+      "\"Oh, they're not?",
+      "If he doesn't have a girl yet, then you two have a chance!"
+    ]
+  },
+  {
+    "color": "#6bd09f",
+    "labelEn": "Akane",
+    "labelJp": "茜",
+    "textJp": [
+      "ねぇ圭一くん、魅音と詩音、どっちか好きな方を持ってお行きよ！",
+      "おばさんのことは今日からお母さんって呼んでいいからねぇ！」"
+    ],
+    "textEn": [
+      "Hey, Keiichi-kun, between Mion and Shion, which do you prefer?",
+      "You can call me your mother from now on if you like!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "真っ赤になった魅音と詩音が同時に拳と肘を叩き込む。",
+      "……やっぱり母親とは言っても魅音の血統なんだな…。",
+      "話の方向性やレベルがそっくりだ。"
+    ],
+    "textEn": [
+      "Mion and Shion simultaneously turned red and hit me with their fist and their elbow.",
+      "...The apple sure doesn't fall far from the tree, huh.",
+      "Their mom talks just the same way that they do."
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「じゃ圭一くん。",
+      "君はお魎さんを説得してくれた。",
+      "約束どおり、町会は君を支持するぞ。",
+      "明日の昼にその旨をきっちり向こうに連絡する。"
+    ],
+    "textEn": [
+      "\"Well, Keiichi-kun.",
+      "You managed to successfully persuade Oryou-san.",
+      "Just as we promised, you have the council's support.",
+      "We'll call the people in charge tomorrow and let them know."
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "もちろん私も、沙都子ちゃんをすぐに保護するべきだと言うつもりさ。",
+      "何しろお魎さんの支持があるんだからね。",
+      "多分、その電話だけで沙都子ちゃんはすぐに助け出されるさ。」"
+    ],
+    "textEn": [
+      "And of course, I'll tell them to take Satoko-chan under their protection as soon as possible.",
+      "We have Oryou-san's support, too.",
+      "I'm sure Satoko-chan will be rescued shortly after my call.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ほ、本当ですか…！」"
+    ],
+    "textEn": [
+      "\"A-Are you serious...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんはそれだけの相手を口説き倒したってことだよ。」"
+    ],
+    "textEn": [
+      "\"You just managed to persuade someone that important, Kei-chan.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ、…これで沙都子ちゃんは明日には必ず…？！」"
+    ],
+    "textEn": [
+      "\"So... Satoko-chan really will be safe this time tomorrow...?!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「まだ絶対と決まったわけではありません。"
+    ],
+    "textEn": [
+      "\"We can't say that for sure."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "でも、もし公由のおじいちゃんの電話を断れば、それは鬼ヶ淵死守同盟を敵に回すということになります。"
+    ],
+    "textEn": [
+      "If they refuse Uncle Kimiyoshi's request, that means the Onigafuchi Guardians will come after them."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "おじいちゃんは普段は温和だけど、同盟会長になった時は、そりゃあ鬼ですから！」"
+    ],
+    "textEn": [
+      "He's normally a calm guy, but he's like a monster when he becomes the leader of the Guardians, aren't you, Uncle?\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「そん時は鬼になるよ。",
+      "とにかく、男の約束だ。",
+      "沙都子ちゃんがすぐにでも助け出せるように協力する。」"
+    ],
+    "textEn": [
+      "\"I'll be a monster if I have to.",
+      "I can promise you that.",
+      "I'll do my best to ensure that Satoko-chan is rescued as soon as possible.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ありがとうございます。",
+      "……あとそれから、……沙都子を北条家だからとか言って差別するのも、もうなしにしてください。」"
+    ],
+    "textEn": [
+      "\"Thank you so much.",
+      "...Also... will you please stop ostracizing Satoko just because of who her parents were?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「おじいちゃん、時々言ってますもんね。",
+      "北条のバチ当たり者みたいなこと。」"
+    ],
+    "textEn": [
+      "\"We heard you saying bad things about her, you know.",
+      "Something about how she's a member of a cursed family...\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「あぁ……あれは他の人に悪ぶって言ってるだけで、…別におじいちゃんは沙都子ちゃんのことを嫌ってるわけじゃないんだよ…。」"
+    ],
+    "textEn": [
+      "\"I... I was just saying those things because of other people... I don't personally have anything against her...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「なら、そういう悪ぶるのもなしですね。",
+      "沙都子ちゃんを村の子どもとして、本当の意味で受け入れてください。」"
+    ],
+    "textEn": [
+      "\"Then quit saying it, all right?",
+      "Please accept her as just another child of the village.\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「わかってる。",
+      "今後は酒の席でも軽率なことは言わんよ。",
+      "約束する。",
+      "迂闊なことを言うと、私が圭一くんに首根っこを掴まれそうだ！」"
+    ],
+    "textEn": [
+      "\"Of course.",
+      "I'll never say that again.",
+      "I promise you that.",
+      "I'm afraid Keiichi-kun might throttle me too!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そして、俺たちは帰路につく。",
+      "沙都子はまだ救い出せたわけではないけれど。",
+      "……大きく前進したと思う。",
+      "村長が明日、お役所に電話をして、俺の支持を表明してくれて、町会名で沙都子の即時保護を陳情してくれるという。",
+      "もちろん、村の影の実力者、お魎さんの名前入りでだ。"
+    ],
+    "textEn": [
+      "After that, we started heading back home.",
+      "Satoko still isn't saved.",
+      "...But I think we made huge progress today just the same.",
+      "The mayor is going to call the child consultation center tomorrow to tell them that he's on our side. He's also going to persuade them to save Satoko as soon as possible.",
+      "He'll bring up Oryou-san's name too."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子は、……これで運命から救われるのでしょうか…。」"
+    ],
+    "textEn": [
+      "\"......Is Satoko... really going to be rescued from her fate...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ああ、間違いなくな。",
+      "ひょっとすりゃ、明日にも救い出せるさ！",
+      "それで駄目なら、今度は総攻撃だ。",
+      "半端ねぇ規模でな！！",
+      "それからな梨花ちゃん。」"
+    ],
+    "textEn": [
+      "\"Yeah, I'm sure she will.",
+      "She might even be saved tomorrow!",
+      "If not, we'll go all-out next time.",
+      "It'll be the war to end all wars!",
+      "Also, Rika-chan...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー？」"
+    ],
+    "textEn": [
+      "\"......Meep?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「運命とかって安っぽく言うんじゃない。",
+      "運命っていうと、始めから結果が決まってるみたいに聞こえる。",
+      "でもな、最初から結果が決まってることなんて何もない。",
+      "結果を作るのは俺たちなんだ。"
+    ],
+    "textEn": [
+      "\"Don't use words like 'fate' anymore.",
+      "Putting it like that, it's like it's already been decided.",
+      "But see, nothing is actually decided in advance.",
+      "We're the ones who make our own futures."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "だから、何をしても無駄みたいな意味で、運命って言葉を使うんじゃない。」"
+    ],
+    "textEn": [
+      "So stop using the word 'fate', as if there's nothing we can do.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………………。」"
+    ],
+    "textEn": [
+      "\"...........\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんはしばらくの間、俺の言った意味を噛み締めているようだった。",
+      "…調子に乗って少しキツイことを言ってしまったかもしれないと後悔しかけた頃、梨花ちゃんが笑った。"
+    ],
+    "textEn": [
+      "Rika seemed to think about what I said for a while.",
+      "...I wondered for a moment if I said something that hurt her feelings... but Rika-chan soon smiled at me."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一がそういうならそうしよう。",
+      "私はもう運命なんて気安く口にしない。",
+      "運命がいかに容易に破れるかを、あなたは私にこうして何度も教えてくれるのだから。"
+    ],
+    "textEn": [
+      "\"......Okay, I'll do what you say.",
+      "I won't use that word anymore.",
+      "You told me you could change fate as easily as tearing a piece of paper."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "……この百年の中で、鉄平が帰ってくるという最悪の賽の目すらも、こうして打ち破れる今、",
+      "……逃れられぬ死の運命なんて、きっと大したものなんじゃないって思える。"
+    ],
+    "textEn": [
+      "...And after a hundred years, you're about to break the horrible cycle of Teppei's return.",
+      "...I can now believe that the danger that awaits me is something that can be changed as well."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "……あぁ、それより最悪の目は、あなたが転校してこないことか。",
+      "…この百年の間でほんの一、二度あったわね。",
+      "寂しい世界だったわ。」"
+    ],
+    "textEn": [
+      "...The worst thing that could ever happen is you not moving to Hinamizawa.",
+      "...I experienced that twice in the past one hundred years.",
+      "Those were the saddest worlds of all.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……？？",
+      "たまに梨花ちゃんの言ってる話がよくわからないな。",
+      "煙に巻いてるつもりなんだろ。」"
+    ],
+    "textEn": [
+      "\".......Huh?",
+      "I don't understand a thing that just came out of your mouth.",
+      "You're trying to confuse the issue, aren't you?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー。",
+      "内緒なのですよ☆」"
+    ],
+    "textEn": [
+      "\"......Meep.",
+      "That's a secret☆\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "圭一がそういうならそうしよう。",
+      "私はもう運命なんて気安く口にしない。",
+      "「はい、お待たせしました。",
+      "鹿骨市役所交換台です。」"
+    ],
+    "textEn": [
+      "I'll do just as Keiichi says.",
+      "I won't use words like 'fate' anymore.",
+      "\"Hello, thank you for calling.",
+      "You've reached Shishibone City Hall.\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「あーもしもし。",
+      "すみません、生活振興部の自治係をお願いします。」"
+    ],
+    "textEn": [
+      "\"Hello?",
+      "Excuse me, could you get me the local affairs chief from the social welfare department?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "「ただいまお繋ぎしますのでお待ちください。」"
+    ],
+    "textEn": [
+      "\"Of course. Please hold.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Saitou",
+    "labelJp": "斉藤",
+    "textJp": [
+      "「お待たせしましたー！",
+      "自治係でございます。」"
+    ],
+    "textEn": [
+      "\"Thank you for calling.",
+      "This is the local government section.\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「どうも、係長の相田さんはいらっしゃいますか。」"
+    ],
+    "textEn": [
+      "\"Hello. May I speak to the head clerk, Aida-san...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Saitou",
+    "labelJp": "斉藤",
+    "textJp": [
+      "「これは公由会長さん、ご無沙汰いたしております。",
+      "先日は大変お世話になりました、本当にありがとうございました。」"
+    ],
+    "textEn": [
+      "\"Hello, Kimiyoshi-san.",
+      "Thank you very much for the other day.\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「いやいや、こっちこそ悪かったね。",
+      "本当にありがとう。",
+      "助かったよ。」"
+    ],
+    "textEn": [
+      "\"No, no, it was no problem.",
+      "Really, I should be thanking you.",
+      "I'm much obliged.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Saitou",
+    "labelJp": "斉藤",
+    "textJp": [
+      "「あ、係長が戻りました。",
+      "今、代わります。",
+      "………係長、雛見沢連町の公由会長さんです。」"
+    ],
+    "textEn": [
+      "\"The head clerk is right here.",
+      "I'll give him the phone.",
+      "......Sir... It's Kimiyoshi, the head of the Hinamizawa town council.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「はいもしもし！",
+      "どうもどうも、今日はいかがなさいましたか。」"
+    ],
+    "textEn": [
+      "\"Hello?",
+      "How may I help you today?\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「うん、実はね、先日の児童相談所の件なんだけど。」"
+    ],
+    "textEn": [
+      "\"Well... I'm calling about that case at the child consultation center.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「はいはい、若い子たちが陳情に来ているという話ですね。",
+      "いや、相談所の方も困っていたそうで…。",
+      "会長さんにご相談できて本当に良かったです。",
+      "それでどんな話になりましたか。」"
+    ],
+    "textEn": [
+      "\"Oh yes. A group of young children have been protesting in front of the office.",
+      "They're such an inconvenience...",
+      "I'm so glad that we were able to talk to you about that.",
+      "So how did it turn out?\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「うん。",
+      "それでね。雛見沢連町としては正式に前原くんを応援することに決まりましたわ。」"
+    ],
+    "textEn": [
+      "\"Well.",
+      "The village has officially decided to support Maebara-kun.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「え？",
+      "すみません、今なんと？」"
+    ],
+    "textEn": [
+      "\"Eh?",
+      "Excuse me, could you say that again?\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「うちの町会でも、前原くんのやってることは筋が通ってると。",
+      "いやね、若い方が納得してくれんのですわ。",
+      "若いって言っても５０、６０の人たちですがね、ははは。」"
+    ],
+    "textEn": [
+      "\"The town council agrees with what Maebara-kun is doing.",
+      "The younger people in the council want to support him as best they can.",
+      "Well, I say younger, but they're in their fifties and sixties, ha ha ha.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「ははぁ…。",
+      "しかし会長さん。",
+      "他の役員さんはどう言っておられるんですか…。」"
+    ],
+    "textEn": [
+      "\"I see...",
+      "However...",
+      "What are the other council members saying...?\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「うん。",
+      "それは昨日、綿流しの実行委員会の席がそのまま緊急の役員会になっちゃってね。",
+      "最初は石頭連中が渋ったんだけど、すっかり前原くんに言い負かされちまった。"
+    ],
+    "textEn": [
+      "\"Well.",
+      "We held an emergency meeting last night.",
+      "Some of the more hard-headed members were against it at first, but they were persuaded by Maebara-kun in the end."
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "いやぁね、彼は最近にしちゃ骨のある子だよ。",
+      "ああいう子をもっと応援しないと青少年の育成にはならないよ。」"
+    ],
+    "textEn": [
+      "You know, we don't see young people with that much backbone these days.",
+      "In my opinion, attitudes like that ought to be nurtured, for the sake of a brighter future.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「えー…、それでは雛見沢連町役員会の総意ということでよろしいでしょうか…。」"
+    ],
+    "textEn": [
+      "\"So... everyone on the council has reached a consensus...?\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「そうです。",
+      "総意です。",
+      "反対の役員はおりませんでした。」"
+    ],
+    "textEn": [
+      "\"Yes, that's right.",
+      "Everyone came to an agreement.",
+      "Nobody is opposed to supporting him.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「…えぇと…公由会長さん。",
+      "先日もお話しましたとおり、相談所の方も相当やってくれてるんです。"
+    ],
+    "textEn": [
+      "\"...Umm... Kimiyoshi-san...",
+      "As I explained to you, the people at the child consultation center are doing the best they can."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "ただですね、観察期間を経ないことには判断が下せませんし、最近は特に人権意識の高まりも…、」"
+    ],
+    "textEn": [
+      "However, they cannot render their final judgment before the investigation period is over. It's a human rights issue...\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「そんなのは前原くんが何度も説明してるよ。",
+      "沙都子ちゃんはとんでもなく暴力的な叔父に閉じ込められてるんだ。",
+      "体の傷じゃないよ、心の傷になっちゃうんだよ！"
+    ],
+    "textEn": [
+      "\"I believe Maebara-kun explained it to them many times.",
+      "Satoko-chan is being locked up by a terribly violent man.",
+      "The emotional scars she's suffering will never heal!"
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "育ち盛りの時期の心の傷は一生に暗い影を落としちゃうんだよ。",
+      "こないだの青少年セミナーの先生も言ってたでしょ。",
+      "一緒に聞いたでしょ？！」"
+    ],
+    "textEn": [
+      "She will forever have a deep wound in her pure and innocent heart.",
+      "Remember what they were saying at the youth seminar the other day?",
+      "You were there with me, weren't you?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「はぁ、…えぇまぁ…。",
+      "それでその、……園崎顧問の方はどんな感じですか…。」"
+    ],
+    "textEn": [
+      "\"Yes... well...",
+      "What does the Sonozaki family say about this...?\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「うん。",
+      "お魎さんもね、やるべしと。",
+      "そう強い口調でしたわ！",
+      "慎重だか珍重だか知らんが、これ以上、沙都子ちゃんの件を放置するってんなら、",
+      "雛見沢連町全体で前原くんをバックアップしていかなくてはなりませんわ！」"
+    ],
+    "textEn": [
+      "\"Well.",
+      "Oryou-san also agrees with us.",
+      "She was very clear about that.",
+      "If you are going to insist on not rescuing Satoko-chan,",
+      "the whole village will be joining Maebara-kun's movement!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「そ、そうですか園崎顧問が…！",
+      "……………………ま、",
+      "まぁその……",
+      "こういうのはご家庭の問題でもありますしご近所の問題もありまして、なかなか行政は動きにくいところがありまして…。」"
+    ],
+    "textEn": [
+      "\"O-Oryou Sonozaki-san said that...?",
+      "............Well,",
+      "that...",
+      "This is a problem within the family... so it's very hard for the government to take care of it...\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「近所に出てくればうちらも言ってやるけど、何しろ、ほとんど表に出てこないヤツだからなぁ！",
+      "それに町会の者が余計なこと言ったら沙都子ちゃんが余計、八つ当たりとかされちまうかもしれないだろ。"
+    ],
+    "textEn": [
+      "\"If I could see the man, I'd talk to him in person. But he rarely even leaves his house!",
+      "Besides, if one of us personally said something to him, he might get nervous and hurt Satoko-chan even more."
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "だからこそ行政の出番じゃないのよ！」"
+    ],
+    "textEn": [
+      "That's why the local government has to get involved!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「え、えぇえぇ、まったく仰るとおりですね…。",
+      "後ほど、こちらからも園崎顧問さんにお電話をしまして事情を窺ってみます…。」"
+    ],
+    "textEn": [
+      "\"Um, ummm, I understand your point...",
+      "I'll call Sonozaki-san in a moment and ask for her opinion too...\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「ああん、止めた方がいい。",
+      "すっかりお魎さん、ヘソを曲げちゃってる。",
+      "しばらくは電話をしない方がいいね。」"
+    ],
+    "textEn": [
+      "\"I'd advise you not to do that.",
+      "Oryou-san is very upset right now.",
+      "I really wouldn't call her for some time.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「そうですか…！",
+      "それは困りましたね、はははは…。",
+      "園崎顧問は頭に血が上られると鬼のようになりますからね…。」"
+    ],
+    "textEn": [
+      "\"Really...?!",
+      "That's not good... hahahaha...",
+      "When she's mad, it's like she turns into a demon...\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「それでね。",
+      "係長さんの方から相談所の方に沙都子ちゃんの即時保護をお願いしてほしいんです。",
+      "何なら私が一緒に行ってもいいです。",
+      "あぁ、今から行きましょうか。」"
+    ],
+    "textEn": [
+      "\"Anyway...",
+      "I want you to tell the child consultation center to put Satoko-chan under their protection immediately.",
+      "I'll come with you if you need me to.",
+      "We can go right now.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「いえいえいえ！",
+      "会長さんにご足労いただくことはございません。",
+      "こちらから相談所の方に連絡しまして、結果を本日中にご連絡させていただきます。」"
+    ],
+    "textEn": [
+      "\"Oh no!",
+      "I can't make you go to all that trouble.",
+      "I'll call the child consultation center, and give you their feedback later today.\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「今日の昼前にはほしいな。",
+      "そんな夕方になるまで長話にはならんでしょ。",
+      "所長ってそんなに忙しいの？」"
+    ],
+    "textEn": [
+      "\"I want you to let me know before noon.",
+      "I'm sure your call won't be so long it stretches into the evening.",
+      "Is the head of the office that busy?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「い、いえいえ！",
+      "わかりました。",
+      "お昼まで会長さんのお宅へご連絡させていただきます。」"
+    ],
+    "textEn": [
+      "\"No, no he's not!",
+      "Very well.",
+      "I'll call you back before noon today.\""
+    ]
+  },
+  {
+    "color": "#f3ceb3",
+    "labelEn": "Kiichiro",
+    "labelJp": "喜一郎",
+    "textJp": [
+      "「くれぐれもよろしくお願いしますよ。",
+      "町会はね、相談所の対応が鈍いと、陳情を真面目に聞いてくれてないと非常に怒っていると伝えてくださいよ。」"
+    ],
+    "textEn": [
+      "\"Thank you very much.",
+      "Tell them that the town council is very upset that they're not taking this appeal seriously enough.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「わかりました、必ず伝えますので。",
+      "……はい。",
+      "…ごめんくださいませ……。」"
+    ],
+    "textEn": [
+      "\"Yes. I will let them know.",
+      "...Yes.",
+      "...I'll talk to you again soon...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "チン。"
+    ],
+    "textEn": [
+      "Click."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Saitou",
+    "labelJp": "斉藤",
+    "textJp": [
+      "「……係長、何だかヤバそうな話をしてましたね。」"
+    ],
+    "textEn": [
+      "\"...Sir, are you okay?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「参ったなぁ、雛見沢連町が燃え上がっちゃったぞ…。",
+      "斉藤くん、悪いんだけどさ、園崎顧問に電話して事情を聞いてくれないかい。",
+      "俺は相談所に連絡する。"
+    ],
+    "textEn": [
+      "\"This is bad... Hinamizawa Village is kicking up a storm again...",
+      "Saitou-kun... will you please call Sonozaki-san and ask her what's going on...?",
+      "I need to call the child consultation center."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "…これは……ひょっとするとヤバイぞ、ダム戦争の再発になるぞ……。",
+      "……あー、もしもし。",
+      "どーもお世話になっております、",
+      "自治係でございますが、所長さんはおいでですか。」"
+    ],
+    "textEn": [
+      "...This... might be a resurrection of the dam conflict......",
+      "...Oh, hello?",
+      "Yes, this is the local government section calling...",
+      "May I speak to the head of the office?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "「雛見沢の連合町会が支持、ですか…！",
+      "先日、聞いてもらった時には確か、町会と連中は無関係だって話だったんじゃないですか。」"
+    ],
+    "textEn": [
+      "\"The Hinamizawa town council is supporting them...?!",
+      "I thought you told me they weren't connected to this.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「えぇ、先日、会長や顧問にお尋ねした時はそういうお話だったんですが…。",
+      "何でもですね、昨夜の役員会でころって一転して全会一致で支持に決まったそうなんです。」"
+    ],
+    "textEn": [
+      "\"I did... When I spoke to the mayor the other day, they weren't involved.",
+      "However, they changed their stance just last night.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "「…まぁ、わかりました。",
+      "ですが別に、町会名で抗議にいらっしゃられても、こちらも対応を変えるわけにはいきません。",
+      "町会の抗議があったから特別待遇にしなくちゃならないなんておかしいですから。」"
+    ],
+    "textEn": [
+      "\"...I understand.",
+      "However, we're still not going to reverse our decision even if the whole village really does show up.",
+      "It wouldn't be right to give her special treatment just because the town council protests.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「所長、…雛見沢連町はご存知と思いますが、前身は鬼ヶ淵死守同盟です。",
+      "所長はダム戦争はご存知ですよね？」"
+    ],
+    "textEn": [
+      "\"Sir... I believe you're aware of this, but they're the Onigafuchi Guardians.",
+      "You know about the dam conflict, right?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "「ダム戦争の時は県にいましたから新聞に載っている以上のことはよく知りません。",
+      "本庁の方にデモが来てたみたいな話は聞いてますが。」"
+    ],
+    "textEn": [
+      "\"I wasn't living here then, so I don't know much about it.",
+      "I heard that it was some huge government protest, or something like that...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「……端的に申し上げて、少しですね、",
+      "先方の話に耳を傾けられた方がよろしいんじゃないかと…。」"
+    ],
+    "textEn": [
+      "\"...I'm going to be honest with you.",
+      "I think you should pay attention to what they're saying...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "「でも係長さん。",
+      "死守同盟はもう何年も前に解散しているでしょう。",
+      "その後、お宅とうまくやってると聞いてます。」"
+    ],
+    "textEn": [
+      "\"But, wait a minute.",
+      "I heard that the Onigafuchi Guardians disbanded years ago.",
+      "Haven't you had a fairly close relationship with the village ever since the conflict ended?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「えぇ……、うまく行ってるつもりだったんですが…。",
+      "たった一晩で何があったやら…。",
+      "陳情のリーダーの前原くんという子を、会長さんがとても気に入られてるようでして。"
+    ],
+    "textEn": [
+      "\"Yes... things had worked out smoothly...",
+      "I wonder what happened to change that overnight...",
+      "The mayor seems to be favoring a young man named Maebara-kun."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "しかも園崎顧問の支持まで得るとは…ただ事ではありません。」"
+    ],
+    "textEn": [
+      "They have the support of Sonozaki-san too... It's not a trivial matter...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "「園崎顧問って、よく聞く雛見沢の影の会長さんって方ですよね？",
+      "お会いしたことはありませんが。」"
+    ],
+    "textEn": [
+      "\"Sonozaki-san... you mean the ruler of the underside of Hinamizawa?",
+      "I've never actually met her.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「とにかくですね、ご注意いただいた方がよろしいかと思います。",
+      "もしも可能でしたらですね、",
+      "…………その、えっと北条さんの件、急いで保護してあげる方向で検討してもらえないでしょうか。」"
+    ],
+    "textEn": [
+      "\"At any rate, you need to be very careful.",
+      "If it's at all possible...",
+      "......I think you should try to protect Houjou-san immediately.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "「私は町会さんとご縁があったことがないのでわかりかねますが、",
+      "そもそも行政は粛々と進めるべきものであって、その処理する順番が横槍によって変るのは職務の怠慢ではないかと考えます。"
+    ],
+    "textEn": [
+      "\"I'm not familiar with this mayor, so I don't know what kind of person he is.",
+      "Our job needs to be done carefully, and no matter the job, it's just not right to do things in a disorderly fashion."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "うちの職員も、少ない人員の中で精一杯やってるんです。",
+      "福祉司も山積みの仕事の中から順に片付けてるんです。",
+      "そのどれもが当事者にとってとても大切なことです。",
+      "どれも最優先でどれも後回しにできません。」"
+    ],
+    "textEn": [
+      "Our people are doing the best they can.",
+      "They have piles of other cases to work on.",
+      "Every single case is very important.",
+      "We can't just prioritize her case for no reason.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「……そうですか…。",
+      "わかりました。",
+      "…では私の方から公由会長さんの方にそのように連絡しておきます…。」"
+    ],
+    "textEn": [
+      "\"...I see...",
+      "I understand...",
+      "...I'll call Kimiyoshi-san back and let him know your opinion...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "「そんな連絡する必要があるんですか？",
+      "市政は町会の太鼓持ちじゃないでしょ。",
+      "お宅もあまり特定の町会にばかり便宜を図るとよくないんじゃないですか？」"
+    ],
+    "textEn": [
+      "\"You need to call him back?",
+      "Look, the municipal government doesn't exist for this town council's amusement.",
+      "Why are you bending over backwards just to look after the needs of one village?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「わかりました。",
+      "えぇ、はい、申し訳ございませんでした。",
+      "…それでは失礼いたします…。」"
+    ],
+    "textEn": [
+      "\"I understand.",
+      "Thank you for your time...",
+      "...I'm sorry for the inconvenience...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "チン。"
+    ],
+    "textEn": [
+      "Click."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「……………駄目だな！",
+      "この所長、県市の人事交流で来てる人だ。",
+      "地元町会の怖さをわかってない！」"
+    ],
+    "textEn": [
+      "\".........This is really bad!",
+      "That guy isn't even from around here.",
+      "He has no idea how scary that town council can be...!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Saitou",
+    "labelJp": "斉藤",
+    "textJp": [
+      "「あはははは、県の職員出身じゃそんなもんですよ。」"
+    ],
+    "textEn": [
+      "\"Ahahahaha, that's a transfer from the prefectural office for you.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「しかも相手は雛見沢連町だぞ…。",
+      "俺はどうなっても知らないからな…。",
+      "そっちはどう？",
+      "園崎顧問と連絡がついた？」"
+    ],
+    "textEn": [
+      "\"He's fighting against Hinamizawa...",
+      "I refuse to be responsible for this one...",
+      "How did you do?",
+      "Did you get to talk to Sonozaki-san?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Saitou",
+    "labelJp": "斉藤",
+    "textJp": [
+      "「はい。",
+      "公由会長と同じ意見だそうです。",
+      "相談所への連絡に対する返事は、会長だけでなく顧問の方にもほしいそうです。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "She has the same opinion as Kimiyoshi-san.",
+      "She also wants a call from you regarding what the child consultation center said.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「………かーーーーー、まっずいことになったなぁ！",
+      "半ドンの楽しい土曜日が朝から台無しだよ！",
+      "相談所長は怖い物なしで、町会なんか知らんってさ。"
+    ],
+    "textEn": [
+      "\"Noooooooo! This is really really bad!",
+      "I thought this was going to be a happy Saturday!",
+      "The head of the consultation center has no idea what he's up against!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "下手すりゃ週明けには本庁と相談所を街宣車が囲むこともありえるぞ…。」"
+    ],
+    "textEn": [
+      "There's going to be a huge crowd swarming the area by the beginning of the week...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Saitou",
+    "labelJp": "斉藤",
+    "textJp": [
+      "「会長宅と顧問宅に連絡ですね。",
+      "手分けしてお返事しますか？」"
+    ],
+    "textEn": [
+      "\"We have to call Kimiyoshi-san and Sonozaki-san right away, huh?",
+      "Should I help with that too?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「……その前に、市長室に連絡するよ…。」"
+    ],
+    "textEn": [
+      "\"...Before anything else, we should be calling the mayor of Shishibone...\""
+    ]
+  }
+]

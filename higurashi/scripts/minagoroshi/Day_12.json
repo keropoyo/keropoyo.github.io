@@ -1,0 +1,2391 @@
+[
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………と、意気込んできたのはいいものの、待たされるなぁ。」"
+    ],
+    "textEn": [
+      "\".........How long are they going to make us wait?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あそこで暇そうにしてる人たちが話を聞いてくれてもいいと思いません？」"
+    ],
+    "textEn": [
+      "\"Those people seem to be free. They should let us talk to them.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あそこにいるのは一般事務員だよ。",
+      "私たちはちゃんと話すべき相手と話さなきゃならないんだからさ。」"
+    ],
+    "textEn": [
+      "\"Those are just general office workers.",
+      "We have to talk to the actual social worker responsible for the case.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「待たされるということは、…世の中にはこういう相談事が多いのかなぁ？」"
+    ],
+    "textEn": [
+      "\"I wonder if they're busy because they have a lot of cases like this...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うーん、どうなんだろうねぇ。",
+      "…考えてみれば、ここの職員が暇そうでちょうどいい気がしてくるよ。」"
+    ],
+    "textEn": [
+      "\"I don't know.",
+      "...I wish they didn't have so many issues to deal with.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……虐待の相談が繁盛しているようでは世も末なのです。」"
+    ],
+    "textEn": [
+      "\"...This world is tragic. So many kids are being abused.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "３０分くらいは待たされて、ようやく俺の名前が呼ばれる。",
+      "魅音は園崎家の苗字が出せないということで、俺の名前で受付に相談票を書いたからだ。"
+    ],
+    "textEn": [
+      "After thirty minutes, they finally called my name.",
+      "I wrote down my name at the registration, as Mion can't let them know she's from the Sonozaki family."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あの、…今呼ばれた前原ですけど。」"
+    ],
+    "textEn": [
+      "\"I'm Maebara... My name was called...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "受付に行くと、事務服を着たおばさんだった。",
+      "…魅音の言うところの一般事務員の人だと思う。",
+      "この人が話を聞いてくれるのだろうか。"
+    ],
+    "textEn": [
+      "I went to the receptionist to find a uniformed older lady.",
+      "...She must be one of the office workers Mion mentioned.",
+      "Was she really going to be the one dealing with us?"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Office Worker",
+    "labelJp": "事務員",
+    "textJp": [
+      "「えっと、前原さん。",
+      "本日は５人でいらっしゃってますが、どういうご相談でしょうか？」"
+    ],
+    "textEn": [
+      "\"Hello, Maebara-san.",
+      "I see you're here with four other friends... How can I help you today?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "相談票には、北条沙都子の件でとしか書かなかったから、もっと詳しくということなのだろう。"
+    ],
+    "textEn": [
+      "The only thing I wrote on the registration was that I wanted to talk about Satoko Houjou."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「えっと、昨日、雛見沢分校の知恵先生から通報があった、北条沙都子の保護についての件です。",
+      "それでちょっとお話したいことがありまして…。」"
+    ],
+    "textEn": [
+      "\"Well, we're here to talk about Satoko Houjou's case. Chie-sensei from the Hinamizawa Branch School called and made a report yesterday.",
+      "We would like to discuss the case.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Office Worker",
+    "labelJp": "事務員",
+    "textJp": [
+      "「前原さんと皆さんは、北条沙都子さんのお友達ですか？」"
+    ],
+    "textEn": [
+      "\"Are you her friends?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「はい。",
+      "クラスメートです。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "We're her classmates.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Office Worker",
+    "labelJp": "事務員",
+    "textJp": [
+      "「お話の内容ですが、概要をお聞かせいただいてもよろしいですか？」"
+    ],
+    "textEn": [
+      "\"Would you please give me a general summary of what you wish to discuss?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「えっと、実は北条沙都子の件なんですけど、虐待はなくて様子見みたいな話になったと聞きました。",
+      "それで、沙都子の状況についてもう少し詳しく説明がしたいと思いまして、今日来たわけなんですが…。」"
+    ],
+    "textEn": [
+      "\"I heard that you guys put a hold on it because you determined that there wasn't any abuse happening.",
+      "So we've come here today in order to explain Satoko's situation in more detail...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Office Worker",
+    "labelJp": "事務員",
+    "textJp": [
+      "「わかりました。",
+      "もうしばらくお待ちください。」"
+    ],
+    "textEn": [
+      "\"I see.",
+      "Please wait a few more minutes.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "話はそれで終わりのようだった。",
+      "…魅音の言うとおり、実際の相談はちゃんとした人がするのだろう。",
+      "今のはそのための事前質問みたいなものか。",
+      "見れば、事務のおばさんは、内線電話で今の内容を伝えているようだった。"
+    ],
+    "textEn": [
+      "That was it from her, then.",
+      "A real social worker should be coming here to talk with us.",
+      "She was just asking us basic information.",
+      "With that done, she was talking on the phone and explaining to someone what I just told her."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「何を聞かれたの？」"
+    ],
+    "textEn": [
+      "\"What did she ask?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「今日は何のご用事ですかって聞かれたぜ。",
+      "もうちょい待たされるのかな。」"
+    ],
+    "textEn": [
+      "\"She asked me why I was here.",
+      "She told me to wait for a few more minutes.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…こういう無意味な待ち時間って、イラつきます。」"
+    ],
+    "textEn": [
+      "\"...I hate waiting like this.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃはさっきからポスターとかチラシばかり読んでいますが、楽しいですか？」"
+    ],
+    "textEn": [
+      "\"......Are those posters and advertisements you've been reading that interesting, Mii?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「虐待を見たり聞いたりしたらご通報くださいなんてのがいっぱいあるよ。",
+      "だから私たちみたいなのが来ても、決してお門違いってわけじゃなさそうだね。」"
+    ],
+    "textEn": [
+      "\"I see lots of flyers about abuse...",
+      "I guess we came to the right place.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「“虐待の芽を摘む地域みんなの目”だって。",
+      "これって川柳なのかな、かな？」"
+    ],
+    "textEn": [
+      "\"'Report the abuse before it escalates'...",
+      "Check out that slogan, check it out.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「言われて見れば、そういう啓発ポスターがいっぱい貼ってあるな。",
+      "さすが児童相談所だぜ。」"
+    ],
+    "textEn": [
+      "\"There's a bunch of posters with slogans like that in here.",
+      "I guess that's what the child consultation center is for...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……内側に貼ってもあまり意味がないと思いますです。」"
+    ],
+    "textEn": [
+      "\"......Is it any help if it's inside the building, though?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんの言うとおりだな…。",
+      "こんなとこに貼らないで、もっと町中に貼ればいいのに。"
+    ],
+    "textEn": [
+      "Rika-chan was right...",
+      "They should be posting them all over the city, not just inside the building."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Office Worker",
+    "labelJp": "事務員",
+    "textJp": [
+      "「前原さま。",
+      "大変お待たせしました。",
+      "２番の相談室へお入りください。」"
+    ],
+    "textEn": [
+      "\"Maebara-sama.",
+      "Thank you for waiting.",
+      "Please go to room number two.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お、呼ばれたぜ！",
+      "行こう行こう！」"
+    ],
+    "textEn": [
+      "\"It's our turn now!",
+      "Let's go!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "示された方へ行くと１番から３番までの３つの相談室があった。"
+    ],
+    "textEn": [
+      "As we walked, we soon saw rooms numbered one through three."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「へー。",
+      "銀行みたいにカウンター越しに普通に話すのかと思ってたぜ。",
+      "個室になってるのか。」"
+    ],
+    "textEn": [
+      "\"Hmm...",
+      "I thought we were going to be talking at the counter, like you do at the bank.",
+      "But they have individual rooms...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「多分、プライバシー保護のためだね。",
+      "相談する内容はほとんどの場合、あまりに人に聞かれたくない内容だと思うから。」"
+    ],
+    "textEn": [
+      "\"I guess it's for privacy reasons.",
+      "Most of the people who come here don't want other people listening to their conversation.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そういう、家庭内のトラブルを囲んで見えなくしてしまう土壌がきっと、児童虐待を助長してしまうんだろうね。"
+    ],
+    "textEn": [
+      "\"But I think abuse might be increasing because people try to keep the issue quiet.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……家庭問題は見て見ぬふりをするのが美徳っぽいとこって、確かにありますね。」"
+    ],
+    "textEn": [
+      "\"...People tend not to talk about their family issues.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "２番。",
+      "これか。",
+      "ノックすると、中から中年のおばさんのどうぞという声が聞こえた。"
+    ],
+    "textEn": [
+      "Room number two.",
+      "It's this one.",
+      "As I knocked, I heard the voice of a man telling me to come in."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「失礼します…。」"
+    ],
+    "textEn": [
+      "\"Hello...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "中は非常に狭い部屋だった。",
+      "狭いというよりは薄いというべきか。",
+      "左右が狭くて奥に細長いのが特徴だった。",
+      "そしてその薄い部屋の真ん中にカウンターがあって、向こうとこちら側を分断する形になっていた。",
+      "相談員の女性はその向こうに座り、どうぞと席を勧める。",
+      "…でも、席は２人分しかなかった。",
+      "とりあえず代表の俺が座る。",
+      "魅音は、園崎姉妹は前に出ない方がいいと言い、座らなかった。",
+      "レナが梨花ちゃんに席を勧めるが、首を横に振ったので、仕方なくレナが座った。",
+      "……何しろ狭い部屋なので、座ってくれなかったらむしろ狭い。",
+      "そのくらいに狭い部屋だった。"
+    ],
+    "textEn": [
+      "It was a very small room.",
+      "Well, I should say it was narrow.",
+      "It wasn't wide, but it was very long.",
+      "There was a counter in the middle, which split the room into two.",
+      "The man was sitting on the other side of the counter.",
+      "He told us to take a seat, but there were only two chairs...",
+      "I sat down, since we registered under my name.",
+      "Mion wouldn't sit because she felt that the Sonozaki sisters shouldn't be in the front.",
+      "Rena tried to offer the seat to Rika-chan, but she refused, too, so Rena ended up taking it.",
+      "It was such a tiny room that it was better for us to take a seat.",
+      "It was very cramped with the five of us."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「申し訳ございませんね。",
+      "普通はご両親が２人でお見えになることが多いので。」"
+    ],
+    "textEn": [
+      "\"I'm sorry.",
+      "We usually expect to see the parents, so we only have two chairs.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "なるほど、納得する。"
+    ],
+    "textEn": [
+      "I understand that."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「それで今日はどういったご相談でしょうか？」"
+    ],
+    "textEn": [
+      "\"So, how may I help you today?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺が代表でしゃべっていいのか？",
+      "………えっと、俺たちは雛見沢分校に通ってる者で、北条沙都子の友人です。"
+    ],
+    "textEn": [
+      "\"Should I do the talking?",
+      "Well... we're students from the Hinamizawa Branch School, and we're Satoko Houjou's friends."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "昨日、学校から通報があって、相談所の人が沙都子のところへ行ったと思います。"
+    ],
+    "textEn": [
+      "The school reported that she was being abused to the child consultation center, and I believe that a social worker went to her house last night."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "ただそこで、緊急性がないと判断されて様子見になったと聞き、相談所の方が事態をよく把握されてないんじゃないかと思って、その辺の説明に参りました。」"
+    ],
+    "textEn": [
+      "We heard that you put a hold on her case. We're here today so we can explain to you how urgent the matter is...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が頷く。",
+      "役所の人に対してのしゃべりとしては、及第点という意味なのだろう。"
+    ],
+    "textEn": [
+      "Mion nodded.",
+      "It seemed like I was doing okay so far."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「説明、と申しますと、どんな説明でしょうか？",
+      "お聞かせいただけますか？」"
+    ],
+    "textEn": [
+      "\"What are you trying to explain to us?",
+      "Will you please tell me?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「えっとですね、確かに沙都子は叔父に連れ去られてからまだ二日しか経ってませんが、酷い乱暴をされるのは時間の問題なんです。"
+    ],
+    "textEn": [
+      "\"Well... I know it's only been two days since her uncle took her away, but it's only a matter of time before he starts hurting her."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "実際、去年の時にも叔父は沙都子を酷く虐めていたんです。",
+      "そういう虐めが行なわれるのは時間の問題だと思います。"
+    ],
+    "textEn": [
+      "In fact, Satoko suffered terrible abuse at the hands of her uncle last year as well.",
+      "We believe it's only a matter of time before that happens again."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "だからそうなる前に、沙都子を叔父の許から救い出してほしいんです。",
+      "でも、聞くところによれば相談所は様子見ってことになったそうじゃないですか。」"
+    ],
+    "textEn": [
+      "So we would like for you to save Satoko from her uncle before it does.",
+      "But from what we understand, the child consultation center has decided to wait and see, right?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「様子見なんて、沙都子を見殺しにするつもりですか？",
+      "沙都子が虐待を受けていないから助けなくていいなんてよく言えますね。",
+      "虐待を受けたら、その傷は誰が責任を取ってくれるんです？！」"
+    ],
+    "textEn": [
+      "\"Are you going to neglect her?",
+      "I can't believe that you left her there just because she's not getting physically abused!",
+      "Who is going to be responsible when she really gets hurt?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の言い方がぬるいのが我慢ならなかったのだろう。",
+      "詩音がさっそく食って掛かる。",
+      "魅音的には噛み付いてほしくないようだったが、",
+      "変に止めようとすると余計に詩音が加熱すると思ったらしく、とりあえず最後まで言わせてやるようだった。",
+      "だが、相談員の女性もさすがに大人なのか、落ち着いた表情をまったく崩さず、諭すように応じた。"
+    ],
+    "textEn": [
+      "Shion probably didn't like how politely I was speaking to him.",
+      "She was already flaring up with rage at the social worker.",
+      "It looked like Mion didn't want her to tear into him.",
+      "However, she let Shion finish, as she'd get even more furious if we tried to stop her.",
+      "The man seemed to be used to people losing their temper, and he continued without reacting to Shion's outburst."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「まず誤解を解いておきたいと思いますけど、北条さんの件は現在対応中です。",
+      "見殺しとか放置とかそういうわけではないんですよ。」"
+    ],
+    "textEn": [
+      "\"I would like to make it clear that we are still working on her case. The results are still pending.",
+      "We are not abandoning or neglecting her.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……対応中。",
+      "…見殺しではなく、",
+      "現在、",
+      "対応を検討中、…ということなのか？",
+      "大人っぽい言い回しに、見殺しなんてキツイ言い方は失礼だったかな、なんて思った頃、レナが静かに口を開いた。"
+    ],
+    "textEn": [
+      "...\"Working on her case\".",
+      "...They're not abandoning her,",
+      "they're currently...",
+      "reviewing options... I suppose?",
+      "While their mature phrasing made me start to think it might be rude and harsh to say they were abandoning her, Rena quietly opened her mouth."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でも、昨日の時点では何もせずに帰られてますよね？」"
+    ],
+    "textEn": [
+      "\"But you left her there without doing anything last night.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナにその手の誤魔化しは通じない。",
+      "対応をのんびり検討してる、なんてのは見殺しとまったく同じことだ。",
+      "対応中だろうと検討中だろうと、「何もせずに帰った」ことのみが事実なのだ。"
+    ],
+    "textEn": [
+      "No one can ever fool Rena.",
+      "Taking their time to review options was the exact same thing as abandoning her.",
+      "The fact is, they left her in that house without taking any actions to prevent her from being abused."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「昨夜は相談所の者が直接お伺いし、ご事情を伺わせていただきました。",
+      "それ以上のことは、プライバシーがありますのでお話できませんが、決して見殺しなんてことはありません。"
+    ],
+    "textEn": [
+      "\"We sent a social worker to her house and they met with her guardian.",
+      "We cannot talk about the case any further for privacy reasons. However, we are not neglecting her."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "北条さん親子が健全な生活を送れるよう引き続き指導していくつもりです。」"
+    ],
+    "textEn": [
+      "We are going to look after her and her father so they can have a healthy life together.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「何言ってんです、誰が親子ですか。",
+      "叔父と姪です。",
+      "……本当に事態を把握してんですか？！」"
+    ],
+    "textEn": [
+      "\"He's not her father.",
+      "He's her uncle.",
+      "Are you sure you really did an investigation?!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「…失礼しました。",
+      "叔父と姪ですね、訂正します。",
+      "とにかく、親権者と児童が健全な関係を結べるよう指導中です。」"
+    ],
+    "textEn": [
+      "\"Excuse me...",
+      "You're correct. They're uncle and niece.",
+      "Anyway, we'll be directing them so guardian and child can form a healthy relationship.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "すかさず詩音が揚げ足を取る。",
+      "そこまで噛み付かなくてもいいだろうとは思ったが、…この頃には、向こうとこっちの温度差というものに気付き始めていた。"
+    ],
+    "textEn": [
+      "Shion had pounced on his mistake immediately.",
+      "I didn't think she needed to be so snappy... but at this point I was starting to understand how different their sense of urgency was from ours."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いやその、沙都子は普通に生活してきたんですよ。",
+      "叔父なんかの助けもなく。"
+    ],
+    "textEn": [
+      "\"Well, excuse me, but Satoko was living a happy life before.",
+      "Without any support from her uncle."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "第一、叔父はそれまで一年間どっかへ蒸発していて、いきなり帰ってきて沙都子をさらったんですよ？",
+      "それって誘拐じゃないんですか？」"
+    ],
+    "textEn": [
+      "First of all, her uncle disappeared from her life for a full year prior, and now he's returned and kidnapped her away.",
+      "Isn't that a crime?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「誘拐というのは言い過ぎですね。",
+      "子は親権者の定めるところに住まなければならないと定められています。",
+      "民法の第８２１条で、親権者は子の…、」"
+    ],
+    "textEn": [
+      "\"It wasn't a kidnapping.",
+      "It's the law that a child must live where their guardian appoints them to live.",
+      "According to article 821 of the constitution, the legal guardian of a child is...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「一年間も沙都子を放ったらかしてたんですよ？！",
+      "なんであんなヤツが親権者なんて言えるんですか！」"
+    ],
+    "textEn": [
+      "\"He neglected Satoko for one year!",
+      "How can he still be considered her guardian?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そりゃ詩音…。",
+      "沙都子の両親が２年目の祟りで死んだ時、ちゃんとそういうことになってるんだよ…。」"
+    ],
+    "textEn": [
+      "\"Shion...",
+      "That's what the court decided when her parents died of the curse of Oyashiro-sama...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうなのか？",
+      "あんなヤツでも親権者なんて名乗れるのか？」"
+    ],
+    "textEn": [
+      "\"Are you serious?",
+      "That guy is her legal guardian?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "…民法の何条だかは知らないけど、未成年者は親権に服さないといけないと決められてる。",
+      "つまり、子である限り誰にでも親権者はいるんだよ。",
+      "いや、いないといけないんだよ。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "...I don't know the specific article of law it's written in, but minors must abide by their guardians.",
+      "In other words, every child has a guardian.",
+      "They have to have one.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「それは民法の第８１８条ですね。」"
+    ],
+    "textEn": [
+      "\"That's article 818 of the civil code.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それってのはつまり、沙都子の両親が亡くなった時に、自動的に叔父叔母の夫婦にスライドするもんなのか。」"
+    ],
+    "textEn": [
+      "\"When Satoko's parents died, her uncle and aunt automatically became her guardians?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。基本的には近い親族に決まる。",
+      "沙都子には叔父夫婦しか親類がいないようだったからね…。",
+      "もちろん沙都子たちが望めば、他の人が親権者になることもあったかもしれないけど…、」"
+    ],
+    "textEn": [
+      "\"Yes. The closest relative gets custody.",
+      "It seems her aunt and uncle were Satoko's only relatives...",
+      "If Satoko and Satoshi refused them, they could've had a different guardian, though...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ダム戦争の直後の雛見沢で、憎き北条家の子どもですから。",
+      "……引き取り手なんて現れるわけないじゃないですか。"
+    ],
+    "textEn": [
+      "\"But they were the children of the Houjou family, the enemy in the dam conflict.",
+      "No one was going to take care of them..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "…引き手数多であっさり公由のおじいちゃんが後見人になってくれた梨花ちゃまとは事情が違うんです。」"
+    ],
+    "textEn": [
+      "They were different from Rika-chama. Lots of people wanted to be her guardian, but Father Kimiyoshi got custody of her.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………………。」"
+    ],
+    "textEn": [
+      "\".........\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……北条家がかつて、ダムに賛成していたことを根に持たれ、村中から嫌われていたという話は俺も知ってる。",
+      "…だが、そいつはダム戦争が終わり、少なくとも、直接の当事者である沙都子の両親が亡くなった時に終わった話だと思っていた。",
+      "俺は知りつつ目を背けていたのだろうか。",
+      "……まったく同じ境遇なのに、まったく村の対応が違う、沙都子と梨花ちゃんの対比を。",
+      "村は、叔父のように積極的に沙都子を虐めはしない。",
+      "……でも、…俺が気付かないような小さなトゲが、きっと雛見沢にはたくさん散っていて、沙都子にチクチクと刺さっているのかもしれない…。"
+    ],
+    "textEn": [
+      "I knew that the Houjou family was in favor of the dam project, and the whole village hated her family for that reason.",
+      "But I thought everything was over after they canceled the project and Satoko's parents died.",
+      "Was I aware of the difference?",
+      "The difference between how the villagers treat Satoko and how they treat Rika-chan?",
+      "The villagers don't abuse Satoko like her uncle.",
+      "But maybe there were small thorns left in the village, and they were stinging Satoko occasionally..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…大きい声じゃいえないけど、叔父夫婦より沙都子の一家の方が財産は持ってたと思う。",
+      "親権者になれば、子の財産管理権ができるからね。",
+      "だから、叔父夫婦はあの後、しゃあしゃあと沙都子の家へ引っ越してきて乗っ取っちゃったわけよ。"
+    ],
+    "textEn": [
+      "\"I can't say this too openly, but Satoko's family had more assets than her uncle's.",
+      "And by becoming her guardians, they gained control over those assets.",
+      "That's why they shamelessly took over Satoko's home."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "あいつらの本当の家、知ってる？",
+      "滅茶苦茶小さくて狭いんだよ。」"
+    ],
+    "textEn": [
+      "Do you know where they used to live?",
+      "It was this ridiculously tiny place!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……何だか嫌な話だね。",
+      "でも、親権者が一年間も沙都子ちゃんを放置してたんでしょ？",
+      "それって親権者って言えるの？",
+      "どうなんですか？」"
+    ],
+    "textEn": [
+      "\"That's horrible...",
+      "But this guardian neglected Satoko-chan for over a year, right?",
+      "Can he still claim custody of her?",
+      "Can he?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「そうですね。",
+      "民法の４編４章に、親権の喪失についての定めというのがあります。」"
+    ],
+    "textEn": [
+      "\"Well...",
+      "In Part IV, Chapter 4 of the Civil Code, there are provisions for the loss of custody.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "カウンターの上に置かれた分厚い本をばらばらと捲り、俺たちのそのページを示してくれた。",
+      "細かい字でよくわかりにくく書いてあるが、早い話が、親がちゃんとしてない時はその親権を喪失できると書いてあるようだった。"
+    ],
+    "textEn": [
+      "The man opened a thick book on the counter and showed us that page.",
+      "I didn't completely understand what it says on there, but it seemed that a parent can lose custody when they're being irresponsible."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「つまり、親の資格というのは取り消せるものなんだね。」"
+    ],
+    "textEn": [
+      "\"So, the law can take away the right to be someone's guardian...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「待て待て、裁判所がどうとか書いてあるぞ。",
+      "…何々？」"
+    ],
+    "textEn": [
+      "\"Wait a minute... it says something about court...",
+      "Let me see...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「家庭裁判所は、子の親族又は検察官の請求によって、その親権の喪失を宣告することができる。",
+      "………何ですかこれ。"
+    ],
+    "textEn": [
+      "\"'At the behest of the child's relatives or a public prosecutor, the family court may make a ruling for the loss of parental authority.'",
+      "What the heck is this...?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "あんなヤツの親権を奪うのに、のんびりと家庭裁判所の判断を待たなきゃならないんですか？！",
+      "そんな悠長な！」"
+    ],
+    "textEn": [
+      "So we'd have to sit around and wait for a family court's ruling before he can lose custody?",
+      "That's too slow!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「いえいえ…、本当にそのようなことがあった場合には、児童の安全のため、緊急の一時保護をすることもあります。",
+      "もちろん、その場合も家裁の許可が必要ですが。」"
+    ],
+    "textEn": [
+      "\"Well, if something urgent happens, we can temporarily protect her under our custody.",
+      "We will also need approval of the family court in that case.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……その８３４条の親権喪失に北条鉄平は該当しないんですか？",
+      "親権者である北条鉄平は一年間、育児放棄をしていた事実。"
+    ],
+    "textEn": [
+      "\"...Here, article 834 for the loss of parental authority, doesn't this apply to Teppei Houjou?",
+      "It is a fact that the guardian, Teppei Houjou, abandoned his responsibilities as guardian for over a year."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "それを相談所ではどうお考えですか？」"
+    ],
+    "textEn": [
+      "What is the center's opinion on that?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「それはプライバシーがありますのでお応えできませんが、もちろんその点についても相談所の方で説明を求めています。」"
+    ],
+    "textEn": [
+      "\"I can't answer for privacy reasons, but the center requested an explanation on that matter as well.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「で、その説明に納得したんで様子見ってことになったわけですか？」"
+    ],
+    "textEn": [
+      "\"And you accepted his explanation, so you decided to wait and see?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「……ですから先ほども申しましたように、現在対応中です。",
+      "児童の身柄ももちろん第一に考えますし、児童が健全な家族環境の中で暮らしていけるよう、慎重に対応するつもりです。」"
+    ],
+    "textEn": [
+      "\"......Like I've mentioned, we are currently working on this case.",
+      "The safety of the child is our number one priority, and we will make sure that she will have a healthy lifestyle in a safe environment.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どうも話がうまく通じていないように思う…。",
+      "危機感ってやつがまったく伝わっていない。",
+      "…そりゃ確かに俺はまだ、鉄平ってヤツの顔を拝んだことはない。",
+      "だから仲間たちから聞いた去年の状況と、知恵先生が訪問した時のやり取りの上でしか知らない。",
+      "でも、それだけでも十分にわかるんだ。",
+      "……こんなヤツのところに沙都子を預けておいたら絶対に大変なことになるってのが！"
+    ],
+    "textEn": [
+      "We weren't on the same page at all...",
+      "They just weren't understanding the urgency.",
+      "...I've never met this Teppei guy.",
+      "I only know about the situation based on what my friends told me about last year, and what Chie-sensei told us.",
+      "But I still understood very well.",
+      "I understood that something really bad was going to happen if we didn't take any action right now!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「大体、去年だって叔父叔母揃って虐めてたんですよ。",
+      "そんな叔父のところに預けてても大丈夫なんですか？！",
+      "その時のことが記録に残ってるはずですよね？！」"
+    ],
+    "textEn": [
+      "\"She was being abused by her uncle and aunt last year too.",
+      "Are you sure that the same uncle can take care of her?",
+      "You still have the records from last year, don't you?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「過去の件についてはプライバシーでお応えできませんが、もちろん総合的に判断した上で対応しております。」"
+    ],
+    "textEn": [
+      "\"I can't discuss her past record with you for privacy reasons, but we are taking everything into consideration.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「昨日も登校して来ないし、今日も登校して来ませんでした。"
+    ],
+    "textEn": [
+      "\"She didn't come to school yesterday, and she didn't come today either."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "確かに学校には風邪だと連絡があったそうですが、叔父に連れて行かれてから一度も学校に来てないなんておかしくありませんか？」"
+    ],
+    "textEn": [
+      "He called the school and told them that she has a cold, but don't you think it's a bit odd that she hasn't come to the school since he showed up?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「そうですね。ただ風邪で二日休むこともないとは言えません。",
+      "もう少し様子を見てもいいんではないかと思います。」"
+    ],
+    "textEn": [
+      "\"That's true. But then she really might be sick.",
+      "I think we should keep our eyes on her and see what happens.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「とにかく、沙都子が叔父のところに居たいわけがないんですよ。",
+      "叔父に無理やり監禁されているんです…！」"
+    ],
+    "textEn": [
+      "\"We just know that Satoko doesn't want to be with her uncle.",
+      "Her uncle is forcing her to stay with him!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「もちろん、当方の職員が直接、児童に聞き取りも行い、その上で判断しております。」"
+    ],
+    "textEn": [
+      "\"Our social worker spoke with the child, and made their decision after doing so.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「結局あれですか？",
+      "沙都子の過去の嘘通報が未だ尾を引いてるってわけですか？」"
+    ],
+    "textEn": [
+      "\"So that's it, isn't it?",
+      "Are you not taking this case seriously because she made a false report long ago?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「過去の件はプライバシーでお応えできません。",
+      "児童のために総合的に判断しています。」"
+    ],
+    "textEn": [
+      "\"I cannot talk about that for privacy reasons.",
+      "We're taking everything into consideration.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…沙都子のヤツ、兄の悟史に変に義理立てして…、虐待されててもされてないって言うと思うんですよ。",
+      "だから、沙都子が虐待はないって言っても鵜呑みにしないでください。」"
+    ],
+    "textEn": [
+      "\"Satoko is telling you that she's not being abused because she feels guilty about her brother, Satoshi.",
+      "She may have told you that she's not being abused, but I don't believe that statement.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「打ちのめされた人間には助けを求める気力もないってこと、わかりますよね？！」"
+    ],
+    "textEn": [
+      "\"Do you know that people can lose the will to seek help when they have depression?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あーもう！",
+      "四の五の言わずに沙都子を早く助け出してください！！",
+      "沙都子に何かあったら絶対許さないですから！！",
+      "私が紳士の対応をしてる内に何とかしないと大変なことになるよ？！」"
+    ],
+    "textEn": [
+      "\"Aaagh!",
+      "Stop making excuses and hurry up and save Satoko!!",
+      "I'm not going to forgive you people if something happens to her!",
+      "You'll end up hurt if you don't do something about this while I'm still asking politely!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「よしなよ詩音！",
+      "心証を悪くするだけだよ！」"
+    ],
+    "textEn": [
+      "\"Stop it, Shion!",
+      "You're making us look bad!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「相談所の人が行った時、叔父がどういう態度をしたのかわかりませんが、とにかくあいつは乱暴なヤツなんです！！",
+      "騙されないでください！",
+      "今日はそれを伝えたくて来たんです！」"
+    ],
+    "textEn": [
+      "\"I don't know what her uncle said to the social worker, but he's a violent guy!!",
+      "Please don't be fooled by him!",
+      "I just wanted to make that clear!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「だからどうか、一刻も早く、沙都子ちゃんを助け出す判断を下すよう保護司の人に伝えてください。",
+      "よろしくお願いいたします。」"
+    ],
+    "textEn": [
+      "\"So please, speak with her social worker and persuade them to make the call to save Satoko at once.",
+      "We ask that you do this for us.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ちょっと感情的な部分もあったが、魅音がうまくなだめ、レナが綺麗にまとめてくれたようだった。",
+      "……俺たちはひとまずそこで間を置き、向こうの出方を伺った。"
+    ],
+    "textEn": [
+      "Some of us were getting emotional, but Mion calmed them down, and Rena summed it up nicely.",
+      "I stopped speaking to see what she was going to say next."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "「…えーと、保護司さんではなく福祉司さんですね。",
+      "お話はわかりました。",
+      "沙都子さんのお友達、",
+      "３、",
+      "４、",
+      "５…、",
+      "５人からその旨の訴えがあったことを児童福祉司に伝えます。"
+    ],
+    "textEn": [
+      "\"...Umm, you mean her case worker.",
+      "I understand your concerns.",
+      "I will tell them that Satoko-san's friends,",
+      "three,",
+      "four,",
+      "five...",
+      "five of her friends came here and made an appeal to us."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "引き続き慎重に対応してまいりますので、今後も何かございましたらお知らせいただければと思います。",
+      "どうか今後とも児童福祉にご協力いただければ幸いです。"
+    ],
+    "textEn": [
+      "We will continue to work closely on this case, so please let us know when you have further information.",
+      "Thank you for supporting the child consultation center,"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Counselor",
+    "labelJp": "相談員",
+    "textJp": [
+      "本日は貴重なお話をお聞かせくださり、誠にありがとうございました。」"
+    ],
+    "textEn": [
+      "and thank you very much for sharing your valuable time with us today.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺たちはまだ興宮にいた。",
+      "遊ぶ子どももいない煤けた公園で、ぼんやりと茜色の空を見上げてみんな黙り込んでいた。"
+    ],
+    "textEn": [
+      "We were still in Okinomiya.",
+      "We were in the city park, devoid of playing children, staring vacantly up at the madder red sky, in silence."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……何だかこう、うまくあしらわれた感じがしてならないです。」"
+    ],
+    "textEn": [
+      "\"...I feel like they didn't really listen to our story.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「かと言って、邪険にされたわけじゃないし。",
+      "……あの人は多分、相談窓口の人で、沙都子ちゃんの件を直接担当してる人じゃないんだよ。",
+      "だからああいう言い方になっちゃうんだよ。」"
+    ],
+    "textEn": [
+      "\"But they also didn't try to kick us out.",
+      "He's probably just a person who deals with complaints, not the actual social worker that deals with Satoko-chan.",
+      "That's why he was phrasing everything the way he did.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「魅音はさっきのやり取りはどう見た？」"
+    ],
+    "textEn": [
+      "\"What did you think about the whole thing, Mion?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………うーーー…ん。",
+      "…何だか大木を相手に相撲を取ったような感じだねぇ。",
+      "押してもこない、引いてもこない。」"
+    ],
+    "textEn": [
+      "\"Well......",
+      "It felt like we were wrestling with a tree.",
+      "We didn't get pushed or pulled...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あれじゃあ、壁に向って独り言を言ったのと変らないじゃないですか…！」"
+    ],
+    "textEn": [
+      "\"It was same as talking to a wall...!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そんなことないよ。",
+      "ちゃんと今日の話を伝えてくれるって言ってた。",
+      "あの人は直接、沙都子ちゃんのことを知らないから、私たちから見たら冷たい言い方になっちゃうんだよ。」"
+    ],
+    "textEn": [
+      "\"That's not true.",
+      "He said they will forward our information to the social worker.",
+      "Like I said, he doesn't know Satoko-chan in person, so he didn't really have any stake in it himself.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナ的には今日の、手応えはあったと思うか？」"
+    ],
+    "textEn": [
+      "\"So you think we accomplished something today, Rena?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「無駄だったとは思わないよ。"
+    ],
+    "textEn": [
+      "\"I don't think it was a waste of time."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……でも、本当の担当者の人には、私たちの熱意は伝わらないだろうね。"
+    ],
+    "textEn": [
+      "But I don't think our passion will be understood by the actual person who is working on the case."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "北条沙都子の友人５人が保護を求めて本日夕方陳情アリって程度には伝えてくれると思う…。」"
+    ],
+    "textEn": [
+      "He'll just tell them that Satoko Houjou's five friends came and requested for them to take her under their custody...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「保護司、……じゃなくて福祉司でしたっけ？",
+      "その人に直接訴えることはできないんですか？」"
+    ],
+    "textEn": [
+      "\"What about the social worker...?",
+      "Can't we talk to that person directly?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……さぁねぇ。",
+      "…トラブルの多い職業らしいからねぇ。",
+      "直接の接触って難しいんじゃないの？"
+    ],
+    "textEn": [
+      "\"I don't know...",
+      "I heard it's a very tough job...",
+      "I think it'd be difficult for us to meet him or her in person."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "紳士の対応をしてる内になんとかしないと大変なことになるなんて、脅迫しに来る人がいるくらいなんだからさー。」"
+    ],
+    "textEn": [
+      "Someone even threatened to hurt them if they didn't do anything while she was still asking them politely...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の話によると、児童相談所というのはものすごくトラブルが多いところらしく、",
+      "詩音みたいな感情的な人間が押し掛けてくることは珍しいことではないらしい。"
+    ],
+    "textEn": [
+      "According to Mion, there are lots of problematic clients who show up at the child consultation center.",
+      "It's not a rare thing for them to get an aggressive visitor like Shion."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…そういう相手に熱意を伝えるのって、……難しいね。",
+      "…熱意を感情的と履き違えれば履き違えるほど、向こうは冷めた対応をするんだろうから。」"
+    ],
+    "textEn": [
+      "\"It's so difficult to tell them how passionate we are...",
+      "They might treat us coldly if they took our passion for simple anger...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「魅音は天下の園崎家時期頭首として、役所の人とはだいぶ話してて話術にも長けてるんだろ？",
+      "俺なんかよりももっとうまく話せないのかよ？」"
+    ],
+    "textEn": [
+      "\"I thought you were used to talking with government officials, Mion.",
+      "Can't you talk to them instead of me?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……お姉の話術じゃないです。",
+      "お姉が園崎家の魅音だから相手が平伏してくれるだけです。",
+      "今日の対応を見ましたよね？"
+    ],
+    "textEn": [
+      "\"It's not that she's good at talking.",
+      "They just listen to her because she is Mion Sonozaki.",
+      "You saw how they treated us today..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "お姉が園崎だと名乗ったら、あんな狭い部屋じゃなくて、きっと応接室で所長が対応してくれてますよ。",
+      "ね？」"
+    ],
+    "textEn": [
+      "If she announced herself as a Sonozaki, we wouldn't have been in such a small room. We would've been speaking to the manager in a reception room.",
+      "Right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が曖昧に笑ってはぐらかす。",
+      "……魅音の最大の武器は園崎家の家紋だ。",
+      "それを表に出さないというなら、それは俺たちと変らない普通の女の子だってことになる…。",
+      "他力本願な考えなので口にしたくないが、",
+      "……もしも園崎家が腰を上げてくれれば、沙都子なんてきっとすぐに助け出してくれると思った。"
+    ],
+    "textEn": [
+      "Mion gave a vague smile and didn't comment.",
+      "Mion's greatest weapon is her family name.",
+      "Without that weapon, she's just as ordinary as the rest of us...",
+      "I shouldn't be thinking about this...",
+      "but if the Sonozaki family forgave Satoko's family, it would be really easy for them to save her."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……やはり、園崎家は今でも北条家が嫌いなのですか？」"
+    ],
+    "textEn": [
+      "\"So... the Sonozaki family still hates the Houjou family...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「嫌いだって公言してる人はいないよ…。",
+      "………でも、…根深いみたいだねぇ…。」"
+    ],
+    "textEn": [
+      "\"No one has publicly stated that we hate them.",
+      "......But... it runs pretty deep...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「というか、鬼婆が北条家嫌いの筆頭ですし。",
+      "……頭の中、いつまでダム戦争やってるってんですか。",
+      "死守同盟が解散して何年経ってるんです？！」"
+    ],
+    "textEn": [
+      "\"That hag of a grandmother is the one who hates the Houjou family.",
+      "Her opinion hasn't changed since we were in the middle of the dam conflict.",
+      "It's been so many years, but she still can't let go of the past!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「詩ぃちゃん、やめなよ。",
+      "沙都子ちゃんは沙都子ちゃんだよ。",
+      "私たちの大切な仲間！",
+      "苗字が何かなんて関係ないよ。」"
+    ],
+    "textEn": [
+      "\"Stop it, Shii-chan.",
+      "Satoko-chan is Satoko-chan.",
+      "She's our precious friend!",
+      "It doesn't matter what her last name is!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "詩音がそれに言い返さなかったので、それでまた沈黙が訪れた。",
+      "…レナの言うとおりだ。",
+      "沙都子の苗字が何かなんて関係ないように、…魅音の苗字が何かなんて関係ない。",
+      "大事なのは、俺たちの仲間が虐待を受けている。",
+      "それを助けるために俺たちにできる最大限の努力をしなければならないってことなんだ。",
+      "車の音などの町の雑音に耳を傾け、俺たちは再びぼんやりと空を見上げるのだった。",
+      "……俺たちを覆うのは閉塞感。",
+      "手詰まり感だった。",
+      "今日の訴えが沙都子を救うために何かの役に立つのだろうか。",
+      "……あれならいっそのこと、鼻であしらわれて馬鹿にされた方がよかった。",
+      "こっちも喧嘩腰で出られるから。",
+      "でも、あんな気持ち悪い対応をされたら、こっちも向こうの出方を見ないわけにはいかない。",
+      "……それは結局、様子見を肯定させられるのと同じことだ。",
+      "誰もが、これでも駄目ならば次はどうすればいいのか、わかりかねていた。",
+      "……これで雛見沢に帰って知恵先生に話したら、…教育委員会経由でうまく話がまとまりました！",
+      "…なんてご都合主義なハッピーエンドってことは絶対ないだろう…。"
+    ],
+    "textEn": [
+      "Shion went quiet, and there was silence for a while.",
+      "...Rena was right.",
+      "Just like how Satoko's last name doesn't matter, it doesn't matter what Mion's last name is, either...",
+      "The important thing is that our friend is being abused, right now.",
+      "We'd have to do everything we can to save her from that situation.",
+      "We all looked up at the sky as we listened to the sound of cars passing by.",
+      "......We all felt hopeless.",
+      "We had no idea what to do...",
+      "Was what we did today going to help Satoko at all?",
+      "It would've been better if they just kicked us out.",
+      "That way, we could've been angry with them.",
+      "But after being treated politely like that, we had no choice but to back off and see what they were going to do.",
+      "We were forced to just wait and see what happens...",
+      "Everyone was trying to figure out what our next option was.",
+      "I couldn't expect Chie-sensei to tell us that everything was taken care of at the board of education...",
+      "That would be too good to be true..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…次は、…………どうしような…。」"
+    ],
+    "textEn": [
+      "\"What shall we do next...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "誰かが力強く新たな提案をしてくれることを期待して言った独り言だったが、…それは余計に俺たちが手詰まりであることを思い知らせるだけのようだった……。"
+    ],
+    "textEn": [
+      "I muttered to myself, hoping that someone would respond with a good idea... but the silence reminded me that everyone was just as stuck as me..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一。」"
+    ],
+    "textEn": [
+      "\"......Keiichi.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「梨花ちゃんか。",
+      "…………すまん。",
+      "あれだけでかい口を叩いて、…打つ手なしだ。」"
+    ],
+    "textEn": [
+      "\"Rika-chan.",
+      ".........I'm sorry.",
+      "I was running my mouth off... but I have no idea what to do now...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……信じない。」"
+    ],
+    "textEn": [
+      "\"......I don't believe this.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え…？」"
+    ],
+    "textEn": [
+      "\"What...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんを見ると、普段からは想像もつかないような強い意志を感じさせる表情をしていた。"
+    ],
+    "textEn": [
+      "As I looked at her, I realized that the expression on her face was stronger than ever."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……昨日、圭一が詩音に言った。",
+      "……今は思いつかないけど、",
+      "きっと最善手を思いつくから、俺を信じろって言った。"
+    ],
+    "textEn": [
+      "\"You told Shion yesterday...",
+      "You didn't have a good idea at that moment...",
+      "but you said you would figure out something. You told her to trust you."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "だから私は、",
+      "……信じた。",
+      "……だから、",
+      "……圭一の口から打つ手がないなんて、悲しい言葉が漏れるなんて、",
+      "…信じない。」"
+    ],
+    "textEn": [
+      "So I",
+      "......trusted you...",
+      "I'm not going to believe it...",
+      "I'm not going to believe that you would even mention that you have no idea...",
+      "I'm not going to believe that...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんの瞳に、涙が溜まるのがわかる。",
+      "……梨花ちゃんはそれでも俺がきっと何とかしてくれると信じていた。"
+    ],
+    "textEn": [
+      "I could see tears in her eyes.",
+      "Rika-chan was sure that I could do something about the situation."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一が言った。",
+      "運命なんて金魚すくいの網より薄く破ってやるって言った。",
+      "私はそれを信じる。",
+      "今でも信じてる。",
+      "……だって、",
+      "………あなたは運命なんか、やすやす打ち破ってくれる人なんだもの……。",
+      "……………だから、",
+      "…………助けて。"
+    ],
+    "textEn": [
+      "\"You said it...",
+      "You said that fate is as fragile as a thin piece of paper.",
+      "I'm going to believe your words.",
+      "I still believe you.",
+      "Because...",
+      "you can easily defeat fate...",
+      "So...",
+      "please help..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "この運命から。",
+      "…………沙都子を、",
+      "……………助けて………………。」"
+    ],
+    "textEn": [
+      "Help us escape from this fate.",
+      "Help Satoko...",
+      "...help her...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "溜まった涙が……すっと流れる…。",
+      "それは俺の心も同じだった。",
+      "……くそくそくそ…ッ！！！",
+      "一人の少女が、自分一人では逃れられぬ運命に閉じ込められた。",
+      "そして助けを求めてるんだ……！！",
+      "そうさ俺は信じろと言った。",
+      "信じるってのは……賭けろってことだ。",
+      "俺を信じろというのは、俺に賭けてみろということだ。",
+      "賭けるというのは他人事じゃない。",
+      "俺が負けたら、賭けた人たちもみんなコインを失うんだ。",
+      "人を信じるってのはどういうことなんだ？",
+      "賭けること。",
+      "コインを賭けること。",
+      "コインは希望。",
+      "…そうさ、希望を託すってのが、…人を信じるってことなんだ……。",
+      "俺は昨日言った。",
+      "俺を信じろと言った。",
+      "その場の勢いだけで言える言葉じゃなかったんだ。",
+      "……それは…本当に重い言葉だったんだ。",
+      "俺はそんな当り前なことを、…梨花ちゃんの心を傷つけ、涙という代償を支払わせてまでして今頃気付く…！",
+      "………詩音を見る。",
+      "…すっかり腹を立てていて冷静さを欠いていた。",
+      "魅音はそのグチを聞いて慰めていたが、それは受身の態勢で、次なる手を思案する攻撃的な姿勢ではない。",
+      "………レナは？",
+      "土壇場でこそ静かに青く燃え上がるレナは？",
+      "…俺はこの土壇場でレナに心の強さを求めた。",
+      "………だが、……レナもまた打ちのめされていた。",
+      "……あんな対応をされたのでは、手応えがあったのかどうかもわからない。",
+      "……レナもまた、次なる手が思いつけず、閉塞感に窒息しそうな表情で俯いていた。",
+      "くそ、……………今は俺が何とかしなくちゃいけない。",
+      "レナは青い火が点れば鉄だって溶かす。",
+      "魅音は追い風になればなるほど力を倍加するタイプだ。",
+      "詩音も実は魅音とまったく同じ。",
+      "追い風を全身に受けることができるが、逆風をまともに受けてしまうタイプでもある。",
+      "……そんな中。",
+      "梨花ちゃんはまだ信じていた。",
+      "…それでも俺たちが結束すれば何とかできるって信じてくれていた。",
+      "そうさ、俺たちが言った。",
+      "奇跡なんて、みんなで信じあえば簡単に起こせるって言った…！",
+      "俺は何だ？",
+      "…レナが青い炎なら俺は赤い炎だ。",
+      "威勢よく派手に盛り上がって景気をつける。",
+      "………そうさ、俺は前原圭一。",
+      "口先の魔術師じゃねぇかよ…。",
+      "ここで俺がみんなを鼓舞しなくてどうするんだ。",
+      "青い炎だって、赤い炎がなけりゃ点らねぇんだぞ。",
+      "火がつけば追い風が起こり、魅音も詩音も本来の鬼みたいな強さを取り戻す…！！"
+    ],
+    "textEn": [
+      "A tear rolled down from the corner of her eye...",
+      "My heart was feeling the same way.",
+      "Damn it, damn it, damn it...!!",
+      "An innocent girl was becoming a prisoner of a tragic fate.",
+      "She desperately needed help...!",
+      "I told them that they could trust me.",
+      "In other words, that they could count on me.",
+      "That they could bet on me.",
+      "Betting is not an easy thing.",
+      "If I lost, they'd lose their coins too.",
+      "What does it mean to trust someone?",
+      "It's about making a bet on that person.",
+      "It's about betting a coin.",
+      "It's about betting hope.",
+      "Trusting someone is tantamount to placing your hopes in them...",
+      "I told Shion yesterday.",
+      "I told her to trust me.",
+      "I didn't say it just because.",
+      "I knew that those words meant something very serious...",
+      "But now, after betraying Rika-chan and seeing her tears, I finally realized just how serious it is...",
+      "I look at Shion...",
+      "She was in a rage again.",
+      "Mion tried to calm her down, but she didn't have any ideas either.",
+      "How about Rena...?",
+      "She's always very reliable in a situation like this...",
+      "I expected to see her strength...",
+      "...However... Rena also looked depressed.",
+      "We didn't even know if what we did was a meaningful thing...",
+      "Rena looked down with a devastated expression on her face, since she couldn't come up with another option either...",
+      "Damn it...... I have to do something for them.",
+      "Rena's blue fire will melt iron.",
+      "Mion can be strong when the wind is in our favor.",
+      "Shion is the same way.",
+      "They will move forward strongly when the wind is backing them up, but they grow weak when the wind is blowing against them.",
+      "Despite the whole situation...",
+      "Rika-chan still believes in us...",
+      "She believes that we can do something if we all come together...",
+      "That's right. We all agreed.",
+      "We said to each other that we could make a miracle happen if we all worked together...",
+      "What am I...?",
+      "If Rena is the blue fire, I'm the red fire.",
+      "I burn brightly and give strength to everyone.",
+      "......That's right... I'm Keiichi Maebara...",
+      "I'm the magician of words...",
+      "I have to motivate everyone.",
+      "The blue fire won't light up unless the red fire does too.",
+      "When the fire is lit, there will be wind. Mion and Shion will become stronger too!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………ありがとうな。",
+      "…梨花ちゃんが火打石を叩いてくれた。",
+      "……そして俺という火が燃え上がってきたぜ…。」"
+    ],
+    "textEn": [
+      "\"Thank you...",
+      "You just made me realize something, Rika-chan......",
+      "Now the flames inside me are really starting to blaze...!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一…。」"
+    ],
+    "textEn": [
+      "\"Keiichi...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ここが踏ん張りどころじゃねぇか。",
+      "……俺たちは最強の部活メンバーだぞ。",
+      "個にして最強、揃えば誰にも負けない絶対無敵だ！！"
+    ],
+    "textEn": [
+      "We can't give up now!",
+      "...We're members of the strongest club ever.",
+      "Nothing can stop us when we get together!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………この俺があの程度でへこむなんて情けないぜ。",
+      "…梨花ちゃんの言葉で目が覚めた。",
+      "…………自分を信じろって言葉が、どれだけ重いかってことを教えてもらったぜ。」"
+    ],
+    "textEn": [
+      "\".........I can't become depressed over a small thing like this...",
+      "Rika-chan woke me up......",
+      "I just realized how serious it is to have people trust in me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんもまた、俺たち部活メンバーの特性に気付き、まず誰に火をつければいいのかわかってたってことだな。",
+      "……うおぉ、俺という導火線に火がついてきたぜ…。"
+    ],
+    "textEn": [
+      "Rika-chan knew our personalities well, and she figured out just who she should motivate first.",
+      "...Whoa, I'm really starting to burn up..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おい魅音！！",
+      "いつまでショボくれてやがる。",
+      "ここは怒り狂うところだぜ、おい！」"
+    ],
+    "textEn": [
+      "\"Hey Mion!",
+      "Stop being depressed!",
+      "This is where we're supposed to get angry, man!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺の威勢のいい声に、みんながはっとして振り返る。",
+      "それは突然の声に驚いたという表情だけでなく、",
+      "……その威勢の良さを待っていたという期待も含まれていた。",
+      "俺はそれを見てますますに理解する。",
+      "……これが、我が部における前原圭一の役割だ！！"
+    ],
+    "textEn": [
+      "Everyone looked at me with wide eyes as they turned at my powerful voice.",
+      "They were both surprised by my sudden shout...",
+      "and waiting in anticipation at the vigor of my call.",
+      "More and more clearly, I could see it.",
+      "...This was Keiichi Maebara's role in this club!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「さっきのは対応は客観的に見て、まずは空振りだな。",
+      "多分、レナの言うように、クラスメートが５人来て陳情、って程度のメモ書きで終わっちまうんだろう。"
+    ],
+    "textEn": [
+      "\"I don't think we did anything at the child consultation center.",
+      "Just like Rena was saying, they're just going to forward a small note saying that the five of us made a visitation."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "……だがな、ああいう対応をしちまったら、俺たちの怒りに火がついちまうぜ…！」"
+    ],
+    "textEn": [
+      "......But being treated like that has lit the fires of our anger...!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「た、…確かに、木で鼻をくくったような感じだったけど……、」"
+    ],
+    "textEn": [
+      "\"Y-You're right, it feels like they gave us the cold shoulder...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺たちは沙都子の緊急の危機を訴えてんだぞ、あの対応はねぇだろ！",
+      "ここは戦うとこだぞ！！",
+      "こんな公園で仲良くショボくれてる場合じゃねえッ！！」"
+    ],
+    "textEn": [
+      "\"We were trying to get them to realize how much danger Satoko is in!",
+      "We have to fight now!",
+      "We have no time to be sitting all depressed in the park!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でも…、圭一くん。",
+      "次に私たちは何をしたらいいんだろう…。」"
+    ],
+    "textEn": [
+      "\"But Keiichi-kun...",
+      "What are we supposed to do next...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「へっへっへ！",
+      "お前らまさかもうこの程度で万策が尽きたとか思ってるんじゃねぇだろうなぁ？",
+      "お前らこれが部活なら、全員ビリだぜ！！",
+      "へっへっへ！！」"
+    ],
+    "textEn": [
+      "\"Heh heh heh!",
+      "Don't tell me that you think we have no more options left?!",
+      "If this was a club activity, you guys would be losing right now!",
+      "Heh heh heh!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…へ、面白いもんだ！",
+      "俺自身、内心はへこたれていたのに、空威張りをしてる内に何だか胸の奥が熱くなってきやがる…！",
+      "自分で言ってて自分に諭される感じだ。",
+      "俺は何をへこたれてたんだ。",
+      "沙都子を救うために一刻の猶予もねぇんなら、ここは手を休めるところじゃねぇ！！",
+      "例えるなら、形勢不利のボクシングで、最終ラウンド残り時間わずかってとこだな！",
+      "このままボケっとしてりゃ判定負けは確実だってんなら、ここは強襲あるのみじゃねぇかよ！！",
+      "一発のパンチを放ち、それで相手が倒れないから、この試合には勝てないと諦めるのかよ？",
+      "違うだろ？！",
+      "一発のパンチで倒れなきゃ二発三発！！",
+      "マットに沈むまで連打あるのみだろうがッ！！"
+    ],
+    "textEn": [
+      "...Heh, this is fun!",
+      "I was feeling depressed too, but now I've got a burning passion in my heart.",
+      "I felt like I was cheering myself up.",
+      "Why was I being so sad?",
+      "If I wanted to save Satoko, I had no time to rest!!",
+      "This was like the final seconds of the last round in a boxing match where we were at a disadvantage.",
+      "If I stand here stupefied, I'll lose by indecision. So the only option is to press the attack!!",
+      "Was I supposed to give up just because I couldn't knock out the opponent with one punch?",
+      "No!",
+      "If I couldn't take him out in one, I'd have to throw two or three punches!!",
+      "I'd have to try until I could finally knock him out!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「連打あるのみって、…また明日も陳情に行こうってわけですか？」"
+    ],
+    "textEn": [
+      "\"You're saying that we're going to go there tomorrow...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「近いけど、ちょいと甘ぇなぁ？",
+      "へっへっへ！！」"
+    ],
+    "textEn": [
+      "\"Close, but not exactly.",
+      "Heh heh heh!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「な、",
+      "……何を考えてるんだか知らないけど、……くっくっく。"
+    ],
+    "textEn": [
+      "\"I...",
+      "I have no idea what's on your mind... heh heh heh."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "何だかおじさんも面白そうな気がしてきたよ。",
+      "……これで泣き寝入りなんて我が部らしくもない。",
+      "この程度の逆風、跳ね返して見せなきゃね…！」"
+    ],
+    "textEn": [
+      "But it sounds very interesting.",
+      "...It isn't like our club to cry ourselves to sleep.",
+      "We need to turn this headwind around!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "よし、……魅音が戦う気力ってヤツを取り戻してきた…！"
+    ],
+    "textEn": [
+      "Yes! Mion is getting her willpower back too...!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね、圭一くんの言うとおりだよ。",
+      "いじけてた自分が恥ずかしい。",
+      "戦おう！」"
+    ],
+    "textEn": [
+      "\"That's right. I agree with Keiichi-kun.",
+      "I'm ashamed that I was so depressed.",
+      "Let's fight!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「でも圭ちゃん、具体的にはどうしようってわけさ？」"
+    ],
+    "textEn": [
+      "\"But what exactly are you trying to do?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「へっへっへ…。",
+      "みんなもちょいと思い出してみな。",
+      "あの相談員は俺たちに宣戦布告をしてくれやがったわけだが、ご丁寧にも次の手も教えてくれてたわけさ。",
+      "多分、意識しなかったんだろうけどな。",
+      "墓穴を掘ってくれたもんだぜ。"
+    ],
+    "textEn": [
+      "\"Heh heh heh...",
+      "Remember everyone...",
+      "That man really pissed us off today, but he also told us what our next option is.",
+      "He never thought he was giving us a hint.",
+      "He made a huge mistake."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "……しかも、そいつはどうやら俺のもっとも得意とする戦術になりそうだぜ…！！」"
+    ],
+    "textEn": [
+      "......On top of that, that next option is something that I'm really good at...!!\""
+    ]
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "綿流しの翌日。",
+      "大石が学校にやって来た。",
+      "大石がこの日に学校にやって来ることは、実は結構多い。",
+      "そして皮肉にも、その世界のキーパーソンを呼ぶのだ。",
+      "圭一が発症する世界では圭一を。",
+      "レナが発症する世界ではレナを。",
+      "そして、この世界では大石は私を呼んだ。"
+    ],
+    "textEn": [
+      "The day after Watanagashi.",
+      "Ooishi showed up at our school.",
+      "It isn't uncommon for Ooishi to show up here today.",
+      "Interestingly, he always asks to see the most key person in that world.",
+      "He asks for Keiichi in the world where he gets sick.",
+      "He asks for Rena in the world where she gets sick.",
+      "In this world, he asked for me."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………富竹が、",
+      "…死にましたか…。」"
+    ],
+    "textEn": [
+      "\".........Did Tomitake...",
+      "really die...?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「えぇ。",
+      "……ちょっと尋常じゃない死に方でしてね。",
+      "薬物か何かで錯乱状態だったんじゃないかと思います。",
+      "自分で自分の喉を掻き破るというショッキングな亡くなり方でした。」"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "...The way he went was pretty strange, too.",
+      "Like he was on drugs and hallucinating.",
+      "He clawed out his own throat until he died.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……やはり抗えないのか。」"
+    ],
+    "textEn": [
+      "\"...I couldn't prevent it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どうにもならない。",
+      "わかってはいたことだった。",
+      "…恐らく鷹野もだろう。"
+    ],
+    "textEn": [
+      "There's nothing I can do now.",
+      "I knew this was going to happen.",
+      "I'm sure Takano is dead too..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……鷹野は？」"
+    ],
+    "textEn": [
+      "\"......And Takano?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「彼女についても残念なご連絡があります。",
+      "岐阜の山中で焼死体で発見されました。",
+      "死体の状況から、多分、絞殺された後に焼かれたんじゃないかと思っているのですが。"
+    ],
+    "textEn": [
+      "\"I have bad news about her too.",
+      "She was found burned to death in the mountains over in Gifu Prefecture.",
+      "Based on the condition of the body, she was choked to death before her body was burned."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "どちらにせよ気の毒な話です。」"
+    ],
+    "textEn": [
+      "It's a tragic story no matter how you look at it.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……大石の考えはわかってますです。",
+      "ボクが何か知っていると思っているんでしょう。」"
+    ],
+    "textEn": [
+      "\"......I know what you're thinking.",
+      "You think I know something about what happened to them.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いやいやまさかまさか。",
+      "疑うとしたらこの一点だけです。",
+      "あの人ごみの中で、小耳に挟めるようなところでこんな物騒な話をする人がいるわけがない。」"
+    ],
+    "textEn": [
+      "\"Heavens, no.",
+      "I only have one question.",
+      "Who would talk about such a disturbing plan at the festival where anyone could hear...?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクが、何かの陰謀の片棒を担いでると思っていますですか。」"
+    ],
+    "textEn": [
+      "\"...You think, I'm involved in this murder?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「と、思い込みたいところですが、それも引っ込めました。"
+    ],
+    "textEn": [
+      "\"Well, I wanted to suspect you, but I don't."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "……本当にその気なら、あなたは私にあんな入れ知恵をすることはなかったんですからね。",
+      "少なくとも、今回の事件を起こそうと考えた何者かとは相対する位置にいると思ってます。」"
+    ],
+    "textEn": [
+      "If you were responsible in some way, you wouldn't have given me the hints you did.",
+      "At the very least, I'm sure you're not involved with the people who killed them.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……それが本当ならとても嬉しいのです。」"
+    ],
+    "textEn": [
+      "\"......I'm glad you're not suspicious of me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は賽銭箱に１０円を放り込むと、ガランガランと鳴らしてから言った。"
+    ],
+    "textEn": [
+      "Ooishi threw a ten-yen coin into the offering box, and shook the bell in prayer."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「どうか今年こそ、雛見沢村連続怪死事件を終わらせられますように！」"
+    ],
+    "textEn": [
+      "\"Please let us solve the mystery of Hinamizawa this year!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……そのためにボクに協力しろと？」"
+    ],
+    "textEn": [
+      "\"......Are you trying to get me involved in your investigation?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっはっは。",
+      "今のはオヤシロさまにお願いしたんですよ？」"
+    ],
+    "textEn": [
+      "\"Na ha ha ha...",
+      "I was just talking to Oyashiro-sama.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私がオヤシロさまの生まれ変わりと呼ばれているのは大石も知っている。",
+      "…大石ギャグということにしておこう。"
+    ],
+    "textEn": [
+      "Ooishi is well aware that people call me the reincarnation of Oyashiro-sama.",
+      "...That must have been his attempt at a joke."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクも、こんな祟りはもう金輪際にしてほしいと思っていますです。」"
+    ],
+    "textEn": [
+      "\"...I'd like to see the curse disappear forever too.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「おや、なら古手さんと私の求めるところは一致するようですねぇ。」"
+    ],
+    "textEn": [
+      "\"Oh, that means we both want the same thing.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクは昨日、富竹の死体が見付かりそうなところを予言しましたです。",
+      "そこにパトカーはいなかったのですか？」"
+    ],
+    "textEn": [
+      "\"......I made a prediction about where you might find Tomitake's body.",
+      "Didn't you have a police cruiser nearby?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「いいえ、ちゃんと巫女さまの予言に従って配置しました。"
+    ],
+    "textEn": [
+      "\"Yeah, I listened to your prediction, and had a cruiser patrol the area."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "ほら、舗装道路と砂利道の境目になってる辺りがあるじゃないですか。",
+      "通称、村境とか呼ばれてる辺りです。",
+      "あそこら辺はとても暗いですからね。"
+    ],
+    "textEn": [
+      "The place where the concrete and gravel roads meet...",
+      "It's on the very border of the village.",
+      "It gets very dark there at night."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "何かヤバイことの起こりそうな臭いが一番ぷんぷんする辺りです。」"
+    ],
+    "textEn": [
+      "It always seems like if something bad were to happen, it could happen there.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………では、富竹の死体はどこで？」"
+    ],
+    "textEn": [
+      "\".........So where did you find Tomitake's body?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「配置場所よりももっとずっと興宮寄りの水田地帯の路肩です。」"
+    ],
+    "textEn": [
+      "\"We found him dead by the rice fields near Okinomiya.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…毎回見付かる富竹の死体の場所と違う。",
+      "富竹があの場所で錯乱するのが運命なのだとしたら、例えパトカーがいようといなかろうと同じ場所で錯乱する。",
+      "それが、その場所に予めパトカーが配置されているだけで、",
+      "不変と思われた富竹の死に場所が変わるということは、",
+      "……パトカーを嫌う意思が運命に介在した証拠だ。"
+    ],
+    "textEn": [
+      "That's not where his body is usually found...",
+      "If he was fated to hallucinate and die, he would die in exactly the same spot, whether the cruiser was there or not.",
+      "Just because the cruiser was placed there...",
+      "Tomitake's body was found in a totally different spot.",
+      "...In other words, the existence of the police cruiser disrupted that fate."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「でですねぇ。",
+      "ここからがちょいと面白い話になります。",
+      "……パトにはですね、私、通る車もチェックさせたんです。"
+    ],
+    "textEn": [
+      "\"Anyway.",
+      "There's something else I found very interesting.",
+      "...I told the officers in the police cruiser to check every vehicle that passed by."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "そしたら、鷹野の車が祭りが終わった後、興宮方向へ通過したんですよ。」"
+    ],
+    "textEn": [
+      "As it turns out, one of the cars that headed toward Okinomiya after the festival was over was Takano's.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "鷹野の住まいは興宮にある。",
+      "祭りが終わった後に帰宅するのは珍しいことではない。"
+    ],
+    "textEn": [
+      "Takano lives in Okinomiya.",
+      "It wouldn't be strange for her to head back home after the festival."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ただ、乗ってたのは１人だったんです。",
+      "富竹は乗っていなかった。」"
+    ],
+    "textEn": [
+      "\"However, she was the only one inside the car.",
+      "Tomitake wasn't with her.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……富竹は雛見沢にはいつも自転車で来ますから、」"
+    ],
+    "textEn": [
+      "\"......Tomitake always comes to Hinamizawa on his bike.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なら自転車をトランクに積んで車に乗せてもらうのが普通じゃありませんか。",
+      "ですが、富竹は一緒じゃなかった。"
+    ],
+    "textEn": [
+      "\"Then she could've loaded his bike in the trunk and given him a ride.",
+      "But he was not with her."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…にもかかわらず、富竹の死体は雛見沢からパトを越えて、興宮の方の水田地帯で見付かる。」"
+    ],
+    "textEn": [
+      "However, his body was found among the rice fields near Okinomiya, past where the police cruiser was patrolling in Hinamizawa...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………………つまり…？」"
+    ],
+    "textEn": [
+      "\"............What are you saying...?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あの真っ暗な中、森の中を突き進んでパトを迂回したなんてできる芸当ではありません。",
+      "だとしたら、パトに気付かれずに街道を抜けるしか考えられない。",
+      "…………古手さん。"
+    ],
+    "textEn": [
+      "\"There's no way he could have biked through the dark woods to avoid the police cruiser.",
+      "He somehow took the road without being noticed by us.",
+      ".........Furude-san."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "鷹野とホトケの関係について教えていただけませんか。」"
+    ],
+    "textEn": [
+      "Can you tell me what you know about the relationship between Tomitake and Takano?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………恋人同士。",
+      "……それしか知らないです。」"
+    ],
+    "textEn": [
+      "\".........They're dating.",
+      "...That's all I know.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「鷹野がね、恋人との最後の夜の逢瀬を１人で帰るというのが腑に落ちないんです。",
+      "富竹はその時、トランクの中に詰められていて、あの真っ暗な森の中に捨てようとした。"
+    ],
+    "textEn": [
+      "\"I find it hard to believe that Takano would drive back home alone in the dark without her boyfriend.",
+      "What if she had Tomitake in her trunk, and she was planning to dump his body in the woods..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "だが、お告げのパトカーがたまたまそこにいちゃったもんで、仕方なくそこを通り抜け、",
+      "もっと先で富竹を捨てた。」"
+    ],
+    "textEn": [
+      "but because the cruiser was in that area, she had no choice but to pass by...",
+      "and dump him on the side of the road.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹と鷹野は恋人同士である以前に、東京から派遣されている人間だ。",
+      "彼らの本当の正体が何者であるかなんて、私だって知らない。",
+      "だから、鷹野に富竹を殺す理由が絶対にないなんて私にだって断言できなかった。",
+      "そしてそれは、……今までに一度も考えたことのないことだった。",
+      "鷹野が富竹を殺す……？",
+      "…どうして？？",
+      "理由が何も思いつかない。",
+      "心当たりもないし、",
+      "殺さなきゃならないほど鷹野が追い詰められるなんて考えられない。",
+      "…むしろ逆で、恋に狂った富竹が冷たくされたのを逆上して首を絞める方がありえそうなくらいだ。"
+    ],
+    "textEn": [
+      "Both Tomitake and Takano were sent here from Tokyo.",
+      "I have no idea what their real identities are.",
+      "I can't say that Takano had no reason to kill Tomitake.",
+      "However... I've never considered that possibility before in my life...",
+      "Takano killing Tomitake...?",
+      "...But why??",
+      "I can't think of any reason.",
+      "Nothing comes to mind,",
+      "and it's hard to imagine Takano was cornered to the point she had to kill him.",
+      "...In fact, it was more plausible to think she was enraged when the lovesick Tomitake acted cold towards her, and she strangled his neck."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「私はあのカップル、どことなく不釣合いだなぁってずっと思ってました。",
+      "…なっはっは、こう言っちゃあ富竹くんに失礼ですが、…鷹野さんでは荷が勝ちすぎてるんじゃないかなぁってずっと思ってました。"
+    ],
+    "textEn": [
+      "\"I never really thought they suited each other.",
+      "...Na ha ha, I don't mean to insult Tomitake-kun, but I thought Takano-san was way too smart for him."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "鷹野が、富竹を何かに利用しようとして近付いていたとか、そういう話を村の中で聞いたことはありませんかねぇ…？」"
+    ],
+    "textEn": [
+      "Have you heard of any rumors that she was trying to use him for anything...?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ないです。",
+      "でも、話は聞いてみようと思いますです。",
+      "何かわかったら大石にも知らせますです。」"
+    ],
+    "textEn": [
+      "\"...None.",
+      "But I can ask around.",
+      "I'll let you know if I find out something.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ありがとうございます。",
+      "村の内部に詳しい方、それも御三家の頭首でオヤシロさまの生まれ変わりの協力がいただければ鬼に金棒ですよ。」"
+    ],
+    "textEn": [
+      "\"Thank you very much.",
+      "I'm just glad that the reincarnation of Oyashiro-sama is on my side.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…その生まれ変わりが、こうして百年以上も挑んで勝てない運命か。"
+    ],
+    "textEn": [
+      "But even the reincarnation of Oyashiro-sama couldn't solve this mystery for over a hundred years..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……でも。",
+      "その鷹野も殺されたのですよ？",
+      "どういうことなのですか。」"
+    ],
+    "textEn": [
+      "\"But...",
+      "you said Takano was killed too...",
+      "How can she be the culprit?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「私ゃ、もしあなたからタレコミ、おっと、お告げを聞いていなかったら。",
+      "多分きっと、富竹と鷹野はともに犠牲者で、オヤシロさまの祟りの５年目ってことになったんだろうと思い込んだと思います。"
+    ],
+    "textEn": [
+      "\"Well, it's because you leaked me the information, I mean, the prophecy.",
+      "Without that, I'm sure I would've just believed that both Takano and Tomitake were the victims of the fifth year's curse of Oyashiro-sama."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "ですが、こうなってくるとどうも違う。",
+      "どうやらこいつぁ、オヤシロさまの祟りの５年目ってことにしようとした、巧妙な事件のように見えてきました。」"
+    ],
+    "textEn": [
+      "I feel like it's different this time.",
+      "Maybe as though this is someone trying to make the curse of Oyashiro-sama happen.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………つまり、……鷹野が犯人…？」"
+    ],
+    "textEn": [
+      "\".........So you really think... that Takano-san is the culprit...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石が言わんとするのはわかる。",
+      "二人とも犠牲者なんじゃない。",
+      "実は犠牲者と犯人で、犯人も犠牲になったふりをして逃れていると言いたいのだ。",
+      "自分で言ってて実感がない。",
+      "……鷹野がどうしてそんなことをするのか、まったくわからないからだ。",
+      "大石以上に内情を知っているからこそなおさらだった。",
+      "でも、それでは鷹野の焼死体はどういうことになるのか。",
+      "岐阜県警がしっかり調べたのではないのか？"
+    ],
+    "textEn": [
+      "Basically, this is what Ooishi is trying to say.",
+      "They're not both victims.",
+      "The culprit is also pretending to be a victim.",
+      "This is really hard for me to believe.",
+      "...I can't think of any reason why Takano would do something like this.",
+      "Ooishi only feels the way he does because he doesn't know her as well as I do.",
+      "For another thing, how can he explain that Takano's body was found?",
+      "Didn't the police in Gifu Prefecture identify the body?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「焼死体の識別には歯型照合がもっとも有効だと言われています。",
+      "ただ、うちの鑑識のジジイが言うにはそれでも１００％じゃないと言う。"
+    ],
+    "textEn": [
+      "\"For a charred corpse, the easiest way to identify them is by their dental records.",
+      "Although, according to the old man in forensics, they're still not 100% sure."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "……まぁ、それよりおかしいのが岐阜県警鑑識の死亡時刻なんです。",
+      "当初、死亡時刻が合わなかったらしいんです。」"
+    ],
+    "textEn": [
+      "...And besides, there's a contradiction with the estimated time of death.",
+      "It just doesn't make sense.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……死亡時刻が合わない？」"
+    ],
+    "textEn": [
+      "\"What do you mean......?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「えぇ。",
+      "祭りの前夜にはもう殺されてたっていう鑑識が出ちゃったらしいんです。",
+      "内容物とかそういうのから調べるらしいですね。"
+    ],
+    "textEn": [
+      "\"Well...",
+      "The test results show that she was dead on the night before the festival.",
+      "Apparently they inspected the contents of her stomach and such."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "ですが、この時点で岐阜さんには、鷹野の話をしちゃってたんです。",
+      "だから岐阜さん、綿流しの日に彼氏とデートしてたはずの死体が死後２４時間では話が合わないって言って、その鑑定結果を握り潰しちゃったらしい。"
+    ],
+    "textEn": [
+      "But at the time of testing, they already had information about Takano.",
+      "They knew that she was at the festival that night, and realized that the test results didn't match up."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "……死亡時刻の鑑定なんかより、死体の歯型鑑定の方がよっぽど精度が高いですからね。",
+      "まぁ、現場にはたまにある話です。",
+      "ですが、鷹野が犯人かもしれないって目で見てみると、こいつぁ、鷹野の死体じゃない可能性が出てきます。」"
+    ],
+    "textEn": [
+      "So they just dumped the results and decided to take the dental records alone.",
+      "These things do happen every once in a while...",
+      "However, if Takano really is the culprit, this body might belong to someone else.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……死体を誤魔化すことなんて可能なのですか？」"
+    ],
+    "textEn": [
+      "\"......Is it possible to do something like that?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「焼死体の鑑定は基本的に歯型以外は絶望的です。",
+      "例えば、これは推理小説的な荒技ですが、興宮のデンタルクリニックに残されていた『鷹野三四』の歯型のカルテ、"
+    ],
+    "textEn": [
+      "\"When a body is burnt, dental records are the only way to identify it.",
+      "This might sound too much like a mystery novel, but what if, for example, someone faked Miyo Takano's dental records?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "これが、巧妙な手口で捏造されていたら、誤認もありえる。"
+    ],
+    "textEn": [
+      "If they were skillfully forged, we could have the wrong ID."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "……まぁ、そんなのは抜きにして、単純に岐阜さんが鷹野に間違いないと決め付けてしまった可能性の方が高いですが。"
+    ],
+    "textEn": [
+      "...Anyway, the Gifu police department has made up their mind that the body belongs to Takano."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "警察組織内では往々にして、初動時の鑑定ミスが後々まで尾を引くことが少なくない。",
+      "伝説的な冤罪事件のほとんどはこれに起因します。",
+      "………私ゃどうやら、その可能性が拭えない気がする。」"
+    ],
+    "textEn": [
+      "Within police departments, we sometimes have issues with false test results.",
+      "That's how most false charges are made.",
+      "......It feels to me like this is one of those times.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……つまり、鷹野は生きてる？」"
+    ],
+    "textEn": [
+      "\"...So you think Takano is alive?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「鷹野三四は先日以来、車ごと行方不明です。",
+      "岐阜の死体が鷹野でないなら、……これは何だか面白そうな話になってきます。」"
+    ],
+    "textEn": [
+      "\"Since last night, both Miyo Takano and her car have gone missing.",
+      "If that body found in Gifu isn't Takano... this is going to be very interesting indeed.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\"................\""
+    ]
+  }
+]

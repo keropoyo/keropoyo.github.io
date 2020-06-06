@@ -1,0 +1,2058 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "綿流しの祭りが終わった後、園崎家の親戚たちは皆、本家に集まり、一部の親戚たちと簡単な酒盛りをした。",
+      "私は親しい叔父さんたちと隅の方で勝手に盛り上がっていた。",
+      "………祭具殿の中での、気味の悪い記憶を少しでも薄めるために。",
+      "魅音は終始、次期頭首さまだったので、私は近寄らずにいた。",
+      "血を分けた姉妹に、他人行儀に喋られるほど、気持ちの悪いことはないのだから。",
+      "鬼婆に気を遣い、酒盛りは午後の１１時くらいでお開きになった。",
+      "みんなで片付けをし、仕切るのが大好きな叔母さま連中は、台所を占領してガンガン食器類を洗っていた。",
+      "男性陣も、広間いっぱいに出された机をどんどん畳んで、奥の納戸に片付けている。",
+      "３０分くらいで全部片付き、親戚たちはどんどんと散って行った。",
+      "この頃になると、魅音も頭首モードは終わっていて、私のよく知る魅音に戻っていた。",
+      "私は少し騒ぎすぎて疲れたせいか、畳の上でぐったりとしていた。",
+      "葛西が、車に乗れますか？",
+      "と聞いてきたので、もう動きたくないと言い返してやった。"
+    ],
+    "textEn": [
+      "My relatives gathered at the Sonozaki house after the festival to have a little party.",
+      "I mingled with my uncles and had fun.",
+      "...I was trying to get rid of my eerie memories of the ritual storehouse.",
+      "Mion was acting as the successor, so I tried to stay away from her.",
+      "I'm sure she would feel weird if I talked to her in a formal way.",
+      "In consideration of the hag's old age, we ended the party around 11 PM.",
+      "We all helped to clean up, with the women washing the dishes in the kitchen...",
+      "And the men folding the tables and putting them away in a storeroom.",
+      "It only took about thirty minutes. Then everyone left, one after another.",
+      "By then Mion was no longer acting as the Sonozaki successor and was back to being her normal self.",
+      "Maybe I overexerted a little. I was lying on the tatami floor.",
+      "Kasai asked me if I could get in the car,",
+      "so I told him I'd rather not move any more."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…お姉、今日、泊まってってもいい？",
+      "ここで寝ちゃいたいー…。」"
+    ],
+    "textEn": [
+      "\"Sis, can I spend the night here?",
+      "I just want to sleep...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「婆っちゃに見つかると怒られるよ…？"
+    ],
+    "textEn": [
+      "\"Granny will get mad if she finds you..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "って、それより詩音、明日は学校じゃないの？」"
+    ],
+    "textEn": [
+      "By the way, don't you have school tomorrow, Shion?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……明日は開校記念日だからいいの……。",
+      "……んーー…。」"
+    ],
+    "textEn": [
+      "\"No, tomorrow is our school's anniversary, so there's no class...",
+      "...Mmm...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あんたの学校、開校記念日って年に何回あるわけ？"
+    ],
+    "textEn": [
+      "\"How many times a year does your school have its anniversary?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……まぁ、いいっかぁ。",
+      "じゃ、葛西さん。",
+      "詩音は今夜はうちで預かります。」"
+    ],
+    "textEn": [
+      "Oh well...",
+      "Okay, Kasai-san.",
+      "She can stay here tonight.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「わかりました。",
+      "ではよろしくお願いいたします。」"
+    ],
+    "textEn": [
+      "\"Understood.",
+      "Good night.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ほら詩音、起きてー。ここで寝てると婆っちゃに怒られるって。",
+      "ほら、肩を貸すから奥に行こう。",
+      "私の布団、貸してあげるから。」"
+    ],
+    "textEn": [
+      "\"Come on, Shion, wake up. Granny will get really mad if you fall asleep here.",
+      "Here, hold on to me.",
+      "You can sleep in my room.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ありり〜〜お姉〜〜……ぅ〜〜ん……。」"
+    ],
+    "textEn": [
+      "\"Y'whaaa?... Sis... uhhnnn...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "だいぶ寝惚けていたから、はっきりとは覚えていない。",
+      "でも、確か私は魅音の部屋に連れてこられて、布団に潜り込んだんだ。",
+      "それで、少し後片付けした後、魅音もその脇に布団を敷いて、部屋の灯りを消して横になったはず…。",
+      "私は起き上がって、灯りを点けた。",
+      "魅音の布団は空っぽだった。",
+      "……布団に温かみはない。",
+      "魅音が布団を抜け出したのはずいぶん前だ。",
+      "………お手洗い…？",
+      "いや、一番近くのお手洗いは、廊下のすぐそこだ。",
+      "…でも、そこに灯りはついていない。",
+      "どこへ行ったんだろう………？",
+      "静寂の中、いやにうるさく聞こえる時計の針の音。",
+      "見ればその針は……午前３時の少し前を指していた。",
+      "こんな深夜に、……突然、ひとり残されて。",
+      "せっかくドンちゃん騒ぎで忘れかけてた、あの祭具殿での薄気味悪さが…再び戻ってくるのを感じた。",
+      "…………気味の悪い気配も、",
+      "…不審な物音も、",
+      "…足音もない。",
+      "私は魅音の姿を求めて、凍てつくように冷えた廊下に歩み出した……。",
+      "灯りの漏れている部屋をすぐに見つけられた。",
+      "…………そこは、鬼婆の寝室だった。",
+      "鬼婆は割と早く寝る代わりに朝が早い。",
+      "しかも就寝時間に厳格だ。",
+      "…だから、こんな時間に灯りがついていることは考えられなかった。",
+      "その部屋から、灯りだけじゃなく、声も漏れてくる。",
+      "……魅音と鬼婆の声。",
+      "私はぎりぎりのところまで部屋に近付いて、耳を澄ませて会話をうかがった。",
+      "……草木も眠る時間だけあり、二人の会話は少し離れていてもよく聞こえた。"
+    ],
+    "textEn": [
+      "I didn't remember much after that.",
+      "I was probably brought to Mion's room and immediately crawled into the futon.",
+      "After a while, Mion got her futon ready next to me, turned the lights off, and went to sleep... At least, that's what I'd thought...",
+      "I got up and turned the lights on.",
+      "Mion's futon was empty.",
+      "The futon felt cold.",
+      "Mion must have left it a while ago.",
+      "Did she go to the bathroom?",
+      "No, the closest bathroom was right there down the hallway.",
+      "The light in the bathroom was off.",
+      "Where did she go?",
+      "The ticking of the clock was loud and annoying in this silence.",
+      "The hands pointed... to a little before 3 AM.",
+      "I was left alone all of a sudden... in this late night.",
+      "I felt the eerieness of the ritual storehouse coming back to me... after almost managing to forget it in the ruckus earlier.",
+      "I tried to sense my surroundings; in this house, there shouldn't be an eerie atmosphere,",
+      "strange noises,",
+      "or footsteps.",
+      "I stepped out into the freezing cold hallway to look for Mion...",
+      "When I did, I immediately noticed light coming from one of the nearby rooms.",
+      "That room belonged to the hag.",
+      "The hag went to sleep early and woke up early.",
+      "She was very strict about her bedtime.",
+      "So it was strange to see her light on in the middle of the night.",
+      "I could hear voices too.",
+      "Those voices belonged to the hag... and Mion.",
+      "I creeped up to the room and listened to their conversation.",
+      "Since it was the middle of the night, I could hear their words very clearly."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「しゃもねえやんなぁ。",
+      "あんの若いんのも、ちょい出張り過ぎゃったんやぁん。」"
+    ],
+    "textEn": [
+      "\"But you know...",
+      "those young ones went too far.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「まぁね。",
+      "………………オヤシロさまのお怒りに触れたんだから、仕方ないね。」"
+    ],
+    "textEn": [
+      "\"You're right.",
+      "They made Oyashiro-sama angry, so I guess they got what they deserved.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の声が、あの地下拷問室で聞いた時と同じ、ぞっとするような冷たさを伴っていることに気付き、私は一層、息を殺した…。"
+    ],
+    "textEn": [
+      "Mion's voice sounded as cold as the one I'd heard down in the torture room. I held my breath."
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「警察は調べんとっちゅとろんが、すったらん、間違いなかんね。」"
+    ],
+    "textEn": [
+      "\"The police say they are investigating, but are you sure?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………多分ね。",
+      "鷹野さんだろうね。」"
+    ],
+    "textEn": [
+      "\"...I guess.",
+      "It's probably Takano-san.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "心臓が止まりそうになる。",
+      "オヤシロさまの祟りに触れた。",
+      "警察が調べてる。",
+      "多分、鷹野さん。",
+      "……そして、今日という日の意味。",
+      "わずかこれだけの単語でも、……何が起こりつつあるかが分かる。",
+      "奥歯がガチガチ鳴りそうなのを必死に堪える。",
+      "…全身がぶわっと膨張したみたいに感じて、耳が遠くなったような錯覚が起こる。",
+      "………落ち着け、深呼吸。",
+      "…耳をもっと澄ますんだ…………。",
+      "魅音と鬼婆の会話から、確実に言えるのは、５年目の事件もやはり起こったということ。",
+      "そしてその犠牲者はおそらく……鷹野さんと富竹さん…。",
+      "しかも、……鬼婆たちは、この二人が犠牲になった理由について、納得している節があるのだ。",
+      "いやいやいやいや…もっと落ち着いて考えるんだ…。",
+      "オヤシロさまの怒りに触れたから仕方ないとか言った。",
+      "……鷹野さんと富竹さんがオヤシロさまの怒りに触れたって？",
+      "どうしてオヤシロさまの祟りに触れたんだ…？",
+      "………………ばれてるんだ。",
+      "全身の関節ががくがくと震え始める。",
+      "……祭具殿に忍び込んだことが、ばれてるんだ……。",
+      "なら、…一緒に忍び込んだ圭一と、",
+      "……………私もオヤシロさまの祟りの対象じゃないか……。",
+      "その時、突然、電話のベルが鳴り響いた。",
+      "電話は、玄関の方にある。",
+      "玄関は鬼婆たちの部屋の反対側のずっと奥。",
+      "長い廊下の途中で、たくさんの壁にぶつかって残響しながら響く電話の音は、この世からの電話とは思えない不気味さがあった……。",
+      "その時、",
+      "………………",
+      "私の後ろに、",
+      "……居た。",
+      "もちろん、振り返ったって誰の姿もない。",
+      "……でも、居た。",
+      "悟史くんかどうかはわからない。",
+      "…感情が感じられないから、…判断が付かない。",
+      "いつからそこに居たのかわからない。",
+      "………まるで、盗み聞きする私を監視するような、",
+      "……そんな気配と視線。",
+      "……悟史くんのわけない。",
+      "……悟史くんがこんな威圧的な恐ろしさを滲ませるわけがない。",
+      "頭の中が真っ赤な血の色でいっぱいに染まってしまう。"
+    ],
+    "textEn": [
+      "My heart almost stopped.",
+      "Oyashiro-sama got angry.",
+      "The police are investigating.",
+      "It's probably Takano-san.",
+      "And what day was it today.",
+      "Those words told me that something was happening.",
+      "My teeth started to chatter. I desperately tried to stop them.",
+      "I felt like my body was swelling up suddenly. I could no longer hear as well.",
+      "Calm Down. Breathe.",
+      "Listen more carefully...",
+      "According to Mion and the hag's conversation, another incident definitely took place.",
+      "The victims were... Takano-san and Tomitake-san...",
+      "From what I could tell, both Mion and the hag thought it made sense that whatever it was happened to them.",
+      "No, no, no, no... I needed to think more calmly...",
+      "They did say they deserved it for making Oyashiro-sama angry.",
+      "Did they say Takano-san and Tomitake-san made Oyashiro-sama angry?",
+      "How did they make Oyashiro-sama angry?",
+      "............They knew.",
+      "My body started to shake.",
+      "They knew we snuck into the ritual storehouse...",
+      "Then would that mean... Keiichi and I",
+      "were also subject to Oyashiro-sama's curse?",
+      "Suddenly a phone rang.",
+      "The phone was by the front door.",
+      "The front door was opposite the hag's room, farther down the hall.",
+      "The ringing echoed throughout the long hallway. It sounded so eerie, almost like it was coming from Hell...",
+      "That was when",
+      "......",
+      "I felt",
+      "someone behind me.",
+      "Of course, there was nobody there when I turned around.",
+      "But there was someone there a moment ago.",
+      "I didn't know if it was Satoshi-kun.",
+      "I didn't sense any emotions, so I couldn't tell.",
+      "I also didn't know how long it had been there.",
+      "It was as if that somebody was watching me listen in on their conversation.",
+      "That was the feeling I got.",
+      "It couldn't be Satoshi-kun.",
+      "Satoshi-kun would never be that intimidating or scary.",
+      "My mind turned all red, like it was suffused with blood."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃんにはない？",
+      "ひたひたと。",
+      "ずぅっと足音がついて来て。",
+      "……夜は枕元にまで立たれて、見下ろされる経験。」"
+    ],
+    "textEn": [
+      "\"...Have you experienced anything like that?",
+      "Those footsteps always followed me......",
+      "They even came to my bedside",
+      "and looked down at me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "脳裏に蘇るのは、……あの雨の日に竜宮レナに言われたあの言葉。"
+    ],
+    "textEn": [
+      "I remembered what Rena Ryuugu had said on that rainy day."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうならば魅ぃちゃんは大丈夫。",
+      "……オヤシロさまには怒られない。」"
+    ],
+    "textEn": [
+      "\"You'll be okay, if that's true......",
+      "Oyashiro-sama won't get mad at you.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……オヤシロさまに怒られないなら、",
+      "……誰かが私の後ろをひたひた付いてきたりすることなんて、ない。",
+      "じゃあ…何。",
+      "……祭具殿に忍び込んだ時から、",
+      "…私の後ろをぺたぺたと付きまとってるのは、",
+      "………何だって言うの…。",
+      "落ち着け落ち着け……。",
+      "そう、レナの話した話は私の話じゃない。",
+      "そう、悟史くんの話！　悟史くんの身に起こった話…！"
+    ],
+    "textEn": [
+      "If Oyashiro-sama wasn't angry,",
+      "nobody would follow me.",
+      "So what did this mean?",
+      "Ever since we snuck into the shrine storage",
+      "something has been following me?",
+      "What is it?",
+      "Calm down, calm down...",
+      "That's right. Rena wasn't talking about me.",
+      "She was talking about Satoshi-kun! That's what happened to Satoshi-kun!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「悟史くんが体験していることは全て、…オヤシロさまの祟りの前触れなの。」"
+    ],
+    "textEn": [
+      "\"Everything he's going through... is a sign of Oyashiro-sama's curse.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そうだね、だから悟史くんはオヤシロさまの祟りに遭ってしまったんだね…。"
+    ],
+    "textEn": [
+      "That's right. That's why he encountered the curse of Oyashiro-sama..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………誰かが遠くからじっとうかがっている。",
+      "…誰かがずっとつけて来る。」"
+    ],
+    "textEn": [
+      "\"......You feel someone is watching from a distance...",
+      "and it follows you...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぞおっとしたものが……腰から湧き上がり、背中全体に広がっていく。"
+    ],
+    "textEn": [
+      "A creepy feeling crawled up and spread across my back."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……誰かがいつも、自分のすぐ後ろから見ている。",
+      "……やがて足音は常に、自分とずれてひとつ余計に聞こえるようになるの。」"
+    ],
+    "textEn": [
+      "\"Then it watches from right behind you...",
+      "...After that, you start hearing an extra footstep.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "固唾を音がするくらいに呑み込む。",
+      "…………まるで、あの時の竜宮レナが、……今の私を予言してるみたいじゃあないか…。",
+      "レナはあの時、悟史くんの話をしたのか？",
+      "私のこれからの話をしたのか…？！"
+    ],
+    "textEn": [
+      "I swallowed loudly.",
+      "It's almost as though Rena Ryuugu was predicting what would happen to me...",
+      "Had Rena been talking about Satoshi-kun back then?",
+      "Or had she actually been talking about me...?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………やがて後ろのそれは自分の家の中にまで付いて来るようになる。",
+      "そして、……お布団に入って灯りを消しても、…ずっと枕元から見下ろしてるの。",
+      "………ただただ黙って。",
+      "じぃっと…。」"
+    ],
+    "textEn": [
+      "\"But you start hearing it even inside your house after a while.",
+      "Then... Oyashiro-sama keeps watching you even when you're sleeping in the dark...",
+      "right by your side,",
+      "waiting silently...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "もう間違いない、もう間違いない…。",
+      "どんなに都合よく楽天的に考えようとしても無理。",
+      "…………これは私。",
+      "…私。",
+      "…私のこと！",
+      "オヤシロさまの祟りって……オヤシロさまの祟りって……！！",
+      "その時、気配でも音でもなく本当に。",
+      "私の襟首が掴まれた。"
+    ],
+    "textEn": [
+      "I knew by now that there was no mistake...",
+      "No matter how I looked at it,",
+      "she had been talking about me.",
+      "Yes, me.",
+      "It had been about me!",
+      "The curse of Oyashiro-sama... What is the curse of Oyashiro-sama?",
+      "That was when I actually felt something for real.",
+      "Someone grabbed my collar."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ぁ……………ッッ！？！？」"
+    ],
+    "textEn": [
+      "\"Ah.........!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悲鳴なんか出ない。",
+      "出したかったけど、喉の奥が詰まったようになって、口をぱくぱくさせるのがやっと……。",
+      "それは……魅音だった。",
+      "地下の拷問室で見せたあの冷たい表情とだって、比べようがないくらいの……信じられないくらいに冷たい表情で。",
+      "……当然だ。",
+      "電話が鳴ってるんだから、電話を取りに魅音が廊下へ出たのは当り前。",
+      "たまたま夜中に目が覚めちゃって…偶然、ばったり……なんて言う言い逃れを頭の中に用意する。",
+      "………でも、魅音の瞳は信じられないくらいに冷え込んでいて。",
+      "私が本当に偶然ばったりだったとしても、……何の反論も許さないような恐ろしい気配に満ちていた。",
+      "私は全身に脂汗を噴き出しながら…、指一本動かすことができない。"
+    ],
+    "textEn": [
+      "No voice came out.",
+      "I wanted to scream, but all I could do was to open and close my mouth, as if something was stuck in my throat...",
+      "It was Mion...",
+      "She looked even colder than how she'd looked in the underground torture room.",
+      "It only made sense",
+      "that she'd come out into the hallway to answer the phone.",
+      "I tried to come up with an excuse...",
+      "However, the way Mion looked at me was so cold.",
+      "Even if I really had run into her by accident, I could tell by the look in her eyes that she wouldn't believe me.",
+      "I felt cold sweat all over my body. I couldn't even move my fingers."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………ご、…………ごめ、……、」"
+    ],
+    "textEn": [
+      "\"S...Sorry...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "無意識の内に謝罪の言葉が口を突く。",
+      "言い逃れの余地があったかも知れないのに、真っ先に非を認める最低の言葉だ。",
+      "だがそんなのは魅音の耳には入らないようだった。",
+      "ただ黙って連行するかのように、私の襟首を掴んだまま、玄関へ向かった。",
+      "電話はまだ鳴り続けている。",
+      "……普通の人だったら、こんな深夜にこんなに電話を鳴らし続けたりなんかしない。",
+      "……その時点でも、もう現実離れしていた。",
+      "私の襟首を掴んだまま、魅音は受話器を取った。"
+    ],
+    "textEn": [
+      "I apologized.",
+      "I could have said something to get myself out of the situation, but the apology came out first.",
+      "But Mion didn't appear to hear me.",
+      "She walked to the front door, still holding my collar.",
+      "The phone was still ringing.",
+      "A normal person doesn't usually let a phone ring so long at this time of night.",
+      "The phone call itself didn't seem real to me.",
+      "Mion picked up the phone."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………魅音です。",
+      "…………………………………………。",
+      "………そうですか。",
+      "わかりました。",
+      "………そちらの対応はよろしくお願いします。",
+      "それから、一切の口封じをよろしくお願いします。",
+      "……………………えぇ。",
+      "では。」"
+    ],
+    "textEn": [
+      "\"This is Mion.",
+      "............",
+      "...I see.",
+      "I understand.",
+      "Please take care of things at your end.",
+      "Also, please make sure that nobody talks about this.",
+      "...Yes.",
+      "Goodbye.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "短いやり取りだけすると、魅音は受話器を置いた。",
+      "口封じって何？！",
+      "今の電話の相手は……誰？！…………………ッ！！！",
+      "魅音は襟首を掴んだまま、私に額を寄せて……言った。"
+    ],
+    "textEn": [
+      "Mion put down the phone after a short conversation.",
+      "What did she mean, make sure nobody talks about this?",
+      "Who called any...way?! ............!!!",
+      "Mion put her forehead to mine and spoke to me."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………聞いてた…？」"
+    ],
+    "textEn": [
+      "\"Did you hear?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何に対して聞いてたと言ってるのか…！！",
+      "そんなのすぐ分かる、鬼婆との会話を聞いてしまったかどうかだ。",
+      "でも、聞いたと答えればどういうことになるか、想像もつかない。"
+    ],
+    "textEn": [
+      "Which conversation was she asking me about?!",
+      "Well, she had to be talking about the one with the hag.",
+      "If I said yes, what would happen to me?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………し、",
+      "…知ら…………、",
+      "……あはは、",
+      "…何のことか、",
+      "わかんない……。",
+      "………ぁぅ…！」"
+    ],
+    "textEn": [
+      "\"...I...",
+      "don't...",
+      "ahaha...",
+      "I don't know",
+      "what you're talking about...",
+      "Ahhhh...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は襟首をぐっと引き絞ると、私に鼻をぶつけながら言った。"
+    ],
+    "textEn": [
+      "Mion pulled my collar, pressed her nose on mine, and continued to speak."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………………聞こえた通りです。",
+      "……富竹さんと鷹野さんが、オヤシロさまの祟りに遭われました。",
+      "……………本当にお気の毒なことです。」"
+    ],
+    "textEn": [
+      "\"Just what you heard.",
+      "The curse of Oyashiro-sama fell upon Tomitake-san and Takano-san.",
+      "It's really very unfortunate...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それはまるで、鏡の中の私が囁きかけるよう。",
+      "だが口にするそれは、凍てつく冬に触れる鏡のような、冷え切ったもの…。"
+    ],
+    "textEn": [
+      "It was like I was talking to myself in a mirror.",
+      "But what I was saying in the mirror was ever so cold."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………お姉…、",
+      "あはは、",
+      "…………オヤシロさまの祟りって、",
+      "…何です……？」"
+    ],
+    "textEn": [
+      "\"...Sis...",
+      "Ahaha...",
+      "what is",
+      "the curse of Oyashiro-sama?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「富竹さんは、自らの手で喉を掻き毟ってお亡くなりになりました。",
+      "……鷹野さんは遠くの山奥で、ドラム缶に詰められて焼き殺されたそうで。",
+      "…実にお気の毒です。」"
+    ],
+    "textEn": [
+      "\"Tomitake-san killed himself by clawing out his throat.",
+      "Takano-san was burned to death in an oil drum.",
+      "...Terrible, isn't it.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…富竹さんが自分の手で喉を掻き毟って死んだって？！",
+      "何それ！",
+      "鷹野さんがドラム缶に詰められて焼き殺されたって？！",
+      "何それ…何それ！！",
+      "背筋を毛むくじゃらの毛虫が這い上がってくるような悪寒。",
+      "そして、胃がデングリ返って痙攣しそうになる圧迫感。",
+      "腰から下がぼーっとして…魅音に襟首を放されたら、そのまま崩れ落ちてしまいそうだった。"
+    ],
+    "textEn": [
+      "Tomitake-san clawed at his own throat until he died?",
+      "What?",
+      "Takano-san was burned to death in an oil drum?",
+      "What? What??",
+      "I felt something furry crawl up my spine.",
+      "I also felt like my stomach was turning upside down.",
+      "I didn't feel any strength in my legs. If Mion let go of my collar, I'd probably collapse on the spot."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………な……なんで、",
+      "……そんな死に方……、",
+      "したのかなぁ……。」"
+    ],
+    "textEn": [
+      "\"Wh, Why",
+      "did they die",
+      "that way?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「わかりませんか、…詩音……？」"
+    ],
+    "textEn": [
+      "\"Don't you know, Shion?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…わからないから…聞いてるんだって……。"
+    ],
+    "textEn": [
+      "I'm asking you because I don't know..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「わか、わかんないよ……あはははは………、」"
+    ],
+    "textEn": [
+      "\"I, I don't know... Ahahaha...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「理由なんて、ひとつしかないじゃないですか。」"
+    ],
+    "textEn": [
+      "\"Don't you see there can be only one reason?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その、まるで自分の胸に聞いてみろみたいな言い方は勘弁…。"
+    ],
+    "textEn": [
+      "Please don't talk as if I already know the answer..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…何の…り、理由かなぁ…。」"
+    ],
+    "textEn": [
+      "\"What do you mean?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "心臓がばくばくする。",
+      "…血の混じった熱い排気が喉の奥から込み上げて窒息しそうになる…。"
+    ],
+    "textEn": [
+      "My heart was pounding.",
+      "I felt that my next breath would be so bloody and hot that I'd choke on it..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そんなこともわかんないのですか？」"
+    ],
+    "textEn": [
+      "\"Don't you know?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "「オヤシロさまのお怒りに、触れたから。」",
+      "１年目はダム工事の現場監督。",
+      "２年目は村の裏切り者。",
+      "３年目は村の日和見者。",
+      "４年目は村の裏切り者の縁者。",
+      "ダム戦争に縁がある人間だけが犠牲になると、心のどこかで決め付けていた。",
+      "自分はダム戦争の時、何も嫌われることをしていないからセーフティー。",
+      "勝手にそう決め付けていた。",
+      "自分だってわかってたじゃないか。",
+      "オヤシロさまの祟りってことになってるって。",
+      "そう、オヤシロさまの祟りってのはオヤシロさまのお怒りってことも知ってた。",
+      "そりゃ、祭具殿に勝手に侵入すれば…オヤシロさまに怒られるだろうなぁくらいには思ってた。",
+      "でも、それでも、自分はダム戦争の戦犯じゃないから、犠牲者になるなんてことは絶対にないと思ってた。",
+      "そもそも私は５年目も事件が起こるなんて思ってた…？",
+      "いや、そもそも、自分が５年目の犠牲者に選ばれるなんて、思ってた…？！",
+      "祭具殿に忍び込んだ富竹さんは自分で喉を引き裂いた？！",
+      "鷹野さんはドラム缶に詰められて焼き殺されたって？！",
+      "……嘘、馬鹿、信じらんない、いくら禁断の祭具殿ったって、単なる拷問道具の倉庫でしょ？！",
+      "そこにちょいと空き巣の真似事をした位で…やる？！",
+      "殺る？！",
+      "ここまで酷い殺し方ができちゃうのッ？！",
+      "……………………できるだろうな、と。",
+      "思った。",
+      "私に爪を剥がさせた、あの園崎本家なら、できるだろうな、と。",
+      "毎年の連続怪死事件を裏で操る園崎本家なら、できるだろうな、と。",
+      "ダム戦争時にあれだけ暗躍し、大臣の孫すら誘拐してのけた園崎本家なら、できるだろうな、と。",
+      "……悟史くんを、いなかったことにしてしまえる園崎本家なら、できるだろうな、",
+      "と。",
+      "魅音は私にしな垂れかかって、",
+      "……そして、ずるずると滑り落ち、冷たい廊下にバタンと。",
+      "…割と乱暴に倒れた。",
+      "本来ならスタンガンなんて重くて邪魔なものを、身に付けたまま寝たりはしない。",
+      "…だが、疲れてひたすら眠くって、寝る身支度なんてしないで布団に潜り込んだから。",
+      "…私はスタンガンを持っていた。",
+      "私は今こそ、…理解する。",
+      "手を直接に下したのが誰なのかはわからなくても。",
+      "誰が、何の思惑で誰に指示をしたにしても。",
+      "誰が誰に気を利かせたにしても。",
+      "……それを魅音や鬼婆は知っている。",
+      "悟史くん。",
+      "………私、やっとわかったよ。",
+      "私が、やらなくちゃならないことが、やっとわかった。",
+      "悟史くん、君の無念はきっと私が晴らすから。",
+      "…悟史くん、君の仇はきっと私が討つから。",
+      "…悟史くん、私は君みたいに、……殺されないから。",
+      "私が鬼婆の部屋に入った時。",
+      "鬼婆は何かの薬を飲む為に布団から体を起こし、私に背を向けるようにしていた。",
+      "私たちは双子。",
+      "まったく同じように踏み入れば、気配も何も変わらない。",
+      "鬼婆は多分、私のことを魅音だと最後まで信じきっていたと思う。",
+      "首筋に禍々しい器具を押し付ける。",
+      "躊躇なくスイッチを入れる。",
+      "…電気の爆ぜる、形容のしにくい音がして、まるでスタンガンのスイッチが、鬼婆自身のスイッチでもあったみたいに。",
+      "…ストンと、ねじれた格好で鬼婆は倒れた。",
+      "スタンガンで気絶させた相手がどのくらいで自由を取り戻すか、よくわからない。",
+      "二人が意識を取り戻す前に自由を奪わなくては。",
+      "私は信じられないくらい冷静だった。",
+      "地下の拷問室の鍵束は、",
+      "…以前、魅音が教えてくれた“頭首しか触れてはならない隠し引き出し”にしまわれていることを知っていた。",
+      "初めて探す引き出しだが、かつて魅音が教えてくれたイメージ通りの場所にあった。",
+      "鍵束には、殊勝にも全ての鍵に、使う場所が記されたプレートが付けられていた。",
+      "魅音の字だった。",
+      "……あの馬鹿の律儀さが役に立つ。",
+      "私はそれをポケットにしまうと、外の納戸へ向かい、一輪の台車を探し出した。",
+      "大型の懐中電灯もあった。",
+      "それには紐がついていたので肩に掛けてぶら下げる。",
+      "……魅音と鬼婆の二人を運ぶためには、両手が自由になっているのは都合がよかった。",
+      "それから魅音、鬼婆の順に台車で地下拷問室前へ運び込む。",
+      "途中で目を覚ましそうになったら、もう一度スタンガンを食らわせてやろうと思ったが、",
+      "…その威力は想像してたより遥かに強力で、鬼婆はまるで目を覚ます様子がなかった。",
+      "ずいぶん前に、葛西になるべく強力なやつを用意してほしいと言って取り寄せさせたものだった。",
+      "改造品で、護身の域を超えた出力が出せるから、悪戯には決して使わないように釘を刺されたっけ。",
+      "懐中電灯で照らしながら、灯りのスイッチを探す。",
+      "…簡単に見つかった。そのスイッチを入れる。",
+      "地下の全ての灯りが灯ったようだった。",
+      "…もっとも足元が分かる程度のぼんやりした灯りにしかならなかったが。",
+      "私は、二人が目を醒ますより早く終わらせようと、躊躇なく無駄なく、二人の体をてきぱきと運び込んだ。",
+      "まず魅音を、拷問室の奥にある牢屋に閉じ込めることにする。",
+      "拷問室だけは灯りがふんだんで、真昼のように明るくなっていた。",
+      "その奥に扉があり、…確か、その向こうには牢屋があると言っていたっけ。",
+      "扉の鍵は…………これか。",
+      "鍵を開けるがちゃがちゃという音が、残響する。",
+      "……扉の隙間から冷え切った空気が漏れてくるのもわかった。",
+      "扉の向こうは、相当広い空間であることがうかがえた。",
+      "扉を開けると、……何も見えない漆黒が広がっていた。",
+      "灯りのスイッチがすぐ脇にないかと手探りで探すと、案の定、それらしきものに触れた。",
+      "スイッチを入れると……いくつかの裸電球に明かりが灯り、むき出しの岩肌の大空洞が広がった。",
+      "自然の洞窟というよりは、まるで防空壕の跡か何かのように見えた。",
+      "それらのあちこちに鉄格子のはめられた岩窟がある。",
+      "……岩牢だった。",
+      "一番近い岩牢に近付き、監禁に足るかを調べる。",
+      "鉄格子を押したり、引いたり。",
+      "最後には体当たりもしてみるが、華奢な感じはまったくない。",
+      "牢の名に恥じぬ冷酷な頑丈さがあった。",
+      "私は鍵を開け、魅音を運び込んだ。",
+      "…私の筋力はごくごく平均的。",
+      "人の体を軽々と持ち運べるような力があるとは思わなかった。",
+      "……だが、非力なふりをする必要がないことを知った今の私は、何の苦もなく彼女らの体を担ぎ上げたり、引き摺ったりすることができた。",
+      "魅音を岩牢の奥へ放り込む。",
+      "………魅音が少し呻いた気がした。",
+      "注意深く観察するまでもない、スタンガンの効果が切れ始めているのがわかった。",
+      "私は鉄格子を閉め鍵をすると、同じく目を醒ましかけているに違いない鬼婆のもとへ走った。",
+      "だが幸いなことに、鬼婆の方はまだぐったりしていて身動きひとつできなかった。",
+      "…やはり若さなどで個体差があるらしい。",
+      "私は鬼婆の体を縛り付けるための拘束台を探した。",
+      "…両手両足を拘束する車椅子を見つけ、それに鬼婆を座らせる。",
+      "何の抵抗もしないけれど、重くてだらんとした鬼婆の体は、まるで肉で出来た大きなフランス人形みたいなものだった。",
+      "肘掛の部分に両手を置き、手首の部分に鉄環を締めて蝶番で固定した。",
+      "足も同じで、足首の部分で鉄環を締めて蝶番で固定する。",
+      "そもそも、車椅子を改造した拘束道具らしく、こうしてしまえば、あとは普通の車椅子と特別な違いはなかった。",
+      "私は鬼婆が目を醒ますのを待った。",
+      "鬼婆が目を醒ましたら聞きたいことは山ほどある。",
+      "素直に答えてくれるとは思わないが、ここにはそれを引き出すためのあらゆる道具があるのだ。",
+      "…私は焦るつもりはなかった。",
+      "鬼婆が憂慮すると、親族の誰かが気を利かせる。",
+      "それが園崎本家の指示の仕方だ。",
+      "とは言え、全ての情報は本家の頭首に集まる。",
+      "……この雛見沢で起こることで、鬼婆が知らぬことなどあろうはずがない。",
+      "たとえそれがオヤシロさまの祟りでもだ。",
+      "牢屋の方から、鉄格子を鳴らす音が聞こえてくる。",
+      "……鬼婆が目を醒ますより早く、魅音が目を醒ましたようだった。",
+      "鬼婆はまだ当分、目を醒ましそうにないが、たとえ醒ましても椅子に拘束された今、何も恐れることはない。",
+      "私は鬼婆をそのままにすると、目を醒ました双子のもとへ向かった。"
+    ],
+    "textEn": [
+      "\"It's because they made Oyashiro-sama angry.\"",
+      "The first year, it was the manager of the dam construction site.",
+      "The second year it was the traitors to the village.",
+      "The third year it was the pacifist.",
+      "The fourth year it was the relatives of the traitors.",
+      "I'd always thought the victims were people who had something to do with the dam conflict.",
+      "Since I didn't do anything against the village during the dam conflict,",
+      "I assumed I was safe.",
+      "I should have known.",
+      "I should have known everything would be the curse of Oyashiro-sama.",
+      "I knew Oyashiro-sama's anger was the curse of Oyashiro-sama.",
+      "I knew Oyashiro-sama would get angry if I snuck into the ritual storehouse.",
+      "But since I wasn't held responsible in any way for the dam conflict, I never thought I would be a victim of the curse.",
+      "Did I ever think there would be an incident in the fifth year?",
+      "Did I ever think that I'd be the victim of that fifth-year incident?!",
+      "Tomitake-san snuck into the storehouse, and he clawed at his own throat until he died!",
+      "Takano-san was burned to death in an oil drum!",
+      "It must be a lie, it couldn't be true.",
+      "Even if it was forbidden, it was just a space for storing some old torture implements!",
+      "How could they be killed for just sneaking in there?!",
+      "Especially in such gruesome ways?!",
+      "But I thought about it again and realized",
+      "that those people were absolutely capable of doing things like that.",
+      "The main Sonozaki family was capable of it.",
+      "The Sonozaki family had been pulling the strings behind the series of mysterious deaths. They could do it.",
+      "The Sonozaki family even kidnapped the grandson of the Minister of Construction during the dam conflict. They could do it.",
+      "The Sonozaki family made Satoshi-kun disappear completely.",
+      "They could do it.",
+      "Mion leaned against me",
+      "before falling onto the cold hallway floor.",
+      "She collapsed rather violently.",
+      "I usually didn't go to sleep with my stun gun.",
+      "But since I was too tired and sleepy to get ready for bed, I still had it on me.",
+      "I had my stun gun on me.",
+      "I finally understood.",
+      "I didn't know who killed them exactly.",
+      "Whose idea it was or who ordered it.",
+      "I didn't even know who was actually involved.",
+      "But Mion and the hag knew everything.",
+      "Satoshi-kun.",
+      "Now I finally know.",
+      "Now I know what I need to do.",
+      "I will settle the score for you, Satoshi-kun.",
+      "I will avenge you, Satoshi-kun.",
+      "I won't be killed like you, Satoshi-kun.",
+      "I walked into the hag's room.",
+      "She was sitting up to take some medicine. Her back was turned to me.",
+      "Mion and I are twins.",
+      "If I acted like her, the hag wouldn't notice the difference.",
+      "I didn't think she ever suspected me.",
+      "I put my stun gun to her neck,",
+      "and pulled the trigger.",
+      "I heard an indescribable electrical sound, and the hag's lights went out.",
+      "She fell in a twisted position.",
+      "I didn't know how long it would take a person to regain their freedom of movement after getting knocked out with a stun gun.",
+      "So I had to restrain them before they woke back up.",
+      "I was unbelievably calm.",
+      "The key to the underground torture room",
+      "was in the forbidden drawer that only the head of the family can access. Mion had told me about this once.",
+      "I'd never looked for the drawer before, but I found it exactly where I thought it would be.",
+      "The key was on a keychain with several of its sisters. Each key had a little plaque on it that said what it was used for.",
+      "They were all in Mion's handwriting.",
+      "She was an idiot for being so conscientious, but it sure helped me out.",
+      "I put the keychain in my pocket and headed to the outdoor storeroom to find a cart.",
+      "I found a large flashlight there as well.",
+      "There was a strap on the flashlight so I could put it on my shoulder.",
+      "That way, I'd have both hands free to carry Mion and the hag.",
+      "I loaded Mion and then our grandmother onto the cart and carried them to the underground torture room.",
+      "I was prepared to use the stun gun again if they woke up while I was working...",
+      "but it was more powerful than I imagined, and the hag showed no signs of waking.",
+      "This was the stun gun Kasai specially ordered for me when I told him I wanted a powerful one.",
+      "I remembered him telling me that it was an illegally modified stun gun and that I should never use it just for fun.",
+      "I used my flashlight to find the light switch.",
+      "I found it easily and turned it on.",
+      "All the lights went on in the basement.",
+      "Although there was now illumination, it was very dim.",
+      "I moved quickly so as to finish what I needed to do before they woke up.",
+      "I decided to put Mion in a cell beyond the torture room.",
+      "The lights in the torture room were so bright that it was like daylight.",
+      "There was a door there. I was fairly certain the cells were on the other side of that door.",
+      "The proper key was... here.",
+      "The keys made a tinkling sound.",
+      "I felt cold air coming in through the gap in the door.",
+      "There must be a huge opening on the other side.",
+      "I opened the door and I saw nothing but darkness.",
+      "I felt along the wall to find a light switch.",
+      "I turned the switch on... and the light bulbs lit up, revealing a huge rocky cave.",
+      "It didn't look like a natural cave. It looked more like an air-raid shelter.",
+      "There were several hollow openings with bars across them.",
+      "Those were the cells.",
+      "I walked up to the closest cell, and checked to see if it was strong enough to confine her.",
+      "I pushed and pulled on the bars.",
+      "I rammed against them with all my weight, and decided they were perfectly sturdy.",
+      "This was secure enough to be called a cell.",
+      "I opened the lock and carried Mion in.",
+      "I wasn't particularly strong. Just average.",
+      "I'd never thought I was strong enough to carry a whole person.",
+      "But now I didn't need to pretend to be weak. I could easily lift and drag their bodies.",
+      "I put Mion in the cell.",
+      "She seemed to moan a little.",
+      "I didn't need to check to make sure. The effect of my stun gun was wearing off.",
+      "I closed the bars and turned the key in the lock. Then I ran to the hag, who must've been starting to wake up too.",
+      "Fortunately, there was no sign of her regaining consciousness.",
+      "Maybe the difference in age had something to do with it.",
+      "I looked for a table to restrain her on.",
+      "I found a wheelchair with restraints for the hands and feet. I put the hag in it.",
+      "Of course she didn't resist, but her dead weight made it seem like she was a huge French doll, but one made of flesh.",
+      "I put her hands on the armrests, and restrained them at the wrists with the metal rings and hinges.",
+      "I did the same with her feet.",
+      "This must've been a wheelchair specially remodeled to restrain a person. Other than the restraints, it was a regular wheelchair.",
+      "I waited for the hag to wake up.",
+      "I had so many things I wanted to ask her.",
+      "I didn't think she'd answer honestly, but I had plenty of tools to make her talk.",
+      "I was in no rush.",
+      "When the hag had a concern, relatives took care of the problem.",
+      "That was how it worked in the Sonozaki family.",
+      "She was the leader of the family, so all the information they gathered would make its way to her.",
+      "She must know everything that happened in Hinamizawa.",
+      "Including the curse of Oyashiro-sama.",
+      "I heard a noise from the cell.",
+      "Mion must have woken up before the hag did.",
+      "Speaking of the hag, she didn't seem like she was about to wake up anytime soon, but she was restrained even if she did, so I had no need to fear.",
+      "I left the hag there and headed for the cell."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………………詩音…、…これは……何の真似ですか……？」"
+    ],
+    "textEn": [
+      "\"...Shion, what do you think you're doing?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は次期頭首のような喋り方だったが、その声色には怯えが混じり、自分の置かれた状況について、すでに理解しているようだった。"
+    ],
+    "textEn": [
+      "She talked like the successor, but she also sounded frightened. She obviously understood the situation she was in right now."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「おはよ、魅音。",
+      "まさか自分が閉じ込められることになるとは思わなかった？",
+      "あははは。」"
+    ],
+    "textEn": [
+      "\"Good morning, Mion.",
+      "You never thought you'd be in there, huh?",
+      "Ahahaha.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………園崎家頭首代行として命じます。",
+      "…ここを…開けなさい…。」"
+    ],
+    "textEn": [
+      "\"As the acting head, I order you.",
+      "Open this up.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あははははは、声色にひとつ凄みが欠けますね。頭首さまはもっと傲慢な言い方をしなきゃあね。",
+      "もっとも、そういう言い方ができたとしても、今のあんたは滑稽なだけなんだけどさ。",
+      "あははははははは！」"
+    ],
+    "textEn": [
+      "\"Ahahahaha, you don't sound so scary in there. You need to talk more like a leader, don't you think?",
+      "Though, talking that way will only make you look like a fool.",
+      "Ahahahahaha!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "別に可笑しいことはなかったが、魅音を威圧する意味で無理に笑った。",
+      "その声が大空洞にこだまして私の耳にも入る。",
+      "……無理な作った無機質な笑い声。",
+      "それらが反響して、幾重にもなって聞こえる。",
+      "まるで、私だけが笑ってるんじゃないみたいに。",
+      "自分の笑い声に自分でも嫌になり、私は無機質な笑いをやめる。",
+      "すぐに静寂が押し寄せた。",
+      "それが耳に痛かったので、私は静寂を破るため、何かを口にする。"
+    ],
+    "textEn": [
+      "There was nothing funny about it, but I wanted to intimidate Mion.",
+      "My laughter echoed throughout the cave.",
+      "It was artificial and meaningless laughter.",
+      "I heard it over and over as it echoed.",
+      "It sounded as if I wasn't the only one laughing.",
+      "I couldn't stand it, so I stopped.",
+      "Silence filled the air.",
+      "That silence almost hurt my ears, so I started to speak."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「富竹さんと鷹野さんが今年の犠牲になるとはね…。",
+      "…思わなかった。」"
+    ],
+    "textEn": [
+      "\"Tomitake-san and Takano-san becoming the victims this year.",
+      "I didn't expect that...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\"......\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「鷹野さんのドラム缶に詰めて焼き殺したってのもなかなかやるね。",
+      "まぁ、あの人はそういう死に方を自分で希望してたっぽいからね。",
+      "結構満足してるかもよ？",
+      "くすくすくす。」"
+    ],
+    "textEn": [
+      "\"What an idea to burn Takano-san to death.",
+      "But actually, she would be the kind of person who'd prefer to die that way.",
+      "Maybe she's satisfied, huh?",
+      "Hee hee hee.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は余計な口を挟まず、私の出方をうかがうような眼差しで見ていた。"
+    ],
+    "textEn": [
+      "Mion didn't say anything. She just stared at me to see how I'd proceed."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「富竹さんの、自分で自分の喉を引き裂いたってのは何？",
+      "意識をおかしくさせるような怪しいお薬でも注射したの？",
+      "それとも、そういう死に方に見せるような道具でもあるわけ？」"
+    ],
+    "textEn": [
+      "\"What about the way Tomitake-san died? He clawed out his own throat, right?",
+      "Did you give him a shot of some kind?",
+      "Or is there a torture device that did that to him?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は答えなかった。",
+      "……私は余裕ぶって不敵な笑みを浮かべていたが、すぐに痺れを切らし、いらついて鉄格子を蹴飛ばした。",
+      "その乱暴な音が、残響して何度も何度もこだまする。",
+      "魅音はまるで自分が蹴られたみたいに、びくっと体を震わせた。"
+    ],
+    "textEn": [
+      "Mion didn't reply.",
+      "I was smiling boldly, but I became impatient and finally kicked the bars.",
+      "It made a violent noise.",
+      "Mion jumped as if she was kicked directly."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……返事がないと退屈です。私を怒らせるとどんな得が？」"
+    ],
+    "textEn": [
+      "\"It's boring not to get any answers. Do you have any idea what will happen if I get angry?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……わ…………私が……知るわけないでしょ…。」"
+    ],
+    "textEn": [
+      "\"H-How... How would I know...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音はやっとそれだけを言い返した。",
+      "憎々しげではあったが、やはりどこか頼りなく、哀れな声色だった。"
+    ],
+    "textEn": [
+      "Mion finally replied.",
+      "She was odious, but at the same time, sounded pitiful."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ねぇ、魅音。",
+      "次期頭首さま。",
+      "ここまで来ちゃったんだから教えて下さいな。",
+      "………………えっと、………。」"
+    ],
+    "textEn": [
+      "\"Hey, Mion.",
+      "As the successor,",
+      "why don't you tell me?",
+      "...Let's see...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今の私にとって、聞きたい問いはあまりに多すぎた。",
+      "自分のこと、",
+      "事件のこと、",
+      "祟りのこと、",
+      "悟史くんのこと。",
+      "…どれから聞けばいいか、順位なんて付けられなかった。",
+      "それらを聞く前に、まず聞く。"
+    ],
+    "textEn": [
+      "I had just too many things I wanted to ask her.",
+      "I wanted to ask her about me,",
+      "about the incident,",
+      "about the curse,",
+      "about Satoshi-kun.",
+      "I didn't even know where to start.",
+      "Before I asked her about those, I asked her one other thing."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………私に対して、反抗的な態度を取っても何の得にもならないこと、理解してますよね？」"
+    ],
+    "textEn": [
+      "\"You know there's no point in trying to resist, don't you?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………………………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は無言で睨み返してくる。",
+      "…だが、双子だからこそ、それが空威張りの虚勢に過ぎないことがわかっていた。"
+    ],
+    "textEn": [
+      "Mion glared at me silently.",
+      "Because we were twins, I knew that was just a bluff."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………もうここまでやっちゃった以上、私も引っ込みがつかないんで。",
+      "……お姉も、私に容赦とか躊躇とか、そういうものをあまり期待しない方がいいかもです。」"
+    ],
+    "textEn": [
+      "\"We've come this far, so there's no point in me hesitating anymore.",
+      "You shouldn't expect hesitation or even mercy from me, Sis.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の頬を、きっと冷たい汗が伝っているに違いなかった。",
+      "表情が凍り付いているのがこの暗がりでもよくわかる。"
+    ],
+    "textEn": [
+      "Mion must've been feeling the cold sweat on her face.",
+      "Although the light was dim, I could tell she was frightened."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「じゃ、聞くよ。",
+      "………………雛見沢村連続怪死事件。",
+      "通称オヤシロさまの祟り。",
+      "…これってどういう意味があるの？",
+      "…やっぱりダム戦争のけじめってやつ？」"
+    ],
+    "textEn": [
+      "\"Okay, here I go.",
+      "First, about the series of the mysterious deaths in Hinamizawa",
+      "also known as the curse of Oyashiro-sama.",
+      "What's the meaning of it?",
+      "Is it to signify the end of the dam conflict?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………、",
+      "…私は、",
+      "…………ん、",
+      "……多分そうだと思ってる。」"
+    ],
+    "textEn": [
+      "\"......",
+      "I...",
+      "hmmm...",
+      "I think so......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は私の問いかけに、少し戸惑いはあったけど、拒まずに答えた。",
+      "私はコミュニケーションが成立していることに笑みを浮かべ、先を続けた。"
+    ],
+    "textEn": [
+      "Mion sounded a little confused, but she answered.",
+      "I felt satisfaction now that we were communicating. I continued with a smile."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「思ってるって言い方が少し頼りないね。",
+      "…その辺りの事情は詳しくないの？」"
+    ],
+    "textEn": [
+      "\"You think, huh?",
+      "Don't you know the details?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………詩音だって分かってるでしょ？",
+      "次期頭首なんて、婆っちゃの取り次ぎに過ぎないよ…。」"
+    ],
+    "textEn": [
+      "\"You know yourself",
+      "that the successor is simply a messenger for Granny...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……もっともらしいことを言う。"
+    ],
+    "textEn": [
+      "Yeah, right."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「その頭首さまと意思を疎通させて、以心伝心なのが次期頭首さまの役目でしょ？",
+      "取り次ぎに過ぎないなんて信じると思う？」"
+    ],
+    "textEn": [
+      "\"But the successor must know everything the current head is thinking, right?",
+      "Do you really think I believe you're just a messenger?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………いつも身近にいる私だって、…たまに婆っちゃが何を考えてるのか分からない時があるもん。",
+      "……何でもかんでも私が理解してるわけじゃない。」"
+    ],
+    "textEn": [
+      "\"......Although I'm always around Granny, I don't always know what she's thinking.",
+      "It's not like I can understand her all the time.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「じゃあ、オヤシロさまの祟りってのは、鬼婆が全部、独断で決めてるわけなんだ？",
+      "次期頭首さまと相談して決めてるのかと思ったよ。」"
+    ],
+    "textEn": [
+      "\"Okay, so you're saying that everything about the curse of Oyashiro-sama is decided by the hag herself, right?",
+      "I assumed she'd talk to the successor about it.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………ヤバい話は全部婆っちゃが独りで決めてる。",
+      "私なんか与り知る余地もない。」"
+    ],
+    "textEn": [
+      "\"When it's something dangerous, Granny decides it on her own.",
+      "I don't have anything to do with it.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「でも、バァさんの独断だとしたって。",
+      "アイツはあんたを介してやり取りしてるわけでしょ？",
+      "そのあんたが何も知らないなんてあるはず、」"
+    ],
+    "textEn": [
+      "\"But even if she decides by herself,",
+      "grandma uses you to take care of various things, doesn't she?",
+      "And you're telling me you don't know anything?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「違うよ…！",
+      "………私なんかを介していない。",
+      "……………私にだってよくわからないんだけど…、",
+      "私が「陽」の部分を取り次いでるとしたら、………「陰」の部分を取り次いでいる誰かがいると思う。」"
+    ],
+    "textEn": [
+      "\"No...!",
+      "...She doesn't use me for that.",
+      "......I really don't understand it myself,",
+      "but it's like I take care of problems on the surface and someone else takes care of problems on the underside.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…誰。",
+      "その「陰」の部分の取り次ぎって。」"
+    ],
+    "textEn": [
+      "\"...Who?",
+      "Who is the one that takes care of these 'underside problems'?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「知らない…。」"
+    ],
+    "textEn": [
+      "\"I don't know...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「誰かを招いて話してるとことか、電話をしているとことか見たことない？",
+      "……強いて言えば、毎年、オヤシロさまの祟りの時期になると連絡量がどっと増える相手ね。」"
+    ],
+    "textEn": [
+      "\"Haven't you seen anyone? Haven't you overheard a phone conversation?",
+      "It must be someone who gets in touch with the hag at the same time every year, around the time the curse happens.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………わかんない。",
+      "…心当たりなんかないよ…。」"
+    ],
+    "textEn": [
+      "\"I don't know.",
+      "I really don't...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音はこれ以上を聞かれても、何も答えようがないと、小さく首を振った。"
+    ],
+    "textEn": [
+      "Mion shook her head."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ま、いいや。",
+      "……じゃ、質問を変えるね。",
+      "今年の祟りの、富竹さんと鷹野さんはダム戦争に直接関係してないのに、なぜ犠牲に選ばれたの？",
+      "……やっぱり、祭具殿に忍び込んだから？」"
+    ],
+    "textEn": [
+      "\"Okay,",
+      "let me change the question.",
+      "Why were Tomitake-san and Takano-san chosen as victims, even though they had nothing to do with the dam conflict?",
+      "Was it because they snuck into the ritual storehouse?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "祭具殿という言葉を耳にした途端、魅音の顔色が変わった。"
+    ],
+    "textEn": [
+      "As soon as Mion heard the words \"ritual storehouse,\" her expression shifted."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「祭具殿に？！",
+      "古手神社の祭具殿を侵したの…ッ？！」"
+    ],
+    "textEn": [
+      "\"The ritual storehouse?",
+      "Did they intrude on the storehouse at the Furude Shrine?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………ありゃ。",
+      "知ってるとばかり。」"
+    ],
+    "textEn": [
+      "\"Didn't you know?",
+      "I thought you already knew.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………………そんなことをしたら………、",
+      "…馬鹿……当然だよ……………！」"
+    ],
+    "textEn": [
+      "\"If they really did that",
+      "then it was truly stupid of them... Of course something would happen to them!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は苦々しく言いながら俯き、首を何度も振る…。",
+      "…私はその魅音の反応を見て、今さらながら祭具殿の禁を破ることの意味を感じていた。",
+      "祭具殿は神聖な建物だから入ってはいけない、入ると祟りがある。",
+      "…そんなのは雛見沢に縁のある子どもなら誰でも知っている常識だ。",
+      "でも、知ってるからと言って、信じているとは限らない。",
+      "祟りがあると脅されてはいても、子どものほとんどはそこそこに面白怖がりながらも、まさか本当に祟りがあるなんて信じちゃいない。",
+      "…その程度だ。",
+      "だが、魅音の反応はそんな甘えた認識とはかけ離れていた。",
+      "そんなことしたら当然だよ。",
+      "祭具殿に忍び込んだら、…殺されても当然だよ。",
+      "…そう言っているのだ。"
+    ],
+    "textEn": [
+      "Mion muttered bitterly while shaking her head repeatedly.",
+      "Mion's reaction made me realize the true meaning of the forbidden storehouse for ritual implements.",
+      "The ritual storehouse is a sacred building, so nobody can go inside. The curse will fall upon any who disobey.",
+      "Any child would know that rule.",
+      "However, just because they knew about it didn't mean that they all believed in it.",
+      "Although they were told they would be cursed, most of the kids actually enjoyed hearing the stories.",
+      "They simply didn't believe it was true.",
+      "However, Mion's reaction told me it absolutely was.",
+      "If they actually did that... of course something would happen to them.",
+      "She was saying that if someone snuck into the ritual storehouse,",
+      "that person should be killed."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「私がこっちに帰って来て以降、たまに魅音とは認識が食い違いますね。"
+    ],
+    "textEn": [
+      "\"What you know and what I know aren't matching up anymore."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "……そりゃ私だって、祭具殿が迂闊に入っちゃヤバいとこだってのは知ってますけど、",
+      "…あんな死に方しても当然だ、ってほどヤバいとは思わないんだけど…？",
+      "私たちだって、その程度の認識じゃなかったでしたっけ？」"
+    ],
+    "textEn": [
+      "Of course I'm aware I shouldn't just waltz into the storehouse.",
+      "But to be killed in such a gruesome way for doing it?",
+      "I never knew that. Did you?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……それは、詩音がよく知らないだけだよ。」"
+    ],
+    "textEn": [
+      "\"That's just because you're ignorant about it, Shion.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「すみませんね、…よく知らなくて。",
+      "説明をいただいてもよろしいですか？」"
+    ],
+    "textEn": [
+      "\"Well, sorry for being ignorant...",
+      "Could you please explain it to me?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そりゃ詩音の言うとおり、子供の世界では…ヤバいとか祟りがあるとか言ったって、",
+      "どうせ迷信に過ぎないだろう、でも大人にバレたらかなり怒られるんだろうな…って程度の認識だと思う。"
+    ],
+    "textEn": [
+      "\"Just like you said, the kids don't really believe in the curse.",
+      "They assume it's just superstition. But they also know that if an adult found out, they'd be in big trouble."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "………でもね、……雛見沢の古老たちにとってはそんな甘いものじゃないの…！」"
+    ],
+    "textEn": [
+      "But... to the elderly people of Hinamizawa, it's something more serious...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は、村の老人たちがいかにオヤシロさまを妄信し、祭り事をどれだけ神聖視しているかを話した。",
+      "私たち若い世代にはわからない、根強く偏執的なくらいのオヤシロさま崇拝。",
+      "……その中において、祭具殿の禁を犯すことがどれほどの禁忌なのか、を。",
+      "…私は、そんな馬鹿な、とか、昭和の世の中に馬鹿馬鹿しい、とか。",
+      "……そんな相槌を打つのが精一杯だった。",
+      "でも。",
+      "…この信じ難い内容も、もうひとりの私の口から紡がれる以上、聞き捨てるのは容易ではない…。"
+    ],
+    "textEn": [
+      "Mion explained to me how the elderly people blindly believe in Oyashiro-sama, and how sacred the festivals are to them.",
+      "It's probably something the younger generations would never understand, but they're possessed by a very strong, deeply rooted devotion toward Oyashiro-sama.",
+      "Mion then went on to tell me about how sinful it was to violate the rule of the ritual storehouse.",
+      "I just couldn't believe things like that were still going on even in the modern day.",
+      "I couldn't even reply appropriately.",
+      "But...",
+      "even if it was unbelievable, I couldn't ignore what I was hearing from my twin sister..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………なるほどね…。",
+      "でもさ魅音。"
+    ],
+    "textEn": [
+      "\"I see...",
+      "But Mion..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "祟りで１人が死んだら、それを相殺する意味で１人を生贄にするのがルールじゃなかったっけ？",
+      "生贄の死体は出ない。",
+      "…なのに今回は二人とも死体が出ちゃってるんだけど。"
+    ],
+    "textEn": [
+      "Doesn't the rule say that one victim gets killed by the curse and another has to become a sacrifice?",
+      "The body of the sacrifice is never to be found.",
+      "But there are two dead bodies this time."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "その辺りはどう見る…？」"
+    ],
+    "textEn": [
+      "What do you think of that?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は鷹野さん、富竹さん、そして私と圭一が祭具殿に忍び込んだことを知らない。",
+      "…だから敢えてカマをかける。"
+    ],
+    "textEn": [
+      "Mion doesn't know that besides Takano-san and Tomitake-san, Keiichi and I also snuck into the ritual storehouse.",
+      "So I tried to lead her a little."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……………確かに、",
+      "……おかしいね。」"
+    ],
+    "textEn": [
+      "\"I know...",
+      "that doesn't make sense.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「鷹野さんの焼死体は、見つかっちゃいけなかったってことなのかな。",
+      "……本当は鷹野さんは失踪ってことになるのがパーフェクトだったのかなぁ？」"
+    ],
+    "textEn": [
+      "\"Maybe Takano-san's burned body wasn't supposed to be found.",
+      "Maybe the intention was for her to vanish.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…あるいは……………、",
+      "………ん、",
+      "……自信はないけど……。」"
+    ],
+    "textEn": [
+      "\"...Or...",
+      "...hmmm,",
+      "I'm not too sure, but...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「何？",
+      "根拠なんかいらないから言ってみてよ。怒らないから。」"
+    ],
+    "textEn": [
+      "\"What?",
+      "Just say what you're thinking. I won't get mad.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は口ごもっては飲み込みを二度ほど繰り返してから、おずおずとそれを口にした。"
+    ],
+    "textEn": [
+      "Mion hesitated a little first and then started to speak."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……祭具殿に忍び込んだのは実は４人、……とか。」"
+    ],
+    "textEn": [
+      "\"Actually, four people snuck into the shrine storage... so maybe...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………………ふぅん？",
+      "それで？」"
+    ],
+    "textEn": [
+      "\"Hmm......?",
+      "Maybe what?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………で、…もう２人は生贄ってことで「鬼隠し」になってるんじゃないかな…。」"
+    ],
+    "textEn": [
+      "\"Maybe the other two will become the sacrifices and get demoned away...\""
+    ]
+  }
+]

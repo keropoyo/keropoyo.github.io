@@ -1,0 +1,1137 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "垣根を草刈機で剪定するやつらは、なるほど私が学校の敷地を出ないように監視しているかのようだった。",
+      "万が一、私が勘付いて逃げ出さないとも限らないのだから。",
+      "……だが、それは放課後のことだと甘く見ていたに違いない。",
+      "私が今気付き、今逃げ出すとまでは思わなかったろう。",
+      "正門から堂々と出れば絶対にバレてしまう。",
+      "私は裏へ回り込むと、カレー菜園の周りに誰もいないことを確認した上でそこを駆け抜け、林の中へ飛び込んだ。",
+      "枯れ木を踏み砕き、苔むした倒木を踏み越え、不愉快な枝葉を潜り抜ける。",
+      "やがて、小道に出た。",
+      "今日までの１年間、部活などを通してこの村の様々な裏道や抜け道について精通していたことが幸いだった。",
+      "取り合えず、どうしよう……。",
+      "私が伝言を頼んだ子は、もうとっくに知恵先生に早退を伝えているだろう。",
+      "今頃連中は私が逃げ出したことを知り、慌てているに違いない。"
+    ],
+    "textEn": [
+      "They were mowing the grass near the fence, which was probably a cover to monitor the surroundings.",
+      "Just in case, I tried to escape from the school.",
+      "...But they must have been thinking that would happen only after school was over.",
+      "They seemed to have no idea that I'd already noticed their plan and was trying to run away right at that very moment.",
+      "I couldn't use the front gate, since they'd find me easily.",
+      "I moved behind the school building, made sure nobody was around the curry garden, ran through it, and dashed into the forest.",
+      "I walked through the dense undergrowth, stepping on dead wood and climbing over fallen trees.",
+      "After walking through the forest for a while, I came to a small road.",
+      "I know many back roads in this village because of our club activities, and that knowledge had finally come in handy.",
+      "So, what should I do now...?",
+      "I'm sure the girl already passed on my message to Chie-sensei.",
+      "Those men must be going crazy by now, knowing that I ran away."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「竜宮さんの早退を他に聞いている人はいませんか？」"
+    ],
+    "textEn": [
+      "\"Did anyone else talk to Ryuugu-san before she left school?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "クラス中のみんなが互いの顔を見合わせ、首を横に振った。",
+      "知恵先生としては、いくら体調不良とは言え、自分に断りもなく早退したことが気に入らないようで、少しご機嫌斜めだった。"
+    ],
+    "textEn": [
+      "Everybody in the class looked at each other and shook their heads.",
+      "Chie-sensei looked a bit upset that Rena left school early without telling her in person."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「でもレナさん、最近はいつも体調悪そうでございましたものねぇ。」"
+    ],
+    "textEn": [
+      "\"Rena-san has been feeling sick these days.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー。」"
+    ],
+    "textEn": [
+      "\"......Meep.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「レナ、鞄なんかも置きっぱなしだし。",
+      "……どうしちゃったんだろ？」"
+    ],
+    "textEn": [
+      "\"She left her bag here.",
+      "...What happened to her?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………何だか、嫌な予感がするぜ。」"
+    ],
+    "textEn": [
+      "\"............I have a bad feeling about this.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ふぇ？」"
+    ],
+    "textEn": [
+      "\"What?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺にだけは何となくわかった。",
+      "……確信はないが、とても嫌な予感がした。",
+      "また何か、…とんでもない与太話を真に受けて、……突飛もないことを始めてるんじゃないだろうか…。",
+      "私は急ぎ家に帰った。",
+      "父は新しい仕事先にもう行ってるのか、買い物に出掛けているのか。",
+      "…とにかく家は留守だった。",
+      "やつらがすでに動き出している以上、今や自宅など決して安全地帯ではなかった。",
+      "相手は、建設省を占領することを念頭に訓練を重ね、実際に大臣の孫を誘拐してのけたような恐ろしいやつらだ。",
+      "多少の戸締りなど何の意味もあるまい。",
+      "むしろ自ら袋小路に飛び込むのに似ている。",
+      "……もう我が家には留まれないことを悟る。",
+      "それはとてもとても悲しくて悔しいこと。",
+      "リナと鉄平を殺して、私たち親子は再び平穏な生活を取り戻せたはずなのだ。",
+      "それなのに、……それなのにどうしてこんなことに？！",
+      "圭一くんがかつて言った言葉が脳裏に蘇り、私の気持ちをこれ以上なく代弁して見せた。"
+    ],
+    "textEn": [
+      "I think I know what's going on.",
+      "...I'm not sure, but I have a very bad feeling about this.",
+      "She must've taken another ridiculous story seriously or something... I hope she won't do anything crazy...",
+      "I hurried home.",
+      "My father might be at his new job, or he might've gone shopping.",
+      "...He wasn't around when I got there.",
+      "Now that they're on the move, I'm no longer safe in my house.",
+      "They're very dangerous people. They're trained to be capable of attacking the Ministry of Construction, and they actually pulled off the kidnapping of the grandson of the Minister.",
+      "Locked doors and windows don't mean anything to them.",
+      "In fact, it'd be like I was hiding in a box, which they could just open up to get at me.",
+      "...I could no longer stay at my home.",
+      "It's very sad, and very frustrating.",
+      "I killed Rina and Teppei, and finally regained a peaceful life with my father.",
+      "How could this happen to me?!",
+      "I remembered what Keiichi-kun told me before. It expressed my feelings better than anything."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「鷹野さんめ、とんでもない置き土産を…！」"
+    ],
+    "textEn": [
+      "\"Takano-san left us a huge parting gift...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どうして私にあんな恐ろしいスクラップ帖を？！",
+      "どうして私にあんなにもとんでもない陰謀の秘密を？！",
+      "私は巻き込まれただけなんだ。",
+      "私に非はない、全部三四さんが悪いんだ！",
+      "でも、三四さんの話に興味を持ち、好奇心で先を促したのは私だ。",
+      "せっかく忘れていた茨城の最後の頃の記憶を蘇らせてしまい、それを三四さんに話してしまったのは私だ。",
+      "三四さんに話せば何かの救いになるかもしれないと思って甘えたのは私だ。",
+      "あのまま、私は奇怪な出来事を全て忘れたままでいればよかったのだ！",
+      "そうすれば、私はあんなとんでもない陰謀なんかに巻き込まれることなく、今日もきっと、みんなと楽しく部活をして過ごせていたに違いないのに！！",
+      "……でも、知らなかったとしたって、結局、陰謀は水面下で進んでいた。",
+      "そして「オヤシロさまの復活の日」に、私は何も知らず逃げ惑う群集Ａとして、彼らの陰謀に飲み込まれただけなのかもしれない。",
+      "どうせ破滅する世界なら、知らずにその日を迎えた方が幸せだったのか。",
+      "知りつつ足掻いて、結局は抗えずに飲み込まれるのが幸せだったのか。",
+      "………辿るのが同じ末路で、どちらを選ぼうとも結局同じ結末に至る選択肢だったのなら、",
+      "……私は戦う。",
+      "戦える選択肢を選ぶ。",
+      "そうして私は自らの幸せを勝ち取ってきたんじゃないか。",
+      "……リナが父に取り入り我が家を侵食してきた時、",
+      "私はそれがこの世の終わりのように感じ、日々を絶望に押しつぶされそうになりながら生活していた。",
+      "そしてそれ以上の不幸は存在しないと思っていた。",
+      "でも、今になって当時を思い出すと、あれは大したトラブルでも何でもない。",
+      "敵は間宮リナと北条鉄平の２人だけ。",
+      "敵もわかっていて人数もわかっていて、１人ずつ誘い出して闇討ちすればそれで解決という、とんでもなくイージーな問題だった。",
+      "今はどうだ？",
+      "敵が誰かもよくわからず、その人数も規模も想像がつかない。",
+      "私が普段味方だと思っている人たちが、どこまで本当に味方で、どこまでが実は敵なのか。",
+      "それすらわからない！",
+      "あの時のトラブルとは格が違う。",
+      "この世の終わりのような絶望感。",
+      "今度こそ本当の意味で、これ以上の不幸はないわけだ。",
+      "でも、本当にそうかな………？",
+      "リナたちのトラブルだって、当時はこの世の終わりのように感じたけど、今思い出すとそれほどでもない。",
+      "今のトラブルだって、実は後に思い出すと失笑してしまう程度のトラブルとなる日が来るかもしれない。",
+      "……いや、来る。",
+      "絶対に来るさ！",
+      "だから、これがこの世の終わりだと思うな。",
+      "戦おう。",
+      "戦える。",
+      "私はまだまだ足掻ける！",
+      "草を食み、泥を啜ろう。",
+      "無駄と分かっていても、１％の勝利に賭けてみよう。",
+      "三四さんにスクラップ帖を託されなかったら、それを賭けるテーブルにもつけなかった。",
+      "だからやっぱり、あのスクラップ帖を受け取ったことはまさにチャンスであり幸運であり、未来を掴み取れる選択肢だったのだ。",
+      "私が戦わなければ、きっと村は恐ろしい寄生虫をバラまかれて大変なことになる。",
+      "伝説によるならば、鬼ヶ淵沼から一番最初に「鬼」が湧き出した時は、感染者たちは直ちに「鬼」となったと言う。",
+      "それが村の内側であるにもかかわらずだ。",
+      "村から出なければ発症しないなんてのは、後世の害の弱くなった寄生虫たちに通用する話に過ぎない。",
+      "本当の、原始の力を持った寄生虫たちなら、村にいたままで「オヤシロさまの祟り」を再現してしまう！",
+      "それはまさに、オヤシロさま伝説をもう一度繰り返すこと。",
+      "人と鬼にわかれ恐ろしい殺し合いが起こって、………その最中に「オヤシロさま」が降臨して、これを調伏するのだ。",
+      "これこそがやつらの狙い！！",
+      "そして人々はその偉業に平伏し、信仰を取り戻したものだけが救済される。",
+      "……わかった……やつらの狙いが…。",
+      "オヤシロさま伝説をもう一度、ゼロからやり直し、「オヤシロさまの再臨」を描こうとしているのだ！",
+      "そうだ、梨花ちゃんはオヤシロさまの生まれ変わりと言われてるらしいじゃないか。",
+      "お膳立てはすでにそろっているじゃないか！",
+      "やつらは「祟り」として「寄生虫」を使う。",
+      "では、…「オヤシロさまの調伏」はどうやって描く？",
+      "そうだ！",
+      "薬が、",
+      "特効薬があるんだッ！！",
+      "彼らは原始の力を持つ「寄生虫」を生み出すと同時に、それを治療する「薬」もまた生み出しているのだ。",
+      "信じるものだけをその「薬」で救い、村人を熱心な信者だけに淘汰してしまう。",
+      "そして、信者だけになった雛見沢に、やつらは絶対的存在として君臨するつもりなんだ！",
+      "いや………、この恐ろしい細菌テロを、雛見沢の内側だけと考えるのは少し考えが甘くないか…？",
+      "信仰で支配しようと企めば、必ずその信仰をより広域に広げようと欲してしまう人の欲を、すでに歴史が証明している。",
+      "ならば寄生虫を研究する過程で、原始の力を取り戻す研究だけでなく、“雛見沢という限定された地域でしか適応できない”弱さを克服する研究もするんじゃないのか？",
+      "三四さんの研究によるならば、寄生虫たちは宿主が「雛見沢」から離れれば離れるほどに嫌う。",
+      "つまり、距離的なものが存在するわけだ。",
+      "その、適応できる環境の距離を、伸ばす。",
+      "適応できる環境の半径を、伸ばす。",
+      "やつらの研究はどれだけの成果を得たんだろう？",
+      "雛見沢から興宮？",
+      "まさか市内全域？",
+      "………いや、県内だって覆ってしまうかもしれない！",
+      "それは近県にも波及し、地方一帯を覆ってしまうかもしれないのだ。",
+      "これはもはや悪巧みなんて呼べるレベルではない。",
+      "国家転覆という言葉を当てられるくらいの、……壮大で恐ろしい陰謀！！",
+      "その陰謀のＸデーはおそらく遠くない。",
+      "三四さんを殺した手口や、私に対する圧力の乱暴さからわかる。",
+      "Ｘデーが近く、わずかの違和感の芽を摘み取るのに手段を選ばなくなっているのだ！",
+      "この恐ろしい陰謀に立ち向かえるのは、私しかいない。",
+      "今や信じられるのは私だけ。",
+      "……圭一くんも、信じられるかもしれない。",
+      "でも他は全部だめ！！",
+      "魅ぃちゃんはもってのほか、",
+      "梨花ちゃんもだめだし、",
+      "それにべったりの沙都子ちゃんだってだめだ。",
+      "大人も誰も、みんなみんな全部だめ！！",
+      "味方は全然いない。",
+      "迫るのはやつらの魔の手だけ。",
+      "終末までの残り時間を刻む時計の音が私をただただ焦らせる。",
+      "どう戦えばいい？",
+      "どうすれば！！",
+      "それを考える時間が、まず欲しい。",
+      "それは考えることに集中できる「安全地帯」が何よりも必要だ。",
+      "幸い、私はその「安全地帯」について、偶然にも始めから持っていた。",
+      "ゴミ山の隠れ家だ！",
+      "あそこは誰も知らない、絶対安全。",
+      "万が一、やつらがあそこに迫っても、私はあの周りのあらゆる抜け道や隠れ場所に精通している。",
+      "だが、その隠れ家には大きな弱点があった。",
+      "それはとても簡単なこと。",
+      "食料がない。",
+      "その為に私は家に帰ってきたのだ。",
+      "私は父の引き出しを開け、再び金庫を開ける。",
+      "中身は、前に見たあの日から大して変っていないようだった。",
+      "新札の壱万円札が、まだどっさりと残っていた。",
+      "私はそれらを全ていただく。",
+      "枚数はわからないが、多分、８０枚くらいはあるだろう。",
+      "これだけあれば、…多分充分。",
+      "これだけの金額を食い潰すだけの期間、やつらから逃げ延びられれば……それは大健闘なのだから。",
+      "それに、ひょっとするとお金で誰かを買収するようなこともあるかもしれない。",
+      "あって邪魔ということはないはずだ。",
+      "銀行の通帳は持っていかない。",
+      "やつらが銀行を抑えればそれで終わりだ。",
+      "引き出すリスクが計り知れない。",
+      "それからナップザック。",
+      "自転車のカギ。",
+      "あと、きっとあると便利だろうと思うものを用意しナップザックに放り込んだ。",
+      "多少重くなってもいい。",
+      "隠れ家で必要性を吟味して、不要ならそこに置いて行けばいいのだから。",
+      "時計の針を見る。",
+      "私が帰宅してから、もう３０分が経過しようとしていた。",
+      "滞在し過ぎだ！",
+      "私は急ぎ、家を飛び出す。",
+      "それからあまり目立たないところにある雑貨店を訪れ、店頭に並んでいる菓子パンや乾パンの缶詰などをナップザックに入る限り買い占めた。",
+      "店番の老婆は幸い、ボケ気味で、度を越した買い物であっても何の関心も示さなかった。",
+      "……それでも、家人が夜にでもレジを改めればとんでもない買い物があったことが発覚するはずだ。",
+      "……構わないさ、どうせ私はもう、明るい内に村の中をどうどうとうろつくことはないのだから。",
+      "ナップザックは膨れ上がり、しかも缶詰が背中にごつごつ当ってとても痛かった。",
+      "でも、そんなことはどうでもよかった。",
+      "私はその重い荷物を背負ったまま、隠れ家まで無事辿り着く。",
+      "それから荷物を整理した。",
+      "……重かっただけあって、相当な量の食料を確保することができた。",
+      "水は近くの工事事務所跡の水道から使える。",
+      "野菜がないのが少し気になったが、そんな贅沢を言ってる場合ではない。",
+      "整理を終えると、私は隠してあったスクラップ帖を取り出し、それを開きながら頭をフル回転させる。",
+      "さぁどうしよう。",
+      "この恐ろしい巨大な陰謀にどう立ち向かおう！",
+      "焦るな冷静に、だけれども迅速に！",
+      "もう時間は全然残されていないのかもしれないけれど、だから急がなくてはならないし、でも何をすれば！",
+      "寝坊した朝を学校まで走ることの何と気楽なことか。",
+      "どこを目指して走ればいいかわかることの何と気楽なこと！",
+      "今の私にはどこを目指せばいいのか、何を成せばいいのかすらわからない！",
+      "もう、ここに至った以上、大石さんに全てを打ち明けてみよう。",
+      "……敵の可能性は高い。",
+      "それならそれでもう構わないさ、宣戦布告になるだけだ！",
+      "だがもしも味方になってくれたなら、……それだけが一縷の望みなのだ。",
+      "日本を騒がせることになるに違いない恐ろしい規模の陰謀に立ち向かうには、私ひとりではあまりにか弱いのだから！",
+      "電話をするには公衆電話を使わなくてはならない。",
+      "……この村の中で人目に触れずに使える公衆電話は、……一箇所しかない。",
+      "あの電話ボックス！",
+      "本当に寂しいところにポツンとある電話ボックスで、夜はその明かりに虫が集まり、あまり気持ちのいいところではない。",
+      "でも、そこ以外に大石さんと連絡を取れる電話機は思いつかなかった。",
+      "ただし、いくら人目に触れにくいと言っても、明るい内から使うのは危険だ。",
+      "……夜を待ち、夕闇に乗じて電話しよう。",
+      "大石さんは三四さんの事件のあと、ずっと警察署に詰めているそうだから、幸い、何時に掛けてもつながるはずだ。",
+      "職場への直通番号も聞いてある。",
+      "だが、空はまだまだ明るかった。",
+      "時間はもう全然残されていないのに、夕闇を待たなければならないこの矛盾！",
+      "気が急き、暮れるのが遅い夕日を恨んだ。",
+      "なら、暗くなるまでの時間に何かできることを探そう。",
+      "時間を無駄にするな、何ができる何ができる何ができる！！",
+      "…………私は色々考えた結果、ひとつの不安を確かめたくなっていた。",
+      "どうせ夜の帳が落ちるまでどうしようもない。",
+      "ここでじっとしている方が、よっぽど気疲れする。",
+      "私はそうと決めると隠れ家を出たのだった。",
+      "竜宮家の門の前では、レナの父親が落ち着きなくうろうろしていた。",
+      "そこへチリンチリンと自転車の呼び鈴が聞こえてくる。"
+    ],
+    "textEn": [
+      "Why did she give me those terrifying scrapbooks?!",
+      "Why did she tell me the secret of that unthinkable conspiracy?!",
+      "She got me into this.",
+      "I didn't do anything. It's all Miyo-san's fault!",
+      "But who was interested in her stories? I was. Who let her continue talking? I did. I did that out of curiosity.",
+      "Who let the memories of Ibaraki return and told Miyo-san about them? I did.",
+      "I depended on Miyo-san, hoping that she could somehow save me from the memories I'd been trying to forget.",
+      "I shouldn't have remembered anything about that bizarre incident!",
+      "If I hadn't, I wouldn't have gotten involved in that unthinkable conspiracy, and I could've just played around with my friends today!!",
+      "...But even if I didn't know about the conspiracy, it'd still continue behind the scenes.",
+      "I would've been one member of the mob running in a panic, not knowing what's going on, on the Day of Oyashiro-sama's Revival. I would've been just swallowed up in their conspiracy anyway.",
+      "Would I be happier if I faced that day without knowing anything?",
+      "Would I be happier if I struggled, knowing about it but ending up swallowed by it?",
+      "...If I'm going to end up the same way no matter what I choose to do",
+      "...I'll fight.",
+      "I'll choose to fight.",
+      "Because that's how I seized my happiness before.",
+      "...When Rina invaded my home, seducing my father,",
+      "I felt like it was the end of the world. I lived on the verge of despair every day.",
+      "I thought that was the worst misfortune that could befall anyone.",
+      "But the way things are going, it wasn't really that bad at all.",
+      "I had only two enemies, Rina Mamiya and Teppei Houjou.",
+      "I knew my enemies, and I knew how many they were. I lured them out one by one, and I attacked them in the dark. It was a very easy problem to solve.",
+      "But what about this one?",
+      "I don't know who my enemies are, and I don't know how many or how strong they are.",
+      "Even the people I once trusted might be my enemies!",
+      "I can't possibly be sure!",
+      "It's totally different from the previous problem.",
+      "This might be the end of the world.",
+      "This time, it really was the worst thing that could possibly happen.",
+      "But is that really the case...?",
+      "With Rina, I felt like it was the end of the world, but I no longer think it was that bad.",
+      "So, this might turn out to be an easy problem to solve in the end, and I might be able to laugh about it someday.",
+      "...I know that day will come.",
+      "I know it for sure!",
+      "So, I shouldn't think that this is the end of the world.",
+      "Let's fight.",
+      "I can fight.",
+      "I can still struggle!",
+      "I'd eat grass and drink mud if I needed to.",
+      "I'm going to bet on the 1% chance even though it's unbelievably small.",
+      "If Miyo-san didn't leave me the scrapbooks, I wouldn't even have been able to sit at the table to bet.",
+      "I was lucky that I received the scrapbooks because they gave me the chance to choose my future.",
+      "If I don't fight, they'll spread the terrible parasite, and this village will face a great disaster.",
+      "According to the legend, when the \"demons\" first came out of the swamp, people became demons right after being infected.",
+      "And it happened while they were inside the village.",
+      "These days, symptoms appear only when infected people leave the village, but that only applies to the later, weak parasite.",
+      "The original parasite can reenact \"the curse of Oyashiro-sama\" even when the infected are in the village!",
+      "The legend of Oyashiro-sama will be reborn.",
+      "Humans and demons will start killing each other... and \"Oyashiro-sama\" will come down to pacify the disaster.",
+      "That's what they want!!",
+      "They want people to prostrate themselves before that miracle, and only the people who truly worship Oyashiro-sama will be saved.",
+      "...I see... I know their true intention now...",
+      "They're going to reenact the legend of Oyashiro-sama!",
+      "After all, the villagers always say that Rika-chan is his reincarnation.",
+      "The stage is all set!",
+      "They're going to use the parasite as the \"curse\".",
+      "So... how are they going to make it look like Oyashiro-sama came down to pacify everyone?",
+      "I get it!",
+      "They must have some kind of medicine,",
+      "a specific cure for the parasite!!",
+      "When they recreated the stronger form of the parasite, they found a cure for it at the same time.",
+      "They're going to use this cure to save only those people who believe in Oyashiro-sama, and as a result this village will only have those fervent believers.",
+      "They're going to make themselves the absolute rulers of Hinamizawa!",
+      "Wait... I still might be underestimating them. Are they going to carry out that horrifying act of bioterrorism only inside Hinamizawa...?",
+      "History proves that, when their goal is to control others, people desire to spread their religion across a wide area.",
+      "I'm sure that they conducted research not only to bring back the primitive form of the parasite, but also to overcome its weakness--namely, that it only thrives in Hinamizawa.",
+      "According to Miyo-san's research, the parasite doesn't like its hosts to be far from the region.",
+      "Its weakness is distance.",
+      "If they could extend the distance...",
+      "If they could extend the area where it can live...",
+      "I wonder how far along their research is.",
+      "By now, the parasite might be able to live not only in Hinamizawa but in Okinomiya as well.",
+      "Or maybe even in the city?",
+      "...Maybe the whole prefecture?",
+      "It might be able to cover nearby prefectures as well!",
+      "This is too serious to just call it a conspiracy.",
+      "It's horrifying enough, and its scale large enough, to call it a revolution!!",
+      "The Day of Revival is probably not far off.",
+      "I can tell by how they killed Miyo-san and by the extent of their pressure they're putting on me.",
+      "They're trying to get rid of the small fish bones stuck in their throat by any means, because that day is coming ever closer!",
+      "I'm the only one who can stand up against their revolution.",
+      "I can't trust anybody.",
+      "...I think I can trust Keiichi-kun.",
+      "But no one else!!",
+      "Mii-chan is out of question.",
+      "I can't trust Rika-chan, either.",
+      "Satoko-chan and Rika-chan stick together like superglue, so I can't trust Satoko-chan, either.",
+      "I can't trust any adults. I can't trust anybody!!",
+      "No one is on my side.",
+      "I have to stand up against them alone.",
+      "The clock is ticking towards that day, and the ticking noise made me frustrated.",
+      "How should I fight against them?",
+      "What should I do?!!",
+      "I needed time to think.",
+      "I needed a place, a \"safe area,\" where I could concentrate on thinking.",
+      "Fortunately, I had such an area already.",
+      "My hideout at the garbage dump!",
+      "Nobody ever goes there, so it's safe.",
+      "Even if they found out about that place, I'm familiar with its surroundings. I know escape routes and places where I can hide.",
+      "But it has a big shortcoming, as a hiding place.",
+      "It's not hard to imagine what that is.",
+      "I don't have any stock of food there.",
+      "That's why I came home.",
+      "I opened one of my father's drawers, and took out his cash box.",
+      "The contents haven't changed since the last time I looked inside.",
+      "There were many new 10,000 yen bills in the cash box.",
+      "I took them all.",
+      "I couldn't tell how many bills there actually were, but it looked to be about 80 of them.",
+      "This should be... plenty.",
+      "If I evaded them long enough to use all of this money, that would mean that I did pretty well.",
+      "Plus, I might use it to buy someone off.",
+      "You can never have too much money, especially in a situation like this.",
+      "I didn't take the bank book.",
+      "If they were waiting in ambush at the bank, I'd be done for.",
+      "It's too risky to withdraw money at the bank.",
+      "I grabbed my backpack.",
+      "I took the key for my bicycle.",
+      "I put everything I think would be convenient to have into the backpack.",
+      "I didn't care if it got heavy.",
+      "I'd choose what was necessary to carry around later at my hideout. If there ended up being something I didn't need, I could leave it there.",
+      "I looked at the clock.",
+      "It had been 30 minutes since I came home.",
+      "I stayed here too long!",
+      "I rushed out of the house.",
+      "I went to a small convenience store, and bought as much sweet bread and canned food as I could fit in my backpack.",
+      "An old lady was at the register. Probably suffering from dementia, she showed no interest in the extraordinary amount of food I was buying.",
+      "...But as soon as the manager of the store checked the sales that night, he'd find out.",
+      "...The idea didn't bother me, because I can no longer walk around the village in the daylight anyway.",
+      "My backpack was full, and the cans hurt my back as I walked.",
+      "But that didn't bother me either.",
+      "I got to my hideout, still carrying the heavy backpack.",
+      "I organized the stuff I brought.",
+      "...It was very heavy to carry, but now I had sufficient food.",
+      "The abandoned construction office still has running water, so I could get some from there.",
+      "I'd wanted to get some vegetables, but in a situation like this, I could hardly complain.",
+      "After I organized things, I took out the scrapbooks I hid here, and put my brain into top gear, flipping through the pages.",
+      "So, now what?",
+      "How am I going to stand up against this gigantic conspiracy?",
+      "I needed to calm down, stay cool, but also to think fast!",
+      "There might not be a lot of time, so I'd have to hurry, but I don't know what to do!",
+      "It's easy to run to school in the morning when I oversleep.",
+      "It's easy because I know where I should go!",
+      "But now, I don't know where I should go to or what I should do!",
+      "Now that I've come to this point, I should tell Ooishi-san everything.",
+      "...It's highly likely he's an enemy.",
+      "But that doesn't matter anymore. If it was true, I'd just declare war!",
+      "But if he was on my side... he'd be my only remaining hope!",
+      "I'm far too weak to stand alone against the terrifying scale of this conspiracy poised to instill fear throughout Japan!",
+      "I'd have to use a public phone to make the phone call.",
+      "...There's only one public phone in this village that stands at a place where it's hard for people to spot you...",
+      "That phone booth!",
+      "It stands in the middle of nowhere where nobody really comes around. Many bugs gather around the light when it's dark, and it's not a pleasant place to go to.",
+      "But I can't think of any other public phones I can use to contact Ooishi-san without being seen.",
+      "Even though it stands in the middle of nowhere, it's still dangerous to use in the daylight.",
+      "...I should wait until nightfall and take advantage of the darkness.",
+      "I heard that Ooishi-san has been holed up in the station since Miyo-san's murder case, so I should be able to reach him anytime.",
+      "I have the number for the direct line to his office too.",
+      "The sky was still bright.",
+      "Even though I had no time, I still had to wait for it to get dark!",
+      "Frustrated, I glared at the sunset.",
+      "I should find something to do.",
+      "I couldn't waste any time that I had, so there must be something to do!!",
+      "After I thought about what I could do, I found there was something I wanted to confirm. Something I've been worried about.",
+      "I couldn't do anything else before it got dark anyway.",
+      "Staying here doing nothing would just make me more frustrated.",
+      "I made my decision, and left the hideout.",
+      "Rena's father paced up and down restlessly in front of his house.",
+      "A bicycle appeared, its rider ringing the bell."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「駐在さぁぁぁぁん！！",
+      "ここですここですーー！！」"
+    ],
+    "textEn": [
+      "\"Police officer!!",
+      "Here! Over here!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "自転車で現れたのは雛見沢の駐在警察官だった。",
+      "相当、飛ばしてきたらしく、中年の警官は荒々しい息をついていた。"
+    ],
+    "textEn": [
+      "A police officer from the Hinamizawa police station had shown up.",
+      "Having rushed to get there, he was breathing hard."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Resident",
+    "labelJp": "駐在",
+    "textJp": [
+      "「はぁ、はぁ！",
+      "お待たせしました、状況を御伺いします。」"
+    ],
+    "textEn": [
+      "\"Haah, haah!",
+      "I hope you didn't wait too long. Please tell me what happened.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「確かに施錠して出て行ったんです。",
+      "そうしたら、まず家の扉が開きっぱなしになってまして……。」"
+    ],
+    "textEn": [
+      "\"I know I locked the door before I left.",
+      "But when I came back, the door was left open and...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "父親は警官を家の中に案内する。"
+    ],
+    "textEn": [
+      "He lead the police officer into the house."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「それで、私の部屋の……手提げ金庫がまんまとやられまして……。」"
+    ],
+    "textEn": [
+      "\"And... look... my cash box was left open in my room...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Resident",
+    "labelJp": "駐在",
+    "textJp": [
+      "「ご主人、これはその時のまま？",
+      "触ってない？」"
+    ],
+    "textEn": [
+      "\"Is this how you found it?",
+      "You didn't touch anything?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「えぇ、犯人の指紋とかあるだろうと思いまして、金庫には触れてません。",
+      "ただ、中身を確認したので、中のものには少し触れています…。」"
+    ],
+    "textEn": [
+      "\"I didn't touch the cash box itself because I thought they might have left fingerprints.",
+      "I did touch the contents a little bit to check what was missing...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Resident",
+    "labelJp": "駐在",
+    "textJp": [
+      "「ふむふむ、それで取られたものは？」"
+    ],
+    "textEn": [
+      "\"Hmm. And what did they take?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「貯金通帳と印鑑は大丈夫だったんですが、…中に入ってた現金を全部。」"
+    ],
+    "textEn": [
+      "\"They didn't take my bankbooks or my personal seal, but... they took the cash.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Resident",
+    "labelJp": "駐在",
+    "textJp": [
+      "「通帳と印鑑、大丈夫だったんですかぁ。",
+      "そりゃあ不幸中の幸いでしたねぇ。",
+      "……最近は、通帳から足が付くと思って、プロは現金しか持ってかないんですよねー。"
+    ],
+    "textEn": [
+      "\"They didn't take your bankbooks or personal seal, huh?",
+      "You were lucky.",
+      "...Professional thieves today don't take bankbooks because they know how easily they can get caught by using them."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Resident",
+    "labelJp": "駐在",
+    "textJp": [
+      "…こりゃあだいぶ手馴れた空き巣かなぁ。",
+      "…金庫ごと持ってかないで、この場で開けちゃうってんだから、相当のプロだねぇ。",
+      "で、お金はどのくらいやられちゃって？」"
+    ],
+    "textEn": [
+      "...This might be a professional cat burglar.",
+      "...Instead of taking the cash box with him, he opened it here. He has to be a pro.",
+      "So, how much cash was in there?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「………んんん、ちょっと数えてなかったんですが、……多分、壱万円札で１００枚近くはあったと思います。」"
+    ],
+    "textEn": [
+      "\"...Umm... I haven't counted it for a long time... but I believe there were about a hundred 10,000 yen bills.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Resident",
+    "labelJp": "駐在",
+    "textJp": [
+      "「あーーーそう……。",
+      "それだけの現金が入ってることを誰かに知らせた？」"
+    ],
+    "textEn": [
+      "\"Ah... I see...",
+      "Did you tell anybody that you had that much cash in here?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「……いえ、誰にも知らせてはいませんが、……あの女たちなら、この家に金があることを知っていたかも……。」"
+    ],
+    "textEn": [
+      "\"...No, I didn't. But... they probably knew I kept some cash in the house...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Resident",
+    "labelJp": "駐在",
+    "textJp": [
+      "「あの女？",
+      "ふむふむ、ちょっとお話を聞かせていただけますか…。」"
+    ],
+    "textEn": [
+      "\"They? Who are 'they'?",
+      "Can you tell me more about them...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「………実は…、あまり見っともいい話じゃないんで、お恥ずかしいんですが……。",
+      "間宮リナという女とですね…………、」"
+    ],
+    "textEn": [
+      "\"...Well, it's kind of an embarrassing story...",
+      "Her name is Rina Mamiya, and...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その時、竜宮家の電話がけたたましく鳴った。"
+    ],
+    "textEn": [
+      "Just then, the phone rang."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「……あぁぁ、すみません、ちょっと出てきますね。",
+      "すぐ戻ります。」"
+    ],
+    "textEn": [
+      "\"...Oh, excuse me. I'll just go get that.",
+      "Please give me a minute.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "父親は、この忙しい時にとぼやきながら、少し乱暴に受話器を取った。"
+    ],
+    "textEn": [
+      "He grabbed the phone."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「はい、竜宮です。」"
+    ],
+    "textEn": [
+      "\"Hello. This is the Ryuugu residence.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あ！",
+      "…………っと、すみません。",
+      "前原と申しますが、レナさんはいらっしゃいますか？」"
+    ],
+    "textEn": [
+      "\"Ah!",
+      "...Umm, hello.",
+      "This is Maebara. Is Rena-san there?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「レナはまだ帰ってきません。」"
+    ],
+    "textEn": [
+      "\"No, she hasn't come back from school yet.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「まだ帰ってない？！",
+      "……うーーーん……。」"
+    ],
+    "textEn": [
+      "\"She hasn't?!",
+      "...Umm...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「あー、申し訳ないんですが、ちょっと今、立て込んでます。",
+      "遊びの電話でしたら、また掛けなおしていただけますかねぇ…。",
+      "申し訳ないですね、失礼いたします。」"
+    ],
+    "textEn": [
+      "\"I'm very sorry, but I'm in the middle of something right now.",
+      "Can you call back later...?",
+      "I'm sorry. Bye.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "チン。",
+      "私は呆然とする他なかった。",
+      "上辺は何も変化があるように見えなかった。",
+      "いや、それどころか、本当にここだったかすら、思い出すのに苦労した。",
+      "たまたま、近くの木に特徴的なこぶがあったので、ここであると特定できただけだ。",
+      "それくらいに、………リナたちの死体を埋めた場所は何事もなかったかのように自然に隠匿されていた。",
+      "だからこそ、始め私は、場所を間違えたのではないかと思っていた。",
+      "だが、スコップを地面に打ち込めばわかる。",
+      "掘ったことのある場所か、そうでないかなどすぐわかる。",
+      "だから、少しの試行錯誤の後、死体の袋を埋めた場所は特定できたのだ。",
+      "…………だが、最大の問題は、……………死体の袋が出てこなかったことなのだ！",
+      "どうして？",
+      "どうしてないのッ！！",
+      "もっと深く埋めたっけ？",
+      "いや、そんなことない。",
+      "スコップで土を刺す手応えがわかる。",
+      "これ以上深くになんか埋めていない！",
+      "……予想外の結果だった。",
+      "ここへ死体を確かめに来たのは…、言って見ればあくまでも時間潰し。",
+      "暗くなるまでの間、何もしないでいるのが嫌だったので、隠した死体が大丈夫かどうか確認しに来ただけだったのだ。",
+      "何事もなく埋まっているのを確認して、私は胸を撫で下ろす。",
+      "それだけの作業のはずだったのに！！",
+      "私は予期せぬハプニングに、背中いっぱいに冷たい汗を張り付かせる。",
+      "これはどういうこと？",
+      "どういうことなの？！",
+      "冷静に考えるまでもない。",
+      "バラバラ死体が蘇って、穴から這い出したわけがない。",
+      "なら、誰かが掘り返した以外に考えられないじゃないか！",
+      "誰が、何のために？！",
+      "誰か偶然の目撃者がいて、私たちが死体を埋めて去った後に掘り返した？",
+      "そして死体を警察に届けた……？",
+      "いや、それはありえない。",
+      "死体を埋めてからもうだいぶ日にちが経ってる。",
+      "そもそも、埋めたのは綿流しより前だ。",
+      "だから、大石が私にコンタクトを求めてくる時にはもうリナたちの死を知っていなくてはならない。",
+      "でも、大石は私にそんな話は一言も言っていない。",
+      "意図的に隠していたはずはない。",
+      "答えはただひとつ、大石たち警察は未だリナたちの死を知らないのだ！",
+      "じゃあ、どうして死体がないの？",
+      "残る答えは１つしかない。",
+      "…ここに埋めたことを知る誰か。",
+      "つまり、ここに埋めた誰かが、その後に戻り、死体を全て掘り返してどこかへ持ち去ってしまったのだ！！",
+      "真っ先に思いつくのは魅音、いや園崎家だが、どうしてそんなことをするのか動機が見えなかった。",
+      "園崎家にとって、リナたちの殺人は何の関係もない。",
+      "だから変な濡れ衣なんかごめんなはずだ。",
+      "極力係わり合いになりたくないと思うはずだ。",
+      "そんなババ抜きのジョーカーのような死体を、なぜわざわざ……？！",
+      "……魅ぃちゃんなら何を考える？",
+      "部活の部長なら何を考える…？",
+      "ジョーカーはババ抜きでこそ嫌われるカードだが、ゲームが変れば強力な切り札として扱われることもある。",
+      "……ジョーカーが強力な切り札になるとしたら…？",
+      "電気的なものが脊髄を駆け上った。",
+      "…そして同時に、やられたと思った…！",
+      "園崎家は死体を回収し、ジョーカーに使おうとしている。私を警察に売るための切り札だ！",
+      "園崎家は、暗殺部隊などの陰の力で私を何とか葬りたいと思っているだろうが、それが達せられなかった時に備え、保険を打ったのだ。",
+      "また、彼らが一番恐れるのは、陰謀を知る私が警察と連携することだ。",
+      "それを予め断つことができれば、私に味方はいなくなる。",
+      "そうなれば、もう逃げることもできない、俎上の鯉のようなものだ！",
+      "つまり、やつらはあの死体をうまく使って、",
+      "……私をリナと鉄平殺しで警察に売ろうとしているのだ！",
+      "警察が容疑者として私を手配したら、もう警察は私の話に耳を貸すことは絶対にないだろう。",
+      "……最後の味方かもしれない相手まで、私を追う側に回ってしまう！",
+      "だが、このジョーカーは簡単には切りたくない札のはずだ。",
+      "死体を埋めるのに園崎魅音が手を貸したのは事実だ。",
+      "それに、何らかの陰謀のＸデーが近い時期に、警察が雛見沢をうろうろしてほしくはないはず。",
+      "………私は今夜、大石に電話して全てを打ち明け、助力を求めるつもりだ。",
+      "……圭一くんにすら話していない、本当の本当の全てを話すつもりだ。",
+      "それを大石が信じてくれるかどうかだけでも確率の低い賭けなのに、……さらにそれに加え、敵方には死体袋というジョーカーまであるとは…！",
+      "……さすがは部活の部長。",
+      "……私にとっては命を賭けた戦いも、魅音にとっては雛見沢というゲーム盤の上で繰り広げられる駆け引きに過ぎないのだ。",
+      "私は、ゲームという言葉に少しだけニヤリと笑う。",
+      "……普段だって罰ゲームなんか嫌だから、命を賭けて戦ってる。",
+      "それが文字通りの意味になっただけだ。",
+      "相手が、ここまでしてて私を追い詰める理由は１つしかなかった。",
+      "それは……、私を恐れているから。",
+      "私は自分を、何の力もない小娘が右往左往しているだけだと思っている。",
+      "だが、敵はどうやらそう思ってはいないようだ。",
+      "本当に私を無力だと思っているなら、リスクを犯してまで追い立てたりはしない。",
+      "つまり、…………三四さんが私に託したあのスクラップ帖は、……私が考えるよりもはるかに致命的なものに違いないのだ。",
+      "……なぁんだ。",
+      "ジョーカーを持っているのはやつらだけじゃない。",
+      "私もじゃないか。",
+      "そのジョーカーがあまりにも強力で、やつらの企みを全て打ち砕きかねない恐ろしさがあるからこそ、",
+      "………やつらはあんなにも躍起になって私を探すんじゃないか！",
+      "あっはっは…。",
+      "窮鼠、猫を噛むの心境だろうか。",
+      "急に、敵を恐ろしく思う感情が薄れるのを感じた。",
+      "私がやつらを恐れるように、やつらも私を恐れていたのだ。",
+      "……だから、このゲームはまったくの互角。",
+      "私が思っているほど、必ずしも不利じゃない！",
+      "ここに来たのは正解だった。",
+      "敵の得たカードを知れたのだ。この有利は小さくない。",
+      "私は、武者震いする自分を勇気付けるように、ニヤリと力強く笑った。",
+      "もうこれ以上、ここにいる必要はない。",
+      "やつらにとってはこの場所もまた、私に縁のある場所。",
+      "……ここに長居することは必ずしも安全とは言えなかった。",
+      "私は隠れ家に戻ることにした。",
+      "その途中、自宅の近くを通る。",
+      "そしてすぐに異変に気がついた。",
+      "物陰に隠れ、自宅の門前をうかがう…。",
+      "……父と一緒に話しているのは、駐在警察官だ。",
+      "……二人の会話に私は耳をそばだてる。"
+    ],
+    "textEn": [
+      "He hung up after that.",
+      "I was stunned.",
+      "It didn't look like anything had changed on the surface.",
+      "It was hard to find this place at all, because it perfectly blends in with the surroundings.",
+      "I only found this place again because I remembered there was a tree with a big lump of wood on it nearby.",
+      "The spot where I buried the corpses was perfectly camouflaged, as if nothing had happened.",
+      "That's why, at first, I thought I came to the wrong place.",
+      "But I could make certain once I stick a shovel in the ground.",
+      "I should be able to tell right away whether this place was dug up before or not.",
+      "After several false starts, I found the exact spot where I buried the corpses.",
+      ".........But the biggest problem of all...... is that there are no bags in there at all!",
+      "Why?",
+      "How come?!!",
+      "Did I bury them deeper than this?",
+      "No, I didn't.",
+      "I remember exactly how deep I buried them.",
+      "I know I didn't bury them deeper than this!",
+      "...I wasn't expecting this.",
+      "I came here to check the corpses... I just wanted to do that to kill some time.",
+      "I didn't want to stay in my hideout doing nothing, so I came here to check if the corpses I buried were still there.",
+      "I'd make sure that they were still there, and I'd feel relieved.",
+      "It was supposed to go like that!",
+      "This was such an unexpected turn of events that I broke out into a cold sweat.",
+      "What's going on?",
+      "What's going on?!",
+      "I don't need to calm down to think about what happened.",
+      "Corpses can't come back to life and crawl out of the ground.",
+      "Someone must've dug them out!",
+      "Who did it, and for what purpose?!",
+      "Did anyone happen to see us burying the corpses here, and did they dig them out after we left?",
+      "What if they handed them over to the police...?",
+      "No, it can't be.",
+      "It's been quite a while since the day we buried them here.",
+      "It was before the Watanagashi festival.",
+      "So if the police did find the corpses... when Ooishi contacted me, he had to know about Rina and Teppei.",
+      "But he didn't tell me anything about them.",
+      "I don't think he was hiding anything on purpose, either.",
+      "So, that means the police don't know about Rina and Teppei yet!",
+      "Then, why are the corpses gone?",
+      "That would leave only one answer.",
+      "...Who knows about this place?",
+      "One of us came back here, dug out the bags, and took them away!!",
+      "The first person who comes to mind is Mion, I mean, the Sonozaki family. But I can't think of a reason why they would do that.",
+      "The murder of Rina and Teppei has nothing to do with them.",
+      "I'm sure they don't want to get involved either, let alone be falsely accused.",
+      "They must want to stay as far away from this case as possible.",
+      "Why would they want to keep the corpses? It's like keeping a joker even though you'll lose if you have the joker by the end of the game!",
+      "...If I was Mii-chan, what would I do?",
+      "What would I do if I was club president...?",
+      "The joker is a card that you want to get rid of, at least in the game I mentioned earlier. But it becomes a powerful card in other games.",
+      "...What kind of game would that be...?",
+      "An electric shock ran through my spine.",
+      "...At the same time, I realized it--they are one step ahead of me...!",
+      "The Sonozaki family got the corpses to use them as a joker, as a wild card. They're trying to use them to sell me out to the police!",
+      "The Sonozaki family is trying to kill me using their death squad, but they want to have insurance just in case they fail.",
+      "The thing they're afraid of the most is that I might work together with the police.",
+      "If they could prevent that from happening, I'd have no one to work with.",
+      "If that happens, I can no longer run away from them. I'd still be a fish in their pond!",
+      "They're going to use the corpses...",
+      "to sell me out to the police for the murder of Rina and Teppei!",
+      "If the police started seeing me as a suspect, they'd never listen to my story.",
+      "...They could have been my last hope, but this will certainly turn them against me!",
+      "But I'm sure the Sonozaki family doesn't want to use their joker unless absolutely necessary.",
+      "After all, Mion Sonozaki helped bury the corpses.",
+      "Plus, they don't want the police to hover around Hinamizawa when the Day of Revival is so close.",
+      "...I'm going to call Ooishi tonight, and I'm going to ask him for help.",
+      "...I'm going to tell him everything, including the things I haven't even told Keiichi-kun.",
+      "I don't know if Ooishi will believe me... This is a gamble, and my chance of winning is very small... Plus, my worst enemy has the joker, the bags with the corpses inside...!",
+      "...I'm impressed with Mion. That's just what I'd expect from the leader of our club.",
+      "...This is a battle that I'm betting my life on, but to Mion, this is like a board game, taking place across Hinamizawa itself.",
+      "I grinned, repeating to myself that it's just a game.",
+      "...I put my life on the line for every club activity we do, because I don't want to suffer the punishment.",
+      "This time, that's become the literal truth.",
+      "There could be only one reason why they're trying so hard to drive me into a corner.",
+      "It's because... they're afraid of me.",
+      "I assumed I was just a little girl with no power, running about in confusion.",
+      "But my enemy must not be thinking that way.",
+      "If they didn't think I was a threat to them, they wouldn't take risks like this to drive me into a corner.",
+      "That means... the scrapbooks Miyo-san left me... must be way more dangerous to them than I think they are.",
+      "...I see.",
+      "They have a joker,",
+      "but so do I.",
+      "The joker I have is so deadly and so powerful that it can break their plot into pieces.",
+      "......That's why they're so eager to find me!",
+      "Ah ha ha...",
+      "A cornered mouse really can bite a cat.",
+      "I felt my fear towards my enemy fade away all of a sudden.",
+      "Just as I fear them, so do they fear me, too.",
+      "...So, this is an evenly matched game.",
+      "I don't have as bad a hand as I thought I did!",
+      "I was right to come here.",
+      "I found out about the card my enemy was holding. This is a big deal.",
+      "I felt myself shiver with excitement. I grinned to encourage myself.",
+      "I don't need to be here any longer.",
+      "They know this place. They might come here to find me.",
+      "...It's not safe for me to stay here for long.",
+      "I decided to go back to my hideout.",
+      "On the way back, I passed close to my house.",
+      "I noticed something different right away.",
+      "I hid behind a bush, and looked at the front gate of my house...",
+      "...My father was talking to a police officer.",
+      "...I strained to catch their conversation."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Rena's dad",
+    "labelJp": "レナの父",
+    "textJp": [
+      "「はい。",
+      "いつもはそこに停めてあるはずなんです…。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "She usually parks it there...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "父は、私が普段自転車を停めている場所を指し示していた。"
+    ],
+    "textEn": [
+      "My father pointed to the place where I usually parked my bicycle."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Resident",
+    "labelJp": "駐在",
+    "textJp": [
+      "「ふぅーむ…。",
+      "わかりました。",
+      "もしお嬢さんが帰られましたらご連絡をください。",
+      "こちらの方でも探して見ます。」"
+    ],
+    "textEn": [
+      "\"Hmmm...",
+      "Okay.",
+      "Please let us know whenever your daughter comes back.",
+      "We'll try to find her as well.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………さっすが魅ぃちゃん。",
+      "もうジョーカーを使ってきた…？",
+      "魅音はいっつも、戦いの火蓋を自ら切り落として、一気に畳み込んでそのまま１位を奪ってしまう。",
+      "警察はすでに私を追っているようだ。",
+      "……大石に陰謀を説明できる確率が、ただでさえ低いのに激減する。",
+      "いや……、",
+      "…だからこそ大石なんだ。",
+      "園崎本家を敵だと睨み、定年退職の最後の年に全てを暴こうとするからこそ、",
+      "園崎家のワナに絡め取られずに、私の味方になってくれるのではないか…！",
+      "もちろん、始めから全部ワナである確率もとても高い。",
+      "園崎家を目の仇にするようなことを言うのは、私に取り入ろうとするウソかもしれないのだから。",
+      "……だが、やつらのこのジョーカーは、むしろ私に希望を与えるような気がした。",
+      "大石がやつらの仲間なら、こんなジョーカーは早過ぎる。",
+      "大石とやつらはつるんでいない。",
+      "だからこそ、私とくっ付く前に、釘を刺したのではないか。",
+      "…………いやいやいや、そう思い込ませて私に大石を信頼させようというトリックかも…！",
+      "魅音が２択を出す時は、案外、悩まずにストレートに選んだ方が絡め取られないことが多い。",
+      "魅音は人の思考を絡め取りたがる。",
+      "…だから、変に考え込んだ時点で、すでに魅音の思う壺にはまっているのだ。",
+      "予定通りに進める。",
+      "もう少し待って、日がとっぷりと暮れたら、大石に電話する。",
+      "大石が味方になってくれるなら、彼と今後を相談しよう。",
+      "なってくれないなら？",
+      "………どうやらそれを悩むのが、日が暮れるまでの時間の間に私がしておくべき仕事のようだった。"
+    ],
+    "textEn": [
+      "...Mii-chan, you're good...",
+      "Did you already play your joker...?",
+      "Mion always starts a battle by attacking without hesitation, and wins.",
+      "It seems like the police are already after me.",
+      "...My chance of being able to explain the conspiracy to Ooishi was already small, but this makes it even smaller.",
+      "No...",
+      "That's why I'm going to talk to Ooishi.",
+      "He sees the Sonozaki family as his enemy, and he's trying to expose everything about them before his retirement.",
+      "That's why he'll be on my side. He's not going to fall for their trick...!",
+      "Of course, there's a very high possibility that everything was part of their trap from the very beginning.",
+      "It's possible that he claimed the Sonozaki family was his enemy in order to make me believe that he's on my side.",
+      "...But their joker is actually giving me hope.",
+      "If Ooishi is one of them, it would be too early to play their joker.",
+      "Ooishi isn't one of them.",
+      "That's why they got the joker, so they can play it before I go to the police.",
+      "...No, wait. That might be a trick to make me think that way in order to make me trust Ooishi...!",
+      "When Mion gives me two choices to choose from, it's usually better to choose the one I like without thinking too much.",
+      "Mion, after all, likes to guess people's intentions in order to confuse them.",
+      "...So when you think about a choice too much, you're already in her trap.",
+      "I'm going to do as I planned.",
+      "I'm going to call Ooishi after it gets dark.",
+      "If he's going to become my ally, we can talk about the future.",
+      "And if he isn't?",
+      "...That, I realized, was what I had to think about before it got dark."
+    ]
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「………………もう、……明日なのです。」"
+    ],
+    "textEn": [
+      "\"......Tomorrow... is the day.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「ん？",
+      "………………あぁ、私たちの命日？」"
+    ],
+    "textEn": [
+      "\"Hmm?",
+      "............Oh, you mean the day we die?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「…………今回も、同じ顛末なのです。」"
+    ],
+    "textEn": [
+      "\"......It's going to end up the same way this time, just like the last time.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「そうかしら。",
+      "………よく似てるけど、いろいろと違うところもあったわ。",
+      "……圭一、前のことを覚えてたし。」"
+    ],
+    "textEn": [
+      "\"I don't know about that.",
+      "...It's been very similar to the last one, but there were some things that were different, too.",
+      "...Keiichi remembered what happened.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「……そんなことはありえないのです。",
+      "覚えているわけ、いや、知っているわけはないのです。」"
+    ],
+    "textEn": [
+      "\"...That's impossible.",
+      "There's no way he could remember. I mean, there's no way he could <i>know</i>.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「くすくすくす…。",
+      "あんたが絶対にありえないと言ってくれればくれるほど、…じゃあこれは本当に奇跡なんだって思えるわね。」"
+    ],
+    "textEn": [
+      "\"Hee hee hee...",
+      "The more you say that it's absolutely impossible... the more it makes me feel like this is a real miracle.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「どうせ、今回もおしまいです。」"
+    ],
+    "textEn": [
+      "\"There's nothing we can do. It's going to end up the same way again.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「おしまい、かしら。」"
+    ],
+    "textEn": [
+      "\"I'm not sure about that.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「もうすぐ終わる。",
+      "全部、終わる。",
+      "……そう、ひぐらしのなく頃に。」"
+    ],
+    "textEn": [
+      "\"Yes, it will.",
+      "Everything will be over...",
+      "when the higurashi cry.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………どうせ、もう終わるのだろうか。",
+      "サイコロは、振れば振るほどにその合計を平均値に近付いていく。",
+      "１００回も振ったなら、その過程において、６が連続して出るという奇跡があったとしても、全て合計すれば平均値。",
+      "…予定調和に内包されてしまう程度のもの。",
+      "でも、１００回も振ったなら、その下限と上限は１００〜６００にも及ぶ。",
+      "振れば振るほどに未来は１つの平均値に集合しようとするのに、",
+      "振れば振るほどに、実は未来の可能性は増えていっている。",
+      "１００回振るなら約５００通りの未来。",
+      "１０００回振るなら５０００通りの未来。",
+      "その中の１つには、この終わりのないスゴロクからアガリになる結末もあるのではないか。",
+      "……圭一が見せた奇跡は、サイコロを振り続けることは決して徒労ではないことを教えてくれる、目の覚めるような出来事。",
+      "平均値なんかに、屈するな。"
+    ],
+    "textEn": [
+      "...Was it all going to end anyway?",
+      "The more often you throw a die, the closer the total will get to the average.",
+      "When you throw a die 100 times, even if a miracle happens and you get a six twice or three times in a row, the total will average out in the end.",
+      "...That's a fact of statistics.",
+      "But when you throw a die 100 times, the total number ranges from 100 to 600.",
+      "The more you throw, the greater the likelihood that the number will converge, on the average.",
+      "But the truth is, the more you throw, the more possible outcomes you create.",
+      "There are 500 different futures you can create by throwing a die 100 times.",
+      "There are 5,000 different futures you can create by throwing a die 1,000 times.",
+      "There might be one future among them that enables you to actually finish this never-ending game of dice.",
+      "...Keiichi showed me a miracle, and it taught me that it's not a waste of effort to keep throwing the die.",
+      "Don't give in to something like an average."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\"...............\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………いらつく背中を見せるわね。",
+      "……どうせ今回も駄目だろうって、そういう哀愁でいっぱいよ。」"
+    ],
+    "textEn": [
+      "\"............You think we'll never have a different ending, don't you?",
+      "I can tell, because it's written all over your face.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\"...............\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……私だって、……どうせ駄目だろうと思ってる…。",
+      "…でもね、最後のサイコロを投げるまで、私は諦めない。",
+      "圭一が教えてくれた。"
+    ],
+    "textEn": [
+      "\"...I think so, too... I think we're going to have the same ending this time again.",
+      "...But I'm not going to give up hope until I throw the die for the last time.",
+      "Keiichi taught me that."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "今回は何かが違うの。",
+      "……だからそれを信じてみる。」"
+    ],
+    "textEn": [
+      "Something is going to be different this time.",
+      "...I'll try to believe in that.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「……………梨花は、…………本当に強いのです。」"
+    ],
+    "textEn": [
+      "\"......Rika... you're a very strong person.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「まぁね。",
+      "あんたよりはずっと若いし。」"
+    ],
+    "textEn": [
+      "\"Yeah, I know.",
+      "That's because I'm a lot younger than you.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「………うぅん、",
+      "…むにゃむにゃ……、",
+      "………梨花ぁ…？」"
+    ],
+    "textEn": [
+      "\"......Mmm...",
+      "Yawn.........",
+      "Rika...?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー。」"
+    ],
+    "textEn": [
+      "\"...Meep.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「こんな時間に起きてて、",
+      "…ふわぁ……、",
+      "夜更かしは駄目でございましてよぉ…。」"
+    ],
+    "textEn": [
+      "\"Why are you still awake...?",
+      "...Yawn...",
+      "It's not good to stay up so late...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ごめんなさいなのです。",
+      "寝苦しかったので星を見ていただけなのですよ。",
+      "もう寝ますです。」"
+    ],
+    "textEn": [
+      "\"...I'm sorry.",
+      "I couldn't sleep, so I was just looking at the stars.",
+      "I'm going to bed now.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「そうなさいませ………。",
+      "……おやすみ梨花ぁ……。」"
+    ],
+    "textEn": [
+      "\"Please do...",
+      "Good night, Rika......\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……おやすみなのです、沙都子。」"
+    ],
+    "textEn": [
+      "\"...Good night, Satoko.\""
+    ]
+  }
+]

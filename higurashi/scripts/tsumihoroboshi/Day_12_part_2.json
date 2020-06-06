@@ -1,0 +1,1188 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは、先日以来、体調を崩し気味で、部活を休むことが多かった。"
+    ],
+    "textEn": [
+      "Rena had been sick ever since that day, and she hadn't been able to join in on club activities as often since."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…うん。",
+      "まだちょっと風邪っぽいの。」"
+    ],
+    "textEn": [
+      "\"...Yeah.",
+      "I still feel feverish.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「………そうでございますの…。",
+      "それは残念ですわねぇ…。」"
+    ],
+    "textEn": [
+      "\"...You do, huh...",
+      "That's a pity...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なぁレナぁ！",
+      "たまにはぱーっとはしゃいでみないかー？！",
+      "多分、元気に遊べば吹っ飛ばせると思うんだよ俺は。」"
+    ],
+    "textEn": [
+      "\"Hey, Rena!",
+      "Why don't you just try and play with us today?",
+      "I think you'll feel a lot better if you blow off some steam with us.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うんうん、そうだね、それはおじさんも同感だね。」"
+    ],
+    "textEn": [
+      "\"Mm-hm, you got this ol' man's agreement.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…そうかなぁ、かなぁ。」"
+    ],
+    "textEn": [
+      "\"...Do you think so? Do you?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……横になっている方がかえって毒になることもありますです。」"
+    ],
+    "textEn": [
+      "\"......Sometimes, resting too much is bad for you.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「そうですわよね。",
+      "病は気からともいいますですわ。」"
+    ],
+    "textEn": [
+      "\"They're quite correct.",
+      "All illness comes from the mind, don't you know?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナのそれが本当の意味での風邪でないことは誰もが薄々とは気付いていた。",
+      "色々なことが一度にあり過ぎて、精神的なショックから心の風邪を引いてしまっただけなのだ。",
+      "だからきっと、みんなで昔、当り前のように過ごしていた大騒ぎに再び身を浸せば、きっとすぐに元気が戻るだろうと思った。",
+      "それはレナにもわかっているようだった。",
+      "レナも、いつまでもこんなのじゃダメだ、元気を出して、再び楽しい日々を取り戻そうと思っているに違いない。"
+    ],
+    "textEn": [
+      "Everybody had suspected for a while that Rena isn't really sick, at least physically.",
+      "It's just that many things happened to her at once. She caught a mental cold.",
+      "That's why I thought she would get better once she played with us, just like we used to.",
+      "It seemed like Rena was aware of that, too.",
+      "She knew that she had to get out of her state of depression soon. She wanted to get better, and she wanted to have fun again every day."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……よし！",
+      "私も参加するー！」"
+    ],
+    "textEn": [
+      "\"...Okay!",
+      "I'll do it!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ＯッＫぃ！",
+      "そうこなくっちゃあねぇ！"
+    ],
+    "textEn": [
+      "\"Great!",
+      "That's the spirit!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "じゃあ、今日はレナの病み上がりも少し加味して、テーブルゲームから種目をチョイスしよう。"
+    ],
+    "textEn": [
+      "Considering the fact that Rena is still recovering from her illness, let's play a tabletop game today."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……何がいいかな、何がいいかな。」"
+    ],
+    "textEn": [
+      "...Let me see... Let me see...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が鼻歌混じりに四次元ロッカーを漁り始める。",
+      "これでもない、あれでもないと、中からゲームを引っ張り出しては脇に積んでいく。",
+      "しかし、あのロッカー、明らかに物理法則を超越しているとしか思えないよな。",
+      "明らかに、外に積んだゲームの山が、ロッカーの収納量を超えているように見える。"
+    ],
+    "textEn": [
+      "Mion started rummaging through her locker, humming to herself.",
+      "She took one game after another from the locker, and put them aside.",
+      "That locker definitely didn't obey the laws of physics.",
+      "The amount of games she took out from the locker was more than what it could physically hold."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「お、こんなのもあったねぇ。",
+      "久しぶりにやってみようか。"
+    ],
+    "textEn": [
+      "\"Oh, I forgot about this one.",
+      "Let's try this."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "今日は本格派推理ゲームで行こうー！」"
+    ],
+    "textEn": [
+      "Today, we'll be playing this detective game!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ほー！！",
+      "何だよそれ！",
+      "面白そうだなぁ！」"
+    ],
+    "textEn": [
+      "\"Oh!!",
+      "What's that?",
+      "Sounds interesting!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「えっとね、犯人と凶器、犯行現場の３つを当てるゲームなの。",
+      "結構、頭を使うんだよ。」"
+    ],
+    "textEn": [
+      "\"Well, this is a game where you guess the culprit, the murder weapon, and the scene of the crime.",
+      "It's a game where you use your brain.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……一度やればすぐに覚えてしまいます。",
+      "ちゃんとメモに整理していけば大丈夫なのです。」"
+    ],
+    "textEn": [
+      "\"......You'll pick it up as you play.",
+      "All you need to do is to note down the information you have.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ほっほっほ！",
+      "情報の整理にはちょっとしたコツがありますのよ！",
+      "知的な私のもっとも得意とするジャンルでございますわねー！！」"
+    ],
+    "textEn": [
+      "\"Ho ho ho!",
+      "In other words, you need to learn the trick of note-taking!",
+      "This is a game for intelligent people like myself!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "聞けば、ルールはそれほど難しそうではなかった。",
+      "早い話が、それぞれが持つ手札を探りあい、一番最初に抜き出して伏せたカードの正体が何かを推理すればいいというゲームだ。",
+      "ゲームの体裁は違うが、こういう伏せられた何かを少ない手順で探るタイプのゲームは少なくない。",
+      "それが対戦形式になっただけのことだ。",
+      "勝負のカギは、情報をいかに整理できるかが握るだろう。",
+      "……普段ははしゃぐのが大好きなくせに、こんなタイプのゲームであってもこなしてしまうのだから、部活メンバーとはつくづく文武両道なのだなと思い知らされる。"
+    ],
+    "textEn": [
+      "The rules don't seem that difficult.",
+      "In short, it's a game where you sound out the cards each player holds in order to try and reason out the identity of the cards first drawn out of the deck.",
+      "There are plenty of games in different formats where you try to identify something hidden in the least number of steps.",
+      "This one just happens to be a competitive one of those.",
+      "The key to winning this game would be how well you can organize your information.",
+      "...We usually like to play athletic games so that we can run around a lot, but in our club, you have to excel both academically and athletically."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よしよしよし、何だか面白くなってきやがった！！",
+      "やろうぜやろうぜ！！",
+      "レナ、今日こそ曖昧になってるあの水鉄砲勝負の時の白黒をつけてやる！」"
+    ],
+    "textEn": [
+      "\"Alright, alright! This is gonna be great!!",
+      "Let's play!!",
+      "Rena, do you remember how we still haven't decided the winner of the water gun battle? I'm going to settle it today once and for all!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね！"
+    ],
+    "textEn": [
+      "\"Oh, are you?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "よーし、レナも本気で行くからねー！！」"
+    ],
+    "textEn": [
+      "Then I'm not going to go easy on you!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……レナが本気なら、ボクも本気を出さないといけませんです。」"
+    ],
+    "textEn": [
+      "\"......If Rena is getting serious, I'll have to get serious, too.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ですわね！",
+      "あの水鉄砲の一件以来、圭一さんとレナさんの評価を改めましてよ。",
+      "容赦なく行かせていただきますわー！！」"
+    ],
+    "textEn": [
+      "\"Yes indeed!",
+      "Since that water gun battle, I have reevaluated Keiichi-san and Rena-san.",
+      "I'm going to be merciless today!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あっはっはっは！",
+      "よしよし盛り上がって来たねー！！",
+      "おじさんもこういう熱さを期待してたんだよー！",
+      "よし！",
+      "行ってみよー！！」"
+    ],
+    "textEn": [
+      "\"Ah ha ha ha!",
+      "This is getting exciting!!",
+      "This ol' man's been waiting for everyone to get this fired up!",
+      "Excellent!",
+      "Let's do this!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よし行くぜ！"
+    ],
+    "textEn": [
+      "\"Are you ready?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "『俺』が",
+      "『ナイフ』で",
+      "『書斎』はどうだー！」"
+    ],
+    "textEn": [
+      "'I'",
+      "did it with a 'Knife'",
+      "in the 'Library'.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あるよー！"
+    ],
+    "textEn": [
+      "\"Okay!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "レナはね、",
+      "『圭一君』、",
+      "『毒薬』で",
+      "『玄関ホール』だよー！」"
+    ],
+    "textEn": [
+      "My turn.",
+      "'Keiichi-kun'",
+      "did it with 'Poison'",
+      "in the 'Hall'!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「私はこれですわね、",
+      "『魅音』",
+      "『ピストル』",
+      "『ラウンジ』ですわー！」"
+    ],
+    "textEn": [
+      "\"My turn...",
+      "'Mion'",
+      "did it with a 'Pistol'",
+      "in the 'Lounge'!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…くっくっく！",
+      "『ピストル』はあんたが持ってるんでしょー？",
+      "下手なフェイクは意味ないよ〜？」"
+    ],
+    "textEn": [
+      "\"...Heh heh heh!",
+      "You're holding the 'Pistol', aren't you?",
+      "You're bluffing!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……犯人と凶器は特定できたと思います。",
+      "犯行現場が二択なのです。」"
+    ],
+    "textEn": [
+      "\"......I think I know the suspect and the murder weapon.",
+      "I've narrowed the scene of the crime down to two.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ！",
+      "梨花ちゃんも？",
+      "私は犯人が二択で特定できないー！」"
+    ],
+    "textEn": [
+      "\"Hau!",
+      "You're good, Rika-chan.",
+      "I've narrowed the suspect down to two, but it's hard to pin down which one it is!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「コツは、相手の質問内容からも何かのヒントを得ることですのよ。",
+      "それが分かれば、時には相手の手番で答えが分かることもありましてよ！」"
+    ],
+    "textEn": [
+      "\"I'll give you a tip. There's always a hint in the questions the other players ask you.",
+      "If you figure it out, you can even solve the whole mystery by the order of the cards the others put down on the table!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「な、なるほどなぁ！",
+      "くそ、甘く見てたか！",
+      "……やっべ、メモがぐちゃぐちゃで意味がわからなくなった！」"
+    ],
+    "textEn": [
+      "\"I-I see!",
+      "Damn it, I underestimated the depth of this game!",
+      "...Oh no... My notes are such a mess! I can't even read my own handwriting!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あはははは！",
+      "メモに書き取るコツがわかれば、このゲームは７割方攻略したも同然だね。"
+    ],
+    "textEn": [
+      "\"Ahahahaha!",
+      "Once you acquire the skill of note-taking, you'll have a 70% chance to win this game."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "まぁ、７割程度じゃおじさんにゃ勝てないけどさぁ〜！」"
+    ],
+    "textEn": [
+      "But even a 70% chance won't be enough to defeat me!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "始めこそ勝ちの見えないゲームだったが、次第にコツが分かり始める。",
+      "見れば、レナも遊ぶうちに調子を取り戻しつつあるようだった。",
+      "やっぱり、無理に誘って正解だったのだ。",
+      "そうやって楽しく遊んでいると、ふいに知恵先生がやって来た。"
+    ],
+    "textEn": [
+      "I kind of knew I didn't stand a chance of winning this game, but I gradually started picking it up.",
+      "Rena seemed to be getting her energy back as she played along.",
+      "It was the right decision to force her to play with us today.",
+      "While we were in the middle of the game, Chie-sensei came into the classroom."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「楽しそうですね。",
+      "ところで、竜宮さんはいますか？」"
+    ],
+    "textEn": [
+      "\"My, you look like you're having fun.",
+      "Anyway, is Ryuugu-san here?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ？」"
+    ],
+    "textEn": [
+      "\"Hau?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「竜宮さんにお客様が来ています。」"
+    ],
+    "textEn": [
+      "\"You have a visitor.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "みんなきょとんとする。",
+      "…たまに学校に親が来る人もいるが、そういう時はお客様というような言い方はしない。",
+      "だから、これは本当に珍しいことだった。"
+    ],
+    "textEn": [
+      "Everybody looked puzzled.",
+      "...Parents sometimes showed up at school for some reason, but Chie-sensei never called them \"visitors\".",
+      "...It's rare to have a visitor at school."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……何だろ。",
+      "ちょっと行ってくるね。",
+      "みんなは部活、続けててねー！」"
+    ],
+    "textEn": [
+      "\"...I wonder who it is.",
+      "Well, I have to go.",
+      "You can continue without me!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはぱたぱたと駆けて行く。"
+    ],
+    "textEn": [
+      "Rena left the classroom at a run."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…どうする？",
+      "待ってるか？」"
+    ],
+    "textEn": [
+      "\"...What should we do?",
+      "Should we wait for her?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「んーー、どれだけかかる用事かわからないからね。"
+    ],
+    "textEn": [
+      "\"Well, we don't know how long it's going to take."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "レナもああ言ってたことだし。",
+      "私たちは続けようか！」"
+    ],
+    "textEn": [
+      "Rena told us we could continue.",
+      "So, let's do that!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「「「おおーー！！」」」"
+    ],
+    "textEn": [
+      "\"\"\"Yeah!!\"\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "昇降口は暑い日差しと日陰の明暗のくっきりしたコントラストに彩られていた。",
+      "その中を、暑そうに小脇にジャケットを抱え、だらしなくネクタイを緩めた中年のおっさんが待ち受けていた。"
+    ],
+    "textEn": [
+      "Around the entrance, the glaring sun and the cool shade made for a clear contrast.",
+      "An old man who's holding his jacket on his arm was waiting for me. He looked like he was overheating, and his tie was limp."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「竜宮さんですか？",
+      "竜宮礼奈さん。」"
+    ],
+    "textEn": [
+      "\"Are you Ryuugu-san?",
+      "Reina Ryuugu-san.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "リナに礼奈と呼ばれて以来、私は礼奈という本名にますます嫌悪感を持っていたので、この初対面の男に対して、私はいい印象を抱かなかった。"
+    ],
+    "textEn": [
+      "Ever since Rina called me Reina, I've hated that name more than ever. Because of that, I didn't have a good first impression of this man."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうですよ。",
+      "…どちら様ですか？」"
+    ],
+    "textEn": [
+      "\"Yes, that's me.",
+      "...May I ask who you are?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「私の車はエアコンが効いてますから、そっちでお話しましょう。",
+      "ここ、暑くありません？」"
+    ],
+    "textEn": [
+      "\"My car has air conditioning, so why don't we move this into there?",
+      "Aren't you hot out here?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "男はこちらの問いかけをあっさり無視すると、校門に停まっている車を指差し、とっとと歩き出す。",
+      "……まともな話だったら、職員室ですればいいはずだ。",
+      "それをわざわざ自分の車という密室で行なおうとする時点で、不信感を感じずにはいられなかった。",
+      "でも、知恵先生はこの男の取次ぎをしている。",
+      "ということは、知恵先生にとって、この男は不審者ではないということになる。",
+      "………一体、この男は何者…？"
+    ],
+    "textEn": [
+      "He ignored my question and started walking towards the car parked in front of the school gate.",
+      "...If he wanted to talk about something normal, he would've used the teacher's office.",
+      "But he wanted to talk in his car instead. I couldn't help but feel suspicious.",
+      "Chie-sensei let him see me, though.",
+      "That meant he wasn't a suspicious individual as far as she was concerned.",
+      "...Who was he...?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「捕って食やしません。",
+      "どうぞどうぞ！」"
+    ],
+    "textEn": [
+      "\"I don't bite, you know.",
+      "Please, this way.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "車の後部座席を開けて私を呼んでいる。",
+      "………ひょっとしてこいつは…警察…？",
+      "まさか、………リナたちを殺したことが……警察に気取られた…？",
+      "心の中に、ぶわっと疑心暗鬼が湧き上がる。",
+      "…これが話に聞く、任意で事情を…というやつだろうか。",
+      "……本当は付き合いたくなどないが、ここで拒否すれば、かえって私の印象を悪くするだけだ。",
+      "私は覚悟を決め、",
+      "……車に乗り込んだ。",
+      "車内は本当に涼しかった。",
+      "カーエアコンなんて結構高級品のはずだ。",
+      "少なくともうちの父の車には付いていない。"
+    ],
+    "textEn": [
+      "He called out to me while opening the rear door.",
+      "...Is he a policeman...?",
+      "Did... the police find out that I killed those two...?",
+      "I felt anxious all of a sudden.",
+      "...Was this what they called a \"voluntary interview\"?",
+      "...I didn't want to go in that car. But if I rejected his offer, it'd only make me look suspicious.",
+      "I prepared myself",
+      "...and got in.",
+      "It was really cool inside the car.",
+      "A car A/C must cost a fortune.",
+      "At least, my father's car doesn't have one."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「冷え過ぎだったら言って下さいよ？",
+      "私、ガンガンに冷やしちゃう性質ですから。」"
+    ],
+    "textEn": [
+      "\"Please let me know if it's too cold.",
+      "I like keeping it that way.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「で、私に何の用ですか？」"
+    ],
+    "textEn": [
+      "\"So, what's this talk about?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お返しに私も相手の問いかけを無視して切り出すことにする。",
+      "男は胸ポケットから手帳を取り出しぱらぱらとめくると、そこに挟まれた１枚の写真を取り出した。",
+      "そこには……寝ぼけたような顔をした男の顔が写っていた。"
+    ],
+    "textEn": [
+      "In retaliation, I ignored his question and got to the point like he did.",
+      "He pulled a small notebook out of his breast pocket and flipped through it. He picked out a photo from it.",
+      "The photo showed... the face of a goofy-looking man."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「この男性のことで、ご存知のことがあったら教えて下さい。」"
+    ],
+    "textEn": [
+      "\"Please tell me if there's anything you know about this person.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その写真に写る男性は、寝惚けたような無表情だった。",
+      "無表情な写真は、時に身内でもわからないこともある。",
+      "…増してや、身内でもない私にわかるはずもない。",
+      "…………あと、内心、少しだけほっとした。",
+      "…リナたちの件と無関係だったからだ。"
+    ],
+    "textEn": [
+      "The man in the picture was expressionless and looked half asleep.",
+      "Sometimes you can't even recognize your own family members in a photo where they don't have an expression.",
+      "...So there's no way I would recognize a person who wasn't related to me.",
+      "......But anyway, that was a bit of a relief.",
+      "...This had nothing to do with Rina or her partner."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「シャツにマジックで落書きがありましてね。",
+      "竜宮さんを始めクラスメート何人かの署名入りでした。」"
+    ],
+    "textEn": [
+      "\"There were scribbles on his shirt,",
+      "and we found the signatures of students at this school, including yours, Ryuugu-san.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……え、…これ…富竹さん？！？！」"
+    ],
+    "textEn": [
+      "\"...Eh...... Is this... Tomitake-san?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "いつものあの、どこか頼りなさそうで、でも飄々とした雰囲気はこの写真からは微塵も感じられなかった。",
+      "寝ぼけた、感情のない顔…。"
+    ],
+    "textEn": [
+      "I don't feel his usual carefree unreliableness from this picture at all.",
+      "From this half-awake, emotionless face..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ではこちらの女性はわかりますか？」"
+    ],
+    "textEn": [
+      "\"How about this woman, then?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "見る前から何となく察しはついていた。"
+    ],
+    "textEn": [
+      "I knew what he was going to show."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……三四さんです。",
+      "鷹野三四さん。」"
+    ],
+    "textEn": [
+      "\"Her name is Miyo-san.",
+      "Miyo Takano-san.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「二人に最後に会ったのはいつですか？」"
+    ],
+    "textEn": [
+      "\"When did you see them last?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「綿流しの祭りの、お開きになった直後くらいに会ったと思います。」"
+    ],
+    "textEn": [
+      "\"I think it was right after the Watanagashi festival.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「何か気になったこととかありませんか？",
+      "何でも結構です。",
+      "話して下さい。」"
+    ],
+    "textEn": [
+      "\"Didn't you notice anything strange?",
+      "Anything.",
+      "Please tell me.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「富竹さんたちに…何かあったんですか？」"
+    ],
+    "textEn": [
+      "\"Did something happen to them?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よっしゃー！！",
+      "取ったぁ！！"
+    ],
+    "textEn": [
+      "\"Yeah!!",
+      "I got it!!"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "実はよー、『レナ』と『魅音』で二択だったんだよなぁ。」"
+    ],
+    "textEn": [
+      "To tell you the truth, I wasn't sure if it was 'Rena' or 'Mion'.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「じゃあ博打だったんですのー？！"
+    ],
+    "textEn": [
+      "\"So, you gambled?!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "……何てリスクのあることを…！」"
+    ],
+    "textEn": [
+      "...How risky...!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……それでも勝ちは勝ちなのですよ。」"
+    ],
+    "textEn": [
+      "\"......It doesn't matter how he won. What matters is that he won.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「お、レナだ。",
+      "お帰りー！",
+      "ずいぶん時間かかったねぇ？」"
+    ],
+    "textEn": [
+      "\"Oh, Rena.",
+      "Welcome back!",
+      "What took you so long?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音がレナが帰ってきたことに気付く。",
+      "レナは何だか疲れきっているように見えた。",
+      "……何の話だったのか想像もつかないが、それはきっと、あまり楽しい話ではなかったのだろうと思った。"
+    ],
+    "textEn": [
+      "Mion noticed that Rena had returned.",
+      "She looked exhausted.",
+      "...I have no idea what she talked about with the visitor, but it was obvious it wasn't something fun."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「レナ、…大丈夫？」"
+    ],
+    "textEn": [
+      "\"Rena... are you okay?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…え？",
+      "何、大丈夫って。",
+      "え？」"
+    ],
+    "textEn": [
+      "\"...What?",
+      "What's okay?",
+      "What?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「いや、顔色だよ。",
+      "青いというか白いというか。",
+      "……本当に大丈夫？」"
+    ],
+    "textEn": [
+      "\"I'm talking about you.",
+      "You look pale.",
+      "...Are you sure you're alright?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは大丈夫だと言い繕うとしたが、一瞬、表情を陰らせると、やっぱり今日は早退すると言った。",
+      "……あぁ、やっぱり無理に部活に引き込むんじゃなかったかなぁ。",
+      "ちょっと後悔した。",
+      "多分レナは、体調が悪いのを無理して付き合ってくれていたのだろう。",
+      "レナは自分の荷物を鞄にしまうと、先に抜けちゃってごめんねと謝り、教室を出て行った。"
+    ],
+    "textEn": [
+      "Rena tried to convince us she was fine, but her face clouded over for a moment and she decided to leave early.",
+      "...I shouldn't have forced her to join the game.",
+      "I was regretting it a little.",
+      "Rena probably forced herself to play with us, even though she wasn't feeling well at all.",
+      "Rena put her stuff in her bag, apologized to us for leaving early, and left the classroom."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「まぁ、仕方ありませんわね。",
+      "…では、せめて私たちの白黒ははっきりさせようじゃございませんの！」"
+    ],
+    "textEn": [
+      "\"Well, she's gone now.",
+      "...I guess we have to keep playing until we have a loser!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そうだね！",
+      "えっと次は誰の番だっけ？」"
+    ],
+    "textEn": [
+      "\"That's right!",
+      "Whose turn is it?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……みー！」"
+    ],
+    "textEn": [
+      "\"......Meep!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よっしゃ梨花ちゃん！",
+      "来やがれ！！！」"
+    ],
+    "textEn": [
+      "\"Okay, Rika-chan!",
+      "Come on!!!\""
+    ]
+  }
+]

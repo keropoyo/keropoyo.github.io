@@ -1,0 +1,5502 @@
+[
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さあああぁあぁあん！！！",
+      "わかりましたわ、わかりましたわ！！！」"
+    ],
+    "textEn": [
+      "\"Keiichi-san!!!",
+      "I know now, I figured it out!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "教室から沙都子の怒鳴り声が聞こえる。",
+      "……レナが時限発火装置を隠した場所がわかったんだ！！",
+      "レナをこの場で取り押さえたいが、もう時間はまるでないんだ。",
+      "レナより時限発火装置を何とかしないとッ！！"
+    ],
+    "textEn": [
+      "I heard Satoko screaming from the classroom.",
+      "Satoko had figured out where Rena hid the time bomb!!",
+      "I wanted to catch Rena, but I didn't have time for that.",
+      "I had to do something about the time bomb instead!!"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一！",
+      "早く沙都子のところへ行くのです！」"
+    ],
+    "textEn": [
+      "\"Keiichi!",
+      "Hurry up and go back to Satoko!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんがレナの前で両手を広げて立ち塞がっているのが見えた。"
+    ],
+    "textEn": [
+      "Rika-chan had spread her arms, blocking Rena's path forward."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ば、馬鹿なことはやめて逃げろッ！！！」"
+    ],
+    "textEn": [
+      "\"What are you doing? Just run!!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………………圭一。",
+      "これは初めてではないのですよ。",
+      "……覚えていないのですか？」"
+    ],
+    "textEn": [
+      "\".........Keiichi.",
+      "This isn't the first time I've done this for you.",
+      "Don't you remember?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………え？」"
+    ],
+    "textEn": [
+      "\"............Eh?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……前の時、……ボクにあとわずかの頑張りがあれば、……圭一は間に合ったのです。"
+    ],
+    "textEn": [
+      "\"If I'd tried a little harder the previous time... you could have made it."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "……今度こそ、間に合わせる……！",
+      "だから行ってなのですッ！！」"
+    ],
+    "textEn": [
+      "...So this time, you are going to make it!",
+      "Just go!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんが何を言っているのか、この土壇場では理解する余裕はなかった。",
+      "ひとつだけわかることがあった。",
+      "……あの時のレナや魅音が、そして今の俺が仲間のために命を捨てられると思うように！！",
+      "梨花ちゃんもその覚悟があるってことなんだッ！！",
+      "だから梨花ちゃんに逃げろというのは、仲間じゃないと宣告するのと同じことなんだ！！",
+      "だから俺は頼る、仲間である梨花ちゃんを頼る！！"
+    ],
+    "textEn": [
+      "I didn't know what Rika-chan was talking about.",
+      "But there was one thing I did know.",
+      "Just like Rena and Mion were ready to give up their lives for their friends, and I was willing to give up mine...",
+      "Rika-chan was prepared for that too!!",
+      "Therefore, telling Rika-chan to run was like telling her she wasn't my friend!!",
+      "And so, I will depend on my friend, Rika-chan!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「すまん梨花ちゃん！！！」"
+    ],
+    "textEn": [
+      "\"Thank you, Rika-chan!!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さぁあん、もう時間がああああッ！！！」"
+    ],
+    "textEn": [
+      "\"Keiichi-san, we are running out of tiiiiiime!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺は梨花ちゃんに任せ教室へ走った！！",
+      "圭一が教室へ駆け込んだことを足音で知ると、梨花はわずかの安堵の息を漏らした。",
+      "そこへ……レナのぬぅっとした黒い大きな影が迫る。"
+    ],
+    "textEn": [
+      "Leaving it to Rika-chan, I dashed for the classroom!!",
+      "As soon as Rika heard Keiichi's footsteps reach the classroom door, she sighed in relief.",
+      "As she did, Rena's black shadow came ever closer."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはははははあははははははははは！",
+      "すごいよ、すごいよ、これは部活じゃないんだよ？",
+      "梨花ちゃんは殺されちゃうよ、怒ったレナにきっと殺されちゃう！！」"
+    ],
+    "textEn": [
+      "\"Ahahahahahahahahahahahahahahaha!",
+      "That's great, that's just great; this isn't a club activity, you know?",
+      "You'll be killed for real!! You'll be killed by an angry Rena!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははははははははは……はは、………。",
+      "……へぇ？",
+      "……私が怖くないんだ？",
+      "梨花ちゃんすごいよ？」"
+    ],
+    "textEn": [
+      "\"Ahahahahahahahahaha...ha ha...",
+      "Hmm...",
+      "You're not afraid of me, are you?",
+      "You're amazing, Rika-chan.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花はさっきの倉庫から転げる時に、倉庫内からあふれ出たモップを拾い、逆さに持って、槍を構えるようにレナに向ける。",
+      "……その構えは一端で、…レナと戦う毅然とした意思が感じられた。",
+      "その表情が大人びていく。",
+      "不敵で、レナに対して余裕すら感じられた。",
+      "一瞬だけその表情に驚くレナ。"
+    ],
+    "textEn": [
+      "Rika grabbed a mop as she ran from the storage closet. She picked it up and held it upside down, like a spear.",
+      "Rika's stance told Rena that she was ready to fight.",
+      "Rika didn't look like a little girl anymore.",
+      "She looked so brave...",
+      "that Rena was even startled by it."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………すごいね。",
+      "殺されるのが怖くないんだ？」"
+    ],
+    "textEn": [
+      "\".........Boy, you really are amazing.",
+      "You aren't afraid of being killed at all, huh?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…ふん。」"
+    ],
+    "textEn": [
+      "\"...Heh!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花が皮肉るように笑う。",
+      "…こんな笑いは普段の梨花が浮かべるものではない。"
+    ],
+    "textEn": [
+      "Rika smiled cynically.",
+      "Rika usually never smiled this way."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……この私が死を恐れるとでも？",
+      "幾百の死の山脈を越えてきたこの私が今さら何を恐れるというのか。」"
+    ],
+    "textEn": [
+      "\"Do you really think I would be afraid of death?",
+      "I've experienced several hundred deaths up until now. Why should I be afraid of it all of a sudden?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「君、……梨花ちゃんじゃないね。",
+      "…………あの夜に出会った梨花ちゃんもどきの方だね……。",
+      "………正体を現したな、宇宙人め………！",
+      "本物の梨花ちゃんをどこへやった！！！」"
+    ],
+    "textEn": [
+      "\"You... aren't Rika-chan, are you?",
+      "...You're the one I met that night...",
+      "Show yourself, alien...!",
+      "Where is the real Rika-chan?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……本物の梨花？",
+      "ここにいるわよ。",
+      "……みー、にぱ〜☆」"
+    ],
+    "textEn": [
+      "\"The real Rika?",
+      "She's right here.",
+      "...Meep, nipah☆.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あぁ！！",
+      "その小馬鹿にしたところは間違いなく梨花ちゃんだね！",
+      "……そう、オヤシロさまは宇宙人だった。",
+      "古手家はその末裔で、……宇宙人の直系の一族だもんね！！"
+    ],
+    "textEn": [
+      "\"Ah!!",
+      "The way you're looking down on me, that really is like Rika-chan!",
+      "...I get it, Oyashiro-sama is an alien.",
+      "The Furude family is descended from him...  and therefore you are a descendant of aliens!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "あははははははははははははははは！！",
+      "脳みそを叩き割って、中の寄生虫を引きずり出してやるからね、あっははははははははははははははははははははははははははは！！！」"
+    ],
+    "textEn": [
+      "Ahahahahahahahahahahahahahahaha!!",
+      "I'll crack open your head and drag out all the parasites in your brain, ahhhahahahahahahahahahahahahahahahahahahahahahahahahahaha!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが奇声をあげながら鉈を大きく振りかぶり、梨花に飛び掛るッ！！"
+    ],
+    "textEn": [
+      "Rena raised her hatchet and charged at Rika with a scream!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ひゃああああああああッ！！！",
+      "一撃で叩き割ってあげるよおおおおおおおおッツ！！！！！」"
+    ],
+    "textEn": [
+      "\"Hyaaaahhhh!!",
+      "One swing is all I need to smash your head open!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "まさに襲い掛かる肉食獣のようにッ！！！",
+      "迎える梨花は、後ろ足をすっと一歩引き、腰を落として迎撃体勢を取る。",
+      "……その表情には臆すものは一切ない…！"
+    ],
+    "textEn": [
+      "Rena looked like a beast charging towards its prey!!!",
+      "Rika took a step backwards and lowered her body, preparing to counterattack.",
+      "She did that with no hesitation..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「生憎ね、１分も稼げれば充分なの。",
+      "遊んであげるわ、",
+      "おいで鉈女…！」"
+    ],
+    "textEn": [
+      "\"Even a minute is plenty.",
+      "I'll play with you.",
+      "Come on, hatchet girl!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「いいですの圭一さん！！",
+      "全てのヒントと答えはもう朝の時にありましたの！」"
+    ],
+    "textEn": [
+      "\"Do you not get it, Keiichi-san?",
+      "All the hints were already in place this morning!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お、落ち着け沙都子！",
+      "俺にわかるように話せ！",
+      "つまりどういうことなんだ？！」"
+    ],
+    "textEn": [
+      "\"C-Calm down, Satoko!",
+      "Explain more slowly so I can understand!",
+      "What are you trying to say?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こうして思い出せば簡単だったんですのよ…！",
+      "ほら、思い出せば明白…！"
+    ],
+    "textEn": [
+      "It's simple if you just remember...!",
+      "Come on, it's quite obvious when you do!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Girl",
+    "labelJp": "女子",
+    "textJp": [
+      "「ねーー、今日はくさいーーー、窓しめてー。」"
+    ],
+    "textEn": [
+      "\"Hey, something stinks today. Close the windows!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Young boy",
+    "labelJp": "少年",
+    "textJp": [
+      "「ばぁか、窓を閉めたらもっと暑くなるんだよー！！」"
+    ],
+    "textEn": [
+      "\"Silly, it'll be hotter in here if we close the windows!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "外からずっと感じてたガソリンの臭い。",
+      "……今日は営林署の人は来てないのだから作業はない。",
+      "だから彼らがさせた臭いじゃない。",
+      "つまり、これはレナが用意したガソリンの臭いなんだ。",
+      "レナは教室に撒くためのガソリンを近くに隠していたようだが、それはポリタンクに入っていた。",
+      "……だからあそこまで極端な臭いはさせないんだ。",
+      "つまり、教室に撒くために用意したガソリンとは別のガソリンがもう用意されていたんだ！",
+      "臭いはどこからして来た？",
+      "……外から？",
+      "気化したガソリンは空気より重い。",
+      "上から落ちてくるものなんだ。",
+      "そしてもう１つのヒントが重なる。"
+    ],
+    "textEn": [
+      "We had been smelling gasoline coming from outdoors.",
+      "There were no forestry service people in the office, so they weren't doing any work today.",
+      "The smell wasn't coming from anything they were doing.",
+      "In other words, it was the smell of Rena's gasoline.",
+      "Rena hid the gasoline near the classroom. She had it in a plastic container.",
+      "You can't smell gasoline that's in a plastic container...",
+      "So in other words, she had more gasoline ready than just in the container she used to spread it around the classroom.",
+      "Where was the smell coming from?",
+      "...Was it coming from outside?",
+      "Vaporized gasoline is heavier than air.",
+      "It sinks.",
+      "There was another hint other than that."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Young boy",
+    "labelJp": "少年",
+    "textJp": [
+      "「あれーーー？！",
+      "俺たちのボールがねえー！",
+      "北条、お前がまた隠したんだろー！！」"
+    ],
+    "textEn": [
+      "\"What?!",
+      "Our ball is missing!",
+      "You hid it again, didn't you, Houjou?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「誰がそんなものを隠しますの。",
+      "どうせ隠すならもう少し気の利いたものを隠しましてよ。」"
+    ],
+    "textEn": [
+      "\"Why would I hide such a stupid thing?",
+      "If I was going to hide something, I'd hide something better than that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ボール遊びが好きな子たちにとって、ボールの所在がわからなくなるなんてことはない！",
+      "普段と同じ場所にしまってあったはずだ。",
+      "それがなくなっていた！",
+      "つまりこれは、レナが何かに使ったということなんだ！",
+      "ガソリンが、",
+      "…上から、降りて。",
+      "…ボール？",
+      "詰めて。"
+    ],
+    "textEn": [
+      "Kids who love to play with their ball never lose it!",
+      "It should have been in the same place it always was.",
+      "But it was gone!",
+      "So that must mean that Rena used it for something!",
+      "The gasoline was",
+      "coming from above.",
+      "A ball was missing...",
+      "So maybe, it was stuffed somewhere..."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「レナさんは雨どいの出口をボールで詰めて、雨どいいっぱいにガソリンを注いだんですの！！",
+      "どこから？！",
+      "２階の屋根の上からですのよッ！！」"
+    ],
+    "textEn": [
+      "\"Rena-san blocked the drain with the ball and poured gasoline in the drain canal!!",
+      "Where?",
+      "On the roof of the second floor!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そうだ、２階の屋根に沿って雨どいは横に伸び、……そしてその端から真下に降りて普通は地面に排水される。",
+      "その出口で詰まっていて中にガソリンが満たされていたら……、それは、地上から２階の屋根まで届く巨大な火炎瓶と同じだ！！",
+      "しかもその雨どいは教室の窓のすぐ外を降りている…！！",
+      "雨どいの配管が爆発したら……教室まで連鎖爆発だッ！！"
+    ],
+    "textEn": [
+      "The drain canal extended along the roof of the second floor and then came straight down to the ground.",
+      "If it was plugged and filled with gasoline... it was like a huge Molotov cocktail that extended from the ground to the roof of the second floor!!",
+      "Furthermore, the drain canal ran by the classroom windows!!",
+      "If the canal exploded, the classroom would explode too!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあつまり！！",
+      "時限発火装置は！！」"
+    ],
+    "textEn": [
+      "\"Therefore!!",
+      "The time bomb must be...!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「２階の窓から延長コードか何かで引っ張って……、屋根の上ですわ！！！」"
+    ],
+    "textEn": [
+      "\"I bet she ran an extension cord out the second floor window... It's on the rooftop!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺は床にぶちまけられていた誰かのお道具箱の中のハサミを拾い、それで沙都子の戒めを解く。"
+    ],
+    "textEn": [
+      "I picked up a pair of scissors and cut Satoko's bonds."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そういや、梨花ちゃんはどうやって縄跳びを解いたんだ？」"
+    ],
+    "textEn": [
+      "\"By the way, how did Rika-chan free herself from the rope?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……悪ぅございましたわねぇ、私は解けるほど痩せてなくて。」"
+    ],
+    "textEn": [
+      "\"I apologize for not being thin enough to slip out myself.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "むくれる沙都子の頭をわしわしと撫でてやる。"
+    ],
+    "textEn": [
+      "I rubbed Satoko's head."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「みんなを頼む！",
+      "俺は屋上へ行く！！」"
+    ],
+    "textEn": [
+      "\"Take care of the rest here!",
+      "I'm going up to the roof!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺が教室を飛び出そうとした時、沙都子が呼び止めた。"
+    ],
+    "textEn": [
+      "As I jumped out of the classroom, Satoko stopped me."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さん、これを！！」"
+    ],
+    "textEn": [
+      "\"Keiichi-san, here!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何だよ、まだ何かあるのかッ！！」"
+    ],
+    "textEn": [
+      "\"What is it?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然、銀色の何かが俺の目の前に放り投げられる！",
+      "俺はそれをバシンと強い音を立ててキャッチした。",
+      "………それは、金属バットだった…！"
+    ],
+    "textEn": [
+      "Something silver sailed through the air!",
+      "I caught it.",
+      "It was a metal bat...!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…………にーにーのですのよ。"
+    ],
+    "textEn": [
+      "\"...That's Nii-nii's."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "後でちゃんと返してもらうでございますからね！」"
+    ],
+    "textEn": [
+      "Make sure you give it back to me, okay?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おうッ！！",
+      "すまん沙都子ッ！！！」"
+    ],
+    "textEn": [
+      "\"Sure thing!!",
+      "Thanks, Satoko!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "金属バットは手の平に吸い付くように馴染み、まったく重さを感じさせない。",
+      "こいつは心強いぜッ！！",
+      "……柄のところには悟史と名前が入っていた。",
+      "沙都子の兄、悟史のバット。",
+      "……去年の惨劇の、犠牲者。",
+      "……お前も俺と同じなんだよな。",
+      "二度と惨劇なんか繰り返させるものか！",
+      "このバットは舞台袖から送ってくれたお前の応援だ！",
+      "悪魔どもの惨劇の脚本を叩き壊してやろうぜッ！！",
+      "行くぞ悟史いいぃッ！！！",
+      "廊下へ飛び出て階段を駆け上がろうとした時、職員室の廊下の方からドンガラガッシャンと派手な音が聞こえた。",
+      "梨花ちゃんがゴロゴロと転がって、大の字のうつ伏せになるのが見えた。",
+      "………くそ、……梨花ちゃん！！",
+      "よく持ちこたえたぜ！！"
+    ],
+    "textEn": [
+      "The metal bat fit right in my palm. I didn't even feel its weight.",
+      "It really eased my mind!!",
+      "The name \"Satoshi\" was written on the handle.",
+      "This was the bat that belonged to Satoko's brother, Satoshi.",
+      "He was the victim of last year's tragedy.",
+      "You and I, we're the same.",
+      "I won't let another tragedy take place!",
+      "I'll treat this as a gift from you, who was waiting in the wings!",
+      "Let's rip apart the script of this demonic tragedy together!!",
+      "Let's go, Satoshi!!!",
+      "As I tried to run up the stairs, I heard a loud noise coming from the hallway by the teacher's office.",
+      "I saw Rika-chan rolling on the floor.",
+      "......Damn... Rika-chan!!",
+      "You held out as long as you could!!"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………くそー…なのです。",
+      "身体年齢があと５つもあれば……。」"
+    ],
+    "textEn": [
+      "\"......Damn it.",
+      "If my body were five years older...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「さぁあぁ、次は圭一くんだよおおおおおおぉおお！！！",
+      "うをああああぁあぁあッ！！！」"
+    ],
+    "textEn": [
+      "\"You're next, Keiichi-kun!!!",
+      "Whooooaaaaaa!!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「や、やべぇ！！　とにかく上だ。",
+      "……今は屋根の上だ！！」"
+    ],
+    "textEn": [
+      "\"Shit!! I have to go.",
+      "I have to get to the rooftop!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははははははは、よく気付いたねよく気付いたね！！",
+      "でもさせるもんかあぁあぁあぁぁ！！！」"
+    ],
+    "textEn": [
+      "\"Ahahahahahahaha, how did you figure it out, how did you?!!",
+      "Still, I won't let you get up there!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何て恐ろしい形相してやがる…！",
+      "ありゃあ、捕まえたら３枚に卸してやろうって顔だ。",
+      "冗談じゃねぇ！！",
+      "俺は３段飛ばしくらいで階段を駆け上がる！",
+      "そしてポケットの中の盗聴器をオンにする。",
+      "イヤホンはしてる暇はない！",
+      "レナが俺を追って階段を駆け上がろうとした時、",
+      "突然、足にピンと張られた縄跳びが絡みついた。",
+      "……派手に転んだところに三段重ねのタライがレナの頭に連続ヒットする。",
+      "…沙都子かぁ！！"
+    ],
+    "textEn": [
+      "Rena's face looked unbelievably scary!",
+      "She was ready to rip me apart if she caught me.",
+      "In that case, just try me!!",
+      "I jumped up the stairs, skipping every other step!",
+      "I turned on the bug in my pocket.",
+      "I didn't have time to put in the earphones!",
+      "As Rena flew up the stairs,",
+      "her foot got caught on a jump rope.",
+      "She tripped, and then three buckets fell on her head.",
+      "...The result of Satoko's trap!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「い、……たたたたたったぁ………！！",
+      "く、…あははははははははは、沙都子ちゃんかぁあぁぁぁ！」"
+    ],
+    "textEn": [
+      "\"Ow... ow ow ow ow...!!",
+      "Tch... Ahahahahahahahahaha, it was Satoko-chan, huh?!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子は廊下の壁に寄りかかりながら、チッチッチと言いながら立てた人差し指を振る。"
+    ],
+    "textEn": [
+      "Satoko leaned against the wall and waved her index finger in a mocking gesture."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「をーっほっほっほ！"
+    ],
+    "textEn": [
+      "\"Oh ho ho ho!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "なかなかの線を行ってましたけど、まだまだこの私とトラップ勝負をするのは３億５千光年くらい早くってでございましてよーー！！！」"
+    ],
+    "textEn": [
+      "You were pretty good, but you are about three hundred million light years too early to go up against a trap expert like me!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…沙都子ちゃん、光年は距離だよ。」"
+    ],
+    "textEn": [
+      "\"...Satoko-chan, light years are a unit of distance, not time...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "コーン！",
+      "発動しなかった４段目のタライが沙都子の頭にヒットする。",
+      "こんなやり取りをしている間にも圭一は先へ、先へ！！",
+      "レナは沙都子に構わず階段を駆け上り圭一の後を追う…！"
+    ],
+    "textEn": [
+      "Smash!",
+      "The fourth bucket hit Satoko on the head.",
+      "I continued up to the rooftop!!",
+      "Rena ignored Satoko and ran after me...!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お、お！",
+      "大石さんか？！",
+      "やったぞ、やったぞ畜生ぉおぉ！！！",
+      "ライターは奪った！",
+      "時限発火装置もわかってる、屋根の上、雨どいの中だ！！",
+      "今、抑えに行っている！！」"
+    ],
+    "textEn": [
+      "\"O, O!",
+      "Ooishi-san?",
+      "I did it!!!",
+      "I got the lighter.",
+      "I know where the time bomb is; it's on the rooftop in the drain canal!!",
+      "I'm headed up there right now!!\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「………大石さん、……まさかあれじゃあ！！」"
+    ],
+    "textEn": [
+      "\"...Ooishi-san... is that it?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "熊谷から双眼鏡を引っ手繰り、大石も屋根の上の雨どいを見る。",
+      "…………絶対ありえない場所に、ちょこんと時計が置いてあった！",
+      "その時計のコードは、２階の窓の中にすーっと伸びていた。",
+      "……こうして見るとあからさまなのに…、全然気付かなかった！！",
+      "沙都子は教室内の全員の戒めを解いていた。",
+      "だが、魅音の首のＵ字ロックだけはハサミではどうにもならない！"
+    ],
+    "textEn": [
+      "Ooishi grabbed the pair of binoculars from Kumagai and looked at the rain gutter on the rooftop.",
+      "......There was something like an alarm clock sitting there!",
+      "The cord from the clock was extending into the second floor window.",
+      "It was so obvious, but they didn't even notice until just then!",
+      "Satoko was working hard to remove her classmates' restraints.",
+      "But she couldn't do anything about the bike lock on Mion's neck!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……みんな、私はいいから早く逃げて……！」"
+    ],
+    "textEn": [
+      "\"Just run, everyone! Forget about me...!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あぁら魅音さんらしくもない。",
+      "…こういう瞬間でも、我が部の部長らしくあるべきではございません？"
+    ],
+    "textEn": [
+      "\"Hmm, that doesn't sound like Mion-san.",
+      "Why not act like our club president, even in a situation like this?"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "部長はただ一言、こいつを外せと命令あそばされれば結構ですのよ？」"
+    ],
+    "textEn": [
+      "All you have to do, as our president, is to give me an order to undo this lock, okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子が自分の襟の裏をまさぐると…妙な形に折り曲げたヘアピンが現れる。",
+      "沙都子は窓を開けるとそこに登り、魅音のＵ字ロックの鍵穴に向かい合う。"
+    ],
+    "textEn": [
+      "Satoko reached for the back of her collar... and produced a bent hair pin.",
+      "Satoko opened the window, climbed onto the windowsill, and faced the bike lock that was restraining Mion."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「み、みんなは全部のカーテンを開けて窓を全部開けたら、外へ駆け出すこと！！」"
+    ],
+    "textEn": [
+      "\"E-Everyone, open the curtains and the windows, then run!!\""
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「い、委員長！",
+      "前原さんはどうするんです？！」"
+    ],
+    "textEn": [
+      "\"B-But, class prez!",
+      "What about Maebara-san?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんは警察が助けてくれるから！",
+      "みんなはとにかく一刻も早くここから逃げて！！",
+      "……って、うわ？！",
+      "も、もう外したの？」"
+    ],
+    "textEn": [
+      "\"The police will help Kei-chan!",
+      "You all need to run as soon as possible!!",
+      "...Huh?",
+      "Did you unlock it already?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「北条沙都子にとって、Ｕ字ロックのＵは、“うわ！こんなの楽勝！”のＵでございましてよー！」"
+    ],
+    "textEn": [
+      "\"To me, this type of lock is child's play!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "双眼鏡が教室を捉えた。",
+      "カーテンが一斉に開けられ、窓が開かれる。そして、クラス全員が校庭に駆け出してくるではないか！",
+      "大石は凄まじい重量感で指揮車の無線を持つ大高を弾き飛ばすと、無線に怒鳴った。"
+    ],
+    "textEn": [
+      "The binoculars were trained on the classroom.",
+      "All the curtains were open, as well as all the windows. The children, in turn were all running out onto the schoolyard!",
+      "Ooishi pushed Ootaka aside, then grabbed his radio and yelled into it."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「全班突入しろ！！",
+      "突入突入突入ッ！！",
+      "人質を全員確保しろ！！",
+      "犯人は人質１名を追って２階へ上がった模様！」"
+    ],
+    "textEn": [
+      "\"All units, go!!",
+      "Go, go!!",
+      "Secure the hostages!!",
+      "The suspect is going up to the second floor, running after one of them!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「こ、こら！　何の真似だね！！　お、大石くん、無線を返したまッグギャッ……？！　…あ………ぐぐぐぐぐぐ……」"
+    ],
+    "textEn": [
+      "\"Hey! What are you doing? Ooishi-kun, give me back the radio... Gyahh! Ah... guhhhhh.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大高が大石の無線を奪おうと組みかかって来たところに、熊谷がすっと割って入った。",
+      "鈍い音がして、大高が痙攣しながら沈んでいく。"
+    ],
+    "textEn": [
+      "Ootaka tried to grab the radio from Ooishi, but Kumagai stepped in.",
+      "There was a dull noise and Ootaka crumbled to the floor, convulsing."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「あー、すみませんです。",
+      "膝が、たまたま玉に綺麗〜に入っちゃったっすね。」"
+    ],
+    "textEn": [
+      "\"Oops, sorry.",
+      "I guess my knee happened to hit your balls.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「教室内にはまだガソリンが充満しているぞ、充分に注意しろ！",
+      "ガス弾や閃光弾の類の使用は禁ずる、繰り返す、ガス弾、閃光弾の使用は禁ずる！！",
+      "大爆発するぞ！！」"
+    ],
+    "textEn": [
+      "\"The classroom is still filled with gasoline, be very careful!",
+      "You are forbidden from using any gas bombs or flares. Again, do not use gas bombs or flares!!",
+      "The whole place will blow!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「支援班よりＨＱ！",
+      "人質２４名を確保！！",
+      "１名は外傷多数！」"
+    ],
+    "textEn": [
+      "\"Support unit to HQ!",
+      "We secured twenty-four hostages!!",
+      "One is injured!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「突入班、１階制圧中。",
+      "……トラブル発生。",
+      "電源室、開錠不可。」"
+    ],
+    "textEn": [
+      "\"This is the assault unit. We're trying to take control of the first floor.",
+      "...We've got a problem.",
+      "The electrical room is locked, and we can't get in.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「不可ぁ？！",
+      "扉を打ち破れないですかね？！」"
+    ],
+    "textEn": [
+      "\"You can't get in?!",
+      "Can't you break down the door?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「教室真正面です。",
+      "ガソリン臭濃厚、破砕時に着火の恐れあり。",
+      "指示を待ちます。」"
+    ],
+    "textEn": [
+      "\"It's located directly opposite the classroom.",
+      "The smell of gasoline is strong here. We might ignite the gas when breaking down the door.",
+      "We'll await further orders.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…くそッ！！",
+      "……ブレーカーを落とせばアガリだと思ったのになぁ！",
+      "電源室は放棄、２階部分を制圧されたし！！」"
+    ],
+    "textEn": [
+      "\"Shit!!",
+      "We could have just turned the power off!",
+      "...Forget the electrical room, go secure the second floor!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「突入班了解、",
+      "α、突入！突入！突入！！！」"
+    ],
+    "textEn": [
+      "\"Assault unit, roger that.",
+      "Alpha, GO! GO! GO!!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「大高くん！",
+      "電源室確保失敗時はどうするつもりだったんです！！」"
+    ],
+    "textEn": [
+      "\"Ootaka-kun!",
+      "What were you going to do if you failed to secure the electrical room?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「そ、…それに失敗しないための特殊部隊だ…。」"
+    ],
+    "textEn": [
+      "\"That is... That's what the special unit was for...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…これだから坊ちゃん育ちは…。",
+      "あとは時計のコンセントを押さえるしかないか！」"
+    ],
+    "textEn": [
+      "\"This is the problem with rich boys...",
+      "We'll just have to secure the clock's outlet now!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「狙撃班よりＨＱへ。",
+      "１階屋根部分に男子人質１名を発見しました。」"
+    ],
+    "textEn": [
+      "\"Sniper unit to HQ.",
+      "I can see a male hostage on the rooftop of the first floor.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「大石さん！！",
+      "前原くんです！！」"
+    ],
+    "textEn": [
+      "\"Ooishi-san!!",
+      "That's Maebara-kun!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「スピーカーを貸せ！！",
+      "前原さぁん！！！",
+      "時計のッ、電源は２階の奥の部屋ぁあぁ！！」"
+    ],
+    "textEn": [
+      "\"Give me the speaker!!",
+      "Maebara-san!!!",
+      "The clock is plugged into the back room on the second floor!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "だが圭一は首を何度も横に振った。",
+      "…無理という意味だ。",
+      "……彼は今、レナに追われているのだから、なかなか思い通りには動けないということか。",
+      "ならもう戻れとは言わない。",
+      "むしろ２階屋根へ上がり、時計本体を抑えるしかないッ！！"
+    ],
+    "textEn": [
+      "I shook my head repeatedly.",
+      "I couldn't do that.",
+      "Rena was coming after me, so I couldn't head that way.",
+      "What else could I do?",
+      "The only way was to go up to the roof of the second floor and get the clock from there!!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「前原さああぁあん！！",
+      "そのまま２階の屋根に上がってぇえぇ！！！",
+      "誘導します！！」"
+    ],
+    "textEn": [
+      "\"Maebara-saaaan!!",
+      "Continue up to the roof of the second floor!!!",
+      "I'll direct you from there!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石さんがスピーカーでさらに上に上がれと指示した。",
+      "…２階の屋根にあるとは言っても、沙都子は具体的な場所を言い当てたわけじゃない。",
+      "雨どいの上と言っただけだ。",
+      "でも大石さんたちは双眼鏡か何かで発見したのかもしれない。",
+      "張り出したベランダの柵に足を掛け、ひょいひょいっと２階の屋根の上に駆け上がる。",
+      "……こんなにも体が軽いと思ったことは初めてだった。",
+      "今なら、指２〜３本で体を持ち上げられそうに感じた。"
+    ],
+    "textEn": [
+      "Ooishi-san was telling me to go further up.",
+      "Satoko only told me that it was on the rooftop of the second floor, and she didn't tell me where exactly.",
+      "She only said it was in the drain canal.",
+      "But maybe Ooishi-san found it with his binoculars.",
+      "I put my foot on the railing of the veranda and ran up to the rooftop.",
+      "I had never felt so light.",
+      "I felt like I could lift myself with just two or three fingers."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「そのまま、まっすぐ走ってッ！！！",
+      "雨どいの一番奥ー！！！",
+      "時間がないッ、あと３０秒おおおぉ！！！」"
+    ],
+    "textEn": [
+      "\"That's it, keep going!!!",
+      "It's at the furthest end of the drain pipe!!!",
+      "You only have thirty seconds!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "け！",
+      "３０秒なんて楽勝だああぁああ！！！",
+      "その半分でも行けるぜえぇえッ！！",
+      "見つけた、……あれかッ？！",
+      "あれだああぁあ！！！"
+    ],
+    "textEn": [
+      "Heh!",
+      "Thirty seconds would be plenty of time!!",
+      "I could get there in half that!!",
+      "Over there... Was that it?",
+      "It waaaaaaas!!!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「狙撃班よりＨＱへ。",
+      "１階屋根部分に犯人を発見！」"
+    ],
+    "textEn": [
+      "\"Sniper unit to HQ.",
+      "I can see the suspect on the rooftop of the first floor!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……あ〜〜、撃てたら撃ちたいけど、それ、実弾ですよねぇ？",
+      "実は狙撃銃タイプの催涙ガス銃とか、そういうことだったりしません？」"
+    ],
+    "textEn": [
+      "\"Ahh, I wish you could fire, but you're using live ammo, aren't you?",
+      "It's not tear gas or anything, is it?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「いえ、……実弾です。」"
+    ],
+    "textEn": [
+      "\"No, it's live ammunition.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「そーゆうのは軍隊で使ってくださいよ、日本の警察にゃ必要ないですねぇ…！",
+      "前原さああん！！",
+      "追って来てます！！",
+      "急いで！",
+      "追い詰められる！！！」"
+    ],
+    "textEn": [
+      "\"Use those in the military! Japanese police don't need anything like that...!",
+      "Maebara-san!!",
+      "She's after you!!",
+      "Hurry!!",
+      "She'll be there soon!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あと何秒だよ！！！",
+      "どうでもいいや、うをああああああああ！！！",
+      "俺は屋根の上を滑り込み、ガソリンのすごい臭いを放つ雨どいの配管の上に置かれた時限発火装置を抱きかかえる。",
+      "…そいつには千切れて銅線が剥き出しになったコードが繋がっていた。",
+      "こいつから火花が出てドカンだったわけか！",
+      "時計の針が妙に狭い角度になってて、秒針も慌てて分針の時針と一緒に重なろうと追いかけてきている最中だった……。",
+      "７、",
+      "６、",
+      "５、",
+      "４、",
+      "３、",
+      "う、をっおおおおおおおおお！！！！",
+      "俺はそれを地面へ投げ落とす！！",
+      "ちょっと遅れてガッシャンといい音が響いてきた。",
+      "はぁ、…はぁ、……はぁ！！",
+      "や、……やったかッ？！"
+    ],
+    "textEn": [
+      "How many more seconds did I have?",
+      "Ah, who cares? Whooaaahhhhh!!!",
+      "I slid down the roof and grabbed the kitchen timer that was sitting on the drain pipe, which was filled with gasoline.",
+      "There was a cord with a copper wire attached to it.",
+      "This was supposed to create sparks and start an explosion!",
+      "The hands on the clock kept moving, with the second hand trying to reach the minute hand...",
+      "Seven,",
+      "six,",
+      "five,",
+      "four,",
+      "three,",
+      "Whoooaaaaaoooooooohhh!!!!",
+      "I threw it to the ground!!",
+      "A moment later, I heard the noise of something breaking.",
+      "Hah... hah... hah!!",
+      "Did I do it?"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「突入班よりＨＱ、時限発火装置の停止を確認！」"
+    ],
+    "textEn": [
+      "\"Assault unit to HQ, the time bomb has been stopped!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「よっしゃあああぁああぁあッ！！！」"
+    ],
+    "textEn": [
+      "\"Yeeeeeeeees!!!\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「お、大石さん、やった、やったっすよー！！」"
+    ],
+    "textEn": [
+      "\"O-Ooishi-san, we did it, we did it!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「やった！",
+      "ま、前原さん、やったあああ！！」"
+    ],
+    "textEn": [
+      "\"Yeah!",
+      "M-Maebara-san, good job!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さんはちょっとハラハラさせ過ぎですわね。",
+      "余裕がないのはエレガントではありませんでしてよ！」"
+    ],
+    "textEn": [
+      "\"Keiichi-san certainly made me nervous.",
+      "Cutting it so close isn't elegant, you know!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "警官隊だけでなく、救急車に運ばれようとしているクラスメートたちも歓声を上げるのだった。"
+    ],
+    "textEn": [
+      "Not only policemen, but the children who were on their way to ambulances raised their voices in cheer."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「大石さん、消防からっす！",
+      "現場は依然、危険度最大につき、突入班全員の即時退却を進言していますッ！！」"
+    ],
+    "textEn": [
+      "\"Ooishi-san, there's a message from the fire department.",
+      "The scene is still dangerous, so order all units to retreat immediately!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「時限発火装置はもうないのに？！」"
+    ],
+    "textEn": [
+      "\"Isn't the time bomb gone, though...?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「発火装置がなくて危険度は最大級の現場だそうです。",
+      "これ以上は突入班全員の生命に危険があります！」"
+    ],
+    "textEn": [
+      "\"Although the ignition device is gone, it's still extremely dangerous.",
+      "The lives of the assault unit might be at stake.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「くそ…！",
+      "屋上の前原くんをどうしよう！！",
+      "２階屋根なら、何とか飛び降りれないか？！」"
+    ],
+    "textEn": [
+      "\"Damn...!",
+      "What about Maebara-kun up there?",
+      "Can he jump off?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「大石さん、図面では校舎下に花壇があります！",
+      "そこへ飛び降りるように誘導しましょう！！」"
+    ],
+    "textEn": [
+      "\"Ooishi-san, according to the map, there's a flower bed by the school building.",
+      "We'll tell him to jump there!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「大石より突入中の全班へ！！",
+      "作戦中止、退却せよ退却せよ！！」"
+    ],
+    "textEn": [
+      "\"Ooishi to all units!!",
+      "Stop the operation, fall back immediately, fall back!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「α了解。」"
+    ],
+    "textEn": [
+      "\"Alpha here, roger that.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Policeman",
+    "labelJp": "警官",
+    "textJp": [
+      "「β了解、退却退却退却！！」"
+    ],
+    "textEn": [
+      "\"Beta here, roger that. Fall back, fall back!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「聞こえますか前原さああああん！！",
+      "それから竜宮さんも！！",
+      "もうそこは危険です！！",
+      "いつ爆発するかわからない！！",
+      "校舎の下に花壇があります、そこへ飛び降りてくださいいいいい！！！」"
+    ],
+    "textEn": [
+      "\"Can you hear me, Maebara-san?",
+      "Ryuugu-san too!!",
+      "It's too dangerous to stay there!!",
+      "It might explode at any minute!!",
+      "There's a flower bed by the school building; jump down there!!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……花壇だって？",
+      "畜生、ここからじゃよくわかんねぇってのによ…。」"
+    ],
+    "textEn": [
+      "\"A flower bed?",
+      "Damn it, I can't see it from here...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "残念だが、もうのんびりと花壇を探してる暇はないようだった。",
+      "…………屋根の淵に白い手が掛かり、",
+      "………続いてレナの頭が覗く。",
+      "レナはもはや焦らず、ゆっくりとした重みのある動作で屋根の上に這い上がっていた。",
+      "俺はそれを悠然と待ち受けている…。"
+    ],
+    "textEn": [
+      "But it didn't sound like I had enough time to be looking for it.",
+      "......I noticed a white hand at the edge of the roof...",
+      "followed by Rena's head.",
+      "Rena slowly crawled up to the rooftop.",
+      "I waited for her there."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……まさか、こんなところに隠したのを見付けるとはね…。",
+      "……これで全て、……失敗か………。」"
+    ],
+    "textEn": [
+      "\"I never thought you would find it.",
+      "It was all for nothing...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが首をバリバリと掻き毟る。",
+      "せっかく貼ったバンドエイドは全て剥がれ落ちてしまっていて、痛々しい傷跡が血を滲ませて覗いていた…。"
+    ],
+    "textEn": [
+      "Rena scratched at her throat.",
+      "The band-aids peeled off, and her throat started to bleed..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ゲームセットだな、",
+      "レナ！！！」"
+    ],
+    "textEn": [
+      "\"It's game over,",
+      "Rena!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺たちは学校の２階の屋根の上で対峙していた。",
+      "…もうこれで、…部活、実戦編はおしまいだ！",
+      "初めレナは、計画を破綻させた俺を憎悪の目で睨んでいたが、",
+      "…途中から諦めがついたのか、ふっと笑い、今度は不敵に笑うようになった。",
+      "ひぐらしたちの合唱が、俺たちの戦いの汗を冷やそうとしてくれるのだが……。",
+      "……まだまだ俺たちにはそのサービスは必要なさそうだった。"
+    ],
+    "textEn": [
+      "We were confronting each other on the rooftop of the second floor.",
+      "...This wasn't a club activity, but a real battle!",
+      "Rena was glaring at me with hatred at first...",
+      "But maybe because she had already given up, she started smiling wickedly.",
+      "I heard the chorus of the higurashi in the background, as if to cool us down from the heat of battle.",
+      "I didn't think we needed their service yet, though."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね、スゴロクだったらここはゴールで圭一くんのアガリだね。",
+      "…でもこれはゲームじゃない。"
+    ],
+    "textEn": [
+      "\"Yeah, if it was a board game, you'd have reached the goal and won.",
+      "But... this isn't a game."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "だからここはゴールじゃなくて、行き止まりって言うんだよ？」"
+    ],
+    "textEn": [
+      "So this isn't a goal--it's a dead end.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………ち、負けを認めないやつだな…。",
+      "………レナはつくづく強いヤツだよ。",
+      "絶対へこたれない、挫けない。",
+      "最後まで戦う。",
+      "そして、最後まで信じるんだ。」"
+    ],
+    "textEn": [
+      "\"......Shit, you don't give up, do you?",
+      "Rena, you really are strong.",
+      "You never give up.",
+      "You fight until the bitter end.",
+      "You keep believing until that point, too.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「こんな時に褒められても、ちっともうれしくないね……。",
+      "圭一くんは私が最後の命を賭しての計画をブチ壊しにした。"
+    ],
+    "textEn": [
+      "\"Praise like that won't make me happy now...",
+      "You ruined everything that I had risked my life for, Keiichi-kun."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……人類を宇宙人から守ろうと、必死に戦ってたのに、それをブチ壊しちゃった。"
+    ],
+    "textEn": [
+      "I was simply trying to protect our species from the aliens. You ruined it."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "これで人類が滅んじゃったら……、圭一くんのせいで滅んだって歴史に残っちゃうんだよッ！！！」"
+    ],
+    "textEn": [
+      "If humans go extinct... it'll be your fault, Keiichi-kun. That will be recorded in history!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "笑うつもりはなかったが、ちょっと吹き出してしまったかもしれない。",
+      "…俺のせいで人類が滅んだなんて、それが宇宙人の歴史に載るなら、何だかカッコイイじゃねぇか。"
+    ],
+    "textEn": [
+      "I didn't mean to laugh, but I couldn't help it...",
+      "My name would be written down in the history books of the aliens as the one who destroyed the human species. Somehow, that sounded kinda cool."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナ。",
+      "お前が何と言おうと、このゲームは俺の勝ちだ。",
+      "すでに俺が勝ってるのに、レナが負けを認めないだけだ。」"
+    ],
+    "textEn": [
+      "\"Rena...",
+      "no matter what you have to say, I've won this game.",
+      "I've already won, and you just don't want to admit it. That's all.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……………そうだね、そうなのかもしれないね。」"
+    ],
+    "textEn": [
+      "\"Yeah...... maybe you're right.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「でも、そういうものかもしれねえよな。",
+      "ゲームってのは勝者が決まって終わるもんじゃない。",
+      "敗者が決まって終わるもんなんだ。",
+      "……ってことは、俺が勝つだけじゃ駄目ってことだ。」"
+    ],
+    "textEn": [
+      "\"But maybe that's not how it works.",
+      "A game doesn't end when there's a winner.",
+      "It ends when there's a loser.",
+      "That means... for me, winning isn't enough.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……………へぇ……？",
+      "それはどういう意味なのかな……？」"
+    ],
+    "textEn": [
+      "\"............Hmm?",
+      "What do you mean?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺は金属バットで肩を叩きながら、もう片方の手で、レナにかかってこいと合図する。"
+    ],
+    "textEn": [
+      "I tapped my shoulder with the metal bat, gesturing for Rena to come at me."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナに、…きっちり負けたってことを叩き込んでやろうってことだよ。」"
+    ],
+    "textEn": [
+      "\"I'm going to make you understand that you lost.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "逃げも隠れもしない。",
+      "…どうしてか？",
+      "俺たちの部の会則に敵前逃亡はないからだよ！！"
+    ],
+    "textEn": [
+      "I won't run or hide.",
+      "Do you know why?",
+      "According to the rules of our club, we don't run from our enemies!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ここで白黒をつけてやるぜ。",
+      "レナがもう負けてるってことをよッ！！」"
+    ],
+    "textEn": [
+      "\"I'll prove to you",
+      "that you've already lost, Rena!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………………………ふぅん。」"
+    ],
+    "textEn": [
+      "\"..................Hmm.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「言ってやるぜ。",
+      "寄生虫に宇宙人？",
+      "バカじゃねーのか、バーカ。",
+      "そんなの今時誰が信じるんだよ、ダセーなぁ。",
+      "鼻で笑っちまうぜ、はっはっはっはッ！！」"
+    ],
+    "textEn": [
+      "\"Are you ready?",
+      "Parasites and aliens?",
+      "How stupid!",
+      "Who would believe in things like that these days?",
+      "I can only laugh, ha ha ha har!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………最初っから信じてなかったくせに、",
+      "…信じてたふりをして、",
+      "……レナを騙してたな……！！",
+      "許せない…。",
+      "許せない、許せない…ッ！！」"
+    ],
+    "textEn": [
+      "\".........You never believed me in the first place",
+      "yet you pretended that you did.",
+      ".........How dare you deceive me!!",
+      "I won't forgive you...",
+      "I'll never forgive you!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナが信じてるのは勝手だぜ。",
+      "だが俺はそんな胡散くせーの信じねえからな！"
+    ],
+    "textEn": [
+      "\"I don't care if you believe in those things.",
+      "But I would never believe in anything that stupid!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "同じ信じるなら徳川の埋蔵金の方が楽しそうだぜ！",
+      "それでも信じさせたいってんなら、",
+      "………俺たち部活メンバーには、簡単な信じさせ方があるじゃねぇかよ？」"
+    ],
+    "textEn": [
+      "Well, if I did have to believe in anything like that, I'd rather believe in the buried treasures of the Tokugawa Shogunate!",
+      "But if you still want me to believe...",
+      "don't you remember our club's rules?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……………勝った方が正義、ってことだね…！」"
+    ],
+    "textEn": [
+      "\"Whoever can seize victory is the correct one...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そういうことさ！！」"
+    ],
+    "textEn": [
+      "\"There you go!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナと俺は、ニヤリと笑い合いながら、屋上の傾いだ屋根の上をじりじりと回り間合いを計りあう。"
+    ],
+    "textEn": [
+      "Rena and I grinned at each other, and as we went around in circles on the rooftop, we both checked the distance between us."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナが俺をブチのめせたなら、俺も宇宙人の話を信じてやろうじゃねぇか！！",
+      "朝晩、ＵＦＯを呼ぶ怪しげな踊りをして、牛小屋にキャトルミューティレーションに行ってやらあ！！",
+      "だがなレナ。"
+    ],
+    "textEn": [
+      "\"If you can take me down, I'll believe in your alien stories!!",
+      "I'll perform a mysterious dance every morning and night to call for UFOs to come and beam up livestock!!",
+      "But Rena..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "俺にぐうの音が出ないくらいにブチのめされたら、そん時は覚悟してもらうぜぇ！！」"
+    ],
+    "textEn": [
+      "If I take you down, then I want you to be ready!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あっはははははははははははははははは！！！",
+      "それを取り決める必要はないかな、かな！",
+      "圭一くんなんかに私が負けるはずないもん！！」"
+    ],
+    "textEn": [
+      "\"Ahhhahahahahahahahahahahahahahahaha!!!",
+      "I don't think you even need to think further than that, I don't think you do!",
+      "You will never defeat me!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナが牽制とは思えない重い一撃で踏み込んでくる！！",
+      "それを俺は易々と金属バットで受けた。",
+      "一瞬、火花が飛んだ気がした。",
+      "……このくらいでなくちゃ面白くないぜ！"
+    ],
+    "textEn": [
+      "Rena came at me with a heavy strike!!",
+      "I caught it easily with the metal bat.",
+      "It looked like there were some sparks.",
+      "This was finally getting interesting!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「まぁそう言うなよ、意外にそうでもなかったりするもんだぜ？！",
+      "俺も部活で何度も激戦を潜ってきてようやくわかってきたことがある。",
+      "自分ってヤツをな！"
+    ],
+    "textEn": [
+      "\"Hey, maybe you shouldn't say that yet. You might be wrong, you know.",
+      "When I went through a whole lot of fierce battles in our club, I learned something.",
+      "I learned about myself!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "どういう時に自分が最高のパワーを出せるかわかって来たんだ。」"
+    ],
+    "textEn": [
+      "Now I know what I need... to bring out my ultimate power.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「へー？！",
+      "それは何かなぁ？"
+    ],
+    "textEn": [
+      "\"Really?",
+      "I wonder what it is..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "かなあ！！」"
+    ],
+    "textEn": [
+      "I wonder!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの鉈はそりゃあ仮にブチ込まれたとなりゃあ、とんでもない威力になる強力な武器だ。",
+      "…だがな、こっちの金属バットだって捨てたもんじゃないんだぜ。",
+      "確かに刃はないかもしれないが、リーチ、そして扱い易さは折り紙付きだ！",
+      "だが俺は無様に防戦に回ったりなんかしない！",
+      "互いに剣戟をぶつけ合い、相手を力でねじ伏せようとするッ！！",
+      "腕力だけなら俺の方が上だろうが、いわゆる遠慮のなさで、潜在能力を引き出すことに関してはレナの方が上ってことか。",
+      "……つまり、パワー比べなら互角ってわけだ！！",
+      "かーッ！",
+      "手加減不要でＯＫとは、泣かせるぜってのを飛び越えて、面白すぎるぜオイ！"
+    ],
+    "textEn": [
+      "Rena, your hatchet can be a powerful weapon.",
+      "But my metal bat is as powerful as your hatchet.",
+      "Sure, it doesn't have a blade, but it reaches farther and it's easy to handle!",
+      "I won't be going for a defensive battle!",
+      "I'm going to fight you face to face, and I'm going to defeat you!!",
+      "I'm sure I'm stronger than you physically, but you're better at drawing out your true potential, Rena.",
+      "In other words, we're equally matched!!",
+      "This is great!",
+      "I won't need to hold back at all!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「私を叩きのめしたらどうするって？"
+    ],
+    "textEn": [
+      "\"So what are you going to do after you beat me?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "ほらほらほらほらッ！！！"
+    ],
+    "textEn": [
+      "Take that, that, and that!!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "押されてるんじゃないかなッ？！」"
+    ],
+    "textEn": [
+      "Hmm, I think I might have the upper hand!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「け！",
+      "遊んでやってるだけだぜ！",
+      "まぁ見てろ！",
+      "レナをコテンパンにしたら、どうしてやろうかねぇ〜！！",
+      "これだけ互いにコインやチップを賭けまくってるんだ。"
+    ],
+    "textEn": [
+      "\"Huh!",
+      "I'm just warming up!",
+      "Just you wait and see!",
+      "Wait and see what I do after I take you down!",
+      "We've both put a lot of chips on the pile!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "相当の支払いを覚悟してもらうぜええぇ！！！」"
+    ],
+    "textEn": [
+      "Prepare yourself for having to make a big payout!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはははははははははははははは！！"
+    ],
+    "textEn": [
+      "\"Ahahahahahahahahahahahahahaha!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "得ることのかなわない勝利に酔うもまた皮算用の醍醐味だね！"
+    ],
+    "textEn": [
+      "Aren't you counting your chickens before they've hatched?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "圭一くんの虚勢が痛々しいよ！」"
+    ],
+    "textEn": [
+      "Your bluffing is just pathetic!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「チッチッチ！",
+      "わかってないな！"
+    ],
+    "textEn": [
+      "\"Heh heh heh!",
+      "You don't get it, do you?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "俺はご褒美のデカさに比例してパワーアップする男だぜッ？！"
+    ],
+    "textEn": [
+      "My strength increases in proportion to my reward, don't you know?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "そうだなあああぁぁ！！"
+    ],
+    "textEn": [
+      "Let's see...!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "もちろん、俺専属のメイドさんだよなぁあぁ！！"
+    ],
+    "textEn": [
+      "You'll be my personal maid!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "朝はおはようございますから、夜はおやすみなさいまで、たっぷりたっぷりご奉仕三昧だ！"
+    ],
+    "textEn": [
+      "Starting from the moment I wake up until I go to sleep at night, you'll serve me all day, every day!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "メイド衣装は監督に全面協力を受けて、日替わりチェンジのお楽しみぃいいぃ！！"
+    ],
+    "textEn": [
+      "With Coach's help, you'll be wearing a different costume every day!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "うをお、夜はおやすみなさいまで？"
+    ],
+    "textEn": [
+      "Wait, until I go to sleep at night?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "いやぁ、今夜は寝かさないぜ〜〜はあはあ！！"
+    ],
+    "textEn": [
+      "What if I make it so that you won't let me sleep instead?!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "なぁんてどうだぁッ？！」"
+    ],
+    "textEn": [
+      "How 'bout that?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あっはははははははははははははは、あーっはっはっはっはっはっはっはっは！！"
+    ],
+    "textEn": [
+      "\"Ahahahahahahahahahahahahahaha. Ahhhh ha ha ha ha ha ha ha ha!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "圭一くんらしいなぁ！"
+    ],
+    "textEn": [
+      "That's so like you, Keiichi-kun!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "そんなのはゴメンだね！"
+    ],
+    "textEn": [
+      "No, thank you!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "むしろ私が勝って逆の立場にしてあげるよ！！」"
+    ],
+    "textEn": [
+      "Actually, I'll win, and make you my servant!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あっはっはっはっは！！",
+      "互いに普段じゃ絶対出せないような壊れた笑い声を上げながら打ち合うッ！！",
+      "何だかとんでもなく楽しくなってくるから不思議だった。",
+      "俺はレナと殺し合いをしてるってのに、何だってこんなにもハイテンションなんだよ？！",
+      "火花が飛び散ってんだぜ、当りゃ大怪我確定なんだぜ…！！",
+      "転げ落ちりゃ骨折するかもしれねぇってのに、くそ、なんでこんなに面白いんだよッ！！",
+      "俺は今日一日、レナに散々怖がらせられて、泣いたり悲しんだりしてたんだぜ？",
+      "それが、どこでどう間違ったらこんなことになっちまうんだろうな！！"
+    ],
+    "textEn": [
+      "Ah ha ha ha ha!!",
+      "We both laughed like crazy people as we struck at each other!!",
+      "It was strange how much fun it was becoming.",
+      "Rena and I were trying to kill each other... and yet, it was a blast!",
+      "Sparks were flying. We could get seriously injured!!",
+      "If we fell off of the rooftop, we'd break our bones, yet this was so much fun!!",
+      "I had been mourning and crying all day today while Rena terrified me.",
+      "How did all that turn into this?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ってことは結局、俺たちにシリアスは似合わねぇってこった！"
+    ],
+    "textEn": [
+      "\"The two of us can't be serious even if we try!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "……互いの火花を浴び合いながらヘラヘラしてるのが互いに性に合ってるってわけだ！！」"
+    ],
+    "textEn": [
+      "Even with sparks flying, we can only goof around!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「お生憎だね！"
+    ],
+    "textEn": [
+      "\"Too bad!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "レナはエレガントで上品なのが大好きなの。"
+    ],
+    "textEn": [
+      "That's not me. I like being elegant and graceful."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "そういうヘラヘラしたのは圭一くんがひとりでお楽しみあそばせ！！」"
+    ],
+    "textEn": [
+      "You can have fun goofing around by yourself, Keiichi-kun!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの鋭い一撃が、珍しい角度から捻りこまれ、俺はあわやのところでそれを弾き返す！"
+    ],
+    "textEn": [
+      "Rena's next strike came at a strange angle, but I managed to deflect it!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おおぅッと！！"
+    ],
+    "textEn": [
+      "\"Whoa!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "たっははー！！"
+    ],
+    "textEn": [
+      "Taahaha!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "甘い甘い全然駄目だぜ、やっぱりお前、撃沈確定だなぁ！」"
+    ],
+    "textEn": [
+      "That's too, too weak. You're done!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はは！"
+    ],
+    "textEn": [
+      "\"Ha ha!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "ようやく体が温まって来たところだよ。"
+    ],
+    "textEn": [
+      "Finally, I'm all warmed up."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "こんなのウォーミングアップでしょ？」"
+    ],
+    "textEn": [
+      "This is just a warm-up, right?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「はぁ？"
+    ],
+    "textEn": [
+      "\"Huh?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "バーカ、なりゃしねえよ。"
+    ],
+    "textEn": [
+      "Stupid, this isn't even a warm-up."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "こんなのお散歩程度だな。",
+      "お前、汗だくだぜ？」"
+    ],
+    "textEn": [
+      "This is like taking a walk.",
+      "Hey, you're all sweaty.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「くっくっくっく、あっはっはっはっはっはっはっはっは！！"
+    ],
+    "textEn": [
+      "\"Hee hee hee hee, ah ha ha ha ha ha ha ha ha!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "お前は汗の代わりに血を垂らせばいいやぁッ！！」"
+    ],
+    "textEn": [
+      "Instead of sweat, you'll be covered in your own blood!!\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「前原さん！！",
+      "飛び降りて！！",
+      "飛び降りてー！！！",
+      "……駄目っすね…！",
+      "血が上っちゃってるようで、声が聞こえてないみたいです…！",
+      "……大石さん？」"
+    ],
+    "textEn": [
+      "\"Maebara-san!!",
+      "Jump off!!",
+      "Come on, jump!!!",
+      "He isn't even listening to us!",
+      "He's so into it that he can't even hear anything...!",
+      "...Ooishi-san?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……………ん？",
+      "あ、あぁ、ごめん！",
+      "何？」"
+    ],
+    "textEn": [
+      "\".........Hmm?",
+      "Ah, ah, sorry!",
+      "What is it?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「何をぼーっとしてるんですか…！",
+      "彼を救出する方法を考えないと！」"
+    ],
+    "textEn": [
+      "\"What do you mean 'what is it'?",
+      "We have to figure out a way to rescue him!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石はこの鉄火場でどうしてぼーっとしてしまったのか、一瞬わからなかった。",
+      "…理由などなく、朱色が夜の帳に変っていく空を背負いながら対峙する二人の姿に目を奪われてしまったのだ。",
+      "だが、実はそれは大石だけではなかった。",
+      "……誰もが、呆然と、この屋根の上の二人の姿に目を奪われていたのだ。",
+      "その時、突然大声が沸き起こり沈黙を破った。"
+    ],
+    "textEn": [
+      "Ooishi couldn't figure out why he was distracted, considering the seriousness of the situation.",
+      "He was engrossed in watching the two of them fight with the sunset behind them.",
+      "But Ooishi wasn't the only one.",
+      "Everyone watching was captivated by their battle on the rooftop.",
+      "At that moment, a sudden loud voice broke the silence."
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「ま、…前原さん、しっかりーー！！！"
+    ],
+    "textEn": [
+      "\"M-Maebara-san, hang in there!!!"
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "危ない、回り込まないと落ちるーッ！！」"
+    ],
+    "textEn": [
+      "Careful, don't fall!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは、救急車に収容されようとしていた生徒たちだった。",
+      "大声は、応援の歓声だったのだ。",
+      "頭に包帯を巻かれて担架の上に寝かされていた魅音もまた、上体を起こして圭一とレナの一騎打ちに目を奪われていた……。",
+      "幸せだった日々は、いくつかのすれ違いでバラバラに砕けて、取り返しが付かなくなくなっちゃったんじゃなかったっけ………？",
+      "なのに、",
+      "………あれ、",
+      "……なんだろ……。",
+      "………なんで、…こんな感情が芽生えてくるんだろう……。",
+      "何度かの剣戟から鍔迫り合いになる。",
+      "だがこう着状態になんてなるかよ、面白くもねえ！！",
+      "俺もレナも互いが示し合わせたようにぴったりのタイミングで互いを蹴りあって間合いを開く！"
+    ],
+    "textEn": [
+      "The students who were about to climb onto the ambulance",
+      "were cheering him on.",
+      "Mion was being loaded onto a stretcher with bandages around her head, but even she sat up, captivated as she was by Rena and Keiichi's duel.",
+      "Our once-happy days were supposed to have shattered due to a series of misunderstandings. They were supposed to be irretrievable...",
+      "But...",
+      "huh......",
+      "...why?",
+      "Why did I feel this way...?",
+      "This was such a close game.",
+      "But it wouldn't be fun to stay in a stalemate forever!!",
+      "Rena and I kicked at each other with perfect timing, and increased the distance between us!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「かーーーッ！！！",
+      "楽しくなって来たぜえええ！！！"
+    ],
+    "textEn": [
+      "\"Hey!!!",
+      "This is a blast!!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "どうだ、レナ！！"
+    ],
+    "textEn": [
+      "What do you think, Rena?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "最高に楽しくねぇかッ！！」"
+    ],
+    "textEn": [
+      "Isn't this just the best?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははははははははははは！"
+    ],
+    "textEn": [
+      "\"Ahahahahahahahahahahaha!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "レナは最初っから楽しいよ！！"
+    ],
+    "textEn": [
+      "I've been having fun since the very beginning!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "でも圭一くんの頭を叩き割ったらもっと楽しいかな！"
+    ],
+    "textEn": [
+      "But it'll be even more fun to split your head open, Keiichi-kun!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "かなあ！！」"
+    ],
+    "textEn": [
+      "Split it opeeen!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ひょおぅッ危ねえ！！",
+      "おらおらあッ！！"
+    ],
+    "textEn": [
+      "\"Wow, that's dangerous!!",
+      "Over here!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "こっちへ戻って来い！",
+      "足場を充分に使おうじゃねぇか！！"
+    ],
+    "textEn": [
+      "Come back over here!!",
+      "Let's use more space!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "こんな最高の舞台、何度もあるもんじゃねえ！！",
+      "満遍なく楽しもうぜえ！！」"
+    ],
+    "textEn": [
+      "Something like this doesn't happen too often!!",
+      "Let's enjoy it as much as we can!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あっははははははは！！"
+    ],
+    "textEn": [
+      "\"Ahhhahahahahahaha!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "絵になるよ、絵になるねぇ！"
+    ],
+    "textEn": [
+      "This would make a great picture!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "私たちほら、いつの間にか月を背負ってるんだね？",
+      "風が気持ちいいや！！」"
+    ],
+    "textEn": [
+      "Look, there's a beautiful moon behind us!",
+      "The breeze feels great!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは何だかとても幻想的な風景。",
+      "校舎の屋根の上に二人の人影が月を背負って対峙するなんて、……こんなありそうでありえない情景が本当にあるなんて？",
+      "その不思議な景色の魔力は、それを遠くから眺める刑事たちや警官隊、クラスメートたちをも虜にしているようだった。",
+      "誰もが思っていた。",
+      "でも不謹慎だから言えなかった。",
+      "……何て、あいつらは楽しそうなんだよって！！"
+    ],
+    "textEn": [
+      "It was such a fantastical scene.",
+      "Two people were fighting on the rooftop of the school building, with the moon behind them. It was almost unbelievable.",
+      "All the policemen and children looked at that mysterious and fantastical scene from a distance, completely entranced.",
+      "Everyone was thinking the same thing,",
+      "but nobody said anything.",
+      "...Why does it look like they're having fun?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なんかよ、こういう涼しさでこう熱くなるとよ！"
+    ],
+    "textEn": [
+      "\"Getting all fired up in a breeze this cool..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "綿流しの祭りの時を思い出すんだよなぁ！！"
+    ],
+    "textEn": [
+      "It reminds me of the Watanagashi festival!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "どうも俺は静かに夕涼みってのがダメでさ！"
+    ],
+    "textEn": [
+      "I don't really like to just sit back and enjoy the cool of the evening in silence!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "月が出るとはしゃがずにはいられなくなっちまうんだよッ！！」"
+    ],
+    "textEn": [
+      "When the moon comes up, I turn into an animal!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "綿流しの祭りは俺たち部活メンバーで、祭り全体をかき回してやった！",
+      "最後に本部テントで村長にこってり絞られたけどな、絶対に来年もかき回してやるぜってみんなで笑いあったっけ！！"
+    ],
+    "textEn": [
+      "All us club members went crazy on the night of Watanagashi!",
+      "The mayor scolded us by the end of it, but we laughed at each other, and promised to do the same thing again next year!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「月に狂うか、何だかかっこいいじゃない？！"
+    ],
+    "textEn": [
+      "\"Going crazy under the moon, huh? That sounds cool, doesn't it?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "私たちはもう月に狂ってるのかもしれないね！！」"
+    ],
+    "textEn": [
+      "Maybe we're already crazy!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ああ同感だな！！"
+    ],
+    "textEn": [
+      "\"Yeah, I feel the same!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "仲間と命のやり取りをしてて、そいつが面白いと感じちまうようじゃ、俺たちは最高にイッちまってる！！",
+      "こいつがそうさ、ルナティックってヤツさあ！！」"
+    ],
+    "textEn": [
+      "We're having fun trying to kill each other... we must be mad already!!",
+      "This must be what insanity is like!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "月には人を覚醒させて、普段と違う高揚感を与える魔力があるって話だ。",
+      "そうかもしれねえし、そうでないかもしれねえ。",
+      "ひとつ言えることは、例え今日が新月だったとしても、",
+      "俺たちは最高に熱かったろうってこったッ！！！",
+      "次第にほの暗くなってくる中、時折爆ぜる火花が蛍みたいだ。",
+      "…おいおい、すぐ横の雨どいにはガソリンがあるんじゃなかったっけ？",
+      "あっはははははは、知ったことかよ！　その時ゃその時だろ！！"
+    ],
+    "textEn": [
+      "Some people say the moon has the power to arouse passions in people.",
+      "Maybe that's true, and maybe it's not.",
+      "One thing that's for sure is that even if it were a new moon tonight,",
+      "we would still feel the same way!!!",
+      "As our surroundings got darker, the sparks we'd create with each hit started to look like fireflies.",
+      "Hey now, isn't there gasoline in the drain pipe right nearby?",
+      "Ahhhahahahahaha, who cares? If an explosion happens, it happens!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ほおら何をやってんだかッ！！"
+    ],
+    "textEn": [
+      "\"Hey, what are you doing?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "バットが汗で滑ってるんじゃない？"
+    ],
+    "textEn": [
+      "Are you getting too sweaty to hold the bat?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "休憩にしてハンカチで手でも拭いたらぁ？",
+      "その間に頭を叩き割るけどねー！！」"
+    ],
+    "textEn": [
+      "Why don't you take a break and dry your hands off?",
+      "I'll split your head open while you do that, though!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わっはっはっは！！",
+      "そいつぁいいやあ！！"
+    ],
+    "textEn": [
+      "\"Wa ha ha ha!!",
+      "That's a good one!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "レナこそ汗でスカートが纏わり付いて気持ち悪いだろ、脱いでもいいんだぜー！！"
+    ],
+    "textEn": [
+      "Isn't your skirt clinging to your legs? You can take it off if you want!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "俺は手を出さないで見物するけどなー！！」"
+    ],
+    "textEn": [
+      "I'll just watch you instead of attacking!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「へー！"
+    ],
+    "textEn": [
+      "\"Really?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "それで足に見とれてる隙に、ガツーンとお見舞いするよぅ！",
+      "あっはははははは！」"
+    ],
+    "textEn": [
+      "Then I'll give you a good blow to the head while you're charmed by my legs!",
+      "Ahhahahahahaha!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「楽しいなあレナぁあぁあ！！！」"
+    ],
+    "textEn": [
+      "\"This really is so much fun, isn't it, Rena?!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん、悪くないねえッッ！！！」"
+    ],
+    "textEn": [
+      "\"Yep, it sure is!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "飛ぶ！舞う！",
+      "打つ！笑うッ！！！",
+      "そして時に退きあい、もったいぶるように間合いを計り、再び飛び込み合って火花を散らせあう！",
+      "学校の屋根の上という特設舞台の上で、舞いを踊るように旋回し合いながら互いの虚を狙う。",
+      "俺もレナも汗だくだった。",
+      "だが疲労感はない。珠のようになって転げ落ちる汗の雫がくすぐったいぜ。",
+      "互いの打撃の激しい応酬。",
+      "有利も感じないし不利も感じない。",
+      "勝てるかもしれないという高揚感もないし、負けるかもしれないという焦燥感もない。",
+      "ただ、レナとの剣戟のやり取りが無性に楽しかった。",
+      "例えるならダンスのよう。",
+      "それはひとりでは絶対にできない舞い。",
+      "自分と互角の力を持った相手とだけ舞えるダンスのよう…！！"
+    ],
+    "textEn": [
+      "We flew! We danced!",
+      "We struck! We laughed!",
+      "We stepped back once in a while to catch a breath, and then charged at each other and let the sparks fly!",
+      "We aimed at each other as we went around in circles on the rooftop of the school, our special stage.",
+      "Rena and I were all sweaty.",
+      "But we weren't exhausted yet. The beads of sweat rolling down my body just tickled me.",
+      "We exchanged furious blows one after the other.",
+      "Neither of us was at an advantage or disadvantage.",
+      "Neither of us exalted in victory or raged in defeat.",
+      "The battle with Rena in itself was fun.",
+      "It was like a dance.",
+      "A dance I couldn't dance by myself.",
+      "It was a dance I could only dance with someone with whom I was equally matched."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あの時さ、クラス全体の部活の日、水鉄砲で一騎打ちした時さ。",
+      "思わなかったか？」"
+    ],
+    "textEn": [
+      "\"Didn't you think the same thing I did when we did that club activity with the whole class...?",
+      "The day we duelled with water guns...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん、実は私も思ってた！！」"
+    ],
+    "textEn": [
+      "\"Yeah, I did!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「「もう一回、こんな戦いをしてみたいってッ！！！」」"
+    ],
+    "textEn": [
+      "\"\"We wanted to fight like this again!!!\"\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "屋根の上の２人が思うように、それを見上げるクラスメートたちも同じことを考えていたに違いない。",
+      "２人の伯仲する戦いはただただ純粋さと熱さに満ち溢れていて、……誰もがこう思うんだ！",
+      "あぁ畜生、俺も混ざりたいってなッ！！"
+    ],
+    "textEn": [
+      "As we thought that way on the rooftop, our classmates down below must've thought the same.",
+      "Our fight was so pure and passionate... that everyone thought the same thing!",
+      "'We want to join them!!'"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あの時も同じだった！"
+    ],
+    "textEn": [
+      "\"It was the same back then!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "水鉄砲だったけどやることは同じだった！！！」"
+    ],
+    "textEn": [
+      "We were using water guns, but we did the same thing!!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あの時より面白いぜ！！"
+    ],
+    "textEn": [
+      "\"But this is far more fun!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "今度は水の残量なんか気にしなくていいんだからよ！！」"
+    ],
+    "textEn": [
+      "I don't have to worry about how much water I have left in my gun!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「水鉄砲じゃ火花も出ないしね！」"
+    ],
+    "textEn": [
+      "\"Yeah, we can't create sparks with water guns!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「打ち合うこの感覚もないもんなあッ！！！」"
+    ],
+    "textEn": [
+      "\"We couldn't strike at each other like this either!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "互いに肩で息を切らしながら踏み込む間合いを計りあう。",
+      "それから互いにニヤリと笑い合った。"
+    ],
+    "textEn": [
+      "We both were breathing hard, waiting for the right timing to take a step forward.",
+      "In the midst of that, we grinned at each other."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……はぁ……はぁ！"
+    ],
+    "textEn": [
+      "\"Huff... huff...!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "あの時も多分言ったセリフだが、あえてもう一度言うぜ。」"
+    ],
+    "textEn": [
+      "This is exactly what I said then, but I'm going to say it again.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあレナも、あの時と同じセリフで返そうかな。」"
+    ],
+    "textEn": [
+      "\"Okay then, I'll respond just the same.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "２人ともニヤリと笑い合う！！"
+    ],
+    "textEn": [
+      "We both smiled wickedly in the same moment!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「やり合うのが楽しくてならねえぜ！",
+      "決着がつくことすら興醒めするくらいになッ！！」"
+    ],
+    "textEn": [
+      "\"This is so much fun!",
+      "I don't even want to end this!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あっはっはっは！",
+      "負けても恨まないでね！！」"
+    ],
+    "textEn": [
+      "\"Aha ha ha ha!",
+      "Don't hate me if you lose!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ恨まない！！",
+      "この勝負を終わらせた自分の不甲斐なさを恨んでやるぜ！！",
+      "だが、そいつを恨むのはどうやらレナの方になりそうだなッ！！」"
+    ],
+    "textEn": [
+      "\"No, I won't!!",
+      "I'd hate myself for ending this game!!",
+      "But I know I wouldn't be the one to cry in the end!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「どうかな？！",
+      "圭一くん、足が藁だよ！！」"
+    ],
+    "textEn": [
+      "\"I don't know about that!",
+      "Your feet are getting weak, as if they're made out of straw!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「くそったれええぇ！！"
+    ],
+    "textEn": [
+      "\"Shut up!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "うをおりゃあああ！！！」"
+    ],
+    "textEn": [
+      "Whooaaahhhhh!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "誰もがその戦いに目を奪われていた。",
+      "心を奪われていた。",
+      "……どっちも凶器を持ってるんだぞ？！",
+      "どっちの攻撃が命中しても大怪我になるはずなのに！",
+      "でも２人ともさっきから完璧に互角で、",
+      "…一撃もまともに食らっちゃいない！！",
+      "なんて楽しそうなんだ。",
+      "こんな滅茶苦茶があるもんか…！",
+      "こんな楽しそうな大喧嘩を、これだけの人間が取り巻いていて、",
+      "あれだけの美しい月を背負いながらの屋根の上で、…しかも警察も見てるのにそれを止められないんだぞ？！",
+      "ありえないありえない！！",
+      "こんな滅茶苦茶な大喧嘩は…絶対にありえないッ！！"
+    ],
+    "textEn": [
+      "Everyone was captivated by our fight.",
+      "They were swept up in our fight.",
+      "We both had weapons.",
+      "Weapons deadly enough to seriously hurt one another!",
+      "But we were both perfectly matched",
+      "and neither of us had hit the other yet!!",
+      "Why did they look so happy?",
+      "This was just ridiculous...!",
+      "All the people below were just watching this fight on the rooftop with the beautiful moon as a backdrop.",
+      "Not even the police could stop them!",
+      "This was impossible!!",
+      "This battle was absurd... and absolutely impossible!!"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「圭一さああん！！",
+      "なるべく屋根の中央を維持するんですのよー！！",
+      "わずかの高みを生かすんですわー！！！」"
+    ],
+    "textEn": [
+      "\"Keiichi-san!!",
+      "Try to stay in the middle of the roof!!",
+      "Use the height to your advantage!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子たちクラスメートは、圭一を応援していたし、あろうことかレナを応援するものもいた。",
+      "………もう彼らにとって、これは殺し合いでも喧嘩でもない。",
+      "あの、水鉄砲の日の第２回戦なのだ。",
+      "部活は部活、ゲームはゲーム。",
+      "…あの日の延長戦なのだから、死者など出るわけがない。",
+      "…本物の凶器で戦ってるのに？！",
+      "なのに彼らは誰もどちらかが大怪我をするなんて思いもしなかった。",
+      "梨花だけはそれに加わらず、呆然としてそれを見上げていた。"
+    ],
+    "textEn": [
+      "Satoko and some of her classmates cheered Keiichi on, but there were some who were cheering for Rena too.",
+      "To them, this was no longer a fight to the death.",
+      "It was just the second round of their water gun battle.",
+      "A club activity is a club activity and a game is a game.",
+      "This was just the second round, so nobody would die.",
+      "Even though they had real weapons...",
+      "Nobody thought they would get hurt.",
+      "Rika wasn't cheering. She was just looking up at the rooftop."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……こんな、",
+      "………こんなの、",
+      "…見たことない…。」"
+    ],
+    "textEn": [
+      "\"...I've...... never",
+      "seen anything...",
+      "like this before...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花は思った。",
+      "圭一なら、打ち勝てる。",
+      "レナにじゃない。",
+      "………理不尽な出口なき惨劇の迷路を、壁ごとブチ壊せる男なのだと。"
+    ],
+    "textEn": [
+      "Rika thought to herself.",
+      "She thought Keiichi could win.",
+      "Not just against Rena.",
+      "Rika thought Keiichi could even destroy the walls of the maze of tragedies that had no exit."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「…そ、狙撃班は何をしてるのかね！！",
+      "人質に危害を加えようとしているのだぞ！",
+      "直ちに射殺したまえ！！」"
+    ],
+    "textEn": [
+      "\"What are the snipers doing?",
+      "The suspect is trying to harm the hostage!",
+      "Fire immediately!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "慌てふためきながら無線機に唾を飛ばす大高に、魅音が叫ぶ。"
+    ],
+    "textEn": [
+      "As Ootaka yelled into the radio, Mion screamed for him to stop."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ち、違うよ！！",
+      "レナを撃たないで！！",
+      "レナはもう違う…！",
+      "さっきまでのおかしいレナじゃない！",
+      "あのレナは違う！",
+      "だから撃たないで！！」"
+    ],
+    "textEn": [
+      "\"No, no!!",
+      "Don't shoot Rena!!",
+      "Rena isn't crazy anymore!",
+      "She isn't who she was earlier!",
+      "That's a different Rena!",
+      "So please, don't shoot her!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「ち、違うとはどういう意味かね…！",
+      "見たまえ！",
+      "現に凶器を振りかざしているじゃないか！",
+      "明らかな殺意だ！",
+      "射殺しないと人質が危ないのだよ！！」"
+    ],
+    "textEn": [
+      "\"What do you mean, she's different?",
+      "Look!",
+      "She's swinging around that weapon!",
+      "She's trying to kill him!",
+      "Unless we shoot her down, the hostage is in danger!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……く、……と、とにかく違う！！",
+      "レナを撃っちゃいけない！！"
+    ],
+    "textEn": [
+      "\"...No, no!!",
+      "Don't shoot at Rena!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "もしもレナを撃ったら、圭ちゃんはあんたを殺すよ間違いなく！！",
+      "断言できるッ！！」"
+    ],
+    "textEn": [
+      "If you shoot Rena, Kei-chan will kill you for sure!!",
+      "I can guarantee it!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「どど、どうして私をなのかね…ッ？！？！」"
+    ],
+    "textEn": [
+      "\"Wh-Why would he kill me?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あの２人は殺し合いをしてるんじゃない！",
+      "ただ打ち合って火花を飛ばして遊んでるだけなんだよ！！",
+      "見てわかるでしょ？！"
+    ],
+    "textEn": [
+      "\"They aren't trying to kill each other!",
+      "They're just having fun creating sparks!!",
+      "Can't you see?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "そして圭ちゃんは語りかけてる！",
+      "自分がレナと対等なことを！",
+      "対等というのは一番信頼できるということ！！"
+    ],
+    "textEn": [
+      "Kei-chan is talking to her, too.",
+      "He's telling her that they're equal!",
+      "That means she can trust him more than anyone!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "圭ちゃんはレナの目を覚ませる！",
+      "いや、もう覚ましつつあるんだよ！！",
+      "レナの悪い夢は、もう終わりつつあるんだ！！」"
+    ],
+    "textEn": [
+      "Kei-chan will wake Rena up!",
+      "No, he's already waking her up!!",
+      "Rena's nightmare is almost over!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんは…やっぱり最高だよ！！"
+    ],
+    "textEn": [
+      "\"Keiichi-kun, you're the best!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "君だけは殺したくない！！",
+      "君がいない世界はさぞや退屈だろうと思うよ！！」"
+    ],
+    "textEn": [
+      "I don't even want to kill you anymore!!",
+      "A world without you would be so boring!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「へ！　何だか照れるお言葉、痛み入るぜ！！",
+      "んで、どうするんだ、その世界とやらは！",
+      "宇宙人の侵略があって大変じゃねえのかよ？！」"
+    ],
+    "textEn": [
+      "\"Huh! Thanks for the compliment. I appreciate it!!",
+      "So what's going to happen to the world, huh?",
+      "Aren't aliens trying to invade it?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははははっははあははははは、あっははははははははははははははははは！！"
+    ],
+    "textEn": [
+      "\"Ahahahahaahahaahahahahaha, ahhhahahahahahahahahahahahaahhahahahaha!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "宇宙人なんて寄生虫なんて、何だかどうでもいいような気がしてくるよ。",
+      "世界が滅ぶならいつでも好きな時に滅べばいいし、御三家の陰謀なんて知ったことか！！」"
+    ],
+    "textEn": [
+      "You know, I don't think I even care about aliens or parasites anymore.",
+      "If the world is going to perish, go ahead and perish. Who cares about the conspiracy of the Three Families, anyway?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ああそうさ、例え明日隕石がぶつかって地球が砕けるとしたってッ！！！」"
+    ],
+    "textEn": [
+      "\"That's right, even if a meteor hits the Earth tomorrow...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「今この瞬間より楽しいことなんて他にあるもんかあああッ！！！！」"
+    ],
+    "textEn": [
+      "\"Nothing could be more fun than this moment!!!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ちぇ、それにお前、毒を盛られてて今夜で死んじまうんじゃねぇのかよ！"
+    ],
+    "textEn": [
+      "\"Hey, aren't you supposed to die tonight due to some poison?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "余命の短いヤツがピンピンしやがって！！」"
+    ],
+    "textEn": [
+      "You sure don't look like you only have a few hours left to live!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははははははははははは！！！",
+      "そうだったね、すっかり忘れてたよ、私は今夜中に首を掻き毟って死んでしまうんだったっけッ！！！」"
+    ],
+    "textEn": [
+      "\"Ahahahahahahahahahahaha!!!",
+      "That's right, I completely forgot about that. I'm supposed to claw out my throat and die tonight!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何だよ、自分で作った設定だろ、忘れるんじゃねえや。",
+      "ほれ、たまには首をボリボリ掻きやがれ！！",
+      "わかってるよ、もう痒くなんかねぇんだろ？",
+      "そりゃそうさ！！"
+    ],
+    "textEn": [
+      "\"Hey, that's the scenario you came up with, don't forget.",
+      "Come on, scratch your throat once in a while, at least!!",
+      "Hey, I know, it doesn't itch anymore, does it?",
+      "It definitely doesn't!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "首を引っ掻くより、」"
+    ],
+    "textEn": [
+      "This is more fun than scratching your throat could ever be!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「私たちはもっと楽しいことをしているんだものッ！！！！」"
+    ],
+    "textEn": [
+      "\"Yeah, this dance of ours really is way more fun!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こんなにも楽しい時間は無限に続けばいいのに！！",
+      "でも、体はもう悲鳴をあげていた。",
+      "息は荒く、酸素が足りなくなったのか頭が少しクラつきやがる。",
+      "上半身が紙で出来てるくらいに軽くてふわふわで、ちょいと風が吹きゃ空にふわっと浮かされちまいそうだった。",
+      "……こんなにも楽しいのに、もうじき決着しなくちゃいけないんだな…。",
+      "この一抹の寂しさは、あの水鉄砲の決着がつく直前にも思った。",
+      "……そういやあの時は相打ちだったっけ。"
+    ],
+    "textEn": [
+      "I wished it would never end!!",
+      "But my body was screaming.",
+      "I was breathing hard, and felt dizzy from lack of oxygen.",
+      "My upper body felt as light as a piece of paper, as if even a slight breeze could take me away.",
+      "...It really had been a blast, but I needed to end it soon...",
+      "I felt the same sadness as in that water gun fight.",
+      "Back then, it had been declared a draw."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…今回は、どうなるだろうね。」"
+    ],
+    "textEn": [
+      "\"I wonder what will happen this time...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「さぁてな。",
+      "ひとつ言えることがある。」"
+    ],
+    "textEn": [
+      "\"Who knows?",
+      "But one thing is for certain.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん？」"
+    ],
+    "textEn": [
+      "\"What?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「最高に楽しかったぜッ！！」"
+    ],
+    "textEn": [
+      "\"I loved doing this with you!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん！！」"
+    ],
+    "textEn": [
+      "\"Me too!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "圭一がぱっと後に飛び退き、金属バットで屋根を力強く叩いた。",
+      "それはまるで大太鼓のような迫力があって。",
+      "２人の戦いに心を奪われていた者たちに正気を取り戻させた。",
+      "シンと辺りが静まり返り、……さっきからひぐらしたちが合唱していたことを再び気付かせる。"
+    ],
+    "textEn": [
+      "I jumped backwards and slammed the roof with my bat.",
+      "The sound was as intense as a huge drum,",
+      "and the noise woke up the people who were captivated by our fight.",
+      "The silence returned, and the chorus of higurashi filled the air."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ、…………一度、間合いを開こうじゃねぇか。」"
+    ],
+    "textEn": [
+      "\"Okay...... let's pause for a moment.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………そうだね。",
+      "次の一撃で今度こそ決着をつけよう。」"
+    ],
+    "textEn": [
+      "\"......Sure.",
+      "Let's end this with one more strike.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "２人の動きが静かになり、………ゆっくりと間合いを広げあう。",
+      "誰もが悟った。",
+      "いよいよこの戦いに決着がついてしまうことを。"
+    ],
+    "textEn": [
+      "We started to move slowly... and increased the distance between us.",
+      "Everyone realized it.",
+      "This fight was ending very soon."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ、最後の最後だ。",
+      "もう一回確認するぜ？」"
+    ],
+    "textEn": [
+      "\"Okay, this is it.",
+      "I'm going to ask you one more time.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん？　何だっけ？」"
+    ],
+    "textEn": [
+      "\"Hmm? What is it?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あははははは、おいおい、この戦いはお互い賭けてるものがあったろうが。",
+      "お前、その為に戦ってたんじゃなかったのかよ！」"
+    ],
+    "textEn": [
+      "\"Ahahahaha, hey, you're betting something on this, right?",
+      "Isn't that why you were fighting?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだったっけ。"
+    ],
+    "textEn": [
+      "\"I did?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "あはははははは、ごめん、忘れちゃってた。」"
+    ],
+    "textEn": [
+      "Ahahahahahaha, sorry, I forgot.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ちぇ、仕方ねぇやつだなぁ。",
+      "確認するぜ。",
+      "まずは俺が勝った場合だ。",
+      "俺の専属メイドになってご奉仕三昧の毎日だ！！",
+      "人前では、これが私のご主人様ですってちゃんと紹介するんだぞー！！」"
+    ],
+    "textEn": [
+      "\"Tsk. You're hopeless.",
+      "Okay, listen carefully.",
+      "If I win,",
+      "you'll become my personal maid and serve me every day!!",
+      "You'll have introduce me to others as your master!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははははははははははは、可愛い服じゃないと嫌だよ？」"
+    ],
+    "textEn": [
+      "\"Ahahahahahahahahahahaha, my uniform better be cute!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そこは任せろ。",
+      "監督の完全監修の元、古式ゆかしいオールドスタイルから、ちょっとドキドキな改造メイド服まで色々と取り揃える！！",
+      "もちろん特注でレナにぴったりとフィットするサイズなんだ。",
+      "すごいだろう。」"
+    ],
+    "textEn": [
+      "\"Of course it will.",
+      "There will be a variety of uniforms, ranging from old-fashioned ones to ones that are a little dangerous!!",
+      "They'll be custom-made so they'll fit you perfectly.",
+      "How about that?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「すごいすごい。",
+      "負ける気はさらさらないけど、何だか楽しそう。",
+      "あははははは。」"
+    ],
+    "textEn": [
+      "\"My goodness.",
+      "I don't intend to lose, but that could be fun, somehow.",
+      "Ahahahahaha.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「次は、レナが勝った場合だ。」"
+    ],
+    "textEn": [
+      "\"If you win, Rena.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "圭一はそこで一度言葉を切る。"
+    ],
+    "textEn": [
+      "I paused for a moment."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……レナが勝ったなら、俺はレナの話を信じる。」"
+    ],
+    "textEn": [
+      "\"If you win, I'll believe your stories.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの表情は、ついさっきまで上機嫌だったのに、ほんの少し乾いて無表情になった。"
+    ],
+    "textEn": [
+      "Rena was happy until just a moment ago, but that expression was suddenly wiped from her face."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「宇宙人が地球侵略をして来ていて、俺たちの頭ん中には寄生虫が入ってる。"
+    ],
+    "textEn": [
+      "\"Aliens are invading the Earth and we have parasites in our brains."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "そしてそれを園崎家が暗躍してて秘密研究をしてて、世界は明日から宇宙人に支配されるって話を、信じてやる。",
+      "あと、お前は毒で今夜、死んじまうんだよな？"
+    ],
+    "textEn": [
+      "The Sonozaki family is pulling the strings, they're researching the parasites in secret, and aliens will be in control of the world starting tomorrow. I will believe in that.",
+      "Also, since you're dying tonight,"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "最期はちゃんと看取ってやるから安心しろ。」"
+    ],
+    "textEn": [
+      "I'll make sure you go peacefully, so don't worry.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…………………何だか私が勝ってもつまんないね。",
+      "圭一くんが勝った方のご褒美の方が楽しそうだよ。」"
+    ],
+    "textEn": [
+      "\"......It's not fun if I win, is it?",
+      "Your reward sounds a lot more fun, Keiichi-kun.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「仕方ねぇだろ。",
+      "お前、そういう話だからわざわざ学校を乗っ取ったんじゃなかったのかよ。」"
+    ],
+    "textEn": [
+      "\"Well, what can I do?",
+      "You did all this because of what I just said, right?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……………そうだったんだっけね。",
+      "……ごめん、忘れそうになってたよ。」"
+    ],
+    "textEn": [
+      "\"...............Yeah, I guess...",
+      "Sorry, I almost forgot.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはほんの少し悲しい表情で笑ったが、それは砂浜に波が染みこむように、すっと消え、すぐに無表情に戻った。"
+    ],
+    "textEn": [
+      "Rena smiled sadly for a moment, but soon that expression was wiped off her face too."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺は何しろ、レナのメイドさんがかかってるんだからよ！",
+      "意地で勝ちに行くぜ！！」"
+    ],
+    "textEn": [
+      "\"I'm going to win no matter what.",
+      "I want my personal maid!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……ぶーぶー。",
+      "レナが勝っても面白くないよぅ。」"
+    ],
+    "textEn": [
+      "\"......Boo, boo.",
+      "It's not fun if I win.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何だよ、じゃあ今から変えるか？",
+      "レナが勝ったらどうするよ。」"
+    ],
+    "textEn": [
+      "\"Then do you want to change it?",
+      "What do you want?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………そこで、ようやくレナは機嫌のいい笑いになった。",
+      "風が、さらさらと流れて、……俺たちに貼りついた汗を冷やす。",
+      "……とても気持ちよかった。",
+      "今なら月が出ていても俺たちは暴れない。",
+      "本当の夕涼みができるに違いない。",
+      "このまま屋根の上にごろんと横になって、月を見上げられたなら、どんなに素敵なことか。",
+      "レナが薄く笑いながら、言った。"
+    ],
+    "textEn": [
+      "......Finally, Rena smiled happily again.",
+      "The breeze dried our sweat.",
+      "It was a good feeling.",
+      "We no longer went crazy, even with the moon out.",
+      "We could finally enjoy the coolness of the evening.",
+      "It would be so nice if we could just lie down on our backs and gaze at the moon.",
+      "Still smiling a little, Rena spoke."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「私も、",
+      "………圭一くんと同じご褒美がいいな。」"
+    ],
+    "textEn": [
+      "\"I",
+      "want the same reward as yours, Keiichi-kun.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何だよそれ。",
+      "俺がメイドかよ！",
+      "……ドギツイなぁ。」"
+    ],
+    "textEn": [
+      "\"What?",
+      "You want me to be your maid?",
+      "That's something.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「別にメイドさんじゃなくていいよ。",
+      "……でも他は同じ。",
+      "朝は私におはようって言って、夜は私におやすみって言って欲しい。",
+      "いっぱい私にやさしくしてほしい、いっぱい私を楽しくさせてほしい。"
+    ],
+    "textEn": [
+      "\"You don't have to be my maid.",
+      "But the rest is the same.",
+      "I want you to say 'good morning' to me every morning and 'good night' every night.",
+      "I want you to treat me well and let me play around all the time."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "………あれ？",
+      "あはははははは…、",
+      "これじゃ、",
+      "私が勝っても圭一くんが勝っても、",
+      "私たち、",
+      "……ずっと一緒なんだよね。」"
+    ],
+    "textEn": [
+      "......Hmm?",
+      "Aha ha ha ha ha,",
+      "I guess",
+      "no matter who wins",
+      "we'll always...",
+      "be together.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「一緒ではあるが、待遇に偉い違いがあるけどなー。」"
+    ],
+    "textEn": [
+      "\"We'll be together, but the one who gets the special treatment is different.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…あは、…あははははははははははははは。」"
+    ],
+    "textEn": [
+      "\"Aha! Ahahahahahahahahahahahahahahaha.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「「ははははは、はははははははははははははははははは。」」"
+    ],
+    "textEn": [
+      "\"\"Hahahahaha! Hahahahahahahahahahahahahahahahahahaha.\"\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「どうして、こんなにも大好きな圭一くんと、私はこんなことをしているんだろう。」"
+    ],
+    "textEn": [
+      "\"Why am I fighting with someone I like so much?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「さぁてな。",
+      "どうして俺たちゃ屋根の上になんかいるんだ。",
+      "何しに俺たちはここへ登ったんだっけ？」"
+    ],
+    "textEn": [
+      "\"I don't know.",
+      "Why are we on the rooftop?",
+      "Why did we even come up here in the first place?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…あははははは、どうしてだったっけ？",
+      "忘れちゃったよ。」"
+    ],
+    "textEn": [
+      "\"Ahahahahaha, I don't know.",
+      "I forgot.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「馬鹿と煙は上へ昇る、ってやつだろ。",
+      "じゃあ俺たちは２人とも大馬鹿だな。」"
+    ],
+    "textEn": [
+      "\"Maybe we're both airheads.",
+      "That's why we floated up here.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「馬鹿仲間だね。」"
+    ],
+    "textEn": [
+      "\"Yep, we're airhead buddies.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「仲間だな。」"
+    ],
+    "textEn": [
+      "\"We're buddies, alright.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「「あははははははははははははははは…。」」"
+    ],
+    "textEn": [
+      "\"\"Ahahahahahahahahahahahahahahaha...\"\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……じゃあ、そろそろ行こうじゃねぇか。",
+      "せっかくの体がクールダウンしちまう。」"
+    ],
+    "textEn": [
+      "\"...Well then, shall we get started?",
+      "I don't want to cool down too much.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだね。",
+      "……体が冷めちゃわない内に、決着をつけよう。」"
+    ],
+    "textEn": [
+      "\"You're right.",
+      "We better finish up before it gets too cold.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "２人は思い思いの構えで、互いの持つ凶器を構えあう。"
+    ],
+    "textEn": [
+      "We readied our weapons and took our stances."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……………私ね。",
+      "…やっぱりやめない？",
+      "って、",
+      "そう言おうと思った。」"
+    ],
+    "textEn": [
+      "\"I......",
+      "was going to suggest",
+      "that we stop this.",
+      "I really was.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "圭一はそれを、ゆっくり横に首を振って応える。"
+    ],
+    "textEn": [
+      "I shook my head slowly."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「だめだ。",
+      "決着は必要なんだ。",
+      "………じゃないと、終わらない。",
+      "せっかくの俺とお前の戦いが、終われない。",
+      "……うやむやじゃ駄目なんだ。",
+      "綺麗に終わらないとだめなんだ。」"
+    ],
+    "textEn": [
+      "\"No.",
+      "We have to finish this.",
+      "...Otherwise, it won't end.",
+      "Our fight won't end.",
+      "We can't quit.",
+      "We have to bring it to an end.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……こんなのおかしい。",
+      "ひょっとしたらどっちが勝っても負けても、ご褒美がなしになるかもしれない。」"
+    ],
+    "textEn": [
+      "\"...This isn't right.",
+      "It's possible that no matter who wins or loses, there will be no reward.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………その時も恨みっこはなしだぜ。",
+      "だから先に言っとく。」"
+    ],
+    "textEn": [
+      "\".........Even if that happens, we shouldn't hate each other.",
+      "So I'm going to tell you this now.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……何？」"
+    ],
+    "textEn": [
+      "\"......What?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「楽しかったぜ。」"
+    ],
+    "textEn": [
+      "\"It was fun.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………………私もだよ…。」"
+    ],
+    "textEn": [
+      "\"Yeah............ I feel the same way...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナ。",
+      "…仮に俺たちのどちらかが死のうと、俺たちは絶対にまた会えるから。",
+      "……だから、また会えたなら、」"
+    ],
+    "textEn": [
+      "\"Rena...",
+      "Even if one of us dies, we'll see each other again.",
+      "And when we do...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「今度は普通に遊んで、",
+      "普通に笑い合って、",
+      "……普通に恋をしよう。",
+      "……絶対に互いを疑わない。",
+      "互いを絶対に信じ合う。"
+    ],
+    "textEn": [
+      "\"We'll have fun in a normal way.",
+      "We'll laugh together in a normal way.",
+      "......And we'll fall in love in a normal way.",
+      "We won't doubt each other.",
+      "We'll trust each other."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……だから、",
+      "………絶対に会えるよね？",
+      "絶対だよね……？」"
+    ],
+    "textEn": [
+      "......And we'll meet again,",
+      "right?",
+      "For sure, right...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ、",
+      "……絶対だ…………。」"
+    ],
+    "textEn": [
+      "\"Yes...",
+      "for sure...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナの瞳に、涙が浮かぶ…。",
+      "圭一も自分の目頭が熱くなることに気付いていた。"
+    ],
+    "textEn": [
+      "Tears appeared in Rena's eyes...",
+      "I noticed I was about to break down, too."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ、",
+      "…",
+      "…",
+      "行くぜ。」"
+    ],
+    "textEn": [
+      "\"Okay",
+      "......",
+      "...",
+      "are you ready?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……合図は、なかった。",
+      "なのに２人は同時に踏み込んだ…。",
+      "月の中に２人の影が躍りこんだ。",
+      "……さっきまではあんなに激しく打ち合っていたのに、…それはとてもスローに見えて、まるで影絵の物語を見るようだった。",
+      "誰もが、影が舞うのを見ていた。",
+      "…そして、レナの影が、圭一の金属バットを激しく打ち、",
+      "………圭一が金属バットを手放してしまう…。",
+      "金属バットはぐるぐると回転しながら屋根の上で一度跳ねてから…校庭へ。",
+      "……圭一は武器を失ったのだから丸腰。",
+      "…だからレナはこのチャンスに一気に畳み掛けるのは、とてもとても当り前で自然なことで…。",
+      "圭一は屋根の上に押し倒されると、すぐにレナに圧し掛かられた。",
+      "両腕もレナの膝に潰すように抑えられ、一切の抵抗は不可能だった。",
+      "見れば、…月は二つに割られていた。",
+      "振り上げるレナの鉈の薄く細い影が、月を真っ二つに割っていた。",
+      "それが、決着だった。"
+    ],
+    "textEn": [
+      "There was no signal.",
+      "But we stepped forward at the same time.",
+      "Our shadows jumped in the moonlight.",
+      "We were fighting so viciously earlier, but now it was like we were moving very slowly. We must have looked like a shadow play.",
+      "Everyone was watching the shadows dance.",
+      "Rena's shadow hit my metal bat violently.",
+      "As a result, I let go of it...",
+      "The metal bat bounced once on the roof, then rolled down to the schoolyard.",
+      "I had lost my weapon.",
+      "Here was Rena's chance. Of course, she wouldn't miss it...",
+      "I was lying flat on the roof, and Rena got on top of me.",
+      "Rena's knees were holding down my arms, and there was no way for me to fight back.",
+      "The moon was divided into two.",
+      "The shadow of Rena's hatchet had split the moon right down the middle.",
+      "This was the end."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………ち、",
+      "……やるな。",
+      "腕が…抜けねえや。」"
+    ],
+    "textEn": [
+      "\"......Shit,",
+      "that was good.",
+      "I can't even pull my arms away.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ねぇ圭一くん。",
+      "………もう決着、",
+      "…ついたんだよね…？」"
+    ],
+    "textEn": [
+      "\"Hey, Keiichi-kun.",
+      "...It's over...",
+      "right...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おいおい、まだついてねぇだろ。",
+      "そいつを振り下ろすまではまだつかないぜ。」"
+    ],
+    "textEn": [
+      "\"Not yet.",
+      "It's not over until you swing down your hatchet.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……いやだ。」"
+    ],
+    "textEn": [
+      "\"......I don't wanna.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「うん？」"
+    ],
+    "textEn": [
+      "\"Huh?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…いやだよ、",
+      "…………",
+      "いやだ…。」"
+    ],
+    "textEn": [
+      "\"...I don't want to.",
+      "......",
+      "I don't want to...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは、…月を割るかのように鉈を構えたまま、両目から涙を溢れさせていた。"
+    ],
+    "textEn": [
+      "Rena's arms were still raised, but tears were pouring from her eyes."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………どうして、こんなことになっちゃったんだろう。",
+      "どこで変になっちゃったんだろう…。",
+      "…私はみんなを大好きで、",
+      "みんなを信じていたはずなのに、",
+      "……どこで信じられなくなってしまったんだろう。」"
+    ],
+    "textEn": [
+      "\"...What happened?",
+      "What went wrong?",
+      "I loved everyone",
+      "and I trusted everyone.",
+      "When did I start to doubt them?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\"...............\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「どうして圭一くんに鉈を振り上げているのか、…わかんない。",
+      "……どうして、",
+      "…私は",
+      "……こんなにも大好きな仲間たちに、",
+      "…こんなにも恐ろしいことを…してしまったんだろう…。」"
+    ],
+    "textEn": [
+      "\"I don't know why I'm doing this to you... I don't know.",
+      "...Why,",
+      "why am I",
+      "doing this to people...",
+      "I love so much?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お、………お前、",
+      "…………そうか……、",
+      "……気付いたのか…。",
+      "………この「世界」で、……気付けたのかよ………ッ！！！」"
+    ],
+    "textEn": [
+      "\"You...",
+      "You",
+      "realized it.",
+      "You realized it in 'this' world!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「自分で自分が…信じられないよ…。"
+    ],
+    "textEn": [
+      "\"I can't believe myself..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "こんなにもあんなにも、楽しい日々だったのに、",
+      "…どうして私は、",
+      "…どうして私は…。",
+      "……何も不満もなかったし、",
+      "…何の不安もなかったのに……、",
+      "…どうして、…自分で壊してしまうような真似を…………。」"
+    ],
+    "textEn": [
+      "Every day was so much fun",
+      "but... why,",
+      "why...?",
+      "I didn't have any complaints,",
+      "I didn't worry about anything...",
+      "so why did I try to destroy everything with my own two hands...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナ……、お前はやっぱり……すげえよ…。」"
+    ],
+    "textEn": [
+      "\"Rena... you're... you're incredible!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺なんか、…お前と魅音を殺した後、",
+      "……それでも気付かなくって、わけのわからない遺言を残して、…大石さんに電話までして！",
+      "……それでも自分以外の誰かが悪いんだろうって思い込んでたんだぜ。",
+      "……死んでも。",
+      "死んだあとも！",
+      "俺はずっと自分の罪深さに気付きもしなかった！",
+      "自分ひとりだけが勘違って、仲間の救いにも気付けず殺してしまうことの何と悲しいことか。",
+      "……そして、",
+      "……それを罪と気付けないことが何と…",
+      "辛いことか…。"
+    ],
+    "textEn": [
+      "After I killed you and Mion...",
+      "...I didn't realize I had done anything wrong, so I left a note and called Ooishi-san.",
+      "I still believed that someone else was at fault.",
+      "Until,",
+      "I mean, even after I was dead!",
+      "I didn't even notice I had sinned.",
+      "How sad it was to kill my friends because of a little misunderstanding, even when they were trying to help me.",
+      "And",
+      "how painful it was not to realize",
+      "it was a sin..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「だから、……レナはすごいんだよ……。",
+      "仲間を１人も殺さなかった。",
+      "…お前は…罪を犯す前に、……気付けたんだよ……。",
+      "はは、あはははははははは！！"
+    ],
+    "textEn": [
+      "\"Therefore... you're amazing, Rena...",
+      "You didn't kill any of your friends.",
+      "You came to your senses ...before you committed a sin.",
+      "Ha ha, aha ha ha ha ha!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "さすがだよレナ、",
+      "……さすがだよ、",
+      "…俺とは…違うんだッ！！」"
+    ],
+    "textEn": [
+      "You're incredible, Rena.",
+      "......Just incredible...",
+      "You're totally different from me!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはゆっくりと立ち上がると、振り上げていた鉈をゆっくりと下ろした。"
+    ],
+    "textEn": [
+      "Rena stood up slowly and lowered her hatchet."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…仲間を、傷付けたよ。",
+      "……魅ぃちゃんにひどいことをした…。」"
+    ],
+    "textEn": [
+      "\"I hurt my friend.",
+      "I hurt Mii-chan...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あとで謝っとけ。",
+      "俺的には当分の間、姉妹の入れ替わりを見抜けてちょうどいい傷跡だと思ってるぞ。」"
+    ],
+    "textEn": [
+      "\"Just apologize to her.",
+      "Personally, I appreciate that the wounds will help me tell the twins apart.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…それに、………殺しちゃってるもんね、私。」"
+    ],
+    "textEn": [
+      "\"I've already killed...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あん？",
+      "誰も殺してないだろ。",
+      "誰を殺したよ？」"
+    ],
+    "textEn": [
+      "\"Huh?",
+      "No, you haven't.",
+      "Who did you kill?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………………間宮リナと、…北条鉄平…。」"
+    ],
+    "textEn": [
+      "\"......Rina Mamiya... and Teppei Houjou...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あぁ、…………あいつらか。」"
+    ],
+    "textEn": [
+      "\"Ah... those two...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「………あの２人を殺すことは正しいことだと思ってた。"
+    ],
+    "textEn": [
+      "\"......I thought it was right to kill them."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……でも、あの２人を殺した日から、",
+      "…もう世界は狂い始めていたと思う。",
+      "………だということは、……。",
+      "……あの２人を殺すのは、",
+      "……正しいことじゃなかったのかな……。」"
+    ],
+    "textEn": [
+      "But the day I killed them...",
+      "the world started to go crazy.",
+      "Did that mean...",
+      "that it was wrong",
+      "to kill them...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「正しいかどうかは知らんが、最善手じゃなかったことは確かだな。」"
+    ],
+    "textEn": [
+      "\"I don't know if it was right or wrong, but it wasn't the best thing you could have done.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「……最善手って……？」"
+    ],
+    "textEn": [
+      "\"What do you mean, the best thing?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そんなこともわからないのかよ！！」"
+    ],
+    "textEn": [
+      "\"Don't you know?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺はレナの頭をがばっと抱いて、俺の胸に無理やり抱いてやる。",
+      "そして言ってやった。",
+      "それはとても簡単なこと。",
+      "誰でも思いつくとても簡単な選択肢だった。",
+      "でもレナはしなかった。",
+      "俺もあの時、しなかった。"
+    ],
+    "textEn": [
+      "I grabbed Rena's head and embraced her.",
+      "Then I told her.",
+      "I told her something so simple.",
+      "It was so simple that anyone could think of it.",
+      "But Rena didn't do it.",
+      "I didn't do it either, back then."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何かヤバかったり、",
+      "疑いそうになったり、",
+      "辛いことがあったりしたときはな。」"
+    ],
+    "textEn": [
+      "\"If you're in danger",
+      "or you feel like doubting others",
+      "or something sad happens...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それは、とても簡単なことなんだよ…！"
+    ],
+    "textEn": [
+      "It was so simple...!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…仲間に、",
+      "……相談するんだよッ！！！！」"
+    ],
+    "textEn": [
+      "\"You should talk to...",
+      "your friends!!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうだよね…。",
+      "……………そうだよね……、",
+      "…ぅ、",
+      "……ぅわぁぁぁぁぁぁ…ん……。」"
+    ],
+    "textEn": [
+      "\"That's right...",
+      "You're right.",
+      "...Ooh...",
+      "whaaaahhhhh...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはしばらくの間、…俺の胸の中で、",
+      "…一番最初に間違えた選択肢を泣いた。",
+      "その選択肢は見つけにくいものでも何でもない。",
+      "…本当にささやかで、身近にあった選択肢だったんだ。",
+      "１人で悩むことがいかに下らないことか。",
+      "仲間がいた。",
+      "全てを信じられる仲間がいた。",
+      "なのに、何で、この問題は仲間には話せないと思い込んでしまったのか…！"
+    ],
+    "textEn": [
+      "Rena cried in my arms for a while.",
+      "...She cried about the wrong choice she made at the very beginning.",
+      "The choice couldn't have been hard to see.",
+      "I'm sure it was something that was within her grasp.",
+      "How stupid it was to worry about it by herself.",
+      "She had friends.",
+      "She had friends whom she trusted.",
+      "Why did she think she couldn't talk to her friends about it?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「私が間違ってた…！！",
+      "どうして…話さなかったんだろう！！",
+      "何で私はみんなを信じてるのに、信じてなかったんだろう！！！」"
+    ],
+    "textEn": [
+      "\"I was wrong...!!",
+      "Why didn't I talk about it?",
+      "Everyone trusted me, so why didn't I trust them?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………俺もかつてそうだった。",
+      "…だから俺は笑わねぇぞ。",
+      "でも、気付けたならいいんだ。",
+      "しかもレナは、俺なんかよりずっと早く気付けたじゃねぇか…！！」"
+    ],
+    "textEn": [
+      "\"......I was the same way before.",
+      "That's why I won't laugh at you.",
+      "But you realized it.",
+      "You realized it a lot sooner than I did!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺たちは信じ合おう。",
+      "二度と仲間を疑うまい。",
+      "互いを信頼し合おう。",
+      "そして悩みを打ち明けあって、互いに助け合っていこう。",
+      "だから、仲間たちはいつまでも幸せで、どんな困難だってみんなで乗り越えていけるんじゃないか…。"
+    ],
+    "textEn": [
+      "We will trust each other.",
+      "We will never doubt our friends.",
+      "We will rely on each other.",
+      "We will talk to each other and help each other.",
+      "That's why friends are always happy, and why we can endure anything together..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……じゃ、レナ。",
+      "幕の降りた舞台だけどさ、カーテンコールに応えようじゃないか。",
+      "これで、全部おしまいだぜ。」"
+    ],
+    "textEn": [
+      "\"Okay, Rena.",
+      "Why don't we respond to the curtain call?",
+      "This is really the end of everything.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「カ、カーテンコールって何かな、かな…。」"
+    ],
+    "textEn": [
+      "\"Wh-What do you mean by the curtain call? What do you mean?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「まぁまぁ、俺の独り言だ。",
+      "最後だけ付き合ってくれよ。」"
+    ],
+    "textEn": [
+      "\"Well, I was just talking to myself.",
+      "Come on.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺たちは手をつないだまま、立ち上がる。",
+      "……月を背負って。",
+      "俺が頷くと、レナは鉈を投げ、それは屋根の下の闇に消えていった。",
+      "そして俺は、……こんな顛末を予想していなかっただろう、地獄の観劇者たちに言ってやる！",
+      "こいつは勝利宣言だ！"
+    ],
+    "textEn": [
+      "We stood up together, holding hands.",
+      "...The moon was hanging behind us.",
+      "When I nodded, Rena threw away her hatchet. It disappeared into the darkness below.",
+      "Then I spoke to the audience in Hell, the demons who weren't expecting this ending.",
+      "I was proclaiming victory!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「これで今宵はおしまいだぜ！！",
+      "俺たちは惨劇に打ち勝った！！",
+      "もう俺たちは互いを疑わない。",
+      "だからいつまでも結束している！！",
+      "だからどんな惨劇が訪れようとも、二度と屈すると思うんじゃねぇ！！"
+    ],
+    "textEn": [
+      "\"That's all for tonight!",
+      "We overcame this tragedy!!",
+      "We'll never doubt each other again.",
+      "We'll be united forever!!",
+      "No matter what disaster might befall us, don't think we'll ever yield!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "悲劇など知るか惨劇など知るか！",
+      "悪魔どもが喜ぶ脚本が、今後どれだけやって来ようとも。",
+      "俺たちが全部、ブチ壊してやるぜえええッ！！！」"
+    ],
+    "textEn": [
+      "Who cares about tragedy, who cares about disaster?",
+      "Even if the script is written by demons,",
+      "we'll tear the whole thing to pieces!!!\""
+    ]
+  }
+]

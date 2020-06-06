@@ -1,0 +1,363 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子を学校に行かせずもう三日になる。",
+      "…あの知恵とかいう生意気な教師の電話がまたあり、怒鳴って切ってやった。",
+      "だがあいつはネチっこい女だ。",
+      "きっとこのままでは済まない。",
+      "また児童相談所に電話するだろう。",
+      "鉄平が沙都子を学校に行かせない最大の理由は、きっと学校に行ったらそのまま助けを求めるだろうと思ったからだ。",
+      "相談所が訪問してきた時、確かに沙都子は口車を合わせてくれたが、それは隣に自分がいたからに他ならない。",
+      "自分から解放されたらきっと裏切るに決まっている。",
+      "そうなれば相談所がすぐにもすっ飛んでくるだろう。",
+      "いや、それどころか沙都子に対する虐待だか何だかで警察沙汰にもなるかもしれない。",
+      "…相談所の連中は警察を伴うこともあると仲間の誰かに聞いていた。",
+      "鉄平のスネは傷だらけだ。",
+      "警察の厄介になったら最後、他のヤバい話にまで及ぶに決まってる。",
+      "それだけは断じてごめんだった。",
+      "とにかく、金さえあれば。",
+      "兄夫婦の残した通帳さえ見付かればこんな窮屈な村からおさらばできるのだ。",
+      "外を歩くと、村人の目がきついように感じたので、鉄平は外には出なかった。",
+      "でもそれでは暇なので、仲間を呼んでは麻雀をしていた。",
+      "だが麻雀は４人集まらないとできない。",
+      "人が集まらず、家の中でテレビを見ていることしかできない時間も短くなかった。",
+      "なので、そんな暇な時間を宝探しに費やすようになった。",
+      "どう散らかしたって、沙都子に片付けさせればいいのだから気楽なものだ。",
+      "どうせ出て行く家だ。",
+      "多少家具が壊れたって知ったことじゃない。",
+      "鉄平は押入れの中身を全て引っ張り出して、天井の板を外してみたり、",
+      "タンスの引き出しを全て引っ張りだして中身をぶちまけ、引き出し全てを引っこ抜いてまで調べた。",
+      "守銭奴というのはへそくりの隠し方だって巧みだ。",
+      "きっとこれくらいはしないと見付からない。",
+      "そんな調子で家の中を荒らし続け、",
+      "二階に上がり、手始めにこの部屋から探そうと思った時、",
+      "後から沙都子が飛びついてきた。"
+    ],
+    "textEn": [
+      "It'd been three days since he told her to stay home.",
+      "He got another call from that annoying teacher again, so he yelled at her and hung up the phone.",
+      "That woman is too persistent, Teppei thought.",
+      "She won't give up that easily.",
+      "He was sure that she'd call the child consultation center again.",
+      "The biggest reason why Teppei refused to let Satoko go to school was his fear that she'd seek help when going there.",
+      "She pretended like nothing was wrong when the social worker from the child consultation center showed up, but that was only because he was right beside her.",
+      "She'd probably betray him as soon as she got her chance.",
+      "Then the consultation center would show up immediately.",
+      "No, maybe even the police would come and get him for assaulting Satoko.",
+      "One of his friends had told him that the consultation center works with the police sometimes.",
+      "Teppei had a lot of weight on his shoulders.",
+      "If the police came, they'd end up questioning him about the other trouble he was involved in.",
+      "He couldn't let that happen.",
+      "All he needed was the money.",
+      "Teppei could leave this awful village behind as soon as he found his brother's bankbook.",
+      "Teppei usually stayed at home, as he found the way the other villagers looked at him unpleasant.",
+      "So when playing mahjong with his friends, he played it at Satoko's house.",
+      "But mahjong requires at least four people.",
+      "When Teppei couldn't get that many people to come over, he just stayed home alone and watched TV instead.",
+      "He started using this ample free time to sniff around the house for his treasure.",
+      "Satoko would end up cleaning the mess he made.",
+      "Besides, it wasn't his home anyway.",
+      "What did it matter to him how much furniture he broke?",
+      "He cleared out the closet, and went up to the attic...",
+      "He also pulled out all the chests and searched them thoroughly.",
+      "His wife had been a pretty clever woman.",
+      "She must have hid it somewhere very unusual.",
+      "He messed up the whole first floor",
+      "and went up to the second floor to search some more.",
+      "The next moment, Satoko went and tried to tackle him."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「に、にーにーの部屋は駄目ですの…ッ！！！」"
+    ],
+    "textEn": [
+      "\"Not Nii-nii's room...!!!\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「何しさらすんじゃあぁ！！！」"
+    ],
+    "textEn": [
+      "\"What the hell?!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「駄目ですの、にーにーの部屋は止めてくださいですの…！！！」"
+    ],
+    "textEn": [
+      "\"No! You can't go inside Nii-nii's room...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "最初、その過剰な反応は、この部屋にこそ通帳が隠されている証拠だと鉄平は考えた。",
+      "鉄平は沙都子を振り払い、その部屋、悟史の部屋に無理に入ろうとする。",
+      "…だが沙都子は半狂乱になってそれを食い止めようとした。",
+      "無抵抗で言いなりの沙都子がこれだけの抵抗を見せるのは面白くもあったが、",
+      "同時に意外でもあり、鉄平はどうして悟史の部屋に入るのだけが駄目なのか、沙都子の主張を聞かざるを得なかった。"
+    ],
+    "textEn": [
+      "Teppei immediately assumed that she was hiding the bankbook in there.",
+      "He threw her off and forced his way inside the room.",
+      "...However, Satoko tried to stop him with all of her might.",
+      "It was amusing for Teppei to see Satoko resisting him to that extent, but it also surprised him a little.",
+      "He asked her why she didn't want him to go into Satoshi's room."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……えっく！　その部屋は…にーにーの部屋ですのよ…。",
+      "…にーにーが帰ってきた時、大変なことになってたら…にーにーが悲しみますのよ…。",
+      "うっく、えっぐ…！！」"
+    ],
+    "textEn": [
+      "\"Hic......! That room belongs to... Nii-nii...",
+      "Nii-nii will be hurt... if he comes home and... sees his room destroyed...",
+      "Ugh... ugh...!!\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「何じゃい、兄貴の部屋だからって、それだけで駄目なんかい。悟史なんか生きとるかどうかもわからんわな。」"
+    ],
+    "textEn": [
+      "\"You don't want me there just 'cause it's your brother's room? You don't even know if he's still alive!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「にーにーは生きてるんですのよ！！　きっと帰ってきますのよ！！",
+      "わああぁああぁあん！！",
+      "荒らさないで、荒らさないで！！」"
+    ],
+    "textEn": [
+      "\"Nii-nii is alive!! He will come back home!!",
+      "Waaaaaaaah!!",
+      "Don't destroy his room!!\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「…何言うてんな。わしゃあ荒らすんと違う。",
+      "この部屋をな？",
+      "ちょいとお掃除しようちゅうとんしゃあな。",
+      "いないヤツのために部屋を残しとく義理なんかあらんね。",
+      "だからちょいとお片付けをするだけなんね。」"
+    ],
+    "textEn": [
+      "\"...What are you saying? I'm not going to destroy the room.",
+      "I'm just...",
+      "trying to clean it up.",
+      "Why would you have to save this room for someone who's not here anymore?",
+      "I need to clean it up.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「だめッ！！",
+      "だめええぇええええ、わああああああん、わああぁああぁあッ！！！",
+      "にーにー、にーにーー！！！",
+      "うわああああぁあぁあぁぁッ！！！」"
+    ],
+    "textEn": [
+      "\"No!!",
+      "No, you can't! Waaaaaaah!! Waaaaaaaaah!!",
+      "Nii-nii!! Nii-nii!!",
+      "Waaaaaaaaah!!!\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「なッ、何じゃいな、そんなに嫌か、わしがこの部屋に入るんがそんなに嫌かい…！！」"
+    ],
+    "textEn": [
+      "\"The hell? You really don't want me to go inside, huh...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子の抵抗があまりに半狂乱なので、さすがに鉄平もこれ以上はやめた方がいいと思った。",
+      "……鉄平も脅しのプロだった。",
+      "追い詰めすぎると素人ほど窮鼠、猫を噛む。",
+      "だから、沙都子のこの異常な抵抗を無視してこの部屋を荒らせば、きっと家を飛び出しかねないと感じた。",
+      "今や沙都子は、近くに置いておくのも煩わしいし、かといって手元から離すのも危険だという疫病神扱いだった。"
+    ],
+    "textEn": [
+      "Satoko's crazed behavior convinced him that he should stop provoking her for the moment.",
+      "...While Teppei was very talented at threatening people,",
+      "despair makes cowards courageous.",
+      "If he ignored Satoko and tore apart the room, she might just run away.",
+      "He didn't want Satoko to be nearby, but he also couldn't let her run loose."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「わぁったわあった！！　沙都子がいい子にしてたらわしもこの部屋には入らん。",
+      "な？",
+      "それでええんね？」"
+    ],
+    "textEn": [
+      "\"Fine then!! If you promise to be a good girl, I won't go inside this room.",
+      "Alright?",
+      "Got it?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……はい、……はい。」"
+    ],
+    "textEn": [
+      "\"Yes... yes...\""
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「その代わり、わしを怒らせたら知らんぞ。",
+      "悟史なんて帰ってこないヤツのために部屋を残しとく謂れはないんだからのぉ！",
+      "お前が帰ってこんようになったり、他所様にわしが虐めてるなんてことを言いよったら、",
+      "…この部屋、大変なことになってまうん、よう肝に刻んどれえ。",
+      "わぁったな？！」"
+    ],
+    "textEn": [
+      "\"But if you make me mad,",
+      "I'm gonna rip this room apart!",
+      "If you escape from this house or tell people about what's happening...",
+      "everything in there's gonna end up in the garbage.",
+      "Get it?!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「……はい、……はい、…ありがとうございますありがとうございます…。」"
+    ],
+    "textEn": [
+      "\"...Yes... yes... Thank you for giving me a chance...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "きっとこの部屋に通帳がある。",
+      "…だが、自分がこの部屋を荒らした痕跡をわずかにでも気取ったら沙都子は面倒なことになるだろう。",
+      "面倒な約束をしたな、とは思ったが、この部屋なんていうどうでもいい人質で沙都子の口が封じれるなら、考えてみれば悪い話ではなかった。",
+      "…よく言い聞かせれば、学校に行かせてもいいんじゃないだろうか。",
+      "明日も休ませると、あの女教師、今度は警察と一緒に乗り込んで来かねない。",
+      "沙都子を学校へ行かせられなかった理由は、学校で余計なことをしゃべるんじゃないかという恐れだけだ。",
+      "その恐れさえないなら、むしろ沙都子は学校に行かせた方がいい。",
+      "それに、沙都子が学校に行っている間なら、こっそり悟史の部屋を調べることもできる。"
+    ],
+    "textEn": [
+      "Teppei was sure the bankbook was inside Satoshi's room.",
+      "...But Satoko would lose it if he went inside.",
+      "He wasn't pleased about the promise he made with her, but at least it would keep Satoko under control.",
+      "...It might not hurt him to send her off to school.",
+      "If he kept her home again tomorrow, that teacher might come to the house with the police in tow.",
+      "He was only keeping her at home because he was afraid that Satoko would talk to other people.",
+      "If she wasn't going to do that, it'd be better for him to send her to school.",
+      "He could sneak into Satoshi's room while she was out."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「沙都子。お前がいい子にしたったんから、風邪ももうええぇころじゃんね。",
+      "お前、明日から学校行けぇ。」"
+    ],
+    "textEn": [
+      "\"Satoko, you've been a good girl, so I guess your cold is all better now.",
+      "Go back to school tomorrow.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「…………ありがとうございますありがとうございます…。」"
+    ],
+    "textEn": [
+      "\"Thank you so much... Thank you so much...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "施しを受けたら礼を言えと仕込んだが、何度も繰り返されると気持ち悪い。",
+      "鉄平は自分勝手にそう思った。"
+    ],
+    "textEn": [
+      "He was the one who told her to say 'thank you' when he gives her approval to do something.",
+      "But it annoyed him to hear her say it over and over."
+    ]
+  },
+  {
+    "color": "#ddc16b",
+    "labelEn": "Teppei",
+    "labelJp": "鉄平",
+    "textJp": [
+      "「早ぅいがんね、ざったいわこのダラズが。……あぁもう！",
+      "面白ないん！！」"
+    ],
+    "textEn": [
+      "\"Get out of my sight, you little brat. Gah!",
+      "You're so annoying!!\""
+    ]
+  }
+]

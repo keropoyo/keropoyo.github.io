@@ -1,0 +1,276 @@
+[
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "「えぇ、葛西氏が踏み込んだ時には室内は無人でベランダへの窓が開きっぱなし。",
+      "その時が飛び降り時刻です。"
+    ],
+    "textEn": [
+      "\"Yes. When Mr. Kasai broke in, the room was empty, and the window leading to the balcony was open.",
+      "That was when she fell."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "それでその真下の５階エレベーターフロアの屋根に一度落ちて脳震盪。",
+      "そのしばらく後に横に転がって再落下、死亡。"
+    ],
+    "textEn": [
+      "She hit the elevator housing right beneath, which gave her a concussion.",
+      "Then she rolled off the roof and hit the ground, killing her."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "葛西氏が飛び降りを疑って、地上を調べたときに遺体が見つからなかったのは、この時点ではエレベーターフロアの屋根の上で昏倒中だったからです。"
+    ],
+    "textEn": [
+      "The reason Mr. Kasai didn't find her even though he suspected her suicide is that she was on the elevator housing at that time, unconscious."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Detective",
+    "labelJp": "刑事",
+    "textJp": [
+      "前原圭一が刺されたのは、ほぼ同じ頃。",
+      "その頃には園崎詩音はすでに飛び降りていて、屋根の上で脳震盪中…？」"
+    ],
+    "textEn": [
+      "Keiichi Maebara was stabbed at about the same time.",
+      "Was Shion Sonozaki unconscious on the roof then...?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…違いますねぇ。",
+      "ベランダから抜け出して圭一を刺して。",
+      "ベランダへまた戻る時に誤って落下…、じゃないかなぁ？",
+      "悪いけど、周辺の部屋のベランダとかも調べ直してください。」"
+    ],
+    "textEn": [
+      "\"I doubt it.",
+      "She must've snuck out of the building, stabbed Keiichi,",
+      "then accidentally fell when she came back...... Doesn't that sound right?",
+      "Ah, would you look at the neighboring balcony again?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「大石さーーん、３番にお電話です。」"
+    ],
+    "textEn": [
+      "\"Ooishi-san, you've got a call on line three.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ハイハイ、どちら様から？」"
+    ],
+    "textEn": [
+      "\"Oh, who is it from?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「佐藤と伝えれば分かるとか。",
+      "合言葉はロンと言えと。」"
+    ],
+    "textEn": [
+      "\"Sato, apparently.",
+      "He says the password is 'ron.'\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっは！",
+      "もしもし！",
+      "あーサトさんですか。",
+      "こっちへ電話ということは、いい知らせでしょうね？」"
+    ],
+    "textEn": [
+      "\"Na ha ha!",
+      "Hello!",
+      "Ah, Sato-san.",
+      "You must have some good news.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "「…………情報屋の連絡で、裏を取ることができた。やはり、大石の予想通りだった。」"
+    ],
+    "textEn": [
+      "\"...An informant got in contact with me and you were right after all.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ありがとうございます！",
+      "今度フラワーロードで一杯おごりますよ。」"
+    ],
+    "textEn": [
+      "\"Thank you!",
+      "I'll buy you a drink on Flower Road!\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「何です、今の電話。",
+      "麻雀の誘いですか？」"
+    ],
+    "textEn": [
+      "\"What was that call about?",
+      "A mahjong invitation?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ビンゴ。",
+      "園崎姉妹は逆なんです。",
+      "魅音が詩音で、詩音が魅音。",
+      "刺青入れる時に間違って逆にやっちゃって、取り返しがつかなくなったらしい。"
+    ],
+    "textEn": [
+      "\"Bingo.",
+      "The Sonozaki sisters switched places.",
+      "Mion is Shion, and Shion is Mion.",
+      "They made a mistake when they were supposed to tattoo the successor."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "だからこのノートの魅音と詩音は逆に読むんです。",
+      "それでなら、悟史くんと詩音さん、…いや魅音さん？",
+      "ややこしいなぁ！",
+      "…の関係が理解できる。」"
+    ],
+    "textEn": [
+      "So, Mion and Shion are swapped around in this notebook.",
+      "So then Satoshi-kun and Shion-san... No, Mion-san?",
+      "This is confusing!",
+      "Anyway, with that, you gain a clearer understanding of their relationship.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「ノートって、先日のあの、大石さん宛てと書かれて郵便ポストに投函されてたって言う怪ノートのことですか？",
+      "中身はめちゃくちゃで捜査撹乱の恐れありって言いませんでしたっけ？」"
+    ],
+    "textEn": [
+      "\"Are you talking about the mysterious notebook you received the other day?",
+      "Didn't you say it was all mumbo jumbo that could possibly confuse the case?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「もちろん、名前の入れ替えがわかったところで、撹乱の域を出ませんがねぇ。",
+      "……このノート、どこまで信じていいのやら。",
+      "…もし本当なら、古手梨花の死の辺りが怪し過ぎるからなぁ…。」"
+    ],
+    "textEn": [
+      "\"Even after switching the names, it's still confusing......",
+      "I don't know how much of the content I can trust...",
+      "Even if this is true, Rika Furude's death seems very suspicious...\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「…狂人の日記ですよ。",
+      "読んでるとこっちまで狂いそうになります。",
+      "最後のページの、生まれてきてごめんなさいなんて、…読んでるとこっちまで飛び降りたくなりますよ…。」"
+    ],
+    "textEn": [
+      "\"...It's the diary of a lunatic.",
+      "It drove me nuts when I read it.",
+      "You know this line on the last page, about how she's sorry for being born...? That makes me want to jump out the window!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…………でも。",
+      "幸せな日記じゃあないですか。」"
+    ],
+    "textEn": [
+      "\"...Even so...",
+      "this is a happy diary.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「しあわせ、",
+      "……ですか？」"
+    ],
+    "textEn": [
+      "\"A happy diary",
+      "......?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「この日記だけで、悟史くんって名前、何回くらい出てくると思います？",
+      "………詩音さんは本当に悟史くんのことが好きだったんだなぁって。",
+      "その好きというのがね、若さゆえの勘違いで、ずれちゃって。」"
+    ],
+    "textEn": [
+      "\"Do you know how many times Satoshi-kun's name appears in this notebook......?",
+      "Shion-san really loved him.",
+      "But because she was so young, a few mistakes caused that love to be misdirected.\""
+    ]
+  }
+]

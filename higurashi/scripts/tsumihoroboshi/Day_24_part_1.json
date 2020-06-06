@@ -1,0 +1,895 @@
+[
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「わかりました。",
+      "若いのを２人ほど診療所に送ります。」"
+    ],
+    "textEn": [
+      "\"Okay.",
+      "I'll send two of our subordinates to the clinic.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「まさかとは思うけどね…。",
+      "何をやらかすかわかったもんじゃない。」"
+    ],
+    "textEn": [
+      "\"I don't think she'll do it...",
+      "but you'll never know what's going to happen.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「姿を見たら、ただちにひっ捕らえてしまって構いませんか？」"
+    ],
+    "textEn": [
+      "\"Can we capture her by force if she does?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……本当は嫌なんだけどなぁ…。",
+      "……どうしようねぇ。」"
+    ],
+    "textEn": [
+      "\"...Honestly, I don't want to do that...",
+      "What do you think we should do?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「先日の会合で、竜宮レナを確保して警察に引き渡すことで決着しています。",
+      "ですので、ひっ捕らえても一応、筋は通ります。」"
+    ],
+    "textEn": [
+      "\"We made an agreement with the cops that we're going to give Rena Ryuugu to them right after we find her.",
+      "So even if we use force to capture her, we won't get in trouble.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うちの体面じゃなくて、レナの心情的に気の毒だなってこと！",
+      "できたら、本当に静かに静かに決着したいんだけどね…。」"
+    ],
+    "textEn": [
+      "\"I'm not worried about losing face. I just feel sorry for Rena!",
+      "I really want to settle this calmly, if possible...\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「まぁ、お若いですから。",
+      "人さえ殺さなければ大抵はごめんなさいで済みますよ。」"
+    ],
+    "textEn": [
+      "\"Well, she's still young.",
+      "So as long as she didn't kill someone or something, all she has to do is to apologize, and everything will be fine.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あっはっはっはっはー。",
+      "…じゃあアウトかもだー、あっはっはー。」"
+    ],
+    "textEn": [
+      "\"Ah ha ha ha haa.",
+      "...Well then, she might be out of our hands, ah ha ha.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「あ、あ、いえいえ、見つからなければセーフですから。",
+      "セーフセーフ。",
+      "……興宮の界隈ではあの２人の失踪を気にするものはいません。"
+    ],
+    "textEn": [
+      "\"Oh, I mean, you know... As long as they don't find out about it, she'll be safe.",
+      "She'll definitely be safe.",
+      "...Nobody really cares about the disappearance of those two anyway."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "何かのヤバい話を踏んで夜逃げしたんだろうということになっています。",
+      "あの程度のゴロツキ、次から次へです。",
+      "ですからセーフセーフ。」"
+    ],
+    "textEn": [
+      "People think that they ran away somewhere because they did something wrong.",
+      "Those things happen all the time.",
+      "So, she's fine. Don't worry about it.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「アウトだのセーフだのー、私ら野球拳でもやってるわけー？",
+      "わっはっは。",
+      "まぁいいや、それじゃあくれぐれもよろしくお願いします。」"
+    ],
+    "textEn": [
+      "\"She's out, she's safe, what? Are we playing baseball now?",
+      "Wa ha ha.",
+      "Anyways, please just be careful.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「了解しました。",
+      "……ではひっ捕らえてよろしいんですね？」"
+    ],
+    "textEn": [
+      "\"Will do.",
+      "...So, it's ok to capture her by force, right?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……ちゃんとタッチアウトにするんだよー？",
+      "クロスプレーなんかにしないようによろしく頼みます。」"
+    ],
+    "textEn": [
+      "\"...Don't make any mistakes. You have to get her!",
+      "Please don't make it like a chase scene or anything like that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "葛西さんとついつい他愛のない話をしてしまった。",
+      "受話器を置くと、何となく先生の目線を感じた。",
+      "……この狭い部屋で、一緒にいるんだし、私の電話が聞こえるのは当り前だった。",
+      "知恵先生はスプーンを置くと、ちょっと悲しそうな顔で聞いてきた。"
+    ],
+    "textEn": [
+      "I couldn't help but have a silly chat with Kasai-san.",
+      "When I put the phone down, I sensed Chie-sensei was looking at me.",
+      "...No wonder, as she had been able to hear the conversation clearly in this tiny room.",
+      "Chie-sensei put her spoon down, and with a sad look on her face, she asked the following:"
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「……今の電話は、竜宮さんを巡る話ですか？」"
+    ],
+    "textEn": [
+      "\"...Were you talking about Ryuugu-san?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「まぁ、………はい。」"
+    ],
+    "textEn": [
+      "\"Ah... yes.\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「園崎さん、……竜宮さんはどうして家出をしちゃったんでしょう。",
+      "……お友達として、何か知ってはいませんか？」"
+    ],
+    "textEn": [
+      "\"Sonozaki-san... do you know why Ryuugu-san ran away from home?",
+      "...You're close, aren't you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "おそらく、私を除いたら、レナと直接接点があった圭ちゃん以外には、今のレナの状況はわかるまい。",
+      "だから、ほとんどの人間にとっては、レナが家出をしたと思っている。",
+      "だが、家出後の警察の対応が派手過ぎた。",
+      "……スクラップ帖が特ダネだと信じた大石のポンチ野郎が、派手に騒いでレナを追い掛けすぎた。",
+      "村の中をサイレンなしとはいえ、パトカー何台もで走り回り、挙句、町会の連絡網まで使った。",
+      "だから、村の中では、レナが何か悪いことをして警察から逃げてるのではないかと思われているのだ。",
+      "私にとっては、レナの身柄を確保することよりも、確保した後、レナの名誉を回復するためどんなカバーストーリーを作るかの方が難題なようだった。",
+      "………散歩に出た途中で、転んで豆腐の角に頭をぶつけて記憶喪失になっていた、",
+      "そこに大石の勘違いが加わってレナが犯罪者に勘違いされて……。",
+      "…安直だなー。",
+      "とにかく今回は大石が悪役ってことが会合で決着してる。",
+      "大石が珍しくへこんでる間に、あいつの名前を最大限に使わせてもらうとしよう…。",
+      "私が考えなくちゃならないのは、",
+      "とにかく大騒ぎにせず、…レナが全部忘れて、速やかに元の生活を取り戻せるように環境を整えることに違いなかった。"
+    ],
+    "textEn": [
+      "It was hard for anyone to understand Rena's situation, except for me and Kei-chan.",
+      "So, most of them thought that Rena just ran away from home.",
+      "But after she did, the cops made too much of a fuss over it.",
+      "...Ooishi stupidly believed that the scrapbooks were a big scoop, and he overreacted in trying to find Rena.",
+      "He had patrol cars running around everywhere in the village. He even used the town council's phone directory to find her.",
+      "So, people in the village thought Rena did something wrong and was trying to run from the cops.",
+      "What was going to be difficult for me, more than finding her, was to make up a story to retrieve Rena's honor after they detain her.",
+      "...Hmm, what about this: Rena went for a walk, fell down and hit her head on the edge of some tofu, and lost her memory.",
+      "Ooishi misunderstood something big time, and he thought she was a criminal...",
+      "...It was too easy.",
+      "Anyway, we did make it clear that Ooishi was the one who misunderstood everything at the meeting the other day.",
+      "I had to make the best use of his name while he was feeling down for once.",
+      "What I'd have to do was to not make a big deal about this situation...",
+      "and to create an environment that allowed Rena to forget everything that happened, in order to get her life back together as soon as possible."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「大丈夫ですよ先生。",
+      "……レナは今ちょっと病気になってるだけです。",
+      "それを警察の某デブ刑事が素敵に勘違いして話をややこしくしただけです。"
+    ],
+    "textEn": [
+      "\"Everything is going to be fine, Chie-sensei.",
+      "...Rena is a little sick right now. That's all.",
+      "A fat cop somehow made a lovely mistake and got things twisted around."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "まさか先生、レナが悪いことをして逃走中なんて、信じちゃいないですよね？」"
+    ],
+    "textEn": [
+      "You don't believe that Rena did something wrong and that she's trying to run from the police, do you?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「……それは、…もちろんですけど…。",
+      "でも、……家出することによってご家族にお掛けしている迷惑を考えれば、悪くないということはありません。」"
+    ],
+    "textEn": [
+      "\"...Of course not...",
+      "But... making her family worry by running away from home isn't a good thing to do, either.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………親と喧嘩してのちょっとした家出。",
+      "…若気の至りだったということにするのが最善かもしれない。"
+    ],
+    "textEn": [
+      "...She had a fight with her father, and she ran away from home for a little while.",
+      "...She acted childish, and that's all. Maybe that'd be the best story to go with."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「何か悩みがあったのでしょうか。",
+      "………それに気付けなかった私は教師失格ですね…。",
+      "一度、竜宮さんとじっくりお話がしたかったです…。」"
+    ],
+    "textEn": [
+      "\"I wonder if she had some problems she couldn't talk to anyone about.",
+      "...I must be a bad teacher, because I never realized it...",
+      "I wish I could have sat down and talked with Ryuugu-san before all this happened...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あはははは、先生、ちょっとヘビーに考えすぎです。",
+      "もうちょっとリラックスリラックス…。",
+      "プチ家出なんて、今時珍しくないですって！」"
+    ],
+    "textEn": [
+      "\"Ahahahaha. Chie-sensei, you're taking it too seriously.",
+      "You need to relax...",
+      "It's normal for young kids nowadays to run away from home for a while!\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「ああぁあぁぁぁぁ、竜宮さんがこのまま不良になってしまって悪いことを始めたらどうしましょう！！",
+      "あぅあぅあぅ〜！」"
+    ],
+    "textEn": [
+      "\"Oh, nooooo. What am I going to do if Ryuugu-san becomes one of those bad kids and starts doing really bad things?!",
+      "Au au auuuu!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "竜宮さんが不良になる",
+      "↓\\n悪いことをして逮捕される",
+      "↓\\n担任の重大な責任",
+      "↓\\n懲戒免職",
+      "↓\\nカレーが食べられない",
+      "↓\\n死"
+    ],
+    "textEn": [
+      "Ryuugu-san becomes a bad kid.",
+      "↓\\nShe does something bad and gets arrested by the police.",
+      "↓\\nIt's her teacher's responsibility.",
+      "↓\\nI'll be dishonorably discharged.",
+      "↓\\nI can't eat curry anymore.",
+      "↓\\nI'm dead."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「ガーン、ガーン、ガーン……。」"
+    ],
+    "textEn": [
+      "\"Oh, no. Oh, noooooo...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……知恵先生は、何だか楽しげな妄想でショックを受けているようだった。",
+      "とりあえず楽しそうなので、そっとしておくことにする。",
+      "私は職員室を出て、教室へ戻ることにした。",
+      "ちょうど職員室を出た時、電話が鳴る。"
+    ],
+    "textEn": [
+      "...Chie-sensei seemed comically upset by her own imagination.",
+      "It looked funny, so I decided to leave her alone.",
+      "I made to leave the teacher's office to go back to the classroom, but...",
+      "Right then, the phone rang."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「はいもしもし。",
+      "雛見沢分校でございます。」"
+    ],
+    "textEn": [
+      "\"Hello.",
+      "This is the Hinamizawa branch school.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今日は校長先生が出張らしいので、電話は１人で受けなきゃならないから知恵先生も大変だ。",
+      "私は深く考えず廊下に出る。",
+      "……その時、電話に出ている先生の声色が変った。"
+    ],
+    "textEn": [
+      "Chie-sensei had to answer the phone all day today because the principal was on a business trip.",
+      "I exited to the hallway.",
+      "...Then, I heard the tone of her voice change."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「え？！",
+      "……い、……今、どこにいるんですか？！」"
+    ],
+    "textEn": [
+      "\"What?!",
+      "...Wh-Where are you right now?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私も、え？！と叫び、振り返る。",
+      "多分、レナだ。",
+      "レナが学校に電話を掛けてきたんだ！",
+      "私は電話先のレナの声を聞こうと、職員室に入ろうとしたが、それを受話器片手の知恵先生が、入ってはいけませんと制止した。",
+      "…知恵先生は何度かの相槌の後、時計をちらりと見上げた。"
+    ],
+    "textEn": [
+      "What?! I yelled and looked back at her.",
+      "It was probably Rena.",
+      "She called the school!",
+      "I tried to go back inside the teacher's office, but Chie-sensei gestured at me not to come in.",
+      "...Chie-sensei acknowledged what Rena was saying several times, and then, she looked up at the clock."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「わかりました。",
+      "今からすぐ行きます。",
+      "……先生との約束ですよ。」"
+    ],
+    "textEn": [
+      "\"Okay.",
+      "I'll be there.",
+      "...I'm your teacher. You promise me, alright?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それだけ言うと、受話器を置き、ロッカーから私物のショルダーバッグを取り出す。"
+    ],
+    "textEn": [
+      "She said only that, put the phone down, and got her purse out of her locker."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「委員長。",
+      "先生は急用が出来ました。",
+      "しばらく表へ出ますので、みんなを自習させてください。」"
+    ],
+    "textEn": [
+      "\"Class president,",
+      "I have an emergency to take care of.",
+      "I'm going out for a while, so please have everybody study by themselves while I'm gone.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ショルダーバッグから車のキーを出している。",
+      "…どこかでレナと待ち合わせを約束したのは明白だった。"
+    ],
+    "textEn": [
+      "She took her car key out from her purse.",
+      "...It was obvious that she was going to see Rena somewhere."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「先生、今の電話はレナ？！」"
+    ],
+    "textEn": [
+      "\"Chie-sensei, was it Rena?!\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「以上です。",
+      "よろしく頼みますよ、委員長。」"
+    ],
+    "textEn": [
+      "\"That's all.",
+      "You're in charge of the class, okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "知恵先生はあからさまに私の問い掛けを無視すると、小走りに廊下を駆けて行った。",
+      "先生が昇降口から校庭に出て、……自分の車に乗り込んでいくのが見える。",
+      "そしてその車が校門を出た瞬間に、私も校庭へ駆け出した。",
+      "校門のところに停まっている黒塗りの車に駆け寄り、窓を叩いた。"
+    ],
+    "textEn": [
+      "Chie-sensei completely ignored me and she ran out into the hallway.",
+      "She ran to the schoolyard... and got into her car.",
+      "The moment her car left through the gate, I ran out to the schoolyard myself.",
+      "I headed for the black car parked near the gate and knocked on the window."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Gangster",
+    "labelJp": "組員",
+    "textJp": [
+      "「お疲れ様です。",
+      "今のところ、異常ありません。」"
+    ],
+    "textEn": [
+      "\"How are you doing, milady?",
+      "Everything is quiet so far.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ああぁ、違う違う！",
+      "今、出て行った先生の車を追って！！",
+      "多分、行く先にレナがいる！」"
+    ],
+    "textEn": [
+      "\"I know!",
+      "But I need you to follow that car that just left!!",
+      "I think she's going to meet Rena!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Gangster",
+    "labelJp": "組員",
+    "textJp": [
+      "「了解っす…！！！」"
+    ],
+    "textEn": [
+      "\"Understood!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「レナは警戒心が強いから注意してね。",
+      "捕まえたら有無を言わさずに本家へ放り込んで葛西の指示に従うこと！",
+      "私の友人だよ？！",
+      "怪我なんかさせたら許さないからね！」"
+    ],
+    "textEn": [
+      "\"Rena is very paranoid, so you need to be careful.",
+      "Bring her to my house right after you catch her. After that, follow Kasai's orders!",
+      "She's my friend!",
+      "You better not get her hurt!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………知恵先生はおそらくレナに、誰にも内緒で話がしたいといって呼び出したのだろう。",
+      "私が聞いても無視した態度から容易に想像できた。",
+      "そのレナと知恵先生の約束を踏みにじるようで、ちょっと気の毒に思ったが、",
+      "……レナが何か妙なことをしでかさない内に捕まえるのは、とても重要なことだった。",
+      "何もしない今の内なら、親と喧嘩して家出して、引っ込みがつかなくなって放浪してましたで言い訳になる。",
+      "……これが診療所に放火なんかした後だったらお手上げだ。",
+      "車は砂利をガリガリ弾きながら、乱暴にターンすると、ものすごい速度で知恵先生の車を追っていった。",
+      "…私は消えていく車の影を見送りながら、",
+      "……この一連のトラブルが、もっとも静かな形で終わりを迎えてくれるよう祈るしかなかった。"
+    ],
+    "textEn": [
+      "...Rena must've told Chie-sensei that she wanted to talk to her alone.",
+      "I could tell that easily from the way she ignored my question.",
+      "I did feel a little bad for ruining their promise...",
+      "...But it was very important that we caught her before she did something wrong.",
+      "We could still make up an excuse that she was just wandering around because she had a fight with her father and ran away from home.",
+      "...But if she set fire to the clinic or something, there would be nothing I could do.",
+      "The car made a rough u-turn on the gravel road, and it chased after Chie-sensei's car at full speed.",
+      "...I watched the car until it was gone.",
+      "...All I could do now was to pray that this would be settled calmly."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あーー、みんなみんな、傾注〜！！",
+      "えー、午後の授業は自習になったよー！",
+      "というわけで大人しく席について何かやることー！」"
+    ],
+    "textEn": [
+      "\"Hey, pay attention, everyone!!",
+      "Well, we need to study by ourselves for the rest of the class today!",
+      "So get back to your desks and study quietly!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……自習ぅ？」"
+    ],
+    "textEn": [
+      "\"...Self-studying?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺がぽかんとしていると、魅音が駆け寄ってきて小声で言った。"
+    ],
+    "textEn": [
+      "Mion ran up to me and spoke quietly."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……レナから電話があった。」"
+    ],
+    "textEn": [
+      "\"...Rena just called.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「えぇ！",
+      "本当か…！」"
+    ],
+    "textEn": [
+      "\"What?",
+      "Really...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん、ついさっき職員室に電話が。",
+      "知恵先生が指定された場所に会いに行ったみたい。」"
+    ],
+    "textEn": [
+      "\"Yeah, she just called the teacher's office.",
+      "I think Chie-sensei went to meet with Rena.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……レナのやつ、…一体どういうつもりなんだ。」"
+    ],
+    "textEn": [
+      "\"...Rena... I wonder what she's going to do.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「わかんない。",
+      "とにかく、うちの車に先生の後を追わせてる。",
+      "…レナには悪いけど、そこでふん捕まえる！」"
+    ],
+    "textEn": [
+      "\"I have no idea.",
+      "Anyway, I told my bodyguards to follow Chie-sensei's car.",
+      "...I feel bad for Rena, but we're going to capture her there by force!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「うまく行くといいな…。」"
+    ],
+    "textEn": [
+      "\"I hope it works...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「荒事には慣れてる連中だよ。",
+      "任せとこう。」"
+    ],
+    "textEn": [
+      "\"They're used to doing this kind of stuff.",
+      "I'm sure they'll do fine.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ、捕まえれば一件落着なのか？」"
+    ],
+    "textEn": [
+      "\"So, if they catch her, is everything going to be over?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「だね。",
+      "そしたらとりあえず病院に放り込むよ。",
+      "きっと、専門の医者が診たら、なぁんだってくらいに典型的な何かの病気だよきっと。"
+    ],
+    "textEn": [
+      "\"Yeah.",
+      "We'll send her to a hospital.",
+      "If a doctor sees her, I'm sure he'll find a typical kind of disease or something."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "強迫性心因性ストレスなんたらとか、多分そんな感じのやつ。」"
+    ],
+    "textEn": [
+      "It'll be like obsessive-psychosomatic disorder or whatever.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………………。」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "こうして俺たちが午後ののんびりした時間を自習して過ごしている間に、",
+      "どこかの場所で知恵先生と会う約束をしていたレナを、園崎家の人たちが捕まえて一件落着。",
+      "……その後のことは色々とあるだろうけど、…魅音は、レナの親身になって、いろいろと世話してくれるだろう。",
+      "そして最後には、あれは親との喧嘩の家出でしたということになって、…めでたしめでたし。"
+    ],
+    "textEn": [
+      "While we were spending our afternoon studying peacefully,",
+      "the members of the Sonozaki family would capture Rena, who was waiting for Chie-sensei somewhere. The problem would be solved.",
+      "...It wasn't going to be easy after that, but I was sure Mion would take good care of her.",
+      "And in the end, everybody would understand that Rena just ran away from home because of a silly fight with her father... A happy ending."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………。」"
+    ],
+    "textEn": [
+      "\"...............\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「一件落着、でしょ？」"
+    ],
+    "textEn": [
+      "\"Problem solved, right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音はウィンクしながら、もう解決した気分でいるようだった。",
+      "…だが、俺はどうも腑に落ちなくて、納得する気になれなかった。",
+      "………それは、レナと知恵先生の接点だ。",
+      "…こう、うまく言えないのだが、…………どことなく違和感があるというか。",
+      "２人の仲が悪いと言ってるんじゃない。",
+      "レナはいい生徒だから、先生との関係も良好だった。",
+      "……レナは、知恵先生を呼び出して、どうしようというのだろう。",
+      "そう思った時、ガラガラと引き戸が開き、お手洗いに行っていた子が帰ってきた。",
+      "レナと、一緒に。"
+    ],
+    "textEn": [
+      "Mion winked at me. She looked like she already thought everything was over.",
+      "...But that just didn't sound right to me.",
+      "...I couldn't see any connection between Rena and Chie-sensei.",
+      "...It was hard to explain... but there was something wrong.",
+      "I wasn't saying that they didn't get along.",
+      "Rena was a good student, so Chie-sensei had a good relationship with her.",
+      "...But I just didn't understand what Rena wanted from Chie-sensei.",
+      "While I was thinking about it, the door opened, and one of our classmates came back from the bathroom.",
+      "With Rena."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レ、……レナ……！！」"
+    ],
+    "textEn": [
+      "\"R-Rena...!!\""
+    ]
+  }
+]

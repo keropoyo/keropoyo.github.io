@@ -1,0 +1,1749 @@
+[
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「あ、…あぁ、そんなことを言ってたねぇ。"
+    ],
+    "textEn": [
+      "\"Ah... yeah, I remember you telling us about that..."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "はっはっは。",
+      "でも、どうしてだい？",
+      "どうして僕と鷹野さんが殺されなきゃならないんだい？」"
+    ],
+    "textEn": [
+      "Ha ha ha.",
+      "But, why?",
+      "Why do you think Takano-san and I will be murdered?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「あらあら。",
+      "私たちが５年目の祟りに名前を連ねられるなんて名誉な話よ？",
+      "くすくす。」"
+    ],
+    "textEn": [
+      "\"My, my.",
+      "Frankly, it would be an honor for us to be the victims of the fifth curse of Oyashiro-sama!",
+      "Hee hee.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……やっぱり二人は、自分たちが今夜殺されるということをすっかり忘れていた。",
+      "私があの日、祭具殿の中を見せるのと引き換えにしたお願いの、私への警備強化は確かに叶えてくれたが。",
+      "肝心の自分たちへの警備はまったく考えていないようだった。",
+      "まぁ……どうせ信じないとは思ってた。",
+      "そんな簡単に信じてくれたら、運命はもっと簡単に打ち破れている。"
+    ],
+    "textEn": [
+      "...As I'd expected, they didn't really take me telling them that they'd be killed on the night of the festival seriously.",
+      "They did keep their promise to tighten up my security after I showed them the ritual storehouse...",
+      "However, they hadn't given one thought to their own safety.",
+      "Oh well... like I said, I didn't expect them to believe me.",
+      "If they were willing to take me seriously, I could've easily changed their fate a long time ago."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……もう一度言いますです。",
+      "…富竹は喉を掻き毟って。",
+      "鷹野はどこか遠くの山奥で焼かれて死にますです。」"
+    ],
+    "textEn": [
+      "\"......I'm only going to tell you this one more time.",
+      "Tomitake, you're going to claw out your throat and die...",
+      "Takano, you're going to burn to death on top of some mountain...\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「喉を掻き毟るって、…それはＬ５の末期症状のことかい？"
+    ],
+    "textEn": [
+      "\"I'm going to claw out my throat... like the terminal symptoms of L5?"
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "大丈夫だよ、僕はちゃんと注射を受けてる。",
+      "そんなことはありえないよ。」"
+    ],
+    "textEn": [
+      "Don't worry. I took the shots.",
+      "I don't have the disease.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「私だってあんまりね。",
+      "どこか遠くの山奥で焼死なんて、失礼な話だわ。",
+      "……それがあなたの夢の中に出てきたというの？」"
+    ],
+    "textEn": [
+      "\"What happens to me is horrible too.",
+      "I'm going to burn to death on some mountain?",
+      "...Did you have a dream about that?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……………今夜だけでも、どうか気をつけてほしいのです。",
+      "騙されたと思って、どうかボクのいうことを聞いてはくれませんですか…。」"
+    ],
+    "textEn": [
+      "\".........I just want both of you to be careful, at least for tonight.",
+      "Please listen to me, even if you don't really believe it.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「私たちの身に迫る何かというのも、夢のお告げなのかしら？",
+      "大丈夫よ。",
+      "あなたの身辺は山狗がちゃんと警護しているわ。",
+      "今日だって、８人があなたの近辺を警護しているのよ。」"
+    ],
+    "textEn": [
+      "\"Did you have an ominous vision about some danger befalling us, perhaps?",
+      "Don't worry.",
+      "You're under the protection of the Mountain Dogs.",
+      "You've had eight security guards watching you today.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ありがとうです。",
+      "ボクの警護は充分助かっています。",
+      "ですから鷹野たちも同じく用心してほしいのです。」"
+    ],
+    "textEn": [
+      "\"......Thank you very much.",
+      "I know I'm being protected.",
+      "But I want you guys to be careful too.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「心配してくれてありがとう。",
+      "大丈夫だよ、こう見えても体は鍛えてるんだ。",
+      "降りかかる火の粉くらいはちゃんと払えるよ。」"
+    ],
+    "textEn": [
+      "\"Thank you for your concern.",
+      "We'll be fine. I've even been working out.",
+      "I think I can protect myself.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹は筋肉を誇示するようなポーズを取って笑って見せた。",
+      "それは私の不安を取り除くことを目的としているのだろうが。",
+      "そんな根拠のない笑顔は空しく、悲しいだけだった。",
+      "………傍観者の悲しいところだ。",
+      "未来を知っていても、伝えようがない。",
+      "まるで、干渉を許さないように世界の仕組みができているかのように。",
+      "人は基本的にお告げを信じない。"
+    ],
+    "textEn": [
+      "Tomitake flexed his biceps and smiled.",
+      "He was probably trying to make me feel better.",
+      "But all he really did was make me feel sadder.",
+      "......This is the sad part about being me.",
+      "I know the future, but I can't tell them.",
+      "It's as if that was a rule of the world...",
+      "People tend not to believe what I tell them."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……でも、死ぬのです。",
+      "富竹と鷹野が死ねば、次はボクが殺されるのです。",
+      "２人が死んだら、誰がボクを守ってくれるのですか。」"
+    ],
+    "textEn": [
+      "\"......But you are going to die.",
+      "If Tomitake and Takano die, I'll be killed next.",
+      "If the two of you are dead, who will protect me?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「どうも、相当悪い夢を見たみたいね。",
+      "……大丈夫よ。",
+      "もし万が一、私たちが死ぬようなことがあっても、山狗があなたを警護するわ。」"
+    ],
+    "textEn": [
+      "\"It sounds like you had a horrible dream.",
+      "...Don't worry.",
+      "Even if we die, the Mountain Dogs will still protect you.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……山狗は本当にボクを守ってくれるのでしょうか。",
+      "守ってくれた試しはないのです。」"
+    ],
+    "textEn": [
+      "\"Are you really sure they would?",
+      "They've never protected me before.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「そんなことないわ。",
+      "あなたが吹っかけた喧嘩にも現れたでしょう？",
+      "あなたの近辺を常に警戒してくれているわ。"
+    ],
+    "textEn": [
+      "\"That's not true.",
+      "They saved you when you got in a fight, remember?",
+      "They're watching you at all times."
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "もちろん、平時にはそこまでの警戒はしていないけれど、先日のあなたの要望以来、あなたへの警戒態勢は非常に高度な状態を維持しているわ。",
+      "入江所長の警護よりも厳重なくらいよ。」"
+    ],
+    "textEn": [
+      "Of course they aren't on alert at all times, but just as you requested the other day, the security around you is still extremely strong.",
+      "You even have a better security team than Dr. Irie.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……富竹と鷹野が死んだ後も、その警戒態勢は維持されますですか？」"
+    ],
+    "textEn": [
+      "\"They'll keep on protecting me even after you die?\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「無論よ。",
+      "あなたの身ほど大事なものはないんだから。」"
+    ],
+    "textEn": [
+      "\"Of course.",
+      "You're the most important person to us.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「あはははは…。",
+      "僕たちは今夜、殺されてしまうともう決まっているのかい？",
+      "まいったなぁ。」"
+    ],
+    "textEn": [
+      "\"Ahahahaha...",
+      "So you're sure that we're getting killed tonight?",
+      "That's too bad.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……富竹に生き残る意思がないのなら、死んだ後の私の身にしか興味がないです。」"
+    ],
+    "textEn": [
+      "\"......If you have no intention to survive, then I only have to worry about myself.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私が冷たく言い放つと、さすがに富竹の心にも少しは届いたようだった。",
+      "表情がほんの少しだけ真面目になってくれた。"
+    ],
+    "textEn": [
+      "My words must have left a mark on his heart.",
+      "He looked much more serious after I said that to him."
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「…やれやれ。",
+      "わかったよ。",
+      "せいぜい今夜を気をつけるよ。",
+      "興宮へ戻る時は、僕にも警護をつけることにする。」"
+    ],
+    "textEn": [
+      "\"...Good grief.",
+      "Okay then.",
+      "I'll be extra careful tonight.",
+      "I'll take a security guard with me when I'm going back to Okinomiya.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「二人の時に襲われるのだと思います。",
+      "だから今夜二人っきりになっては駄目なのです。」"
+    ],
+    "textEn": [
+      "\"I think someone might attack the two of you if you're alone together.",
+      "Make sure not to be alone with each other tonight.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「くすくすくす。",
+      "あらあら、妬いてるのかしら？",
+      "おませさんねぇ。」"
+    ],
+    "textEn": [
+      "\"Hee hee hee...",
+      "My my, are you jealous?",
+      "You're such a precocious girl!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……やはり、この二人の運命を変えることはできないのだろう。",
+      "沙都子を救い出す時は、みんなが危機感を共有してくれた。",
+      "だからあれだけ早く団結し、沙都子の身に破局が訪れる前に救出するという奇跡を成し遂げた。",
+      "だが、この二人には危機感がない。",
+      "危機感のない人間の心に、どうやれば真剣さが届くというのか。",
+      "私は軽い諦めのため息を漏らす。"
+    ],
+    "textEn": [
+      "...Like I thought, I can't change their fate.",
+      "When we saved Satoko, everyone shared the same sense of urgency.",
+      "That's why we all got together and saved her before it was too late.",
+      "However, these two have no sense of urgency at all.",
+      "How can I make them understand?",
+      "I sighed and gave up."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……富竹、鷹野。",
+      "さようなら。",
+      "今日までありがとうでした。」"
+    ],
+    "textEn": [
+      "\"...Tomitake, Takano...",
+      "Good bye.",
+      "Thank you for everything.\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「ちょっと待ちなよ、……梨花ちゃん…！」"
+    ],
+    "textEn": [
+      "\"Hey wait... Rika-chan...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "彼らにこれ以上を言ってもやはり意味はない。",
+      "なら、他の人にも警告しよう。",
+      "二人だけが備えるのではなく、他の人も備えてくれれば、運命を少しは狂わすことができるかもしれない。",
+      "どうせ無理だと諦めるな。",
+      "金魚すくいの網くらいに薄く脆いものだと思うんだ。",
+      "ほら、ジャム瓶の蓋と同じだ。",
+      "開くと思ってひねらなければ開かない。",
+      "運命は変えられるものだと思うんだ。",
+      "そうじゃなきゃ、変えられない。"
+    ],
+    "textEn": [
+      "I had nothing else to say to them now.",
+      "Instead, it might be worth talking to someone else.",
+      "If I could get someone else to protect them, I might be able to change something.",
+      "I can't give up yet.",
+      "Fate is as thin as a piece of paper...",
+      "It's just like the lid on a jar of jam.",
+      "It's not going to open unless you believe it will.",
+      "I have to believe that I can change my fate.",
+      "If I don't, it's not going to change."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「富竹さんと鷹野さんがですか？",
+      "……それは本当ですか。」"
+    ],
+    "textEn": [
+      "\"Tomitake-san and Takano-san...?",
+      "...Are you sure about this?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹と鷹野にもっとも近い立場にいる入江には、もちろんこれまでも何度も伝えてきた。",
+      "入江は、富竹たちに比べると比較的真剣には聞いてくれる。",
+      "…だが、頼りになるかどうかは別問題だった。"
+    ],
+    "textEn": [
+      "I've told Irie about this so many times in the past.",
+      "Irie tends to listen to me more seriously than Tomitake and Takano do.",
+      "However, that doesn't mean that he can actually do something about it."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……オヤシロさまの巫女のボクが嫌な予感がするから、では理由になりませんですか？」"
+    ],
+    "textEn": [
+      "\"I'm the shrine maiden of Oyashiro-sama, and I have a bad feeling about this... Is that not a good enough reason?\""
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "「はっはっはっは。",
+      "…わかりました。"
+    ],
+    "textEn": [
+      "\"Ha ha ha ha.",
+      "...I understand."
+    ]
+  },
+  {
+    "color": "#c89a80",
+    "labelEn": "Irie",
+    "labelJp": "入江",
+    "textJp": [
+      "そう仰るなら、オヤシロさまのご信託かもしれませんね。",
+      "今夜そんな事件があれば、５年目の祟りということになってしまいます。",
+      "お二人には注意するよう私からも伝えましょう。」"
+    ],
+    "textEn": [
+      "It might be a message from Oyashiro-sama.",
+      "If that really happens tonight, it would be the fifth time in a row.",
+      "I'll tell the two of them to be cautious too.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "入江にできるのは、二人に注意を促す程度なのだ。",
+      "それは、私が直接二人に注意を促すのと同じレベル。",
+      "……つまり、それほど効果がない。",
+      "入江は研究者であって、不測の事態などに対応する危機管理者の能力はない。",
+      "……それは本来、鷹野の役目だからだ。"
+    ],
+    "textEn": [
+      "All Irie would end up doing would be warning the two of them.",
+      "Which was exactly the same thing as what I did.",
+      "In other words, it wouldn't matter in the least...",
+      "Irie is just a researcher, and he has no ability to deal with unexpected trouble.",
+      "...That's why Takano works for him, after all."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……くれぐれもよろしくお願いしますです。",
+      "ぺこり。」"
+    ],
+    "textEn": [
+      "\"......Please talk to them.",
+      "Please.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "誰なら本気で聞いてくれる？",
+      "誰なら富竹と鷹野の死を防いでくれる？",
+      "そうだ、オヤシロさまの祟りと戦おうと情熱を燃やす男がひとりいたじゃないか。"
+    ],
+    "textEn": [
+      "Who else would treat me seriously?",
+      "Who would be able to prevent Tomitake and Takano's death?",
+      "That's right... there's one man who's been fighting the curse of Oyashiro-sama with all his might!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あれ、古手さん。",
+      "探してたんですよ。",
+      "赤坂さんがぜひお別れの挨拶をしたいと言って探してたんですが。」"
+    ],
+    "textEn": [
+      "\"Oh, it's Furude-san.",
+      "I've been looking for you.",
+      "Akasaka-san wants to say goodbye.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……つくづく赤坂とは肝心な時に縁がないのです。」"
+    ],
+    "textEn": [
+      "\"......I guess he and I are not meant to be.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっは！",
+      "先日の温泉の件をずいぶん恨まれているようですねぇ。",
+      "赤坂さんも何も恩返しができなかったことを悔やまれていましたよ。",
+      "長い休みが取れたら、改めて雛見沢に来たいと言っていました。",
+      "…なっはっは！"
+    ],
+    "textEn": [
+      "\"Na ha ha!",
+      "You're still upset about last week.",
+      "Akasaka-san really regrets that he wasn't able to help you.",
+      "He says he'd love to come back to Hinamizawa again, when he next has vacation.",
+      "Na ha ha!"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "それを奥さんに勘違いされちゃったみたいで。",
+      "可愛いけど、あの奥さん、家に帰ると怖いヒトなんだろうなぁ。",
+      "んっふっふ！」"
+    ],
+    "textEn": [
+      "But his wife took it personally.",
+      "She's pretty, his wife, but she can be scary too...",
+      "Nfu fu fu!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……大石。",
+      "実は、……大切な話があるのですが、誰も信じてくれませんのです。」"
+    ],
+    "textEn": [
+      "\"Ooishi...",
+      "...I have something important to tell you, but no one else believes me...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ん？",
+      "いかがなさいましたか。」"
+    ],
+    "textEn": [
+      "\"Hmm?",
+      "What's the matter?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石への相談も何度かやったことがある。",
+      "話も割りと真剣に聞いてくれる。",
+      "だが、富竹たちの死後に疑われ、その後しつこく付きまとわれることになるのが嫌で、最近は控え気味だった。"
+    ],
+    "textEn": [
+      "I've spoken to him several times in the past too.",
+      "He usually takes me pretty seriously.",
+      "However, after they die, he starts suspecting me. That's why I stopped talking to him."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「それをどこで聞いたんですか。",
+      "どの辺で！」"
+    ],
+    "textEn": [
+      "\"Where did you hear that?",
+      "Where at the festival?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石には夢の話でなく、人ごみで偶然耳にしたという風に言った。",
+      "……こういう言い方にすれば、私に変な誤解を抱かないでくれるかもしれない。"
+    ],
+    "textEn": [
+      "I told him that I heard someone talking about murdering them in the crowd.",
+      "That way, he might not be suspicious of me after the murder really happens."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……確かに、富竹さんは余所者だし、…鷹野さんと合わせれば二人。",
+      "一人が死んで一人が消えるか…。",
+      "………確かに５年目の祟りとしては、あってもおかしくなさそうですね…。"
+    ],
+    "textEn": [
+      "\"...Tomitake-san is not from around here... and with Takano-san, that makes two people......",
+      "One is going to die and one is going to disappear.",
+      "......This could be the fifth year's curse of Oyashiro-sama..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "デマの可能性もありますが、わかりました。",
+      "駄目で元々。",
+      "お二人をマークさせましょう。」"
+    ],
+    "textEn": [
+      "I can't take this as anything more than a rumor, you understand.",
+      "But just in case...",
+      "We'll keep our eye on the two of them tonight.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「襲うなら雛見沢と興宮の間の道だとも言っていたように思いますです。」"
+    ],
+    "textEn": [
+      "\"I think they were saying that they were going to attack them somewhere between Hinamizawa and Okinomiya.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "富竹の死体は確か、雛見沢と興宮を結ぶ街道の途中。",
+      "…確か、舗装道路と砂利道が変る辺りで毎回見付かるはずだ。"
+    ],
+    "textEn": [
+      "Tomitake's body will be found on the road leading out of the village.",
+      "...From what I remember, he's discovered where the concrete road turns to gravel."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「わかりました。",
+      "車を一台張り付かせましょう。",
+      "そのくらいの余裕はありますので。」"
+    ],
+    "textEn": [
+      "\"I see.",
+      "I'll have a cruiser patrol around there.",
+      "We can spare that, at least.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は大して疑いもせずに話に乗ってくれた。",
+      "大石のような人間がこのようなデマっぽい話を鵜呑みにするなんて、ほとんどの人は驚くだろう。",
+      "どうも、火のないところに煙は立たないというのが座右の銘らしく、この手のタレコミは鵜呑みにするクセがあるようだった。",
+      "それを私は数多の世界で知っている。",
+      "……もっとも、この愉快な悪癖のせいで、一部の世界では話をややこしくしてくれるのだが。",
+      "でも、無理もないことかもしれない。",
+      "オヤシロさまの祟りを暴きたくて、今年が定年を目前にした最後のチャンスなのだ。",
+      "例えデマかもしれなくても、耳を傾けずにはいられないのだろう。",
+      "それは、私のような証拠を示せない身にはとても都合がよかった。"
+    ],
+    "textEn": [
+      "He agreed to get involved, and he wasn't suspicious of me either.",
+      "I'm sure it seems odd to people that Ooishi actually believed this phony-sounding story of mine.",
+      "The thing about Ooishi is that he strongly believes that there's no smoke when there's no fire.",
+      "I've learned from experience that he tends to believe my information.",
+      "However, that personality of his has caused me so much trouble in previous worlds...",
+      "Of course, there's no question why he's so eager to believe me, either.",
+      "This is his last chance to expose the curse of Oyashiro-sama before his retirement.",
+      "Even if it might be fake, he still wanted to believe it.",
+      "That was convenient for me, since I couldn't show proof."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……あー、熊ちゃん、聞こえますか聞こえますか。",
+      "興宮への帰り道の途中にパトを一台張り付かせてください。"
+    ],
+    "textEn": [
+      "\"...Hey, Kuma-chan, you read? Can you hear me?",
+      "Have a cruiser patrol the road back to Okinomiya."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…………いえいえ、単なる警戒です。",
+      "よくないことがそこら辺で起こるかもしれないという噂が入りまして。"
+    ],
+    "textEn": [
+      ".........No, no, it's just a precaution.",
+      "I heard rumor that something bad might happen around there tonight."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "えぇ、２人程度でいいでしょう。",
+      "お願いいたします。」"
+    ],
+    "textEn": [
+      "Yeah, two officers would be fine.",
+      "Thank you.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ありがとうです。",
+      "……誰もボクのことを信じてくれないので、困っていたところなのです。」"
+    ],
+    "textEn": [
+      "\"......Thank you.",
+      "...No one else believed me, and I didn't know what to do.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「それを信じるのが警察です。",
+      "何事もなければむしろ無事を喜ぶべきじゃないですか。"
+    ],
+    "textEn": [
+      "\"It's my job to believe these things.",
+      "We'll just be glad if nothing happens."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "出動空振りこれを喜べ！",
+      "私の先輩の言葉です。"
+    ],
+    "textEn": [
+      "Be happy to swing and miss!",
+      "Well, that's what my late colleague used to say."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "それにせっかくのタレコミ情報を見過ごして事件を防げなかったら、これほど悔しいことはありませんからねぇ。」"
+    ],
+    "textEn": [
+      "Besides, it's even worse if you ignore what you're told and don't take precautions, you know?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…なるほど。",
+      "大石なりの哲学があって鵜呑みにしているということなのか。",
+      "……とりあえず、今この場はこの哲学のお陰でもっとも心強い味方になってくれそうだった。",
+      "これで明日以降、富竹たちが殺された後、私を犯人扱いしないでくれればなおいいのだが。",
+      "………今はそんなことは気にしなくていい。",
+      "まだまだだ。",
+      "あと誰に相談できるだろう。",
+      "…仲間にも話してみようか…？",
+      "どうせ駄目だなんて思わないで、相談してみよう…。"
+    ],
+    "textEn": [
+      "...I see.",
+      "That's his way of thinking about things.",
+      "...That was why he believed me without question.",
+      "I hope he won't consider me a suspect after they find their bodies tomorrow...",
+      ".........I shouldn't worry about that now.",
+      "I can still do more.",
+      "Who else should I talk to?",
+      "...Should I talk to my friends...?",
+      "I can't give up. I should at least try..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「まさか！",
+      "そんな物騒なことを言ってる人がいるのかい？"
+    ],
+    "textEn": [
+      "\"No way!",
+      "You heard someone talking about that?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "よりにもよってこの日に、不謹慎だなぁ。」"
+    ],
+    "textEn": [
+      "On the day of the festival? That's so wrong.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あれか？",
+      "今日起こるかもしれないって噂の、オヤシロさまの祟りってヤツか？」"
+    ],
+    "textEn": [
+      "\"You mean the curse, right?",
+      "You're talking about the curse of Oyashiro-sama that might happen tonight?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うん。",
+      "連続４年起こってるからね。",
+      "やっぱり今夜も起こるかもしれないって思ってる人も少なくないみたいだね。」"
+    ],
+    "textEn": [
+      "\"Yes.",
+      "It's happened four years in row.",
+      "Lots of people think that it's going to happen again tonight too.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「起こると思うのは勝手でございますけど、富竹さんと鷹野さんを名指しするなんて、失礼な話ですわねぇ。」"
+    ],
+    "textEn": [
+      "\"What they believe is their business, but it's not nice for them to talk about Tomitake-san and Takano-san like that.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「富竹さんと鷹野さんにも、念のため伝えた方がいいんじゃないかな、かな。」"
+    ],
+    "textEn": [
+      "\"I think you should talk to them about it just in case, I think.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……もう伝えましたですが、信じてもらえなかったです。」"
+    ],
+    "textEn": [
+      "\"......I already did, but they didn't believe me.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そりゃそうだろうなぁ。",
+      "…でも、万が一、何かあった後じゃ遅いしな。",
+      "大石さんに話した方がいいんじゃないか？」"
+    ],
+    "textEn": [
+      "\"I bet they didn't.",
+      "...But it's too late if something really does happen.",
+      "I think you should talk to Ooishi-san.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……もちろんもう話しましたです。」"
+    ],
+    "textEn": [
+      "\".......I already did.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「へー、梨花ちゃま、なかなか手際がいいじゃないですか。"
+    ],
+    "textEn": [
+      "\"Huh, I'm kinda impressed you've done all that, Rika-chama."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "でも確かに、用心に越したことはないです。",
+      "…今夜だけは。」"
+    ],
+    "textEn": [
+      "I agree that they should take every precaution.",
+      "...Especially tonight.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「雛見沢村連続怪死事件。",
+      "通称、オヤシロさまの祟り。",
+      "……はっきり言って、何年も続かれちゃ困るんだよね。"
+    ],
+    "textEn": [
+      "\"The series of mysterious deaths in Hinamizawa.",
+      "Commonly known as 'the curse of Oyashiro-sama.'",
+      "...I really don't want them to keep happening every year."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "面白がって模倣する馬鹿も出て来るし、何より村のイメージダウンにしかならない。」"
+    ],
+    "textEn": [
+      "Somebody might end up imitating it, and it's bad publicity for the village too.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「つまり、今夜何も起こらなければ、それで連続は潰えるわけだろ？",
+      "なら今夜起こらないように何かすればいいわけだ。」"
+    ],
+    "textEn": [
+      "\"So if nothing happens tonight, it means the curse is over, right?",
+      "We should definitely make sure that nothing happens, then.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「何かって何ですの？",
+      "悪いことが起こらないように、村中で見回りでもしますの？」"
+    ],
+    "textEn": [
+      "\"What can we do?",
+      "Are you suggesting that we should patrol around the village or something?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「見回りなんかしたら、かえって無用心な気がします。",
+      "そもそも手の打ち様なんてあるんですか？」"
+    ],
+    "textEn": [
+      "\"I think patrolling might be even more careless.",
+      "Do you really think we can do something about this?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「一応、綿流しの準備会の方では、連続怪死事件を模倣しようとする変質者が紛れ込む可能性もあるので、見かけない顔には警戒しようってことになってる。」"
+    ],
+    "textEn": [
+      "\"For starters, there's a chance some deviant trying to imitate the serial murders might be within the Watanagashi preparation committee, so let's be wary of any unfamiliar faces.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「雛見沢は他所の人の顔はわかるからね。",
+      "見慣れない人がいたらすぐわかる。",
+      "だからきっと大丈夫だと思うけどな…。」"
+    ],
+    "textEn": [
+      "\"It's easy for us to tell strangers apart from the locals.",
+      "We can spot them right away.",
+      "I think we'll be fine...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……でも、それでもきっと富竹と鷹野は殺されるのです。」"
+    ],
+    "textEn": [
+      "\"......But Tomitake and Takano will still be killed.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「梨花ちゃん…。",
+      "………そうだね、私たちにもできることをしてみようよ。」"
+    ],
+    "textEn": [
+      "\"Rika-chan...",
+      "......All right. Let's try to do what we can.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そうだな！",
+      "一晩中を護衛はできないだろうけど、せめて祭りが終わるまでの間、近くにいようぜ。",
+      "人が近くにいれば、悪い連中もおいそれと手出しはできねえだろ。」"
+    ],
+    "textEn": [
+      "\"I agree!",
+      "We can't protect them all night, but let's stay with them at least until the festival is over.",
+      "As long as we're there, the bad guys won't be able to do anything to them.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "仲間たちは、本当の意味で理解してくれたかはわからないが、私の言うことを信じようと努力してくれた。",
+      "そして、富竹たちを探し、目を離さないことで護衛しようという話になる。",
+      "これで私にできる全てをやっただろうか。",
+      "……だが、この程度で富竹たちの死を防げるとはとても思えない…。"
+    ],
+    "textEn": [
+      "I couldn't tell if they really believed me or not, but they listened to me, at least.",
+      "We decided to keep our eyes on Tomitake and Takano and protect them for the rest of the night.",
+      "I guess I've done everything I can now.",
+      "...Though it's hard to believe this is enough to prevent their deaths..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………あとは、明日、目が覚めた時、何も起こっていないかどうかね。」"
+    ],
+    "textEn": [
+      "\"......I just have to hope nothing's happened when I wake up tomorrow morning.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……梨花は、富竹たちの死を防げると思っていますですか？」"
+    ],
+    "textEn": [
+      "\"...Do you think you can prevent Tomitake and Takano's deaths, Rika?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…無理かもしれない。",
+      "やはりあの二人が死ぬのは、私の命運が尽きることを知らせる時計の時報なのかもしれない。」"
+    ],
+    "textEn": [
+      "\"...It might be impossible.",
+      "Their deaths might be the bell that portends my doom.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「………………あぅあぅ。」"
+    ],
+    "textEn": [
+      "\"............Au au.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「でも、さっき鷹野も言った。",
+      "山狗が私への警護を厳重にしてくれているから、仮にあの二人が殺されても、私は無防備とはならないかもしれない。",
+      "そうしてる間に、東京から応援も来るだろうしね。"
+    ],
+    "textEn": [
+      "\"But Takano told me earlier",
+      "that even if they die, the Mountain Dogs are supposed to keep protecting me.",
+      "They might bring in more squads from Tokyo too......"
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "………いつものように富竹たちが殺されたとしても、その後の状況はこれまでの世界とは少し違う。」"
+    ],
+    "textEn": [
+      "Even if they die, the situation will be different this time.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「…………………それでも駄目なら？」"
+    ],
+    "textEn": [
+      "\"............What if it still doesn't work out?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……潔く死ぬしかないわね。",
+      "……とにかく、今回は最後の最後まで諦めない。",
+      "足掻ける限り、足掻く。",
+      "どうせ無駄だから残りの時間をワインで過ごすなんて、後ろ向きなことは絶対にしない。」"
+    ],
+    "textEn": [
+      "\"...Then I will just have to die...",
+      "Anyway, I'm not going to give up until the very end.",
+      "I'll struggle to my very limits.",
+      "I won't give up and spend the rest of my time drinking wine.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「…………梨花の好きなようにするといいのです。」"
+    ],
+    "textEn": [
+      "\".........Do whatever you want to do, Rika.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…羽入は相変わらず、どうせ駄目だと思ってる？」"
+    ],
+    "textEn": [
+      "\"You still believe that nothing is going to change, Hanyuu?\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「…………僕は、いいも駄目もないです。あるがままが運命ですから。」"
+    ],
+    "textEn": [
+      "\".........I don't believe anything. It's only fate.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「期待するから心が痛む、か。」"
+    ],
+    "textEn": [
+      "\"I keep getting hurt because I have hope, huh.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私が舞台の上に上がろうとする役者なら、羽入は本当の意味での傍観者なのかもしれない。",
+      "こういう時、私と羽入の心は大きくすれ違うのだった…。"
+    ],
+    "textEn": [
+      "If I'm an actress trying to get up on the stage, Hanyuu is a real bystander.",
+      "We have very different opinions when it comes to this."
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「………梨花。",
+      "何があっても、どうか気を落とさないで…。」"
+    ],
+    "textEn": [
+      "\"......Rika.",
+      "No matter what happens, don't give up...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「何だか、今回もどうせ駄目だって遠回しに言われてるみたいね。",
+      "…最近、あんたと話してるとイラつくことが多いわ。」"
+    ],
+    "textEn": [
+      "\"That sounds like you're convinced that nothing is going to change.",
+      "Lately, the things you say have been pissing me off.\""
+    ]
+  },
+  {
+    "color": "#8676cf",
+    "labelEn": "Hanyuu",
+    "labelJp": "羽入",
+    "textJp": [
+      "「……あぅぁぅぁぅ…。」"
+    ],
+    "textEn": [
+      "\"......Au au au...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "本当は私もわかってる。",
+      "羽入が期待するなと言うのは私を気遣っているからだ。",
+      "運命に勝てると期待するから、それを裏切られて傷つく。",
+      "傷つけばいつか疲弊して私は死ぬ。",
+      "それは羽入にとって、ようやく得た伴侶を失うということだ。",
+      "誰ともコミュニケーションを取れず寂しく生きる存在の羽入にとって、私を失うことほど堪えられないことはないのだろう。",
+      "……私は運命が打ち破れるものだと思ってる。",
+      "そう思ってなかった時ですら、自分の運命は迷路みたいなもので、幾百の試行錯誤の果てには出口があると信じていた。",
+      "でも実は、……羽入は知っているんじゃないだろうか。",
+      "実は私たちが金魚で、この運命は金魚鉢で。",
+      "出口なんてそもそもないということを。",
+      "金魚鉢の中で永遠に二人っきりの相方の私が、いつかガラスを破れると信じてガラスの壁に延々と体当たりを続けている。",
+      "……そんなことは無駄だと諭す羽入。",
+      "傷つき、もしも私が死んでしまった後の孤独を考えたら、何とか考えを改めさせたいに違いない。",
+      "…なるほど、こう考えれば私と羽入の、運命に対する認識と物事への期待の温度差はわかりやすく説明できた。",
+      "羽入は私よりもっともっと永い時間を生きてきた。",
+      "…だから、この無限に広がる世界の法則については私よりもずっと理解が深い。",
+      "…だから、羽入にいくら逆らったところで、…私は真理には逆らえないのかもしれない。",
+      "それでも、…………私は自分の考えを貫かなければならない。",
+      "運命を破る武器は信念という槍。信じる強さが矛先を硬く鋭くするのだから。",
+      "私は仲間たちと一緒に富竹を見つけ、なるべく一緒にいようとおしゃべりをして過ごした。",
+      "だが祭りがお開きになると、彼らは立ち去ろうとした。",
+      "ここで立ち去られたら最後、次に会うことはもうないだろう。",
+      "魅音が、今日は本家に泊まって行けばいいと勧めるが、富竹はそれを固辞した。",
+      "最初の内はみんな、殺し屋が狙ってるかもしれないから、ひと気のないところへは行かない方がいいと言っていたが。",
+      "富竹と鷹野が大人の事情で二人きりになりたがっているのではないかとスケベ根性から邪推し始め、",
+      "しまいには私に、愛する二人の最後の夜を邪魔しちゃ駄目だ、なんて言い出す始末だった。"
+    ],
+    "textEn": [
+      "I understand.",
+      "Hanyuu keeps telling me not to get my hopes up because she cares about me.",
+      "Because I hope to defeat fate, I get hurt when that hope is betrayed.",
+      "And the more I get hurt, the closer I get to losing my mind and disappearing.",
+      "For Hanyuu, that means losing her only friend.",
+      "Losing me is probably the most unbearable thought for Hanyuu, since she has to live alone, unable to communicate with anyone else.",
+      "...I now believe that fate can be changed.",
+      "Even when I didn't have that faith, I still believed that eventually I'd find a way to get out of this maze.",
+      "Perhaps... Hanyuu knows something I don't.",
+      "I might just be a goldfish inside of a fish bowl.",
+      "There might be no way for me to escape my fate.",
+      "We're stuck alone inside of a fish bowl, yet every day I knock on the glass, believing that I can break it someday.",
+      "...Hanyuu keeps telling me that I'm wasting my time.",
+      "If I get hurt and die, she would have to survive all by herself inside the fish bowl.",
+      "With that, I think I finally understand our difference of opinions.",
+      "Hanyuu has lived for a much longer time than I have.",
+      "...Because of that, she understands the laws of this infinitely spanning world better than I do.",
+      "...No matter how much I refute Hanyuu... I can never refute the truth.",
+      "Even so...... I still have to believe in my own faith.",
+      "I believe in a spear that will pierce the wall of fate. My faith will make that spear sharper than ever.",
+      "We found Tomitake in the crowd and struck up a conversation with him to keep him around as long as we could.",
+      "However, as soon as the festival ended, they tried to leave.",
+      "If they left now, I'd never see them again.",
+      "Mion tried insisting they stay at her house for the night, but Tomitake refused.",
+      "Everyone tried various ways stop them from being alone because the murderer might be around.",
+      "However, we eventually started to believe that they wanted to be alone for adult reasons...",
+      "and I wound up suggesting that we shouldn't interrupt the two lovebirds..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「大丈夫だよ梨花ちゃん。",
+      "富竹のおじさまだって男だよ。",
+      "いざとなれば鷹野さんのために獅子奮迅の活躍をしてくれるよ。」"
+    ],
+    "textEn": [
+      "\"Don't worry, Rika-chan.",
+      "Tomitake-san is a man, after all.",
+      "I'm sure he'll do anything to protect Takano-san.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「そうよねぇ？",
+      "私に危機があったら、ジロウさんが体を張って守ってくださるのよねぇ？」"
+    ],
+    "textEn": [
+      "\"Is that so?",
+      "If something happens, you'll rescue me, right?\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「あ、あははははは…、そ、そのつもりだよ！」"
+    ],
+    "textEn": [
+      "\"Ah, ahahahahaha... Th-That's the plan!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃ、私たちはもう行こ。",
+      "もうだいぶ遅いよ。」"
+    ],
+    "textEn": [
+      "\"Well, we really should go now.",
+      "It's getting pretty late.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「ありがとうね、気を利かせてくれて。",
+      "くすくす。」"
+    ],
+    "textEn": [
+      "\"Thank you for your concern.",
+      "Hee hee...\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「く、くれぐれも誤解しないでくれよ！",
+      "僕は診療所に忘れ物をしてるんだ。",
+      "それで診療所の鍵は鷹野さんが持ってるから鷹野さんと一緒に診療所に行くんだよ？！」"
+    ],
+    "textEn": [
+      "\"D-Don't make any assumptions!!",
+      "I'm heading to the clinic because I left something there.",
+      "Takano-san has the key, so we have to go together!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「へーー、富竹のおじさま、ナースプレイとは奥が深いです。」"
+    ],
+    "textEn": [
+      "\"Oh, I didn't know that you were into playing doctor.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「違うよ詩音〜、きっと分娩台を使ったお医者さんごっこなんだよ。",
+      "くっくっく！」"
+    ],
+    "textEn": [
+      "\"Nah, I think he's more into playing gynecologist.",
+      "Heh heh heh!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ドカ、バキ、グシャ！！"
+    ],
+    "textEn": [
+      "Crash, bang, wham!!"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ〜！！",
+      "ナ、ナースプレイって何だろ、何だろ！！」"
+    ],
+    "textEn": [
+      "\"Hauuu!!",
+      "I wonder how they play doctor, I wonder!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「がっちり理解できてるなら照れ隠しに殴るのはやめろ…。",
+      "それから魅音と詩音。",
+      "お前ら、下ネタだけ意気投合するな…。」"
+    ],
+    "textEn": [
+      "\"Don't hit them just because you feel embarrassed...",
+      "And as for you two,",
+      "stop only getting along when you're making dirty jokes...\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「……じゃ、じゃあねみんな…。",
+      "あははは…。",
+      "本当に忘れ物を取りに戻るだけだからね…。",
+      "ついてきちゃ駄目だよ…？",
+      "あはははは…。」"
+    ],
+    "textEn": [
+      "\"...G-Goodbye, everyone...",
+      "Ahahaha...",
+      "I really am just going back there to get what I forgot...",
+      "Don't follow us, okay...?",
+      "Ahahahaha...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははははははははははははは……はぅ〜！」"
+    ],
+    "textEn": [
+      "\"Ahahahahahahahahahahahahaha... Hauuu!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……富竹、…本当に用心するのですよ…。」"
+    ],
+    "textEn": [
+      "\"......Tomitake... please be careful...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「梨花の心配し過ぎではございませんの？",
+      "……ふわぁああぁぁぁ…。」"
+    ],
+    "textEn": [
+      "\"I do think you're overreacting, Rika.",
+      "...Hwaaaaah...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子が大あくびをするとみんな笑った。",
+      "それがちょうどいいお開きの合図になったようだった。",
+      "…一見すると、私は何も彼らの運命を変えられていないように思う。",
+      "でも、これだけ大騒ぎして伝えた死の運命に、彼らの心構えが普段と少しでも違ってくれたなら、",
+      "…それは小さなところで変化して、彼らの運命を変えることもあるかもしれない。",
+      "あとは、祈るだけだった。"
+    ],
+    "textEn": [
+      "Everyone laughed when Satoko yawned.",
+      "It seemed like a good time to call it a day.",
+      "...It doesn't feel like I was able to change their fate.",
+      "I just hope that they pay attention, and that they're prepared for whatever faces them.",
+      "...I still might have a chance.",
+      "All I can do now is pray."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「それじゃあ富竹さん！",
+      "また〜！　ぜひその時は写真を見せてくださいねー！！」"
+    ],
+    "textEn": [
+      "\"Good bye, Tomitake-san!",
+      "Please show us the pictures you took next time!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「その罰ゲームのシャツ、ぜひ着てきてくださいねー！！」"
+    ],
+    "textEn": [
+      "\"Make sure you wear your punishment shirt!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いよ、美女との一夜、羨ましいねぇ、ひゅーひゅー！」"
+    ],
+    "textEn": [
+      "\"Man, I'm so jealous you get to spend a night with a pretty lady! Whoo, whoo!\""
+    ]
+  },
+  {
+    "color": "#945c44",
+    "labelEn": "Tomitake",
+    "labelJp": "富竹",
+    "textJp": [
+      "「あ、あはははは。",
+      "またね、みんな。",
+      "次に会うのは秋頃かな。」"
+    ],
+    "textEn": [
+      "\"Ah, ahahahaha.",
+      "See you guys again.",
+      "I guess it'll be in fall.\""
+    ]
+  },
+  {
+    "color": "#f6d9a8",
+    "labelEn": "Takano",
+    "labelJp": "鷹野",
+    "textJp": [
+      "「私たちが今夜殺されなければね。",
+      "くすくす。",
+      "それじゃみんな、おやすみなさい。」"
+    ],
+    "textEn": [
+      "\"That's if we don't get killed tonight.",
+      "Hee hee.",
+      "Good night, everyone.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「「おやすみなさい〜！」」"
+    ],
+    "textEn": [
+      "\"Good night!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それが、綿流しの夜にできた私の努力だった。"
+    ],
+    "textEn": [
+      "That was the best I could do on the night of Watanagashi."
+    ]
+  }
+]

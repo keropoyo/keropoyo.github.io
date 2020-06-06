@@ -1,0 +1,731 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "初めは、演技だった。",
+      "警察の尋問を逃れて逃げ出すための、フリに過ぎなかった。",
+      "でも、狂気は演じていても、侵される。",
+      "もう私は、駄目だった。",
+      "かつて竜宮レナに警告された「あいつ」は、今や背中に張り付くくらいにぴったりと、私に取り憑いていた。",
+      "こいつは悟史くんでもなければ私の幻でもなく、",
+      "そう、こいつはいつの間にか、詩音の亡霊になっていたのだ。",
+      "詩音は天国になんか行かなかった。",
+      "いつも私と一緒にいた。",
+      "詩音だけを殺しておいて、私がのうのうと生き延びてしまうのが許せなくて、",
+      "私がちゃんと死んでみせるまで、そこにずっと取り憑いているつもりなのだ。",
+      "しかもご丁寧に、早く死ねと毎夜毎夜、私が忘れないように囁いてくれるのだ。",
+      "…わかってるって、",
+      "…大丈夫だって、",
+      "…はあぁあぁ…。",
+      "私は背中の詩音に向かって吠えたり、怒鳴ったりした。",
+      "詩音もまた、私の口を使って言い返したり、叫び返したりした。",
+      "それははたから見たら、とてつもなく奇妙で滑稽な、ひとり喧嘩に見えたに違いない。",
+      "お姉だけずるい、いつまで生きてるの。",
+      "死ね、死ね、早く死ね！",
+      "お姉はすぐに自分も死ぬって言ったよ。",
+      "待ってるんだから、私待ってるよ…。",
+      "井戸の底は暗くて、",
+      "寒くて、",
+      "…痛い、",
+      "…痛い、",
+      "…痛い…。",
+      "あぁわかってるよわかってる！！！",
+      "うるさいなうるさいなああぁ！！",
+      "何がわかってるのお姉、あんたに相応しい死なんか待ってたって訪れるものか。",
+      "お姉は死から逃げてる、あれだけのことをして生き延びるつもりだ。",
+      "罪なんか消えるものか、呪われてるんだよ。",
+      "お姉は呪われろ、祟り殺されてしまええぇええぇえ！！！"
+    ],
+    "textEn": [
+      "I was acting at first.",
+      "It was just an act to avoid being interrogated by the police.",
+      "As it turns out, though, fake insanity can become real.",
+      "You see, I couldn't bear it any longer.",
+      "I continued to be haunted by the presence Rena Ryuugu had talked about. It was so close that it could almost touch my back.",
+      "It wasn't Satoshi-kun, and it wasn't a hallucination.",
+      "It had become Shion's ghost.",
+      "Shion didn't go to Heaven after all.",
+      "She was always by my side instead.",
+      "Shion didn't like the fact that I was still alive when she wasn't.",
+      "So, she had decided to haunt me until she witnessed my death.",
+      "Every night, she whispered to me, telling me to die.",
+      "...I get it...",
+      "...I get it!",
+      "...Hah, hah, hah...",
+      "I shouted at the Shion in my back.",
+      "Through my mouth, she shouted back at me.",
+      "It must look odd to other people. They'd think I was arguing with myself.",
+      "It's not fair. Why are you still living, Sis?",
+      "Die, die, die already!",
+      "You said you'd die right after you killed me.",
+      "I'm waiting. I'm waiting...",
+      "It's so dark and cold in this well.",
+      "It's cold...",
+      "It hurts...",
+      "It hurts...",
+      "...It hurts...",
+      "Ah, I get it, I get it!!!",
+      "Shut up!!",
+      "What exactly do you think, Sis? You won't die in the way you want to.",
+      "You're just running away. You're trying to survive, even after you did all those horrible things.",
+      "You'll never be forgiven. You're cursed.",
+      "You're cursed! You're destined to die!!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「やかましいよ詩音！！",
+      "亡霊のくせに…やかましい、",
+      "やかましいぃい！！！」"
+    ],
+    "textEn": [
+      "\"Shut up, Shion!!",
+      "You're just a ghost... so shut up.",
+      "Shut uuuuuuuup!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「お姉ぇお姉えええぇえ！！」"
+    ],
+    "textEn": [
+      "\"Sis.... Siiissss!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「くそったれがぁあぁ！！"
+    ],
+    "textEn": [
+      "\"You lousy shit!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "消え失せやがれえぇ！！！」"
+    ],
+    "textEn": [
+      "Fuck off!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「魅音はずるい、魅音だけずるい、姉妹はいつも一緒、死んでも一緒…！！！",
+      "だから魅音ほら、迎えに来たんだよ…魅音んんんんん！！！！」"
+    ],
+    "textEn": [
+      "\"It's not fair, it's not fair! You and I should always be together, even after death...!!!",
+      "So, Mion, I've come to take you with me... Miooonn!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ドンダンガンダンガン！！！！",
+      "詩音がドアを乱暴に叩く。",
+      "ダンダンガンダンッ！！！",
+      "そのうるさいことと言ったら！！",
+      "頭が割れる、鼓膜が破れる！！",
+      "詩音め、この部屋の扉を破る気だ、ああぁあぁくそ、わかったよ詩音。",
+      "私の罪に似合う死に方ってのはつまり、お前に祟り殺されることだったわけだ。",
+      "…でもね、あんたの思い通りには簡単にはならないよ…。",
+      "はぁはあ！！",
+      "ただじゃ消えない、あんただけ恋した人が生き残ってるなんてフェアじゃない！！",
+      "あはははっはははあっひゃへへひゃきゃ！！！",
+      "私はドアの向こうにいる詩音を避けるため、ベランダへ出た。",
+      "柵ごしに、隣へ移れば、非常階段に降りられる。",
+      "ひゃひひゃあききゃきゃ！！",
+      "詩音めざまみろざまぁみろ！！！",
+      "私は柵から身を乗り出し、軽々と隣へ飛び移る。",
+      "それから、猫のように足音もなく素早く、地階へ駆け下りた。",
+      "詩音の馬鹿は裏をかかれたなんて思うまいなぁ思うまい、くけけきゃけげけけ！！",
+      "単車を使えば、圭一の家なんてすぐだ。",
+      "馬鹿な詩音は騙されてる、私がまだ部屋の中にいると信じているに違いない。",
+      "ぐげげげげげげげげげげ！！",
+      "ほぅら見えたぞ、あれが前原屋敷だ。",
+      "詩音に話を充分に聞いてあるから初めて見るけどよく知ってる、くっけっけっけ！！！",
+      "圭一の部屋は二階だと言ってた二階だ二階！！！",
+      "起こしてやれ、石をぶつけろぐぎゃぎゃぎゃぎゃ！！！",
+      "何度か石をぶつけたところで、部屋に灯りが灯り、窓が開いた。",
+      "圭一だった。",
+      "その姿を見た途端。",
+      "………私の中の狂気が一瞬だけ醒めた。",
+      "圭一がどたどたと階段を下りてくるのがここにいてもわかる。",
+      "そしてすぐに圭一は現われた。",
+      "手には、人形を持って。",
+      "…………その人形を見て、私は失望する。",
+      "その人形は確か、詩音に渡し損ねたとかいう人形だ。",
+      "……やはり、詩音ばっかりずるい。",
+      "いいな圭ちゃん、いいないいな…。",
+      "私だって悟史くんに人形がもらいたいよ…！！！"
+    ],
+    "textEn": [
+      "Bang, bang, bang, bang!!!!",
+      "Shion banged on the door.",
+      "Bam, bam, bam, bam!!!",
+      "That noise is too loud!!",
+      "It's cracking my ears and my head open!!",
+      "Shion's trying to break in! Ahh, shit! All right, Shion, I get it!",
+      "The perfect way for me to die is to be cursed to death by you, isn't it?!",
+      "But I won't be going so easily...",
+      "Hah, haaah...!!",
+      "I won't simply disappear. It wouldn't be fair if your beloved was left alive, after all!!",
+      "Ahahaha, hahahaa, heeheeheekyee!!!",
+      "I went out onto the balcony to avoid Shion, who was on the other side of the door.",
+      "If I jump over the railing to the neighboring apartment, I could reach the fire escape.",
+      "Heeheehyaakyakyaa!!",
+      "Eat shit, Shion!!!",
+      "I leaned over the railing and jumped to the balcony next door.",
+      "Then I rushed down the stairs, noiseless as a cat.",
+      "Shion was too stupid to realize that I escaped! Heekeekyaheeheegeehee!!",
+      "It wouldn't take too long to get to Keiichi's house on a motorcycle.",
+      "Shion must believe that I'm still in that room. She's so stupid!",
+      "Gheeheeheeheeheehee!!",
+      "Soon enough, I could see the Maebara mansion.",
+      "I'd never seen it before, but I'd heard a great deal about it from Shion. Kee hee hee hee!!!",
+      "She told me that Keiichi's room is on the second floor!!!",
+      "I should wake him up. Throw a stone! Gwa ha ha ha ha!!!",
+      "I threw a couple of stones at the window, and shortly thereafter the light turned on and the window opened.",
+      "I saw Keiichi there.",
+      "The moment I saw him...",
+      "my madness cooled off for a while.",
+      "Even from here, I could tell that Keiichi was running down the stairs.",
+      "He showed up quickly...",
+      "with a doll in his hand.",
+      "...I felt depressed to see it.",
+      "It was the doll he failed to give to Shion.",
+      "...It isn't fair after all, Shion.",
+      "I'm so jealous, Kei-chan...",
+      "I want to receive a doll from Satoshi-kun, too...!!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……はぁ、",
+      "……はぁ、",
+      "……魅音…！」"
+    ],
+    "textEn": [
+      "\"...Hah...",
+      "Hah...",
+      "...Mion!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あはははは、お久しぶり〜。",
+      "…どう？",
+      "元気にしてた？」"
+    ],
+    "textEn": [
+      "\"Ahahahaha, it's been a while~",
+      "...How are you?",
+      "Been doing all right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私の心の中でぐつぐつと煮えくり返る狂気とは裏腹に、私の口からはさも平然とした言葉が漏れる。",
+      "…………あぁそうだ。",
+      "私の体はもう鬼に支配されているのだ…。",
+      "でなきゃこんな深夜にげげげぐ、",
+      "きゃきけけ…！！"
+    ],
+    "textEn": [
+      "Despite the burning insanity within me, I spoke to him calmly.",
+      "...Ah, it's true.",
+      "My body is controlled by the demon now...",
+      "Otherwise, I wouldn't be here this late...",
+      "Kee heehee...!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……お前、",
+      "……こんなところをうろついてて……大丈夫なのか…？！」"
+    ],
+    "textEn": [
+      "\"...Are you...",
+      "all right... hanging around this place...?!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………本当はいけないよ。",
+      "…えへへへ。」"
+    ],
+    "textEn": [
+      "\"......I really shouldn't be.",
+      "...Ehehehe.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それより……どうしたんだよ。",
+      "こんな時間に。」"
+    ],
+    "textEn": [
+      "\"Anyway... what's wrong?",
+      "What do you need at this hour?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…最後にお話ししたかったから。」"
+    ],
+    "textEn": [
+      "\"...I wanted to talk to you one last time.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ものすごく、眠い。",
+      "それは睡眠の眠さというより、貧血などで意識が薄れるときのような感覚。",
+      "ぎゃげげ、私の心が狂気で塗り潰されてしまう、最期の感覚…。"
+    ],
+    "textEn": [
+      "I feel horribly sleepy.",
+      "Maybe it's more like fainting due to loss of blood.",
+      "Ghee heehee, that sensation is proof that the insanity is swallowing me..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………私ね、",
+      "……えへへへ、",
+      "……もう、",
+      "……ここにはいられない…。」"
+    ],
+    "textEn": [
+      "\"......Well, I...",
+      "ehehehe...",
+      "I can't...",
+      "stay for any longer...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「だ、大丈夫か…。",
+      "どこか具合でも…、」"
+    ],
+    "textEn": [
+      "\"A-Are you all right...?",
+      "Are you not feeling well...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…今日まで……がが、……がんばってきたけど…、",
+      "あははは、",
+      "…自分でわかるの。",
+      "……もうだめ…もう限界…。",
+      "私のお迎えは",
+      "……",
+      "もう、すぐ後ろまで来てる…。",
+      "あははは………。」"
+    ],
+    "textEn": [
+      "\"...I tried... s-s... so hard until now...",
+      "Ahahaha...",
+      "but I can tell.",
+      "...I'm done... This is my limit...",
+      "They're...",
+      "......",
+      "about to come up behind me to take me away...",
+      "Ahahaha......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "死に方を選ぶ余地もなかった。",
+      "詩音はそんな贅沢など許さなかったのだ。",
+      "そりゃそうだ、詩音自身、私に井戸に突き落とされて死んでいる。",
+      "詩音だけじゃない、私に殺されたみんながみんな、誰一人として死に方など選んでいない。",
+      "それを思えば…死に方を迷うなど亡者から見ればなんと贅沢な悩みなのか！"
+    ],
+    "textEn": [
+      "I won't get to decide how I die.",
+      "Shion won't allow me to.",
+      "No wonder. I dropped her down the well.",
+      "It wasn't only her. None of the people I killed chose to die how they did.",
+      "Considering that... debating how I'll die must seem a luxurious concern to the dead!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あ…はははは、",
+      "…はは……は、",
+      "……はぁ",
+      "………はぁ",
+      "………はぁ…！",
+      "ほぐげぎゃぎゃ…、",
+      "はぁ、",
+      "……がぎゃ…、」"
+    ],
+    "textEn": [
+      "\"Ah... hahaha...",
+      "haha... ha...",
+      "hah......",
+      "hah......",
+      "hah...!",
+      "Feegheeghagya...",
+      "hah...",
+      "ghaa...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「大丈夫かよ…！",
+      "もう無理するな…。"
+    ],
+    "textEn": [
+      "\"Are you okay...?!",
+      "Don't force yourself..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "あ、…そうだ。",
+      "…俺、魅音に、」"
+    ],
+    "textEn": [
+      "Oh... that's right.",
+      "...I had something—\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…殺してやる殺してやる、",
+      "悟史くんの仇悟史くんの仇、",
+      "…こいつは詩音の好きな人、詩音なんか大嫌い、こいつを殺して詩音に思い知らせてやるんだ、",
+      "ざまみろざまざざざざ、",
+      "……ぐ…ッ、",
+      "……………………！",
+      "重力がぐるぐる回る中。",
+      "私は圭一の腹部をナイフで思い切り突き刺していた。"
+    ],
+    "textEn": [
+      "...I'll kill him, kill him, kill him...",
+      "I'll avenge Satoshi-kun's death, I'll avenge his death!",
+      "...This guy is Shion's beloved. I hate her! I'll kill him and teach her a lesson!",
+      "Eat this, Shi......",
+      "............ghh!",
+      "............!!",
+      "While gravity's pull spun around me,",
+      "I realized that I had stabbed him with a knife."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「け、",
+      "……けけけ…",
+      "けけけけけけけけけけけけけけけけけ",
+      "…！",
+      "間に合った…。",
+      "…間に合った…！",
+      "…くけけけけけけけけけけけけけけけけけけ！！！」"
+    ],
+    "textEn": [
+      "\"Hee......",
+      "hee hee hee...",
+      "hee hee hee hee hee hee hee hee hee hee hee hee hee hee",
+      "...!",
+      "I made it...",
+      "I made it in time...!",
+      "...Hu hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "げげっげげげげ！！",
+      "間に合った間に合った、詩音に祟り殺される前に、私は詩音に一矢を報いたぞ、げげげげげげげ！！",
+      "思い知ったか詩音、げげげげげげげげげげ！！",
+      "圭一は腹部を押さえながら、ダンゴ虫のように縮こまり、地面の上で震えた。"
+    ],
+    "textEn": [
+      "Gheh gheh gheh gheh gheh!!",
+      "I made it, I made it, I made it before Shion killed me! I got back at her! Gheh gheh gheh gheh!!",
+      "Take that, Shion, gheh gheh gheh gheh gheh gheh!!",
+      "Keiichi rolled on the ground, clutching his stomach."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「げげげげげげげげげげげげげげげげげげ！！",
+      "出来た、全部出来た！",
+      "私が殺したいヤツは…これで全員…！！！",
+      "げげげげげげげげげげげげげげげげげげげげげげげげげげげげげげげげげげげ！！」"
+    ],
+    "textEn": [
+      "\"Hee hee hee hee hee hee hee hee hee hee hee!!",
+      "I've done it! I've done it all!",
+      "That's everyone... I wanted to kill...!!!",
+      "Hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "やった、やったよふげげぎゃぎゃ、私は成し遂げた！！！",
+      "ぎゃぎ悟史くんの仇を全て討ったよぉおおぎょごごがぎゃ！！！",
+      "褒めてよ悟史くん、私を撫でて？！",
+      "げぎゃぎゃぎゃ、ぎげぇえぇ！！！",
+      "そう。",
+      "これは全部悪い夢。",
+      "だって私は、いつものように自分の部屋で詩音の悪夢に苛まされてるだけだもの。",
+      "だったら、",
+      "………",
+      "ここはどこなの。",
+      "私は、マンションの非常階段にぽつんと、たたずんでいた。",
+      "……夢の記憶は残ってる。",
+      "そうだ、私はベランダから出たんだ。",
+      "…扉の鍵は閉まってるから、……またベランダから入らなきゃ。",
+      "はぁ、",
+      "…………ん、",
+      "…………。",
+      "…………わ、",
+      "足がずるっと滑って、浮遊感。",
+      "そして、頭部に言いようの知れない激痛が走った。",
+      "そのあまりの痛みに、私は悪夢の霧が晴れる………。",
+      "…私は非常階段から自分の部屋のベランダに戻ろうとして足を滑らせて、",
+      "…２〜３階下のエレベーターフロアの出っ張った屋根の上に落ちたのだ。",
+      "私のフロアは８階。",
+      "こんなところで受け止められるなんて、思わなかった。",
+      "落ちたとき、ちょうどコンクリートの角で頭を打ったらしく、ものすごい激痛と、熱い血が零れているのがわかった。",
+      "………………不思議な安堵感。",
+      "鬼も詩音の亡霊も、悟史くんの恨みも何もない。",
+      "…生まれたままの赤ん坊のような、",
+      "……何もないがゆえの、安堵感。",
+      "生まれてから、魅音の名を受け、…今日までの記憶が次々蘇る。",
+      "悟史くんとの出会いが蘇り、私は目から涙を零す。",
+      "どこで、間違っちゃったんだろう……？",
+      "私の人生は、どこで選択肢を間違えたんだろう？",
+      "そう、私はもう知ってるよ、悟史くんが思いださせてくれた………。",
+      "沙都子のこと、",
+      "…………",
+      "頼むからね。",
+      "うん。",
+      "私ね、悟史くんがきっと帰って来るって信じて、",
+      "……ずっと待ってるよ。",
+      "沙都子はちゃんと私が面倒を見て、待っててあげるから。",
+      "沙都子と二人でね、大人しく悟史くんが帰って来るのを、待っている。",
+      "悟史くんの大事な妹を、他の誰でもない、私に預けてくれた。",
+      "私、……そんな意味だって、わかってなかったんだね。",
+      "大丈夫、今度は大丈夫だよ…。",
+      "悟史くん、",
+      "…大好き。",
+      "沙都子、",
+      "………ごめん。",
+      "みんな…、ごめん。",
+      "詩音には、特にごめん。",
+      "…………こんな死に方で責任、取れるかな。",
+      "全然だめだよね、なっちゃいない。",
+      "悟史くんにもう一度頭を撫でて欲しい。",
+      "悟史くんの、むぅ、がもう一度、聞きたい。",
+      "ごめん、贅沢だよね。",
+      "…もう未練ないよ。",
+      "あとは口で謝ってもしょうがない。",
+      "私は横に転がり、さらに地上を目指す。",
+      "頭から。",
+      "さあ思い切り私の頭を砕いて。",
+      "そして私を見合う地獄に連れて行って。",
+      "私はただの鬼だった。",
+      "地の底の地獄がお似合いなんだ。",
+      "どうして生まれてきたんだろう、",
+      "どうして生を受けたんだろう。",
+      "生まれなければ良かった。",
+      "生まれなかったらこんな思いをしなかった。",
+      "こんな意味のない生に、誰がどんな意味を求めたんだろう。",
+      "私が生まれなければ、誰も不幸にならなかった。",
+      "こんな私にやさしくしてくれて、",
+      "ありがとう。",
+      "こんな私に恋を教えてくれて、",
+      "ありがとう。",
+      "こんな私に、",
+      "こんな私に、",
+      "……。",
+      "みんなにごめん。",
+      "本当にごめん。",
+      "ごめんね。",
+      "もしもね、私、悟史くんにもう一度同じチャンスがもらえるなら。",
+      "もう絶対に選択を、間違えないから。",
+      "…本当だよ。",
+      "あ、",
+      "…地面だ。",
+      "じゃあね。",
+      "大好き。",
+      "…むぅ。",
+      "え？"
+    ],
+    "textEn": [
+      "Yeah! I did it!! Hyahyagyagya, I did it!!!",
+      "Gheh gheh, I avenged your death, Satoshi-kun, gheh gheh!!!",
+      "Don't you love me for it?! Will you stroke my head?!",
+      "Gheh gheh gheh gyeeehhh!!!",
+      "Yes.",
+      "This was all a bad dream.",
+      "After all, I was just in my room like always, suffering from nightmares of Shion.",
+      "But...",
+      "......",
+      "where was I now?",
+      "I had been standing on my apartment's fire escape, alone.",
+      "...I could still recall that dream.",
+      "Yes, I had stepped out onto the veranda.",
+      "...My front door was still locked, so... I had to climb through the veranda again.",
+      "Hah...",
+      "...hmm...",
+      "...",
+      "...Whoa!",
+      "My foot had slipped, and then I felt a floating sensation.",
+      "After that, a sharp, indescribable pain ran through my head.",
+      "That incredible pain finally cleared the fog away from my nightmare...",
+      "I just slipped from the fire escape as I tried to return to my balcony...",
+      "...and fell onto the roof jutting out from the elevator hall two or three floors down.",
+      "My room is on the eighth floor.",
+      "I wasn't expecting to be caught up here.",
+      "When I fell, my head landed right on the concrete corner, and I could feel both enormous pain and the warm blood dripping out.",
+      "...............I felt strangely calm.",
+      "I couldn't sense the demon. Shion's ghost, or my grudge.",
+      "...I felt just like a baby...",
+      "The nothingness brought me peace.",
+      "All my memories from when I was born and named Mion, up until today, came to my mind.",
+      "I recalled memories of the time I'd spent with Satoshi-kun. Tears rolled down my cheeks.",
+      "Where did I go wrong...?",
+      "When in my life did I make the wrong choice?",
+      "Ah, I do know just where and when that was... because Satoshi-kun reminded me...",
+      "\"I'll leave",
+      "......",
+      "Satoko to you.\"",
+      "Sure.",
+      "I believe you'll return.",
+      "......I'll be waiting for you.",
+      "I'll take care of Satoko.",
+      "I'll wait for you with her. We'll be good girls.",
+      "You left your precious sister to me, and nobody else.",
+      "I guess... I didn't get the significance of what you said...",
+      "But I'll be fine this time.",
+      "I love you...",
+      "Satoshi-kun.",
+      "Satoko.........",
+      "I'm sorry.",
+      "I'm sorry... everybody.",
+      "Shion... I'm really sorry.",
+      "......Could I repay everything with my death?",
+      "No way, right? That's not how it should be done.",
+      "I wanted Satoshi-kun to stroke my head one more time.",
+      "I wanted to hear him mumble one more time.",
+      "I knew it was too much to ask.",
+      "...And so, I had no other regrets.",
+      "That brought an end to my apologies.",
+      "I rolled over, sending myself falling to the ground...",
+      "...Head first.",
+      "I hoped my head would crack open.",
+      "To take me to the Hell I deserved.",
+      "I was just a demon.",
+      "I belonged in Hell.",
+      "Why was I born?",
+      "Why did this world give birth to me?",
+      "I shouldn't have been born.",
+      "I wouldn't have had to suffer if I hadn't been.",
+      "What was the meaning of my meaningless life?",
+      "If I wasn't born, nobody would have had to suffer.",
+      "Thank you for treating me kindly",
+      "even though I was like this.",
+      "Thank you for teaching me love",
+      "even though I was like this.",
+      "Even though I was like this......",
+      "even though",
+      "...",
+      "I'm really sorry, everybody.",
+      "I really am.",
+      "I'm sorry.",
+      "If Satoshi-kun could give me another chance...",
+      "...I wouldn't make the same mistake again.",
+      "...Never again.",
+      "Ah...",
+      "here comes the ground.",
+      "Bye.",
+      "I love you.",
+      "...Mmph.",
+      "Eh?"
+    ]
+  }
+]

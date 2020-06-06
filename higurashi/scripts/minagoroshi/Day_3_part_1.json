@@ -1,0 +1,2223 @@
+[
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「えぇ？！",
+      "た、確かにそんなことをどこかで聞いたような気もしたが……、それってマジだったのかぁ？！」"
+    ],
+    "textEn": [
+      "\"What?",
+      "I-I know I've heard some people mention it before, but... they were serious about that?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…世の中には社交儀礼的な景気のいい話ってあるじゃないか。",
+      "あはは、そうなったらいいよなーなんて適当な相槌を打つ程度の。",
+      "でもそういう話ってのは、笑い話だから済むのであって、本当の話なんかになった日にゃ！！"
+    ],
+    "textEn": [
+      "...This world always has a lot of nice suggestions, but they're mostly out of politeness, right?",
+      "They're just something you laugh off and reply with, \"That would be nice.\"",
+      "But those ideas generally end as jokes, so it's crazy when they turn real!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うんうん、マジも大マジ！",
+      "善郎叔父さんも大絶賛！",
+      "昨日の玩具屋での部活、白ヒゲ危機一髪での暴れっぷりは実に見事だったからねぇ！！」"
+    ],
+    "textEn": [
+      "\"Yeah, I'm serious!",
+      "Uncle Yoshirou was giving you a ton of praise too!",
+      "He said it was amazing how well that Pop-up Pirate game went in the toy store yesterday!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「レナも、あんな遊び方や盛り上がり方があるなんて知らなかったかな、かな！」"
+    ],
+    "textEn": [
+      "\"I had no idea, no idea you could play that game like that!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ここだけの話ですけど、私の近くにいた子たち、圭一さんと同じ卓で盛り上がりたかったーって悔しがってましたのよ。」"
+    ],
+    "textEn": [
+      "\"I should mention that some of the kids around my table wanted to play with you too!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一は何でも楽しそうに遊ぶことに関しては天才的なのです。」"
+    ],
+    "textEn": [
+      "\"......Keiichi is a genius when it comes to playing games.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あのなぁ、俺は楽しく遊んだんじゃなくて、負けるわけにはいかなかったから勝つために死力を尽くしてただけなんだぞ…。",
+      "だが、俺のそんなザマは、見ているギャラリーにとっては最高に楽しそうに見えるらしいな。"
+    ],
+    "textEn": [
+      "You know, I wasn't just playing around... I was giving it my all, because I had no choice but to win...",
+      "I guess we made it look like a lot of fun for the audience, though..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「確かに、圭ちゃんは普段の部活においても、とにかくよく盛り上がってくれますからね。",
+      "監督も、圭ちゃんが雛見沢ファイターズに入ってくれたらさぞや盛り上がるだろうって言ってましたし。」"
+    ],
+    "textEn": [
+      "\"You definitely have a blast no matter what club activity you're doing, Kei-chan.",
+      "The Coach was saying that the Hinamizawa Fighters would be so happy if you joined the team.\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「言ってましたね。",
+      "昨夜、会合の席でも入江先生、前原くんのことをべた褒めでしたよ。」"
+    ],
+    "textEn": [
+      "\"That's very true.",
+      "Dr. Irie had nothing but great things to say about you at the meeting last night, Maebara-kun.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんは、自分で思ってるより、ずっと人を楽しくさせる力があるんだよ。」"
+    ],
+    "textEn": [
+      "\"You have the ability to bring people joy, and far more than you think you do.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……そ、…そうかなぁ……。」"
+    ],
+    "textEn": [
+      "\"...You, you think so...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「おじさんだって、自分の仲間が可愛いからって推薦したわけじゃないよ。",
+      "圭ちゃんならこの大任にきっと応えられるって思ったから推薦したわけさ！」"
+    ],
+    "textEn": [
+      "\"This ol' man didn't mention your name just 'cause you're his friend.",
+      "He did it because he's confident you can do the job!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「ボクも同じ席にいましたですが、全然反対意見が出なかったのは驚きだったのです。」"
+    ],
+    "textEn": [
+      "\"I was there at the meeting too, and no one was against the idea.\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「前原くんは、先生が思っているよりもずっと村中で評判なんですね。」"
+    ],
+    "textEn": [
+      "\"Maebara-kun, you honestly do have a good reputation around the village.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「興宮界隈でも有名です。",
+      "先日の雛見沢ファイターズと興宮タイタンズでの試合の、アノ助っ人ぶりはもはや現地では伝説的ですからね。」"
+    ],
+    "textEn": [
+      "\"I've heard good things about you in Okinomiya too.",
+      "What you did in the match between the Hinamizawa Fighters and the Okinomiya Titans was legendary.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あれは凄かったですものねぇ…。",
+      "亀田さん目当ての記者の方々も度肝を抜かれてましてよ！」"
+    ],
+    "textEn": [
+      "\"It really was incredible...",
+      "The reporters were there to see Kameda-san, but they were more impressed by you!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……あの亀田くんとの八百長野球か…。",
+      "世間的には、甲子園ピッチャーが俺の眼力に負けて敬遠したってことになってるんだよな……。",
+      "以来、興宮の亀田くんとは不思議な舎弟関係にあるのだが、それはここでは割愛する…。"
+    ],
+    "textEn": [
+      "They're talking about that rigged baseball match I set up with Kameda-kun...",
+      "The public did end up believing that talented pitcher walked me out of fear for my insight...",
+      "Kameda-kun and I have entered a strange relationship since then, but I'd really rather not talk about it right now..."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「どうかな圭一くん。",
+      "レナは圭一くんにはその力があると思うな。",
+      "魅ぃちゃんだけの推薦で足りないなら、レナも推薦するよ。",
+      "圭一くんならきっと、綿流し実行委員の大任を全うできる！」"
+    ],
+    "textEn": [
+      "\"What do you think, Keiichi-kun?",
+      "I think you can do it.",
+      "I'm backing you up, too!",
+      "I definitely think you should be in charge of the Watanagashi planning committee!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "綿流しってのは、この村で毎年６月に行なわれる村祭りだ。",
+      "この村の年間行事の中で一番規模の大きいもので、村人のほとんどが集まるとても賑やかな祭りになるらしいのだ。",
+      "もちろん、それだけの大きな祭りなのだから、町会を軸にした実行委員会が結成されていて、数ヶ月前から会合や調整を繰り返して入念な準備を行なっている。",
+      "その綿流しがあと２週間で行なわれるってところで、",
+      "しかも引っ越して来てまだ日が浅い俺にいきなり実行委員会入りを打診するってのはどうなんだろう？！"
+    ],
+    "textEn": [
+      "Watanagashi is an annual village festival held in June.",
+      "It's supposed to be the biggest event in the village, and most of the people living here gather together for it.",
+      "Since this is a major event, they always organize a committee to plan out the festival a few months in advance.",
+      "The festival is only two weeks away and I just moved to this village,",
+      "but now they want me to join that committee?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「だだ、大体よ、",
+      "俺、実行委員の仕事なんて知らないから何の役にも立てないぜ？！」"
+    ],
+    "textEn": [
+      "\"Look, first of all,",
+      "I don't even know what you do in a committee!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「実行委員なんて堅苦しいのは肩書きだけだよ！"
+    ],
+    "textEn": [
+      "\"You don't need to be too concerned about it!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "圭ちゃんに満場一致でお願いしたい役はね、ズバリ、叩き売りオークションの司会なんだよー！」"
+    ],
+    "textEn": [
+      "The job we unanimously want you to fill is... hosting the auction!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「な、何だよそれ？！",
+      "バナナでも売らされるのか？！」"
+    ],
+    "textEn": [
+      "\"Wha... what the hell is that?",
+      "Do you want me to sell bananas or something?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「そこは先生から説明します。",
+      "今年のお祭りでは新しい試みとして、オークション風に寄付品の叩き売りをやろうということになったのです。」"
+    ],
+    "textEn": [
+      "\"Well, let me explain.",
+      "We're holding an auction event for the first time this year. We're going to auction off donated items, just to see how it turns out.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あはは、そこは複雑な事情があってねぇ。",
+      "町会で寄付品を集めて、それを賞品にしてのみんなで参加できる何かをやりたいんだけど、"
+    ],
+    "textEn": [
+      "\"Ahaha, there's kind of a long story behind it...",
+      "We wanted to do something in which everyone can participate, using donated items as prizes."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "過去の役員会で色々大人の事情があって、福引抽選以外の方法で賞品を分配したいってことになったんだよ。」"
+    ],
+    "textEn": [
+      "But the elder members decided to distribute the prizes using something other than a lottery, for their own reasons.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「早い話が昔、鬼婆が癇癪を起こしときながら引っ込みが付かなくなったことがあるわけなんです。",
+      "鬼婆って、自分でトラブっときながら、よく後悔してますよね。」"
+    ],
+    "textEn": [
+      "\"To put it simply, our hag of a grandmother let her temper get to her and wouldn't back down after that.",
+      "But she didn't really consider any specifics...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「まぁねぇ…あははは。",
+      "まぁ、そんなわけで、福引以外のイベントで、何か楽しく賞品を山分けできないかって話になったわけよ。",
+      "それで出た案が寄付品の叩き売りオークションってわけ！」"
+    ],
+    "textEn": [
+      "\"Yup... ahahaha...",
+      "Anyway, we had to come up with how to utilize those donated items.",
+      "At that point, we thought of doing an auction!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「オークションって何だか面白そうだね！",
+      "ひょっとするとものすごく安くいいものが買えるかもしれないし。",
+      "他の人が高値を付け合うのを見てるのも楽しいしね！」"
+    ],
+    "textEn": [
+      "\"That sounds like fun!",
+      "You might be able to get something good for a really cheap price.",
+      "It's fun just to watch the show, too!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「しかも、寄付品だから元手はタダ。",
+      "実行委員会もなかなかお金儲けがお上手ですわね。」"
+    ],
+    "textEn": [
+      "\"The items were all donated, so they were free, huh.",
+      "That committee sure is good at making money.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……売り上げは全部、冬の町会温泉旅行の泡麦茶代になるのです。",
+      "ずるいのです。」"
+    ],
+    "textEn": [
+      "\"......The profit will be going into the beer fund for the village committee's winter getaway trip.",
+      "It's not fair.\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「古手さんは泡の出る麦茶はまだまだいけません！」"
+    ],
+    "textEn": [
+      "\"You're not ready for beer yet, Furude-san!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「だ、…大体話は見えてきたが。",
+      "……でもよ、俺はオークションの司会なんかやったことないぜ？！」"
+    ],
+    "textEn": [
+      "\"I think I understand what's going on now...",
+      "But still, I've never done anything like it before!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「でも圭一くんなら、きっとやり遂げられると思うな。",
+      "売り上げの１割はお小遣いになるとか言われたら、ものすごい頑張りそう。」"
+    ],
+    "textEn": [
+      "\"I'm sure you can do it, Keiichi-kun.",
+      "I bet you'd do really well if they told you that you'd get to keep ten percent of the profits.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ま、まぁなあ。",
+      "実績に応じて何か得られるってんなら、そりゃあ頑張るだろうなぁ！」"
+    ],
+    "textEn": [
+      "\"Well, yeah...",
+      "If I can gain something for producing results, then I'll do my best at it!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「逆に、実績が出なかったらとんでもない罰ゲームが待っているかもしれませんでしてよ？」"
+    ],
+    "textEn": [
+      "\"On the other hand, you might be facing a dreadful penalty game if you don't produce anything.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ちょ、ちょっと待て沙都子！",
+      "何で俺がそんなリスキーな条件を引き受けなければならないんだ！",
+      "そもそも俺は依頼されてる立場だってことを忘れるなよ〜？",
+      "俺はこう見えてもスケジュール多忙で忙しいんだぜぇ？",
+      "そういうのはマネージャーを通してくれたまえ。」"
+    ],
+    "textEn": [
+      "\"Wait a minute, Satoko!",
+      "Why would I agree to a risky deal like that?",
+      "Don't forget, they're the ones asking for my help!",
+      "I'm a very busy guy, you know!",
+      "Try asking my agent first.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あっはっはっは！"
+    ],
+    "textEn": [
+      "\"Aha ha ha ha!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "どうよ圭ちゃん。",
+      "もし何かご褒美がないといけないってんなら、内容と条件次第では考えてもいいよ？",
+      "私も圭ちゃんを推薦した以上、何としても引き受けてもらいたいと思ってるからね。",
+      "最大限配慮するよ！」"
+    ],
+    "textEn": [
+      "All right, Kei-chan.",
+      "If you want some kind of compensation, we can talk about it.",
+      "I really want you to be a part of this.",
+      "We can make a deal!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ほー！",
+      "太っ腹じゃねぇか！",
+      "さぁて何がいいかねぇ？",
+      "………むむむむむむ。」"
+    ],
+    "textEn": [
+      "\"Hmmm!",
+      "That sounds interesting...",
+      "I wonder what I should ask for...",
+      "Hmm........\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「罰ゲームを何にするかというのは、よくあるけど、ご褒美は何がいいってのは初めてかもしれないね。」"
+    ],
+    "textEn": [
+      "\"We're always talking about punishments, but it's our first time talking about a reward.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「言われて見ればそうですわね。",
+      "私たちって、つくづく過酷な状況で戦ってますのね。」"
+    ],
+    "textEn": [
+      "\"That's true.",
+      "We're always fighting for something, huh?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "確かにレナの言うとおりだよな。",
+      "…基本的に部活って、罰ゲームから逃れるのが最大の目的なんだよな。",
+      "目指すのは優勝のみってのはポリシーであって、別に賞品やご褒美が目当てだったわけじゃない。"
+    ],
+    "textEn": [
+      "Rena is right.",
+      "The whole purpose of our club activities is to escape the punishments we come up with.",
+      "Even if we win, we never get a prize or reward for it."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……滅多にないおいしい話に、圭一が困っていますのです。」"
+    ],
+    "textEn": [
+      "\"......Keiichi has no idea how to respond to something that sounds too good to be true.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃんの方で何か提案できないの？",
+      "何でもいいよって言われたら、かえって思いつかないよね！」"
+    ],
+    "textEn": [
+      "\"Maybe Mii-chan can come up with a good idea.",
+      "It's hard to decide on what you want, isn't it?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そうだねぇ。",
+      "あー、じゃあこんなとこでどう？"
+    ],
+    "textEn": [
+      "\"Let me see...",
+      "Ah, how about this?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "エンジェルモートのデザートフェスタの入場券とか！」"
+    ],
+    "textEn": [
+      "An admission ticket to Angel Mort's Dessert Fiesta!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「お姉、ケチくさいこと言わないで、ドーンと３年分くらいプレゼントしちゃえばいいじゃないですか。」"
+    ],
+    "textEn": [
+      "\"Don't be too cheap, Sis. Why don't you give him three years' worth of admission?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あらぁ！！",
+      "それは豪華ではございませんの！！」"
+    ],
+    "textEn": [
+      "\"Hey!",
+      "That sounds more like a deluxe reward to me!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「確か、デザートフェスタのチケットって、ものすごい高倍率で闇取引もされてるんだろ？",
+      "そんなのを３年分なんて……本当にいいのかよ？！」"
+    ],
+    "textEn": [
+      "\"I heard that some people pay lots of money for that ticket.",
+      "Are you sure you can hook me up with three years' worth of admission?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「もちろん、成功報酬だよー？！",
+      "盛り上げてくれないと駄目だからねー？！」"
+    ],
+    "textEn": [
+      "\"Of course I can!",
+      "But you have to do a good job!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「大丈夫だよ。",
+      "圭一くんならきっと大盛り上がりになる！」"
+    ],
+    "textEn": [
+      "\"I'm sure he will.",
+      "With Keiichi-kun there, it's going to be heaps of fun!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「それについては私も同感です。",
+      "というか、どんな滅茶苦茶な売り口上が飛び出すか、かなり楽しみです。」"
+    ],
+    "textEn": [
+      "\"I feel the same way.",
+      "I'm really looking forward to the auction now.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「例え、タコの入ってないたこ焼きであっても行列させてしまいそうですものねぇ。」"
+    ],
+    "textEn": [
+      "\"Yeah, you could probably get people to line up for takoyaki that doesn't even contain octopus!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おいおい、さすがにタコなしたこ焼きは無理だろ…。」"
+    ],
+    "textEn": [
+      "\"Hey... Takoyaki without octopus? That's impossible...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「いやいや…、圭ちゃんなら見事売りかねないね！」"
+    ],
+    "textEn": [
+      "\"No, no... I'm pretty sure you could do it!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うんうん。",
+      "小麦粉の味が素朴でヘルシーとか言いそう。」"
+    ],
+    "textEn": [
+      "\"Yeah!",
+      "He'd probably say it was a healthier kind of takoyaki!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お前ら、俺をおだててるのか馬鹿にしてるのか微妙だぞ…。」"
+    ],
+    "textEn": [
+      "\"Are you making fun of me, or what...?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「どうですか、前原くん。",
+      "先生もあなたならきっとうまく盛り上げてくれると思います。」"
+    ],
+    "textEn": [
+      "\"So what do you think, Maebara-kun?",
+      "I think you'll do a wonderful job.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ちなみに、知恵先生も実行委員らしい。",
+      "魅音の推薦に対し、強力にプッシュしてくれたに違いない。"
+    ],
+    "textEn": [
+      "Chie-sensei was also on the committee.",
+      "She must have backed up Mion's suggestion when she brought my name up at their last meeting."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクも圭一の口先マジックが見たいのですよ。",
+      "にぱ〜☆」"
+    ],
+    "textEn": [
+      "\"......I'd also love to see what kind of magic you can do.",
+      "Nipah~☆\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「バナナの叩き売りだってさ、その売り口上のキップのよさに感服して買わせるわけだしね。」"
+    ],
+    "textEn": [
+      "\"A good auction always depends on how good a speaker the host is.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「前原圭一ワンマンショーでございましてよ！！",
+      "楽しそうですわね！！」"
+    ],
+    "textEn": [
+      "\"Sounds like it's going to be Keiichi Maebara's big show!",
+      "It'll be so much fun just to watch!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おいおい、俺はまだ引き受けると言った覚えはないぞー？！」"
+    ],
+    "textEn": [
+      "\"Hey, I haven't accepted the offer yet!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「大丈夫だよ、圭一くんならできるよ。」"
+    ],
+    "textEn": [
+      "\"Don't worry, Keiichi-kun. You can do it!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ちぇー、レナめ、他人事だと思って気楽に言いやがって〜！」"
+    ],
+    "textEn": [
+      "\"You're saying that because you don't have to!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ、そんなつもりじゃないのにー！」"
+    ],
+    "textEn": [
+      "\"Hau, that's not true!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "さっきから黙ってやり取りを見守っていた校長が口を開いた。"
+    ],
+    "textEn": [
+      "The principal suddenly opened his mouth."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Principal",
+    "labelJp": "校長",
+    "textJp": [
+      "「どうかね前原くん。",
+      "わしも君ならやれると思うぞ。」"
+    ],
+    "textEn": [
+      "\"Maebara-kun...",
+      "In my opinion, you will do a fine job.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………う〜〜〜〜〜〜ん。」"
+    ],
+    "textEn": [
+      "\"Hmmm.........\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Principal",
+    "labelJp": "校長",
+    "textJp": [
+      "「男ならひとつ、みんなの期待に応えてみんかね…？」"
+    ],
+    "textEn": [
+      "\"As a man, isn't it your responsibility to meet people's expectations...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "やれと言われれば多分やれる。",
+      "今まで魅音の部活でヤバイ橋なんかいくらでも渡って来たからな。",
+      "あるのはご褒美だけで罰ゲームなしなんて楽な条件は聞いたことがない。",
+      "やればきっと楽しいだろうし…。",
+      "何より、これだけの大勢に何かの役を期待されたことなんて生まれて初めての経験だった。",
+      "本音を言うと、ちょっと嬉しい。",
+      "……でも、うまく乗せられて、面倒な役を押し付けられてるんじゃないかなぁ。",
+      "そんな風にもちょっぴりは考えた。",
+      "だが、それは雛見沢じゃない土地での考え方だ。",
+      "この雛見沢で、こいつらがこんな風に笑いながら話す時には何の邪念もない。",
+      "だからこいつらは本気で、俺が司会になればお祭りが盛り上がって最高の思い出になると信じて推薦してくれているのだ。",
+      "それを、俺は転校してきてからの、短くも濃密な時間の中ですでに知っていた。"
+    ],
+    "textEn": [
+      "If I had to, I'm sure I could do it.",
+      "Mion has made me do so many different things for the club, and I've learned a lot from that.",
+      "Besides, this would be the first time I could get a reward without having to worry about punishment.",
+      "It should be fun too...",
+      "This was the first time so many people were counting on me like this.",
+      "To be honest, it made me pretty happy.",
+      "Still, I was worried about getting dragged into something that required a lot of work...",
+      "I couldn't erase that thought from my mind.",
+      "But I was in Hinamizawa.",
+      "The people in this village would never do anything to betray me.",
+      "They genuinely believed that it would do a lot to liven up the festival if I became the host of their auction.",
+      "I've only been here for a short period of time, but I know that the people here are honest and kind."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よっしゃ……。",
+      "俺も男だぜ。",
+      "そこまで言われちゃ引き受けないわけにはいかないな！"
+    ],
+    "textEn": [
+      "\"Fine...",
+      "As a man, I'm going to do it.",
+      "I'll take care of it!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "見てろよ、俺がやるからにはドカンと盛り上げてやるぜ！！"
+    ],
+    "textEn": [
+      "Wait and see... I'll make it the greatest auction in the world!!"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "エンジェルモートのチケットを忘れるなよ、３年どころか、１０年分くらい進呈したくなるくらいに盛り上げてやるぜ！！」"
+    ],
+    "textEn": [
+      "Don't forget to get me that Angel Mort pass. I'll make sure to do a good enough job that I'll deserve ten years' worth of tickets!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「よく言ってくれた圭ちゃん！！！」"
+    ],
+    "textEn": [
+      "\"Good for you, Kei-chan!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "みんなが拍手で俺を讃えてくれた。",
+      "……本当の意味で祝福する拍手を、俺は人生で何回受けてきただろう？",
+      "ない。",
+      "これが本当に初めての経験だった。"
+    ],
+    "textEn": [
+      "Everyone gave me a round of applause.",
+      "...How many times had this happened in my life?",
+      "Not once.",
+      "This was the first time I'd ever been applauded."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「しかしよ、よく俺みたいな若造を推薦して町会の人が納得してくれたよな。」"
+    ],
+    "textEn": [
+      "\"By the way, I'm surprised that no one disagreed with this suggestion at the meeting.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "町会なんて、頭が固くて若者嫌いの年寄りがいっぱいいそうなムードだ。",
+      "しかも、俺は引っ越してきたばかりの余所者の都会者だ。",
+      "……いくら魅音が町会に大きな発言力を持っていたとしても、よく俺なんかを推薦して受け容れてくれたものだよな。"
+    ],
+    "textEn": [
+      "There are lots of old people in the village committee.",
+      "I'm a young guy who only just moved here...",
+      "...I've known for a while that Mion has a lot of influence locally, but I couldn't believe that everyone in the committee would accept it just like that..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「まー、基本的には頭の固い年寄り連中ばっかりですけどね。",
+      "時代も徐々に変り始めてるってことです。」"
+    ],
+    "textEn": [
+      "\"Most of them are that kind of hard-headed old people...",
+      "But the new generation is gradually taking over, you know!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「雛見沢もダム戦争に打ち勝って、これからは新しい時代を築き、どんどん栄えさせていかなくちゃならない。",
+      "だから若者歓迎、余所者飛び入り大歓迎って風にどんどん意識改革をしてかなくちゃならないんだよ。」"
+    ],
+    "textEn": [
+      "\"We won the dam conflict, and now we're aiming to build a new era and grow more and more prosperous.",
+      "That's why we value the involvement of young people, and people from outside the village too!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一は若くて余所者で、しかもウケがいいのでまさにピッタリなのですよ。」"
+    ],
+    "textEn": [
+      "\"You're young, and you're from the city. You also have a good reputation, so you're the perfect guy for this.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ウケがいいねぇ？",
+      "どうして俺の知名度がそんなに高いのか不思議でならねぇぜ。」"
+    ],
+    "textEn": [
+      "\"I have a good reputation, huh?",
+      "I have no idea why so many people have heard of me.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「多分、魅ぃちゃんの罰ゲームと密接な関係があると思うかな…。かな…。」"
+    ],
+    "textEn": [
+      "\"It's something to do with Mii-chan's punishments, I think... I think.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「やっぱりそれかああぁあぁ…！！！」"
+    ],
+    "textEn": [
+      "\"I knew it!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Club Members",
+    "labelJp": "部活メンバー",
+    "textJp": [
+      "「「「あっはははははははは！」」」"
+    ],
+    "textEn": [
+      "\"Ahhhahahahahahahaha!\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「じゃあ、これで決まりですね。",
+      "先生の方から今夜、前原くんのご両親に電話でお話しますので、一応、前原くんの方からもご両親にこの度の件を話しておいてください。」"
+    ],
+    "textEn": [
+      "\"Alright, then.",
+      "I'll call your parents about it tonight, so please let them know when you get back home today, okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "まぁ、親の承諾も必要だろうからな。",
+      "……うちの親も反対はするまい。",
+      "むしろ、どうして俺が推薦を受けたのか質問責めに遭いそうだな…。",
+      "知恵先生と校長先生は、快諾の潔さを褒めると職員室に戻っていった。",
+      "ちなみに今は昼休みだったわけだ。",
+      "知恵先生と校長先生が二人掛りでやってくるし、",
+      "魅音まで大切な話があるなんて言い出すもんだから、すっかり怯えていたのだが。",
+      "お陰で胃袋の中の消化がちょいと悪いぜ。"
+    ],
+    "textEn": [
+      "I'm sure my parents will have no problem with it.",
+      "...They won't have any objections to raise, at least.",
+      "They might ask me why my name was brought up, though...",
+      "Chie-sensei and the principal went back to the teachers' office after the discussion ended.",
+      "We were in the middle of lunch break at the moment.",
+      "Chie-sensei and the principal had come along together...",
+      "and Mion scared me by saying that they all had something to talk to me about.",
+      "My stomach wasn't digesting my lunch particularly well..."
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「前原さん〜、聞いてましたよ、すごいじゃないっすか！」"
+    ],
+    "textEn": [
+      "\"Maebara-san! I heard everything! Good for you!\""
+    ]
+  },
+  {
+    "color": "#7a7e7d",
+    "labelEn": "Okamura",
+    "labelJp": "岡村",
+    "textJp": [
+      "「町会から推薦を受けるなんて、すごい名誉ですよ…。」"
+    ],
+    "textEn": [
+      "\"It's a big honor, being chosen by the village committee...\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おー、富田くんに岡村くんか。",
+      "そんな名誉なら君らに譲ってもいいぞ。」"
+    ],
+    "textEn": [
+      "\"Hey there, Tomita-kun and Okamura-kun.",
+      "I'd love to give that honor to you.\""
+    ]
+  },
+  {
+    "color": "#a17d6b",
+    "labelEn": "Tomita",
+    "labelJp": "富田",
+    "textJp": [
+      "「むむ、無理ですよ…、前原さんじゃなくちゃ務まらないです！」"
+    ],
+    "textEn": [
+      "\"N-No thank you... I wouldn't be able to handle it!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "見ればクラス中が、俺が司会を引き受けた話題で持ちきりになっていた。",
+      "今年の綿流しは楽しそうだ、",
+      "とか、期待できそうだ、とか。",
+      "……ますますに責任重大なようだった。",
+      "こいつぁ、引き受けた以上、思いっきりやらねぇとな！"
+    ],
+    "textEn": [
+      "I realized the whole class was talking about me.",
+      "They were saying how fun Watanagashi was going to be",
+      "and how high their expectations were for it.",
+      "...I might've taken on a huge responsibility.",
+      "I needed to do my best to succeed at it."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「そうだそうだ忘れてた。"
+    ],
+    "textEn": [
+      "\"By the way, I forgot something."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "うちの婆っちゃがね、いっぱいおはぎを作ったんだよ。",
+      "学校のみんなにも食べてもらえって持ってこさせられたんだっけ。」"
+    ],
+    "textEn": [
+      "My Granny made tons of ohagi.",
+      "She told me to give them to my classmates.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音が思い出したように手を叩くと、朝から気になっていたボストンバッグを開き、風呂敷で包まれた箱を机の上に載せた。",
+      "蓋を開けると、中にはたくさんのおはぎが行儀よく並べられているではないか。"
+    ],
+    "textEn": [
+      "Mion clapped her hands as she remembered, and took a box out of her bag.",
+      "She opened the lid, letting us see a bunch of ohagi neatly packed inside."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あらあら、たくさん入っていますのね！",
+      "クラス全員に食べていただけそうなくらいありますわよ！」"
+    ],
+    "textEn": [
+      "\"Wow! There really are a lot!",
+      "I think there might be enough for everyone in the class to have one!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はぅ〜！！",
+      "かぁいい、おいしそうー！！」"
+    ],
+    "textEn": [
+      "\"Hauuuu!!",
+      "They look sho yummy and kyute!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「婆っちゃはおはぎを作るのが大好きなんですよ、どういうわけか！」"
+    ],
+    "textEn": [
+      "\"For some reason, my Granny is very good at making ohagi!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……宗平が大好きだったのですよ。」"
+    ],
+    "textEn": [
+      "\"......That's because Souhei used to love them.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あぁ…、爺っちゃが好きだったらしいねぇ。"
+    ],
+    "textEn": [
+      "\"Ah, yeah... I heard my Gramps used to like ohagi."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "山盛り食べたらしいよー！」"
+    ],
+    "textEn": [
+      "He ate tons of them!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「じゃあ、魅ぃちゃんのおばあちゃんにとっては、おはぎは亡くなったおじいちゃんを思い出す大切なものなんだね。」"
+    ],
+    "textEn": [
+      "\"For your grandma, ohagi is something that makes her remember your late grandpa, huh?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「そうなの？",
+      "爺っちゃが好きなのって缶詰だと思ってました。」"
+    ],
+    "textEn": [
+      "\"You think so?",
+      "I thought Gramps liked canned food.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「くっくっく！",
+      "詩音は缶詰がダメなんだよねぇ〜！」"
+    ],
+    "textEn": [
+      "\"Heh heh heh!",
+      "You don't like canned food, do you, Shion?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「え？",
+      "そうなの？",
+      "どうして？」"
+    ],
+    "textEn": [
+      "\"What?",
+      "Is that true?",
+      "Why so?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「んん〜〜〜、缶詰臭と言いますか…。",
+      "あの独特の鉄臭さがどうも苦手で……。」"
+    ],
+    "textEn": [
+      "\"Weeeeell... it's because of the smell...",
+      "I just don't like the smell of the metal...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「あら！",
+      "人に嫌がるカボチャを無理やり食べさせて、好き嫌いはいけないとか言ってる人がずいぶんな話でございますのね！」"
+    ],
+    "textEn": [
+      "\"Oh, is that so?!",
+      "After always forcing me to eat my squash, it turns out that you too have something you can't eat?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ふふ〜ん、実はねぇ、",
+      "くっくっく！！」"
+    ],
+    "textEn": [
+      "\"To tell you the truth, she hates canned food because...",
+      "heh heh heh!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ちょ、ちょっとお姉！",
+      "人が嫌がることを言うなんて最低ですよー！！」"
+    ],
+    "textEn": [
+      "\"Come on, Sis!",
+      "Don't you dare tell anyone!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「何だかわからんが、魅音が珍しく握った詩音の弱みらしいな。",
+      "面白いから普段の恨みを晴らせ。",
+      "ホレホレ！」"
+    ],
+    "textEn": [
+      "\"I don't know what's going on, but it seems Mion knows a secret about Shion.",
+      "Tell it to us!",
+      "Go on!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どうも、詩音の缶詰嫌いの理由は相当笑えるものらしくて、詩音にとっては恥ずかしいものらしい。",
+      "しばらくの間、姉妹水入らずで取っ組み合いをしていた。",
+      "魅音も密着からのニーマシンガンは悪くなかったが、そこからキャプチュードが決まるとは思わなかったらしい。",
+      "やはり詩音の方が一枚上手か…。"
+    ],
+    "textEn": [
+      "The reason why Shion doesn't like canned food must have been something pretty funny.",
+      "The two sisters battled for a while.",
+      "The machine-gun knee kicks Mion launched from close quarters weren't bad, but I don't think she expected Shion to land a capture suplex off it.",
+      "Guess Shion is the stronger of the two siblings..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「お姉に言われるくらいなら自分で言います。",
+      "えっとですね、葛西って言う性質の悪いオヤジがいましてね。"
+    ],
+    "textEn": [
+      "\"I'd rather tell you the truth than have you hear it from my sis.",
+      "See, there's this bad guy named Kasai..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "そいつがですね、",
+      "純粋無垢だった幼い私にですね、"
+    ],
+    "textEn": [
+      "He once told me",
+      "when I was still young and innocent..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "缶詰の中にはたまに人間の肉が混じっているとかとんでもないことを吹き込みやがったせいなんです！」"
+    ],
+    "textEn": [
+      "that there's sometimes human meat mixed in with canned food!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはははははは、都市伝説にたまにそういうのがあるね。」"
+    ],
+    "textEn": [
+      "\"Ahahahahahaha, I've heard of an urban legend like that before.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あるある！",
+      "俺たちのとこでも、牛丼の肉は実は犬の肉だとか、ハンバーガーにはミミズの肉が混じってるとか聞いたことあるぜ？」"
+    ],
+    "textEn": [
+      "\"Me too!",
+      "I once heard that there's dog meat mixed into beef bowls, and worms inside burgers!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「そそそ、そんな話がありますのー？！"
+    ],
+    "textEn": [
+      "\"A-A-A-Are you quite serious...?"
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "そんなの聞いてしまったら、もう牛丼もハンバーガーも食べられなくなりますわねぇ…。」"
+    ],
+    "textEn": [
+      "I can never eat beef bowls or burgers again after hearing something like that...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「そうなんですよ沙都子ー！",
+      "私はトラウマを負わされた犠牲者なんですー！」"
+    ],
+    "textEn": [
+      "\"You see, Satoko?",
+      "It was a very traumatic thing for me!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「同情はしますけど、カボチャフルコースの恨みと相殺するにはまだだいぶ足りませんわねぇ…！」"
+    ],
+    "textEn": [
+      "\"You have my sympathy, but I still have yet to forget about how you made me eat a full-course squash meal...!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「沙都子は根に持ちすぎなのですよ。",
+      "ボクはおいしくてぺろりだったのです。」"
+    ],
+    "textEn": [
+      "\"You need to let go of that one.",
+      "That meal was delicious.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あっはっは！",
+      "何だかよー、そんな話をしてるとさ。",
+      "この魅音のおはぎにも何か妙なものが混じってそうな気がしてくるよな。」"
+    ],
+    "textEn": [
+      "\"Ah ha ha!",
+      "Because we're talking about this...",
+      "I'm starting to get worried there might be something mixed into this ohagi too...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ほー？！",
+      "確かにこの私が持ってきたおはぎだもんねぇ？",
+      "中に何の細工もないってのは確かに無用心だよねぇ…？",
+      "くっくっく！」"
+    ],
+    "textEn": [
+      "\"Ohhh?",
+      "Well, at least with the ohagi that I brought...",
+      "You can't really be sure that there's nothing else inside...",
+      "Heh heh heh...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………魅音のおはぎ。",
+      "…何しろあの魅音だ、何か仕掛けをしない方がおかしいんだが。",
+      "…なんだろう。",
+      "何か、",
+      "…忘れているような気がした。",
+      "でも何の覚えもない。",
+      "それはきっと、疲れてる時とかにたまにある既視感に違いない。",
+      "初めてのことなのに、過去に何か知っていたように感じてしまう、ちょっとした記憶のエラー…。"
+    ],
+    "textEn": [
+      "............Ohagi that Mion brought.",
+      "...When you consider that, it's only natural to suspect that she probably did something to them.",
+      "...What's going on?",
+      "I felt like...",
+      "I was forgetting something...",
+      "But I didn't remember anything that I was forgetting.",
+      "It was like one of those deja vu moments.",
+      "I'd never been in this situation, but my mind was telling me that I'd been there before..."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……どうしたのですか、圭一？」"
+    ],
+    "textEn": [
+      "\"......What's wrong, Keiichi?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いや、何でもないよ。",
+      "前にも魅音におはぎをもらったことがあったような気がしたんだけど…。",
+      "これが初めてだよなぁ？」"
+    ],
+    "textEn": [
+      "\"Nothing...",
+      "I just feel like Mion has given me ohagi before...",
+      "But this is the first time, right?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そうなの？",
+      "魅ぃちゃん？」"
+    ],
+    "textEn": [
+      "\"Is it?",
+      "Mii-chan?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「いや、これが初めてだと思うなぁ？",
+      "何かの勘違いじゃない？」"
+    ],
+    "textEn": [
+      "\"I think this is the first time.",
+      "You must be mistaking it for something else.\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「私の記憶でも、魅音さんが学校におはぎを持ってきたのは今年はこれが初めてのはずでしてよ？」"
+    ],
+    "textEn": [
+      "\"According to my memory, this is the first time Mion-san has brought ohagi to school.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「………………………。」"
+    ],
+    "textEn": [
+      "\".................\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ははーん、わかった。",
+      "おじさんが持ってきたおはぎだもんだから、何か罠があると思って警戒してるんでしょー。」"
+    ],
+    "textEn": [
+      "\"Aaaah, I know!",
+      "You're being cautious because these are from this ol' man, aren't you?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「そこは威張るとこじゃなくて、日頃のお姉の素行を反省すべきとこだと思いますけど。」"
+    ],
+    "textEn": [
+      "\"That's nothing to brag about. I think you should be reflecting on your regular behavior.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…ははは、そうだよな。",
+      "同じおはぎでも、レナとかが作ったおはぎなら絶対そんな風には思わない。",
+      "レナっておはぎ作るの、何気に上手なんだよな。",
+      "小さいけど丁寧で…、」"
+    ],
+    "textEn": [
+      "\"...Hahaha, you're right.",
+      "I wouldn't feel this way if Rena brought me ohagi.",
+      "Rena's really good at cooking.",
+      "They're small, but very carefully made...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…？",
+      "レナ、おはぎなんて作ったことないよ？」"
+    ],
+    "textEn": [
+      "\"Huh...?",
+      "I've never made ohagi before...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……………あれ？",
+      "…………そうだよな…？",
+      "何でレナがおはぎなんか作るんだ…？",
+      "どうしてレナが作ったら、小さいけど丁寧なおはぎになるなんて決め付けられるんだ…？",
+      "……？？？",
+      "自分でもよくわからない記憶の混乱。",
+      "俺一人が勘違いだったと認めればそれで収まるだけの話だ。",
+      "魅音自身が今日、初めて持ってきたと言ってるんだし。",
+      "俺が小首を傾げてる間に、他の連中はみんな、おはぎに手を伸ばしていた。",
+      "レナが俺の分を一個取って、タッパーの蓋の上に置いてくれる。",
+      "それをなぜかまじまじと見てしまった。",
+      "何が気になるんだろう……？",
+      "魅音はそれを、中に何か細工がないか不安なんだろうと言ったが。",
+      "…不安というのとは何か違う。",
+      "そう、…………何て言えばいいんだろう。",
+      "…忘れている義務感とでもいうんだろうか。",
+      "思い出さなければいけないことをすっかり忘れてしまっていて、",
+      "……思い出さなければいけないという義務感のみが苛む、不思議な感覚。",
+      "たった一個のおはぎが、魅音が家から持ってきただけのおはぎが、俺の前に置かれているだけなのに。",
+      "…緩い焦燥感がかすかに急きたてる。",
+      "……でも心当たりが本当にない。",
+      "第一、思い出しようもないのだ。",
+      "…だって",
+      "「知らないのだから」。"
+    ],
+    "textEn": [
+      ".........What?",
+      "......What was I saying?",
+      "Why did I say that Rena had made ohagi before...?",
+      "Why would I know that Rena makes her ohagi small but neatly...?",
+      "...?",
+      "I had no idea where that memory was coming from.",
+      "I could only assume it was an error in my brain.",
+      "Mion was saying that this was her first time bringing ohagi to class.",
+      "As I tilted my head in confusion, everyone started reaching inside the box.",
+      "Rena took out one for me and put it on the lid.",
+      "I stared at it closely.",
+      "What was I so concerned about...?",
+      "Mion said that I was probably concerned that she did something to the ohagi.",
+      "But it wasn't quite that...",
+      "I really didn't know how to explain it.",
+      "...I felt like I was forgetting something important.",
+      "I'd forgotten something important...",
+      "and all I had was the obligation to remember it.",
+      "In front of me was nothing but a single ohagi that came from Mion's house.",
+      "...I was frustrated,",
+      "but I really couldn't think of anything.",
+      "There's no way I could remember it.",
+      "Because",
+      "I didn't know anything."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一、さっきからおはぎをじっと見て、どうしましたのですか…？」"
+    ],
+    "textEn": [
+      "\"......Keiichi. You've been staring at your ohagi for a long time. What's the matter...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いや、………デジャヴだっけ、既視感だっけ。",
+      "…ほら、たまにないか？",
+      "初めて見るものなのにさ、過去にすでに見ていたように感じる時って。」"
+    ],
+    "textEn": [
+      "\"Oh, it's just...... I'm experiencing deja vu.",
+      "Don't you get it sometimes?",
+      "It's your first time seeing something, but you feel like you've seen it before...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一は、…過去にも魅音におはぎをもらったように感じるのですか？」"
+    ],
+    "textEn": [
+      "\"......So... you feel like Mion has given you ohagi in the past...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…ははは、でも気のせいだよな。",
+      "魅音自身、そんなことは覚えがないって言ってるしさ。」"
+    ],
+    "textEn": [
+      "\"...Hahaha. I'm sure it's just my imagination.",
+      "Mion just told me that she had never brought ohagi to school before.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一。",
+      "ありもしない記憶なんてありませんです。",
+      "もし圭一が覚えているのなら、それは本当にあったことなのですよ。」"
+    ],
+    "textEn": [
+      "\"......Keiichi.",
+      "You can't have memories of what didn't happen.",
+      "If you remember something, I'm sure it really happened before.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…梨花ちゃんが妙なことを言う。",
+      "普段なら、梨花ちゃんが戯れに妙なことを言っているだけだと聞き流すのだが…。",
+      "……先日の玩具屋での「予言」を聞かされて以来、俺は村の年寄りたちが言う、梨花ちゃんの神通力というやつを少し信じかけていた。",
+      "だから、何か深い意味があるように感じてしまうのだった。"
+    ],
+    "textEn": [
+      "Rika-chan told me something strange.",
+      "I didn't usually take her random comments seriously...",
+      "...But ever since I saw her making those predictions in the toy store, I've been curious about her 'special powers'.",
+      "I felt like she was telling me something deep."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「へへ、大予言の梨花ちゃまが言うと、何だか不思議な感じがしてくるな。",
+      "それってつまり、輪廻転生とかそういう話なんだろ？」"
+    ],
+    "textEn": [
+      "\"It's weird to hear that from you, since you're so great at making predictions.",
+      "Are you talking about the cycle of reincarnation or something?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……ボクは宗教のことはよくわかりませんです。"
+    ],
+    "textEn": [
+      "\"......I don't know much about religion."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "ただボクが言いたいのは、…圭一が知っていることなら、それはあったことなのです。",
+      "だからそれを『思い出して欲しい』。"
+    ],
+    "textEn": [
+      "I just want to tell you that... if you know about something, that's something that happened to you.",
+      "I want you to 'try and remember' what happened."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "気のせいだと片付けないで、記憶としてほしい。",
+      "………ボクが何を言っているのかわかりますですか…？」"
+    ],
+    "textEn": [
+      "I don't want you to treat it like you're just mistaken.",
+      "......Do you understand what I'm trying to say?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………えっと、",
+      "………うん…？」"
+    ],
+    "textEn": [
+      "\"Umm...",
+      "I guess...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんがこんな難しい話をしてくるとは思わず、ちょっと呆然とする。",
+      "俺の知る梨花ちゃんは、み〜とか、にぱ〜☆とか、幼児言葉でふざける年下の女の子というイメージだ。",
+      "でも、目の前にいる梨花ちゃんはどこか雰囲気が違った。",
+      "ここはボケて茶化すところなのだろうか…？",
+      "でも、梨花ちゃんの初めて見るくらいに真剣な眼差しは、今が茶化すべき場ではないことをはっきり示していた。"
+    ],
+    "textEn": [
+      "I was a little surprised by how serious she sounded.",
+      "I always thought that Rika was just an innocent girl who fooled around all the time saying things like \"meep\" and \"nipah~\".",
+      "But all of a sudden, she seemed like a totally different girl.",
+      "Was I supposed to take it as a joke...?",
+      "The serious look on her face told me it wasn't the time for jokes, though."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「梨花ちゃんがそういうなら、…………じゃあ俺は、別の世界とかで、魅音におはぎをもらったことがあるんだろうな。」"
+    ],
+    "textEn": [
+      "\"If that's what you're telling me...... then I guess I got ohagi from Mion in a previous life.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……馬鹿にしませんから全部話してください。",
+      "どこでどうして、なぜ魅ぃにおはぎをもらうのですか？」"
+    ],
+    "textEn": [
+      "\"I won't make fun of you, so please tell me everything.",
+      "Why did Mii give you that ohagi?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いつどこでどうして…なんて具体的に聞かれれば聞かれるほど…、やっぱり妄想だったんだなって思っちゃうよ。",
+      "寝惚けて見た夢なのかもしれないな。」"
+    ],
+    "textEn": [
+      "\"The more I think about it... the more I think it's just my imagination.",
+      "Maybe it was just a dream...\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……夢でもいいのです。",
+      "もっと覚えてるはずなのです。",
+      "話してください。」"
+    ],
+    "textEn": [
+      "\"......I don't care if it was a dream.",
+      "You must remember something.",
+      "Please tell me.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "どうしたんだろう。",
+      "梨花ちゃんがいやに食い下がる。",
+      "そんなにも面白い話題だとは思えない。",
+      "梨花ちゃんが真剣になるような話とも思えず、俺は彼女との温度差を微妙に感じていた。",
+      "でも、梨花ちゃんに話しかけられる前から感じている、小さな焦燥感が、真面目に応えるべきだと促すのだ…。",
+      "……梨花ちゃんは夢見とかで占いができるのかもしれないな。",
+      "ならちょっと付き合ってみるか。",
+      "霊験あらたかなオヤシロさまの巫女なんだし。"
+    ],
+    "textEn": [
+      "What was up with her?",
+      "She seemed so curious about it.",
+      "I didn't think this story was that interesting.",
+      "Her asking so much started making me feel uncomfortable.",
+      "Still, something told me that I needed to talk to Rika-chan about everything I could.",
+      "...Maybe she could predict my future by reading my dreams.",
+      "I should tell her everything.",
+      "After all, she's the shrine maiden for Oyashiro-sama."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………えっとなぁ。",
+      "…俺は多分、学校を休んだんだよ。",
+      "風邪なんだと思う。」"
+    ],
+    "textEn": [
+      "\"Well...",
+      "I think I skipped school that day...",
+      "I had a cold or something...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "粉と呼べるくらいに細かく砕けてしまっている記憶の欠片。",
+      "……その向こうに透ける俺の姿は、なぜか玄関にいて、",
+      "…………魅音と、",
+      "……………あと誰か一人を迎えていた。",
+      "多分、レナだったと思う。"
+    ],
+    "textEn": [
+      "My memory was scattered all over my brain, like powder.",
+      "I could see myself standing in front of the door...",
+      "Mion was there, and...",
+      "someone else was standing there too...",
+      "I think it was Rena."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それで、魅音のヤツ、お見舞いのおはぎだって言って持ってくるんだよ。",
+      "今日言ってるのと同じで、おばあちゃんが作ったって言ってた気がする。」"
+    ],
+    "textEn": [
+      "\"Mion brought me ohagi so I would get better.",
+      "I think she told me that her grandma made it, just like today.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…………………それで？」"
+    ],
+    "textEn": [
+      "\"And then...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…うん。",
+      "…それで、そのおはぎを食べるんだよ。",
+      "二人を帰した後に。",
+      "…………それでさ、おはぎの中から……。",
+      "………あははははは！",
+      "ここから先は間違いない、漫画の受け売りだよ。"
+    ],
+    "textEn": [
+      "\"Well...",
+      "Then I ate that ohagi.",
+      "...After they went back home.",
+      "......Then I found something inside the ohagi...",
+      "......Ahahahahaha!",
+      "I'm sure I saw it in a comic book or something."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "多分、昔読んだ漫画のエピソードと記憶が混同してるんだ。",
+      "そんなことがあるわけない、あははははは。」"
+    ],
+    "textEn": [
+      "It's mixed up in my memory, but I'm sure I read it somewhere in some comic book.",
+      "Because it can't be true... ahahahahaha!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一、話を続けるのです。",
+      "おはぎを食べて、中から……？」"
+    ],
+    "textEn": [
+      "\"Keiichi... tell me what happened.",
+      "What did you find inside the ohagi...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「あ、いや、…俺が小学校の頃に読んだ怖い漫画にさ、ハンバーグの中に裁縫針が混ぜられているっていう話があったんだよ。",
+      "あははは、詩音もさっき言ってたろ？"
+    ],
+    "textEn": [
+      "\"Well, I read this scary comic book when I was little... and there was a sewing needle inside of somebody's burger.",
+      "Ahahaha. You remember what Shion was saying just now?"
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "小さい頃に怖がらされると、トラウマになって残るっていうヤツだよ。」"
+    ],
+    "textEn": [
+      "It can be traumatic to hear a story like that when you're young.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "内容はだいぶうろ覚えだ。",
+      "出会い頭の事故で、顔に治らない傷を負ってしまった少女が相手を呪う、そんな内容。",
+      "今、思い出してみると、筋も脈絡もなく読者を怖がらせようとするだけのとんでもなくチープな漫画なのだけど。",
+      "…小学生の俺には、やたら怖そうな画調の迫力もあり、ものすごく衝撃的だったのだ。",
+      "その中のエピソードに、呪われた相手の食べ物に色々と危険物が混入する呪いが出てきたのだ。",
+      "その一番最初のシーンが、夕食のハンバーグの中に裁縫針が混じっていて、知らずに口にしてしまい、",
+      "ぎゃあああぐええぇえぇ〜！、",
+      "というような内容だった。",
+      "……今思い出しても怖いよな、非常にグロテスクかつショッキングなシーンだった。",
+      "それがちょっとトラウマっぽくなったことがあり、しばらくの間、俺は食事の中に針が入ってないか丹念に調べないと口に出来なかった時期があったのだ。",
+      "だから、おにぎりとかハンバーガーみたいな、丸かじりするタイプの食べ物はしばらく駄目だった。",
+      "……まぁ、親にも注意されたし、育ち盛りの男子はトラウマより食欲の方が旺盛だ。",
+      "おねしょのクセがいつの間にか治るように、そんな下らないトラウマもやがて治っていくのだが…。"
+    ],
+    "textEn": [
+      "I didn't remember much about that comic.",
+      "I think it was about this girl who had an accident, and held a grudge against the person who caused the injury on her face...",
+      "It was a really cheap plot now that I think about it.",
+      "But since I was still a little kid, that comic really scared me.",
+      "In one chapter, the girl casts a curse on the guy's food.",
+      "He eats a burger with sewing needles inside it, and he goes all",
+      "\"Gyaaaaaaaah!\"",
+      "Something like that...",
+      "It still freaked me out. The image was so grotesque and shocking to me...",
+      "That grew into a kind of trauma, and for a while I searched for sewing needles in my food every time I ate something.",
+      "I couldn't eat burgers for a while for that reason...",
+      "But my parents got concerned, and my hunger overcame the trauma.",
+      "Eventually, that experience disappeared into the flow of time..."
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "「そうですか。裏に、町会も、その鬼ヶ淵死守同盟とかいう恫喝団体もいないとわかれば、これで安心でしょう。",
+      "北条沙都子さんの件は、特別扱いせずに慎重に対応してください。」"
+    ],
+    "textEn": [
+      "\"I see... We're good as long as we know that the town council and the Onigafuchi Guardians aren't involved.",
+      "Please take care of Satoko Houjou-san's case without worrying about it too much.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Harayama",
+    "labelJp": "原山",
+    "textJp": [
+      "「はい。雛見沢の総意でないとわかればこちらも落ち着いて処理ができます。」"
+    ],
+    "textEn": [
+      "\"I will. I'm glad to know that the whole village isn't backing them.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "「しかし、私は好きになれませんね。裏に誰がいようがいなかろうが、常に公平な対応をするのが公務員です。"
+    ],
+    "textEn": [
+      "\"I wouldn't agree with them if they were, though. No matter who is pulling the strings, we must treat every case equally."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "恫喝がまかり通るようなことがあったという先例を残したから、雛見沢は特別扱いだという妙なルールができてしまったのではないですか？」"
+    ],
+    "textEn": [
+      "This whole odd rule that we have to give Hinamizawa special treatment is only due to the precedent set when we let threats influence us before.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Harayama",
+    "labelJp": "原山",
+    "textJp": [
+      "「……まぁ、確かに所長の仰るとおりだとは思いますが、……一応ですね、その…。」"
+    ],
+    "textEn": [
+      "\"...Well, you're absolutely right, sir... but...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "「わざわざ自治の係長が、連合町会が背景にいないことを確認してくれたんですから、うちの職員も厳粛に事務を進めてください。"
+    ],
+    "textEn": [
+      "\"Please continue to work on this case. The manager from the municipal government assured us that the town council has nothing to do with this petition."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "雛見沢だからどうすべきかとお伺いを立てること自体がすでに公務員の心構えとして問題です。係長も、その辺をよく職員に教えてくれなければ困ります。」"
+    ],
+    "textEn": [
+      "It's a problem that our organization is so afraid of one tiny community. As a manager, you should think about that a little.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Harayama",
+    "labelJp": "原山",
+    "textJp": [
+      "「はい、申し訳ございません…。とにかく、裏に村がいないとわかれば安心です。」"
+    ],
+    "textEn": [
+      "\"Yes, I'm sorry... Anyway, I'm glad to hear that the village isn't supporting them...\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief",
+    "labelJp": "所長",
+    "textJp": [
+      "「裏に村がいるとわかっても、対応を焦るべきではありません。何があろうとも！",
+      "北条沙都子さんの件は慎重に対応してください。",
+      "くれぐれも異例の措置は取らないよう、担当に念を押しておいてくださいよ。」"
+    ],
+    "textEn": [
+      "\"You must act the same way even if the village does support them. No matter who is behind the scenes!",
+      "Please be very careful with Satoko Houjou's case.",
+      "Don't try to give her any special treatment, you understand?\""
+    ]
+  }
+]

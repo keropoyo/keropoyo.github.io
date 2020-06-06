@@ -1,0 +1,3025 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そう、ぽつりと呟いた梨花ちゃんに、俺は…。"
+    ],
+    "textEn": [
+      "To Rika-chan who had whispered that, I..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…ちょっと俺、魅音のところに行ってくる」"
+    ],
+    "textEn": [
+      "\"I'll just go see Mion for a bit.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "二人にそう断ってから俺は教室を出て、魅音が電話をかけに行った職員室へと向かう。",
+      "…特に、そばにいたからといって俺に何かができるわけでもない。",
+      "ただ、ここで不安を抱いたまま、じっとしているのが嫌だった。"
+    ],
+    "textEn": [
+      "After taking my leave from them, I left the classroom and headed to the faculty office where Mion had gone to make a phone call.",
+      "...It's not like I could do anything, even if I stayed by her.",
+      "I just hated staying still doing nothing but wallow in anxiety."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「わかりました。",
+      "若いのを２人ほど診療所に送ります。」"
+    ],
+    "textEn": [
+      "\"Okay.",
+      "I'll send two of our subordinates to the clinic.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「まさかとは思うけどね…。",
+      "何をやらかすかわかったもんじゃない。」"
+    ],
+    "textEn": [
+      "\"I don't think she'll do it...",
+      "but you'll never know what's going to happen.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「姿を見たら、ただちにひっ捕らえてしまって構いませんか？」"
+    ],
+    "textEn": [
+      "\"Can we capture her by force if she does?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……本当は嫌なんだけどなぁ…。",
+      "……どうしようねぇ。」"
+    ],
+    "textEn": [
+      "\"...Honestly, I don't want to do that...",
+      "What do you think we should do?\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「先日の会合で、竜宮レナを確保して警察に引き渡すことで決着しています。",
+      "ですので、ひっ捕らえても一応、筋は通ります。」"
+    ],
+    "textEn": [
+      "\"We made an agreement with the cops that we're going to give Rena Ryuugu to them right after we find her.",
+      "So even if we use force to capture her, we won't get in trouble.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うちの体面じゃなくて、レナの心情的に気の毒だなってこと！",
+      "できたら、本当に静かに静かに決着したいんだけどね…。」"
+    ],
+    "textEn": [
+      "\"I'm not worried about losing face. I just feel sorry for Rena!",
+      "I really want to settle this calmly, if possible...\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「まぁ、お若いですから。",
+      "人さえ殺さなければ大抵はごめんなさいで済みますよ。」"
+    ],
+    "textEn": [
+      "\"Well, she's still young.",
+      "So as long as she didn't kill someone or something, all she has to do is to apologize, and everything will be fine.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あっはっはっはっはー。",
+      "…じゃあアウトかもだー、あっはっはー。」"
+    ],
+    "textEn": [
+      "\"Ah ha ha ha haa.",
+      "...Well then, she might be out of our hands, ah ha ha.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「あ、あ、いえいえ、見つからなければセーフですから。",
+      "セーフセーフ。",
+      "……興宮の界隈ではあの２人の失踪を気にするものはいません。"
+    ],
+    "textEn": [
+      "\"Oh, I mean, you know... As long as they don't find out about it, she'll be safe.",
+      "She'll definitely be safe.",
+      "...Nobody really cares about the disappearance of those two anyway."
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "何かのヤバい話を踏んで夜逃げしたんだろうということになっています。",
+      "あの程度のゴロツキ、次から次へです。",
+      "ですからセーフセーフ。」"
+    ],
+    "textEn": [
+      "People think that they ran away somewhere because they did something wrong.",
+      "Those things happen all the time.",
+      "So, she's fine. Don't worry about it.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「アウトだのセーフだのー、私ら野球拳でもやってるわけー？",
+      "わっはっは。",
+      "まぁいいや、それじゃあくれぐれもよろしくお願いします。」"
+    ],
+    "textEn": [
+      "\"She's out, she's safe, what? Are we playing baseball now?",
+      "Wa ha ha.",
+      "Anyways, please just be careful.\""
+    ]
+  },
+  {
+    "color": "#76523d",
+    "labelEn": "Kasai",
+    "labelJp": "葛西",
+    "textJp": [
+      "「了解しました。",
+      "……ではひっ捕らえてよろしいんですね？」"
+    ],
+    "textEn": [
+      "\"Will do.",
+      "...So, it's ok to capture her by force, right?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……ちゃんとタッチアウトにするんだよー？",
+      "クロスプレーなんかにしないようによろしく頼みます。」"
+    ],
+    "textEn": [
+      "\"...Don't make any mistakes. You have to get her!",
+      "Please don't make it like a chase scene or anything like that.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "葛西さんとついつい他愛のない話をしてしまった。",
+      "受話器を置くと、何となく先生の目線を感じた。",
+      "……この狭い部屋で、一緒にいるんだし、私の電話が聞こえるのは当り前だった。",
+      "知恵先生はスプーンを置くと、ちょっと悲しそうな顔で聞いてきた。"
+    ],
+    "textEn": [
+      "I couldn't help but have a silly chat with Kasai-san.",
+      "When I put the phone down, I sensed Chie-sensei was looking at me.",
+      "...No wonder, as she had been able to hear the conversation clearly in this tiny room.",
+      "Chie-sensei put her spoon down, and with a sad look on her face, she asked the following:"
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「……今の電話は、竜宮さんを巡る話ですか？」"
+    ],
+    "textEn": [
+      "\"...Were you talking about Ryuugu-san?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「まぁ、………はい。」"
+    ],
+    "textEn": [
+      "\"Ah... yes.\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「園崎さん、……竜宮さんはどうして家出をしちゃったんでしょう。",
+      "……お友達として、何か知ってはいませんか？」"
+    ],
+    "textEn": [
+      "\"Sonozaki-san... do you know why Ryuugu-san ran away from home?",
+      "...You're close, aren't you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "おそらく、私を除いたら、レナと直接接点があった圭ちゃん以外には、今のレナの状況はわかるまい。",
+      "だから、ほとんどの人間にとっては、レナが家出をしたと思っている。",
+      "だが、家出後の警察の対応が派手過ぎた。",
+      "……スクラップ帖が特ダネだと信じた大石のポンチ野郎が、派手に騒いでレナを追い掛けすぎた。",
+      "村の中をサイレンなしとはいえ、パトカー何台もで走り回り、挙句、町会の連絡網まで使った。",
+      "だから、村の中では、レナが何か悪いことをして警察から逃げてるのではないかと思われているのだ。",
+      "私にとっては、レナの身柄を確保することよりも、確保した後、レナの名誉を回復するためどんなカバーストーリーを作るかの方が難題なようだった。",
+      "………散歩に出た途中で、転んで豆腐の角に頭をぶつけて記憶喪失になっていた、",
+      "そこに大石の勘違いが加わってレナが犯罪者に勘違いされて……。",
+      "…安直だなー。",
+      "とにかく今回は大石が悪役ってことが会合で決着してる。",
+      "大石が珍しくへこんでる間に、あいつの名前を最大限に使わせてもらうとしよう…。",
+      "私が考えなくちゃならないのは、",
+      "とにかく大騒ぎにせず、…レナが全部忘れて、速やかに元の生活を取り戻せるように環境を整えることに違いなかった。"
+    ],
+    "textEn": [
+      "It was hard for anyone to understand Rena's situation, except for me and Kei-chan.",
+      "So, most of them thought that Rena just ran away from home.",
+      "But after she did, the cops made too much of a fuss over it.",
+      "...Ooishi stupidly believed that the scrapbooks were a big scoop, and he overreacted in trying to find Rena.",
+      "He had patrol cars running around everywhere in the village. He even used the town council's phone directory to find her.",
+      "So, people in the village thought Rena did something wrong and was trying to run from the cops.",
+      "What was going to be difficult for me, more than finding her, was to make up a story to retrieve Rena's honor after they detain her.",
+      "...Hmm, what about this: Rena went for a walk, fell down and hit her head on the edge of some tofu, and lost her memory.",
+      "Ooishi misunderstood something big time, and he thought she was a criminal...",
+      "...It was too easy.",
+      "Anyway, we did make it clear that Ooishi was the one who misunderstood everything at the meeting the other day.",
+      "I had to make the best use of his name while he was feeling down for once.",
+      "What I'd have to do was to not make a big deal about this situation...",
+      "and to create an environment that allowed Rena to forget everything that happened, in order to get her life back together as soon as possible."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「大丈夫ですよ先生。",
+      "……レナは今ちょっと病気になってるだけです。",
+      "それを警察の某デブ刑事が素敵に勘違いして話をややこしくしただけです。"
+    ],
+    "textEn": [
+      "\"Everything is going to be fine, Chie-sensei.",
+      "...Rena is a little sick right now. That's all.",
+      "A fat cop somehow made a lovely mistake and got things twisted around."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "まさか先生、レナが悪いことをして逃走中なんて、信じちゃいないですよね？」"
+    ],
+    "textEn": [
+      "You don't believe that Rena did something wrong and that she's trying to run from the police, do you?\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「……それは、…もちろんですけど…。",
+      "でも、……家出することによってご家族にお掛けしている迷惑を考えれば、悪くないということはありません。」"
+    ],
+    "textEn": [
+      "\"...Of course not...",
+      "But... making her family worry by running away from home isn't a good thing to do, either.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………親と喧嘩してのちょっとした家出。",
+      "…若気の至りだったということにするのが最善かもしれない。"
+    ],
+    "textEn": [
+      "...She had a fight with her father, and she ran away from home for a little while.",
+      "...She acted childish, and that's all. Maybe that'd be the best story to go with."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「何か悩みがあったのでしょうか。",
+      "………それに気付けなかった私は教師失格ですね…。",
+      "一度、竜宮さんとじっくりお話がしたかったです…。」"
+    ],
+    "textEn": [
+      "\"I wonder if she had some problems she couldn't talk to anyone about.",
+      "...I must be a bad teacher, because I never realized it...",
+      "I wish I could have sat down and talked with Ryuugu-san before all this happened...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「あはははは、先生、ちょっとヘビーに考えすぎです。",
+      "もうちょっとリラックスリラックス…。",
+      "プチ家出なんて、今時珍しくないですって！」"
+    ],
+    "textEn": [
+      "\"Ahahahaha. Chie-sensei, you're taking it too seriously.",
+      "You need to relax...",
+      "It's normal for young kids nowadays to run away from home for a while!\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「ああぁあぁぁぁぁ、竜宮さんがこのまま不良になってしまって悪いことを始めたらどうしましょう！！",
+      "あぅあぅあぅ〜！」"
+    ],
+    "textEn": [
+      "\"Oh, nooooo. What am I going to do if Ryuugu-san becomes one of those bad kids and starts doing really bad things?!",
+      "Au au auuuu!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "竜宮さんが不良になる",
+      "↓\\n悪いことをして逮捕される",
+      "↓\\n担任の重大な責任",
+      "↓\\n懲戒免職",
+      "↓\\nカレーが食べられない",
+      "↓\\n死"
+    ],
+    "textEn": [
+      "Ryuugu-san becomes a bad kid.",
+      "↓\\nShe does something bad and gets arrested by the police.",
+      "↓\\nIt's her teacher's responsibility.",
+      "↓\\nI'll be dishonorably discharged.",
+      "↓\\nI can't eat curry anymore.",
+      "↓\\nI'm dead."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「ガーン、ガーン、ガーン……。」"
+    ],
+    "textEn": [
+      "\"Oh, no. Oh, noooooo...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……知恵先生は、何だか楽しげな妄想でショックを受けているようだった。",
+      "とりあえず楽しそうなので、そっとしておくことにする。",
+      "私は職員室を出て、教室へ戻ることにした。",
+      "ちょうど職員室を出た時、電話が鳴る。"
+    ],
+    "textEn": [
+      "...Chie-sensei seemed comically upset by her own imagination.",
+      "It looked funny, so I decided to leave her alone.",
+      "I made to leave the teacher's office to go back to the classroom, but...",
+      "Right then, the phone rang."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「はいもしもし。",
+      "雛見沢分校でございます。」"
+    ],
+    "textEn": [
+      "\"Hello.",
+      "This is the Hinamizawa branch school.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今日は校長先生が出張らしいので、電話は１人で受けなきゃならないから知恵先生も大変だ。",
+      "私は深く考えず廊下に出る。",
+      "……その時、電話に出ている先生の声色が変った。"
+    ],
+    "textEn": [
+      "Chie-sensei had to answer the phone all day today because the principal was on a business trip.",
+      "I exited to the hallway.",
+      "...Then, I heard the tone of her voice change."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「え？！",
+      "……い、……今、どこにいるんですか？！」"
+    ],
+    "textEn": [
+      "\"What?!",
+      "...Wh-Where are you right now?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私も、え？！と叫び、振り返る。",
+      "多分、レナだ。",
+      "レナが学校に電話を掛けてきたんだ！",
+      "私は電話先のレナの声を聞こうと、職員室に入ろうとしたが、それを受話器片手の知恵先生が、入ってはいけませんと制止した。",
+      "…知恵先生は何度かの相槌の後、時計をちらりと見上げた。"
+    ],
+    "textEn": [
+      "What?! I yelled and looked back at her.",
+      "It was probably Rena.",
+      "She called the school!",
+      "I tried to go back inside the teacher's office, but Chie-sensei gestured at me not to come in.",
+      "...Chie-sensei acknowledged what Rena was saying several times, and then, she looked up at the clock."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「わかりました。",
+      "今からすぐ行きます。",
+      "……先生との約束ですよ。」"
+    ],
+    "textEn": [
+      "\"Okay.",
+      "I'll be there.",
+      "...I'm your teacher. You promise me, alright?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それだけ言うと、受話器を置き、ロッカーから私物のショルダーバッグを取り出す。"
+    ],
+    "textEn": [
+      "She said only that, put the phone down, and got her purse out of her locker."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「委員長。",
+      "先生は急用が出来ました。",
+      "しばらく表へ出ますので、みんなを自習させてください。」"
+    ],
+    "textEn": [
+      "\"Class president,",
+      "I have an emergency to take care of.",
+      "I'm going out for a while, so please have everybody study by themselves while I'm gone.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ショルダーバッグから車のキーを出している。",
+      "…どこかでレナと待ち合わせを約束したのは明白だった。"
+    ],
+    "textEn": [
+      "She took her car key out from her purse.",
+      "...It was obvious that she was going to see Rena somewhere."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「先生、今の電話はレナ？！」"
+    ],
+    "textEn": [
+      "\"Chie-sensei, was it Rena?!\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「以上です。",
+      "よろしく頼みますよ、委員長。」"
+    ],
+    "textEn": [
+      "\"That's all.",
+      "You're in charge of the class, okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "知恵先生はあからさまに私の問い掛けを無視すると、小走りに廊下を駆けて行った。",
+      "それと入れ違いに、廊下の向こうから圭ちゃんがやってきた。"
+    ],
+    "textEn": [
+      "Chie-sensei completely ignored me and she ran out into the hallway.",
+      "She ran to the schoolyard... and got into her car."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんっ！」"
+    ],
+    "textEn": [
+      "\"Kei-chan!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…どうした？",
+      "知恵先生慌てて、どこに行ったんだ？」"
+    ],
+    "textEn": [
+      "\"What is it?",
+      "Where did Chie-sensei go in such a hurry?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…レナから電話があった！」"
+    ],
+    "textEn": [
+      "\"There was a phone call from Rena!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「——えっ！　なんて？！」"
+    ],
+    "textEn": [
+      "\"Wha-! What did she say?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私はそれに答えず、先生の後を追う。圭ちゃんもすぐについてきた。",
+      "先生が昇降口から校庭に出て、……自分の車に乗り込んでいくのが見える。",
+      "そしてその車が校門を出た瞬間に、私も校庭へ駆け出した。",
+      "校門のところに停まっている黒塗りの車に駆け寄り、窓を叩いた。"
+    ],
+    "textEn": [
+      "I ran after the teacher without answering that. Kei-chan followed behind me.",
+      "She ran to the schoolyard... and got into her car.",
+      "The moment her car left through the gate, I ran out to the schoolyard myself.",
+      "I headed for the black car parked near the gate and knocked on the window."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Gangster",
+    "labelJp": "組員",
+    "textJp": [
+      "「お疲れ様です。",
+      "今のところ、異常ありません。」"
+    ],
+    "textEn": [
+      "\"How are you doing, milady?",
+      "Everything is quiet so far.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ああぁ、違う違う！",
+      "今、出て行った先生の車を追って！！",
+      "多分、行く先にレナがいる！」"
+    ],
+    "textEn": [
+      "\"I know!",
+      "But I need you to follow that car that just left!!",
+      "I think she's going to meet Rena!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なにっ？！」"
+    ],
+    "textEn": [
+      "\"What?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "圭ちゃんは驚きの声を上げるが、とりあえず今は説明している時間も惜しかった。"
+    ],
+    "textEn": [
+      "Keiichi yelled in surprise, but there wasn't any time left to explain it to him now."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「レナは警戒心が強いから注意してね。",
+      "捕まえたら有無を言わさずに本家へ放り込んで葛西の指示に従うこと！",
+      "私の友人だよ？！",
+      "怪我なんかさせたら許さないからね！」"
+    ],
+    "textEn": [
+      "\"Rena is very paranoid, so you need to be careful.",
+      "Bring her to my house right after you catch her. After that, follow Kasai's orders!",
+      "She's my friend!",
+      "You better not get her hurt!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "………知恵先生はおそらくレナに、誰にも内緒で話がしたいといって呼び出したのだろう。",
+      "私が聞いても無視した態度から容易に想像できた。",
+      "そのレナと知恵先生の約束を踏みにじるようで、ちょっと気の毒に思ったが、",
+      "……レナが何か妙なことをしでかさない内に捕まえるのは、とても重要なことだった。",
+      "何もしない今の内なら、親と喧嘩して家出して、引っ込みがつかなくなって放浪してましたで言い訳になる。",
+      "……これが診療所に放火なんかした後だったらお手上げだ。"
+    ],
+    "textEn": [
+      "...Rena must've told Chie-sensei that she wanted to talk to her alone.",
+      "I could tell that easily from the way she ignored my question.",
+      "I did feel a little bad for ruining their promise...",
+      "...But it was very important that we caught her before she did something wrong.",
+      "We could still make up an excuse that she was just wandering around because she had a fight with her father and ran away from home.",
+      "...But if she set fire to the clinic or something, there would be nothing I could do."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「——魅音、俺も行く！」"
+    ],
+    "textEn": [
+      "\"Mion, I'm coming too!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃんっ…？」"
+    ],
+    "textEn": [
+      "\"Kei-chan...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「先生がレナのいる場所に向かったんなら、俺も一緒のほうがいいはずだ！",
+      "頼む！」"
+    ],
+    "textEn": [
+      "\"If the teacher is going to see Rena, it's better if I go!",
+      "Please!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……。",
+      "そうだね、確かに。",
+      "じゃ圭ちゃん、早く乗って！」"
+    ],
+    "textEn": [
+      "\".........",
+      "You're probably right.",
+      "Okay then, Kei-chan, get on quick!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「わかった！」"
+    ],
+    "textEn": [
+      "\"Gotcha!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "助手席の扉を開けて、圭ちゃんは素早く乗り込む。",
+      "そうこうしている間にも、先生の車は離れていく一方だ。",
+      "後は見失わないことを祈るだけ…。"
+    ],
+    "textEn": [
+      "Kei-chan opened the car door and swiftly climbed into the passenger seat.",
+      "While we were dilly-dallying, the teacher's car was beginning to disappear from our line of sight.",
+      "We could only pray we didn't lose sight of her......"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「よろしく頼んだよ、圭ちゃん！」"
+    ],
+    "textEn": [
+      "\"I'm counting on you, Kei-chan!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ああ、任せとけっ！」"
+    ],
+    "textEn": [
+      "\"Yeah, leave it to me!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "車は砂利をガリガリ弾きながら、乱暴にターンすると、ものすごい速度で知恵先生の車を追っていった。",
+      "…私は消えていく車の影を見送りながら、…この一連のトラブルが、もっとも静かな形で終わりを迎えてくれるよう祈るしかなかった。",
+      "知恵先生の車は、ほどなく発見できた。",
+      "…かなり急いだ走行だったが、法定外の速度には上げられない性格がこっちには幸いした。",
+      "古手神社の石段を通り過ぎ、途中で舗装された道路が途切れて、砂利だらけの狭い山道へと入っていく。",
+      "向かう先はダム工事現場跡の、ゴミ山でもない。",
+      "土地勘がまだあやふやな俺には全く馴染みのない区画だった。"
+    ],
+    "textEn": [
+      "The car made a rough u-turn on the gravel road, and it chased after Chie-sensei's car at full speed.",
+      "...As they tailed the shadow of the disappearing car, I could only pray for this series of misfortune to end on a quiet note.",
+      "Chie-sensei's car soon came into view.",
+      "...It was travelling at a very fast pace, but thankfully, she was the sort of person who didn't drive above the speed limit.",
+      "We passed the stone steps of the Furude Shrine and left the paved road partway, into a coarse mountain trail.",
+      "Where we were headed... wasn't even to the dam construction site, where the mountains of trash lay.",
+      "We were headed to an unknown location which I wasn't aware of, as I was still unfamiliar with the area."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「この道って、どこに続いています？」"
+    ],
+    "textEn": [
+      "\"Where is this pathway headed to?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Gangster",
+    "labelJp": "組員",
+    "textJp": [
+      "「山のほうっすね。",
+      "このまま行くと、谷をまたいだ隣の町へのルートになるっす」"
+    ],
+    "textEn": [
+      "\"Most likely into the mountains.",
+      "If we carry on like this, we'll reach a route that leads to a neighborhood across the valley.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "すると、運転するその人の言葉を裏付けるように木々の生い茂る視界が片方だけ開けて、少し離れた先に山と、その間の谷が見えてくる。",
+      "眼下には沢が見え、それをまたぐようにかけられた吊り橋が目に入った。",
+      "彼の話によると、その近くには確かに万一の事故の連絡用として無人の事務所小屋が設置されているという。",
+      "知恵先生の慌てようから考えて、まさかレナ、…来なければそこから飛び降りる、とでも言って呼び出したのか？",
+      "だとしたらいったい、何のために？！",
+      "…………。",
+      "…………。",
+      "そうだ。",
+      "いったい、何のために、知恵先生を、『吊り橋まで』呼び出したんだ…？",
+      "ふとわいた疑問がじわじわと胸に広がって、…やがて、大きな不安となっていく。",
+      "そもそも、…レナと知恵先生にどんな接点があるというのか。",
+      "二人の仲が悪いという意味じゃない。レナはいい生徒だから、先生との関係も良好だった。",
+      "しかしだからといって、知恵先生をわざわざ呼び出してまで相談するような親密さと信頼関係があったとも思えない。",
+      "それに、…どうして吊り橋なんだ？",
+      "『来なければ飛び降りる』という脅しのつもりなら、途中にあった古手神社の高台であったとしても十分だ。",
+      "別にこんな、遠くにまで呼び出さなくても…。",
+      "…………。"
+    ],
+    "textEn": [
+      "And as if it nodded in agreement with the driver's words, the vegetation around us opened up on one side, and we saw mountains in the distance and a valley between them.",
+      "I saw a stream up ahead and a suspension bridge straddling it.",
+      "According to him, there was certainly an unmanned office cabin in the vicinity set up for emergency purposes.",
+      "Judging by Chie-sensei's panic, had Rena threatened to jump off from there or something, if she didn't come?",
+      "If so, then why exactly?!",
+      ".........",
+      ".........",
+      "That's right.",
+      "Just why had she called Chie-sensei out to the suspension bridge...?",
+      "The sudden question triggered a throbbing anxiety, which spread across my chest.",
+      "...First of all, what did Rena even have to do with Chie-sensei?",
+      "I mean, it's not like they were on bad terms. Rena was a good student, so she had a good relationship with her teacher.",
+      "But it's not like she had a trusting relationship with her, enough to call her and consult her on such affairs.",
+      "And also... why the suspension bridge?",
+      "If it was a threat to \"jump off if she didn't come\", the shrine had a good enough elevation for that.",
+      "She didn't have to call her all the way out here...",
+      "........."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「——っ、しまった！！」"
+    ],
+    "textEn": [
+      "\"―ugh, fuck!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "俺はようやく、レナの『意図』を悟って愕然となった。"
+    ],
+    "textEn": [
+      "I was astonished, finally having understood Rena's intentions."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「運転手さん、知恵先生の車を停めてくれ！」"
+    ],
+    "textEn": [
+      "\"Driver, please stop Chie-sensei's car!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Gangster",
+    "labelJp": "組員",
+    "textJp": [
+      "「え、えっ？」"
+    ],
+    "textEn": [
+      "\"Eh, ehh?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「早くっ！！」"
+    ],
+    "textEn": [
+      "\"Hurry!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………。",
+      "俺たちが派手に鳴らしたクラクションとぶつけようとせんばかりの接近で、知恵先生はようやく車を停め、憤然とした様子で降りてくる。",
+      "そして、そのすぐ後ろに止まった車の助手席に俺の姿を認めて怒鳴りつけようとしたが、俺はその言葉を遮って『大変だ！』と叫んだ。"
+    ],
+    "textEn": [
+      ".........",
+      "As we noisily rang the car horn, Chie-sensei's car came to a halt, almost close enough to hit us, and she got down looking stunned.",
+      "And after recognizing me in the passenger seat of the car behind hers, she tried to yell out, but I beat her to it and cried \"We're in big trouble!\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「な、なに？」"
+    ],
+    "textEn": [
+      "\"W-What?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「先生、俺たちレナに騙されたんだ！",
+      "レナはここにはいないっ！！」"
+    ],
+    "textEn": [
+      "\"Sensei, we've been duped by Rena!",
+      "Rena isn't here!\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「え、えっ？」"
+    ],
+    "textEn": [
+      "\"H-Huh?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "先生は俺の言っている意味がわからず、戸惑いの表情を浮かべる。",
+      "しかし、説明している時間もなく俺はそばにあった電話ボックスに駆け寄ると、１０円玉を放り込んでうろ覚えの職員室への電話番号をダイヤルしていった。",
+      "…………。",
+      "……。",
+      "頼む、誰か出てくれ！",
+      "魅音、沙都子、梨花ちゃん、…そのほかの誰かでも、構わない！",
+      "早くこのことを、学校にいる連中に伝えなくては！",
+      "だから、早く！",
+      "早くこの電話に気付いてくれッッ！！",
+      "…………。",
+      "……。",
+      "そして、おそらく１０回以上のコールが鳴り響いて諦めかけたその時。",
+      "電話が、つながった。"
+    ],
+    "textEn": [
+      "The teacher didn't understand what I was talking about and donned a confused expression.",
+      "But, there wasn't even any time to explain it to her, so I flew towards the phone booth near us, put a 10 yen coin in the slot and dialed the phone number to the staffroom which I vaguely recalled.",
+      ".........",
+      "......",
+      "Please, somebody answer!",
+      "Mion, Satoko, Rika-chan, ...I don't care if it's somebody else either!",
+      "I had to tell this to the people at school fast!",
+      "So, hurry!",
+      "Hurry up and pick up the phone!",
+      "............",
+      "......",
+      "And then, after the phone had rang around 10 times and I had almost given up...",
+      "The call went through."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…も、もしもし？」"
+    ],
+    "textEn": [
+      "\"...H-Hello?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「……」"
+    ],
+    "textEn": [
+      "\"......\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「すみません、俺前原です！",
+      "すぐに園崎魅音に繋いでください！」"
+    ],
+    "textEn": [
+      "\"Excuse me, this is Maebara!",
+      "Please put Mion Sonozaki on the line right away!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「……」"
+    ],
+    "textEn": [
+      "\"......\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「もしもし？",
+      "聞こえてるのか、もしもしっ！！」"
+    ],
+    "textEn": [
+      "\"Hello?",
+      "Can you hear me, hello?!?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "古い電話で回線が遠いのか、受話器先からは何も聞こえない。",
+      "そして、さらに声を張り上げて呼びかけようとしたその時。"
+    ],
+    "textEn": [
+      "I didn't know if it was because I was using an old phone, or because the line was too far away, but I couldn't hear anything from the receiver.",
+      "And then, when I was about to raise my voice and yell into the phone..."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "???",
+    "labelJp": "？？？",
+    "textJp": [
+      "「……。",
+      "なに、圭一くん。",
+      "魅ぃちゃんになにか、用かな？　…かな？」"
+    ],
+    "textEn": [
+      "\".........",
+      "What is it, Keiichi-kun?",
+      "I wonder what you want with Mii-chan... I wonder...?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「——っ！！」"
+    ],
+    "textEn": [
+      "\"—!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……俺の読みは、当たっていた。",
+      "最悪のかたちで。"
+    ],
+    "textEn": [
+      "......My prediction was on the mark.",
+      "It was even worse than I had imagined."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……れ、レナ。",
+      "そこに、いるんだな…？」"
+    ],
+    "textEn": [
+      "\"......Re-Rena.",
+      "You're over there now, aren't you...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「うん。",
+      "いるよ。",
+      "魅ぃちゃんたちも一緒にね。",
+      "あはははははは」"
+    ],
+    "textEn": [
+      "\"Yup.",
+      "I'm here.",
+      "With Mii-chan and the others.",
+      "Ahahahahaha!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…っ！！」"
+    ],
+    "textEn": [
+      "\"...!!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんがいないのが残念だよ。",
+      "一人じゃなかなかやりづらくって。",
+      "うるさく騒いだり泣いたりして頭に来たから、何度か殴っちゃった。",
+      "あははははははははは」"
+    ],
+    "textEn": [
+      "\"It's a shame you aren't here, Keiichi-kun.",
+      "It's pretty hard to do this by myself.",
+      "They made a lot of noise screaming and crying and it really got to my head, so I ended up hitting them a few times.",
+      "Ahahahahahaha!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「な、なんてことを…！",
+      "お、おいレナっ！",
+      "いいか、ここには知恵先生もいる！",
+      "だから、落ち着いて俺の話を…」"
+    ],
+    "textEn": [
+      "\"W-What the hell have you done...!",
+      "H-Hey Rena!",
+      "Listen, Chie-sensei is here with me too!",
+      "So calm down and listen to what I...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…ああ、圭一くんはそっちに行っちゃったのかぁ。",
+      "だったら、お話はこっちで聞くね。",
+      "早く来てね、待ってるから」"
+    ],
+    "textEn": [
+      "\"Ah, so you ended up going there, huh?",
+      "Then I'll listen to what you have to say here, okay?",
+      "Come quick, I'll be waiting for you.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お、おいレナっ！！",
+      "待て、切るなっ——！」"
+    ],
+    "textEn": [
+      "\"W-Wait, Rena!!",
+      "Stop, don't hang up—!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その、言葉もむなしく。",
+      "受話器の向こうのレナは、あっさりと通話を切ってしまった…。"
+    ],
+    "textEn": [
+      "Those words fell on dead ears.",
+      "Rena who was on the other side swiftly ended the conversation like it was nothing."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "「興宮ＰＳより全車へ。",
+      "興宮ＰＳより全車へ。",
+      "雛見沢営林署にて篭城事件発生。",
+      "人質多数。"
+    ],
+    "textEn": [
+      "\"Okinomiya PS to all vehicles.",
+      "Okinomiya PS to all vehicles.",
+      "A hostage situation has broken out at the Hinamizawa forestry service building.",
+      "There are reportedly multiple hostages."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Okinomiya PS",
+    "labelJp": "興宮ＰＳ",
+    "textJp": [
+      "全車は至急、雛見沢営林署へ向かわれたし。」"
+    ],
+    "textEn": [
+      "All vehicles are to head to the forestry service building immediately.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「熊ちゃん！！",
+      "遅れて申し訳ない！",
+      "状況は？！」"
+    ],
+    "textEn": [
+      "\"Kuma-chan!!",
+      "Sorry I'm late!",
+      "What's going on?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「ご苦労さまっす！",
+      "本日午後１時頃、雛見沢営林署内の雛見沢分校区画にて教室占拠が発生しました。"
+    ],
+    "textEn": [
+      "\"Hello, sir!",
+      "Today around one PM, the Hinamizawa branch school's classroom was taken over."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "犯人側の第一要求は、営林署敷地内への一切の立ち入りの禁止と、当方へのホットラインの確保です。」"
+    ],
+    "textEn": [
+      "The suspect's initial demands were to prohibit all entry to the branch school's property and to secure a hotline to us.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……ってことは、初めっから警察と交渉する気ってことですか。",
+      "…どういうつもりだ…。」"
+    ],
+    "textEn": [
+      "\"...So they're willing to negotiate with us from the start?",
+      "What's going on?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「…………あと、犯人は交渉人に大石さんを指名してます。",
+      "犯人は、竜宮礼奈。」"
+    ],
+    "textEn": [
+      "\"Also, the suspect is asking for you, Ooishi-san.",
+      "It's Reina Ryuugu.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「竜宮さんが…？！"
+    ],
+    "textEn": [
+      "\"Ryuugu-san?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "……………わかりました。",
+      "いいですよぅ、こうなりゃ腐れ縁です。",
+      "とことんお付き合いさせてもらいましょ。」"
+    ],
+    "textEn": [
+      "............Very well.",
+      "We seem to be inseparable, huh?",
+      "I'll be dealing with her until the end.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は苦々しく笑うのだった。"
+    ],
+    "textEn": [
+      "Ooishi gave a crooked smile."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「竜宮礼奈以外に犯人がいるかは不明です。",
+      "カーテンが閉められているので、状況も一切確認できていません。」"
+    ],
+    "textEn": [
+      "\"We don't know if she has any accomplices.",
+      "The curtains are closed, so we can't confirm the situation.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「通報者に占拠時の様子は聞いてませんか。」"
+    ],
+    "textEn": [
+      "\"Have you asked whoever told us about this?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「いえ、竜宮礼奈からの直接の犯行声明でした。",
+      "よって内部の状況は一切不明。"
+    ],
+    "textEn": [
+      "\"No, Reina Ryuugu declared it herself.",
+      "Therefore, we don't know what's going on inside."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "担任と生徒の一名は犯行直前に、竜宮礼奈の電話呼び出しを受け、遠方に呼び出された間の犯行でした」"
+    ],
+    "textEn": [
+      "Right before the crime, the teacher in-charge and one of the students had received a phone call from Reina Ryuugu, and the crime took place while they were away.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…計画的ですねぇ。",
+      "営林署側の人間は人質には？」"
+    ],
+    "textEn": [
+      "\"This has been well planned, huh?",
+      "Has anyone from the forestry service been taken hostage?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「今日は営林署職員は不在でした。",
+      "よって、生徒２４名のみ。",
+      "生徒数は担任が出席簿で確認した人数です。」"
+    ],
+    "textEn": [
+      "\"Nobody from the service was there today.",
+      "All twenty-four hostages are students.",
+      "That number matches with the attendance the teacher took this morning.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「それプラス犯人ってわけか。",
+      "竜宮礼奈以外に犯人らしき人影は？」"
+    ],
+    "textEn": [
+      "\"Plus the suspect, right?",
+      "Have you seen anyone else suspicious other than Reina Ryuugu?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「いえ、何度かカーテンから覗く人影がありましたが、いずれも竜宮礼奈本人でした。",
+      "……ですが規模他を考えて、おそらく最低でも、もう１〜２人はいると予想されます。」"
+    ],
+    "textEn": [
+      "\"No. We've seen someone peeking out from behind the curtain, but it was the suspect herself.",
+      "We're guessing there must be at least one or two more of them, though.\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「……レナちゃんはとても真面目ないい子なんです…！",
+      "こんなことをするなんて…何かの間違いに決まっています…！",
+      "うううぅぅぅぅ！」"
+    ],
+    "textEn": [
+      "\"Rena-chan is a good girl...!",
+      "For her to do something like this, there must be some mistake...!",
+      "Oooh!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「だ、大丈夫ですか…。」"
+    ],
+    "textEn": [
+      "\"Are you okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ハンカチを目に当てながら泣き崩れる知恵先生に大石が駆け寄る…。",
+      "知恵先生はすっかりしゃがみ込んでしまって、それ以上の話はできそうになかった。"
+    ],
+    "textEn": [
+      "Ooishi ran up to Chie-sensei, who was crying with a handkerchief held up to her face.",
+      "Chie-sensei was huddled over, and Ooishi didn't think he could say anything else to her."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Principal",
+    "labelJp": "校長",
+    "textJp": [
+      "「大石殿、よろしくお頼みしますぞ。",
+      "……もしできるなら、人質の交換を申し出たい。",
+      "ぜひ私と子どもたちを交換していただきたい！」"
+    ],
+    "textEn": [
+      "\"Mr. Ooishi, please...",
+      "If possible, I would like to request to be a hostage myself.",
+      "I will take the place of the children.\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「校長先生、それは私がやります！！",
+      "私が悪いんです、ああああぁぁあぁぁぁぁ…！！」"
+    ],
+    "textEn": [
+      "\"Let me do that instead!!",
+      "It's all my fault, ahhhhhhhhhhh!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「先生方、どうかご自分を責められないでください。",
+      "…先生方には校内の状況についていろいろとお聞きしたいことがありますので、ご協力をお願いいたします。"
+    ],
+    "textEn": [
+      "\"Please, don't blame yourselves.",
+      "I have things I want to ask you, so I'd appreciate it if you cooperated."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "盆地くん！",
+      "図面の方で話を聞いてあげてください。」"
+    ],
+    "textEn": [
+      "Bonchi-kun!",
+      "Please show them the blueprints.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「失礼します！",
+      "１号車の無線に高杉課長です！」"
+    ],
+    "textEn": [
+      "\"Excuse me, sir!",
+      "Section Chief Takasugi is on the radio!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「はいはいもしもし、……大石です。」"
+    ],
+    "textEn": [
+      "\"Hello, this is Ooishi.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「大石さん、ご苦労さん！",
+      "状況の大体は熊谷くんに聞いたよ。",
+      "犯人は未成年だそうだね？",
+      "マスコミ規制の方を厳重に頼むよ！」"
+    ],
+    "textEn": [
+      "\"Ooishi-san, how goes things?",
+      "Kumagai-kun informed me of the situation.",
+      "The suspect is underage, huh?",
+      "Please keep strict control of the press!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「わかってます。",
+      "……あと、犯人側が私を交渉人に指定してきてるようですが、問題ありませんかね。」"
+    ],
+    "textEn": [
+      "\"I understand.",
+      "Also, the suspect is requesting me as a negotiator. Is that okay with you?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Takasugi",
+    "labelJp": "高杉",
+    "textJp": [
+      "「とりあえず、犯人の要求ならいたしかたが無い。",
+      "…頼んだよ」"
+    ],
+    "textEn": [
+      "\"For now, if that's the suspect's demand, we have no choice.",
+      "...It's up to you.\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「大石さん……！",
+      "車載電話に、………犯人です、竜宮礼奈です……！」"
+    ],
+    "textEn": [
+      "\"Ooishi-san...!",
+      "Reina Ryuugu's on the car phone!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…さっそくご指名の電話が来ました。",
+      "さっそく出ることにします。"
+    ],
+    "textEn": [
+      "\"That was faster than expected.",
+      "I'll go get it."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "………………ありがとう。",
+      "……………ハイもしもし、大石です。」"
+    ],
+    "textEn": [
+      ".........Thank you.",
+      "......Hello, this is Ooishi.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「くっ…！！」"
+    ],
+    "textEn": [
+      "\"Ugh...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ぎりっ、と怒りと悔しさで歯を食いしばり、こぶしを握り締める。",
+      "おびただしい数の警官たちの壁に阻まれて、警察や先生たちの様子を遠巻きに見守ることしかできない自分が情けなかった。",
+      "知恵先生が呼び出された、電話の意味。",
+      "…レナが教室を占拠する上で、一番邪魔な存在が知恵先生だったのだ。",
+      "正義感の強い人だもんな。",
+      "たとえレナが拳銃を持っていたって、知恵先生は怯まないだろう。",
+      "生徒のためなら体を張れる、…そんな先生をいかに摘出するかが、教室占拠の最初の鍵だったんだ。",
+      "背後から襲い掛かるという手も、もちろん一番最初に考えただろうが、",
+      "やはり大人を敵に回すリスクを考えた結果、直接襲うのは適当ではないと考えたに違いない。",
+      "…なら、どこかへ誘き出してしまえばいいんだ…！",
+      "レナは知恵先生に電話をかけ、誰にも内緒で相談したいことがある…と言って、あの吊り橋にまで呼び寄せたに違いない。",
+      "先生も含め、ほとんどの人たちはレナが家出しただけだとしか思っていない。",
+      "…だから知恵先生は、レナに何か悩み事があって、それを打ち明けたがっているのだろう、そう解釈するに違いない。",
+      "……騙すのはあまりに簡単だ。",
+      "じゃあ…レナは、電話をどこから…？",
+      "そう、学校の中からだ。",
+      "いや、厳密には違う。",
+      "多分、学校の２階、……営林署の事務室からだ。",
+      "この学校の入っている営林署は出張所みたいなもので、いつも職員が常駐しているわけではない。",
+      "日によってはいないこともある。",
+      "レナはそれを知っていて、ずっと２階に隠れていたのだ。",
+      "そして、２階から１階に電話して、……知恵先生を遠方に遠ざけたのだ。",
+      "今日が校長の出張の日だというのも偶然ではないだろう。",
+      "……多分、レナはこの学校に昨日から忍び込んでいた。",
+      "それで、校長の日程も内線電話のことも全て把握した上で実行に及んでいるのだ。",
+      "……なんて狡猾な……。",
+      "……いや、…わかる。",
+      "…今レナは、殺意に心を奪われながらも、…実はひどく冷静なのだ。",
+      "…自分が取り憑かれている妄想に対して、信じられないくらい冷静なのだ。",
+      "…だから、…信じられないくらいに頭が回る。",
+      "…それは自分にも身に覚えがあったからよくわかった。",
+      "あと、…さらについてないのは、魅音の護衛のために校門前にいた園崎家のボディーガードまでもいなくなってしまってることだ。",
+      "……知恵先生がレナに会いに行くと思って、魅音が尾行するように言ってしまったから。",
+      "……畜生、……何から何まで……、……やってくれるぜ………。"
+    ],
+    "textEn": [
+      "I clenched my teeth in frustration and rolled up my fists into a ball.",
+      "An overwhelming wall of police officers blocked my way, and I felt pathetic for only being able to watch the teachers and the detectives from afar.",
+      "The reason behind why Chie-sensei had been phoned and summoned out of the school.",
+      "...For Rena who wanted to hijack to classroom, the biggest obstacle was Chie-sensei.",
+      "She was someone who had a strong sense of justice.",
+      "Even if Rena had held a pistol to her, Chie-sensei probably wouldn't have hesitated.",
+      "For the welfare of her students, she would put herself in danger... getting rid of someone like her was the primary step in order to hijack the classroom.",
+      "Attacking her from behind would have been her very first line of thought but,",
+      "I'm sure she decided taking on an adult directly was a risky affair.",
+      "...In that case, it was better to lure her away to someplace..!",
+      "Rena had then phoned Chie-sensei, and then told her she wished to seek her advice in someplace private... and asked to meet her near that suspension bridge.",
+      "Including Chie-sensei, a good majority of the people thought that Rena had merely run away from home.",
+      "...So Chie-sensei probably thought Rena merely had some troubles she wished to discuss.",
+      "......Fooling her was that easy.",
+      "So... where did Rena make the call from...?",
+      "Yes, it was from within the school.",
+      "Well, not exactly.",
+      "It was most likely from the first floor of the school building, .......from the office room of the Forestry Service.",
+      "The Forestry Service at our school was more like a branch office, so it wasn't like the staff were always present.",
+      "Depending on the day, they might not even be there.",
+      "Rena had known this, and had been hiding on the first floor all this time.",
+      "And then, she had made a call to the ground floor from up there, ......and sent Chie-sensei to a faraway place.",
+      "It probably wasn't a coincidence that the principal had also been away on a business trip today.",
+      "......Rena had most likely snuck into the school yesterday itself.",
+      "And then, she had discerned the principal's itinerary and the workings of the internal phone line before she put her plan into action.",
+      "......How cunning it all was......",
+      "......No, I understood.",
+      "...Right now, even as she was possessed by a murderous rage, ...Rena was keeping her composure.",
+      "...She was unbelievably calm despite being plagued by her delusion that controlled her.",
+      "...And so, just thinking about it made my head spin.",
+      "...Because I had even personally experienced what she was going through before.",
+      "Also, what was even more unlucky was the absence of the Sonozaki Family bodyguard who had been standing by the gate.",
+      "......It was because Mion had sent him to follow Chie-sensei who had set out to meet Rena.",
+      ".........Fuck, everything was so screwed up... on so many levels........."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……今ですね、県警の暴対と公安部で一斉捜査作戦を準備中なんです。"
+    ],
+    "textEn": [
+      "\"We're trying to come up with a plan for the simultaneous raids as we speak. We're talking to the prefectural police as well as the Public Safety Division."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "何しろ、市内全域を一斉にやりますからねぇ、調整に多少の時間が、」"
+    ],
+    "textEn": [
+      "We're talking about the entire city, so we need a little more time to prepare for it...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「遅すぎるッ！！！",
+      "大石さん、私たちは今、鹿骨市が置かれている緊急的危機について、よく理解し合っているんじゃなかったでしたっけ？！",
+      "何をのんびりとしたことを！！",
+      "……大石さん、本当に私の話を信じてくれているんですよね？！",
+      "私の味方なんですよね？！"
+    ],
+    "textEn": [
+      "\"You're taking too long!!!",
+      "Ooishi-san, don't you realize what kind of emergency situation Shishibone City is in right now?",
+      "What are you doing?",
+      "Ooishi-san...... you do believe me, don't you?",
+      "You're my ally, right?"
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "味方ですよねッ？！",
+      "答えてください！！！」"
+    ],
+    "textEn": [
+      "Right?",
+      "Please answer me!!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「も、もちろんですとも…！",
+      "ですが警察組織ってやつは簡単じゃないんです。",
+      "私も最大限、努力をしてるんですよ、えぇ本当です！",
+      "……ただですね、",
+      "やはり話の規模があまりに大き過ぎるもので、」"
+    ],
+    "textEn": [
+      "\"O-Of course, I am!",
+      "But the police department is a little more complicated than you think...",
+      "I'm doing my best, I really am!",
+      "The thing is",
+      "this is on a really big scale...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…交渉はお世辞にも、順調とはいえなかった。",
+      "話している間にも竜宮レナの焦燥と、今にも爆発しそうな緊張がびりびりと伝わってくる。"
+    ],
+    "textEn": [
+      "...The negotiations weren't that satisfactory, to be honest.",
+      "Even as they spoke, it was clear from the overwhelming tension that Rena's patience was wearing thinner and thinner."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…じゃあ、圭一くんを呼んで」"
+    ],
+    "textEn": [
+      "\"...Okay, call Keiichi-kun over here\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「は？",
+      "いま、何とおっしゃいました？」"
+    ],
+    "textEn": [
+      "\"What?",
+      "Could you say that again?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「そっちにいるんでしょう、圭一くん？",
+      "彼と話をするから、早く呼び出して！」"
+    ],
+    "textEn": [
+      "\"Isn't Keiichi-kun there right now?",
+      "I'd like to talk to him now so please call him over immediately!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「…わ、わかりました」"
+    ],
+    "textEn": [
+      "\"...I-I understand.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大石は部下の刑事に、バリケードで足止めした人だかりの最前列にいる少年を呼んでくるように命令する。",
+      "ほどなく彼は小走りで車のそばにやってきた。"
+    ],
+    "textEn": [
+      "Ooishi asked one of his subordinates to summon the boy who stood in the front line of the crowd gathered at the barricade.",
+      "He immediately jogged over to the car as soon as he was called."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「前原圭一さんですね？」"
+    ],
+    "textEn": [
+      "\"You must be Keiichi Maebara, I assume?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「は、はい…」"
+    ],
+    "textEn": [
+      "\"Y-Yes...\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「竜宮レナさんが、あなたと話がしたいそうです。",
+      "通話、代わってもらえますか？」"
+    ],
+    "textEn": [
+      "\"Miss Rena Ryuugu would like to have a word with you.",
+      "Could you please take the call?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…わかりました」"
+    ],
+    "textEn": [
+      "\"...I understand\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そして大石は受話器を圭一に渡し、外の様子に目を向けて何かに気付いたのか、車を出て行った。"
+    ],
+    "textEn": [
+      "Ooishi then handed over the receiver to Keiichi and he noticed something happening outside and left the car."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…もしもし」"
+    ],
+    "textEn": [
+      "\"...Hello?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あ、圭一くん…？",
+      "よかった、戻ってきてくれたんだね」"
+    ],
+    "textEn": [
+      "\"Ah, Keiichi-kun...?",
+      "It's good that you came back here.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「レナ…」"
+    ],
+    "textEn": [
+      "\"Rena...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「警察がね、レナの言うことを信じてくれないの。",
+      "レナの言ってることが本当で、…レナがやろうとしてることが本気だって圭一くんからも言ってくれないかな。…かな？」"
+    ],
+    "textEn": [
+      "\"The police isn't believing what I'm telling them.",
+      "Could you please tell them that the things I'm saying are true, and that I'm very serious about what I'm about to do... could you?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……。",
+      "やろうとしてることって、なんだよ…？」"
+    ],
+    "textEn": [
+      "\".........",
+      "What do you mean by... 'what I'm about to do'...?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「今、この教室にね、ガソリンをまいたの。",
+      "だから、レナが持ってるライターでちょっと火をつければ、ここにいる人質はみんな死んじゃう。",
+      "…それを、大石さんに教えてくれないかな」"
+    ],
+    "textEn": [
+      "\"I've just finished pouring gasoline all over this classroom.",
+      "So, if I just ignite the lighter I have on hand, all the hostages here will die.",
+      "...Could you please let Ooishi-san know about that?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「なっ？！」"
+    ],
+    "textEn": [
+      "\"Wha-?!\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「な、何ですかあんたたちは…！」"
+    ],
+    "textEn": [
+      "\"Wh-Who are you people?!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「退きたまえ。",
+      "ここの責任者は誰だね。」"
+    ],
+    "textEn": [
+      "\"Move over.",
+      "Who's in charge here?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何台かの車が次々に載りつけ、興宮署の刑事でない男たちが何人も現れた。",
+      "この暑いのにスーツをきっちり着こなした細身の男が、制止しようとする熊谷を払いのけて、大石のところへやって来た。"
+    ],
+    "textEn": [
+      "Several cars had arrived, producing several men. They weren't from the Okinomiya station.",
+      "One of the men was wearing a suit, despite the hot weather. He approached me, pushing Kumagai aside."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……おや、これはこれは。",
+      "お久しぶりですねぇ、県警本部の大高くんじゃありませんか。」"
+    ],
+    "textEn": [
+      "\"...Hey, look who's here.",
+      "Good to see you again, Ootaka-kun from the prefectural headquarters.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「言葉を慎みたまえ。",
+      "もう、君にくんと呼ばれる階級ではない。」"
+    ],
+    "textEn": [
+      "\"Watch your mouth.",
+      "I'm ranked much higher than you now, so don't address me so casually.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「何か御用ですかね大高“くん”。",
+      "今、非常に立て込んでいます。",
+      "まさか県警がこの現場を乗っ取るおつもりで？",
+      "誰の了解で！」"
+    ],
+    "textEn": [
+      "\"Can I help you with something, Ootaka-<i>kun</i>?",
+      "I'm rather busy at the moment.",
+      "You can't possibly be thinking about taking over this case?",
+      "Who approved that, exactly?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief of Police",
+    "labelJp": "署長",
+    "textJp": [
+      "「私が許可した、大石くん！」"
+    ],
+    "textEn": [
+      "\"I did, Ooishi-kun!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「しょ、署長！」"
+    ],
+    "textEn": [
+      "\"Ch-Chief...?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief of Police",
+    "labelJp": "署長",
+    "textJp": [
+      "「高杉くんから事情は聞いている。",
+      "君が蒔いたタネだという話も聞いているぞ。",
+      "君はもう下がってあとは機動隊に任せるんだ！」"
+    ],
+    "textEn": [
+      "\"Takasugi-kun has informed me of the situation.",
+      "He also told me that you started all this.",
+      "You can go now. The troops will take over!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「機動隊って、……大高くん、あんたまさか急襲する気ですか！」"
+    ],
+    "textEn": [
+      "\"The troops? ...Ootaka-kun, you aren't going to storm the building, are you?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「危険は重々承知だ。",
+      "だがもう爆発まで時間がない。",
+      "君が時間を浪費し過ぎたのだ。",
+      "その尻拭いを我々がしようと言うんだ。",
+      "君らは引き継いで後方に下がりたまえ。」"
+    ],
+    "textEn": [
+      "\"I understand the risk.",
+      "But we don't have any time left before the bomb goes off.",
+      "You've taken too long.",
+      "We're here to take care of the mess you left behind.",
+      "Just step back for a minute.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "署長と県警本部の人間に凄まれては、立場上、大石は譲らざるを得ない。"
+    ],
+    "textEn": [
+      "I couldn't talk back if both the chief and a guy from the prefectural headquarters gave me an order."
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「お、…大石さん、何者っすかあいつは…！」"
+    ],
+    "textEn": [
+      "\"O...Ooishi-san, who the heck is he?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「大高くん？",
+      "んっふっふ、昔、麻雀がクソ弱いくせに粋がってたから、ちょいと叩き潰してやったことがありましてねー。"
+    ],
+    "textEn": [
+      "\"That's Ootaka-kun.",
+      "Nfu fu, a long time ago, he was showing off even though he was bad at mahjong, so I taught him a lesson."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "それともあれかな、剣道大会で偉そうにしてやがったから、面食らわして失神させたのを根に持ってるのかなぁ。」"
+    ],
+    "textEn": [
+      "Or maybe he's still holding a grudge from when I knocked him unconscious in that kendo tournament.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それ以上を聞かなくても、二人が犬猿の仲であることは容易に想像できた。"
+    ],
+    "textEn": [
+      "Obviously, we didn't get along."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「大石くん、現在の最新の状況を説明したまえ。」"
+    ],
+    "textEn": [
+      "\"Give me the latest update, Ooishi-kun.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「あんた、本気で突入する気で？」"
+    ],
+    "textEn": [
+      "\"Are you serious about storming the school?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「突入は府警の専門部隊が担当する。",
+      "君はバックアップに回りたまえ」"
+    ],
+    "textEn": [
+      "\"A special unit from the prefectural police department will handle the infiltration.",
+      "Your unit will be their backup.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「……署長」"
+    ],
+    "textEn": [
+      "\"...Chief.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Chief of Police",
+    "labelJp": "署長",
+    "textJp": [
+      "「大石くん。",
+      "府警の専門部隊はただの機動隊じゃないぞ。",
+      "第２機動隊と言えば、君ほどの男なら噂くらい聞いているだろう？」"
+    ],
+    "textEn": [
+      "\"Ooishi-kun,",
+      "the special unit from the prefectural police department isn't just any old unit.",
+      "You've heard about the Second Company, haven't you?\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「………なんすか大石さん。",
+      "第２機動隊って有名なんですか…？」"
+    ],
+    "textEn": [
+      "\"What's that, Ooishi-san?",
+      "Is this \"Second Company\" that well known?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「５年くらい前だっけ、",
+      "…日本赤軍のダッカ事件があったでしょ。",
+      "あれを切っ掛けに、東京と大阪にハイジャック専門の特殊部隊が組織されたって噂は聞いてましたがね。"
+    ],
+    "textEn": [
+      "\"Do you remember, about five years ago,",
+      "when the JRA hijacked that airplane? Flight 472?",
+      "I've heard that special counter-terrorist units were put together in Tokyo and Osaka after that incident."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "………実在してましたか…。」"
+    ],
+    "textEn": [
+      "So they really do exist...\""
+    ]
+  },
+  {
+    "color": "#8f6d8f",
+    "labelEn": "Kumagai",
+    "labelJp": "熊谷",
+    "textJp": [
+      "「で、でも、何だって府警の機動隊がこんなところに…。」"
+    ],
+    "textEn": [
+      "\"B-But why would a special unit from Osaka be here?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "大高が得意げにニヤリと笑った。"
+    ],
+    "textEn": [
+      "Ootaka smiled proudly."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「たまたま県警機動隊との交流訓練があってね。",
+      "特別に応援を要請したのだよ。」"
+    ],
+    "textEn": [
+      "\"We just happened to be holding a training session with your prefectural police unit.",
+      "We requested their help.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「なっはっは、……相変わらずですねぇ。"
+    ],
+    "textEn": [
+      "\"Na ha ha... you haven't changed, have you?"
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "…話をすぐ派手にしたがる、その癖は。」"
+    ],
+    "textEn": [
+      "...You have a bad tendency to escalate matters quickly.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "とても日本的とは思えない武装をした黒装束の機動隊員たちが次々と降車しては、予め決められたらしい位置に散っていく。",
+      "その動きはとても警察的とは思えなかった。"
+    ],
+    "textEn": [
+      "The Company members exited the vehicles one after another and took position.",
+      "They didn't move like policemen..."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「大高くん！",
+      "あんた学校で銃撃戦をやる気かい！」"
+    ],
+    "textEn": [
+      "\"Ootaka-kun!",
+      "Are you really going to have a gunfight here?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「安心したまえ。",
+      "突入班が使うのは火器じゃない。",
+      "暴徒鎮圧用のガス銃だ。",
+      "高圧ガスで催涙ガスを噴出する。",
+      "何の問題もない。」"
+    ],
+    "textEn": [
+      "\"Don't worry.",
+      "They won't use firearms.",
+      "They're using riot shields and riot guns.",
+      "These guns send out tear gas at high pressures.",
+      "There will be no issue with explosions.\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「………へぇ〜、そりゃ便利な水鉄砲があったもんで。",
+      "ところで、その玩具は校庭を横断して教室まで届くほど便利なものなんで？」"
+    ],
+    "textEn": [
+      "\"......Wow, I've never heard of such convenient water guns.",
+      "By the way, can that toy reach the classroom from across the schoolyard?\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「それは君が心配することではない。",
+      "後は我々に任せて下がりたまえ。」"
+    ],
+    "textEn": [
+      "\"You don't need to worry about that.",
+      "You just move over and let us do our job.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そして、大高の指示のもと機動隊員たちは学校の窓から見える死角へと回り込んで、突入命令に備えて身構える。",
+      "",
+      "その物々しさと反論を許さぬ傲岸さに大石は鼻白みながら、レナと圭一がいま会話をしている最中であることを思い出して、車のほうへと足を向けた。",
+      "そこへ。"
+    ],
+    "textEn": [
+      "And then, following Ootaka's orders, the special forces took positions at a blind spot visible from the school window and prepared to infiltrate.",
+      "<size=-2>",
+      "Ooishi wrinkled his nose at Ootaka's arrogance and pretentious attitude that didn't give way for counterarguments. Remembering that Rena and Keiichi were having a conversation, he turned on his heel heading over to the patrol car.",
+      "And there..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「——た、大変だ刑事さんっ！！」"
+    ],
+    "textEn": [
+      "\"Detective, we have an emergency!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "突然車のドアが勢いよく開いて、大声を上げながら圭一が飛び出してくる。"
+    ],
+    "textEn": [
+      "At once, the door to the car swung open and Keiichi rushed over to him screaming."
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「どうしました、前原さん？」"
+    ],
+    "textEn": [
+      "\"What's the matter, Maebara-san?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「れ、レナが教室内に、が、ガソリンをまいたって…！！」"
+    ],
+    "textEn": [
+      "\"Re-Rena just told me she's poured gasoline all over the classroom...!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「んなっ？！」"
+    ],
+    "textEn": [
+      "\"Whaaa?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ガソリンだと…？！　そんな揮発性の危険物があるなんて話は聞いていないぞ！！　いや、そんなことよりも、だったら今は——！！"
+    ],
+    "textEn": [
+      "Gasoline...?! I didn't hear that there was something so inflammable in the vicinity!! No, it's not about that, right now—!!"
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「射撃用意、構え——」"
+    ],
+    "textEn": [
+      "\"Preparing to shoot, steady—\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「ま、待ってください！",
+      "やめろ、撃つなっ！！」"
+    ],
+    "textEn": [
+      "\"P-Please wait!",
+      "Stop, don't shoot!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Ootaka",
+    "labelJp": "大高",
+    "textJp": [
+      "「撃てっ！！」"
+    ],
+    "textEn": [
+      "\"Fire~!!\""
+    ]
+  },
+  {
+    "color": "#a59da9",
+    "labelEn": "Ooishi",
+    "labelJp": "大石",
+    "textJp": [
+      "「「うわぁぁっっ！！」」"
+    ],
+    "textEn": [
+      "\"Uwaaaahhhh!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…………。",
+      "……。",
+      "突然、身体が吹き飛ばされて地面に叩きつけられ、…一瞬、何が起こったのかわからなかった。"
+    ],
+    "textEn": [
+      "............",
+      "......",
+      "Our bodies were promptly blown away and hit the floor, we didn't understand what had happened for a moment."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……。",
+      "…っ…？」"
+    ],
+    "textEn": [
+      "\".........",
+      "...gh...?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "耳鳴りが頭に激しく響きわたり、くらくらとした眩暈(めまい)で意識が遠のきそうになる。",
+      "たち込める砂埃と焼け焦げた空気を感じて、喉と鼻の奥が…痛い。"
+    ],
+    "textEn": [
+      "A high pitched tinnitus violently reverberated within my skull, and an overwhelming dizziness distanced me from my consciousness.",
+      "My throat and nasal passage felt irritated from the suspended dust particles and smoldered air."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……っ」"
+    ],
+    "textEn": [
+      "\".....gh\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "口の中のじゃりじゃりとしたものを唾とともに吐き出しながら、俺は痛む身体を起こして立ち上がり、…顔を前に、向けた。"
+    ],
+    "textEn": [
+      "Spitting out the crunchy debris from my mouth, I dragged my beaten body up into a stance, and faced forward, looking ahead of me."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………。",
+      "…………。",
+      "……あ…………？」"
+    ],
+    "textEn": [
+      "\"............",
+      ".........",
+      "...Ah.........?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "グラウンドには、たくさんの警察官が転がって、呻いている。",
+      "…すぐそばで、苦悶の声。…目を向けると、さっきまで話していた刑事だった。"
+    ],
+    "textEn": [
+      "There were many police officers scattered about on the ground, groaning from the impact.",
+      "...A voice of agony filled the air next to me. ...As I faced it, it turned out to be the detective I'd been talking to just now."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「ぐ…っ…！！」"
+    ],
+    "textEn": [
+      "\"Ugh... ...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "顔も、服も、全身を泥と埃にまみれさせて、…頭からは血を流している。",
+      "それを気遣おうと膝を折りかけて、…俺は、レナや魅音たちの安否を思い出す。",
+      "そして、校舎の方向に目を向けて、",
+      "…俺は、",
+      "…自分の見ている光景が、",
+      "…信じられなかった。"
+    ],
+    "textEn": [
+      "His entire body was covered in dirt and debris, and he was bleeding from his head",
+      "As I began to sit down in concern for him, I suddenly remembered Mion and Rena's safety.",
+      "And then, I turned towards the direction of the school.",
+      "...I",
+      "...couldn't believe",
+      "...what I was seeing."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そこにあったのは木材と、石材と、それ以外の何かがいびつに入り混じった…まるで巨大な、崩れたばかりのキャンプファイアーの焚き木。",
+      "その中で燃え盛る炎は、夕焼けの空に突き上がるほど高く。",
+      "かなり離れたこの場所にいても、その熱気と焦臭ははっきりと伝わってきた。"
+    ],
+    "textEn": [
+      "What stood before me was a disordered conglomerate of wood, bricks and other distorted articles mixed in... crudely resembling an enormous camping bonfire.",
+      "The flames that had risen up in between that mass burned so high they seemed to reach up into the evening twilight.",
+      "Even from this faraway distance, I could perceive the heat and the scorching smell."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…違う。",
+      "違う、これは夢だ。",
+      "これは、俺たちの学校じゃ、ない。",
+      "俺はどこか、別の方向を見ているだけだ。",
+      "いや、ここがそもそも、学校じゃないんだ…。"
+    ],
+    "textEn": [
+      "...No.",
+      "No, this had to be a dream.",
+      "This couldn't be our school.",
+      "...",
+      "No, this wasn't even a school in the first place..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ふらふら、…と。",
+      "俺は、頼りない足取りで何度も躓きながら、それに向かって歩いていく。",
+      "そして、ふと目を向けた先の崩れて折り重なった木材の中に見知った顔を見つけ、はっ、と息をのんで駆け寄った。"
+    ],
+    "textEn": [
+      "I staggered over.",
+      "Fumbling forward with my useless legs, I walked over to that monstrosity.",
+      "And then before me, amidst the crumbled remains of timber, I discovered a face I recognized and drew a breath before I rushed over."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「——魅音っ…！」"
+    ],
+    "textEn": [
+      "\"Mion...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は目を見開いたまま、こちらに顔を向けて右腕を伸ばしている。",
+      "わずかに開いた口。…きっと、声が出ないんだろう。"
+    ],
+    "textEn": [
+      "Mion's eyes were wide open, facing my way, with her right arm raised.",
+      "Her mouth was slightly open... she probably couldn't speak."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「よかった…魅音っ…！」"
+    ],
+    "textEn": [
+      "\"Thank god... Mion...!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "とにかく、今は助け出すことが先だ！",
+      "そう思って俺は、その右腕をつかみ——。"
+    ],
+    "textEn": [
+      "I had to get her out here first!",
+      "Thinking that, I tightly grasped that right arm—."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…………」"
+    ],
+    "textEn": [
+      "\"............\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "手応えのない、軽い感触。",
+      "それは瓦礫の中から、",
+      "すぽりと『抜けた』。"
+    ],
+    "textEn": [
+      "It felt light, there was no resistance.",
+      "And then, from within the rubble,",
+      "'it' came out."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……あ…」"
+    ],
+    "textEn": [
+      "\"......Ah...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "そして、ごろり、と",
+      "小さな塊が、足元に転がる。",
+      "魅",
+      "音",
+      "の",
+      "首",
+      "か",
+      "ら",
+      "下",
+      "は",
+      "、",
+      "な",
+      "に",
+      "も",
+      "、",
+      "な",
+      "か",
+      "っ",
+      "た",
+      "。"
+    ],
+    "textEn": [
+      "And then, a small mass rolled over,",
+      "and touched my feet.",
+      "Mi",
+      "on's",
+      "head",
+      "had",
+      "co",
+      "me",
+      "a",
+      "part",
+      "",
+      "from",
+      "",
+      "her",
+      "",
+      "bo",
+      "dy",
+      ".",
+      ".",
+      "."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「う、うわぁぁぁああああぁぁぁぁぁっっっ！！",
+      "ああぁぁあああぁぁぁぁっっっ！！！！」"
+    ],
+    "textEn": [
+      "\"U-Uwaaaaaaaaaaaahhhhhhhhh!!",
+      "Aaaaahhhhhhhhh!!!!\""
+    ]
+  }
+]

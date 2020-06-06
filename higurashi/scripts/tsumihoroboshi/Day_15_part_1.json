@@ -1,0 +1,859 @@
+[
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "窓を開けても、入ってくるのはセミの声と熱風だけだった。"
+    ],
+    "textEn": [
+      "I opened the windows, but all they let in was heat and the cries of the cicadas."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………あぢぃなぁ……。」"
+    ],
+    "textEn": [
+      "\"...It's too hot...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……あぢぃねぇ……。」"
+    ],
+    "textEn": [
+      "\"...It really is...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "授業の合間の休み時間も、こう暑くてはとても休まったもんじゃない。",
+      "俺も魅音も、机に突っ伏して暑さにふやけていた。",
+      "小さい子たちはさすがにタフで、こんな暑さものともしない。",
+      "わずかの時間でも遊びたいとばかりに、教室中を走り回っていた。"
+    ],
+    "textEn": [
+      "It was break time between classes, but we couldn't really get any rest.",
+      "Mion and I leaned on our desks, exhausted by the heat.",
+      "The younger kids sure are tough, considering how the heat wasn't bothering them at all.",
+      "They were running around the classroom despite the temperature."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「……やっぱりさー、都会の学校だと教室にもクーラーとか入ってるわけぇ？」"
+    ],
+    "textEn": [
+      "\"...Do schools in the cities have air conditioning in their classrooms?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「そんなことねーぞ……。",
+      "あるのはせいぜい職員室ぐらいだなぁ…。」"
+    ],
+    "textEn": [
+      "\"No, they don't...",
+      "Only the teachers' office gets to have air conditioning...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「うわー…。それは羨ましいねぇ…。",
+      "生徒みんなで職員室を襲って占拠とかしないのー？」"
+    ],
+    "textEn": [
+      "\"Wow... That's better than nothing...",
+      "If I were a student at a school like that, I'd attack the teachers and take over their office.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……その辺の発想が実に魅音臭い。",
+      "…わっはっは、",
+      "………はぁ………。」"
+    ],
+    "textEn": [
+      "\"......You'd be the first student ever to do that...",
+      "Wa ha ha ha...",
+      "haaaah......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "この暑さではテンションも上がらない。",
+      "……俺も魅音もくだらない話はやめ、下敷きを団扇代わりに扇ぐのに専念した。",
+      "空いた机が目に入る。",
+      "…………レナの席だった。",
+      "レナは今日は欠席した。",
+      "学校には本人から風邪を引いてしまったので、欠席すると電話があったそうだ。"
+    ],
+    "textEn": [
+      "I didn't even have the energy to laugh.",
+      "...Mion and I stopped talking and used our notebooks to fan ourselves.",
+      "I looked at the empty seat nearby.",
+      "......It was Rena's.",
+      "Rena didn't come to school today.",
+      "She called and told Chie-sensei she couldn't come because she's sick."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………レナのやつ、",
+      "…最近、",
+      "元気ないよな。」"
+    ],
+    "textEn": [
+      "\"...Rena",
+      "seems to be feeling down",
+      "these days.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………だねぇ。",
+      "…暑さにやられたのかもねぇ。」"
+    ],
+    "textEn": [
+      "\"...Yeah.",
+      "...She probably got tired from the heat.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……なぁ、…本気で暑さでやられたと思ってるのか？」"
+    ],
+    "textEn": [
+      "\"...Do you really think that's the reason?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…そう思ってるけど？」"
+    ],
+    "textEn": [
+      "\"...Yeah, why?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……………例の一件がさ、やっぱりじわじわと来てるんじゃないのか…？」"
+    ],
+    "textEn": [
+      "\"...I think it's the incident...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「かもね。",
+      "……………それに暑さも加わって、夏バテでも起こしたんじゃないかな。」"
+    ],
+    "textEn": [
+      "\"...Maybe.",
+      "...It's probably both that and the summer heat.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "殺人を犯し、死体を刻み、それを仲間に見られたショックは、計り知れないだろう。",
+      "確かに俺たちはあの場で手を取り合い、仲間の連帯を確認し合った。",
+      "あの場に居合わせた全員は、それで全部決着がついたと思ってる。",
+      "でも、………一番の当事者であるレナの心は、…それだけのことで平穏を取り戻せるのだろうか…？",
+      "レナはまだ、あの日から心が立ち直れていないんじゃないかと思う…。"
+    ],
+    "textEn": [
+      "I can't even imagine how distressing it was for her to commit a murder, dismember the bodies, and get caught by her friends.",
+      "We took each other's hands at that place, and we united.",
+      "All of us believed that we had closed the case there, and had regained our peace.",
+      "But... was that as easy for Rena as it was for us...?",
+      "She must have not quite recovered yet..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…おじさんは、みんなで楽しく遊んでればその内、元気になると思ってたんだけどね。"
+    ],
+    "textEn": [
+      "\"...This ol' man thought she'd get over it if she played along with us."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……そこまで心の傷が、浅くなかったってことかなぁ。」"
+    ],
+    "textEn": [
+      "...But I guess her pain ran deeper than I thought.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「こういう時さ。",
+      "どうしたらレナを元気付けられるかな。」"
+    ],
+    "textEn": [
+      "\"What should we do...",
+      "to cheer her up?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………多分、放っとくのが一番じゃないかな。」"
+    ],
+    "textEn": [
+      "\"...It's best just to leave her alone, I think.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「おいおい、…そんなのでいいのかよ。",
+      "俺たち仲間だろ？」"
+    ],
+    "textEn": [
+      "\"Hey... are you sure about that?",
+      "We're her friends, you know?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「ほら、『ホームシック』ってあるじゃない？",
+      "あれもね、ちょっと寂しいからって言って、実家に電話なんか掛けちゃうと、一気に発症しちゃうらしいよ。"
+    ],
+    "textEn": [
+      "\"Well, it's like homesickness, you know?",
+      "You get lonely, and you want to call home just to hear your mom's voice. But that actually makes your homesickness worse."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "寂しい時はぐっと堪えて、例えばスポーツにでも打ち込んで、気分転換を図るのが一番なんだってさ。」"
+    ],
+    "textEn": [
+      "When you're feeling lonely, the best thing to do is to devote yourself to sports or something like that for a change.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…気分転換させてやりたくても、…あいつ、最近、部活に加わらないし。」"
+    ],
+    "textEn": [
+      "\"...I want her to do club activities with us, but... she doesn't want to.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「レナはどうか知らないけどさ。",
+      "人には甘えたい欲ってのがあるんだよ。",
+      "側に支えてくれる人や同情してくれる人がいると、甘えたくなる欲。"
+    ],
+    "textEn": [
+      "\"I don't know about her,",
+      "but people usually have a desire to depend on somebody.",
+      "You want to depend on somebody who supports you and sympathizes with you."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……慰めてくれる人が現れるとさ、際限なく甘えちゃうことってない？」"
+    ],
+    "textEn": [
+      "...Haven't you ever experienced that feeling? When you can't stop depending on somebody when they try to cheer you up?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………ん、……どうだろうな。」"
+    ],
+    "textEn": [
+      "\"...Well... I don't know.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「際限なく甘えるってことは、相手の同情をより深く得ようとするってこと。",
+      "そうすると、圭ちゃんは慰めてるつもりなのに、相手はどんどん、どんどん落ち込んで行っちゃうことがあるんだよね。"
+    ],
+    "textEn": [
+      "\"Completely depending on someone means trying to earn even deeper sympathy from them.",
+      "At that point, even though you're trying to comfort them, they just slip further and further into depression."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "慰められて甘えられる、これに味を占めると不幸に酔うのが癖になる。"
+    ],
+    "textEn": [
+      "By finding initial success through relying on someone and receiving comfort, they grow addicted to indulging in misfortune."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "……レナもその辺、わかってるから、わざとひとりになろうとしてるんじゃない？"
+    ],
+    "textEn": [
+      "...I think Rena knows that, too. That's why she wants to be alone right now."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "慰めや甘えが目的だったら、私たちの側にいて涙を流せば済むわけだし。」"
+    ],
+    "textEn": [
+      "If she wanted to depend on us or get comfort from us, all she'd have to do is to stay with us and cry all the time.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「じゃあ、落ち込んでるレナをどう励ませばいいんだよ…。」"
+    ],
+    "textEn": [
+      "\"So, how can we cheer her up...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「女の心情としては、辛さを励ましてくれるより、忘れさせてくれる方がうれしいね。」"
+    ],
+    "textEn": [
+      "\"I think she'd appreciate it more if you tried to help her forget her pain than if you tried to cheer her up.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「慰めるな、励ますな。",
+      "…何だよ、お手上げじゃないかよ。」"
+    ],
+    "textEn": [
+      "\"Don't comfort her and don't cheer her up...",
+      "...There's nothing I can do, is there?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「慰めるな励ますなは、心理カウンセラーの鉄則だって知ってる？"
+    ],
+    "textEn": [
+      "\"That's a golden rule for psychologists, did you know?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "結局、心の傷ってのは自分で治すように出来てる。"
+    ],
+    "textEn": [
+      "Mental trauma can only be healed by the person who has it."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "周りの人が治したとしても、それは本当の完治じゃない。",
+      "だから、レナが自分で元気になるのを、私たちは見守るしかないんだよ、きっと。」"
+    ],
+    "textEn": [
+      "If someone else helps a person out of their mental trauma, even if they succeeded, that person wouldn't be completely healed.",
+      "So, all we can do now is wait until Rena heals on her own.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………理屈じゃ理解できるが、………何だか薄情な気がして、好きになれねぇなぁ…。」"
+    ],
+    "textEn": [
+      "\"...I understand the idea, but... I just don't like how cold it sounds...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "両手を頭の後ろで組み、俺は天井を見上げながらぼやく。",
+      "その様子を見て、魅音がくすりと笑った。"
+    ],
+    "textEn": [
+      "I clasped my hands behind the back of my head, looking at the ceiling.",
+      "Mion laughed."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「それだけレナのことを心配してくれる圭ちゃんが身近にいるなら、レナは大丈夫だよ。",
+      "立ち直れるよ。」"
+    ],
+    "textEn": [
+      "\"Rena will be fine as long as she has someone like you to worry about her.",
+      "I'm sure she can pull herself together.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「近くにいるだけでかー？",
+      "…胡散臭いなぁ。」"
+    ],
+    "textEn": [
+      "\"So, all I need to do is to be close to her?",
+      "...I dunno about that.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一にだってできることがありますですよ。」"
+    ],
+    "textEn": [
+      "\"......There is something you can do, Keiichi.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "梨花ちゃんだった。",
+      "…いつから俺と魅音の会話を聞いていたのだろう。"
+    ],
+    "textEn": [
+      "Rika-chan spoke up.",
+      "...I wonder how long she'd been listening to our conversation."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「俺にも、できることがあるのか…？」"
+    ],
+    "textEn": [
+      "\"What is it...?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……レナが、話したいと思った時や、打ち明けたいと思った時に、静かに聞いてあげることなのです。」"
+    ],
+    "textEn": [
+      "\"...You can listen to her when she wants to talk to somebody.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「聞くだけでいいのか？",
+      "励まさなくていいのかよ？」"
+    ],
+    "textEn": [
+      "\"Is that all?",
+      "I just listen, and I don't need to make her feel better?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「圭ちゃん、打ち明けるだけで心が軽くなるもんだよ。",
+      "静かに耳を傾けるのが、何よりも嬉しい時ってある。」"
+    ],
+    "textEn": [
+      "\"Kei-chan, people feel better just by talking to somebody.",
+      "Sometimes, all they need is someone who does nothing but listen quietly.\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……魅ぃの言うとおりなのですよ。",
+      "レナが話したいと思った時、いつでも話しかけられる場所に居てあげるのも、…きっと仲間として大切なことなのだと思いますです。」"
+    ],
+    "textEn": [
+      "\"......Just like Mii said,",
+      "I think it's important for us, as her friends, to be there for her whenever she wants to talk to somebody.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音の言うことも梨花ちゃんの言うことも、とても大切なことだった。",
+      "俺はレナに会ったら、肩を思い切り叩いて、クヨクヨしてるなよと励ますつもりだった。",
+      "でも、考えてみればそれはものすごく一方的なことなんだよな。",
+      "レナだって好きで落ち込んでるわけじゃない。",
+      "元気になれるものならなってる。",
+      "そんなところに、俺が無責任に励ましたなら、",
+      "レナは俺が、自分の心の痛みを理解してくれていないと感じて、深い失望を感じるに違いないのだ…。"
+    ],
+    "textEn": [
+      "Mion and Rika-chan were absolutely right.",
+      "I was going to pat Rena on her shoulder and tell her to cheer up when I saw her next, but...",
+      "Now I know that would have been one-sided on my part.",
+      "Rena doesn't want to feel down herself.",
+      "She wants to cheer up if at all possible.",
+      "If I cheered her up irresponsibly,",
+      "she'd be very disappointed, because she'd think that I didn't understand her pain..."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「………………そうだな。",
+      "…俺、ちょっと、人の心ってヤツを理解しようとしてなかったな。",
+      "…レナを励ましたいのは、俺の欲求であって、レナの求めることじゃない。",
+      "ありがとな、二人とも。"
+    ],
+    "textEn": [
+      "\"............You're right.",
+      "...I guess I wasn't even trying to understand how she felt.",
+      "...I wanted to cheer her up, but I now know that's just what I want to do, not what she wants me to do.",
+      "Thanks, you two."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "俺、ひょっとすると今日まで何か勘違いをしてたかもしれないぜ。」"
+    ],
+    "textEn": [
+      "I think I finally understand.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あの日、……俺は一方的にレナを励ました気でいたけど。",
+      "…本当にそれがレナの心に届いたか自信がなくなり始めていた。",
+      "レナを女々しいとばかりに、乱暴に引っ張り寄せただけだったかもしれない。",
+      "俺は、本当の意味でレナの味方になっていなかった…。",
+      "その時、梨花ちゃんの手が俺の頭を、そっと撫でた。"
+    ],
+    "textEn": [
+      "On that day... I thought I cheered her up.",
+      "...But I started to doubt if I had reached her heart.",
+      "I might've just been dragging her someplace where I wanted her to go.",
+      "I wasn't on her side in the real sense of the term...",
+      "All of a sudden, Rika-chan patted my head."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……圭一は一番のレナの味方ですよ。",
+      "それは疑わなくて大丈夫なのです。」"
+    ],
+    "textEn": [
+      "\"...Don't worry.",
+      "We all know that you're on her side.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「え、え？！",
+      "わ、俺また考え事を口に出しちまってたのか…！」"
+    ],
+    "textEn": [
+      "\"What? What?",
+      "Did I say something out loud again...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「レナの心には届いてるよ。",
+      "圭ちゃんはあの日、とても強い力をレナに与えたんだからさ。"
+    ],
+    "textEn": [
+      "\"It did reach her heart.",
+      "Kei-chan, you really did give her great strength on that day."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "…………いやーー、でもさぁ、よくよく思い出すとすっごい恥ずかしいこと言ってたよねぇ？",
+      "くっくっくっくっく！！」"
+    ],
+    "textEn": [
+      "...Well... now that I think about it, what you said on that day was more than a little theatrical!",
+      "Heh heh heh heh!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "廊下を先生が戻ってくる足音が聞こえると、みんなが一斉に自分の席へ戻る。"
+    ],
+    "textEn": [
+      "We heard footsteps from the hallway, and everybody started to head back to their desks."
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「お待たせしました。",
+      "それでは委員長、号令。」"
+    ],
+    "textEn": [
+      "\"Take your seats, everyone.",
+      "President, if you would.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「きりーーーーーーーーーーつ！！」"
+    ],
+    "textEn": [
+      "\"All rise!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナがいないから今日の部活もなしだ。",
+      "まぁ、俺にとっても都合はよかった。",
+      "今日の帰りにお使いを頼まれていたからだ。",
+      "買い物の内容も大したものじゃない。",
+      "村の中の雑貨屋のポイントカードが溜まったので、それと交換で台所洗剤をもらって来てくれという程度だ。",
+      "そんなの俺にわざわざ頼むほどのものかよと思ったが、親父の仕事の絡みで手が離させないと言われると仕方ない。",
+      "だから、帰り道に商店街へよろうと、いつもと違う道に入ったときだった。",
+      "向こうの木立の影から、誰かが顔を覗かせてこっちをうかがっているのに気付いた。",
+      "……こんなお茶目な真似をするのは誰だと目を凝らそうとしたら、相手が姿を現す。"
+    ],
+    "textEn": [
+      "We didn't have a club meeting that day because Rena wasn't around.",
+      "That worked out for me",
+      "because I had an errand to run.",
+      "It wasn't a big errand.",
+      "My mom wanted me to use her point card to get some detergent.",
+      "I didn't see the point of going all the way to the store just to get detergent, but my mom told me to go because she's busy helping my dad with his work.",
+      "I started walking towards the shopping center.",
+      "I noticed someone was watching me, hiding behind a distant tree.",
+      "...I wonder who would do such a mischievous thing. I stared at them to find out who it was, at which point they emerged."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「お？",
+      "レナじゃねぇか。」"
+    ],
+    "textEn": [
+      "\"Oh,",
+      "Rena.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "具合はもういいのかよ、",
+      "…そう続けようとした時、その言葉は喉のところで止まった。",
+      "何だか、レナの表情がとても真剣だったからだ。"
+    ],
+    "textEn": [
+      "Are you feeling better now?",
+      "...I was about to say that, but I swallowed the words.",
+      "Somehow, Rena looked very serious."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……ど、……どうしたんだ？」"
+    ],
+    "textEn": [
+      "\"...Wh-What's going on?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「シッ！」"
+    ],
+    "textEn": [
+      "\"Shh!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナは人差し指を唇の前に立てて、静かにするよう命じると、辺りをうかがう仕草をしてから、急いでこちらへ来いと合図される。",
+      "よくわからないが、取り合えずレナの指示に従い、俺は口をつぐむとレナのところへ駆け寄った。",
+      "レナは仕草で、俺に茂みの影にしゃがんで隠れるように指示する。",
+      "なぜそうしなければならないのか分からなかったが、理由は後でも聞ける。",
+      "俺は逆らわず指示に従った。",
+      "レナはまるで、そう、誰かに後を尾行されてないかをうかがっているようだった。",
+      "………魅音辺りなら、ふざけてこんな真似でもしそうだが、…レナはこんな冗談、絶対やらない。",
+      "俺はどういう状況に置かれているか、まったく理解できずにいたが、…そのただならぬ緊迫感だけを理解し、身を小さくして気配を殺していた。"
+    ],
+    "textEn": [
+      "Rena put her index finger to her lips, told me to be quiet, looked around carefully, and beckoned for me to come over.",
+      "I had no idea what was going on, but I followed her instructions, shut my mouth, and ran to her.",
+      "Rena gestured for me to squat down to hide in the shadow of the bush.",
+      "I didn't know why I had to do that, but I could ask her the question later.",
+      "I just followed her orders for now.",
+      "Rena looked like she was making sure no one was following her.",
+      "...If it was Mion, she'd do something like this just to fool me, as a joke... but I know Rena doesn't do things like this for fun.",
+      "I had no idea what kind of situation I had gotten myself into... but I could feel how tense it was, and I made myself as small as I could."
+    ]
+  }
+]

@@ -1,0 +1,2031 @@
+[
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「ハイ、委員長、号令。」"
+    ],
+    "textEn": [
+      "\"President, if you would.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…しばらくの間、自分（魅音）が委員長であることに気付けずにいた。"
+    ],
+    "textEn": [
+      "...For a moment, I forgot that the class president was me."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あ、あ、あ、あ！",
+      "きりーーーーーっつ！！」"
+    ],
+    "textEn": [
+      "\"Uh, uh, uh uh!",
+      "All rise!!\""
+    ]
+  },
+  {
+    "color": "#68aee5",
+    "labelEn": "Chie",
+    "labelJp": "知恵",
+    "textJp": [
+      "「委員長も少し寝不足みたいですね。",
+      "最近は寝苦しい夜が続きます。",
+      "でもしっかりと睡眠は取るように。",
+      "いいですね皆さん。」"
+    ],
+    "textEn": [
+      "\"Looks like you didn't get enough sleep.",
+      "I know it's been very hot at night lately,",
+      "but try to get as much sleep as you can.",
+      "All right, everyone?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Pupils",
+    "labelJp": "生徒たち",
+    "textJp": [
+      "「「「は〜〜〜〜〜〜い！」」」"
+    ],
+    "textEn": [
+      "\"Yes, ma'am!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…この幼稚園と小学校を足して３で割ったような雰囲気は、何とも怪しいものだった。",
+      "よく言えば和気あいあい。",
+      "悪く言えば…ここが教育機関であることすら疑わしい。",
+      "全体のイメージは、お姉から事前に充分な情報を得ていたので、違和感はなかった。",
+      "学校で魅音が作っているキャラクターイメージもわかりやすく、演じるのはそう難しくなさそうだった。",
+      "悟史くんは、………お姉から聞いた通り、…すっかりやつれていた。",
+      "挨拶をしても、まるで無視するかのような態度だった。",
+      "……心身ともに追い詰められていることを知っているからこそ、…それはとても痛々しく見えた。",
+      "だがこの教室では、…悟史くん以外に、もうひとり興味を感じる人間がいた。",
+      "それが……悟史くんの妹、沙都子だった。",
+      "悟史くんに負けず劣らず……、ぼろぼろの、まるで感情を失った人形みたいだった。",
+      "クラス中がその様子を痛々しいと思いながらも、手を差し伸べる術が何もなく。",
+      "……だから、見て見ぬふりをする他ないような…白々しい空気に包まれていた。",
+      "魅音からもらえたのは今日一日だけだ。",
+      "……ぼーっと過せば、学校の一日などあっという間に終わってしまう。",
+      "私はこの限られた時間の中で、……何をしなければならないのか、考えなければならなかった。",
+      "悟史くんと、…何か話をするべきだと思った。",
+      "でも何の話を？",
+      "何でもいい。",
+      "…元気付けるのでもいいし、…同情するのでもいい。",
+      "……とにかく何か、声をかけてやりたかった。",
+      "でも私は、事前にお姉から釘を刺されていた。",
+      "……悟史くんが、最近、魅音と疎遠になり、嫌っている、",
+      "もしくは距離を置きたがっている…というのだ。",
+      "むやみに話しかけると、あまり良くないかもしれない。",
+      "…話をしたい気持ちはわかるけど、放っておいた方がいいかもしれない…。",
+      "……というものだった。",
+      "お姉がそういう形で警告する以上、それには従うべきだった。",
+      "だが…………、私はその警告を無視することにした。",
+      "私は昼休みに、席を外し、どこか一人になれるところを探すかのような悟史くんを追い、廊下で声をかけた。"
+    ],
+    "textEn": [
+      "...I'm not sure this place can be called a school.",
+      "Because there are so many different age groups,",
+      "it's like a kindergarten and an elementary school blended together.",
+      "Since I'd heard already about what this place was like, I didn't feel that uncomfortable.",
+      "It wasn't too difficult to act like Mion here.",
+      "As Sis told me... Satoshi-kun looked exhausted.",
+      "I said hi to him, but he ignored me.",
+      "...Since I knew what he'd been going through, his pain looked apparent to me.",
+      "I was interested in another person in this classroom.",
+      "Satoko... Satoshi-kun's little sister.",
+      "She looked as worn out as Satoshi-kun... Emotionless, like an abandoned doll.",
+      "Everybody in this room was aware of their circumstances, but no one could do anything for them...",
+      "So they just acted as though nothing was wrong.",
+      "Mion will only let me have this one day.",
+      "...If I slacked off even a little bit, today would be over with quickly.",
+      "I had to figure out what I should do in this limited time.",
+      "I should probably talk to Satoshi-kun.",
+      "About what?",
+      "Anything goes...",
+      "Cheer him up, sympathize with him... anything will do.",
+      "More than anything, I just wanted to chat with him.",
+      "However, Sis had told me.",
+      "......She said Satoshi-kun didn't communicate much with her lately,",
+      "and had distanced himself from her.",
+      "I figured I shouldn't talk to him too casually.",
+      "...I wanted to, but...",
+      "maybe it was better to leave him alone......",
+      "I needed to keep Sis's warnings in mind...",
+      "But instead... I decided to ignore them.",
+      "I looked for Satoshi-kun during lunch break. He was walking as if looking for a place where he could be alone. I caught him in the hallway."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………悟史くん。」"
+    ],
+    "textEn": [
+      "\"......Satoshi-kun.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんは私の声に過敏に反応して振り返った。",
+      "その表情を見た時、ぎょっとする。",
+      "………そこには、今日までに一度も見たことがないような、…拒絶の表情が浮かんでいたからだ。",
+      "でも、……私は怯まずに続けた。",
+      "……ここで怯めば、今日という機会は終わってしまうと思ったからだ。"
+    ],
+    "textEn": [
+      "He turned around, startled by my voice.",
+      "His facial expression surprised me.",
+      "...He was scowling. Clearly a sign of rejection.",
+      "But... I couldn't hesitate.",
+      "...I'd lose my only chance if I did."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…えっと、さ。",
+      "…………………元気？」"
+    ],
+    "textEn": [
+      "\"...Hey, um...",
+      "How are you?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんは、これが元気な様子に見えるのか？",
+      "とでも言わんばかりの…冷たい眼差しを向けた。",
+      "……悟史くんにこんな眼差しで見られるなんて、…思いもしなかった。",
+      "だからそれは…信じられないくらいに胸が痛む、辛いものだった…。",
+      "俯きかける私に、悟史くんから口を開いてくれた。",
+      "…ちょっと嬉しかったが、続く言葉に再び傷つけられる。"
+    ],
+    "textEn": [
+      "He gave me a look as if saying",
+      "'do I look fine to you?'",
+      "...I never expected to see an expression like that on his face.",
+      "I felt like my heart was being torn into pieces...",
+      "As I looked down, he spoke to me.",
+      "...I felt a little glad, but the next thing he said changed that."
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「………………元気だよ。",
+      "………………他に用は？」"
+    ],
+    "textEn": [
+      "\"...I'm fine...",
+      "Is there anything else?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「え、………………。」"
+    ],
+    "textEn": [
+      "\"Eh...?\""
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「…ないなら行くよ。",
+      "……昼休みはひとりになりたいんだ。」"
+    ],
+    "textEn": [
+      "\"...I'll get going if there isn't...",
+      "because I want to be alone.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「そ、…そっか。",
+      "…バイトが大変なんだよね。",
+      "疲れてるから、ひとりになって休みたいもんね…。",
+      "……今日もなんでしょ？",
+      "今日はどこで？」"
+    ],
+    "textEn": [
+      "\"O-Okay...",
+      "I guess you're tired from work.",
+      "I'm sure you want some time to yourself...",
+      "You're working today too, right?",
+      "Where at?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんのバイトの斡旋はお姉が引き受けた。",
+      "バイトと言っても、同じ店でというわけじゃない。",
+      "ヘルプの出た店や職場に臨時で入る日替わりみたいな感じらしい。",
+      "だから悟史くんは常に違うバイト、慣れないバイトをしなければならなかった。",
+      "また、貯める額の大きさから、時給のいいバイトを特にねだったと言う。",
+      "時給がいいバイトってのは…力仕事とか肉体労働とか、そういうのばかりだ。",
+      "……もともと体力がある方でない悟史くんは、日毎にやつれていくことになる。"
+    ],
+    "textEn": [
+      "Sis had found several jobs for him.",
+      "He worked at a few different places.",
+      "He was helping out when necessary at any of the shops Mion introduced him to.",
+      "As a result, he constantly had to do different tasks in a different environment almost every time.",
+      "On top of that, he requested high-paying jobs from Mion because he wanted a large sum of money as soon as possible.",
+      "In other words, he chose to mostly do manual labor...",
+      "He was exhausted every day because he wasn't that physically strong."
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「……どこでもいいだろ。",
+      "…それに、僕がどこで働くかは、魅音なら知ってることじゃないのかい……？」"
+    ],
+    "textEn": [
+      "\"......Does it matter?",
+      "...And shouldn't you know, because you helped me get the job?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…そのバイトを斡旋したのは魅音なのに。",
+      "……悟史くんの口調にはそれに対する感謝は微塵も感じられなかった。",
+      "…こんな悟史くんは悟史くんじゃない。",
+      "…………とても、…悲しかった。"
+    ],
+    "textEn": [
+      "...Mion did help him get the job...",
+      "yet Satoshi-kun didn't look thankful for that opportunity.",
+      "...This wasn't like him at all......",
+      "It made me feel sad."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………はははははは、そうだよね。",
+      "……ごめん。」"
+    ],
+    "textEn": [
+      "\"...Hahahaha. You're right...",
+      "Sorry.\""
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「…………用はそれで終わりかい…？」"
+    ],
+    "textEn": [
+      "\"...Is that all?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんの拒絶が胸に突き刺さる。",
+      "……どうして…こんな冷たい言葉を？",
+      "私の頭を…やさしく撫でてくれた悟史くんは…もういなくなっちゃったの……？"
+    ],
+    "textEn": [
+      "He sounded so harsh.",
+      "...Why was he being like that?",
+      "Would he ever stroke my head again...?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………………………ぅ……、」"
+    ],
+    "textEn": [
+      "\".........Ooh...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "感情が、目元から少し、溢れた。",
+      "熱い筋が一筋、…頬を伝う。",
+      "でも悟史くんはそんな私を見ても、一瞬とまどって見せただけで、すぐに不快そうな表情に戻ってしまう。"
+    ],
+    "textEn": [
+      "I couldn't help my tears.",
+      "They flowed onto my cheeks.",
+      "Satoshi-kun looked confused for a moment, but then he frowned again."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…あ、",
+      "…ごご、",
+      "………ごめん。",
+      "…あの、",
+      "……監督がさ、",
+      "……また練習に来て欲しいなって、…言ってたよ。",
+      "あははは………伝言。」"
+    ],
+    "textEn": [
+      "\"...Uh,",
+      "sorry...",
+      "...",
+      "Uh...",
+      "the coach said...",
+      "he wanted you to come back to practice......",
+      "Ahahaha......\""
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「……監督には、もうチームはやめたいって伝えたはずだよ。",
+      "……戻る気はないし。」"
+    ],
+    "textEn": [
+      "\"...I told him I quit...",
+      "so I won't be going back.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「た、……たまにはさ。",
+      "…ぱーっと体を動かして汗を流すのもいいと思うんだよ。",
+      "ほら、スポーツって色々と、」"
+    ],
+    "textEn": [
+      "\"B-But maybe...",
+      "it's a good idea to work out from time to time,",
+      "you know...?\""
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「興味ない。」"
+    ],
+    "textEn": [
+      "\"Not interested.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんから次々にぶつけられる理不尽な悪意がわからない。",
+      "…どうして、私がこれだけ嫌われなければならないのかわからず、…私はうろたえるしかない。"
+    ],
+    "textEn": [
+      "I didn't know why he was being so hostile towards me.",
+      "...Why did he hate me so much? I was left bewildered."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……なんで…？",
+      "どうして…………？」"
+    ],
+    "textEn": [
+      "\"...Why...?",
+      "How come...?\""
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「……バイトで忙しいから。わざわざ分かりきってることを聞くなよ。",
+      "…面倒くさい。」"
+    ],
+    "textEn": [
+      "\"...Because I'm busy with work.",
+      "Isn't it obvious?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………違うよ！！",
+      "なんで、私がここまで嫌われなくちゃならないの？！」"
+    ],
+    "textEn": [
+      "\"...No, I didn't mean that!!",
+      "Why do you hate me so much?!\""
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「……………………自分の胸に聞けばいいじゃないか。」"
+    ],
+    "textEn": [
+      "\"...Why don't you ask yourself?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「自分の胸に？！",
+      "何を！",
+      "私が何をしたの？！",
+      "わかんないよ、悟史くん！！」"
+    ],
+    "textEn": [
+      "\"Ask myself?!",
+      "What?!",
+      "What did I do?!",
+      "I don't understand, Satoshi-kun!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "感情が弾けて、……もう自分でもどうしようもなくなった。",
+      "両目から熱い筋が…幾重にも…ぼろぼろと。",
+      "……悟史くんはとても面倒くさいものを見るような…嫌な目つきをした後、…私に声をかけることもなく、踵を返すと立ち去った。",
+      "私は…その背中に声をかけることもできなかった。",
+      "…声をかければ、さらに冷たい言葉の刃が返され、さらに私の胸を突き刺しただろうからだ。",
+      "…それにもう耐えることが出来なくて。",
+      "……私はその背中を見送るしかなかった。",
+      "私は涙を拭いながら……教室へ戻ろうとした。",
+      "その時、…教室から突然、泣き声が聞こえた。",
+      "…驚きはしなかったが、…何事かと思い、教室を見渡す。",
+      "…………泣き声の主は、",
+      "……沙都子だった。",
+      "床には散らばった弁当箱。",
+      "クラスメートに聞くと、……弁当を食べ終わり、弁当箱を洗うために席を立った時、ちょっと誰かにぶつかって、弁当箱を床に落とした。",
+      "…それだけ。",
+      "ただそれだけのことなのに、…まるで沙都子は誰かの大目玉を恐れるかのように、大声で泣きじゃくっていた。",
+      "別に何かの壷を落として割ってしまって、取り返しがつかないわけじゃない。",
+      "…足元に散らばった弁当箱を拾えば、それで済む話だ。",
+      "……ちょっと蓋を止める部分が外れてしまったようだけど、そんなのパチっと直せる程度。",
+      "……こんな、号泣するようなことじゃない。",
+      "そして、…沙都子は泣きながら、許しを乞いながら、叫んだ。"
+    ],
+    "textEn": [
+      "I couldn't control my emotions any longer.",
+      "Streaks of tears ran down my cheeks.",
+      "...Satoshi-kun gave me a hateful glare, and walked away without saying another word.",
+      "I couldn't even stop him.",
+      "...If I tried, he'd hurt me again with another cutting remark.",
+      "...I couldn't bear that...",
+      "So I just watched him walk away.",
+      "I wiped my tears and... went back to the classroom.",
+      "I heard somebody crying from inside.",
+      "...What's going on? I looked around the room to see.",
+      "......It was",
+      "Satoko.",
+      "I saw her bento box on the floor.",
+      "I asked one of her classmates what happened... and it seemed that Satoko had bumped into somebody's shoulder when she stood up to go wash the box out...",
+      "That was all.",
+      "But... Satoko was crying as if afraid she was going to be chided badly.",
+      "What happened was very minor.",
+      "...She could just pick up the bento box and things would be fine.",
+      "...It looked like the lid came a little loose, but it was definitely fixable...",
+      "She didn't have to cry like that.",
+      "Yet Satoko... started begging through her tears."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「助けてよ、助けてよぅ…、にーにーー！！",
+      "わぁあぁぁあぁああぁぁあん！！！」"
+    ],
+    "textEn": [
+      "\"Help! Help me, Nii-nii!!",
+      "Waaaaahhhhhhh!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "感情のたがが外れかけていた私は、心の中に灯った怒りの火が、全身を火だるまにしてしまうのを感じた。",
+      "……それは、自分ではもうどうにもできない、感情の爆発だった。",
+      "泣き喚く沙都子に、おろおろと戸惑うクラスメートたちを押しのけ、…ずんずんと踵で足音を立てながらと私は沙都子に猛然と迫る。",
+      "そして、辺りをはばからず泣き喚く沙都子の頭を鷲掴みにし、",
+      "…全身の力で思いっきり、頭をぶん投げるように、壁へ叩き付けた。",
+      "沙都子は短い悲鳴をあげ、何が起こったのかわからないような表情をしていた。",
+      "涙をぼろぼろとこぼしながら、かたかたと震えながら。",
+      "…どうして私に悪意をぶつけられなければならないのか、理解できずにいた。"
+    ],
+    "textEn": [
+      "Because of what happened with Satoshi-kun, I couldn't suppress my emotions very well.",
+      "...So, instead, they exploded.",
+      "I stormed up to Satoko while elbowing her classmates aside.",
+      "I grabbed her by the head...",
+      "then threw her into the wall.",
+      "Satoko screamed. She didn't seem to understand what had happened.",
+      "She was shedding tears and shivering...",
+      "She must be wondering why I did that."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……何であんたがそういう目に遭うか、理解できる？」"
+    ],
+    "textEn": [
+      "\"...Do you know why I did that?\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「ひぃ…ぃ……、…ぃ……た、助けて……、…にぃにぃ……、」"
+    ],
+    "textEn": [
+      "\"Eeeek... help...... Nii-nii......\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子は私の問い掛けを理解しようとせず、再びその言葉を口にする。",
+      "私は再び沙都子の頭を鷲掴みにすると、今度は床に叩きのめすように投げつけた。",
+      "沙都子が無様に転げ、机のひとつにぶつかって倒してしまう。",
+      "机の中身が辺りに散らばり、ひどい有様になった。",
+      "沙都子は立ち上がろうとはしなかった。",
+      "身を硬くしてうずくまり、上目遣いに私を見上げ、がたがたと震えていた。"
+    ],
+    "textEn": [
+      "Satoko cried for her brother's help again...",
+      "And so, I grabbed her head and threw her again.",
+      "Satoko stumbled and crashed into a desk.",
+      "The desk fell and the contents of the drawer scattered about.",
+      "Satoko didn't even stand up.",
+      "She just crouched and trembled while looking up at me."
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「助けて……たすけて……、",
+      "…にぃにぃ…、",
+      "…にぃにぃ……。」"
+    ],
+    "textEn": [
+      "\"Help... help...",
+      "...Nii-nii...",
+      "...Nii-nii...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「あんたが…そんなだから…ッ！！！」"
+    ],
+    "textEn": [
+      "\"If you weren't like that...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "…あんたが…安易に悟史くんにすがるから……、悟史くんが苦しんでるのがわかんないのッ？！",
+      "そう言いたかったが、怒りでからからになった喉からは、そこまで発せられることはなかった。",
+      "私は床に散らばった教科書の束を拾い、まだ助けを求めようとするその無様な顔に投げつけた。"
+    ],
+    "textEn": [
+      "...If you weren't like that, Satoshi-kun wouldn't have to suffer. Don't you get it?!",
+      "That's what I wanted to say, but I was too angry to utter another word.",
+      "I picked up a bunch of textbooks from the floor and threw them at her face."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「泣きたければ泣けばいい！！",
+      "でもね、泣いたってね、何も解決しないッ！！"
+    ],
+    "textEn": [
+      "\"Cry as much as you want!!",
+      "But nothing's going to change!!"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "何で泣くの？！",
+      "泣けば誰かが助けてくれるから？！",
+      "その助けてくれる人が、あんたの代わりにどれだけ傷ついてるかなんて想像もつかないでしょ！！！"
+    ],
+    "textEn": [
+      "Why are you crying?!",
+      "Because you think somebody's going to help you?!",
+      "You don't have any idea what he has to go through to protect you, do you?!!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "わかってるの？！"
+    ],
+    "textEn": [
+      "Do you understand that?!"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "あんたの罪が！！"
+    ],
+    "textEn": [
+      "Do you understand what you're doing?!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "あんたなんかいなければいい！！"
+    ],
+    "textEn": [
+      "You shouldn't exist!!"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "苦しいなら死ね！！",
+      "ヘソでも噛んで勝手に死んじゃえばいい！！！",
+      "悟史くんまで苦しめるな！！",
+      "ひとりで苦しんでひとりで勝手に死ね！！",
+      "お前なんか死んでしまええぇえぇえええー！！！」"
+    ],
+    "textEn": [
+      "Die if you don't want to suffer!!",
+      "Go fuck yourself!!!",
+      "Don't hurt Satoshi-kun!!",
+      "You deserve to die alone!!",
+      "You just deserve to dieeeeeee!!!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「わああぁああぁあぁああああんん！！！",
+      "にーにー！！",
+      "にーにー！！！",
+      "うわああぁああぁああん！！！」"
+    ],
+    "textEn": [
+      "\"Waaaaahhhhh!!!",
+      "Nii-nii!!",
+      "Nii-nii!!!",
+      "Whaaaaahhhhhh!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子の号泣は、もう今の私には怒りに油を注ぐだけだった。"
+    ],
+    "textEn": [
+      "Her desperate cries only increased my irritation."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「泣けばいいと思うな！！！",
+      "悟史くんにすがれば済むと思うな！！",
+      "甘えるんじゃない！！！",
+      "お前さえいなければ…！！",
+      "お前さえいなければッ！！」"
+    ],
+    "textEn": [
+      "\"Stop crying!!!",
+      "Don't call your brother for help!!",
+      "Stop it!!!",
+      "If you weren't like that...!!",
+      "If only you...!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "床に散らばった教科書やノートを次々に沙都子に投げつける。",
+      "…沙都子は亀の子のように縮こまり、さらに大きな声で泣き喚くのだった。",
+      "髪の長い少女が躍り出て、縮こまる沙都子に覆い被さった。",
+      "………こいつは有名人だから知ってる。",
+      "…古手梨花。",
+      "沙都子の数少ない友人のひとりだ。"
+    ],
+    "textEn": [
+      "I kept on throwing things at her.",
+      "...Satoko curled up to protect herself, and cried even harder.",
+      "At that point, a girl with long hair ran up and huddled over her.",
+      "...I knew who that was.",
+      "...Rika Furude.",
+      "One of Satoko's only friends."
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子をいじめないでなのです。",
+      "沙都子は可哀想なのです、いじめてはだめなのです…。」"
+    ],
+    "textEn": [
+      "\"......Please don't hurt her.",
+      "She's in a poor situation, so please don't hurt her...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「可哀想だから何をしても許されると思ってる？！",
+      "可哀想だから悟史くんに寄り掛かってもいいわけッ？！",
+      "甘やかしてるんじゃないよッ！！！",
+      "こいつがどこまでも甘えてるから…悟史くんが辛い思いをしなくちゃならないんだッ！！！」"
+    ],
+    "textEn": [
+      "\"It doesn't matter how pathetic she is!!",
+      "She shouldn't rely on Satoshi-kun all the time!!",
+      "Stop spoiling her!!",
+      "Satoshi-kun has to suffer so much because of her!!!\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「…だめ！！",
+      "だめなのです！！",
+      "沙都子をいじめちゃだめなのです…！！」"
+    ],
+    "textEn": [
+      "\"...No!!",
+      "Stop!!",
+      "Don't hurt her...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子を庇うなら、梨花もまた私の怒りの対象だった。"
+    ],
+    "textEn": [
+      "Rika also became the target of my anger."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「私はね、その甘えきった沙都子の根性を教育してやってんだよッ！！！",
+      "邪魔しやがるとあんたの頭から叩き割るよッ？！？！」"
+    ],
+    "textEn": [
+      "\"I'm trying to teach her something here!!!",
+      "If you keep getting in the way, I'll crack your head open!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私はイスを掴み、振り上げる。",
+      "こんなもので殴りつけられたらただじゃすまない。",
+      "梨花は両目を固くつぶって、沙都子に覆い被さり、自ら盾になろうとした。",
+      "もう、私にはどうでもよかった。",
+      "沙都子も梨花も、まとめて殴りつけるつもりだった。"
+    ],
+    "textEn": [
+      "I grabbed a chair and lifted it over my head.",
+      "It wouldn't hurt only a little if I threw this thing at them.",
+      "Rika tightly closed her eyes and covered Satoko with her body.",
+      "I didn't care what the consequences would be.",
+      "I didn't care if I hurt them."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「やめて！！",
+      "魅ぃちゃん！！！！」"
+    ],
+    "textEn": [
+      "\"Stop!!",
+      "Mii-chan!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "ただ事ならぬ状況を察知し、教室へ戻ってきたレナは、イスを振り上げた私に制止の声をぶつけた。",
+      "そのレナを押しのけ、駆け込んできたのは、………悟史くんだった。",
+      "悟史くんは、沙都子が今置かれている状況を瞬時に把握したようだった。",
+      "……そして、彼は私に猛然と駆け寄り、飛び掛ってきた。",
+      "私は悟史くんに飛び掛られ、ロッカーに叩き付けられるまで、…何が起こったかわからず呆然としていた。",
+      "ロッカーが派手な音を立てて歪む。",
+      "……私は慣れぬ衝撃に身を屈めてしまう。"
+    ],
+    "textEn": [
+      "Rena returned to the classroom and shouted at me.",
+      "Then... Satoshi-kun rushed in while pushing Rena aside.",
+      "Seeming to have grasped the situation immediately...",
+      "He charged straight at me.",
+      "Until my body had hit the locker, I didn't understand what had happened.",
+      "There was a loud crashing noise. I'd left a dent in it......",
+      "I crouched there in pain."
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「沙都子！！",
+      "大丈夫か沙都子…！！」"
+    ],
+    "textEn": [
+      "\"Satoko!!",
+      "Are you all right?!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「にーにー！！",
+      "にーにー！！",
+      "わああぁあぁああぁぁぁん！！」"
+    ],
+    "textEn": [
+      "\"Nii-nii!!",
+      "Nii-nii!!",
+      "Whaaaaaahhh!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子は、たった今まで身を挺して庇ってくれていた梨花を押しのけると、悟史くんに飛びついて、…泣いた。"
+    ],
+    "textEn": [
+      "Satoko pushed Rika aside, jumped at her brother... and started crying again."
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「どうしたんだよ…一体…。",
+      "どうして…沙都子が…。",
+      "…沙都子が…！！」"
+    ],
+    "textEn": [
+      "\"What happened...?",
+      "Why were you treated like that...?",
+      "Why...?!\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「私ね？",
+      "何もしてないのに……何もしてないのに！！",
+      "魅音さんが…魅音さんが……、",
+      "わああぁあああぁあぁああぁあッ！！！」"
+    ],
+    "textEn": [
+      "\"I-",
+      "I didn't do anything but...",
+      "Mion-san... she suddenly...",
+      "Waaahhhh!!!\""
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「ど、……どういうことだよ魅音ッ！！！」"
+    ],
+    "textEn": [
+      "\"Wh-What's going on, Mion?!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "泣きじゃくる沙都子の頭を固く抱きながら、悟史くんは私を怒鳴りつけた。",
+      "…恐ろしい形相だった。"
+    ],
+    "textEn": [
+      "Satoshi-kun shouted at me while clutching his sister...",
+      "He looked fierce."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「どういうことって、……私は…、」"
+    ],
+    "textEn": [
+      "\"I just......\""
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「沙都子が何をしたよ？！",
+      "僕たちが何をしたよ？！",
+      "何でいつも苛められなきゃならないんだよ！！",
+      "ええ？！",
+      "どうしてだよッ！！！」"
+    ],
+    "textEn": [
+      "\"What did Satoko do to deserve this?!",
+      "What did we do?!",
+      "Why do we always have to suffer like this?!",
+      "Why?!",
+      "Why?!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子を解放し、悟史くんは私に迫り、…襟首を掴み上げた。"
+    ],
+    "textEn": [
+      "He released Satoko and rushed up to me, grabbing me by the neck."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「さっき……悟史くんは私に、自分の胸に聞け、って言ったよね。",
+      "…なら、沙都子の胸に聞いてみりゃいいじゃない。」"
+    ],
+    "textEn": [
+      "\"You said... that I should ask myself, didn't you...?",
+      "So... why don't you ask yourself?\""
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「何をッ！！！！」"
+    ],
+    "textEn": [
+      "\"Ask what?!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「悟史くんだって、自分で認めてるんでしょ？",
+      "……沙都子があんたにべったり頼ってるから、悟史くんの重荷になってるんでしょ？！",
+      "沙都子がもっとしっかりしてれば、悟史くんがこんなに大変な思いをすることなんてない！！",
+      "そいつが全ての元凶なの！！！」"
+    ],
+    "textEn": [
+      "\"I know you feel she's a burden on you......",
+      "You always have to suffer because of her. You know that, right?!",
+      "If she were stronger, you wouldn't have to suffer!!",
+      "She's the one to blame!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "多分、図星だったのかもしれない。",
+      "私のその言葉に対する悟史くんの怒り方は、尋常じゃなかった。"
+    ],
+    "textEn": [
+      "I don't believe what I said was wrong.",
+      "But after hearing it, Satoshi-kun went berserk."
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「こっ、…こいつ…！！！",
+      "いい加減なことを言うんじゃないッ！！！」"
+    ],
+    "textEn": [
+      "\"Wh- Wh-",
+      "What the heck do you know?!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「痛ッ、…いたたたたたたたたたたた…ッ！！！」"
+    ],
+    "textEn": [
+      "\"Ow... ahhh!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんは私の髪を引っ張って振り回すと、私が沙都子をそうしたように、壁に投げて叩きつけた。",
+      "だが今度は私も怯まなかった。",
+      "…もう完全に心の堰が崩れ、感情のダムの決壊が起こっていた。"
+    ],
+    "textEn": [
+      "Satoshi-kun grabbed my hair and threw me to the wall, just like I did to Satoko.",
+      "However, I wasn't going to back down.",
+      "...I no longer had any control over my emotions at all."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「悟史くんだって…沙都子を甘やかし過ぎてるよ！！！",
+      "あんたがそうやって際限なく甘やかすから、そいつはいつまで経ってもあんたにすがってばかりなんだよッ！！！」"
+    ],
+    "textEn": [
+      "\"You spent so much time protecting her!!!",
+      "She'll never stop relying on you until you stop doing that!!!\""
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「お前に僕たちの何がわかる！！",
+      "何がわかるってんだよッ？！",
+      "父さんや母さんを村ぐるみで追い詰めて…散々に苛めて！！",
+      "そして今度は僕たちか？！",
+      "それが園崎家のやり方なんだろッ？！",
+      "どこまでも村の裏切り者を苛め抜く！！",
+      "そんなに楽しいかよ！！"
+    ],
+    "textEn": [
+      "\"What the hell do you know about us?!",
+      "What the heck do you know?!",
+      "You persecuted our parents",
+      "and now it's us?",
+      "That's the way of the Sonozaki family, huh?!",
+      "You torture traitors for fun!!",
+      "Is it fun?!"
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "弱い者苛めがそんなに楽しいかよ！",
+      "ええぇッ？！」"
+    ],
+    "textEn": [
+      "Is it fun bullying us?!",
+      "Huh?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「もうやめてえええぇえぇえッ！！！！」"
+    ],
+    "textEn": [
+      "\"Stop it!!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "最後に叫んだのはレナだった。",
+      "鬼のような形相で、私と悟史くんを交互に睨みつけながら、私たちの間に割って入る。"
+    ],
+    "textEn": [
+      "That was Rena's voice.",
+      "She stepped in, looking as fierce as a demon."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「悟史くん、もうやめてあげて。",
+      "魅ぃちゃんに悪気はなかった。"
+    ],
+    "textEn": [
+      "\"Satoshi-kun, please.",
+      "Mii-chan doesn't have any bad intentions."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "……悟史くんの力になってあげたくて、その気持ちがちょっとずれて、空回りしちゃっただけ。",
+      "………ね？」"
+    ],
+    "textEn": [
+      "...She wanted to help you, but... she just lost control a little.",
+      "...Okay?\""
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「……………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんは何か言い返そうとしたが、何も口にはしなかった。"
+    ],
+    "textEn": [
+      "Satoshi-kun looked like he wanted to say something back, but he chose not to."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「魅ぃちゃんも、もうやめて。",
+      "…魅ぃちゃんが誰よりも悟史くんのことを心配してるのは知ってる。",
+      "だけれど、こんなやり方はそれの解決にはならない。",
+      "そんなの、ちょっと落ち着いて考えればわかることだよね？」"
+    ],
+    "textEn": [
+      "\"You too, Mii-chan...",
+      "I know how much you worry about Satoshi-kun.",
+      "But you can't solve the problem like that.",
+      "I think you understand. Right?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "悟史くんが何も言わなかったから、…私もまた沈黙を守ることにした。"
+    ],
+    "textEn": [
+      "Since Satoshi-kun didn't say anything, I kept quiet, too."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「ほら、沙都子ちゃんも。",
+      "お弁当箱を落としたくらいで、泣くことはないよ。",
+      "ね？",
+      "…落ち着いた？」"
+    ],
+    "textEn": [
+      "\"Here, Satoko-chan.",
+      "You don't have to cry just because you dropped your bento box,",
+      "all right?",
+      "Do you feel better now?\""
+    ]
+  },
+  {
+    "color": "#6972c1",
+    "labelEn": "Rika",
+    "labelJp": "梨花",
+    "textJp": [
+      "「……沙都子、ボクがお弁当箱を拾ってあげますよ…。」"
+    ],
+    "textEn": [
+      "\"......Satoko, I'll pick up the bento for you...\""
+    ]
+  },
+  {
+    "color": "#fcdb77",
+    "labelEn": "Satoko",
+    "labelJp": "沙都子",
+    "textJp": [
+      "「………ぅうぅ、……ひっく、………ひっく…！」"
+    ],
+    "textEn": [
+      "\"......Oooh... hic...... hic......!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "沙都子の痛々しい様子がこらえきれない様子の梨花は、床に散らばった沙都子の弁当箱を拾い集める。"
+    ],
+    "textEn": [
+      "Rika started picking up the bento box while its owner continued to cry."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「みんな。…片付けを手伝ってくれる？",
+      "もうすぐ先生がカレー菜園から戻ってくる頃だよ。",
+      "これでもう喧嘩は終わったから、先生には余計なことは言わない。",
+      "……いいね？」"
+    ],
+    "textEn": [
+      "\"Guys... can you help us clean up?",
+      "The teacher will be back from the vegetable garden soon.",
+      "This quarrel is over, so don't tell her about it,",
+      "okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "クラス一同は、互いの顔を見合わせてから…小さく頷き、それぞれに床に散らばったものを拾い始めた。"
+    ],
+    "textEn": [
+      "The classmates looked at each other and nodded... then started picking up the stuff on the floor."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「はい。",
+      "悟史くんも魅ぃちゃんも、仲直りの握手。",
+      "……ほら。」"
+    ],
+    "textEn": [
+      "\"Here,",
+      "Satoshi-kun, Mii-chan, why don't you guys shake hands as a sign of reconciliation?",
+      "...There.\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………………ごめん……。",
+      "……こんなつもりじゃ、…なかったのに。」"
+    ],
+    "textEn": [
+      "\".........Sorry...",
+      "I didn't mean to do this...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私の激情の、残った欠片が…再び目から零れ落ちる。"
+    ],
+    "textEn": [
+      "Tears started to roll down my cheeks again."
+    ]
+  },
+  {
+    "color": "#ffdc6f",
+    "labelEn": "Satoshi",
+    "labelJp": "悟史",
+    "textJp": [
+      "「…………僕も、",
+      "………悪かった。",
+      "……僕たちが苛められてるのは、大人の都合で、…魅音とは何も関係ないって知ってるはずなのに。",
+      "……………ごめん。」"
+    ],
+    "textEn": [
+      "\"......I'm sorry,",
+      "too.",
+      "......You have nothing to do with our family situation...",
+      "I'm sorry...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「さ、魅ぃちゃんは次に沙都子ちゃんに謝る。",
+      "……はい。」"
+    ],
+    "textEn": [
+      "\"Mii-chan, you should apologize to Satoko-chan now.",
+      "Okay?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……悟史くんには謝れても、…沙都子に謝る気はさらさらなかった。",
+      "でも、とりあえずそうしないと場が収まらないと思い、…私は渋々と曖昧な謝罪の言葉を沙都子に投げかけた。",
+      "沙都子は憮然とした表情のまま、…謝罪を受け入れたことを示す意味で頷いてみせる…。",
+      "私はレナから解放され…、緩い頭痛に思わず両手で自分の頭を抱え込んだ。",
+      "……なんだこれ…。",
+      "何やってんだ私…！",
+      "こんな…喧嘩をするために、貴重な時間をもらったわけじゃないのに…！",
+      "お姉がちゃんと私に警告してたじゃないか…。",
+      "悟史くんには近寄りがたい雰囲気があるから、話しかけない方がいい、って。",
+      "私は…何をしに来たんだ一体。",
+      "…こんなことになるなら、むしろ来ない方がよかった。",
+      "……ばかばか、…自分の、ばか。",
+      "私は悟史くんのことを思って、…感情を爆発させた。",
+      "なのに、どこかで狂って、…いや、狂っていたのは最初からかもしれない。",
+      "…そして、…悟史くんと喧嘩をするという、本末転倒な結果に陥った。",
+      "後悔。",
+      "自己嫌悪。",
+      "…いくら自分をなじっても取り返しがつかない。",
+      "世界はもう真っ暗だった。",
+      "…空が崩れて落ちてくるなら、早く私を押し潰して殺してほしかった………。",
+      "お姉は呆れるような同情するような、複雑な気持ちのようだった。"
+    ],
+    "textEn": [
+      "...I was fine with apologizing to Satoshi-kun, but I didn't want to apologize to her.",
+      "But the situation wouldn't be settled otherwise... so I reluctantly apologized.",
+      "Satoko nodded, looking discouraged.",
+      "After that, Rena let me go. My head ached, so I held it with both hands.",
+      "...What was that...?",
+      "What did I do...?!",
+      "I didn't want to use this precious time to fight...!",
+      "Sis had warned me...",
+      "She told me that I shouldn't talk to Satoshi-kun just like that.",
+      "What did I come here for...?",
+      "...I shouldn't have come here if I knew this was going to happen.",
+      "Stupid, you're stupid, Shion!",
+      "I was overcome by emotions because I was so worried about Satoshi-kun.",
+      "When did things go wrong...? Were they wrong from the beginning?",
+      "I got into a fight with Satoshi-kun... This was totally the opposite of what I wanted.",
+      "I regretted it.",
+      "I hated myself for it.",
+      "...I couldn't blame myself enough.",
+      "My world had been torn apart.",
+      "...I wished the sky would fall and kill me......",
+      "Sis sounded both amazed and confused."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…ただでさえ綿流しの直前でいろいろと忙しいってのに…。",
+      "詩音は話をさらにややこしくしてくれるなぁ…。」"
+    ],
+    "textEn": [
+      "\"...You know, I'm busy with the festival preparations...",
+      "but you certainly made things more complicated...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……ごめん。」"
+    ],
+    "textEn": [
+      "\"...Sorry.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "お姉は何か言おうとしたが、今さら言っても無意味だと悟ったのか、それを飲み込んだようだった。",
+      "…私は二三の悪態に付き合った後、今日あったことの詳細の全てを引き継いだ。",
+      "お姉は私が起こしたトラブルを、自分がしたこととして被らなければならないのだから…迷惑千万なのは無理もない話だった。"
+    ],
+    "textEn": [
+      "Sis tried to say something, but she stopped in the middle.",
+      "...After listening to a few complaints, I started telling her about everything that happened today.",
+      "Sis had to pretend that the trouble I caused today was her responsibility, which must've been very taxing for her."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…………もう当分は、…入れ替わる機会はない…？」"
+    ],
+    "textEn": [
+      "\"...So I won't get the chance to trade spots for a while...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…詩音あんた…、",
+      "……ちょっとは私の迷惑を考えてほしいなぁ…。」"
+    ],
+    "textEn": [
+      "\"...Hey...",
+      "...I think you should be more aware of the hassle I have to go through...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「………………………それは………ん。」"
+    ],
+    "textEn": [
+      "\"......Yeah... you're right...\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "それまで比較的、同情的な相槌を打ってくれたお姉も…さすがに苦い声を出す。",
+      "これだけことを荒立てて、もう一度入れ替わってくれなんて言えば…、お姉が渋るのは当り前だ。",
+      "気まずく、…しばらくの間ふたりは沈黙し合う…。"
+    ],
+    "textEn": [
+      "Sis had been sympathetic, but... maybe I pushed her too far this time.",
+      "Of course she'd be hesitant to trade spots, considering what I did today...",
+      "The atmosphere felt awkward, so we were both silent for a while..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…仮にさ、もう一回機会があったとして、",
+      "……詩音はどうするの？」"
+    ],
+    "textEn": [
+      "\"...If you were to get another chance,",
+      "what would you do, Shion?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "……当然の疑問を返される。",
+      "…だが、…私はそれに対する返事を用意していなかった。",
+      "仮にもう一度学校へ行けて、悟史くんと会えたとして。",
+      "………私は、何をすればいいんだろう…。",
+      "今日のことを謝る？",
+      "……どんなアプローチから、どんな謝罪をするにせよ。",
+      "…今の悟史くんには逆効果になるとしか思えなかった。",
+      "…そうだ。",
+      "…悟史くんが言っていたことを思い出す。",
+      "………悟史くんの一家を、さんざん苛め抜いたのは園崎家じゃないか。",
+      "悟史くんが園崎の姓を持つ人間を毛嫌いするのは…とても自然なことなんだ。",
+      "……でも、…ならなんで今頃になって。",
+      "…今までだってずっと私は園崎だった。",
+      "悟史くんだって、私を園崎魅音だと思って、頭を撫でてくれてたじゃないか…。"
+    ],
+    "textEn": [
+      "...That was a reasonable question.",
+      "...I wasn't prepared to answer, though.",
+      "If I had a chance to go the school once again and see Satoshi-kun...",
+      "what would I do?",
+      "Would I apologize to him about today?",
+      "......I don't think that would work.",
+      "That might even upset him again, no matter how hard I tried.",
+      "...Okay,",
+      "here's something that he was saying.",
+      "......It was the Sonozaki family who had been harassing his.",
+      "It would only be natural for him to hold a grudge against us.",
+      "...But why was he only expressing that now?",
+      "...I've been a Sonozaki to him all along.",
+      "Satoshi-kun stroked my head even though he knew that I was Mion Sonozaki..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……お姉。",
+      "率直なところ、……悟史くんは園崎家を、恨んでるんだよね…？」"
+    ],
+    "textEn": [
+      "\"...Sis,",
+      "do you think that Satoshi-kun is holding a grudge against the Sonozaki family...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「………………………だと、",
+      "…思う。」"
+    ],
+    "textEn": [
+      "\"......I",
+      "think so, yes.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "北条一家を、村ぐるみでいじめ、団結の為の見せしめ、スケープゴートにしたのは間違いないし、",
+      "それを主導、先導（扇動でも間違いではない…）したのも間違いなく園崎家だった。",
+      "ダム戦争後も、表立ったいじめはなかったものの、村に非常に居難い雰囲気があったのは間違いない。",
+      "家族の暮らしを滅茶苦茶にし、",
+      "…挙句、自分たちの今日の境遇に追い込んだ根源を園崎家と思い、",
+      "…悟史くんが恨んだとしても、お門違いでもなんでもないのだ…。"
+    ],
+    "textEn": [
+      "It was our family that initiated the persecution of the Houjou family,",
+      "making them into scapegoats.",
+      "Even after the dam conflict, it wasn't easy for the Houjou family to live in Hinamizawa.",
+      "Given all of that,",
+      "it's not surprising that Satoshi-kun hates us,",
+      "the Sonozaki family who put his family in a devastating situation."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「でもさ…。",
+      "……だったら……なんでなの？",
+      "……なんで…今頃になってなの？」"
+    ],
+    "textEn": [
+      "\"But...",
+      "why now?",
+      "Why is he only expressing that grudge to us now?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………………………。」"
+    ],
+    "textEn": [
+      "\".....................\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「…なんで……今頃になって……こうなるの…？",
+      "それなら……それならいっそ…。",
+      "…………ぅうぅうぅ…！",
+      "……ぁぅううぅう…！！」"
+    ],
+    "textEn": [
+      "\"...Why... is this happening now...?",
+      "If he wanted to...",
+      "ooohhh......",
+      "Ahhh...!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "私と初めて会った時から、…私を拒絶するような目で睨んでくれたなら。",
+      "……私は、悟史くんに近付こうと思わなかったのに。",
+      "両目からぼろぼろとこぼれる熱いものを、私は拭うことも忘れていた。",
+      "……悟史くんが園崎の人間を恨むのは道理なのだ。",
+      "何も不自然なことはない。",
+      "むしろ。",
+      "……むしろ不自然なのは…どうして今まで親切に。",
+      "…普通に扱ってくれたのかの方だ。",
+      "………それを疑問に思うこと自体が本末転倒だとは思う…。"
+    ],
+    "textEn": [
+      "If he had rejected me in the first place...",
+      "...I wouldn't have wanted to get close to him.",
+      "My tears wet my cheeks. I didn't bother to wipe them.",
+      "...It's only natural for him to hold a grudge against the Sonozakis.",
+      "There's nothing unusual about it.",
+      "Rather...",
+      "why has he been treating me",
+      "like a friend?",
+      "I knew how stupid this question was..."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…………悟史が、",
+      "……大人だったから、",
+      "…としか、",
+      "…言えないと思う。」"
+    ],
+    "textEn": [
+      "\"......I think...",
+      "it's because he was",
+      "mature",
+      "......\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「そッ、……そんなのって………、",
+      "……ひどいよ…………………。",
+      "…わああぁあぁあぁあん…！！",
+      "ぁああぁああぁあぁあぁあん！！！」"
+    ],
+    "textEn": [
+      "\"I-I can't... understand it",
+      "...",
+      "waaaaahhh...!!",
+      "Ahhhhh!!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "今までは大人だったから、私が園崎の人間だとしても普通に扱ってくれた？",
+      "……でも今は、…心身共に大変だから……心の奥底の、恨み辛みが噴出して…今になって拒絶するようになったってこと…？",
+      "どの角度からどう考えようが。",
+      "……私の悔しさに、悟史くんの非を見つけることはできなかった。",
+      "むしろ…恨むとしたら、………それは今日まで一度も考えたことのない方向に対してだった。"
+    ],
+    "textEn": [
+      "He'd been treating me as a friend because he was mature?",
+      "...But now that he'd become stressed mentally and physically, he's decided to reject me...?",
+      "No matter how hard I thought about it,",
+      "I couldn't find anything to fault him with.",
+      "If there were somebody to blame... it'd be somebody I'd never accused before."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「……………なんで、……あいつは悟史くんの一家を苛めようって言い出したわけ…？！」"
+    ],
+    "textEn": [
+      "\"...Why... did she decide to persecute the Houjou family...?\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「え、………ぁ。",
+      "……………………ん…。」"
+    ],
+    "textEn": [
+      "\"Eh?",
+      "...Uh... um...\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「ダムに賛成したのは悟史くんの親でしょ？！",
+      "悟史くんが賛成していたわけじゃないでしょう？！",
+      "何で一家まるごと苛めようって話になったの？！",
+      "どうしてよ！！」"
+    ],
+    "textEn": [
+      "\"It was his parents who supported the dam project, right?",
+      "Satoshi-kun had nothing to do with it!",
+      "Why was he included?",
+      "Why?!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は言葉を詰まらせたまま、何も言い返せずにいた。",
+      "お姉がわざわざ口に出さずとも、…私だって薄々とは知っている。",
+      "別に園崎本家が北条家を苛めろとＧＯサインを明確に出したわけじゃない。",
+      "あの鬼婆が、北条家を不快に「思っただけ」。",
+      "その憂慮が意思として汲み取られ、結果として執行されただけのこと。",
+      "でも、鬼婆は自分がどう喋ればどう波及して、どう影響が及ぶかは重々理解しているはずだ。",
+      "ならばそれは「思っただけ」でなく、明白な命令に他ならない。",
+      "……鬼婆が、園崎本家が北条家に対する陰湿な攻撃を命令したに他ならない。"
+    ],
+    "textEn": [
+      "Mion couldn't say anything in return.",
+      "Actually, it wasn't at all hard to guess the reason.",
+      "The hag didn't give any specific order to harass the Houjou family.",
+      "She <i>just thought</i> the Houjou family was getting in the way.",
+      "The people around her noticed what was bothering her, and took steps to get rid of it.",
+      "Though of course, she must have known how influential her own words were.",
+      "She didn't just think it. She gave what she must have known would be interpreted as an order.",
+      "...She's the one to blame for initiating the attack on the Houjou family."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「前にお姉は、古手の神主さんのことを、和を乱すのは大人じゃないみたいなことを言いましたよね。",
+      "つまりこれもそういうわけ？！",
+      "村中が団結しなきゃならない時に、異を唱える北条家は大人じゃなかったと。"
+    ],
+    "textEn": [
+      "\"You said before that the Furude priest wasn't mature because he didn't cooperate, right?",
+      "Is this the same scenario?!",
+      "The Houjou family wasn't mature because they didn't act in accordance with the other villagers?"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "だから制裁する必要があったと！",
+      "そういうわけなんでしょ？！」"
+    ],
+    "textEn": [
+      "That's why the hag decided to punish them,",
+      "isn't it?\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音はもはや相槌すらも打てなかった。",
+      "私は、自分の発言が完全な図星であることを理解する。"
+    ],
+    "textEn": [
+      "Mion couldn't say anything in return.",
+      "Meaning that my accusation was the truth."
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "「なら制裁は北条の親だけで充分じゃない！！",
+      "本家の拷問室にでも連れ込んで指の一本も撥ねてやったらいいッ！！",
+      "でもそこまでで充分でしょ？！",
+      "悟史くんは関係ない！！",
+      "悟史くんには何の関係もないッ！！"
+    ],
+    "textEn": [
+      "\"They already punished the Houjou couple!!",
+      "Feel free to bring them to the torture room in the garden,",
+      "and chop their fingers off or something,",
+      "but leave Satoshi-kun alone!!",
+      "Satoshi-kun has nothing to do with this!!"
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Shion",
+    "labelJp": "詩音",
+    "textJp": [
+      "悟史くんが何をしたって言うの？！",
+      "悟史くんに何の罪があるって言うの？！",
+      "答えてよ！！",
+      "答えてよ魅音！！",
+      "魅音んん！！！」"
+    ],
+    "textEn": [
+      "What did he do to deserve this?!",
+      "What did he do wrong?!",
+      "Answer me!!",
+      "Answer me!! Mion!!",
+      "Mion!!!\""
+    ]
+  },
+  {
+    "color": "#5ec69a",
+    "labelEn": "Mion",
+    "labelJp": "魅音",
+    "textJp": [
+      "「…ハイ。",
+      "ではよろしくお願いいたしますね。",
+      "失礼いたします。」"
+    ],
+    "textEn": [
+      "\"...Very well.",
+      "Please take care of the matter.",
+      "\\nGoodbye.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "魅音は突如冷たい声で、他人行儀な言葉を口にすると、私の話を断ち切るように受話器を置いた。",
+      "私は瞬間的に、私の詰問から逃れるために受話器を置いたのだと思い、烈火の如く怒りの感情が噴き出すのを感じた。",
+      "そして、本家への電話番号をもう一度ダイヤルしようとして、",
+      "……魅音のその発言が、鬼婆が来たから電話を打ち切るという取り決めに基づく対応であったことを思い出す。",
+      "…本当に鬼婆が来たかはあやしい。",
+      "だが、取り決めにしたがって切られた以上、私は今、掛けなおすことはできなかった。",
+      "私は熱くなり過ぎた自分の頭を冷やそうと、洗面所へと向かう。",
+      "蛇口をひねると、出てきたのは不快なぬるい水。",
+      "そんなものはいくら顔に叩きつけたところで、わずかの気分転換にもならないのだった。"
+    ],
+    "textEn": [
+      "Mion suddenly changed her tone and hung up.",
+      "She must have done that to escape from my questions. I was furious.",
+      "I started redialing the number,",
+      "but then I remembered that we'd decided she'd hang up the phone after using that phrase when she saw the hag coming.",
+      "...I doubted she actually saw the hag.",
+      "But it was the rule, so I couldn't call back for a while.",
+      "I went to the bathroom to wash my face and cool down.",
+      "I turned the faucet. The water felt lukewarm.",
+      "It didn't help me cool down at all."
+    ]
+  }
+]

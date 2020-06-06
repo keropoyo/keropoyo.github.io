@@ -1,0 +1,290 @@
+[
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Shimiko",
+    "labelJp": "沁子",
+    "textJp": [
+      "「お待ちください、今代わりますね。……お魎さん、役所の自治係の人から電話が入ってますけど。」"
+    ],
+    "textEn": [
+      "\"Please hold on a moment, I'll get her... Oryou-san, someone from the municipal government is calling...\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「……あぁん、もしもし。」"
+    ],
+    "textEn": [
+      "\"...Aah, hello?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「どうも園崎顧問、こんにちは。自治の相田でございます。",
+      "先日はおはぎをどうもご馳走さまでした。」"
+    ],
+    "textEn": [
+      "\"Hello, Sonozaki-san. This is Aida from the municipal government.",
+      "Thank you very much for the ohagi the other day.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「いいんねいいんね。こちらこそ文化祭りの時は世話んなったんね。",
+      "野点傘の件、ありがとよぅ。",
+      "あれ、一本いくらくらいすんかんね。",
+      "すったら毎年使うもんなんだから自治で一本、買っといてくらんとよ。」"
+    ],
+    "textEn": [
+      "\"You're quite welcome. Thank you for your work at the culture festival.",
+      "Also for providing that large parasol.",
+      "How much does that thing cost?",
+      "We use it every year, so we might as well buy one ourselves.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「あれはですね、一応、先生からの借り物になっておりまして。一応、値段を調べたんですが、国産だと２０万くらいするらしいんですよ。",
+      "中国製によく似たものがありまして、こっちなら８万円くらいで何とか買えそうでして…。」"
+    ],
+    "textEn": [
+      "\"We borrowed that one from a teacher. I checked out the price, but the domestically-made ones cost about 200,000 yen.",
+      "I also found one made in China, and it's less than half the price...\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「別に中国製でもどこ製でも構わんぎゃあ、お呼びする先生に失礼んならんとよ、よぅ選んどくれぇな。」"
+    ],
+    "textEn": [
+      "\"I don't care if it's made in China or not. Just get one so we don't have to cause any more trouble for the teachers.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「一応ですね、今、その８万の傘の方を取り寄せさせていただいております。届きましたら、顧問にも一度見ていただきまして、それで判断ということではいかがでしょうか…。」"
+    ],
+    "textEn": [
+      "\"We're actually ordering it already. Once it arrives, you might want to take a look at it and make a final decision...\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「それから、もう３年、江戸千家が続いとるんね、先生がたまには他の先生もお呼びしないとバランスがようないっちゅうんしゃあ。",
+      "表でも裏でもいいから他の先生をちょいと自治の方で来年までに探してもらってもいいかんね。」"
+    ],
+    "textEn": [
+      "\"Also, we've been holding the same Edo-style tea ceremony for the past three years. We should probably get an instructor from a different style.",
+      "Can you look for a new instructor for next year?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「は、はぁ……そうですか…。わ…わかりました！",
+      "ちょっとこちらでもお茶の先生を探してみます。",
+      "…それでですね顧問。",
+      "実は今日はちょぉっとご相談がございまして。」"
+    ],
+    "textEn": [
+      "\"O-Oh... I see... W-Will do, ma'am!",
+      "We'll find a different tea ceremony instructor.",
+      "...About that, Advisor.",
+      "I had something else to ask you about.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「こっちの傘の話ばっかりですまんね。で、何の話なんしゃあ。」"
+    ],
+    "textEn": [
+      "\"And here's me going on about a parasol. So, what do you need?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「実はですね、雛見沢にお住まいの北条沙都子さんの件で顧問のお耳に入っておりますかどうかと思いましてお電話させていただいたんです。」"
+    ],
+    "textEn": [
+      "\"We were wondering if you've heard anything about the case of Satoko Houjou-san in Hinamizawa.\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「……北条沙都子ぉ？　あぁん！",
+      "バチ当たり北条のとこの娘かぁ。",
+      "何かしよりましたんかいね。」"
+    ],
+    "textEn": [
+      "\"...Satoko Houjou? Haaah?",
+      "You're talking about that blasted Houjou girl?",
+      "What did she do?\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「いえ、実はですね。最近、叔父さんと同居を始めたとかでですね、",
+      "その叔父さんから虐待を受けているとか、そんな話は顧問のお耳には入っておりますでしょうか。」"
+    ],
+    "textEn": [
+      "\"Well... She's recently moved in with her uncle,",
+      "but she's being abused, apparently... have you heard anything about it?\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「叔父？　沙都子がぁ？",
+      "私ゃあそんな話は知らんがね！」"
+    ],
+    "textEn": [
+      "\"Her uncle? Satoko's being abused?",
+      "I've never heard of anything like that!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「いえいえいえ、知らなければ結構なんです。実はですね、そういった旨の陳情が児童相談所に入ったらしいです。",
+      "相談所が言うにはだいぶ強い口調で来られていると、そういう話らしいんです。"
+    ],
+    "textEn": [
+      "\"Oh, well, if you don't know, that's okay. To tell you the truth, someone from Hinamizawa came to petition to the child consultation center.",
+      "According to the center, that petitioner was very persistent."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "それでですね、相談所の係長から、お魎さんのお耳に入ってる話なら取り扱いを急いだほうがいいんじゃないかという話が来まして、」"
+    ],
+    "textEn": [
+      "The manager felt that it was better to talk with you, if you already knew about it...\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「私ゃあ何も知らんし、全然わからん！　なぁんでわしが北条のバチ当たり娘何ぞに骨を折らんしゃああかんがね！！",
+      "園崎家は全然知りませんし関係も何もありゃんせんね！！」"
+    ],
+    "textEn": [
+      "\"I don't know anything, and I don't care! Why would I do anything for that pitiful child?!",
+      "The Sonozaki family has nothing to do with this!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「では……連町の方からそういう話が出てるとか、そういう話はお耳には…、」"
+    ],
+    "textEn": [
+      "\"Have you heard anything about it from the town council...?\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「知らん知らん！！！　何の話しゃあね！！",
+      "公由んところが北条のバチ当たり娘になんぞ肩入れしたらんきゃあ、すったらんなぁんて園崎には話が入らんね、どういうこっちゃあ！！",
+      "誰じゃあね、その相談所に陳情したったちゅうんわ！！」"
+    ],
+    "textEn": [
+      "\"No, no!! What are you saying?!",
+      "If Kimiyoshi was helping that blasted Houjou child, then the Sonozaki family would know about it!!",
+      "Who is petitioning the child consultation center?!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Aida",
+    "labelJp": "相田",
+    "textJp": [
+      "「クラスメートが何人かいらっしゃった…とまぁ、そういう感じなんですが。……ではこれはクラスの子たちが独自にやったことで、連町も顧問もご存じない、関係ない話という認識でもよろしいでしょうか？」"
+    ],
+    "textEn": [
+      "\"I heard some of her classmates were there... Well, as far as I know, anyway. ...I guess it's just something that her classmates are doing, and the village has nothing to do with it?\""
+    ]
+  },
+  {
+    "color": "#d7e6de",
+    "labelEn": "Oryou",
+    "labelJp": "お魎",
+    "textJp": [
+      "「そんに決まっとんしゃあ、なぁん勝手な真似をしさらしとん！！　知らん知らん！！",
+      "村は沙都子とは何の関係もなあね！！」"
+    ],
+    "textEn": [
+      "\"Of course not!! I don't know anything!!",
+      "The village has nothing to do with Satoko!!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "その内容は自治係から児童相談所に伝えられた。",
+      "……つまり、裏にお魎がいないということは、この陳情は特別扱いする必要はないということだ。",
+      "相談所の係長は、もし仮に明日も来ても話だけ聞いて、",
+      "決して安易な口約束をしないようにと窓口の職員に釘を刺すのだった。",
+      "「前原圭一くんか。",
+      "こういう子が将来、行政専門のクレーマーになるんだろうなぁ！」"
+    ],
+    "textEn": [
+      "The contents of this conversation were forwarded to the child consultation center.",
+      "If Oryou wasn't behind the commotion, then they had no need to take the case seriously.",
+      "The manager told his staff to listen to what the petitioners have to say,",
+      "but to never say anything promising the girl's safety.",
+      "\"Keiichi Maebara-kun, huh?",
+      "I guess a boy like that will grow up to be a political advocate in the future!\""
+    ]
+  }
+]

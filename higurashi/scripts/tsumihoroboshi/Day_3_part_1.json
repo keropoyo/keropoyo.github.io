@@ -1,0 +1,372 @@
+[
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Waitress",
+    "labelJp": "ウェイトレス",
+    "textJp": [
+      "「いらっしゃいませー、エンジェルモートへようこそ。",
+      "本日はイベントデーになりますが、チケットはお持ちですか？」"
+    ],
+    "textEn": [
+      "\"Welcome to Angel Mort.",
+      "Today we're holding a special event. Do you have a ticket?\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「えっと、チケットはないですけど、名乗ればいいと言われてます。",
+      "竜宮レナと前原圭一です。」"
+    ],
+    "textEn": [
+      "\"Umm, we don't have a ticket, but we were told to give our names.",
+      "We're Rena Ryuugu and Keiichi Maebara.\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Waitress",
+    "labelJp": "ウェイトレス",
+    "textJp": [
+      "「只今、リストを確認しております。",
+      "少々お待ち下さい。」"
+    ],
+    "textEn": [
+      "\"Let me check on our list.",
+      "Please wait for a moment.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "この店のコアなファンはまともじゃない連中が多そうだからな。",
+      "嘘や偽造チケットなんかいくらでもあるんだろうなぁ。",
+      "さっきの表での殺気だった連中を思えば、何となく納得の対応だった。"
+    ],
+    "textEn": [
+      "Seems like many fans of this restaurant aren't normal people.",
+      "I bet they'd try to get in with lies or fake tickets.",
+      "No wonder this waitress makes sure to check the list."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「いやしかし、…恐ろしい連中だった。",
+      "あんなのがひしめいていたら、健全な客は店内までたどり着けないぞ。」"
+    ],
+    "textEn": [
+      "\"Anyway... those people were just too freaky back there.",
+      "There's no way that normal people could get through them without a struggle.\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あははははは、そうかもだね。"
+    ],
+    "textEn": [
+      "\"Ahahahahaha, you might be right."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "でも、レナの行く手を阻むことは誰にもできないんだよ〜〜、はぅ〜☆」"
+    ],
+    "textEn": [
+      "But nobody can stop me! Hauuuuu☆!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「それはそうと、相変わらずのキレだったな…。",
+      "あれは肘か？ 膝か？",
+      "顔面の急所を正確にブチ抜くとは、…恐ろしいヤツ。」"
+    ],
+    "textEn": [
+      "\"You sure did them in...",
+      "Did you use your elbows or knees?",
+      "You hit them right in the middle of their faces... You're a scary person.\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナに殺到する有象無象どもを、あの知覚不能の超高速ジャブで次々となぎ倒していくさまは、圧巻の一言だった…。",
+      "思い出すだけでも恐ろしい。"
+    ],
+    "textEn": [
+      "The way Rena swept them off their feet with super-fast invisible jabs was incredible...",
+      "It even gave me a chill just thinking about it."
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「だってだって、レナのお持ち帰りを邪魔するんだもん〜☆",
+      "きっとみんなかぁいいよぉ、みぃんなお持ち帰りぃ〜！！」"
+    ],
+    "textEn": [
+      "\"That's because they tried to sabotage my chance to take my girls home with me☆.",
+      "They must look so kyute today! I'm taking all of them home with me!!\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「…かぁいいモードのレナが相手じゃなぁ。",
+      "まぁ連中もあれだけ派手にブチのめされれば、敗北を受け入れられるだろう。」"
+    ],
+    "textEn": [
+      "\"...When you're in Kyute Mode, nobody stands a chance.",
+      "I sure hope they admitted their loss after getting beaten up that badly...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「圭一くんだってすごかったよ？",
+      "大勢に囲まれて飲み込まれたと思ったら、急にシンとなって、そのあとみんな、涙を流しながら道を開けてた。",
+      "なんでかな、かな？」"
+    ],
+    "textEn": [
+      "\"You did great too, Keiichi-kun.",
+      "At first, I thought you'd be engulfed by them, but then they became all quiet and let you through with tears in their eyes.",
+      "What did you do to them, to them?\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「……いや別に…。",
+      "落選したお前たちの代わりにこの俺が入店してやる、お前たちの分まで俺が見届けてきてやる、"
+    ],
+    "textEn": [
+      "\"...Nothing really...",
+      "I just told them that I'd get into the restaurant and make sure to see everything they wanted to see."
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "だから同士諸君、今は涙を流しても次の抽選の勝者になれ、",
+      "とまぁ、その辺りのことを少々語ったら、みんな理解してくれたようで…。」"
+    ],
+    "textEn": [
+      "And I told them, 'You might have to shed tears now, but I believe you can get a ticket next time.'",
+      "That's all I said, but they seemed to understand me...\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「…圭一くんって、アジテーション得意だよね。",
+      "聞いている人を共感させる能力というか。",
+      "うんうん、我が部の口先の魔術師って感じ。」"
+    ],
+    "textEn": [
+      "\"...You're so good at that sort of thing.",
+      "You know, making people listen to you.",
+      "Yeah, you sure are our club's Magician of Words.\""
+    ]
+  },
+  {
+    "color": "#956f6e",
+    "labelEn": "Keiichi",
+    "labelJp": "圭一",
+    "textJp": [
+      "「その口先の魔術師って、もう決定なのかよー？！",
+      "他の通り名はないのかよぅ！」"
+    ],
+    "textEn": [
+      "\"They're all calling me that now.",
+      "Can't you please come up with a better name?!\""
+    ]
+  },
+  {
+    "color": "#f0953d",
+    "labelEn": "Rena",
+    "labelJp": "レナ",
+    "textJp": [
+      "「あはははは！",
+      "どうだろうね、考えてみるね！」"
+    ],
+    "textEn": [
+      "\"Ahahahahaha!",
+      "I'll think about it!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "レナはからからと笑ってはぐらかすのだった。"
+    ],
+    "textEn": [
+      "Rena laughs loudly."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Waitress",
+    "labelJp": "ウェイトレス",
+    "textJp": [
+      "「大変お待たせしました。",
+      "リストにお名前を確認しました。",
+      "お席へご案内します。",
+      "どうぞこちらへ！」"
+    ],
+    "textEn": [
+      "\"Thank you so much for waiting.",
+      "I confirmed your names in the list.",
+      "I'll take you to your table.",
+      "Please follow me!\""
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "相変わらずの、ドキドキものの衣装に身を包んだウェイトレスさんが俺たちを席まで案内してくれた。",
+      "店内は今日は超満員だ。",
+      "これだけ賑わっていると、何だかそれはそれですごい。",
+      "しかもその客はみんな、表に群がっていた、極めて偏った特殊な感性の客人ばかりと見える。",
+      "店内は異様な熱気が渦巻き、しかもほのかに汗臭い。",
+      "しかも、店外でされていたような、意味のわかりにくい特殊な単語がてんこ盛りの怪しげな会話だけが飛び交っていた。"
+    ],
+    "textEn": [
+      "The waitress led us to our seats.",
+      "The restaurant was completely packed today.",
+      "It made for a cheerful but sort of crazy atmosphere.",
+      "All the customers in the restaurant were very unique people, just like the ones loitering around outside.",
+      "There was an aura of excitement in the store, and it also smelled a bit sweaty.",
+      "They were also talking excitedly using special terms that I don't understand, again just like the people outside."
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「やはりエンジェルモートは",
+      "制服命ザンスねぇ〜！！」"
+    ],
+    "textEn": [
+      "\"Angel Mort is",
+      "all about the uniform!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「食は舌で味わうものでござるが、",
+      "エンジェルモートは目で味わうのでござるよ〜！！",
+      "今日はたゆん",
+      "たゆん",
+      "のウェイトレスさんはいないでござるか〜！！」"
+    ],
+    "textEn": [
+      "\"You taste food with your tongue,",
+      "but in Angel Mort, you can taste it with your eyes, too!!",
+      "Where's the waitress with the big",
+      "heavy",
+      "pair of melons? I don't see her today!!\""
+    ]
+  },
+  {
+    "color": "#f5e6d3",
+    "labelEn": "Man",
+    "labelJp": "男",
+    "textJp": [
+      "「むほほほほ！",
+      "女の子のローテのチェックは基本ですよお！！",
+      "巨乳好きなら",
+      "火、",
+      "木",
+      "の",
+      "１７時以降は絶対押さえたいですねえぇえ！"
+    ],
+    "textEn": [
+      "\"Muohoho!",
+      "You need to check the shift roster!!",
+      "If you like girls with big tits,",
+      "you have to come on Tuesdays and",
+      "Thursdays",
+      "after",
+      "5 PM!"
+    ]
+  },
+  {
+    "color": "#ffffff",
+    "labelEn": "Narrator",
+    "labelJp": "",
+    "textJp": [
+      "逆属性の方は金曜１７時以降が勝負！！」",
+      "……あぁ、とんでもない日に来たなぁと思った。",
+      "と、同時に。",
+      "あぁ、昨日の部活に負けなくてよかったと思った。",
+      "他のメンバーはまだいい。",
+      "だが男の俺がこの状況下で罰ゲームを被った日には……、怒り狂った濃い口のお客に袋叩きにされるだろう。",
+      "説明が遅れたが、ちなみに今日は別に、レナと食事に来たわけではない。",
+      "罰ゲーム者はランダムな方法で決められた衣装着用の上、エンジェルモートのイベントデーを、ウェイトレスとしてお手伝いをする、というものなのだ。",
+      "勝者は敗者の給仕を受けながら、まったりとデザートに舌鼓を打てる…とそういうことになっていたのである。",
+      "この罰ゲームが告示されたとき、",
+      "内心、俺は…あぁどうせ俺がやらされるんだろうなと諦めていた。",
+      "このところ振るわず、罰ゲーム常連だったからなおさらだ。",
+      "それはレナも同じだったろう。",
+      "それが発奮して、俺とレナの大勝利なんて、誰に予想できただろう？",
+      "すげえよ前原圭一、",
+      "よくやった感動した！！"
+    ],
+    "textEn": [
+      "If you like girls with small tits, you have to come on Fridays after 5 PM!!\"",
+      "...I regret coming here today.",
+      "And at the same time,",
+      "I was really glad that I didn't lose the game yesterday.",
+      "This punishment might be a bit easier for the girls.",
+      "But, as a guy, if I had to undergo this punishment today... I would've been kicked and punched by these crazy customers, because they would've been burning with anger.",
+      "Let me explain. I didn't come here just to eat lunch with Rena today.",
+      "The punishment is as follows: The losers have to wear a costume that was randomly chosen and help with the event at Angel Mort... as a waitress.",
+      "The winners can enjoy eating desserts, receiving service from the losers.",
+      "When this punishment was announced,",
+      "I'd actually prepared myself for the punishment because I thought I'd lose the game like always.",
+      "I was losing a lot recently, so I didn't think I could win.",
+      "I assume Rena felt the same way.",
+      "Who could imagine Rena and I would do so well as to win?",
+      "You're great, Keiichi Maebara.",
+      "You made me proud!!"
+    ]
+  }
+]
